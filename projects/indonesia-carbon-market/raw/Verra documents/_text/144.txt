@@ -1,0 +1,4624 @@
+
+
+VCS Project Description   
+ 1 
+ 
+ 
+ 
+Voluntary Carbon Standard  
+Project Description   
+ 
+ 
+Date of VCS PD: 10 July 2009 
+Version: 7 
+ 
+ 
+ 
+Table of Contents 
+ 
+ 
+1 Description of Project:............................2 
+2 VCS Methodology:..................................11 
+3 Monitoring:.......................................19 
+4 GHG Emission Reductions:..........................33 
+5 Environmental Impact:.............................49 
+6 Stakeholders comments:............................50 
+7 Schedule:.........................................51 
+8 Ownership:........................................51 
+9 Annex:............................................52 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+VCS Project Description   
+ 2 
+1 Description of Project:  
+ 
+1.1 Project title  
+Capacity Upgrade of Gunung Salak Geothermal Power Plant Project, Indonesia 
+Date: July 10, 2009 
+Version: 7 
+ 
+1.2 Type/Category of the project  
+The  project  activity  is  comprised  of  a  capacity  upgrade  of  Gunung  Salak 
+Geothermal  Power  Plant  from  3  x  55  MW  to  3  x  60  MW.  The  additional  installed 
+capacity of 15 MW at Gunung Salak Geothermal power plant generates and supplies 
+an average of 213,959 MWh p.a. of electricity to the connected JAMALI Grid. The 
+project is owned and developed by PT. Indonesia Power, a subsidiary company of 
+PT. PLN (Persero), a state-owned electricity company. The proposed project will 
+increase  the  utilization  of  renewable  energy  sources,  in  this  case  geothermal 
+energy, by modifying turbines and steam gas ejectors. Steam for the project is 
+provided  by  Chevron  Geothermal  Indonesia  under  an  Energy  Sales  Contract  (ESC) 
+between  PT.  PLN  (Persero)  Pertamina,  a  state-owned  oil  and  gas  company,  and 
+Unocal Geothermal of Indonesia (Though today, Gunung Salak geothermal fields are 
+owned by Chevron Geothermal Indonesia Ltd.). 
+ 
+According to the CDM UNFCCC criteria, one approved GHG program by the VCS Board, 
+the  project  is classified  as  large  scale  and,  based  on  Annex  A  of  the  Kyoto 
+Protocol,  falls  under  Sectoral  Category  1,  Energy  Industries  (renewable/non 
+renewable).  
+ 
+According to the Voluntary Carbon Standard, the project activity falls under the 
+category of renewable energy (wind, PV, solar thermal, biomass, liquid bio-fuels, 
+geothermal, and run-of-river hydro). 
+ 
+1.3 Estimated  amount  of  emission  reductions  over  the  crediting 
+period including project size: 
+The  project  activity  is  comprised  of  a  capacity  upgrade  of  Gunung  Salak 
+geothermal  power  plant  from  3  x  55  MW  to  3  x  60  MW.  The  additional  capacity 
+upgrade of 3 x 5 MW generates 213,959 MWh annually to be exported to the JAMALI 
+grid that would have been otherwise generated from fossil-fuel power plants. The 
+3 x 5 MW installed capacity generates an average of 112,522 emission reduction 
+credits per year.  
+ 
+Based  on  VCS  Program  Guidelines  2007.1,  there  are  three  project  groups  as 
+follow:  
+• Micro projects: under 5,000 tCO
+2
+-e per year 
+• Projects: 5,000 – 1,000,000 tCO
+2
+-e per year 
+• Mega projects: greater than 1,000,000 tCO
+2
+-e per year 
+ 
+The  proposed  project  activity  meets  the  requirement  of  the  Projects,  which 
+generates emission reduction credits between 5,000 – 1,000,000 tCO
+2
+-e per year. 
+ 
+Emission  reduction  estimates  over  a  crediting  period  of  10  (ten)  years  from  1 
+April 2006 until 31 March 2016 is provided in the table below: 
+ 
+Calendar year Vintage year Annual Agreed Volume* 
+2006 1 April 2006 - 31 March 2007 73,853 
+2007 1 April 2007 – 31 March 2008 105,427 
+2008 1 April 2008 – 31 March 2009 118,243 
+2009 1 April 2009 – 31 March 2010 118,243 
+2010 1 April 2010 – 31 March 2011 118,243 
+2011 1 April 2011 – 31 March 2012 118,243 
+2012 1 April 2012 – 31 March 2013 118,243 
+2013 1 April 2013 – 31 March 2014 118,243 
+2014 1 April 2014 – 31 March 2015 118,243 
+
+VCS Project Description   
+ 3 
+2015 1 April 2015 – 31 March 2016 118,243 
+Total estimated reductions (tCO
+2
+e) 1,125,224 
+Total number of crediting years 10 years 
+Annual average of the estimated reductions over 
+the crediting period (tCO
+2
+e) 
+112,522 
+*The  ER  calculation  is  based  on  historical  and  actual  data  recorded  by  PT.  Indonesia 
+Power. 
+ 
+1.4 A brief description of the project: 
+  
+Indonesia,  which  is  situated  in  the  “Ring  of  Fire”,  has  great  potential  for 
+geothermal  energy  resources  that  are  not  yet  fully  exploited.  Until  January 
+2000, from a total geothermal energy reserve of 9,100 MWe
+1
+, only 769.5 Mwe
+2
+ are 
+cumulatively installed in Sumatra, Java-Bali, Sulawesi, and other islands, which 
+accounted for 3.9%
+3
+ of the total energy mix. This small proportion of the total 
+energy mix is due to slow development progress in geothermal energy utilization 
+due to the high capital investment required and a high level of risk involved in 
+the project. These factors are the two main concerns for geothermal power plant 
+owners  seeking  to  improve  their  power  plants’  efficiency  in  order  to  utilize 
+more geothermal energy resources in the country.   
+ 
+The  Gunung  Salak  Geothermal  Power  Plant,  located  in  West  Java,  Indonesia,  is 
+owned and operated by PT. Indonesia Power as a subsidiary of PT. PLN (Persero), 
+the  Indonesian  state-owned  electricity  company.  The  power  plant consists  of  3 
+power  station  units,  which  are  unit  1,  unit  2,  and  unit  3.  Following  are  the 
+three units’ commissioning date: 
+Unit 1: 12 March 1994 
+Unit 2: 12 June 1994 
+Unit 3: 16 July 1997 
+  
+As  of  1998,  the  power  plant  had  three  power  station  units  (unit  1,  2,  and  3) 
+with  designed  capacity  of  55  MW  each.  A  study
+4
+ conducted  by  the  Technology 
+Provider  revealed  that  installed  capacity  in  these  initial  units  could  be 
+increased to 3 x 60 MW by turbine modification for all units and ejector line 
+replacement for unit 3.  
+ 
+Turbine  modification
+5
+ means  to  modify  first  and  second  stage  diaphragms  by 
+increasing nozzle size from α1 to α2 to allow steam turbine efficiency as shown 
+in  Graph  1.  An  increase  in α  and β  will  increase  blade  velocity  (u)  that  is 
+proportional  to  turbine  power  performance,  which  means  achieving  higher  “flow 
+capability”  of  the  steam  turbine  and  optimising  steam  efficiency.  In  the  end, 
+the capacity output will also increase.   
+  
+Graph 1. Nozzle increase in the diaphragms 
+ 
+ 
+ 
+                                                
+1
+ Sudarman, et. al.; Geothermal Development Progress in Indonesia: Country update 
+1995-2000; Kyushu-Tohoku, Japan: Proceedings World Geothermal Congress 2000; May 
+28-June 10, 2000, p. 2. 
+2
+ Sudarman, et. al.; (2000), p. 4. 
+3
+ Sudarman, et. al.; (2000), p. 4. 
+4 Minutes of Meeting, Program Up-Rating PLTP, PT. Indonesia Power, date: 27 
+November 2001 
+5
+ Contract for Off Shore Materials Supply for Power Up-Rating of Unit 1, 2, and 3 
+between PT. Indonesia Power and Ansaldo Energia SpA, dated on 22 July 2002, 
+Appendix 1. 
+ 
+
+VCS Project Description   
+ 4 
+ 
+Source: PT. Indonesia Power 
+ 
+Ejector line replacement means to replace a smaller line of ejectors with a new 
+design to increase the flow rate of Non-Condensable Gases (NCG) which is caused 
+by an increase of steam flow due the project activity.  
+ 
+The  project  is  comprised  of  upgrading  these  three  power  station  units  to 
+increase the power plant total installed capacity to 3 x 60 MW.  
+ 
+The  key  purpose  of  the  project  is  to  increase  utilization  of  geothermal 
+resources in  the  mountainous  areas  surrounding  Gunung  Salak  to  generate  zero 
+emission  electricity  to  be  transmitted  to  the  Jawa-Madura-Bali  (JAMALI)  grid 
+(hereafter  referred  to  as  the  Grid)  through  the  Bogor  Baru  PLN  main  station, 
+with 150 kV transmission line.  
+ 
+The Gunung Salak Geothermal field is owned by Chevron Geothermal Indonesia Ltd. 
+and  consists  of  2  main  areas,  Awi  Bengkok-Ratu  and  Nirmala  area,  and  supplies 
+steam  from  its  AWI-7,  AWI-8,  AWI-9,  and  AWI-11  wells  to  the  Gunung  Salak 
+Geothermal  power  plants  under  a  Steam  Sales  Contract/SSC  (Chevron  Geothermal 
+Indonesia  is  obliged  to  provide  these  power  plants  with  the  required  steam  to 
+generate electricity). 
+ 
+The project is contributing to sustainable development defined by the Government 
+of Indonesia specifically as follows: 
+ 
+Social well-being: 
+• The  project  contributes  to  the  development  of  the  region  by  increasing 
+community  development  and  corporate  social  responsibility  of  PT.  Indonesia 
+Power. 
+• During  the  capacity  upgrade  and  operation,  there  are  various  kinds  of 
+mechanical work, which generates employment on regular and permanent basis. 
+ 
+Economic well-being: 
+• The project activity generates employment in the local area. 
+• The  project  activity  is  a  good  investment  in  a  developing  region,  which 
+otherwise would not have happened in the absence of project activity. 
+• The generated electricity is fed into regional grids through the local grid, 
+thereby  improving  the  grid  frequency  and  availability  of  electricity  to  the 
+local consumers (villagers and sub-urban inhabitants), which will provide new 
+opportunities for industries and economic activities to be setup in the area 
+thereby resulting in greater local employment, ultimately leading to overall 
+development. 
+
+VCS Project Description   
+ 5 
+• The  project  activity  also  leads  to  diversification  of  the  national energy 
+supply, which is dominated by conventional fuel based generating units. 
+• The  project  activity  contributes  to  the  economic  sustainability  around  the 
+plant sites, which is encouraging economic power decentralization. 
+ 
+Environmental well-being: 
+• The  project  utilizes  geothermal  power  to  generate  electricity,  which 
+otherwise  would  have  been  generated  through  alternate  fuel-  (most  likely 
+fossil  fuel-)  based  power  plants,  contributing  to  a  reduction  in  specific 
+emissions  (emissions  of  pollutant/unit  of  energy  generated)  including  GHG 
+emissions. 
+• As  geothermal  power  projects  produce  no  end  products  in  the  form  of  solid 
+waste  (ash,  etc.),  they  address  the  problem  of  solid  waste  disposal 
+encountered by most other sources of power. 
+• Being  a  renewable  energy  source, geothermal  energy  is  used  to  generate 
+electricity that contributes to resource conservation. 
+• Thus,  the  project  causes  no  negative  impact  on  the  surrounding  environment; 
+and in the end contributes to environmental well-being. 
+ 
+Technological well-being: 
+• The project  supports  technology  transfer  from  other  regions  or  even  other 
+countries,  as  well  as  contributes  to  capacity  building  of  the  labour  force 
+through trainings and practical works. 
+• The project promotes local products developed in the region, when replacement 
+of  spare  parts  is  necessary,  and  supports  renewable  technology  development 
+especially for geothermal power technology.  
+ 
+In  view  of  the  above  explanation,  the  project  participants  consider  that  the 
+project activity profoundly contributes to sustainable development. 
+ 
+1.5 Project   location   including   geographic   and   physical 
+information   allowing   the   unique   identification   and 
+delineation of the specific extent of the project: 
+ 
+The project site is located in Awibengkok-Ratu area of Gunung Salak Geothermal 
+field surrounded by Halimun Salak national park, which is administratively part 
+of  Bogor  District  and  Sukabumi  District,  West  Java  Province,  Indonesia.  The 
+project is located 988 m above sea level, approximately 82 km from Bogor and 58 
+km from Sukabumi. The exact location is 06
+0
+ 44’ 26” S, 106
+0
+ 38’ 28” E.  
+ 
+ 
+
+VCS Project Description   
+ 6 
+ 
+ Source: Google Earth 
+ 
+1.6 Duration of the project activity/crediting period: 
+ 
+The project start date, when the power plant started to operate normally after 
+the capacity upgrade performance test conducted by the technology provider and 
+at the same time the project started to reduce GHG emissions:  
+Unit 1: 21 June 2005 
+Unit 2: 4 April 2005 
+Unit 3: 29 September 2004 
+Thus, the project start date is 29 September 2004, as the earliest project start 
+date of three units at Gunung Salak Geothermal Power Plant. 
+ 
+Crediting period start date: 1 April 2006. 
+ 
+Crediting period: 10 years from 1 April 2006 until 31 March 2016. 
+ 
+1.7 Conditions prior to project initiation: 
+ 
+The  existing  power  plant  was  originally  designed  for  an  installed  capacity  of 
+165 MW (or 3 x 55 MW), and in the baseline scenario would continue to provide 
+electricity to the JAMALI grid at 1,205,161 MWh/year.  
+ 
+1.8 A description of how the project will achieve GHG emission 
+reductions and/or removal enhancements: 
+ 
+By  increasing  the  power  plant  installed  capacity,  the  project  will  utilize 
+additional   geothermal   energy   sources   for   generating   electricity.  The 
+electricity  generated  will  be  exported  to  the  JAMALI  grid,  displacing 
+electricity from primarily fossil-fuel based power plants that supply the grid. 
+ 
+1.9 Project  technologies,  products,  services  and  the  expected 
+level of activity:  
+ 
+
+VCS Project Description   
+ 7 
+The following modification
+6
+ has been undertaken to increase the steam flow, thus 
+increasing the installed capacity of the power plant from 3 x 55 MW to 3 x 60 
+MW: 
+• Turbine modification, which means to modify first and second stage diaphragms 
+by increasing nozzle size from α1 to α2 to allow steam turbine efficiency as 
+shown in Graph 1. 
+• Ejector line replacement, which means to replace a smaller line of ejectors 
+with  a  new  design  to  increase  the  flow  rate  of  Non-Condensable  Gases  (NCG) 
+that is caused by an increase in steam flow due the project activity  
+ 
+The  project  does  not  modify  and/or  replace  the  whole  power  stations  but  only 
+parts of their equipment. 
+ 
+In the end, the project does not really change the established technology, which 
+consists of a steam turbine, electrical generators, a gas extraction system, a 
+150KV switchyard system, and a utility system. The project is using the same hot 
+water-dominated steam characteristic from Gunung Salak Geothermal field, with a 
+condensate re-injection well-system to maintain groundwater supply. However, the 
+project  utilizes  a  higher  steam  flow  due  to  a  capacity  increase  by  modifying 
+steam turbines. 
+ 
+The following are the main technical parameters before and after the project:  
+ 
+Value Variable 
+Before   the 
+project 
+After      the 
+project 
+Source 
+Installed 
+capacity        of 
+electrical 
+generator (kVA) 
+Unit  1:68750 
+kVA 
+Unit  2:68750 
+kVA 
+Unit  3:68750 
+kVA 
+Unit   1:68750 
+kVA 
+Unit   2:68750 
+kVA 
+Unit   3:68750 
+kVA 
+Report of up rating unit 
+3,     Laporan     Major 
+inspection unit 2, Poran 
+Simple inspection and up 
+rating unit 1 
+Power factor 0.8 0.8 Report of up rating unit 
+3,     Laporan     Major 
+inspection unit 2, Poran 
+Simple inspection and up 
+rating unit 1 
+Steam      turbine 
+capacity (MW) 
+3 x 55 MW 3 x 60 MW Report of up rating unit 
+3,     Laporan     Major 
+inspection unit 2, Poran 
+Simple inspection and up 
+rating unit 1 
+PPA   Unit   Rated 
+Capacity/URC (MW) 
+3 x 55 MW 3 x 60 MW Energy   Sales   Contract 
+Amendment 
+Agreement(called     ESC 
+hereafter) 
+Operating     time 
+yearly (hours) 
+7884 
+(8760 x 90%) 
+7884 
+(8760 x 90%) 
+Energy   Sales   Contract 
+Amendment Agreement
+7
+ 
+Annual       power 
+generation/effect
+ive supply to the 
+grid (MWh) 
+Unit       1: 
+411,363 MWh 
+Unit       2: 
+399,102 MWh 
+Unit         3: 
+394,696 MWh 
+Total: 
+1,205,161 MWh* 
+Unit        1: 
+473,040 MWh  
+Unit        2: 
+473,040 MWh 
+Unit        3: 
+473,040 MWh 
+Total: 
+1,419,120** 
+MWh 
+*Based on historical and 
+actual  data  recorded  by 
+PT. Indonesia Power 
+**Expected  annual  power 
+generation   after   the 
+capacity  upgrade  (with 
+90%      load      factor 
+assumption) 
+ 
+ 
+ 
+                                                
+6 
+Contract for Off Shore Materials Supply for Power Up-Rating of Unit 1, 2, and 3 
+between PT. Indonesia Power and Ansaldo Energia SpA, dated on 22 July 2002. 
+7
+ However, based on historical data and information, the Gunung Salak Geothermal 
+Power Plant could possibly generate electricity with 95% load factor, which is 
+higher than the assumption used in the VCS PD ex-ante calculation. 
+
+VCS Project Description   
+ 8 
+ 
+ 
+Source: PT. Indonesia Power  
+ 
+1.10 Compliance with relevant local laws and regulations related 
+to the project: 
+ 
+The project meets all local laws and regulations of the Government of Indonesia. 
+The  project  activity,  in  using  geothermal  power  to  generate  electricity,  is  a 
+voluntary action that has never been obliged by the Government of Indonesia.  
+ 
+The  project  has  a  construction  permit,  Power  Purchase  Agreement,  Steam  Sales 
+Contract, and Environmental Impact Assessment. 
+  
+1.11 Identification  of  risks  that  may  substantially  affect  the 
+project’s GHG emission reductions or removal enhancements: 
+ 
+The project owner completed the capacity upgrade activity in 2005. Since then, 
+the upgraded power plant has not performed as expected due to some problematic 
+occurrences in the power plant, especially in Gunung Salak unit 3, which was the 
+first  unit  to  be  upgraded.  Based  on  observation,  the  project  owner  found  that 
+after  project  implementation  Gunung  Salak  unit  3  is  still  not  operating  at  60 
+MW.  There  is  also a  temperature  increase  in  the  power  plant  transformers.  The 
+increase is very obvious in Gunung Salak unit 2 and 3 as it almost reaches the 
+temperature safety alarm. Financing from VCU revenue will help to mitigate these 
+risks by providing funding to address the problem.  
+ 
+The project owner has secured steam availability for 185 MW installed capacity 
+as stated in the ESC agreement between PT. PLN (Persero), Pertamina and Chevron 
+Geothermal Indonesia Ltd.
+8
+ that will cover the entire crediting period. 
+ 
+                                                
+8
+ Gunung Salak Amended and Restated Energy Sales Contract among PT. PLN (Persero) 
+and Pertamina and Unocal Geothermal of Indonesia, Ltd., p. 12 
+
+VCS Project Description   
+ 9 
+1.12 Demonstration to  confirm that  the  project  was  not 
+implemented  to  create  GHG  emissions  primarily  for  the 
+purpose of its subsequent removal or destruction.  
+ 
+Not Applicable 
+ 
+1.13 Demonstration  that  the  project  has  not  created  another 
+form  of  environmental  credit  (for  example  renewable  energy 
+certificates). 
+ 
+The project activity has not applied to any other form of environmental credits.  
+  
+1.14 Project rejected under other GHG programs (if applicable): 
+ 
+Not Applicable 
+ 
+1.15 Project  proponents roles  and  responsibilities,  including 
+contact information of the project proponent, other project 
+participants: 
+ 
+Name   of   the   party 
+involved         ((host) 
+indicates a host party) 
+Private   and/or   public 
+entity   (ies)   project 
+participants         (as 
+applicable) 
+Kindly  indicate  if  the 
+party  involved  to  be 
+considered   as   project 
+participant (Yes/No) 
+Indonesia (host) PT. Indonesia Power No 
+Switzerland South  Pole  Carbon  Asset 
+Management    Ltd.    (as 
+carbon credit buyer) 
+No 
+ 
+ Project proponents contact information as follows:  
+  
+ Project owner: 
+Organization: PT. Indonesia Power 
+Street/P.O.Box: Jl. Jenderal Gatot Subroto Kav. 18 
+Building:  
+City: Jakarta 
+State/Region:  
+Postfix/ZIP: 12950 
+Country: Indonesia 
+Telephone: +62-21-526 7666 
+FAX:  
+E-Mail:  
+URL: www.indonesiapower.co.id 
+Represented by: 
+Salutation: Mr. 
+Last Name: Artono 
+Middle Name:  
+First Name: Antonius 
+Mobile: +62-812 801 4537 
+Direct FAX: +62-21 525 2827 
+Direct tel: +62-21 526 7666 ext. 8036 
+Personal E-Mail: antonius.artono@indonesiapower.co.id 
+ 
+  
+  
+ Carbon credit buyer: 
+Organization: South Pole Carbon Asset Management Ltd. 
+Street/P.O.Box: Technoparkstrasse 1 
+Building:  
+City: Zurich 
+State/Region:  
+
+VCS Project Description   
+ 10 
+Postfix/ZIP: 8005 
+Country: Switzerland 
+Telephone: +41-44 633 7870 
+FAX: +41-44 633 1423 
+E-Mail: info@southpolecarbon.com 
+URL: www.southpolecarbon.com 
+Represented by: 
+Salutation: Mr.  
+Last Name: Heuberger 
+Middle Name:  
+First Name: Renat 
+Mobile: +41-79 549 3951 
+Direct FAX:  
+Direct tel:  
+Personal E-Mail: r.heuberger@southpolecarbon.com 
+ 
+ 
+ 
+1.16 Any information relevant for the eligibility of the project 
+and  quantification  of  emission  reductions  or  removal 
+enhancements,  including  legislative,  technical,  economic, 
+sectoral,  social,  environmental,  geographic,  site-specific 
+and temporal information.): 
+ 
+Not Applicable 
+ 
+1.17 List of commercially sensitive information (if applicable):  
+ 
+Not Applicable 
+
+VCS Project Description   
+ 11 
+ 
+ 
+2 VCS Methodology: 
+ 
+2.1 Title  and  reference  of  the  VCS  methodology  applied  to  the 
+project activity and explanation of methodology choices: 
+ 
+The  project  uses  the  VCS  board-approved  consolidated  baseline  and  monitoring 
+methodology  ACM0002  “Consolidated  baseline  methodology  for  grid-connected 
+electricity generation from renewable sources”, version 07, 30 November 2007. 
+ 
+2.2 Justification of the choice of the methodology and why it is 
+applicable to the project activity: 
+ 
+The approved methodology of ACM0002 (version 07) is chosen and applicable to the 
+proposed project due to the following reasons: 
+ 
+• The  project  activity  is  a  modification  of  a  geothermal  power  plant  that 
+involves electricity capacity addition from total capacity of 165 MW to 180 
+MW. 
+• The  project  is  a  renewable  electricity  generation  plant  from  geothermal 
+energy sources, which is connected to the JAMALI grid. 
+• The  project  activity  exports  its  electricity  to  the  clearly  identified 
+regional Jawa, Madura, and Bali interconnected power grid (JAMALI grid). The 
+value and characteristics of the grid are also publicly available. 
+• The proposed project is not an activity that involves fossil fuel switching 
+to renewable energy at the site of the project activity. 
+ 
+Based  on  the  stated  reasons  above,  the  applicability  criteria  of  the  approved 
+CDM methodology ACM0002 (version 07)”Consolidated baseline methodology for grid-
+connected electricity generation from renewable sources” are met. 
+  
+2.3 Identifying  GHG  sources,  sinks  and  reservoirs  for  the 
+baseline scenario and for the project:  
+ 
+The baseline includes the emissions related to the electricity produced by the 
+facilities and power plants displaced by the increased capacity of Gunung Salak 
+geothermal power plant, Indonesia. This involves emissions from displaced fossil 
+fuel use in power plants connected to the JAMALI grid (see table below).  
+ 
+Source Gas Included? Justification/Explanation 
+CO
+2
+ Included According to ACM0002 only CO
+2
+ 
+emissions   from   electricity 
+generation      should      be 
+accounted  for  (main  emission 
+source).  
+CH
+4
+ Excluded According  to  ACM0002  (minor 
+emission source). 
+Baseline
+ 
+CO
+2
+  emission  from 
+electricity 
+generation      in 
+fossil       fuel- 
+fired        power 
+plants  that  are 
+displaced  due  to 
+the        project 
+activity.  
+N
+2
+O Excluded According  to  ACM0002  (minor 
+emission source). 
+CO
+2
+ Included According   to   ACM0002:   CO
+2
+ 
+fugitive  emissions  from  non-
+condensable  gases  should  be 
+accounted  for  (main  emission 
+source). 
+Project Activity
+ 
+ 
+Fugitive 
+emissions  of  CH
+4
+ 
+and  CO
+2
+  from  non-
+condensable  gases 
+contained       in 
+geothermal steam. 
+CH
+4
+ Included According   to   ACM0002:   CH
+4
+ 
+fugitive  emissions  from  non-
+condensable  gases  should  be 
+accounted  for  (main  emission 
+source). 
+
+VCS Project Description   
+ 12 
+ N
+2
+O Excluded According  to  ACM0002  (minor 
+emission source). 
+CO
+2
+ Included According   to   ACM0002:   CO
+2
+ 
+emission  from  fossil  fuel 
+combustion      should      be 
+accounted  for  (main  emission 
+source). 
+CH
+4
+ Excluded According  to  ACM0002  (minor 
+emission source). 
+ 
+CO
+2
+ emissions from 
+combustion      of 
+fossil        fuel 
+required        to 
+operate        the 
+geothermal   power 
+plant. 
+N
+2
+O Excluded According  to  ACM0002  (minor 
+emission source). 
+ 
+ 
+2.4 Description  of  how  the  baseline  scenario  is  identified  and 
+description of the identified baseline scenario:  
+ 
+The  proposed  project  activity  is  only  motivated  by  the  availability  of  excess 
+steam on-site and the availability of a new technology allowing the upgrade of 
+the turbines. All other power production alternatives that use other renewable 
+or  fossil  fuel  sources  cannot  therefore  be  considered  as  relevant  or  credible 
+options. 
+ 
+The  Project  Proponents  have  only  the  choice  of  investing  or  not  in  a  capacity 
+upgrade.   
+ 
+Based on ACM0002 version 7, the project activity is the modification/retrofit of 
+an existing grid-connected renewable power plant/unit, the baseline scenario is 
+the following: 
+  
+In  the  absence  of  the  CDM  project  activity,  the  existing  facility  would 
+continue  to  provide  electricity  to  the  grid  (EG
+baseline
+,  in  MWh/year)  at 
+historical average levels (EG
+historical
+, in MWh/year), until the time at which 
+the  generation  facility  would  likely  to  be  replaced  or  retrofitted 
+(DATE
+BaselineRetrofit
+). From that point of time onwards, the baseline scenario is 
+assumed  to  correspond  to  the  project  activity,  and  baseline  electricity 
+production  (EG
+baseline
+)  is  assumed  to  equal  project  electricity  production 
+(EGy, in MWh/year), and no emission reductions are assumed to occur. 
+ 
+ACM0002  version  7  also  establishes  the  methodology  of  baseline  calculations.  
+The methodology defines two reference dates:  
+ 1. Beginning of project activities;  
+ 2. The time at which the generation facility would be likely to be replaced or 
+retrofitted in the absence of the VCS project activity (DATE
+BaselineRetrofit
+). 
+ 
+ Up to the start of project activities, the baseline is determined from a 5-year 
+average  of  electricity  production.    After  DATE
+BaselineRetrofit
+,  the  baseline  is  the 
+electricity  production  from  project  activities.  Therefore  the  crediting  period 
+is  defined  as  the  period  between  these  two  dates,  limited  by  the  chosen 
+crediting period, established in Section 7, below. 
+ 
+ ACM0002 version 7 also states that:  
+  
+In order to estimate the point in time when the existing equipment would need to 
+be  replaced  in  the  absence  of  the  project  activity  (DATE
+BaselineRetrofit
+),  project 
+participants may take the following approaches into account:  
+  
+(a)  The  typical  average  technical  lifetime  of  the  type  equipment  may  be 
+determined  and  documented,  taking  into  account  common  practices  in  the  sector 
+and country, e.g. based on industry surveys, statistics, technical literature, 
+etc.  
+(b)  The  common  practices  of  the  responsible  company  regarding  replacement 
+
+VCS Project Description   
+ 13 
+schedules may be evaluated and documented, e.g. based on historical replacement 
+records for similar equipment.  
+  
+The point in time when the existing equipment would need to be replaced in the 
+absence of the project activity should be chosen in a conservative manner, i.e. 
+if a range is identified, the earliest date point in time should be chosen. 
+ 
+The proposed project suggests a reference taken from the Government Regulation 
+No.  59  year  2007  on  Geothermal  Activities  as  an  indicator  to  be  chosen  in 
+setting the DATE
+BaselinerRetrofit
+ because it is a common practice in Indonesia. Based 
+on  the  Government  Regulation,  the  exploitation  concession  ends  after  30  years 
+with  some  possibility  of  extension.  By  taking  into  account  the  exploitation 
+concession years and common practice in the industry, 30 years is a conservative 
+figure of the average technical lifetime for geothermal power plant in Indonesia 
+operating under normal conditions with regular and proper maintenance.  
+ 
+Even  that,  all  contract  including  Power  Purchase  Agreement  (PPA)  and  Energy 
+Sales Contract (ESC) for steam purchase used 30 years as the minimum years in 
+the agreement.  
+ 
+As a conclusion, the average technical lifetime for all units is 30 years, which 
+means  that  all  units  will  last  during  30  years  since  its  commissioning  with 
+regular and proper maintenance. 
+ 
+Therefore DATE
+BaselineRetrofit
+ is assumed to be: 
+Unit 1: 12 March 2024  
+Unit 2: 12 June 2024 
+Unit 3: 16 July 2027    
+ 
+As  a  consequence  the  only  realistic  and  credible  alternatives  to  the  proposed 
+project activity are: 
+ 
+Baseline scenario option 1: 
+Continuation  of  the  current  situation,  i.e.  the  installed  capacity  of  Gunung 
+Salak  Geothermal  would  remain  the  same,  which  is  3  x  55  MW,  and  provide 
+electricity to the JAMALI grid. This option will be considered as the baseline 
+scenario referred to ACM0002 version 7.  
+ 
+Baseline scenario option 2: 
+The  proposed  project  activity  implemented  without  VCU  financing,  i.e.  the 
+capacity upgrade of Gunung Salak geothermal power plant from 3 x 55 MW to 3 x 60 
+MW  is  implemented  without  considering  VCU  revenues  due  to  steam  surplus 
+availability.  This  alternative  is  in  compliance  with  current  laws  and 
+regulations  of  Indonesia.  As  further  elaborated  in  Section  2.5,  the  proposed 
+project  activity  fulfils  the  VCS  additionality  criteria.  Thus  this  baseline 
+scenario is thus not considered. 
+ 
+Conclusion: 
+From  the  above  analysis  we  can  conclude  that  the  first  scenario  is  the  most 
+likely  baseline  scenario,  as  by  definition  the  continuation  of  the  current 
+situation faces the fewest barriers of any other alternative.  
+ 
+As  a  result,  according  to  ACM0002  version  7,  the  baseline  scenario  is  the 
+electricity  that  would  continue  to  be  generated  by  the  current  installed 
+capacity, 3 x 55 MW and exported to the JAMALI Grid.  
+ 
+The basic parameters used for calculating JAMALI grid emission factor to be used 
+in the proposed project are provided in table below: 
+ 
+Variable Value/Unit Source 
+Average Operating Margin 
+Emissions factor 
+0.829 tCO2e/MWh PLN     database     (own 
+generation and IPPs (*)) 
+Build  Margin  Emissions 
+Factor 
+0.936 tCO2e/MWh PLN     database     (own 
+generation and IPPs) 
+Combined          Margin 
+Emissions Factor 
+0.882 tCO2e/MWh PLN     database     (own 
+generation and IPPs) 
+ *Independent Power Producers 
+
+VCS Project Description   
+ 14 
+ 
+2.5 Description  of  how  the  emissions  of  GHG  by  source  in 
+baseline  scenario  are  reduced  below  those  that  would  have 
+occurred in the absence of the project activity (assessment 
+and demonstration of additionality): 
+   
+ In  addition  to  using  a  VCS  2007.1  Program  approved  methodology;  the  project 
+proponent  shall  demonstrate  that  the  project  is  additional  using  the  latest 
+“Tool  for  the  demonstration  and  assessment  of  additionality”  Version  05.2  and 
+also project test as per VCS 2007.1 
+ 
+Test 1- The Project test: 
+ 
+Step 1: Regulatory Surplus 
+ 
+• There is no mandatory law or regulation, which forced the project proponent 
+to upgrade the geothermal power plant capacity. 
+ 
+There is not any mandatory program from the Government of Indonesia that forces 
+private or public entities to upgrade renewable energy power plants. There are 
+also no additional incentives to upgrade capacity in terms of higher electricity 
+price or other benefits. 
+ 
+Step 2: Implementation Barriers 
+ 
+The project shall face one (or more) distinct barrier(s) compared with barriers 
+faced by alternative projects. 
+ 
+• Investment Barrier 
+• Technological Barrier 
+• Institutional Barrier 
+ 
+The project proponents selected technological and institutional barriers for the 
+proposed  project,  as  elaborated  below  in  further  details  w.r.t “Tool  for  the 
+demonstration and assessment of additionality” 
+ 
+ Step 1:  Identification  of  alternatives  to  the  proposed  project  activity 
+consistent with current laws and regulations  
+ 
+ As  per  the  tool,  define  realistic  and  credible  alternatives  to  the  project 
+activity(s)  that  can  be  (part  of)  the  baseline  scenario  through  the  following 
+sub-steps: 
+ 
+Sub-step 1a. Define alternatives to the proposed project activity: 
+ 
+Plausible  and  credible  alternatives  available  to  the  proposed  project  that 
+provide  outputs  or services  comparable  to  the  proposed  VCS  project  activity 
+include: 
+ 
+1. The proposed project activity implemented without VCU financing. 
+2. Supply from the Jamali Grid of equivalent annual additional electricity 
+output provided by the proposed project activity.  
+ 
+As the proposed project activity is only motivated by the availability of excess 
+steam on-site and the availability of a new technology allowing the upgrade of 
+the turbines, therefore all other power production alternatives that use other 
+renewable or fossil fuel sources cannot therefore be considered as relevant or 
+credible options. 
+ 
+Sub-step 1b. Consistency with mandatory laws and regulations: 
+ 
+The Government of Indonesia does not force private or public entity to upgrade 
+the  renewable  energy  power  plants,  which  means  there  are  also  no  additional 
+incentives in terms of higher electricity price or other benefits. In the end, 
+the  proposed  project  activity  does  not  violate  any  applicable  laws  and 
+regulations in Indonesia. 
+
+VCS Project Description   
+ 15 
+ 
+Step 3: Barrier analysis 
+ 
+Sub-step  3a:  Identify  barriers  that  would  prevent  the  implementation  of  the 
+proposed CDM project activity: 
+ 
+ The project proponent chose technological barriers, institutional barriers, and 
+barriers of prevailing practice for the proposed project, as further elaborated 
+in Sub-step 3b below. 
+ 
+Sub-step  3b:  Show  that  the  identified  barriers  would  not  prevent  the 
+implementation of at least one of the alternatives (except the proposed project 
+activity): 
+ 
+Technological barriers  
+ 
+To utilize excess steam available under the Energy Sales Contract with Chevron, 
+the project developer initiated a study to assess the possibility of increasing 
+electricity  generation  of  the  Gunung  Salak  Geothermal  Power  Plant  in  2001.  To 
+assist them in conducting this study, the project owner, hired Ansaldo Energy, 
+SpA,  who  designed  and  build  the  existing  power  plant.  After  considering  the 
+technical  specification  of  the  existing  equipment  and  available  steam 
+characteristics, the study recommended the following: 
+ 
+1. Increase the installed capacity to maximum 60 MW per unit; 
+2. Modify the first and second stage diaphragm of the turbines (unit 1, 2, 
+and 3) by increasing the nozzle size, increasing the steam turbine efficiency; 
+3. Replace  the  ejector  of  the  condenser  vacuum  system  at  Unit  3  to  cope 
+with a higher flow rate of Non-Condensable Gases (NCG).  
+ 
+This  capacity  upgrade  is  the  first  of  its  kind  in  Indonesia  and  presents 
+therefore  many  technical  barriers  due  to  the  lack  of  experience  with  the 
+implemented technical measure. Evidences of the technical problems faced by the 
+project  owner  are  provided  below.  The  PO  already  forecasted  most  of  these 
+barriers  since  2001.  The  substantial  technical  risks  of  this  project  were 
+broadly discussed with the technology provider, who was not in the position to 
+provide performance guarantees. As a first of its kind project, the revenues of 
+the VCU are used in this project to hedge against the high level of risks faced 
+and  to  cover  expected  and  unexpected  costs  that  arise  due  to  the  proposed 
+technical measures.  
+ 
+Barriers due to prevailing practice 
+ 
+Geothermic plants in general are still an early development phase and subject to 
+a  higher  risk  level  than  conventional  fossil  fuel  based  power  plants. And  in 
+addition  to  such  general  risks,  the  capacity  upgrade  of  Gunung  Salak  is  the 
+first  project  that  has  been  conducted  in  Indonesia  to  increase  the  installed 
+capacity of the geothermal power plant through turbine modifications. A letter 
+from  the  chairman  of  the  Geothermal  Association  in  Indonesia  confirms  the 
+pioneering character of the proposed project activity. 
+ 
+As  the  “first  of  its  kind”  project  in  Indonesia,  risks  related  to  prevailing 
+practice are also perceived as barrier in addition to technological risks. The 
+following technical barriers describe these technological risks. 
+ 
+Technical barrier 1 :  decrease of the chest pressure and steam quality 
+ 
+To  implement  the technical recommendations described  above, the  project  owner 
+awarded  the  contract  to  Ansaldo  Energy  SpA  valued  at  EUR  4,651,665  with  a 
+condition  that  Ansaldo  Energy  SpA  guaranteed  the  power  output  at  60  MW 
+continuously.  During  the  trial  run  and  performance  test  for  72  hours  it  was 
+proven that the power output could reach 60 MW per unit.  
+ 
+However,  based  on  observation  and  data  collection,  the  project  owner realised 
+that  Gunung  Salak  Unit  3,  the  first  unit  upgraded  in  2004,  did  not  perform 
+continuously at the guaranteed capacity of 60 MW, as can be seen in Graph 1. The 
+project  owner  found out  that this  problem was  mainly related to  the  increased 
+nozzle size, which allows additional impurities along with the increased steam 
+
+VCS Project Description   
+ 16 
+flow,  thus  forming  deposits  on  the  turbine  (known  as  scaling),  and  causing 
+higher chest pressure
+9
+.  
+ 
+ 
+ 
+1.a Capacity output in 2005 
+ 
+ 
+ 
+ 
+ 
+1.d. Chest pressure in 2005 
+ 
+ 
+ 
+ 
+1.b. Capacity output in 2006 
+ 
+ 
+ 
+ 
+1.e. Chest pressure in 2006 
+ 
+ 
+ 
+ 
+1.c. Capacity output in 2007 
+ 
+ 
+ 
+ 
+ 
+1.f. Chest pressure in 2007 
+ 
+ 
+ 
+ Graph  1-  Performance  of  Gunung  Salak  Unit  3  from  2005-2007 (Source:  PT. 
+Indonesia Power) 
+ 
+The  project  owner  took  corrective  action  by  removing  the  deposits  from  the 
+turbine  in  May  2005;  however,  this  action  was  only  able  to  maintain  the 
+installed  capacity  of  60  MW  for  3  months.  After  3  months  the  power  output 
+decreased  again.  Later,  in  January  2006  the  project  owner  again  removed  the 
+deposits, but again this action was only able to maintain installed capacity of 
+60  MW  for  a  short  time.  Again  in  February  2007,  the  project  owner  removed 
+deposits  from  turbines,  but  this  could  not  bring  the  power  output  to  the 
+guaranteed output, since deposits continued to build up and could not be removed 
+                                                
+9
+ Shimoda, et. al, Scaling protection for Hachjjyo-Jima geothermal power plant, 
+Proceedings World Geothermal Congress, Turkey: 2005, p. 1, 
+http://iga.igg.cnr.it/pdf/WGC/2005/1311.pdf (retrieved on 25 June 2009) 
+
+VCS Project Description   
+ 17 
+totally  from  turbine.  As  seen  in  Graph  1.a.  to  1.c.,  the  capacity  output 
+constantly  decreased  even  after  the  project  owner  took  corrective  action.  The 
+graph  1.c  shows  that  between  March  and  August  2007  the  output  of  Unit  3  was 
+several times under the installed capacity before the upgrade. If this situation 
+continues  and  no  technical  solution  can  be  implemented  to  correct  this 
+situation, it is possible that in the end the power plant output could be lower 
+than the initial power output before project was implemented.  
+ 
+Scaling  or  unwanted  material  deposition  has  not  become  a  major  problem  yet  in 
+units 1 and 2. However, a tendency of capacity decrease due to low steam quality 
+problem  is  likely  to  happen  and  would  be  unmanageable  if  technical  prevention 
+measures  to  improve  the  steam  quality  are  not  implemented  properly  in  these 
+units.  
+ 
+To solve this problem the project owner needs to implement technical measures to 
+prevent  deposits  from  forming  on  the  turbine,  which  should  decrease  the  chest 
+pressure back to normal levels, similar to the condition before upgrading. The 
+underlying issue that needs to be addressed is the steam quality, which needs to 
+be improved by, for example, increasing scrubber efficiency in order to reduce 
+the possibility of particles being deposited in the turbine. The scrubber, which 
+is  owned  and  operated  by  Chevron,  is  considered  as  the  first  guard  and  steam 
+purifier  in  the  geothermal  power  plant  and  should  prevent  unwanted  particles 
+carried by the geothermal steam from being deposited in the turbine. The project 
+owner seeks VCU financing to help improve the quality of the steam. One option 
+would  be  to  increase the  scrubber  efficiency  (through  renegotiation  of  the 
+contract  with  Chevron) in  order  to  reduce  the  turbine  particles  deposition 
+issues, and thus decrease the capacity output problem.  
+ 
+ 
+Prior  to  the  implementation  of  the  project,  the  project  owner  identified 
+potential problems due to steam quality
+10
+. In the mean time, to mitigate the low 
+steam  quality  issue  and  to  secure  the  power  plant’s  operational  lifetime,  the 
+Project  Owner  conducted  internal  steam  quality  checks  regularly  within  the 
+Gunung Salak Geothermal Power Plant. With this data, the project owner proposed 
+to PT. PLN (Persero) to include the steam quality in the energy sales contract, 
+as part of the re-negotiation between PT. PLN and Unocal (former owner of Gunung 
+Salak  Field).  Unfortunately,  this  issue  was  not  included  in  the  revised 
+contract. Had this issue become part of the contract, deposit problem with the 
+turbines could have been avoided.  
+ 
+The project owner will use VCU financing for following options: 
+1. As  an  incentive  to  re-negotiate  the  ESC  with  Chevron,  making  sure  that 
+scrubber  efficiency  is  increased  through  a  more  sophisticated  maintenance 
+scheme  to  avoid  and  prevent  situations  that  could  lower  steam  quality  by 
+buying better quality steam with higher price, and/or 
+2. Install  additional  equipments  (such  as  one  additional  scrubber)  on  its  own 
+premises, if the re-negotiation is not successful,. 
+ 
+Technical barrier 2 : increase of the winding temperature 
+ 
+Another serious problem that occurred in the Gunung Salak Geothermal Power Plant 
+was the increase of winding temperature
+11
+ in the power transformers of unit 1, 2 
+and 3, as can be seen in Graph 2.  
+ 
+Graph 2- Winding temperature at Gunung Salak power transformers before and after 
+the project activity 
+ 
+ 
+ 
+Graph 2.a. Winding temperature at power transformer Unit 1 
+ 
+                                                
+10 
+Letter from PT Indonesia Power to PT PLN dated September 7, 2001 
+11 
+Loading capability of power transformer is limited mainly by winding 
+temperature.  
+
+VCS Project Description   
+ 18 
+ 
+ 
+ 
+ 
+ 
+ 
+Graph 2.b. Winding temperature at power transformer Unit 2 
+ 
+ 
+ 
+ 
+ 
+Graph 2.c. Winding temperature at power transformer at Unit 3 
+ 
+ 
+ 
+ 
+ 
+Source: PT. Indonesia Power 
+ 
+The  Graphs  show  that  the  winding  temperature  before  upgrading  was  between  75– 
+85
+o
+C at power output of 55 MW, but this temperature was increased to 85–95
+o
+C at 
+the power output of 60 MW for all units at Gunung Salak Geothermal Power Plant. 
+After approximately 4 years running at the guaranteed 60 MW output capacity, the 
+temperature,  especially  transformer  unit  3,  lately  reached  the  alarm  limit, 
+which decreases transformer lifetime and increases risk of a break down due to 
+over-limit usage. The winding temperature of units 1 and 2 are also having the 
+tendency  to  increase  and  almost  reach  the  alarm  limit  as  shown  in  the  above 
+graph,  which  could  also  impact  the  power  plant  overall  performance  if  the 
+situation is not carefully managed.  
+ 
+
+VCS Project Description   
+ 19 
+It  is  known  that  a  higher  operating  temperature  of  liquid-immersed  (wet) 
+transformers reduces  the  lifetime  of  the  equipment  and  increases  the  risk  of 
+breakdowns
+12
+.  In  this  case,  the  VCU  financing allows for  covering  higher 
+maintenance costs that arise due to shorter lifetime of transformers. Also, in 
+the  case  of  unexpected  break  downs,  the PO  will  face  financial  losses  due  to 
+lost electricity revenues.   
+ 
+The project owner has been aware of all these risks since 2005 and expects that 
+the revenue from VCUs could be used to hedge these risks by covering expected 
+costs such as costs for spare transformers steam quality improvement measures to 
+reduce  deposits  on  the  turbines,  as  well  as  unexpected  costs,  which  are  not 
+known  today  due  to  lack  of  experience  and  the  fact  that  capacity  upgrade 
+measures are technologically not proven yet. 
+ 
+Step 4: Common practice analysis 
+ 
+Sub-step 4a: Analyze other activities similar to the proposed project activity: 
+ 
+Geothermal power plants are not a common practice in Indonesia. Despite a huge 
+potential, the installed capacity is only 8.5%
+13
+ of the total potential reserve 
+in  Indonesia.  Moreover,  among  the  Indonesian  geothermal  power  plants,  the 
+proposed project is not a common practice because the project is the first and 
+only capacity upgrade of a geothermal power plant by increasing nozzle size in 
+the turbines. Other geothermal power plants in Indonesia increase the capacity 
+by  constructing  new  power  plant  units.  These  power  plants  are,  among  others; 
+Wayang Windu Geothermal Power Plant Unit 2 and Lahendong Geothermal Power Plant 
+Unit  2.  At  the  same  time,  as  the  first  and  only  capacity  upgrade  via  nozzle 
+size, the project owner also conceives certain burdens and risks as explained in 
+the technological and institutional barriers. 
+ 
+The  project  owner  has  taken  significant  risk  in  deciding  to  implement  the 
+project  without  any  direct  experiences  in  upgrading  a  geothermal  project.  VCU 
+financing will help to mitigate the risks that occur due to the technology, such 
+as  providing  an  incentive  to  Chevron  so  they  can  increase  the  scrubber 
+efficiency, and thus provide better steam quality, procure a spare transformer 
+in  case  of  temporary  shut-down  or  total  transformer  break  down,  or  other 
+additional maintenance measures that could clear the deposited particles on the 
+turbine. This project is therefore considered to be additional. 
+ 
+Sub-step 4b: Discuss any similar Options that are occurring: 
+ 
+There are no similar Options that are occurring similar to the proposed project 
+activity because the proposed project is the first project in Indonesia.  
+ 
+3 Monitoring: 
+ 
+3.1  Title and reference of the VCS methodology (which includes 
+the monitoring requirements) applied to the project activity 
+and explanation of methodology choices:  
+ 
+The  project  uses  the  VCS  board-approved  monitoring  methodology  ACM0002, 
+“Consolidated   monitoring   methodology   for   zero-emissions   grid-connected 
+electricity generation from renewable sources”, version 07, 30 November 2007. 
+ 
+The  approved  methodology  of  ACM0002  is  chosen  and  applicable  to  the  proposed 
+project due to the following reasons: 
+ 
+                                                
+12 
+Bérubé, et. al, Recent development in transformer winding temperature 
+determination, p. 1, 
+http://www.neoptix.com/literature/v1109r1_Art_Recent%20dev%20in%20windings%20tem
+p.pdf (retrieved on 26 June 2009) 
+ 
+13 
+Sudarman, et. al.; (2000), p. 4. 
+
+VCS Project Description   
+ 20 
+• The  project  activity  is  a  modification  of  a  geothermal  power  plant  that 
+involves electricity capacity addition from total capacity of 165 MW to 180 
+MW. 
+• The  project  is  a  renewable  electricity  generation  plant  from  a  geothermal 
+energy source, which is connected to the JAMALI grid. 
+• The  project  activity  exports  its  electricity  to  the  clearly  identified 
+regional Jawa, Madura, and Bali interconnected power grid (JAMALI grid). The 
+value and characteristics of the grid are also publicly available. 
+• The proposed project is not an activity that involves fossil fuels switching 
+to renewable energy at the site of the project activity. 
+ 
+Based  on  stated  reasons  above,  the  applicability  criteria  of  the  approved  CDM 
+methodology ACM0002 (version 07) are met. 
+ 
+3.2 Monitoring,  including  estimation,  modelling,  measurement  or 
+calculation approaches:   
+ 
+• Purpose of monitoring 
+To present reliable and complete data and to ensure that all actual project 
+data is well organised in term of collection and archiving. 
+ 
+• Types of data and information to be reported, including units of measurement  
+Net electricity generated in MWh 
+Electricity imported from the JAMALI grid in MWh 
+Average mass fraction of CH
+4
+ in the produced steam (non-dimensional) 
+Average mass fraction of CO
+2
+ in the produced steam (non-dimensional) 
+Quantity of delivered steam in tonnes 
+Amount of diesel fuel used in tonnes or litres 
+ 
+• Origin of the data 
+Net electricity generated (PLN revenue meter and invoice from PLN) 
+Electricity imported from the JAMALI grid  
+The Non-Condensable  Gases  (NCG)  sampling  for  CO
+2
+  and  CH
+4
+  fraction  in  the 
+produced steam 
+Steam flow rate (Steam flow rate in the main steam line) 
+Diesel fuel quantity (calculated from diesel genset operational data) 
+ 
+• Monitoring,  including  estimation,  modelling,  measurement  or  calculation 
+approaches 
+Monitoring data will be made and collected by project participants based on 
+field data. 
+ 
+• Monitoring times and periods, considering the needs of intended users 
+Monitoring  of  electricity  generation,  export,  and  import,  steam  delivered, 
+steam fraction, and diesel used will be made daily, monthly or quarterly with 
+regular  yearly  reports  dependent  on  the  monitoring  plan  for  each  data 
+parameter for the entire crediting period.  
+  
+• Monitoring roles and responsibilities  
+Project proponents together will be responsible for collecting all monitoring 
+data and information. 
+ 
+• Managing data quality  
+All meters and equipments, which measure data, will be calibrated on regular 
+basis (generally yearly basis). 
+ 
+3.3 Data  and  parameters  monitored  /  Selecting  relevant  GHG 
+sources,  sinks  and  reservoirs  for  monitoring  or  estimating 
+GHG emissions and removals:  
+ 
+Data and parameters to be monitored 
+ 
+Data/Parameter: M
+S,y
+  
+Data unit: Tonnes  
+
+VCS Project Description   
+ 21 
+Description: Quantity of steam produced during the year ‘y’ 
+Source  of  data  to 
+be used: 
+Project Owner-main steam line flow meter  
+ 
+Instrument No.  
+Unit #1: 1LBA01CF001-B01, class of accuracy 0.25%  
+Unit #2: 2LBA01CF001-B01, class of accuracy 0.25% 
+Unit #3: 3LBA01CF001-B01, class of accuracy 0.25%  
+Value    of    data 
+applied   for   the 
+purpose           of 
+calculating 
+expected   emission 
+reduction: 
+ 
+ Steam  produced  during  the  year  ‘y’ 
+(tonnes/year) 
+ 2006 2007 2008-2015  
+Unit 1 3,828,764 3,980,333 3,904,549 
+Unit 2 3,902,163 3,809,274 3,855,718 
+Unit 3 3,887,724 3,813,357 3,850,541 
+ 
+The  data  above  is based  on actual data  recorded  by  PT. 
+Indonesia  Power  except  for  2008-2015  that  is  using  average 
+steam produced in 2006 and 2007 for each unit.  
+Description      of 
+measurement  methods 
+and  procedures  to 
+be applied: 
+The  measurement  of  steam  quantities  will  be  conducted  on  a 
+continuous basis, where daily total flow measurement will be 
+available.   The   measurement   results   will   be   summarised 
+transparently in regular production reports. 
+QA/QC procedures to 
+be applied:  
+– 
+Any comment: Continuous  measurement,  subsequently,  the  data  will  be 
+aggregated monthly.  
+ 
+Data/Parameter: W
+main,CO2
+   
+Data unit: t CO
+2
+/t steam 
+Description: Average mass fraction of carbon dioxide in the produced steam 
+(non-dimensional) 
+Source  of  data  to 
+be used: 
+The  Non-Condensable  Gases  (NCG)  data  taken  from  steam 
+sampling as prescribed in the Monitoring Methodology ACM0002 
+version 07  
+Value    of    data 
+applied   for   the 
+purpose           of 
+calculating 
+expected   emission 
+reduction:  
+Unit 1: 0.004 or 0.4 % 
+Unit 2: 0.008 or 0.8 % 
+Unit 3: 0.006 or 0.6 % 
+ 
+Description      of 
+measurement  methods 
+and  procedures  to 
+be applied: 
+Non-condensable  gases  sampling  should  be  carried  out  in 
+production wells and at the steam field-power plant interface 
+using  ASTM  Standard  Practice  E1675  for  Sampling  2-Phase 
+Geothermal  Fluid  for  Purposes  of  Chemical  Analysis  (as 
+applicable to sampling phase steam only). 
+The Non-Condensable Gases (NCG) sampling and analysis will be 
+performed every four months. 
+QA/QC procedures to 
+be applied:  
+Gunung Salak Geothermal Laboratory QA/QC Procedure  
+Any comment: - 
+ 
+Data/Parameter: W
+main,CH4
+   
+Data unit: t CH
+4
+/t steam 
+Description: Average  mass  fraction  of  methane  gas  in  the  produced  steam 
+(non-dimensional) 
+Source  of  data  to 
+be used: 
+The  Non-Condensable  Gases  (NCG)  data  taken  from  steam 
+sampling as prescribed in the Monitoring Methodology ACM0002 
+version 07  
+Value    of    data 
+applied   for   the 
+purpose           of 
+calculating 
+expected   emission 
+reduction:  
+Unit 1: 1.25x10
+-5
+ or 0.00125 % 
+Unit 2: 1.74x10
+-5
+ or 0.00174 % 
+Unit 3: 1.61x10
+-5
+ or 0.00161 % 
+ 
+Description      of 
+measurement  methods 
+and  procedures  to 
+Non-condensable  gases  sampling  should  be  carried  out  in 
+production wells and at the steam field-power plant interface 
+using  ASTM  Standard  Practice  E1675  for  Sampling  2-Phase 
+
+VCS Project Description   
+ 22 
+be applied: Geothermal  Fluid  for  Purposes  of  Chemical  Analysis  (as 
+applicable to sampling phase steam only). 
+The Non-Condensable Gases (NCG) sampling and analysis will be 
+performed every four months. 
+QA/QC procedures to 
+be applied:  
+Gunung Salak Geothermal Laboratory QA/QC Procedure  
+Any comment: - 
+ 
+Data/Parameter: EG
+y
+  
+Data unit: MWh  
+Description: Net electricity delivered to the grid by the project activity 
+Source  of  data  to 
+be used: 
+Project Owner-PLN revenue meter (electricity sales) 
+ 
+Meter No. (since 1 October 2008) 
+Unit #1: PT 0806A117-01 with class of accuracy 0.2 
+Unit #2: PT 0806A118-01 with class of accuracy 0.2 
+Unit #3: PT 0806A119-01 with class of accuracy 0.2 
+ 
+Meter No. (1 April 2006-30 September 2008) 
+Unit #1: PS 0512A040-01 with class of accuracy 0.2 
+Unit #2: PS 0512A041-01 with class of accuracy 0.2 
+Unit #3: PS 0512A042-01 with class of accuracy 0.2 
+Value    of    data 
+applied   for   the 
+purpose           of 
+calculating 
+expected   emission 
+reduction: 
+ 
+ EG
+y
+ (MWh) 
+ 2006 2007 2008-2015 
+Unit 1 437,773 491,239 473,040 
+Unit 2 476,803 470,184 473,040 
+Unit 3 454,504 442,878 473,040 
+Total 1,369,080 1,404,301 1,419,120 
+ 
+The  data  above  is based  on actual data  recorded  by  PT. 
+Indonesia  Power  except  for  2008-2015  that  comes  from  an 
+assumption using 90% load factor for each unit. 
+Description      of 
+measurement  methods 
+and  procedures  to 
+be applied: 
+Electricity  produced  will  be  measured  by  a  watt-hour  meter 
+(connected   to   a   digital   control   system   and   recorded 
+continuously), which can measure both power delivered to the 
+grid  and  received  from  the  grid.  Therefore  net  electricity 
+export will be measured. 
+The  measurement  of  electricity  generation  will  be  conducted 
+on  a  continuous  basis,  where  hourly  and  daily  total 
+electricity  measurement  will  be  available.  The  measurement 
+results   will   be   summarised   transparently   in   regular 
+production reports.  
+QA/QC procedures to 
+be applied:  
+The QA/QC will be conducted through cross checking with sales 
+electricity receipts. 
+Meters   will   be   calibrated according   to   the   Standard 
+Operational Procedures signed between PT. Indonesia Power and 
+PLN  (load  dispatcher) or  other  documents,  which  update  or 
+replace this SOP. 
+Data measured by meters will be cross checked by electricity 
+sales receipt. 
+The meter (s) will either: 
+i) be read frequently jointly by the project developer and 
+the grid company 
+ii) be only read by the project developer and data will be 
+double checked with the electricity sales receipts 
+iii) be only read by the grid company 
+ 
+Any comment: Standard  Operation  Procedure  signed  between  PT.  Indonesia 
+Power and PT PLN (load dispatcher) or other documents, which 
+update or replace this SOP 
+ 
+ 
+Data/Parameter: EG
+baseline
+  
+Data unit: MWh  
+Description: Baseline  electricity  supplied  to  the  grid  in  the  case  of 
+
+VCS Project Description   
+ 23 
+modified or retrofit facilities (MWh) 
+Source  of  data  to 
+be used: 
+Project Owner-PLN revenue meter (electricity sales) 
+ 
+Meter No. 
+Unit #1: PS 0512A040-01 with class of accuracy 0.2 
+Unit #2: PS 0512A041-01 with class of accuracy 0.2 
+Unit #3: PS 0512A042-01 with class of accuracy 0.2 
+ 
+Note: On 1 October 2008, the electricity sales flow meter was 
+replaced by PT 0806A117-01 / PT 0806A118-01 / PT 0806A119-01. 
+Value    of    data 
+applied   for   the 
+purpose           of 
+calculating 
+expected   emission 
+reduction: 
+ 
+ 
+ 
+ EG
+baseline
+ (MWh) 
+Unit 1 411,363 
+Unit 2 399,102 
+Unit 3 394,696 
+Total 1,205,161 
+ 
+The  data  above  is based  on 5-years  historical  data  recorded 
+by PT. Indonesia Power between 1999-2004 for Unit 3 and 2000-
+2005 for Units 1 and 2 before the project activity.  
+Description      of 
+measurement  methods 
+and  procedures  to 
+be applied: 
+Electricity  produced  is  measured  by  a  watt-hour  meter 
+(connected   to   a   digital   control   system   and   recorded 
+continuously), which can measure both power delivered to the 
+grid  and  received  from  the  grid.  Therefore  net electricity 
+export is measured. 
+The  measurement  of  electricity  generation  is  conducted  on  a 
+continuous  basis,  where  hourly  and  daily  total  electricity 
+measurement  will  be  available.  The  measurement  results  is 
+summarised transparently in regular production reports.  
+QA/QC procedures to 
+be applied:  
+The  QA/QC  is  conducted  through  cross  checking  with  sales 
+electricity receipts. 
+Meters  are  calibrated  according  to  the  Standard  Operational 
+Procedures  signed  between  PT.  Indonesia  Power  and  PLN  (load 
+dispatcher) or other documents, which update or replace this 
+SOP. 
+Data  measured  by  meters  are  cross-checked  by  electricity 
+sales receipt. 
+The meter (s) is either: 
+i. be read frequently jointly by the project developer and 
+the grid company 
+ii. be only read by the project developer and data will be 
+double checked with the electricity sales receipts 
+iii. be only read by the grid company 
+ 
+Any comment: Standard  Operation  Procedure  signed  between  PT.  Indonesia 
+Power and PT PLN (load dispatcher) or other documents, which 
+update or replace this SOP. 
+ 
+ 
+Data/Parameter: EG
+imp
+  
+Data unit: MWh  
+Description: Electricity imported from the grid  
+Source  of  data  to 
+be used: 
+Project Owner flow meter  
+ 
+Meter No. (since 1 October 2008) 
+Unit #1: PT 0806A117-01 with class of accuracy 0.2 
+Unit #2: PT 0806A118-01 with class of accuracy 0.2 
+Unit #3: PT 0806A119-01 with class of accuracy 0.2 
+ 
+Meter No. (1 April 2006-30 September 2008) 
+Unit #1: PS 0512A040-01 with class of accuracy 0.2 
+Unit #2: PS 0512A041-01 with class of accuracy 0.2 
+
+VCS Project Description   
+ 24 
+Unit #3: PS 0512A042-01 with class of accuracy 0.2 
+Value    of    data 
+applied   for   the 
+purpose           of 
+calculating 
+expected   emission 
+reduction: 
+0 MWh  (the  number  is  an  assumption  used  in  the  ex-ante 
+calculation,  which  could  be  different  during  monitoring 
+process) 
+Description      of 
+measurement  methods 
+and  procedures  to 
+be applied: 
+Electricity  imported  will  be  measured  by  a  watt-hour  meter 
+(connected   to   a   digital   control   system   and   recorded 
+continuously), which can measure both power delivered to the 
+grid and received from the grid. 
+The measurement of electricity imported will be conducted on 
+a continuous basis, where hourly and daily total electricity 
+measurement  will  be  available.  The  measurement  results  will 
+be summarised transparently in regular production reports.  
+QA/QC procedures to 
+be applied:  
+Meters   will be calibrated   according   to   the   Standard 
+Operational Procedures signed between PT. Indonesia Power and 
+PLN  (load  dispatcher) or  other  documents,  which  update  or 
+replace this SOP. 
+ 
+Any comment: Standard  Operation  Procedure  signed  between  PT.  Indonesia 
+Power and PT PLN (load dispatcher) or other documents, which 
+update or replace this SOP. 
+ 
+ 
+Data/Parameter: FC
+i,y
+  
+Data unit: Litres/year 
+Description: Amount  of  diesel  fuel  used  in  the  geothermal  power  plant 
+operation  
+Source  of  data  to 
+be used: 
+Project Owner-diesel fuel operational logbook 
+Value    of    data 
+applied   for   the 
+purpose          of 
+calculating 
+expected   emission 
+reduction: 
+ 
+ 
+ 
+Diesel specification Year Power 
+shutdown/diesel 
+usage (hours) 
+Capacity 
+(kWh) 
+Fuel 
+consumption 
+Diesel   fuel 
+(litres/year) 
+2006 21.77 320 0.261 1818.2304 
+2007 8.07 320 0.261 674.0064 
+2008-
+2015 
+   1246.1184 
+ 
+The  data  above  is based  on  actual  data  recorded  by  PT. 
+Indonesia  Power  except  for  2008-2015  that  is  an  average  of 
+diesel fuel consumption in 2006 and 2007.  
+ 
+Power  shutdown  data  is  recorded  for  the  whole  power  plant. 
+Therefore, it will be calculated once in the ER calculation of 
+Gunung Salak Unit 1. 
+Description      of 
+measurement methods 
+and  procedures  to 
+be applied: 
+Fuel  consumption  will  be  recorded  monthly,  specifically  for 
+each fuel (currently only diesel consumption is available). 
+Fuel  consumption  will  be  calculated  from  power  shutdown 
+records (hours) and/or diesel usage by using emergency diesel 
+genset 400 KVA/320 kWh technical specification incl. its fuel 
+consumption  specification  (0.260—it  depends  on  each  diesel 
+genset),  resulted  in  litres  then  converted  to  tonnes  using 
+fuel specific density or scientifically proven fuel densities.  
+QA/QC procedures to 
+be applied:  
+- 
+ 
+Any comment: Fuel  consumption  will  only  occur  in  emergencies  when  power 
+plant is not operational and the grid is also not available, a 
+
+VCS Project Description   
+ 25 
+confluence of events which is expected to happen very rarely; 
+at  other  times  the  plant  will  run  on  grid  electricity. 
+Emergency diesel genset 400 KVA/320 kWh is only for critical 
+instrument/control system during turbine trip and shutdown.  
+ 
+Data  and  parameters  to  be  available  during  validation  for  project  emission 
+calculation: 
+Data/Parameter: EG
+historical
+  
+Data unit: MWh  
+Description: Average  net  electricity  delivered  to  the  grid  before  the 
+project activity until DATE
+BaselineRetrofit
+ 
+Source  of  data  to 
+be used: 
+Project Owner-PLN revenue meter (electricity sales) 
+ 
+Meter No. 
+Unit #1: PS 0512A040-01 with class of accuracy 0.2 
+Unit #2: PS 0512A041-01 with class of accuracy 0.2 
+Unit #3: PS 0512A042-01 with class of accuracy 0.2 
+On  1  October  2008,  the  electricity  sales  flow  meter  was 
+replaced by PT 0806A117-01 / PT 0806A118-01 / PT 0806A119-01. 
+Value    of    data 
+applied   for   the 
+purpose           of 
+calculating 
+expected   emission 
+reduction: 
+ 
+ EG
+historical
+        until 
+DATE
+BaselineRetrofit
+ (MWh) 
+Unit 1 411,363 
+Unit 2 399,102 
+Unit 3 394,696 
+Total 1,205,161 
+ 
+The  data  above  is based  on  an  average  of  historical  net 
+electricity  generation  data  recorded  by  PT.  Indonesia  Power 
+since 1999-2004 for Unit 3 and 2000-2005 for Units 1 and 2. 
+Description      of 
+measurement  methods 
+and  procedures  to 
+be applied: 
+Electricity  produced  is  measured  by  a  watt-hour  meter 
+(connected   to   a   digital   control   system   and   recorded 
+continuously), which can measure both power delivered to the 
+grid  and  received  from  the  grid.  Therefore  net  electricity 
+export is measured. 
+The  measurement  of  electricity  generation  is  conducted  on  a 
+continuous  basis,  where  hourly  and  daily  total  electricity 
+measurement will  be  available.  The  measurement  results  is 
+summarised transparently in regular production reports. 
+QA/QC procedures to 
+be applied:  
+The  QA/QC  is  conducted  through  cross  checking  with  sales 
+electricity receipts. 
+Meters  are  calibrated  according  to  the  Standard  Operational 
+Procedures  signed  between  PT.  Indonesia  Power  and  PLN  (load 
+dispatcher) or other documents, which update or replace this 
+SOP. 
+Data  measured  by  meters  are  cross-checked  by  electricity 
+sales receipt. 
+The meter (s) is either: 
+i. be read frequently jointly by the project developer and 
+the grid company 
+ii. be only read by the project developer and data will be 
+double checked with the electricity sales receipts 
+iii. be only read by the grid company 
+ 
+Any comment: Standard  Operation  Procedure  signed  between  PT.  Indonesia 
+Power and PT PLN (load dispatcher) or other documents, which 
+update or replace this SOP. 
+ 
+Data/Parameter: DATE
+BaselineRetrofit
+  
+Data unit: Date 
+Description: Point  in  time  when  the  existing  equipment  would  need  to  be 
+replaced in the absence of the project activity  
+Source  of  data  to 
+be used: 
+The Government  Regulation  No.  59  year  2007  on  Geothermal 
+Activities for 30 years average technical lifetime. 
+Value    of    data 
+applied   for   the 
+ 
+
+VCS Project Description   
+ 26 
+purpose           of 
+calculating 
+expected   emission 
+reduction: 
+ Commissioning date DATE
+BaselineRetrofit
+  
+Unit 1 12 March 1994 12 March 2024 
+Unit 2 12 June 1994 12 June 2024 
+Unit 3 16 July 1997 16 July 2027 
+ 
+The DATE
+BaselineRetrofit
+ comes from commissioning date of each unit 
+added by the average technical lifetime of 30 years.  
+Description      of 
+measurement  methods 
+and  procedures  to 
+be applied: 
+- 
+QA/QC procedures to 
+be applied:  
+- 
+Any comment: - 
+ 
+Data/Parameter: GWP
+CH4
+ 
+Data unit: tCO
+2
+/tCH
+4
+ 
+Description: Global  warming  potential  of  methane,  valid  for  the  relevant 
+commitment period 
+Source  of  data  to 
+be used: 
+IPCC 
+Value    of    data 
+applied   for   the 
+purpose           of 
+calculating 
+expected   emission 
+reduction: 
+Default value for the first commitment period = 21 tCO
+2
+/tCH
+4
+ 
+Description      of 
+measurement  methods 
+and  procedures  to 
+be applied: 
+– 
+QA/QC procedures to 
+be applied: 
+- 
+Any comment: – 
+ 
+Data/Parameter: NCV
+i,y
+ 
+Data unit: GJ/kg 
+Description: Net calorific value of diesel fuel  
+Source  of  data  to 
+be used: 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Value    of    data 
+applied   for   the 
+purpose           of 
+calculating 
+expected   emission 
+reduction: 
+0.043 
+Description      of 
+measurement  methods 
+and  procedures  to 
+be applied: 
+– 
+QA/QC procedures to 
+be applied: 
+- 
+Any comment: – 
+ 
+Data/Parameter: 
+i 
+Data unit: Kg/m
+3
+ 
+Description: Density of diesel fuel  
+Source  of  data  to 
+be used: 
+Pertamina diesel fuel specification
+14
+ 
+Value    of    data 
+applied   for   the 
+purpose           of 
+0.815 kg/litre = 815 kg/m
+3
+ 
+                                                
+14
+ http://www.pertamina.com/index.php?option=com_content&task=view&id=3262&Itemid=697 
+
+VCS Project Description   
+ 27 
+calculating 
+expected   emission 
+reduction: 
+Description      of 
+measurement  methods 
+and  procedures  to 
+be applied: 
+– 
+QA/QC procedures to 
+be applied: 
+- 
+Any comment: – 
+ 
+Data/Parameter: EF
+CO2,i,y
+ 
+Data unit: tCO
+2
+/GJ 
+Description: Weighted  average  CO2  emission  factor  of  diesel  fuel  in  year 
+‘y’ 
+Source  of  data  to 
+be used: 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Value    of    data 
+applied   for   the 
+purpose           of 
+calculating 
+expected   emission 
+reduction: 
+0.074 
+Description      of 
+measurement  methods 
+and  procedures  to 
+be applied: 
+– 
+QA/QC procedures to 
+be applied: 
+- 
+Any comment: – 
+ 
+ 
+Data  and  parameters  to  be  available  during  validation  for  emission  grid 
+calculation: 
+ 
+Data/Parameter: EF
+OM,y
+  
+Data unit: tCO
+2/
+MWh 
+Description: EF
+OM,y
+  is  the average operating  margin  CO
+2
+  emission  factor  of 
+power  plant  connected  to  the  JAMALI  electricity  grid  in 3 
+recent  years  available  data,  calculated  using  simple  OM 
+method for each year in which the project generation occurs. 
+During the crediting period, this factor is calculated based 
+on ex-ante emissions by using year 2004, 2005 and 2006 data. 
+Source  of  data  to 
+be used: 
+PLN  
+Value    of    data 
+applied   for   the 
+purpose           of 
+calculating 
+expected   emission 
+reduction: 
+EF
+OM,y 
+= 0.829 tCO
+2
+/MWh 
+ 
+Description      of 
+measurement  methods 
+and  procedures  to 
+be applied: 
+No  measurement  required.  Data  is  obtained  based  on  analysis 
+of PLN published information.  
+QA/QC procedures to 
+be applied:  
+- 
+ 
+Any comment: All  data  relevant  for  the  calculation  of  EF
+OM,y 
+are  updated 
+annually. This includes each associated fuel emission factor 
+and   corresponding   net   calorific   values,   is   re-defined 
+annually. 
+ 
+Data/Parameter: EF
+BM,y
+  
+Data unit: tCO
+2
+/MWh 
+Description: EF
+BM,y
+ is the build margin CO
+2
+ emission factor of power plants 
+
+VCS Project Description   
+ 28 
+in  the  sample  group  ‘m’  connected  to  the  JAMALI  electricity 
+grid in year ‘y’. During the crediting period, this factor is 
+calculated  based  on  ex-ante  emissions  by  using  year  2006 
+data.  
+Source  of  data  to 
+be used: 
+PLN  
+Value    of    data 
+applied   for   the 
+purpose           of 
+calculating 
+expected   emission 
+reduction: 
+EF
+BM,y 
+= 0.936 tCO
+2
+/MWh 
+ 
+Description      of 
+measurement  methods 
+and  procedures  to 
+be applied: 
+No  measurement  required.  Data  is  obtained  based  on  analysis 
+of PLN published information.  
+QA/QC procedures to 
+be applied:  
+- 
+ 
+Any comment: All  data  relevant  for  the  calculation  of  EF
+BM,y 
+are  updated 
+annually. This includes each associated fuel emission factor 
+and  corresponding  net  calorific  values,  as  well  as  sample 
+group  ‘m’  power  plants  (its  associated  generation  and  fuel 
+consumption data), is re-defined annually. 
+ 
+Data/Parameter: EF
+CM,y
+  
+Data unit: tCO
+2
+/MWh 
+Description: EF
+CM,y
+  is  the  combined  margin  CO
+2
+  emission  factor  of  power 
+plants connected to the JAMALI electricity grid in year ‘y’, 
+calculated ex-ante based on the weighted average of EF
+OM,y 
+and
+ 
+EF
+BM,y
+ 
+Source  of  data  to 
+be used: 
+PLN  
+Value    of    data 
+applied   for   the 
+purpose           of 
+calculating 
+expected   emission 
+reduction: 
+EF
+CM,y 
+= 0.882 tCO
+2
+/MWh 
+ 
+Description      of 
+measurement  methods 
+and  procedures  to 
+be applied: 
+No  measurement  required.  Data  is  obtained  based  on  analysis 
+of PLN published information.  
+QA/QC procedures to 
+be applied:  
+- 
+ 
+Any comment: - 
+ 
+Data/Parameter: FC
+i,j,y 
+ 
+Data unit: kT 
+Description: Consumption of fuel type ‘i’, in year ‘y’, for power plant in 
+group ‘j’, where: 
+Group  ‘j’  is  power  plants  in  JAMALI  grid  excluding  the  low-
+cost/must-run  sources  (Whichever  is  larger  compare  to  group 
+‘m’). 
+Source  of  data  to 
+be used: 
+PLN  
+Value    of    data 
+applied   for   the 
+purpose           of 
+calculating 
+expected   emission 
+reduction: 
+Refer to: 
+Emission baseline calculation 
+ 
+Description      of 
+measurement  methods 
+and  procedures  to 
+No  measurement  required.  Data  is  obtained  based  on  analysis 
+of PLN published information.  
+
+VCS Project Description   
+ 29 
+be applied: 
+QA/QC procedures to 
+be applied:  
+- 
+ 
+Any comment: - 
+ 
+Data/Parameter: FC
+i,m,y
+ 
+Data unit: kT 
+Description: Consumption of fuel type ‘i’, in year ‘y’, for power plant in 
+group ‘m’, where: 
+Group  ‘m’  is  five  most  recently  build  power  plants  or  power 
+plants  capacity  additions  that  comprise  20%  of  system 
+generation (whichever is larger compare to group ‘j’). 
+Source  of  data  to 
+be used: 
+PLN  
+Value    of    data 
+applied   for   the 
+purpose           of 
+calculating 
+expected   emission 
+reduction: 
+Refer to: 
+Emission baseline calculation 
+ 
+Description      of 
+measurement  methods 
+and  procedures  to 
+be applied: 
+No  measurement  required.  Data  is  obtained  based  on  analysis 
+of PLN published information.  
+QA/QC procedures to 
+be applied:  
+- 
+ 
+Any comment: - 
+ 
+Data/Parameter: 
+
+j
+EG
+j,y 
+ 
+Data unit: MWh 
+Description: Generation  data  of  power  plants  in  sample  group  ‘j’  in  year 
+‘y’, where: 
+Group  ‘j’  is  power  plants  in  JAMALI  grid  excluding  the  low-
+cost/must-run  sources  (Whichever  is  larger  compare  to  group 
+‘m’). 
+Source  of  data  to 
+be used: 
+PLN  
+Value    of    data 
+applied   for   the 
+purpose           of 
+calculating 
+expected   emission 
+reduction: 
+Refer to: 
+Emission baseline calculation 
+ 
+Description      of 
+measurement  methods 
+and  procedures  to 
+be applied: 
+No  measurement  required.  Data  is  obtained  based  on  analysis 
+of PLN published information.  
+QA/QC procedures to 
+be applied:  
+- 
+ 
+Any comment: - 
+ 
+Data/Parameter: 
+
+m
+EG
+m,y
+ 
+Data unit: MWh 
+Description: Generation  data  of  power  plants  in  sample  group  ‘m’  in  year 
+‘y’, where: 
+Group  ‘m’  is  five  most  recently  build  power  plants  or  power 
+plants  capacity  additions  that  comprise  20%  of  system 
+generation (whichever is larger compare to group ‘j’). 
+Source  of  data  to 
+be used: 
+PLN  
+Value    of    data 
+applied   for   the 
+Refer to: 
+Emission baseline calculation 
+
+VCS Project Description   
+ 30 
+purpose           of 
+calculating 
+expected   emission 
+reduction: 
+ 
+Description      of 
+measurement  methods 
+and  procedures  to 
+be applied: 
+No  measurement  required.  Data  is  obtained  based  on  analysis 
+of PLN published information.  
+QA/QC procedures to 
+be applied:  
+- 
+ 
+Any comment: - 
+ 
+ 
+Data/Parameter: NCV
+i
+ 
+Data unit: TJ/kt 
+Description: Net  calorific  value  of  fuel  type  ‘I’  for  purpose  of 
+calculating grid emission factor 
+Source  of  data  to 
+be used: 
+Publication  from  various  country  relevant  sources  or  IPCC 
+data  
+Value    of    data 
+applied   for   the 
+purpose           of 
+calculating 
+expected   emission 
+reduction: 
+HSD & Diesel Oil    = 43   TJ/kt 
+MFO                 = 40.4 TJ/kt 
+Coal                = 21.34TJ/kt 
+Natural gas         = 48   TJ/kt 
+ 
+Description      of 
+measurement  methods 
+and  procedures  to 
+be applied: 
+-  
+QA/QC procedures to 
+be applied:  
+- 
+ 
+Any comment: - 
+ 
+Data/Parameter: EF
+CO2
+  
+Data unit: tCO
+2/
+TJ 
+Description: CO
+2
+ emission  factor  of  fuel  type  ‘i’  for  purpose  of 
+calculating grid emission factor  
+Source  of  data  to 
+be used: 
+IPCC Guidelines for National Greenhouse Gas Inventories 
+Value    of    data 
+applied   for   the 
+purpose           of 
+calculating 
+expected   emission 
+reduction: 
+HSD & Diesel Oil    = 74.1 tCO
+2
+/TJ 
+MFO                 = 77.4 tCO
+2
+/TJ 
+Coal                = 96.1 tCO
+2
+/TJ 
+Natural gas         = 56.1 tCO
+2
+/TJ 
+ 
+Description      of 
+measurement  methods 
+and  procedures  to 
+be applied: 
+-  
+QA/QC procedures to 
+be applied:  
+- 
+ 
+Any comment: - 
+ 
+3.4 Description of the monitoring plan  
+This  section  presents  the  steps  taken  to  monitor  on  regular  basis  the  GHG 
+emission reductions from the capacity upgrade project at Gunung Salak geothermal 
+power plant in Indonesia. 
+ 
+The purpose of the monitoring plan is to present reliable and complete data and 
+to ensure that all actual project data is well organised in term of collection 
+and archiving. 
+ 
+1. Monitoring organisation 
+
+VCS Project Description   
+ 31 
+Prior to the start of the crediting period, the organisation of the monitoring 
+team will be established. Clear roles and responsibilities will be assigned to 
+all staff and the power plant manager involved in the VCS project, who will have 
+overall  responsibility  for  the  monitoring  system  in  the  project,  ensuring 
+trained  staff  perform  the  monitoring  duties  and  that  where  trained  monitoring 
+staff are absent, the integrity of the monitoring system is maintained by other 
+trained staff. Initial training will be conducted and regular checks performed 
+to ensure adequacy of monitoring data. 
+ 
+ 
+Monitoring Organisation Chart 
+ 
+ 
+ 
+QA 
+The project developer has created procedures that will ensure consistent quality 
+of all data collection, recording, storage, and reporting. The project developer 
+has  assigned  a  VCS  manager,  the  overall  person  responsible  for  the  VCS 
+monitoring process. The VCS manager cooperates with on-site VCS coordinator and 
+collects  all  the  monitored  data  required  for  the  VCS.  Monthly  reports  are 
+prepared for the power plants manager who has overall quality control. 
+ 
+ 
+2. Monitoring equipment and installation 
+ 
+Metering of electricity supplied to the grid  
+The  electricity  meter  will  be  the  revenue  meter  that  measures  the  quantity  of 
+electricity for which the project will be paid. As this meter provides the main 
+measurement  in the  methodology,  it  will  be  a  key  part  of  the  verification 
+process. This meter is located at the Gunung Salak substation.  
+  
+South Pole Carbon 
+1.  Verify monitoring process and data 
+2.  Calculation of emissions reduction 
+3.  Point of reference for VCS related matters 
+PT. Indonesia Power   
+VCS Inspector 
+1.  Consistency check of reported data 
+2.  Documentation management 
+VCS Manager 
+1.  Supervision of staff (data recording) 
+2.  Review of monitoring systems 
+3.  Consistency check of reported data 
+4.  VCS documentation on-site 
+5.  Coordinate calibration  
+ 
+VCS Coordinator (on-site) 
+Reports 
+1.  Electricity sales to the grid 
+2.  Steam main inlet flow 
+3.  Steam sampling procedure & results 
+4.  Electricity consumption for start-up 
+ 
+ 
+Power plant operator 
+1.  Electricity sales to the grid 
+2.  Steam main inlet flow 
+3.  Electricity consumption for trip & shutdown 
+Chemical Laboratory 
+Steam sampling procedures & results 
+
+VCS Project Description   
+ 32 
+To  ensure  maximum  data  availability  and  to  introduce  data  quality  controls,  a 
+crosscheck meter will be installed in addition to the revenue meter. This meter 
+will  also  be  located  at  the  Gunung  Salak  substation,  measuring  electricity 
+exported from the project. 
+ 
+The  electricity  meter  shall  meet  relevant  local  standards  at  the  time  of 
+installation. Therefore,  the  meters  must  be  factory  calibrated  at  the 
+manufacturer before its installation and will be checked repeatedly once per 2 
+years during its operation. Project owner will install the meters at the project 
+site. Records of the meter (type, maker, model, and calibration documentation) 
+are retained in the quality control system on-site. 
+ 
+Electricity measurements will be taken in accordance with SOP signed between PT. 
+Indonesia Power and PT. PLN (load dispatcher), or other documents which update 
+or replace this SOP. 
+ 
+Monitoring equipments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Metering of geothermal steam flow 
+ 
+Data is available at the local meter and remotely (Central Control Room, CCR) of 
+power plant. All data will be recorded in a Steam Log Sheet manually. The daily 
+Steam  Log  Sheet report  will be  submitted  to VCS  Coordinator  for monthly  steam 
+production report. 
+ 
+Lab test of geothermal steam sampling procedure 
+ 
+The  Lab  officer  is  responsible  for  steam  sampling  procedures  and  chemical 
+analysis  at  Gunung  Salak  Geothermal  Area  laboratory.  The  report  will  be 
+submitted  to  the VCS  Coordinator  and  subsequently  reported  to  the  Manager of 
+Gunung Salak power plants units 1, 2, and 3. 
+ 
+All equipment will be calibrated by the manufacturer according to relevant local 
+standards  at  the  time  of  installation  and  maintained  in  accordance  with  the 
+manufacturer’s  recommendations  to  ensure  accuracy  of  measurements.  Records  of 
+the meter (type, make, model, calibration, and maintenance documentation) will 
+be retained as part of the VCS monitoring system. 
+ 
+ 
+(1)  Electricity Main Meter 
+(2)  Steam Flow Meter 
+(3)  Power plant Steam Sampling 
+(4)  Geothermal Wells Steam Sampling  (if required) 
+Power plant Area 
+Geothermal Field Area 
+(4) 
+W.S 
+(2) 
+V.M 
+150 kV –   Grid 
+Transmission 
+(3) 
+P.S 
+Power plant 
+Central Control 
+Room display 
+(1) 
+E.M 
+Power 
+Gen 
+Cyc
+lon
+e 
+Steam 
+Turbine 
+
+VCS Project Description   
+ 33 
+3. Data recording procedure 
+ 
+All  relevant  data  will  be  archived  electronically  and  backed  up  regularly. 
+Uncertainty  will  be  considered  to  achieve  conservative  results.  Moreover,  it 
+will be kept for the full crediting period, plus two years after the end of the 
+crediting  period  or  the  last  issuance  of  VCUs  for  this  project  activity 
+(whichever occurs later). The Monitoring Plan has been developed to ensure that 
+the project has robust data collection, processing, and archiving procedures. 
+ 
+Other  data  for  VER  procedures  will  be  managed  by  the  VCS  Coordinator  and 
+subsequently reported to the power plant manager. 
+ 
+ 
+4. Document management 
+ 
+The  project  developer  will  keep  electricity  sale  and  purchase  invoices.  All 
+written documentation such as specifications, maps, and drawings, will be stored 
+for the crediting period and two years afterwards, and be made available to the 
+verifier so that the reliability of the information may be checked. 
+ 
+The  document  management  system  will  be  developed  to  ensure  adequate  document 
+control  for  VER  purposes.  Monitoring  report  and  supporting  workbook  will  be 
+provided for verification. 
+  
+ 
+4 GHG Emission Reductions:  
+ 
+4.1 Explanation of methodological choice:  
+ 
+Baseline emissions 
+ 
+Based on ACM0002 version 7, the baseline emission (BE
+y
+ in tCO
+2
+) is the product of 
+the baseline emission factor (EF
+y
+ in tCO
+2
+/MWh) times the electricity supplied by 
+the  project  activity  to  the  grid  (EG
+y
+  in  MWh)  minus  the  baseline  electricity 
+supplied to the grid in the case of modified or retrofit facilities (EG
+baseline
+ in 
+MWh), as follows: 
+ 
+ 
+ 
+Where: 
+ 
+BE
+y
+ Baseline emissions in year y (tCO
+2
+/yr) 
+EG
+y
+ Electricity  supplied  by  the  project  activity  to  the  grid 
+(MWh) 
+EG
+baseline
+ Baseline  electricity  supplied  to  the  grid  in  the  case  of 
+modified or retrofit facilities (MWh). For new power plants 
+this value is taken as zero. 
+EF
+grid,CM,y
+ Combined  margin  CO2  emission  factor  for  grid  connected 
+power  generation  in  year  y  calculated  using  the  latest 
+version  of  the  “Tool  to  calculate  the  emission  factor  for 
+an electricity system” 
+ 
+Calculation of EG
+baseline
+ 
+ 
+Since  the  project  activity  is  the  installation  of  additional  geothermal  power 
+units at an existing grid-connected renewable power plant, EG
+baseline
+ calculation 
+is as follows: 
+ 
+In  the  absence  of  the  CDM  project  activity,  the  existing  facility  would 
+continue  to  provide  electricity  to  the  grid  (EG
+baseline
+,  in  MWh/year)  at 
+historical average levels (EG
+historical
+, in MWh/year), until the time at which 
+the  generation  facility  would  likely  to  be  replaced  or  retrofitted 
+(DATE
+BaselineRetrofit
+). From that point of time onwards, the baseline scenario is 
+assumed  to  correspond  to  the  project  activity,  and  baseline  electricity 
+
+VCS Project Description   
+ 34 
+production  (EG
+baseline
+)  is  assumed  to  equal  project  electricity  production 
+(EGy, in MWh/year), and no emission reductions are assumed to occur. 
+ 
+ 
+ 
+ 
+ 
+Where: 
+ 
+EG
+baseline
+ Baseline  electricity  supplied  to  the  grid  in  the  case 
+of modified or retrofit facilities (MWh).  
+EG
+historical
+ Average  of  historical  electricity  delivered  by  the 
+existing facility to the grid (MWh). 
+EG
+y
+ Electricity  supplied  by  the  project  activity  to  the 
+grid (MWh). 
+DATE
+BaselineRetrofit
+ Point in time when the existing equipment would need to 
+be  replaced  in  the  absence  of  the  project  activity 
+(date) 
+ 
+Calculation of EG
+historical 
+ 
+EG
+historical
+  is  the  average  of  historical  electricity  delivered  by  the  existing 
+facility to the grid, spanning all data from the most recent available year(or 
+month,  week,  or  other  time  period)  to  the  time  at  which  the  facility  was 
+constructed,  retrofit,  or  modified  in  a  manner  that  significantly  affected 
+output (i.e., by 5% or more), expressed in MWh per year. A minimum of 5 years 
+(60 months) (excluding abnormal years) of historical generation data is required 
+in the case of hydro facilities. For other facilities, a minimum of 3 years data 
+is required. Data for periods affected by unusual circumstances such as natural 
+disasters, conflicts, transmission constraints shall be excluded. 
+ 
+Calculation of DATE
+BaselineRetrofit
+ 
+ 
+In order to estimate the point in time when the existing equipment would need to 
+be  replaced  in  the  absence  of  the  project  activity  (DATE
+BaselineRetrofit
+),  project 
+participants may take the following approaches into account:  
+  
+(a)  The  typical  average  technical  lifetime  of  the  type  equipment  may  be 
+determined  and  documented,  taking  into  account  common  practices  in  the  sector 
+and country, e.g. based on industry surveys, statistics, technical literature, 
+etc.  
+(b)  The  common  practices  of  the  responsible  company  regarding  replacement 
+schedules may be evaluated and documented, e.g. based on historical replacement 
+records for similar equipment.  
+  
+The point in time when the existing equipment would need to be replaced in the 
+absence of the project activity should be chosen in a conservative manner, i.e. 
+if a range is identified, the earliest date point in time should be chosen. 
+ 
+Calculation of EF
+grid,CM,y
+ 
+ 
+EF
+grid,CM,y
+ of JAMALI grid is determined as follows: 
+ 
+The  weighted  average  of  the  Operating  Margin  emission  factor  (EF
+OM,y
+)  and  the 
+Build Margin emission factor (EF
+BM,y
+) are calculated according to the procedures 
+prescribed  in  the  “Tool  to  calculate  the  emission  factor  for  an  electricity 
+system, Version 01, 19 October 2007 (EB 35). 
+ 
+Step 1- Identify the relevant electric power system 
+ 
+According to the latest version of the tool, the JAMALI power grid is selected 
+as  the  project  boundary,  as  the  regional  interconnected  grid  covering  three 
+islands very close to each other (Java, Madura, and Bali islands) and separated 
+by   a   relatively   long   distance   from   other   islands   in   Indonesia   (no 
+interconnection exists to other islands). 
+
+VCS Project Description   
+ 35 
+The project is located in Gunung Salak geothermal area, and is connected to the 
+existing JAMALI power transmission line for Gunung Salak geothermal power plant 
+units 1, 2, and 3.   
+The JAMALI power grid is therefore determined as the project boundary. 
+Both the OM and the BM will be calculated ex-ante. 
+ 
+Step 2- Select an operating margin method 
+ 
+The “Tool to calculate the emission factor for an electricity system” (version 
+01, EB35) offers four methods to calculate the OM and any of the four methods 
+can be used: 
+1. Simple OM, 
+2. Simple adjusted OM, or 
+3. Dispatch Data Analysis OM, or  
+4. Average OM 
+The  baseline  emissions  factor  (EF
+y
+)  is  calculated  as  the  average  of  the 
+operating  margin  emissions  factor  and  the  build  margin  emissions  factor.  The 
+data used to calculate the grid emissions factor comes from Indonesia National 
+Power Company (PLN). 
+ 
+The  Operating  Margin  Emission  Coefficient  (EF
+OM
+)  can  be  calculated  based  on 
+Simple  OM  or  Average  OM,  with  consideration  of  the  restrictions  to  use  each 
+approach. The selection of the most suitable method is based on the analysis of 
+the proportion of low-cost/must-run generation sources in the concerning grid. 
+Option 2 (simple adjusted OM) and option 3 (dispatch data analysis) will not be 
+used since sufficient data is not available. The OM will be calculated ex-ante. 
+ 
+Step 3- Calculate the operating margin emission factor according to the selected 
+method 
+ 
+The  operating  margin  emission  factor  for  each  year  ‘y’  was  calculated  using 
+equation 1 (preferred option) of the ‘Tool to calculate the emission factor for 
+an  electricity  system’,  adapted  to  data  available  from  PLN,  which  has  grouped 
+the power plants according to type as shown in the above table. 
+ 
+ 
+ 
+where: 
+EF
+OM,simple y  
+Simple  operating  margin  CO
+2
+  emission  factor  in  year  ‘y’ 
+(tCO
+2
+e/MWh) 
+FC
+i,j,y
+ 
+ 
+Amount  of  fossil  fuel  type  ‘i’  consumed  in  project 
+electricity system ‘j’ in year ‘y’ 
+NCV
+i,y
+  Net calorific value (energy content) of fossil fuel type 
+‘i’ in year ‘y’   
+EF
+CO2,i,y
+ CO2 emission factor of fossil fuel type ‘i’ in year ‘y’ 
+(tCO
+2
+e/GJ) 
+EG
+j,y
+ Net  electricity  generated  and  delivered  to  the  grid  by 
+all  power  sources  serving  the  system  ‘j’,  not  including 
+low-cost/must-run power plants/units in year ‘y’ (MWh) 
+i All  fossil  fuel  types  combusted  in  power  sources  in 
+project electricity system ‘j’ in year ‘y’ 
+y The applicable year during monitoring (ex-ante option) 
+ 
+The  Operating  Margin  will  be  calculated  ex-ante,  therefore  the  factor  is 
+calculated  based  on  3  recent  years  available  data,  which  are  2004,  2005,  and 
+2006 data.  
+ 
+Step 4- Identify the cohort of power units to be included in the build margin 
+(BM) 
+ 
+The  Project  Developer can choose  to  use following  options  to  calculate  Build 
+Margin Emission Factor (EF
+BM,y
+), which is based on a sample group m that consists 
+of  either  one  of  the  following;  whichever  comprises  the  larger  annual 
+generation: 
+
+VCS Project Description   
+ 36 
+ 
+a. five power plants that have been built most recently, or 
+b. power  plant  capacity  additions  that  comprises  20%  of  the  system  generation 
+that have been built most recently 
+ 
+In  terms  of  vintage  of  data,  the  project  participant can  choose one  of  the 
+following options: 
+ 
+Option 1 
+“For the first crediting period, calculate the build margin emissions factor ex-
+ante based on the most recent information available on units already built for 
+sample group m at the time of VCS-PD submission to the DOE for validation. For 
+the second crediting period, the build margin emission factor should be updated 
+based  on  the  most  recent  information  available  on  units already  built  at  the 
+time  of  submission  of  the  request  for  renewal  of  the  crediting  period  to  the 
+DOE. For the third crediting period, the build margin emission factor calculated 
+for  the  second  crediting  period  should  be  used.  This  option  does  not  require 
+monitoring emission factor during the crediting period.” 
+ 
+Option 2 
+“For  the  first  crediting  period,  the  build  margin  emission  factor  shall  be 
+updated  annually,  ex-post,  including  those  units  built  up  to  the  year  of 
+registration  of  the  project  activity  or, if  information  up  to  the  year  of 
+registration is not yet available, including those units built up to the latest 
+year  for  which  information  is  available.  For  the  second  crediting  period,  the 
+build margin emission factor shall be calculated ex-ante, as described in Option 
+1  above.  For  the  third  crediting  period,  the  build  margin  emission  factor 
+calculated for the second crediting period should be used.” 
+ 
+Step 5- Calculate the build margin emission factor 
+ 
+Once  the  sample  group  ‘m’  is  defined,  the  build  margin  is  calculated ex-ante 
+using the following equation: 
+ 
+ 
+ 
+where: 
+EF
+BM,y  
+Build margin CO
+2
+ emission factor in year ‘y’ (tCO
+2
+e/MWh) 
+FC
+i,m,y
+ 
+ 
+Amount of fossil fuel type ‘i’ consumed by power plants 
+in the sample group ‘m’ of the electricity system in year 
+‘y’ 
+NCV
+i,y
+  Net calorific value (energy content) of fossil fuel type 
+‘i’ in year ‘y’ 
+EF
+CO2,i,y
+ CO
+2
+  emission  factor  of  fossil  fuel  type  ‘i’  in  year  ‘y’ 
+(tCO
+2
+e/GJ) 
+EG
+m,y
+ Net  electricity  generated  and  delivered  to  the  grid  by 
+power plants in the sample group ‘m’ serving the system 
+‘j’,  not  including  low-cost/must-run  power  plants/units 
+in year ‘y’ (MWh) 
+ 
+ 
+Step 6- Calculate the combined margin emission factor 
+ 
+ 
+ 
+where: 
+ 
+EF
+grid,CM,y  
+Combined Margin baseline emission factor (tCO
+2
+e/MWh) 
+
+OM
+ 
+ 
+Operation Margin weight, which is 0.5 by default  
+EF
+OM,y 
+ Operation Margin emission factor (tCO
+2
+e/MWh)  
+
+BM
+ 
+Build Margin weight, which is 0.5 by default  
+
+VCS Project Description   
+ 37 
+EF
+BM,y
+ Build Margin emission factor (tCO
+2
+e/MWh)  
+Y
+ 
+Refers to a given year  
+  
+ 
+Project Emissions 
+ 
+Project emissions for geothermal power plants are calculated as follows: 
+ 
+ 
+ 
+where: 
+ 
+PE
+y 
+Project emissions in year ‘y’ (tCO
+2
+e/year) 
+PES
+y 
+Project emissions of carbon dioxide and methane due to 
+the  release  of  non-condensable  gases  from  the  steam 
+produced  in  the  geothermal  power  plant  in  year  ‘y’ 
+(tCO
+2
+e/year) 
+PEFF
+y
+ 
+ 
+Project  emissions  from  combustion  of  fossil  fuels 
+related to the operation of the geothermal power plant 
+in year ‘y’ (tCO
+2
+e/year) 
+ 
+a) Fugitive  carbon  dioxide  and  methane  emissions  due  to  release  of  non-
+condensable gases from the produced steam (PES
+y
+) 
+ 
+ 
+ 
+where: 
+ 
+w
+main,CO2 
+Average mass fraction of carbon dioxide in the produced 
+steam (non-dimensional)  
+w
+main,CH4 
+Average  mass  fraction  of  methane  gas  in  the  produced 
+steam (non-dimensional) 
+GWP
+CH4 
+Global  warming  potential  of  methane  valid  for  the 
+relevant commitment period (tCO
+2
+/tCH
+4
+)  
+M
+S,y 
+Quantity of steam produced during the year ‘y’ (tonnes) 
+ 
+ 
+b) Carbon dioxide emissions from fossil fuel combustion (PEFF
+y
+) 
+ 
+ 
+  
+where: 
+ 
+PE
+FC,j.y
+ 
+ 
+CO
+2
+ emissions from fossil fuel combustion in process ‘j’ 
+during  the  year  ‘y’  (tCO
+2
+e/year).  This  parameter  shall 
+be calculated as per the latest version of the Tool to 
+calculate  project  or leakage  CO2  emissions  from  fossil 
+fuel  combustion,  where  ‘j’  stands  for  the  processes 
+required for the operation of the geothermal power plant 
+ 
+A diesel genset is used for emergency power supply to critical instruments only 
+during  shutdown  and  if  the  power  plant  tripped,  where  its  project  emission  is 
+calculated using the “Tool to calculate project or leakage emissions from fossil 
+fuel  combustion”  (EB  32  meeting  report –  Annex  9)  using  option  B:  the  CO
+2
+ 
+emission coefficient COEF
+i,y
+ is calculated based on net calorific value and CO
+2
+ 
+emission factor of the fuel type ‘i’, 
+ 
+  
+ 
+where: 
+ 
+PE
+FC,j,y 
+CO
+2
+ emissions from fossil fuel combustion in process ‘j’ 
+
+VCS Project Description   
+ 38 
+during the year ‘y’ (tCO
+2
+e/year)  
+FC
+j,i,y
+ Quantity  of  fuel  type  ‘i’  combusted  in  process  ‘j’ 
+during the year ‘y’ (mass or volume unit) 
+COEF
+j,y
+ CO
+2
+  emissions  coefficient  of  fuel  type  ‘i’  in  year  ‘y’ 
+(tCO
+2
+e/mass or volume unit) 
+NCV
+i,y
+ Weighted  average  net  calorific  value  of  the  fuel  type 
+‘i’ in year ‘y’ (GJ/mass or volume) 
+EF
+CO2,i,y
+ Weighted average CO
+2
+ emission factor of fuel type ‘i’ in 
+year ‘y’ (tCO
+2
+/GJ) 
+ 
+Gunung  Salak  geothermal  power  plant  units  1,  2,  and  3  utilise  a  direct  steam 
+expansion  turbine  from  the  geothermal  field  steam  supply.  It  has  no 
+supplementary  firing  for  additional  steam  supply.  Estimated  amount  of  Non-
+Condensable Gases (NCG) is around 0.5%, consisting primarily of CO
+2
+. 
+ 
+ 
+Leakage Emissions 
+ 
+According  to  ACM0002  version  7,  the  leakage  of  the  proposed  project  is  not 
+considered. No leakage is expected. 
+ 
+ 
+ 
+ 
+Emission Reductions 
+ 
+Emission reduction calculations are as follows: 
+ 
+ 
+ 
+ 
+where: 
+ 
+ER
+y 
+Emission reduction in year ‘y’(tCO
+2
+e/year)  
+PE
+y
+ Project emissions in year ‘y’(tCO
+2
+e/year) 
+BE
+y
+ Baseline emissions in year ‘y’(tCO
+2
+e/year) 
+L
+y
+ Leakage emissions in year ‘y’ (tCO
+2
+e/year) 
+ 
+ 
+ 
+4.2 Quantifying  GHG  emissions  and/or  removals  for  the  baseline 
+scenario:  
+ 
+Calculation of EF
+grid,CM,y
+ 
+ 
+EF
+grid,CM,y
+ of JAMALI grid is determined as follows: 
+ 
+The  weighted  average  of  the  Operating  Margin  emission  factor (EF
+OM,y
+)  and  the 
+Build Margin emission factor (EF
+BM,y
+) are calculated according to the procedures 
+prescribed  in  the  “Tool  to  calculate  the  emission  factor  for  an  electricity 
+system, Version 01, 19 October 2007 (EB 35). 
+ 
+Step 1- Identify the relevant electric power system 
+ 
+According to the latest version of the tool, the JAMALI power grid is selected 
+as  the  project  boundary,  as  the  regional  interconnected  grid  covering  three 
+islands very close to each other (Java, Madura, and Bali islands) and separated 
+by   a   relatively   long   distance   from   other   islands   in   Indonesia   (no 
+interconnection exists to other islands). 
+The project is located in Gunung Salak geothermal area, and is connected to the 
+existing JAMALI power transmission line for Gunung Salak geothermal power plant 
+units 1, 2, and 3.   
+The JAMALI power grid is therefore determined as the project boundary. 
+Both the OM and the BM will be calculated ex-ante. 
+ 
+
+VCS Project Description   
+ 39 
+Step 2- Select an operating margin method 
+ 
+The following table summarises data from PLN publications between the years 2002 
+and 2006
+15
+, as well as information directly sourced from PLN P3B Java Bali load 
+dispatcher
+16
+. It is pertinent to note that data from individual IPPs between 2002 
+and 2004 is not available and generation data from these sources is aggregated 
+as  annual  outputs.  For  these  periods,  all  generation  outputs  from  IPPs
+17
+ are 
+considered as low-cost/must-run (since these plants sell electricity to the grid 
+under  a  ‘Take  or  Pay’  contract  with  PLN  whereby  PLN  must  purchase  the 
+electricity that is generated by the plants) leading to a higher percentage from 
+the year 2005 onwards. 
+ 
+Table – JAMALI grid LCMR power plants 
+  
+Generation 
+type 
+ 
+2002 2003 2004 2005 2006 
+PLTA 
+(hydropower)  
+ 
+Low 
+Cost/Must 
+Run 
+5,983 4,891 5,428  7,091 5,208 
+PLTU  (steam 
+cycle) 
+ 
+34,279  37,526  37,033  55,699  64,629   
+PLTG   (open 
+cycle 
+turbine)  
+ 
+ 
+1,091 1,686  2,148 5,294   1,891 
+PLTGU 
+(combined 
+cycle 
+ 
+24,272   23,817    25,476    26,185    26,939   
+PLTP 
+(geothermal)  
+Low 
+Cost/Must 
+Run 
+3,056 2,804  2,988   6,466  6,500   
+PLTD 
+(diesel) 
+ 
+111 117 94 161 108 
+Purchased 
+from IPPs 
+ 
+13,425  19,110   22,236   
+– – 
+Total Generation (GWh) 82,217   89,952   100,896    100,896   105,274  
+% of Low Cost/Must Run  27% 30% 32% 13% 11% 
+   
+ 
+Analysis  of  the  data  in  above  table  suggests  that  the  percentage  for  low-
+cost/must-run power plants between the years 2002 and 2006 are consistently well 
+below  50%,  and  are  not  expected  to  change  significantly  within  the  crediting 
+period. Based on this analysis, the Simple OM method can be used as basis for 
+the calculation. 
+ 
+Step 3- Calculate the operating margin emission factor according to the selected 
+method 
+ 
+The  Operating  Margin  will  be  calculated  ex-ante  by  using  3  recent  years 
+available data, which are 2004, 2005 and 2006 data.  
+ 
+Operating margin emission factor (EF
+OM
+) 
+                                                
+15
+ Data was obtained from PLN statistics website (Table 23 and Table 24 for all 
+years). Data for power purchased from Independent Power Producers (IPPs) was 
+lumped as a single generation data, except for year 2005 and 2006 
+16
+ Data for 2006 includes all power plants including individual IPPs. Data for 
+2005 is IPP generations data to be used as complimentary information with 
+published data for 2005 contained in Table 23 and Table 24 of PLN statistic 
+website 
+17
+ IPPs (Independent Power Producers) are non-PLN or PLN subsidiary owned power 
+plants 
+
+VCS Project Description   
+ 40 
+ 
+ 
+  
+  
+ Table – Fuel consumption (2004) in JAMALI grid power plants 
+  
+  
+Fuel Type Fuel 
+Consumption  in 
+various unit 
+Fuel   Consumption 
+in    mass    unit 
+(tonnes) 
+Emission from 
+fuel    usage 
+(tCO
+2
+e/year) 
+High        Speed 
+Diesel        Oil 
+(HSDO) 
+3,267,163 
+(kiloliter) 
+2,679.07 8,561,990 
+Marine  Fuel  Oil 
+(MFO) 
+2,096,787 
+(kiloliter) 
+2,075.82  6,491,002 
+Coal 13,425,337 (T) 13,425.34 27,530,929 
+Natural Gas 138,693 
+(MMSCF) 
+2,568.49 6,916,427 
+Total  CO2  emissions  from  fossil  fuel  consumed  by 
+power plants in the Grid  
+
+i,m
+ FC
+i,m,2004
+ x NCV
+j
+ x EF
+CO2,i
+ 
+ 
+49,500,348 
+  
+ 
+ Table – Fuel consumption (2005) in JAMALI grid power plants 
+  
+  
+Fuel Type Fuel 
+Consumption  in 
+various unit 
+Fuel   Consumption 
+in    mass    unit 
+(tonnes) 
+Emission from 
+fuel    usage 
+(tCO
+2
+e/year) 
+High Speed 
+Diesel        Oil 
+(HSDO) 
+5,148,476 
+(kiloliter) 
+4,221.75 13,490,005 
+Marine  Fuel  Oil 
+(MFO) 
+1,933,928 
+(kiloliter) 
+1,914.59  5,986,841 
+Coal 23,876,045 (T) 23,878.64 48,967,207 
+Natural Gas 124,004 
+(MMSCF) 
+2,296.45 6,183,879 
+Total  CO2  emissions  from  fossil  fuel  consumed  by 
+power plants in the Grid  
+
+i,m
+ FC
+i,m,2005
+ x NCV
+j
+ x EF
+CO2,i
+ 
+ 
+74,627,933 
+ 
+  
+ Table – Fuel consumption (2006) in JAMALI grid power plants 
+  
+  
+Fuel Type Fuel 
+Consumption  in 
+various unit 
+Fuel   Consumption 
+in    mass    unit 
+(tonnes) 
+Emission from 
+fuel    usage 
+(tCO
+2
+e/year) 
+High        Speed 
+Diesel        Oil 
+(HSDO) 
+4,393,415 
+(kiloliter) 
+3,602.60 11,478,965 
+Marine  Fuel  Oil 
+(MFO) 
+2,340,481 
+(kiloliter) 
+2,317.08  7,245,405 
+Coal 26,978,372 (T) 26,978.00 55,323,722 
+Natural Gas 142,494 
+(MMSCF) 
+2,638.00 7,105,975 
+Total  CO2  emissions  from  fossil  fuel  consumed  by 
+power plants in the Grid  
+
+i,m
+ FC
+i,m,2006
+ x NCV
+j
+ x EF
+CO2,i
+ 
+ 
+81,154,067 
+  
+
+VCS Project Description   
+ 41 
+The  Simple  OM  Emission  Factor  (EF
+OM,2004,  2005,  2006
+)  for  the  electricity  grid  is 
+calculated by dividing the total CO
+2
+ emission from fossil fuel shown in the last 
+row above (as an example for 2006 data: 81,154,067) by its corresponding total 
+generation data for 2006 excluding the low-cost/must-run sources (105,274-5,208-
+6,500). The 2004, 2005 and 2006 Operation Margin Emission Factor is calculated 
+as follows: 0.764, 0.854 and 0.867 tCO
+2
+e/MWh.  
+ 
+ 
+Table – JAMALI grid 2006 Operating Margin calculation 
+ 
+ 
+Operating Margin Year 2004 Year 2005 Year 2006  Unit 
+Total CO
+2
+ Emission (tCO
+2
+)  49,500,348 74,627,933 81,154,067 tCO
+2
+ 
+Total Power Generated  95,404,790 100,895,590 105,274,148 MWh 
+Power  from  Low-Cost/Must-Run 
+sources:  
+Hydroelectric 
+Geothermal 
+Total   generation   from   low-
+cost/must-run 
+ 
+ 
+5,428,220 
+2,988,240 
+30,652,460 
+ 
+ 
+7,090,790 
+6,466,250 
+13,557,040 
+ 
+ 
+5,207,670 
+6,499,760 
+11,707,430 
+ 
+MWh  
+MWh 
+MWh 
+Annual   generation   excluding 
+low-cost/must-run  
+64,752,330 87,338,550 93,566,710 MWh 
+Operating    Margin    Emission 
+Factor  
+0.764 0.854 0.867 
+tCO
+2
+/ MWh 
+Average    Operating    Margin 
+Emission  Factor  (2004,  2005 
+and 2006) 
+0.829 
+tCO
+2
+/ MWh 
+ 
+ 
+Step 4- Identify the cohort of power units to be included in the build margin 
+(BM) 
+ 
+The  Project  Developer chose  to  use following  2  options,  to  calculate  Build 
+Margin Emission Factor (EF
+BM,y
+), which is based on a sample group m that consists 
+of  either  one  of  the  following;  whichever  comprises  the  larger  annual 
+generation: 
+ 
+a. five power plants that have been built most recently, or 
+b. power  plant  capacity  additions  that  comprises  20%  of  the  system 
+generation that have been built most recently 
+ 
+The  identified  five  most  recent  power  plants,  however  comprise  only  8.79%  of 
+total  power  generation  and  therefore  sample  group  ‘m’  was  expanded  to  include 
+power plants up to capacity additions that comprises 20% of system generations. 
+These power plants and their corresponding generation and fuel consumption are 
+presented  in  the  following  table.  CO
+2
+  emissions  from  these  power  plants  are 
+calculated using a similar method as described under operating margin using the 
+same fuel data. 
+ 
+In terms of vintage of data, the project participant has chosen Option 1 of the 
+following options: 
+ 
+Option 1 
+“For the first crediting period, calculate the build margin emissions factor ex-
+ante based on the most recent information available on units already built for 
+sample group m at the time of VCS-PD submission to the DOE for validation. For 
+the second crediting period, the build margin emission factor should be updated 
+based  on  the  most  recent  information  available  on  units  already  built  at  the 
+time  of  submission  of  the  request  for  renewal  of  the  crediting  period  to  the 
+DOE. For the third crediting period, the build margin emission factor calculated 
+for  the  second  crediting  period  should  be  used.  This  option  does  not  require 
+monitoring emission factor during the crediting period.” 
+ 
+Option 2 
+“For  the  first  crediting  period,  the  build  margin  emission  factor  shall  be 
+updated  annually,  ex-post, including  those  units  built  up  to  the  year  of 
+registration  of  the  project  activity  or,  if  information  up  to  the  year  of 
+registration is not yet available, including those units built up to the latest 
+
+VCS Project Description   
+ 42 
+year  for  which  information  is  available.  For  the  second crediting  period,  the 
+build margin emission factor shall be calculated ex-ante, as described in Option 
+1  above.  For  the  third  crediting  period,  the  build  margin  emission  factor 
+calculated for the second crediting period should be used.” 
+ 
+ 
+Step 5- Calculate the build margin emission factor 
+ 
+ Build margin emission factor (EF
+BM
+) 
+  
+  
+  
+ 
+Table - JAMALI grid Build Margin sample group ‘m’ power plants 
+ 
+Sample  group  ‘m’  power 
+plant       and       its 
+commissioning year 
+Fuel  type  and 
+Consumptions 
+(kT)  
+% Cumulative 
+generation   per 
+total 
+generations   of 
+all power plants 
+in Grid  
+Annual 
+generation 
+in      2006 
+(MWh) 
+ 
+Cilegon (2006) Natural  Gas  (6.7 
+kT) 
+0.73% 773,676 
+Tanjung Jati B (2006) Coal (1,887 kT) 4.55% 4,013,074  
+Cilacap (2006)  Coal (965 kT) 6.35% 1,901,659 
+Muara Tawar 3-4 (2005)  High  Speed  Diesel 
+(582 kT) 
+7.91% 1,641,877 
+Wayang Windu (2005) Geothermal (-) 8.79%  922,299 
+Paiton PEC (2004)  Coal (4,556 kT) 17.77% 9,451,482  
+Jawa Power (2004)  Coal (4,520 kT) 26.74% 9,446,179 
+ 
+  
+ Table – JAMALI grid Build margin calculation 
+  
+  
+Sample    group 
+‘m’       power 
+plant  and  its 
+commissioning 
+year  
+Fuel  type  and 
+consumptions  
+Cumulative 
+generation 
+per      total 
+generations 
+of  all  power 
+plants  in  the 
+Grid (%)  
+Annual 
+generation 
+in       2006 
+(MWh)  
+(A)  
+ 
+CO
+2
+  emission 
+(tCO
+2
+e/year 
+(B) 
+Cilegon (2006) Natural     Gas 
+6.7 kT 
+0.73% 773,676 18,042 
+Tanjung  Jati  B 
+(2006) 
+Coal 1,887 kT 4.55% 4,013,074  3,869,757 
+Cilacap (2006) Coal 965 kT 6.35% 1,901,659 1,979,163 
+Muara  Tawar  3-
+4 (2005) 
+High      Speed 
+Diesel 582 kT 
+7.91% 1,641,877 1,855,892 
+Wayang    Windu 
+(2005) 
+Geothermal - 8.79%  922,299 
+– 
+Paiton      PEC 
+(2004) 
+Coal 4,556 kT 17.77% 9,451,482 9,363,029 
+Jawa      Power 
+(2004) 
+Coal 4,520 kT 26.74% 9,446,179 9,269,395  
+Total  emission  from  fossil  fuel  usage  by  all 
+power plants in sample group ‘m’ 
+
+i,m
+ FC
+i,m,2006
+ x NCV
+j
+ x EF
+CO2,i
+ 
+ 
+ 
+27,227,946 
+Total  annual  generation  of  power  plant  in 
+sample group ‘m’  
+28,150,245  
+
+VCS Project Description   
+ 43 
+
+m
+ EG
+m,2006
+ 
+2006 Build Margin Emission Factor or (EF
+BM,2006
+) 0.936 tCO
+2
+/MWh 
+ 
+Based  on  sample  group  ‘m’  identified  in  above  table,  the ex-ante Build  Margin 
+Emission  Factor  is  calculated  to  be 0.936  tCO
+2
+e/MWh  by  dividing  total  CO
+2
+ 
+emissions by the total annual generation data.  
+ 
+Step 6- Calculate the combined margin emission factor 
+ 
+ Combined margin emission factor (EF
+OM
+) 
+  
+ 
+   
+Therefore using the approach above, the ex-ante emission factor (EF
+OM
+) for Jamali 
+Grid will be 0.882 tCO
+2
+/MWh. 
+ 
+Calculation of EG
+historical 
+ 
+EG
+historical
+ for Unit 1 
+ 
+Baseline year 
+Electricity delivered to 
+the   grid   before   the 
+capacity upgrade (MWh) 
+  Unit 1 
+2001  
+(May 2000-April 2001) 
+371,716 
+2002  
+(May 2001-April 2002) 
+457,236 
+2003  
+(May 2002-April 2003) 
+437,297 
+2004  
+(May 2003-April 2004) 345,779 
+2005  
+(May 2004-April 2005) 444,788 
+EG
+historical
+ (MWh) 411,363 
+ 
+ 
+EG
+historical
+ for Unit 2 
+ 
+Baseline year 
+Electricity delivered to 
+the   grid   before   the 
+capacity upgrade (MWh) 
+  Unit 2 
+2001  
+(February 2000-January 2001) 359,457 
+2002 
+(February 2001-January 2002) 437,799 
+2003 
+(February 2002-January 2003) 
+433,620 
+2004 
+(February 2003-January 2004) 
+344,641 
+2005 
+(February 2004-January 2005) 
+419,994 
+EG
+historical
+ (MWh) 399,102 
+ 
+ 
+EG
+historical
+ for Unit 3 
+ 
+Baseline year 
+Electricity delivered to 
+the   grid   before   the 
+capacity upgrade (MWh) 
+  Unit 3 
+
+VCS Project Description   
+ 44 
+2000  
+(August 1999-July 2000) 
+ 393,091 
+2001 
+(August 2000-July 2001)  346,891 
+2002 
+(August 2001-July 2002)  445,491 
+2003 
+(August 2002-July 2003)  366,799 
+2004 
+(August 2003-July 2004)  421,210 
+EG
+historical
+ (MWh)  394,696 
+ 
+ 
+Calculation of DATE
+BaselineRetrofit
+ 
+ 
+Based  on  the  Government  Regulation  No.  59  year  2007,  stating  the  exploitation 
+concession  ends,  average  technical  lifetime  for  all  units  is  30  years  meaning 
+that all units will last during 30 years since its construction. 
+ 
+Therefore DATE
+BaselineRetrofit
+ is assumed to be: 
+Unit 1: 12 March 2024  
+Unit 2: 12 June 2024 
+Unit 3: 16 July 2027    
+ 
+Calculation of EG
+baseline
+ 
+ 
+The table below shows the baseline electricity generation data, calculated from 
+a 5-year historical average as determined by ACM0002 version 7. The table also 
+shows  the  date  when  all  units  at  Gunung  Salak  Geothermal  power  plant  started 
+operation after their capacity upgrade were concluded. The last column shows the 
+date  when  the  technical  lifetime  ends,  which  is  adopted  as  point  in  time  when 
+the existing equipment would need to be replaced in the absence of the proposed 
+project (DATE
+BaselineRetrofit
+). 
+ 
+ EG
+baseline
+  (MWh)  until 
+DATE
+BaselineRetrofit
+ 
+Capacity  upgrade  date 
+(Project start date) 
+DATE
+BaselineRetrofit
+  
+Unit 1 411,363 21 June 2005 12 March 2024 
+Unit 2 399,102 4 April 2005 12 June 2024 
+Unit 3 394,696 29 September 2004 16 July 2027 
+Total 1,205,161   
+  
+Baseline emissions 
+ 
+ 
+ 
+Please see the table below for each power station unit calculation including its 
+results and summary of the values used. 
+ 
+ Calculation for Gunung Salak unit 1  
+ 
+2006 2007 2008-2015 
+ 
+Net   electricity   supplied   by 
+Gunung  Salak  unit  1  to  the  grid 
+(EG
+y
+) 
+437,773 491,239 473,040 MWh 
+Average  electricity  supplied  by 
+the  power  plant  (Gunung  Salak 
+unit  1)  to  the  grid  before  the 
+project   (EG
+baseline
+   = EG
+historical
+ 
+until DATE
+BaselineRetrofit
+) 
+411,363 411,363 411,363 MWh 
+Baseline  emission  factor  with 
+combined margin (EF
+grid,CM,y
+)  
+0.882 0.882 0.882 tCO
+2
+e/MWh 
+Baseline  emissions  for  Unit  1 
+(BE
+y
+) 
+23,293 70,450 54,399 tCO
+2
+e/year 
+ 
+ 
+ 
+
+VCS Project Description   
+ 45 
+Calculation for Gunung Salak unit 2 
+ 2006 2007 2008-2015  
+Net  electricity  supplied  in  the 
+first  year  by  the  power  plant 
+(Gunung  Salak  unit  2)  to  the 
+grid (EG
+y
+) 
+476,803 470,184 473,040 MWh 
+Average  electricity  supplied  by 
+the  power  plant  (Gunung  Salak 
+unit  2)  to  the  grid  before  the 
+project (EG
+baseline
+  = EG
+historical
+ 
+until DATE
+BaselineRetrofit
+) 
+399,102 399,102 399,102 MWh 
+Baseline  emission  factor  with 
+combined margin (EF
+grid,CM,y
+)  
+0.882 0.882 0.882 tCO
+2
+e/MWh 
+Baseline  emissions  for  Unit  2 
+(BE
+y
+) 
+68,532 62,694 65,213 tCO
+2
+e/year 
+ 
+ 
+ 
+Calculation for Gunung Salak unit 3 
+ 2006 2007 2008-2015  
+Net  electricity  supplied  in  the 
+first  year  by  the  power  plant 
+(Gunung  Salak  unit  3)  to  the 
+grid (EG
+y
+) 
+454,504 442,878 473,040 MWh 
+Average  electricity  supplied  by 
+the  power  plant  (Gunung  Salak 
+unit  3)  to  the  grid  before  the 
+project (EG
+baseline
+  = EG
+historical
+ 
+until DATE
+BaselineRetrofit
+) 
+394,696 394,696 394,696 MWh 
+Baseline  emission  factor  with 
+combined margin (EF
+grid,CM,y
+)  
+0.882 0.882 0.882 tCO
+2
+e/MWh 
+Baseline  emissions  for  Unit  3 
+(BE
+y
+) 
+52,750 42,496 69,099 tCO
+2
+e/year 
+ 
+ 
+Summary of Baseline Emissions (BE
+y
+) 
+BE
+y
+ (tCO
+2
+e) Year Vintage 
+Unit 1 Unit 2 Unit 3 
+2006 1 April 2006 - 31 March 2007 23,293 68,532 52,750 
+2007 1 April 2007 – 31 March 2008 70,450 62,694 42,496 
+2008 1 April 2008 – 31 March 2009 54,399 65,213 69,099 
+2009 1 April 2009 – 31 March 2010 54,399 65,213 69,099 
+2010 1 April 2010 – 31 March 2011 54,399 65,213 69,099 
+2011 1 April 2011 – 31 March 2012 54,399 65,213 69,099 
+2012 1 April 2012 – 31 March 2013 54,399 65,213 69,099 
+2013 1 April 2013 – 31 March 2014 54,399 65,213 69,099 
+2014 1 April 2014 – 31 March 2015 54,399 65,213 69,099 
+2015 1 April 2015 – 31 March 2016 54,399 65,213 69,099 
+ 
+ 
+  
+4.3 Quantifying GHG emissions and/or removals for the project:  
+ 
+ Project Emissions 
+ 
+ 
+  
+ PE
+y
+ Calculation for Gunung Salak Unit 1 
+ 2006 2007 2008-2015  
+PES
+y
+     
+W
+main,CH4
+ 0.0000125092 0.0000125092 0.0000125092 - 
+
+VCS Project Description   
+ 46 
+W
+main,CO2
+ 0.0041257172 0.0041257172 0.0041257172 - 
+GWP
+CH4
+ 21 21 21 tCO
+2
+/tCH
+4
+ 
+M
+s,y
+ 3,828,764 3,980,333 3,904,549 tonnes 
+PEFF
+y
+     
+FC
+i,j,y
+ 1818.2304 674.0064 1246.1184* litres/year 
+FC
+i,j,y
+ 1818.2304     x 
+0.815 x 0.001  
+674.0064     x 
+0.815 x 0.001 
+1246.1184    x 
+0.815 x 0.001 
+tonnes 
+NCV
+i,y
+ 0.043 0.043 0.043 GJ/ton 
+EF
+CO2,i,y
+ 0.074 0.074 0.074 tCO
+2
+/GJ 
+PE
+y
+ 16,802.1925 17,467.3372 17,134.7648 tCO
+2
+ 
+*FC
+i,j,y
+  value  for  2008-2015  is  an  average  of  diesel  fuel  consumption  in  2006 
+and 2007 for the whole power plant. 
+ 
+ PE
+y
+ Calculation for Gunung Salak Unit 2 
+ 2006 2007 2008-2015  
+PES
+y
+     
+W
+main,CH4
+ 0.0000174018 0.0000174018 0.0000174018 - 
+W
+main,CO2
+ 0.0075152376 0.0075152376 0.0075152376 - 
+GWP
+CH4
+ 21 21 21 tCO
+2
+/tCH
+4
+ 
+M
+s,y
+ 3,902,163 3,809,274 3,855,718 tonnes 
+PEFF
+y
+     
+FC
+i,j,y
+ 0 0 0 litres/year 
+FC
+i,j,y
+ 0  x  0.815  x 
+0.001  
+0  x  0.815  x 
+0.001 
+0  x  0.815  x 
+0.001 
+tonnes 
+NCV
+i,y
+ 0.043 0.043 0.043 GJ/ton 
+EF
+CO2,i,y
+ 0.074 0.074 0.074 tCO
+2
+/GJ 
+PE
+y
+ 30,751.6785 30,019.6533 30,385.6659 tCO
+2
+ 
+  
+  
+ PE
+y
+ Calculation for Gunung Salak Unit 3 
+ 2006 2007 2008-2015  
+PES
+y
+     
+W
+main,CH4
+ 0.0000161100 0.0000161100 0.0000161100 - 
+W
+main,CO2
+ 0.0056211960 0.0056211960 0.0056211960 - 
+GWP
+CH4
+ 21 21 21 tCO
+2
+/tCH
+4
+ 
+M
+s,y
+ 3,887,724 3,813,357 3,850,541 tonnes 
+PEFF
+y
+     
+FC
+i,j,y
+ 0 0 0 litres/year 
+FC
+i,j,y
+ 0  x  0.815  x 
+0.001  
+0  x  0.815  x 
+0.001 
+0  x  0.815  x 
+0.001 
+tonnes 
+NCV
+i,y
+ 0.043 0.043 0.043 GJ/ton 
+EF
+CO2,i,y
+ 0.074 0.074 0.074 tCO
+2
+/GJ 
+PE
+y
+ 23,168.9168 22,725.7269 22,947.3218 tCO
+2
+ 
+ 
+ 
+Therefore using the approach above, and the historical and actual data recorded 
+by  PT.  Indonesia  Power,  the  project  emission  for  each  power  station  unit  is 
+shown below: 
+ 
+PE
+y
+ (tCO
+2
+e) Year Vintage 
+Unit 1 Unit 2 Unit 3 
+2006 1 April 2006 - 31 March 2007 16,802 30,752 23,169 
+2007 1 April 2007 – 31 March 2008 17,467 30,020 22,726 
+2008 1 April 2008 – 31 March 2009 17,135 30,386 22,947 
+2009 1 April 2009 – 31 March 2010 17,135 30,386 22,947 
+2010 1 April 2010 – 31 March 2011 17,135 30,386 22,947 
+2011 1 April 2011 – 31 March 2012 17,135 30,386 22,947 
+2012 1 April 2012 – 31 March 2013 17,135 30,386 22,947 
+2013 1 April 2013 – 31 March 2014 17,135 30,386 22,947 
+2014 1 April 2014 – 31 March 2015 17,135 30,386 22,947 
+2015 1 April 2015 – 31 March 2016 17,135 30,386 22,947 
+ 
+  
+4.4 Quantifying GHG emission reductions and removal enhancements 
+for the GHG project:  
+
+VCS Project Description   
+ 47 
+ 
+ Leakage Emissions 
+  
+  
+  
+ The ex-ante emission reductions calculations are as follows: 
+  
+  
+  
+ 
+ ER calculation for Gunung Salak Unit 1 
+Year Vintage 
+Project 
+emissions 
+(tCO
+2
+e) 
+Baseline 
+emissions 
+(tCO
+2
+e) 
+Leakage 
+emissions 
+(tCO
+2
+e) 
+Overall 
+emission 
+reductions 
+(tCO
+2
+e) 
+2006 
+1     April 
+2006 –  31 
+March 2007 
+16,802 23,293 0 6,491 
+2007 
+1     April 
+2007 –  31 
+March 2008 
+17,467 70,450 0 52,983 
+2008 
+1     April 
+2008 –  31 
+March 2009 
+17,135 54,399 0 37,264 
+2009 
+1     April 
+2009 –  31 
+March 2010 
+17,135 54,399 0 37,264 
+2010 
+1     April 
+2010 –  31 
+March 2011 
+17,135 54,399 0 37,264 
+2011 
+1     April 
+2011 –  31 
+March 2012 
+17,135 54,399 0 37,264 
+2012 
+1     April 
+2012 –  31 
+March 2013 
+17,135 54,399 0 37,264 
+2013 
+1     April 
+2013 –  31 
+March 2014 
+17,135 54,399 0 37,264 
+2014 
+1     April 
+2014 –  31 
+March 2015 
+17,135 54,399 0 37,264 
+2015 
+1     April 
+2015 –  31 
+March 2016 
+17,135 54,399 0 37,264 
+Total (tCO
+2
+e) 171,349 528,935 0 357,586 
+ 
+ 
+ 
+ER calculation for Gunung Salak Unit 2 
+Year Vintage 
+Project 
+emissions 
+(tCO
+2
+e) 
+Baseline 
+emissions 
+(tCO
+2
+e) 
+Leakage 
+emissions 
+(tCO
+2
+e) 
+Overall 
+emission 
+reductions 
+(tCO
+2
+e) 
+2006 
+1     April 
+2006 –  31 
+March 2007 
+30,752 68,532 0 37,780 
+2007 
+1     April 
+2007 –  31 
+March 2008 
+30,020 62,694 0 32,674 
+2008 
+1     April 
+2008 –  31 
+March 2009 
+30,386 65,213 0 34,827 
+2009 
+1     April 
+2009 –  31 
+30,386 65,213 0 34,827 
+
+VCS Project Description   
+ 48 
+March 2010 
+2010 
+1     April 
+2010 –  31 
+March 2011 
+30,386 65,213 0 34,827 
+2011 
+1     April 
+2011 –  31 
+March 2012 
+30,386 65,213 0 34,827 
+2012 
+1     April 
+2012 –  31 
+March 2013 
+30,386 65,213 0 34,827 
+2013 
+1     April 
+2013 –  31 
+March 2014 
+30,386 65,213 0 34,827 
+2014 
+1     April 
+2014 –  31 
+March 2015 
+30,386 65,213 0 34,827 
+2015 
+1     April 
+2015 –  31 
+March 2016 
+30,386 65,213 0 34,827 
+Total (tCO
+2
+e) 303,860 652,930 0 349,070 
+ 
+ 
+ 
+ER calculation for Gunung Salak Unit 3 
+Year Vintage 
+Project 
+emissions 
+(tCO
+2
+e) 
+Baseline 
+emissions 
+(tCO
+2
+e) 
+Leakage 
+emissions 
+(tCO
+2
+e) 
+Overall 
+emission 
+reductions 
+(tCO
+2
+e) 
+2006 
+1     April 
+2006 –  31 
+March 2007 
+23,169 52,750 0 29,582 
+2007 
+1     April 
+2007 –  31 
+March 2008 
+22,726 42,496 0 19,770 
+2008 
+1     April 
+2008 –  31 
+March 2009 
+22,947 69,099 0 46,152 
+2009 
+1     April 
+2009 –  31 
+March 2010 
+22,947 69,099 0 46,152 
+2010 
+1     April 
+2010 –  31 
+March 2011 
+22,947 69,099 0 46,152 
+2011 
+1     April 
+2011 –  31 
+March 2012 
+22,947 69,099 0 46,152 
+2012 
+1     April 
+2012 –  31 
+March 2013 
+22,947 69,099 0 46,152 
+2013 
+1     April 
+2013 –  31 
+March 2014 
+22,947 69,099 0 46,152 
+2014 
+1     April 
+2014 –  31 
+March 2015 
+22,947 69,099 0 46,152 
+2015 
+1     April 
+2015 –  31 
+March 2016 
+22,947 69,099 0 46,152 
+Total (tCO
+2
+e) 229,471 648,038 0 418,567 
+ 
+Therefore  using  the  calculation  above  the  total  baseline  emission  for  the  10-
+year crediting period is 1,125,224 tCO
+2
+e or 112,522 tCO
+2
+e/year, as shown in the 
+summary below:  
+ 
+Year Vintage 
+Emission 
+reductions 
+unit 
+Emission 
+reductions 
+unit 
+Emission 
+reductions 
+unit     3 
+Total 
+emission 
+reductions 
+
+VCS Project Description   
+ 49 
+1(tCO
+2
+e) 2(tCO
+2
+e) (tCO
+2
+e) (tCO
+2
+e) 
+2006 
+1   April   2006 -   31 
+March 2007 
+6,491 37,780 29,582 73,853 
+2007 
+1   April   2007 –   31 
+March 2008 
+52,983 32,674 19,770 105,427 
+2008 
+1   April   2008 –   31 
+March 2009 
+37,264 34,827 46,152 118,243 
+2009 
+1   April   2009 –   31 
+March 2010 
+37,264 34,827 46,152 118,243 
+2010 
+1   April   2010 –   31 
+March 2011 
+37,264 34,827 46,152 118,243 
+2011 
+1   April   2011 –   31 
+March 2012 
+37,264 34,827 46,152 118,243 
+2012 
+1   April   2012 –   31 
+March 2013 
+37,264 34,827 46,152 118,243 
+2013 
+1   April   2013 –   31 
+March 2014 
+37,264 34,827 46,152 118,243 
+2014 
+1   April   2014 –   31 
+March 2015 
+37,264 34,827 46,152 118,243 
+2015 
+1   April   2015 –   31 
+March 2016 
+37,264 34,827 46,152 118,243 
+Total (tCO
+2
+e) 357,586 349,070 418,567 1,125,224 
+ 
+ 
+5 Environmental Impact: 
+ 
+Based  on  Ministerial  Decree  No.  KEP-17/MENLH/2001,  an  Environmental  Impact 
+Assessment (EIA) has to be conducted for electric power development activities 
+in the Exploitation and Development of Geothermal power plants equal to and/or 
+greater  than  55  MW  in  capacity,  in  order  to  assess  environmental  impacts  that 
+will  occur  from  these  geothermal  field  activities,  and  to  prepare  mitigation 
+strategies to address impacts, if any.  
+ 
+The  Gunung  Salak  geothermal  power  plant  has  two  EIAs  that  include  3  power 
+station units of 55 MW each. One EIA is approved by the Department of Mining and 
+Energy in 1991 that covers only Gunung Salak unit 1 and 2, and in 1996 a second 
+EIA was developed and approved for Gunung Salak unit 3.  
+ 
+Due to the capacity upgrade of Gunung Salak Geothermal Power Plant from 3 x 55 
+MW to 3 x 60 MW, the project owner together with Research Agency of Padjajaran 
+University conducted a study to adjust the EIAs by submitting a revised RKL/RPL 
+(Environment Management Plan and Environment Monitoring Plan), and presented the 
+results  to  the  provincial  EIA  commission.  The  revised  RKL/RPL,  which  was 
+approved in 23 July 2007, covers the additional installed capacity 3 x 5 MW.  
+ 
+The  report  clearly  recognizes  that  impacts,  if  any,  have  been  taking  into 
+account  before  and  after  the  project  activity  as  summarized  in  the  letter  No. 
+660.1/1801/I/2007 from the provincial Environmental Agency (BPLHD) of West Java 
+to the project owner due capacity upgrade activity. 
+ 
+A  summary  of  the  environmental  impacts  of  the  project  activity  is  described 
+below: 
+Identified Environmental impacts Measures taken 
+Operational phase  
+Air Pollution  
+An    increase    H
+2
+S    gas 
+concentration 
+Maintain    sound    operation    of 
+turbine  and  its  system  together 
+with  a  fan  and  blower  in  the 
+cooling tower.  
+Noise Pollution  
+An increase of noise Install  a  noise  buffer  and  cover 
+made  from  soundproof  material  for 
+turbine and its system  
+Water Pollution  
+Surface      water      body 
+pollution 
+Re-inject        waste        water 
+(condensates)  from  cooling  tower 
+
+VCS Project Description   
+ 50 
+to abandoned geothermal wells 
+Post-operational phase  
+Re-construction   of   power 
+plant 
+Will  be  planned  3  or  5  years 
+before operational phase ends 
+Transportation of ruins Will  be  planned  3  or  5  years 
+before operational phase ends 
+Re-vegetation    of    power 
+plant ex-location 
+Will  be  planned  3  or  5  years 
+before operational phase ends 
+ 
+ 
+• Deterioration of air quality 
+During operational phase, some deterioration of air quality is expected to occur, 
+especially  an  increase  in  H
+2
+S  gas  released  into  the  ambient  air.  The  H
+2
+S  gas 
+comes  from  the  cooling  tower  during  power  plant  operation,  which  emits  non-
+condensable gases (NCG), and from the vent valve and scrubber if broken down. 
+ 
+To reduce this impact there will be regular maintenance and check ups for the 
+turbine  and  system  to  prevent  any  H
+2
+S  gas  leakage.  In  addition,  the  cooling 
+tower must also be maintained regularly to decrease non-condensable gases (NCG) 
+emission.    
+ 
+• Increased noise pollution 
+Increased  noise  pollution  is  expected  from  the  turbine  and  its  system  during 
+power plant operation.  
+ 
+To  reduce  the  impact  the  project  owner  has  installed  a  soundproof  buffer  and 
+cover surrounding the turbine and its system to prevent any noise pollution to 
+the environment.  
+ 
+• Deterioration of surface water quality 
+Minor  deterioration  of  surface  water  quality  due  to  the  project  activity  is 
+expected because of wastewater coming from the cooling tower.  
+ 
+To  prevent  any  further  increase,  the  project  owner  has  managed  to  re-inject 
+waste water (condensates) to abandoned geothermal wells.  
+ 
+Considering the mitigation controls planned as part of the project activity, EIA 
+process and the contribution made by the project to the sustainable development 
+of  the  local  and  national  area,  the  project  is  expected  to  have  an  overall 
+positive impact on the local and global environment. All negative environmental 
+impacts will be described in the mitigation and monitoring plans.  
+ 
+6 Stakeholders comments: 
+ 
+A meeting with relevant stakeholders, including the village chief and people who 
+live nearby, within the project boundary of Gunung Salak geothermal power plant 
+was conducted on September 25th, 2008 at Raudhatul Jannah Mosque, Parung Kuda, 
+near the power plant. The stakeholder meeting was held together with the power 
+plant’s Ramadhan (fasting month) festival to inform the local stakeholders that 
+the capacity upgrade project at the power plant would be registered as one of 
+carbon credit projects.  The local stakeholders who attended the meeting have no 
+objections to the proposed activity. Furthermore, as documented in the revised 
+EIA18, the local stakeholders have perceived that Gunung Salak Geothermal Power 
+Plant establishment has increased their social and economical life due to road 
+construction, additional earning from temporary jobs, health services, and other 
+pro-community activity.   
+ 
+The stakeholder meeting on September 25th, 2008 was documented and recorded like 
+attendance list, pictures, and other relevant documentation, which will be made 
+available to DOE and sent separately.  
+ 
+                                                
+18
+ The revised EIA is prepared to cover all environmental and social issue after 
+the capacity upgrade of Gunung Salak geothermal power plant from 3x55 MW to 3x60 
+MW. 
+
+VCS Project Description   
+ 51 
+Outcome: No negative comments were received from the local stakeholders during 
+the  meeting.  They  did  not  object  to  the  project  activity  because  the  project 
+will not negatively impact the surrounding environment or people.  
+ 
+7 Schedule: 
+ 
+Project start date: 
+Gunung Salak geothermal power plant, Unit 1: 21 June 2005 
+                     Unit 2: 4 April 2005 
+                     Unit 3: 29 September 2004 
+Thus, the project start date is 29 September 2004, as the earliest project start 
+date of three units at Gunung Salak Geothermal Power Plant. 
+ 
+Crediting period start date: 1 April 2006 
+ 
+Operational lifetime of project activity: 10 years 
+ 
+VCS crediting period: 10 years from 1 April 2006 until 31 March 2016 
+ 
+ 
+ 
+8 Ownership: 
+ 
+8.1 Proof of Title: 
+ 
+Proofs of ownership will be provided to DOE during validation upon request. 
+ 
+8.2 Projects  that  reduce  GHG  emissions  from  activities  that 
+participate in an emissions trading program (if applicable): 
+ 
+Not applicable 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+VCS Project Description   
+ 52 
+ 
+ 
+9 Annex: 
+ 
+
+VCS Project Description   
+ 53 
+________________________________________________________________ 

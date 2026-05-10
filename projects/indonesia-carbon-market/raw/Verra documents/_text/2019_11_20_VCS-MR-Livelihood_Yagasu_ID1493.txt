@@ -1,0 +1,3500 @@
+
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+1 
+Coastal Carbon Corridor: Mangrove Restoration and Coastal Greenbelt Protection in the East 
+Coast of Aceh and North Sumatra Province, Indonesia 
+ 
+ 
+ 
+ 
+Document prepared by Yagasu Aceh and Agresta S. Coop 
+Project Title  COASTAL CARBON CORRIDOR: Mangrove restoration and coastal greenbelt 
+protection in the East Coast Of Aceh And North Sumatra Province, Indonesia. 
+Version 
+3 
+Report ID 
+001 
+Date of Issue 
+20-November-2019 
+Project ID 
+1493 
+Monitoring Period 
+01-10-2015 – 31-07-2019 for VCS 
+Prepared By 
+Agresta S, Coop 
+Contact  
+ C/ Duque de Fernán Núñez, 2 1º. 28012. Madrid. Spain  
++34 640521613 
+mjtoledo@agresta.org  
+www.agresta.org  
+ 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+2 
+Table of Contents 
+ 
+1.  Project Details .................................................................................................................. 4 
+1.1. Summary Description of the Implementation Status of the Project ............................................ 4 
+1.2. Sectoral Scope and Project Type ................................................................................................... 5 
+1.3. Project Proponent ......................................................................................................................... 5 
+1.4. Other Entities Involved in the Project ........................................................................................... 6 
+1.5. Project Start Date .......................................................................................................................... 6 
+1.6. Project Crediting Period ................................................................................................................ 6 
+1.7. Project Location ............................................................................................................................ 6 
+1.8. Title and Reference of Methodology ............................................................................................ 9 
+1.9. Other Programs ........................................................................................................................... 10 
+1.10. Sustainable Development ....................................................................................................... 10 
+2. Implementation Status ......................................................................................................11 
+2.1. Implementation Status of the Project Activity ........................................................................... 11 
+2.2. Deviations ................................................................................................................................... 12 
+2.2.1. Methodology Deviations .................................................................................................. 12 
+2.2.2. Project Description Deviations ....................................................................................... 12 
+2.3. Grouped Project .......................................................................................................................... 13 
+2.4. Safeguards ................................................................................................................................... 15 
+2.4.1. No Net Harm ..................................................................................................................... 15 
+2.4.2. Local Stakeholder Consultation ..................................................................................... 15 
+3. Data and Parameters .......................................................................................................16 
+3.1. Data and Parameters Available at Validation ............................................................................. 16 
+3.2. Data and Parameters Monitored ................................................................................................ 26 
+3.3. Monitoring Plan .......................................................................................................................... 33 
+i. Organizational structure .......................................................................................................... 33 
+ii. Stratifying ................................................................................................................................... 34 
+iii. Inventory design ................................................................................................................... 39 
+iv. Monitoring of net anthropogenic GHG removals ............................................................. 41 
+4. Quantification of GHG Emission Reductions and Removals .............................................45 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+3 
+4.1. Baseline Emissions ...................................................................................................................... 45 
+4.2. Project Emissions ........................................................................................................................ 48 
+4.3. Leakage ....................................................................................................................................... 59 
+4.4. Net GHG Emission Reductions and Removals ............................................................................. 59 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+4 
+1.  PROJECT DETAILS 
+1.1. Summary Description of the Implementation Status of the Project 
+The Coastal Carbon Corridor (CCC) grouped project objectives include increasing the 
+environmental carrying capacity of mangrove ecosystems on the east coast of Northern Sumatra 
+for climate change mitigation and adaptation, natural disaster risk reduction, biodiversity 
+conservation and local livelihood improvement.  
+The project region has up to 456,896 potential hectares for plantation and mangrove restoration 
+and protection. The grouped project has started with the implementation of the first project activity 
+instance, which has been implemented as described in the PD.  
+In  the  first  verification  of  the project Yagasu included 4,999.98  ha  of  degraded  mangrove. It  is 
+important  to  mention  that,  regarding  the  spatial  data  provided  in  shapefile  format,  in  the  first 
+verification  the  area  included  was  5068.69, Some  areas  have  been  removed  from  the  first 
+verification to this verification after doing a GIS analysis based on historical images from Google 
+Earth. So, it has been considered to remove those lands that have changed the use of the land 
+(buildings, fishponds, roads, industries) and those lands that seems to be submerged most part of 
+the year and that have not been succeed after the plantation period.  
+The  results  of  this  analysis  has  given  a percentage of  land use  changed  under 1% and  of 
+submerged plots under the 2,7%  of the project areas. After this work of reviewing the limits of the 
+Project area using GIS analysis, the total area is 4,949.02 ha for the first project activity instance 
+Also in this second verification 278.23 ha has been included as a new project activity instance. 
+The total area included in this verification is 5,227.25 ha. 
+Table 1 Planting plant of the first and second project activity instance 
+Year of 
+plantation/ 
+restoration start 
+Areas of 1
+st
+ project  
+activity instance (ha) 
+Areas of 2
+nd
+ project  
+activity instance (ha) 
+Area included in the 
+project (ha) 
+2011  191.18 
+7.74 
+ 198.92    
+2012 851.32 
+51.95 
+ 903.28    
+2013 1,986.53 
+12.73 
+ 1,999.26    
+2014 1,623.19 
+169.90 
+ 1,793.08    
+2015  296.80 
+1.34 
+ 298.15    
+2016 
+ 
+26.35 
+ 26.35    
+2017 
+ 
+8.21 
+ 8.21    
+Total project  4,949.02 
+278.23 
+5,227.25 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+5 
+The number of GHG credits eligible to be issued as VCUs for the first project activity instance of 
+the first monitoring period between 1-10-2011 to 30-09-2015 was 125,391 t CO
+2
+-e. 
+The number of GHG credits eligible to be issued as VCUs for the first and second project activity 
+instance of the second monitoring period 1-10-2015 to 30-07-2019 is 271,966t CO
+2
+-e. 
+1.2. Sectoral Scope and Project Type 
+The project has been developed under VCS sectoral scope 14 (Agriculture, Forestry, Land Use) 
+and is categorized as the VCS AFOLU category ARR: Afforestation, Reforestation and 
+Revegetation. The project is a grouped project. 
+1.3. Project Proponent 
+The  project  proponents  (PP)  are  Livelihoods  Fund  and  Yagasu  Aceh.  Livelihoods  Fund  is  an 
+organization  supported  by  private  companies  who  believe  in  working  and  learning  together  with 
+project developers to effect change that promotes sustainable farming practices that can increase 
+food  production  while  preserving  our  natural  resources.  Yagasu  Aceh  is  the  implementer  and 
+developer of the community and biodiversity activities.  
+Livelihoods  Fund  was  the  project  proponent  when  the  verification  of  the  grouped  project  under 
+VCS took place. However, Livelihoods recognizes  Yagasu as the  implementer  and developer of 
+the  community  and  biodiversity  activities,  raising  awareness,  securing  more  funding  for  these 
+activities  to  obtain  CCB  certification. Therefore,  Yagasu  is  considered  the  project  proponent,  in 
+addition to Livelihoods Fund
+1
+.  
+Organization name Livelihoods Fund 
+Role in the project Project developer 
+Contact person Mr. Stéphane Perrier,  
+Title Technical & Innovation Director 
+Address 48-50 rue de la Victoria, 75009, Paris, France 
+Telephone +33 1 44 35 20 84 
+Email sperrier@livelihoods-venture.com 
+ 
+Organization name Yagasu Aceh 
+Role in the project Project developer & implementer / CCB data & documentation 
+                                                           
+ 
+1
+ Legal contract between Yagasu and Livelihoods Fund “VCS_Accession-Representation YAGASU 2019” 
+available as supporting documentation,  
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+6 
+Contact person Bambang Suprayogi 
+Title CEO of Yagasu 
+Address Jalan Sei Kuala No 25 Medan, 20154, Indonesia 
+Telephone +61 8126418744 
+Email bambang@yagasu.org 
+ 
+1.4. Other Entities Involved in the Project  
+ 
+Organization name 
+Agresta S. Coop. 
+Role in the project 
+Preparation of documentation  and advise during the verification  process 
+Contact person 
+Mrs. María Jesús Toledo 
+Title 
+Director of Climate Change Department 
+Address 
+C/Duque de Fernán Núñez, 2 1º. 28012. Madrid. Spain 
+Telephone 
++34 913540213 +34 640521613 
+Email 
+mjtoledo@agresta.org 
+1.5. Project Start Date  
+The start date of the project activity is June 14
+th
+, 2011, which corresponds to the date of the first 
+project activity on ground planting campaign.  
+1.6. Project Crediting Period 
+Project crediting period: 14-06-2011 – 13-06-31. 
+The project crediting period for this grouped project shall be 20 years renewable, beginning on 
+June, 2011 and ending on June, 2031. The actual project longevity will be greater than the 
+crediting period; this is because the project design does not include harvesting or thinning in the 
+project scenario, being wetlands restoration the main goal of the project. 
+1.7. Project Location  
+The project sites stretch along 497 km from Ujung Pancu village in Aceh province to Pante Labu 
+in  North  Sumatra  province,  crossing  13  districts:  Aceh  Besar,  Banda Aceh,  Pindie,  Pidie  Jaya, 
+Bireun, Lhoksemawe, Aceh Utara, Aceh Timur, Langsa, Aceh Tamiang, Langkat, Medan and Deli 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+7 
+Serdang. The width of the mangrove cover is from 20 m to more than 5 km from the shore. Along 
+this width, the areas are dissected by many coastal streams. 
+ Zone  I  &  II  in  Aceh  Besar,  Banda  Aceh,  Aceh  Utara,  Pidie,  Pidie  Jaya  and  Bireun. This 
+area  follows  the  northern  tip  of  Sumatra  Island.  Around  40  km  of  shoreline  was  severely 
+damaged  by  the  2004  Asian  Tsunami,  with  entire  communities  damaged. Prior  to  the 
+tsunami, the uses in the area was fishponds or nearby coastal agriculture. 
+ Zone  III  in  Aceh  Timur  and  Langsa.  As  with  the  other  zones,  this  area  was  historically 
+devoted  to  aquaculture  but  nowadays  it  has  been  abandoned.  It  consists  of  a  mosaic  of 
+shoreline, interior  and island areas. Ongoing pressures include the conversion to oil  palm 
+plantation.  Priority  has  given  to  rehabilitating  Pulau  Sembilan,  an  island  system  with 
+abandoned ponds that are also close to the shoreline. A high concentration of the potential 
+plantation plots is localized in this area. 
+ Zone  IV  in  Tamiang  and  Langkat.  This  area  is  close  to  the  Karang  Gading  and  Langkat 
+Timur  Laut  Wildlife  Reserve.  The  entire  habitat  has  been  degraded  since  the  1960s  and 
+1970s;  the  Reserve  has been  recovered  during  the  past  25  years,  but  the  nearby 
+unprotected areas remain under pressure. The area reforested is located in the interior  of 
+abandoned  ponds  and  along  estuary  embankments.  A  high  concentration  of  the  potential 
+plantation plots is localized in this area. 
+ Zone  V  in  Deli  Serdang. This  area  forms  a  long  accretion  zone  along  about  20  km  of 
+beaches and estuaries. 
+ 
+Figure 1. Map of Project Zonation (Source: Prepared by the authors. AGRESTA S. COOP.) 
+ 
+ 
+ 
+ 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+8 
+Figure 2.  Project  boundary of  the project (Source: Project Description of the project) 
+ 
+ 
+Table 2 Location of the activity project instances 
+ 
+ 
+First activity project instance 
+Second activity project 
+instance 
+ 
+Area (ha) 
+Number of 
+plantation 
+plots 
+Area (ha) 
+Number of 
+plantation 
+plots  
+Zone I 172.54 253 10.78 50 
+Aceh Besar 108.57 158 4.30 21 
+Banda Aceh 63.97 95 6.49 29 
+Zone II 674.56 1,216 0.86 4 
+Aceh Utara 203.19 341 
+  
+Bireun 17.32 40 
+  
+Pidie 74.93 119 
+  
+Pidie Jaya 379.12 716 0.86 4 
+Zone III 2,655.78 3,099 45.76 56 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+9 
+ 
+First activity project instance 
+Second activity project 
+instance 
+ 
+Area (ha) 
+Number of 
+plantation 
+plots 
+Area (ha) 
+Number of 
+plantation 
+plots  
+Aceh Tamiang 1.58 4 
+  
+Aceh Timur 2,095.23 2,426 
+  
+Langsa 558.98 669 45.76 56 
+Zone IV 941.54 1,073 77.12 110 
+Aceh Tamiang 941.54 1,073 26.71 58 
+Tamiang 
+  
+50.40 52 
+Zone V 504.60 419 143.70 200 
+Deli Serdang 62.64 50 50.79 73 
+Langkat 441.96 369 92.49 125 
+Serdang 
+Bedagai 
+  
+0.42 2 
+Total general 4,949.02 6,060 278.23 420 
+ 
+1.8. Title and Reference of Methodology  
+The project applies the following methodologies: 
+ AR-AM0014: Afforestation and reforestation of degraded mangrove habitats (Version 3.02). 
+ARR methodological tools: 
+ “Combined tool to identify the baseline scenario and demonstrate additionality in A/R CDM 
+project activities” (Version 01) 
+ Estimation of non-CO2 GHG emissions resulting from burning of biomass attributable to an 
+A/R CDM project activity” (Version 04.0) 
+ “Estimation of carbon stocks and change in carbon stocks in dead wood and litter in A/R 
+CDM project activities” (Version 03.1) 
+ “Estimation of carbon stocks and change in carbon stocks of trees and shrubs in A/R CDM 
+project activities” (Version 04.2) 
+ “Estimation of the increase in GHG emissions attributable to displacement of pre-project 
+agricultural activities in A/R CDM project activity” (Version 02.0) 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+10 
+ Other methodological ARR CDM tools which are applied include, Demonstrating 
+appropriateness of allometric equations for estimation of aboveground tree biomass in ARR 
+CDM project activities (Version 01.0.0) 
+ Calculation of the number of sample plots for measurements within ARR CDM project 
+activities (Version 2.1.0) 
+1.9. Other Programs 
+This grouped project is not participating under other GHG programs. The project is seeking for 
+CCB certification at a later stage after this second VCS verification.  
+1.10. Sustainable Development 
+This CCC  program
+2
+ addresses the Indonesia Biodiversity  Strategy and  Action Plan
+3
+ (IBSAP) for 
+implementing national development in accordance with the Conversion of Biological Diversity and 
+strongly links to the National Action Plan for Greenhouse Gas Reduction
+4
+ (RAN-GRK guidance). 
+More  specifically,  this  initiative  is  in  full  alignment  with  the  IBSAP’s  vision  (V)  on  biodiversity 
+management (“Indonesian biodiversity preservation and development that contributes to national 
+competitiveness and a fair and sustainable use of resources to improve the welfare of current and 
+future generations”).  
+This program also contributes towards the Sustainable Development Goals (SDG):  
+- SDG01: Economic opportunities will improve the resilience of beneficiaries and increase 
+their net income;  
+- SDG02:  Aquaculture  will  become  a  source  of  sustainable  seafood,  protein  and  B-group 
+vitamins  in  local  markets,  and  thus  help  reduce  food  insecurity  and  local  prevalence  of 
+malnutrition;  
+- SDG05: 3 women-led interventions on organic “batik”, mangrove foods, and shrimp paste 
+will  bring  additional  income  and  empower  women  economically.  Overall  male/female  ratio  of 
+beneficiaries: 40/60. 
+                                                           
+ 
+2
+ Coastal Carbon Corridor: https://www.yagasu.or.id/?p=49 
+3
+ Indonesia Biodiversity Strategy and Action Plan https://balaikliringkehati.menlhk.go.id/wp-
+content/uploads/IBSAP%202003.pdf 
+4
+ National Action Plan for Greenhouse Gas Reduction: 
+http://ranradgrk.bappenas.go.id/rangrk/admincms/downloads/publications/Gudeline_for_implementing_gr
+een_house_gas_emission_reduction_action_plan.pdf 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+11 
+- SDG13&14:  The  mangrove  restoration  and  protection  will  help  to  restore  depleted  fish 
+stocks  in  surrounding  marine  ecosystems  and  to  sequester  over  10m  tCO
+2
+e  over  20  years. 
+Additionally, this intervention will contribute towards SDG04, SDG12, SDG15 and SDG17. 
+The  program  components  are  already  matched  with  the  basic  principles  of  the  province’s 
+economic  developmen
+5
+t:  local  resources  and  environment,  community-based,  value  added,  and 
+sustainable  market-based approach. The scheme for creating added value for the community’s 
+key commodities is to establish an integrated social business model. 
+Indonesia  has been  a party  to the UNFCCC  (United  Nations Framework Convention on  Climate 
+Change)  since  August  1994.  The  country  has  ratified  the  UNFCCC  (1995),  the  Kyoto  Protocol 
+(2004), and has signed the Paris Agreement (Paris 2015, COP21). 
+The Republic of Indonesia participates voluntarily in the Clean Development Mechanism (CDM). 
+ 
+2. IMPLEMENTATION STATUS  
+2.1. Implementation Status of the Project Activity  
+The grouped project has started with the implementation of the first project activity instance 
+(4999.98 ha), which has been implemented as described in the PD. In the second monitoring 
+period the second project activity instance has been added.As it has been explaines in section 
+1.1 some areas have been removed from the project. Also a second project activity instance has 
+been added.  Total area included in this verification period is 5,227.25 ha. 
+Both the monitoring report and the Non-Permanence Risk assessment report have also been 
+prepared simultaneously with the MR, assuring congruence among the different documents. 
+The implementing partner of this project has been Yagasu Aceh, a local NGO, and 
+technologies/procedures described in the PD have been followed: 
+ Logistics organization: organization of teams, headquarters, field bases, means of 
+transport and all the necessary logistics implementation to develop the project 
+ Training and awareness: local people awareness and training of Yagasu ́s team have 
+been key issues for the correct implementation of the project. Several activities were 
+designed to motivate local people and make them conscious of the potential positive 
+impacts of mangrove restoration. 
+                                                           
+ 
+5
+ Master Plan Acceleration and Expansion of Indonesia Economic Development 2011-2025, available as 
+supporting documentation. 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+12 
+ Site selection: this activity consists in the identification of the potential project areas to be 
+reforested. This step was performed by the Yagasu ́s team with the support of scientific 
+experts to identify areas with good ecological conditions for the project, and thanks to the 
+knowledge of the local people of the deforested mangrove areas in the surroundings of 
+their villages.  
+ Species selection and seedling preparation. There has not been any aerial site 
+preparation in this reforestation project activity. The plantation has been realized 
+manually and has consisted on preparing a small hole for the roots of the seedling, 
+respecting the complete structure of the soil. 
+ Planting (site preparation, planting, etc.): this activity was performed manually by local 
+communities and with the support of Yagasu based on the technical guide for mangrove 
+reforestation developed by the project with the advice of mangrove experts. Most of the 
+afforestation activities in YAGASU are in abandoned fish ponds and some on 
+coastal/river mudflats. Many of the planting sites were bare land with very few and 
+scattered existing mangrove vegetation below the definition of forest in Indonesia, i.e. 
+minimum area 0.25 ha, minimum crown cover 30%, and minimum tree height 5 m 
+(Yagasu has a SOPs ‘Planting mangrove’, available as supporting documentation): 
+ Maintenance: once project areas have been planted maintenance activities are 
+necessary to assure the objective of the project. Maintenance activities have been done 
+by local communities and Yagasu since the starting date of the project. 
+As has been mentioned previously in this document, a change in the Project Proponent has 
+taken placed in this monitoring period. Livelihoods Fund was the project proponent for the 
+first verification of the project. For this verification Livelihoods and Yagasu are both the 
+Project Proponent. Livelihoods has   recognized Yagasu as the implementer and developer of 
+the community and biodiversity activities that have been developed inside the Project 
+boundary. The project will probably look for a CCB certification in a later step.   
+ 
+2.2. Deviations 
+2.2.1. Methodology Deviations 
+No methodology deviations were made during this monitoring period.  
+2.2.2. Project Description Deviations 
+A change in the project proponent has been made in this monitoring period. Livelihoods Fund was 
+the  project  proponent  in  the  first  verification  of  the  project  under  VCS.  However,  Livelihoods 
+recognizes  Yagasu  as  the  implementer  and  developer  of  the  community  and  biodiversity 
+activities,  raising  awareness  and  securing  more  funding  for  these  activities  to  obtain  CCB 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+13 
+certification.  Therefore,  Yagasu  is  considered the  project  proponent,  in  addition  to  Livelihoods 
+Fund. A project contract between Yagasu and Livelihoods has been stablished
+6
+. 
+According  to VCS  Standard  rule  3.6.1, deviations  from  the  project  description  are  permitted  at 
+verification. A change in the project proponent is a deviation that does not impact the applicability 
+of the methodology, additionality or the appropriateness of the baseline scenario, and the project 
+remains  in  compliance  with  the  applied  methodology.  However  it  shall  be  described  in  all 
+subsequent monitoring reports.  
+Mention  should  also  be  made  of  the  change  in  the  title  of  the  project  in  this  monitoring  period. 
+“Coastal Carbon Corridor” has been added to the original title “Mangrove Restoration and Coastal 
+Greenbelt  Protection  in  the East Coast of Aceh and North Sumatra Province,  Indonesia”. The 
+grouped  project  has  been  extended  into  a  long-term  program  named  Coastal  Carbon  Corridor 
+that consists of multi-project activities.  
+As it has explained before, some of the areas have been removed from the previous verification 
+based on an analysis with historical images from Google Earth. There have been some cases of 
+encroachment in this monitoring period. The land use changes have affected 32.43 ha, meaning, 
+less than 1% from total area. Nevertheless, since there is no likelihood of these polygons or part 
+of polygons being reforested there is no point in continuing to monitor and thus these areas have 
+been removed from the project area. Also some polygons have been removed for this verification 
+because    they    seems  to  be  submerged  most  part  of  the  year  and  that  have  not  been  succeed 
+after the plantation period. The land removed classified as submerged plots sum up to 87.24 ha, 
+what  means  about the  2,7%  of  the  project  area
+7
+.  In  total  119.67  ha  have  been  removed  from 
+previous verification.  
+These  changes  from  the  validated  PD have occurred  during  this  monitoring  period.  It  has  been 
+determined  that  these  deviations  do  not  impact  the applicability  of  methodology,  additionality  or 
+the appropriateness of the baseline scenario. The project remains in compliance with the applied 
+methodology. 
+2.3. Grouped Project 
+This  project  is  a  grouped  project.  The  first  and  second  project  activity  instances, which  are  the 
+subject of this second verification, include 5,227.25 ha as outlined in section 2.1. 
+The  second  project  activity  instance  included  in  this  monitoring  period  (278.23 ha)  meets  the 
+eligibility  criteria.  The  eligibility  criteria  for  inclusion  of  new  project  activity   instances   are 
+demonstrated in accordance with paragraph 3.4.9 of the VCS Standard (Version 3.7).  
+The new project activity instance meets the following criteria: 
+                                                           
+ 
+6
+ Available as supporting documentation as “VCS_Accession-Representation YAGASU 2019” 
+7
+ See shapefile named “1st_instance_extracted_areas_from_first_verification” included as MR supporting 
+documentation 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+14 
+1) Meet  the  applicability  conditions  set  out  in  the  methodology  applied  to the  project,  meaning 
+the   methodology   AR-ACM0014:   Afforestation   and   reforestation   of   degraded   mangrove 
+habitats, version 03.0: 
+a. The  land  subject  to  the  project  activity  is  degraded  mangrove  habitat.  The  planting 
+areas of this ARR project activity, and the new instance areas, are sited in a coastal 
+location  where  the  population pressure  increased the  degradation  of the mangroves 
+since  several  decades.  For  the  selection  of  the  project  areas,  mostly  abandoned 
+fishponds  were  selected  as  well  as  degraded  coastal and  river  mudflats.  Average 
+crown cover of these areas is lower than 2%. The new instances are within the outer 
+boundary  of  this  grouped  project  which  is  subject  to  the  definition  of  the  degraded 
+mangrove habitats. 
+b. More  than  90%  of  the  project  area  is  planted  with  mangrove  species.  If  more  than 
+10%  of  the  project  area  is  planted  with  non-mangrove  species,  then  the  project 
+activity  does  not  lead  to  alteration  of  hydrology  of  the  project  area and  hydrology  of 
+connected up-gradient and down-gradient wetland area. Only mangrove species are 
+selected  and  will  be  selected  for  all  future  project  instances.  The  new  instances 
+added in this period have been planted with mangrove species. 
+c. Soil  disturbance  attributable  to  the  ARR  project  activity  does  not  cover  more  than 
+10% of area. As for the first instances, the plantation techniques for this new instance 
+in this project is not involve soil disturbance, mangrove seedlings have been planted 
+by direct planting of seeds or planting of nursery-raised seedlings. 
+2)  Use technologies  or  measures  similar  to  the  specified  in  the  VCS PD for  the  first  instance 
+and apply them in the same manner. New instance consists of wetlands and abandoned fish 
+ponds restoration  through  planting  and  assisting  natural  regeneration  using  native  species 
+and involving local communities. 
+3)  Be  subject  to  the  baseline  scenario  of  the  VCS  PD  for  the  specified  project  activity  and 
+geographic area, and therefore, be established on lands where baseline scenario is degraded 
+wetlands.  The  whole  geographic  project  area  within  which  the  project  instances  shall  be 
+located  is  subject  to  the  baseline  scenario  determined  in  the  VCS  PD.  All  project  instances 
+(first  and  second) as  well  as  future  instances  are  classified  as  fish  ponds  and  partially  river 
+mudflats. 
+4)  Have  characteristics  with  respect  to  additionality  that  are  consistent  with  that  of  the  first 
+instance, facing similar barriers. The baseline scenario and the demonstration of additionality 
+are  determined  for  the  entirely  of  the  geographic  project  area  within  which  project  activity 
+instances are developed. The second instance presents similar barriers than the first instance 
+project,  namely  investment  barriers,  other  than  economic/financial  barriers;  technological 
+barriers;  and  barriers  due  to  social  condition.  The  whole  project  occurs  within  the  outer 
+boundary delimited, and only fish ponds or very degraded zones are selected for the planting 
+activities. Therefore, all legal characteristics and protections of the areas will be equal. 
+5) Have the project boundary consistent with the physical/geographical boundary of the grouped 
+project.   The   second   instance is  developed   and   implemented   within   the   geographic 
+delineation   of   the   Yagasu   outer   project   boundary.   The   new   instance   polygons   are 
+georeferenced   and   compiled   in   a   GIS   database   system,   available   as   supporting 
+documentation. 
+6) Have documentary evidence of the starting date. 
+7) Be included in the monitoring report with sufficient technical, financial, geographic and other 
+relevant  information  to  demonstrate  compliance  with  the  applicable  set  of  eligibility  criteria 
+and enable sampling by the VVB. 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+15 
+Also,  to  demonstrate  the  eligibility  of  the  second  project  activity  instance    under  the AFOLU 
+requirements for ARR  a GIS study was conducted to show that the project area was not covered 
+by any forest at the time of the planting and was not cleared of native ecosystems within the 10 
+year period prior the project start date
+8
+. The methodology is based on analysis of the evolution of 
+the  areas according  the  satellite  images  from  Google  Earth.  After  this  analysis  the  selected 
+polygons to be included in this grouped project sum up to 278.23 ha. 
+9
+ 
+ 
+2.4. Safeguards 
+2.4.1. No Net Harm 
+This ARR  project activity  does not require any form of Environmental Impact Assessment (EIA). 
+However, environmental  impacts  have  been analyzed as  part  of  various  studies  conducted  by 
+Yagasu (2009, 2014 and  2019)
+10
+. These studies  are  available  as supporting documentation. No 
+negative impacts have been identified by the project activity. 
+2.4.2. Local Stakeholder Consultation 
+During the period 2011 to 2019, a total of 360 meetings have taken place with local communities, 
+institutions  (private  sectors,  universities,  NGOs)  and  governments,  attended  by  18,000  people. 
+Yagasu  team  members  have  been  working  in  their  respective  areas  for  many  years  and  the 
+organization’s approaches and practices are well known to local communities. Early consultations 
+provided  important  inputs  and  laid  the  foundation  for  continuing  consultations  during  project 
+implementation.  Community  and  local  government  demand  for  the  services  provided  by  this 
+project were confirmed through meetings during the preparation missions. 
+The project assists the communities in  obtaining  official recognition of such agreements through 
+the  local  and  provincial  government  agencies.  This  consultation  process  and  the  resulting 
+agreements  are  intended  to  increase  involvement  by local  communities.  Regulations  agreed  to 
+between local communities and relevant government agencies, and developed with the project’s 
+appropriate  technical  inputs,  give  legal  and  enforceable  status  to  the  long-term  restoration  and 
+community  development  program.  It  is  likely  that  the  coastal  green  belt  protection  strategy 
+introduced  through  the  project  will  increase  livelihood  opportunities  for  local  communities,  by 
+nstitutionalizing  communal  or  individual  land  ownership.  Should  any  issue  arise,  the  problem is 
+handled through the institutionalized Local Stakeholders Forum. 
+Yagasu  has  regular  and  continuous  communication  with  heads  of  communities  and  the  rest  of 
+stakeholders to address possible suggestions and complaints, training activities, dissemination of 
+monitoring reports, etc. 
+                                                           
+ 
+8
+ See section 3.1.6 of AFOLU requirements: https://verra.org/wp-
+content/uploads/2018/03/AFOLU_Requirements_v3.6.pdf 
+9
+ See supporting documentation of MR/eligibility analysis 
+10
+ See supporting documentation. 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+16 
+At the same time, Yagasu has regular and continuous communication with Livelihoods Fund. 
+Participatory  processes  have  been  undertaken  directly  with  villagers  of  local  communities 
+involved  in  the  project  activities  through  community group  meetings  (466  sessions),  village 
+meetings (334 sessions) and district meetings (360 sessions), providing adequate information.  
+3. DATA AND PARAMETERS 
+3.1. Data and Parameters Available at Validation 
+Data and parameters available at validation of the grouped project are described in the project 
+description document. The following list includes only data and parameters used in the second 
+verification of the first and second project activity instances. 
+Table 3 Data and parameters available at validation 
+Data / Parameter 
+ΔC
+BSL,t
+ 
+Data unit 
+t CO2-e 
+Description 
+Baseline net GHG removals by sinks in year t 
+Source of data 
+Calculated 
+Value applied: 
+0 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+The project area is stratified into zero baseline and dwarf 
+mangrove baseline stratum considered shrubs according to the 
+AR CDM tool “Estimation of carbon stocks and change in carbon 
+stocks of trees and shrubs in A/R CDM project activities”. Based 
+on this, no removals by sinks are assumed 
+Purpose of Data 
+Calculation of ex-ante and ex-post baseline emissions 
+Comments 
+- 
+ 
+Data / Parameter 
+CF
+TREE
+ 
+Data unit 
+t C (t d.m.)-1 
+Description 
+Carbon fraction of tree biomass 
+Source of data 
+Default value of AR CDM tool “Estimation of carbon stocks and 
+change in carbon stocks of trees and shrubs in A/R CDM project 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+17 
+activities” is applied. 
+Value applied: 
+0.47 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+According to AR-TOOL14, the above default value (0.47) should 
+be used unless transparent and verifiable information can be 
+provided to justify a different value. 
+Purpose of Data 
+Determination of project emission/removals 
+Comments 
+- 
+ 
+Data / Parameter 
+R
+j
+ 
+Data unit 
+Dimensionless 
+Description 
+Root-shoot ratio for tree species j 
+Source of data 
+Application of the following equation from the AR-TOOL14:  
+R
+j
+=exp[-1.085+0.9256*ln(AGB)]/AGB 
+Where AGB is the above-ground tree biomass per hectare (in t 
+d.m. ha
+-1
+) 
+Value applied: 
+See database 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+According to AR-TOOL14, root-shoot ratio for tree species shall be 
+calculated with the formula:  
+Rj=exp[-1.085+0.9256*ln(AGB)]/AGB 
+ 
+Purpose of Data 
+Calculation of project emission removals 
+Comments 
+- 
+ 
+Data / Parameter 
+f
+j 
+(x
+1,l
+,x
+2,l
+,x
+3,l
+,...) 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+18 
+Data unit 
+t d.m (tone of dry matter). 
+Description 
+Above-ground biomass of the tree returned by the allometric 
+equation for species j relating the measurements of tree i to the 
+above-ground biomass of the tree. 
+Source of data 
+For ex-post: Two equations are used for this verification: 
+1. Specific equation for Rhizophora spp. from Ong et al. 
+(2004)
+11
+ 
+2. Common allometric equation for other mangroves from 
+Komiyama et al., 2005
+12
+. 
+Value applied: 
+For ex-post:  
+Rhizophora spp.: 
+ 
+Other mangrove species: 
+ 
+ 
+Where:  
+W
+TOP
+ = Above-ground biomass; kg. 
+D = Diameter (at breast height); cm 
+ρ = wood density; g/cm
+3
+ 
+Justification of choice of 
+data or description of 
+Ex-post allometric equations are appropriate as determined by the 
+A/R Methodological Tool “Demonstrating appropriateness of 
+                                                           
+ 
+11
+http://www.sciencedirect.com/science/article/pii/S0378112703003906 (also provided as supporting 
+documentation) 
+12
+Komiyama, A.; Poungparn,S. & Kato, S. (2005) Common Allometric equations for estimation the tree 
+weight of mangroves. Journal of tropical Ecology 21: 471-477. Cambridge University Press (available as 
+supporting documentation), also in http://www.cifor.org/publications/pdf_files/WPapers/WP86CIFOR.pdf 
+ 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+19 
+measurement methods 
+and procedures applied 
+allometric equations for estimation of aboveground tree biomass 
+in A/R CDM project activities”. Since the majority of trees in the 
+project are R. apiculata, this species-specific equation is 
+considered. It is also applied to the other Rhizophora species 
+(Stylosa and Mucronata), which are all stilt mangroves. This 
+equation represents the best option for this first verification since it 
+was derived (Ong et al. 2004) in Malaysia, just opposite the 
+project area in Sumatra (see location on the map below). 
+ 
+Further, it is one of few equations which also included stilt roots in 
+the aboveground biomass. Finally, it is the only equation found 
+which also includes smaller diameters (the study ranged from 1.1 
+– 28 cm). 
+The common equation developed by Komiyama excludes stilt 
+roots of mangroves and represents one of the most widely used 
+equations. See supporting documentation.  
+Purpose of Data 
+Calculation of project emission removals 
+Comments 
+- 
+ 
+Data / Parameter 
+dSOC
+t
+ 
+Data unit 
+t C ha
+-1 
+yr
+-1
+ 
+Description 
+The rate of change in SOC stocks within the project boundary, in 
+year t. 
+Source of data 
+ 
+Value applied: 
+3.32 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+20 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Value calculated based on publication Murdiyarso et al 2015
+13
+.  
+Purpose of Data 
+Calculation of project emission removals 
+Comments 
+- 
+ 
+Data / Parameter 
+EF
+CH4,i
+ 
+Data unit 
+g CH
+4 
+(kg dry matter burnt)
+-1
+ 
+Description 
+Emission factor for CH
+4
+ in stratum i 
+Source of data 
+CDM A/R Methodological Tool “Estimation of non-CO2 GHG 
+emissions resulting from burning of biomass attributable to an A/R 
+CDM project activity” (Version 04.0.0) 
+Value applied: 
+A default value of 6.8 from the above CDM A/R Methodological 
+Tool is used. 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+A default value is used since values are not available from sources 
+numbered a., b., and c. described below. According to the above 
+CDM A/R Methodological Tool, values may be selected from the 
+following sources, in order of preference: 
+a. Regional/national inventories e.g. national forest 
+inventory, national GHG inventory; 
+b. Inventory from neighboring countries with similar 
+conditions; 
+c. Globally available data applicable to the project site or to 
+the region/country where the site is located; 
+d. Default values 
+                                                           
+ 
+13
+ Murdiyarso, D et al (2015). The potential of Indonesian mangrove forests for global climate change 
+mitigation. Nature climate change. Available as supporting documentation 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+21 
+Purpose of Data 
+Calculation of ex-post project emissions 
+Comments 
+- 
+ 
+Data / Parameter 
+EF
+N2O,i
+ 
+Data unit 
+g N
+2
+O(kg dry matter burnt)
+-1
+ 
+Description 
+Emission factor for N
+2
+O in stratum i 
+Source of data 
+CDM A/R Methodological Tool “Estimation of non-CO2 GHG 
+emissions resulting from burning of biomass attributable to an A/R 
+CDM project activity” (Version 04.0.0) 
+Value applied: 
+A default value of 0.2 from the above CDM A/R Methodological 
+Tool is used. 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+A default value is used since values are not available from sources 
+numbered a., b., and c. described below. According to the above 
+CDM A/R Methodological Tool, values may be selected from the 
+following sources, in order of preference: 
+a. Regional/national inventories e.g. national forest 
+inventory, national GHG inventory; 
+b. Inventory from neighboring countries with similar 
+conditions; 
+c. Globally available data applicable to the project site or to 
+the region/country where the site is located; 
+d. Default values; 
+Purpose of Data 
+Calculation of ex-post project emissions 
+Comments 
+- 
+ 
+Data / Parameter 
+GWP
+CH4
+ 
+Data unit 
+Dimensionless 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+22 
+Description 
+Global warming potential for CH
+4
+ 
+Source of data 
+CDM A/R Methodological Tool “Estimation of non-CO2 GHG 
+emissions resulting from burning of biomass attributable to an A/R 
+CDM project activity” (Version 04.0.0) 
+Value applied: 
+21 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Default value 
+Purpose of Data 
+Calculation of ex-post project emissions 
+Comments 
+- 
+ 
+ 
+ 
+Data / Parameter 
+GWP
+N2O
+ 
+Data unit 
+Dimensionless 
+Description 
+Global warming potential for N
+2
+O 
+Source of data 
+CDM A/R Methodological Tool “Estimation of non-CO2 GHG 
+emissions resulting from burning of biomass attributable to an A/R 
+CDM project activity” (Version 04.0.0) 
+Value applied: 
+310 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Default value 
+Purpose of Data 
+Calculation of ex-post project emissions 
+Comments 
+- 
+ 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+23 
+Data / Parameter 
+COMF
+i
+ 
+Data unit 
+Dimensionless 
+Description 
+Combustion factor for stratum i 
+Source of data 
+CDM A/R Methodological Tool “Estimation of non-CO2 GHG 
+emissions resulting from burning of biomass attributable to an A/R 
+CDM project activity” (Version 04.0.0) 
+Value applied: 
+The corresponding default according to the age is used, unless 
+transparent and verifiable information can be provided to justify a 
+different value:  
+Mean age (years) Default value 
+3-5  0.46 
+6-10  0.67 
+11-17  0.50 
+18 and above 0.32 
+ 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+A default value is used since values are not available from sources 
+numbered a., b., and c. described below. Default emission factor 
+for tropical forest from the CDM A/R tool. According to the above 
+CDM A/R Methodological Tool, values may be selected from the 
+following sources, in order of preference: 
+a. Project-specific calculation, regional/national inventories 
+e.g. national forest inventory, national GHG inventory; 
+b. Inventory from neighboring countries with similar 
+conditions; 
+c. Globally available data applicable to the project site or to 
+the region/country where the site is located 
+d. Default values 
+Purpose of Data 
+Calculation of ex-post project emissions 
+Comments 
+- 
+ 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+24 
+Data / Parameter 
+E 
+Data unit 
+t d.m. (or t d.m. ha
+-1
+) 
+Description 
+Acceptable margin of error (i.e. one-half the confidence interval) in 
+estimation of biomass stock within the project boundary 
+Source of data 
+AR-TOOL14 
+Value applied: 
+10% of the mean value of biomass stock 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+N/A 
+Purpose of Data 
+Calculation of ex-post project emissions 
+Comments 
+- 
+ 
+Data / Parameter 
+t
+val
+ 
+Data unit 
+Dimensionless 
+Description 
+Two-sided Student’s t-value at infinite degrees of freedom for the 
+required confidence level 
+Source of data 
+AR-TOOL14 
+Value applied: 
+According to the student’s t-distribution table, 1.654 for confidence 
+level 90% and infinite degrees of freedom 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+N/A 
+Purpose of Data 
+Calculation of ex-post project emissions 
+Comments 
+The value used is for the 90% confidence level for determination of 
+biomass stock prescribed in the A/R CDM project activities since a 
+different confidence level is not prescribed in the methodology. 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+25 
+ 
+Data / Parameter 
+DF
+DW
+ 
+Data unit 
+Percent 
+Description 
+Conservative default factor expressing carbon stock in dead wood 
+as a percentage of carbon stock in tree biomass 
+Source of data 
+A/R Methodological tool “Estimation of carbon stocks and change 
+in carbon stocks in dead wood and litter in A/R CDM project 
+activities 
+Value applied: 
+6% 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Default value depending on the biome, elevation and precipitation 
+of the area. The tool recommended this value unless transparent 
+and verifiable information can be provided to justify a different 
+value. 
+Purpose of Data 
+Calculation of ex-post project emissions 
+Comments 
+- 
+ 
+  
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+26 
+3.2. Data and Parameters Monitored 
+Table 4 Data and parameters monitored 
+Data / Parameter A
+i
+ 
+Data unit Ha 
+Description Area of tree biomass stratum i 
+Source of data GIS and GPS 
+Description of measurement 
+methods and procedures to be 
+applied 
+Once the criterion for ex-post stratification has been stratified and Ai 
+has been calculated using GIS. 
+Frequency of 
+monitoring/recording 
+At least for the first monitoring but can be updated in every verification. 
+Value monitored 
+Stratum 
+ID 
+Description 
+A
+i
+ (ha) First 
+project activity 
+instances 
+A
+i
+ (ha) 
+second 
+project 
+activity 
+2nd 
+instances 
+1 
+Stratum 1, dense: highest 
+crown cover (>60%) and 
+lower mortality. Planting 
+lines are not visible in the 
+high-resolution image 
+available from Google Earth 
+since the trees have 
+reached the tangency of 
+canopies. This stratum is 
+probably related to the 
+oldest plantations from 
+2011-2013. 
+610.09 151.82 
+2 
+Stratum 2, medium: medium 
+crown cover (10-60%) and 
+lower mortality. Planting 
+lines are visible in the high-
+resolution image available 
+from Google Earth. This 
+stratum is related to 
+plantations from 2013-2015. 
+2,443.88 110.63 
+3 
+Stratum 3, scattered: low 
+crown cover and high 
+mortality. No plants or poor 
+growth where it is not 
+possible to differentiate the 
+planting lines in the high-
+1,895.05 15.77 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+27 
+resolution image available 
+from Google Earth. This 
+stratum is related to 
+plantations from 2015 or 
+after
+14
+. 
+TOTAL 4,949.02 278.23 
+ 
+Monitoring equipment GIS and other spatial information software 
+QA/QC procedures to be 
+applied 
+N/A 
+Purpose of the data Calculation of project emissions/removals 
+Calculation method Use of GIS tool 
+Comments - 
+ 
+ 
+ 
+ 
+ 
+Data / Parameter n
+i
+ 
+Data unit Dimensionless 
+Description Number of sample plots in stratum i 
+Source of data Calculated 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+N/A 
+Frequency of 
+monitoring/recording 
+Ni is calculated for each monitoring event, at least every five 
+years. 
+Value applied: 
+The following values are estimated from the first and second 
+project activity instance: 
+                                                           
+ 
+14
+ Pending new plantation plot called recalled plots 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+28 
+Stratum n
+i 
+1 75 
+2 96 
+3 66 
+ 237 
+ 
+Monitoring equipment N/A 
+QA/QC procedures to be 
+applied 
+N/A 
+Purpose of data Calculation of project emissions/removals 
+Calculation method The calculation method is described in the tool “Calculation of the 
+number of sample plots for measurements within A/R CDM project 
+activities” (version 02.1.0)
+15
+ 
+Comments - 
+ 
+ 
+Data / Parameter w
+i
+ 
+Data unit Dimensionless 
+Description Relative weight of the area of stratum i, the area of stratum i 
+divided by the project area. 
+Source of data Calculated as the area of stratum i divided by the project area. 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+N/A 
+Frequency of 
+monitoring/recording 
+Calculated for each monitoring event, at least every five years 
+Value applied: The following values are estimated from the first and second 
+project activity instances: 
+                                                           
+ 
+15
+https://cdm.unfccc.int/methodologies/ARmethodologies/tools/ar-am-tool-03-v2.1.0.pdf 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+29 
+Stratum w
+i 
+1 0.14 
+2 0.48 
+3 0.37 
+ 
+Monitoring equipment N/A 
+QA/QC procedures to be 
+applied 
+N/A 
+Purpose of data Calculation of project emissions/removals 
+Calculation method Area of stratum i divided by the project area 
+Comments - 
+ 
+Data / Parameter s
+i
+ 
+Data unit t d.m. (or td.m. ha
+-1
+) 
+Description Estimated standard deviation of biomass stock in stratum i 
+Source of data Inventory or default value 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+N/A 
+Frequency of 
+monitoring/recording 
+s
+i 
+is calculated for each monitoring event, at least every five 
+years 
+Value applied: The following values are estimated from the first and second 
+project activity instance: 
+Stratum s
+i 
+1 35.77 
+2 14.75 
+3 19.34 
+ 
+Monitoring equipment N/A 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+30 
+QA/QC procedures to 
+be applied 
+N/A 
+Purpose of data Calculation of project emissions/removals 
+Calculation method Excel or tool available to calculate standard deviation 
+Comments - 
+ 
+Data / Parameter A
+PLOT,i
+ 
+Data unit Ha 
+Description Size of sample plot in stratum i 
+Source of data Calculated 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+N/A 
+Frequency of 
+monitoring/recording 
+Every three years since the year of the initial verification 
+Value applied: 0.009 (5m radius) 
+Monitoring equipment N/A 
+QA/QC procedures to 
+be applied 
+As this value is calculated based on the expected planting 
+density, during the sampling process it needs to be 
+confirmed that the mean number of trees per sample plot is 
+more than 15. 
+Purpose of data Calculation of project emissions/removals 
+Calculation method A
+PLOT,i
+ will be calculated depending on the expected density 
+(trees/ha) in each stratum, with the objective of having 
+around 15 trees per sample plot. 
+Comments - 
+ 
+Data / Parameter A
+BURN,i,t
+ 
+Data unit Ha 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+31 
+Description Area burnt in stratum i 
+Source of data Field measurement, remote sensing measurement or any 
+other spatial information available 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+The area is delineated on the ground using GPS or 
+georeferenced remote sensing data or from any other 
+spatial information available. 
+Frequency of 
+monitoring/recording 
+The burnt area is measured whenever a forest fire has 
+occurred. 
+Value applied: N/A, wildfires did not occur in any mangrove forests in the 
+areas in this monitoring period 
+Monitoring equipment GPS  
+QA/QC procedures to 
+be applied 
+Field teams are trained in the correct use of GPS. They are 
+also made fully aware of all procedures and the importance 
+of collecting data as accurately as possible.  
+Purpose of data Calculation of project emissions/removals 
+Calculation method N/A 
+Comments Applicable only if wildfires occur. 
+ 
+Data / Parameter X
+i
+ 
+Data unit Variable 
+Description Variables measured per tree for the calculation of above-
+ground biomass applying an allometric equation: DBH, 
+height, D
+30
+,  
+Source of data Measured 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+DBH and D
+30 
+readings are taken from a caliper/ diameter 
+tape at 1.3 m along the stem (for DBH) or at 30 cm from the 
+ground for D
+30.
+ 
+Height – readings are taken on a calibrated pole placed 
+along the longitudinal axis of the tree.   
+Frequency of 
+monitoring/recording 
+Measured every monitoring event, at least every five years 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+32 
+Value applied: n.a. 
+Monitoring equipment DBH and D
+30
+, a caliper/ diameter tape is used.  
+Height, a calibrated pole is used.   
+QA/QC procedures to 
+be applied 
+Field teams are trained in all inventory procedures including 
+correct measurement – as described in the Pilot Inventory, 
+Sampling & Monitoring Plan. Field-team members are fully 
+aware of all procedures and the importance of collecting 
+data as accurately as possible. Finally, a quality check is 
+undertaken as part of inventory to identify and correct errors 
+if any. 
+Purpose of data Calculation of project emissions/removals 
+Calculation method n.a. 
+Comments D
+30
+, only for the first verification 
+ 
+Data / Parameter T 
+Data unit Year 
+Description Time period elapsed between two successive estimations of 
+carbon stock in a carbon pool  
+Source of data Recorded time 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+N/A 
+Frequency of 
+monitoring/recording 
+N/A 
+Value applied: N/A 
+Monitoring equipment N/A 
+QA/QC procedures to 
+be applied 
+N/A 
+Purpose of data Calculation of project emission removals 
+Calculation method N/A 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+33 
+Comments If the two successive estimations of carbon stock in a 
+carbon pool are carried out at different points of time in year 
+t
+2
+ and t
+1
+, (e.g. in the month of April in year t
+1
+ and in the 
+month of September in year t
+2
+), then a fractional value will 
+be assigned to T 
+ 
+3.3. Monitoring Plan 
+i. Organizational structure 
+Institutionally, a permanent YAGASU Carbon Survey Team has been set up consisting of several 
+field teams consisting of 2-3 field officers and under the supervision of Restoration Manager (Mr. 
+Anton Siregar) and Research and Field Monitoring Manager (Ms. Grace Yanti Panjaitan). These 
+teams  will  undertake  all  surveys  in  the  project  to  ensure  consistency  in  measurements  and  will 
+implement  the  carbon  monitoring  inventory  of  permanent  sampling  points  (PSPs).  The  field 
+measurement  is  supported  by  a  project-based  Android  data  collection  system  (YAGASU  survey 
+App) which ensures standardized data collection with QA/QC functions to minimize errors during 
+this stage.  
+Further, YAGASU and Livelihoods have set up a stringent verification system with external tree 
+audits including annual boundary verification and revision, if required.  
+The  organizational  structure  of  the  monitoring  is  divided  into  two  layers.  The  first  layer  is 
+represented by the YAGASU field staff, who are trained in all necessary activities to perform the 
+forest    inventory,    boundary    tracking    with    GPS,    socio-economic   monitoring    and   forest 
+establishment monitoring (survival rate, nursery monitoring, etc.). More than 20 field officers from 
+YAGASU are responsible for the different districts of the project areas ranging from east to west 
+of  the  northern  coast  of  Sumatra.  Generally,  they  are  part  of  the  communities  and  are  well 
+acquainted  with  the  specific  conditions  within  the  different  planting  areas.  The  forest  inventory 
+and monitoring surveys are conducted by them in the field (as part of the carbon survey teams). 
+All  results  are  directly  brought  to  the  main  office  of  YAGASU  in  Medan:  the  second  layer  of  the 
+project. Bambang Suprayogi and the YAGASU technical program coordinators are responsible for 
+the  technical  implementation  of  the  whole  project.  In  the  main  office  the  data  are  processed, 
+analyzed and archived following standard operation procedures and good practice guidelines. To 
+guarantee a high level of certainty of the results, the YAGASU technical program coordinators will 
+periodically crosscheck the data in the field as an independent survey. It is envisaged to verify at 
+least 10% of the data after each inventory or survey is conducted.  
+The project implementation is based on the local presence of YAGASU staff in the project area. 
+The  main  role  of  the  field  officers  is  to  manage  the  reforestation/restoration  activity  in  close 
+cooperation with YAGASU technical program coordinators. 
+ Selecting randomly and verifying the GPS location of at least 10% of the plots planted 
+during a particular planting season.  
+ Comparing the trees planted with the trees recorded in the planting plans 
+ Assessing the degree (in %) of survival of the mangrove seedlings and preparing a report 
+with the findings considering a minimum precision of 10% at the 90% confidence level. 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+34 
+Replanting of mangroves is only necessary if the optimal tree density of 3,000 trees per 
+ha cannot be achieved due to very high natural mortality. This has to be decided on a 
+site-by-site basis due to the varying local tidal and ecological conditions.  
+ Area verification. Project parcels will be verified using GPS in the field as well as through 
+Google Earth imagery analysis.  
+The Livelihoods and Yagasu’s mangrove restoration grouped project in The East Coast of Aceh 
+and North Sumatra Province is part of the portfolio of the Livelihoods Fund and for the monitoring 
+process it has followed the General Monitoring for Project Developers
+16
+, the Livelihoods Standard 
+Operating  Procedures.  These  procedures  consist  of  several  guidance  documents  for  different 
+monitoring phases: 
+ Mapping and stratifying 
+ Inventory design 
+ Field work planning 
+ Field work 
+This  document  complements  those  general  procedures  with  the  description  of  the  specific 
+characteristics of the monitoring process of the Sumatra project, based on the above mentioned 
+guidance and adapted to the project, and with specific procedures for data recording and quality 
+assessment & quality checks.  
+ii. Stratifying  
+Summary 
+For this second verification, new project stratification has been performed. In the first monitoring, 
+the  project area  was  stratified  in  four  strata  based  on  growth  and  survival  rate.  However,  this 
+stratification  is  not  consistent  nowadays  with  the  state  of  the  vegetation  during  the  second 
+verification, as has been checked using high-resolution Google Earth images. Furthermore, in the 
+first  stratification  each  planted  parcel  was  considered  in  one  project  strata  and  it  has  been 
+demonstrated  that  there  is  a  gradient  of  ecological  conditions  (mainly  salinity)  inside  every 
+planted parcel depending on the distance to the closest water stream. This issue has led to a high 
+heterogeneity   inside   each   plantation   polygon having   as   a   consequence   a   high   sampling 
+uncertainty. For these reasons and in order to reduce the sampling error, it has been decided to 
+carry out a new stratification based on a supervised classification of Sentinel-2 satellite images.  
+Remote sensing data 
+The  different  soil  and  salinity  conditions in  the  project  area mean  that  the  spatial  variability  of 
+aboveground biomass is high even within the same plantation plot. In order to improve the forest 
+inventory  estimates,  stratification  has  been  carried  out based  on  the  automatic  classification  of 
+Sentinel-2A satellite images. 
+The  Sentinel-2  mission  of  the  European  Space  Agency  (ESA)  consists  of  two  twin  satellites: 
+Sentinel 2A, launched on 23 June 2015 and Sentinel-2B, launched on 7 March 2017. The launch 
+                                                           
+ 
+16
+ Available as supporting documentation as “2013.09.06 General Monitoring for Project Developers” 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+35 
+of these  satellites  is  part  of  ESA's  Copernicus  Programme.  Sentinel-2  represents  a  high-
+resolution  multispectral  mission  designed  to  monitor  the  Earth's  surface  by  analyzing  the 
+vegetation cover. The temporal resolution of each of the satellites is 10 days, 5 days considering 
+both satellites. It consists of 13 spectral bands, four bands at 10 m, six bands at 20 m and three 
+bands at 60 m.  
+ 
+Figure 3 Identification of Sentinel-2 bands with respect to Landsat 7 and 8 bands. (Source: 
+http://landsat.gsfc.nasa.gov/) 
+ 
+As can be seen in the figure the Sentinel-2 bands are like the Landsat 7 and 8 bands, except for 
+the thermal band of the spectrum. In addition to extending  the spectral and temporal resolution, 
+Sentinel-2  offers  bands  at  different  spatial  resolutions  of  10,  20  and  60  m.  The  size  of  each 
+Sentinel-2 image is 100 x 100 Km2. 
+Sentinel-2 images with a processing level of 1C have been used for the creation of the free cloud 
+mosaic. This level of processing provides geometrically corrected images with reflectance values 
+on the roof of the atmosphere.  
+Image classification 
+Random  forest  (Breiman  2001,  henceforth  RF
+17
+)  classification  models  have  been  applied  in  the 
+stratification process. RF is part of the automatic learning methods and has become a widespread 
+technique in vegetation mapping and prediction of forest variables.  
+RF  is  a  machine  learning  technique  based  on  the  ensemble  of  many  decision  trees.  For  each 
+individual decision tree, data is randomly segregated into two data sets for training and validation. 
+The  procedure  used  in  the  random  generation  of  decisions  allows  low  correlation  between  the 
+individual  decision  trees,  ensuring  robustness  in  the  RF  results.  Several  advantages have  been 
+observed  comparing  RF  with  other  machine  learning  alternatives,  such  as  the  capacity  for 
+                                                           
+ 
+17
+ Breiman, L., 2001. Random Forests. Mach. Learn. 45, 5–32. https://doi.org/10.1023/A:1010933404324 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+36 
+working  with numerous predictor  variables, the lack of overfitting problems, and robustness with 
+respect to noise in the data. 
+The training sample has been generated using high-resolution images available in Google Earth. 
+Sentinel-2  spectral  bands  and  vegetation  indices  derived  from  these  bands  have  been  used  as 
+predictive  covariables  in  the  classification.  As  can  be  seen  in  Figure  1,  Sentinel-2  adds 
+information  on  the  wavelengths  between  red  and  infrared,  an  area  of  the  electromagnetic 
+spectrum where vegetation has a very different spectral behavior with respect to other land cover. 
+The following table shows the predictor variables used in the classification. 
+Table 5 Variables used for stratification 
+Variable types 
+Number of 
+covariable 
+Covariable Sentinel-2 bands 
+Spectrals 
+1 Blue B2 
+2 Green B3 
+3 Red B4 
+4 Red-edge B5 
+5 Red-edge B6 
+6 Red-edge B7 
+7 
+Near infrared 
+(NIR) 
+B8 
+8 
+Near infrared 
+(NIR) 
+B8A 
+9 
+Near infrared 
+(SWIR-1) 
+B11 
+10 
+Near infrared 
+(SWIR-2) 
+B12 
+ 
+ 
+Variable types 
+Number of 
+covariable 
+Covariable Definition Sentinel-2 bands 
+Vegetation index 11 NDVI1 
+(Rouse et al. (1973)) 
+(NIR - R)/(NIR+ R) (B7-B4)/(B7 + B4) 
+12 NDVI2 (NIR - R)/(NIR+ R) (B8-B4)/(B8 + B4) 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+37 
+Variable types 
+Number of 
+covariable 
+Covariable Definition Sentinel-2 bands 
+(Rouse et al. (1973)) 
+13 NDI45 
+(Delegido et al. (2011 
+(NIR - R)/(NIR+ R) (B5-B4)/(B5 + B4) 
+14 SAVI 
+(1+L)*(NIR - 
+R)/(NIR+ R+L) 
+(1+L)*(B7-
+B4)/(B7+B4+L) 
+15 TCARI 
+(Haboudane et al. 
+(2002)) 
+3*[(RE-R)-
+0.2*(RE-
+G)*(RE/R)] 
+3*[(B5-B4)-
+0.2*(B5-
+B3)*(B5/B4)] 
+16 OSAVI (1.16)*(NIR-
+R)/(NIR+R+0.16) 
+(1.16)*(B7- 
+B4)/(B7+B4+0.16) 
+17 MTCI 
+(Dash and Curran 
+(2004))I 
+(NIR-RE)/(RE-R) (B6-B5)/(B5-B4) 
+18 MCARI 
+(Daughtry et al. 
+(2000)) 
+[(RE-R)-0.2(RE-
+G)]*(RE-R) 
+[(B5-B4) - 0.2(B5-
+B3)]*(B5-B4) 
+19 GNDVI 
+(Gitelson et al. (1996)) 
+(NIR-G)/(NIR + G) (B7-B3)/(B7 + B3) 
+20 PSSRa 
+(Blackburn (1998)) 
+NIR/R B7/B4 
+21 S2REP 
+(Frampton et al, 2013) 
+705 +35*((((NIR + 
+R)/2-RE1)/(RE2-
+RE1)) 
+705 +35*((((B7 + 
+B4)/2)-B5)/(B6-
+B5)) 
+22 IRECI 
+(Frampton et al, 2013) 
+(NIR-
+R)/(RE1/RE2) 
+(B7-B4)/(B5/B6) 
+ 
+The "salt and pepper" effect of the classification has been refined by using a majority filter with a 
+3x3  window.  The  result  has  been  converted  to  shape  format  in  order  to  facilitate  further  work. 
+Figure 2 shows a detail of the final classification. 
+ 
+ 
+ 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+38 
+ 
+Figure 4 Example of the classification on the Sentinel-2 image 
+ 
+Proposed stratification 
+The three strata considered are listed below: 
+ Stratum 1, dense: highest crown cover (>60%) and lower mortality. Planting lines are not 
+visible in the available Google Earth high-resolution image since the trees have reached 
+the tangency of canopies. This stratum is probably related to the oldest plantations from 
+2011-2013. 
+ Stratum 2, medium: medium crown cover (10-60%) and lower mortality. Planting lines are 
+visible in the available Google Earth high-resolution image. This stratum is related to 
+plantations from 2013-2015. 
+ Stratum 3, scattered: low crown cover and high mortality. No plants or poor growth where 
+it is not possible to differentiate the planting lines in the available Google Earth high-
+resolution image . This stratum is related to plantations from 2015 or after 2011. 
+ 
+Table 6 Stratification of first and second project activity instances. 
+ 
+Area (ha) in first project 
+activity instance  
+Area (ha) in second 
+project activity instance  
+Stratum 1 610.09 151.82 
+Stratum 2 2443.88 110.63 
+Stratum 3 1,895.05 15.77 
+Total 
+4,949.02 278.23 
+ 
+The second project activity instance includes plantation areas which were planted between 2011 
+and  2017  but they were  not  included  in  the  first  verification  period  due  to  economic  reasons. A 
+summary of planted areas in both first and second project activity instances is shown below: 
+ 
+Sentinel 2 clasification
+Stratum 1: high coberture
+Stratum 2: medium cobrture
+Stratum 3: low coberture
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+39 
+ 
+Table 7 Summary of planting area for the first and second project activity instances. 
+Planting 
+year 
+First project activity 
+instance 
+Second project 
+activity instance 
+Area (ha) Area (ha) 
+2011 191.18 7.74 
+2012 851.32 51.95 
+2013 1,986.53 12.73 
+2014 1,623.19 169.90 
+2015 296.80 1.34 
+2016 
+ 
+26.35 
+2017 
+ 
+8.21 
+Total 
+4,949.02 278.23 
+ 
+iii.  Inventory design 
+Sampling design 
+Due  to  the  heterogeneity  of  biomass  carbon  stocks  in  the  project  area,  the  total  number  of 
+necessary sample plots to get a sampling error lower than 10% is too high. As the measurement 
+of  a  high  number  of  sample  plots  was  not  feasible  the  project  proponent  decided  to  estimate 
+biomass carbon stocks with a higher uncertainty  than 10%  and  apply an uncertainty  discount to 
+the monitoring results following Appendix 2 of AR-TOOL14. 
+A minimum number  of  40  or  60  plots  per  stratum  should  be  established. Based  on the  expert 
+criteria and previous experience, a systematic sample was distributed on a grid of 300 m by 300 
+m in Stratum 1 and 500 by 500 m in Stratum 2 and  3. This resulted in a total of 242 sample plots: 
+77 in stratum 1; 96 in stratum 2 and 69 in stratum 3. 
+ 
+ 
+ 
+ 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+40 
+ 
+Table 8 Number of sample plots per stratum used in the monitoring 
+Stratum 
+ID 
+Description A
+i
+ (ha) n
+i 
+1 
+Low crown cover and high 
+mortality (< 10%) 
+761.92 74 
+2 
+Higher crown cover (10-60%) and 
+lower mortality 
+2,554.51 95 
+3 Highest crown cover (60-100%) 1,910.82 66 
+Total 5,227.25 237 
+ 
+Data collection 
+A detailed description of the YAGASU carbon inventory procedures can be found in the SOPs 
+(supporting documentation) including standard operating procedures on work safety, field 
+measurement planning and organization, navigating in the field, and tree measurement 
+procedures, etc. 
+In the field, several parameters are assessed/ measured. The parameters relevant for the carbon 
+monitoring are the following: 
+- Species name 
+- Origin: Classification of the tree according to the origin of the tree: Pre-existing tree, 
+Planted tree or Natural regeneration.  
+- Size: Classification of trees and saplings. 
+- Diameter: Diameter at breast height (1.3 m above root collar) is measured if available, 
+otherwise the diameter D30 is taken, 30 cm above the root collar.  
+- Total Height: Total tree height of the tree or sapling. 
+For navigation and data entry of tree and plot variables, a smartphone-based inventory 
+application was specifically designed for this project.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+41 
+Figure 5 Example of visualization of data collection on the smartphone-based inventory 
+application 
+ 
+iv. Monitoring of net anthropogenic GHG removals 
+Ex post estimation of the baseline net GHG removals by sinks 
+The baseline net GHG removals by sinks are estimated following AR-TOOL14, as indicated in the 
+PD; therefore, they have not been monitored. 
+Ex post estimation of the actual net GHG removals by sinks 
+For  the  monitoring  of  GHG  removals  by  sinks  the  project  proponent  has  put  in  place  within 
+Yagasu  a  unit  dedicated  to  the  monitoring  processes.  This  unit  benefits  from  the  expertise  of  a 
+forest  carbon  specialist  who  is  in  charge  of  the  design  and  calculations  of  the  monitoring 
+inventory.  
+The monitoring of the GHG removals has been based on the stratification of the project and the 
+sampling design. 
+Ex post estimation of the actual net GHG removals by sinks has been  done as  explained in the 
+following paragraphs. 
+- Changes in carbon stocks in tree and shrub biomass: once the project area is 
+stratified and the sampling design is accomplished, ex-post changes in 
+carbon stocks in tree and shrub biomass have been estimated according to 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+42 
+AR-TOOL14. Specific allometric equations have been developed for the 
+project. Based on those equations the following variables have been 
+measured in all trees inside each sample plot (see further details in the SOP, 
+available as supporting documentation): 
+o Ht = Total height; cm 
+o Dmean = Mean crown cover diameter; cm 
+- Changes in carbon stocks in deadwood have not been monitored because 
+they have been calculated using the conservative default-factor based 
+method of the CDM tool AR-TOOL12. 
+- Changes in carbon stocks in the soil organic carbon pool have been 
+estimated using the default methods proposed in the selected AR CDM 
+methodology (AR-AM00014), therefore no monitoring has been done of this 
+carbon pool. 
+- GHG emissions within the project boundary: the only source of GHG 
+emissions considered in the selected methodology is burning of biomass 
+attributable to the project activity and it is calculated using the A/R CDM 
+Methodological tool: “Estimation of non-CO2 GHG emissions resulting from 
+burning of biomass attributable to an A/R CDM project activity, (Version 
+04.0.0)”. In this grouped project there will not be fire for site preparation or fire 
+to clear the land of harvest residue prior to replanting of the land or other 
+forest management. The only potential source of GHG emissions is forest 
+fires that are monitored during the verification period. 
+Ex post estimation of leakage 
+In  the  first  project  activity  instance  displacement  of  pre-project  agricultural  activities has not 
+occurred. No specific data needs to be monitored for the assessment of this source of leakage. 
+Ex post estimation of the net anthropogenic GHG removals 
+The  net  anthropogenic  greenhouse  gas  removals  by  sinks  have  been  calculated  based  on  the 
+selected  methodology  as  the  actual  net  greenhouse  gas  removals  by  sinks  minus  the  baseline 
+net greenhouse gas removals by sinks minus leakage as appropriate. 
+Quality control and quality assurance (QA/QC) procedures 
+A  rigid  quality  control  and  quality  assurance  (QA/QC)  method  is  implemented  to  ensure:  (i) 
+reliability  of  collection  of  field  measurements,  (ii)  verification  of  the  methods  used  to  collect  field 
+data,  and  (iii)  verification  of  data  maintenance  and  archiving (see  further  details  in  the  SOP, 
+available as supporting documentation). 
+Procedures to ensure reliable field measurements 
+Collecting  reliable  field  measurement  data  is  an  important  step  to  ensure  the  quality  of  field 
+measurements and therefore is an important step in the quality assurance plan. In this monitoring, 
+field measurements have been done in some trees for the QC/QA of the field information. Those 
+responsible for the measurement work have been trained in all aspects of the field data collection 
+and  data  analyses.  Standard  Operating  Procedures  (SOPs)  have  been  developed  including  all 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+43 
+steps  of  the  field  measurements,  and  this  document  has  been  shared  with  field  teams.  These 
+SOPs describe in detail all steps to be taken for the field measurements (including standard field 
+forms)  and  contain  provisions  for  documentation  for  verification  purposes  so  that  future  field 
+personnel  can  check  past  results  and  repeat  the  measurements  in  a  consistent  way.  To  ensure 
+the  quality  of  the  standard  operating  procedures,  they  have  been  elaborated  by  third  party 
+experts,  in  close  collaboration  with  the  implementing  partner.  To  ensure  the  collection  and 
+maintenance of reliable field data: 
+- Field-team members are fully aware of all procedures and of the importance 
+of collecting data as accurately as possible; and 
+- Field teams install test plots if needed in the field and measure all pertinent 
+components using the SOPs to estimate measurement errors; 
+- The document will list all names of the field team and the project leader will 
+certify that the team is trained; 
+- New staff adequately trained. 
+Procedures to verify field data collection 
+. To verify the quality of data recorded a deep revision of data has been performed. This revision 
+consists on checking every data collected is under logical intervals. For example the following 
+rules have been applied: 
+ 
+Table 9 Example of rule applied in the QC procedures 
+Field name Rule applied 
+tr_azimuth  
+Maximum azimut should be 360. If there are 4 
+trees each tree should be in its correspondent 
+quadrant 
+tr_hori_distance_m  
+Each data collected should be under the radious 
+of the plot: 5.6 m. 
+tr_height_m   Heights over 15 meters should be analysed 
+tr_dbh_cm  
+Diameters should have values under 30 cm. 
+higher diameters should be revised 
+ 
+The error in diameter is considered one of the most important. After the first submission of 
+monitored plots a total number of 19 plots were repeated of a total number of 237 (8 % of the 
+plots were repeated). These can be found on the calculations sheets as “redo.1
+st
+ instance” in the 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+44 
+sheet named as tree
+18
+. Also in the calculation sheets is indicated all the corrections made. over 
+the data collected.” 
+Further on the VVB go with the field staff and re-measure the 10% of the plots. The following 
+quality targets should be achieved for the re-measurements, compared to the original 
+measurements: 
+- Missed or extra trees  no error within the plot 
+- Tree species or groups  no error 
+- DBH of tree measurements  < ± 0.5 cm or 3 % whichever is greater 
+Field data collected at this stage will be compared with the original data. Any errors found will be 
+corrected and recorded. Any errors discovered will be expressed as a percentage of all plots that 
+have been re-checked to provide an estimate of the measurement error
+19
+. 
+Data maintenance and storage 
+Because of the relatively long-term nature of these project activities, data archiving (maintenance 
+and  storage)  will  be  an  important  component  of  the  work.  Data  archiving  should  take  several 
+forms and copies of all data should be provided to each project participant. 
+Copies  (electronic)  of  all  field  data,  data  analyses,  and  models;  estimates  of  the  changes  in 
+carbon stocks and corresponding calculations and models used; any GIS products; and copies of 
+the  measuring  and  monitoring  reports  should  all  be  stored  in  a  dedicated  and  safe  place, 
+preferably offsite. 
+Given the time frame over which the project activity will take place and the pace of production of 
+updated  versions  of  software  and  new  hardware  for  storing  data,  it  is  recommended  that  the 
+electronic  copies  of  the  data  and  report  be  updated  periodically  or  converted  to  a  format  that 
+could be accessed by any future software application. Copies of all raw data, reports of analysis 
+and supporting spreadsheets will be stored in a dedicated long-term electronic archive for at least 
+2 years following the end of the last crediting period.  
+                                                           
+ 
+18
+ See calculations sheet on supporting documentation 
+19
+ The results are available as supporting documentation, 
+“2019_11_06_YAGASU_Ex_post_Calculations_QC_  sept  2019”.  The  sheet  “Comparative  1” 
+shows the differences between the original plots and the remeasured ones, where it can be seen 
+that the error on dbh is less than 3%.  
+ 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+45 
+4. QUANTIFICATION OF GHG EMISSION REDUCTIONS AND REMOVALS 
+4.1. Baseline Emissions  
+Under  the  applicability  conditions  of  the  applied  methodology  AR-AM0014  “Afforestation  and 
+reforestation  of  degraded  mangrove  habitats”  (Version  03.0),  it  is  expected  that  the  baseline 
+carbon stocks in litter and soil organic carbon pools will not show a permanent net increase.  
+The baseline net GHG removals by sinks are therefore calculated using Equation 1 of the 
+methodology: 
+∆퐶
+퐵푆퐿,푡
+=∆퐶
+푇푅퐸퐸−퐵푆퐿,푡
++∆퐶
+푆퐻푅푈퐵−퐵푆퐿,푡
++∆퐶
+퐷푊−퐵푆퐿,푡
+   
+Equation  1 of this MR, 1 of AR-
+AM0014  
+Where:  
+ΔC
+BSL,t
+ = Baseline net GHG removals by sinks in year t; t CO
+2
+-e
+ 
+ΔC
+TREE_BSL,t
+ 
+= Change in carbon stock in baseline tree biomass within the project 
+boundary in year t; t CO
+2
+-e
+ 
+ΔC
+SHRUB_BSL,,t
+ 
+= Change in carbon stock in baseline shrub biomass within the project 
+boundary in year t; t CO
+2
+-e 
+ΔC
+DW_BSL,t
+ 
+= Change in carbon stock in baseline dead wood biomass within the 
+project boundary, in year t; t CO
+2
+-e 
+As indicated in Section 3.1 of the PD, one baseline stratum was defined for the complete project 
+area. The land cover classes were: 
+- Blank areas: 97.59% 
+- Dwarf mangrove shrubs: 0.99% 
+- Pre-existing trees: 1.42% 
+Shrub baseline biomass 
+Shrub  carbon  stock  changes  in  this  stratum  have  been  estimated  as  zero  as  explained  in  PD. 
+Baseline  carbon  stocks  in  shrubs  are  calculated following  the  equation  of  the  AR-TOOL14 
+“Estimation of carbon stocks and change in carbon stocks of trees and shrubs in A/R CDM project 
+activities” (Version 4.1): 
+퐶
+푆퐻푅푈퐵;푇
+=
+44
+12
+∗퐶퐹
+푠
+∗
+(
+1+푅
+푠
+)
+∗∑퐴
+푆퐻푅푈퐵
+,
+푖
+∗푏
+푆퐻푅푈퐵,푖
+ 
+   
+Equation  2 of this MR, 26 of AR-
+TOOL14 
+푏
+푆퐻푅푈퐵,푡
+=퐵퐷푅
+푆퐹
+∗푏
+푓표푟푒푠푡
+∗푐푐
+푆퐻푅푈퐵,푖
+ 
+   
+Equation  3 of this MR, 27 of AR-
+TOOL14 
+ 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+46 
+ 
+Where:  
+퐶
+푆퐻푅푈퐵,푡
+  = Carbon stock in shrubs within the project boundary in the baseline; t CO
+2
+e 
+퐶퐹
+푆
+   = Carbon fraction of shrub biomass, t C (t d.m.)
+-1
+ 
+푅
+푠
+   = Root-shoot ratio for shrubs; dimensionless 
+퐴
+푆퐻푅푈퐵,푖
+  = Area of shrub biomass estimation stratum i, ha 
+푏
+푆퐻푅푈퐵,푖
+  = Shrub biomass per hectare in shrub biomass estimation stratum i, t d.m.ha
+-1
+ 
+퐵퐷푅
+푆퐹
+ = Ratio of shrub biomass per hectare in land having a shrub crown cover of 1.0 and the 
+default above-ground biomass content per hectare in forest in the region where the project is 
+located. 
+푏
+퐹푂푅퐸푆푇
+ = Default above-ground biomass content in forest in the region/country where the 
+A/R CDM project activity is located, t d.m.ha-1 
+퐶퐶
+푆퐻푅푈퐵
+ = Crown cover of shrubs in shrub biomass estimation stratum i at the time of 
+estimation, expressed as a fraction 
+Crown cover (퐂퐂
+퐒퐇퐑퐔퐁
+)= Following the shrub classification (see PD), 1% of the project areas are 
+covered with shrubs. 
+b
+FOREST
+:= For the calculation of this second monitoring period, the default value for Indonesia 
+presented in IPCC table 3.A.1.4. is applied.  
+b
+FOREST
+= 136.0 t d.m. ha
+-1
+ 
+For the following parameters, default values taken from the tool AR-TOOL14 are applied: 
+Table 10 Default values applied 
+Parameter  Denotation  Value  
+Carbon fraction of shrub biomass CF
+s
+ 0.47 
+Root-shoot ratio for shrubs R
+s
+ 0.4 
+Ratio of shrub biomass per hectare in land having 
+a shrub crown cover of 1.0 
+BDR
+SF
+ 0.1 
+Pre-existing tree baseline biomass 
+The  estimation  of  carbon  stock  in  pre-project  tree  biomass  was  done  following  equation  20  and 
+21 of the methodological tool “Estimation of carbon stocks and change in carbon stocks of trees 
+and shrubs in A/R CDM project activities” (Version 04.1): 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+47 
+퐶
+푇푅퐸퐸_퐵푆퐿
+=∑퐶
+푇푅퐸퐸_퐵푆퐿,푖
+,
+푖=1
+ Equation  4 of 
+this MR, 20 of 
+AR-TOOL14  
+퐶
+푇푅퐸퐸_퐵퐿푆푖
+=
+44
+12
+×퐶퐹
+푇푅퐸퐸
+×푏
+퐹푂푅퐸푆푇
+×(1+푅
+푇푅퐸퐸
+)×퐶퐶
+푇푅퐸퐸_퐵퐿푆푖
+×퐴
+푖
+ 
+   
+Equation  5 of 
+this MR, 21 of 
+AR-TOOL14 
+Where: 
+C
+TREE_BSL 
+= Carbon stock in pre-project tree biomass; t CO
+2
+-e 
+C
+TREE_BSL,i 
+= Carbon stock in pre-project tree biomass in stratum i; t CO
+2
+-e 
+CF
+TREE
+ = Carbon fraction of tree biomass (t C (t.d.m.)
+-1
+ 
+b
+forest
+ = Mean above-ground biomass in forest in the region or country where the A/R CDM 
+project is located; t d.m.ha
+-1
+ 
+R
+TREE
+  = Root-shoot ratio for trees in the baseline; dimensionless 
+CC
+TREE_BSL,i 
+= Crown cover of trees in baseline stratum i, at the start of the A/R CDM project 
+activity, expressed as a fraction; dimensionless 
+A
+i
+ = Area of baseline stratum i, delineated on the basis of tree crown cover at the start of 
+the A/R CDM project activity; ha 
+Crown  cover  (CC
+tree
+)= According  to  the  crown  cover  analysis,  the  crown  cover  of  pre-existing 
+trees in baseline represents 1.42% of the area in the project area.  
+b
+FOREST
+=The same value as for the shrubs baseline was applied. 
+b
+FOREST
+ = 136.0 t d.m. ha
+-1
+ 
+For the following parameters, default values taken from the tool AR-TOOL14 are applied:  
+Table 11 Default values applied 
+Parameter  Denotation  Value  
+Carbon fraction of tree biomass CF
+T
+ 0.47 
+Root-shoot ratio for tree R
+T
+ 0.25 
+ 
+Dead wood of pre-existing trees in the baseline 
+According  to the methodological  tool AR-TOOL12 “Estimation of carbon stocks and change in 
+carbon stocks in dead wood and litter in AR CDM project activities” (Version 03.1), when there 
+are pre-existent trees in the baseline, dead wood carbon shall be accounted as baseline carbon.  
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+48 
+The  baseline carbon in  dead  wood  is  calculated  using  the  conservative  default-factor  based 
+method included in AR-TOOL12. The following equation is applied: 
+퐶
+퐷푊,푖,푡
+=퐶
+푇푅퐸퐸,푖,푡
+∗퐷퐹
+퐷푊
+   
+Equation  6 of this MR, 9 of AR-
+TOOL12 
+Where: 
+C
+DW,i,t
+ 
+= Carbon stock in dead wood in stratum i at a given point of time in 
+year t; t CO
+2
+-e; 
+C
+TREE,i,t
+ 
+= Carbon stock in trees biomass in stratum i at a point of time in year 
+t; t CO
+2
+-e; 
+DF
+DW
+ 
+= Conservative default factor expressing carbon stock in dead wood 
+as a percentage of carbon stock in tree biomass; per cent. 
+As  stated in  the  PD,  the  conservative  default  factor  for  dead  wood  biomass  for  this  project 
+according to the corresponding biome, elevation and annual precipitation is 6% of carbon stock of 
+pre-existing tree biomass. Hence, this value is applied. 
+The  pre-existing  baseline  carbon  estimation  for  the  second  project  activity  instance  has  been 
+calculated since the  second project activity  instance  has  been  added  in  this  verification  period. 
+The pre-existing baseline carbon stock for the second activity instances is summarized below.  
+Table 12 Calculation of pre-existing baseline carbon stocks in trees and shrubs. Second project activity instances 
+Year 
+Project 
+year 
+Planted 
+areas/ 
+restored per 
+year (ha) 
+C
+TREE,t1 
+Pre-existing 
+biomass of 
+trees (tCO
+2
+e) 
+C
+DW_BSL 
+Dead wood 
+Pre-existing 
+trees 
+(tCO
+2
+e) 
+C
+SHRUB_BSL 
+Pre-existing 
+shrub 
+biomass 
+(tCO
+2
+e) 
+C
+BSL 
+Total 
+biomass 
+baseline 
+(t CO
+2
+e) 
+2011 1 7.74 32.21 1.93 2.50 36.64 
+2012 2 51.95 216.17 12.97 16.80 245.94 
+2013 3 12.73 52.98 3.18 4.12 60.27 
+2014 4 169.90 706.92 42.42 54.93 804.26 
+2015 5 1.34 5.60 0.34 0.43 6.37 
+2016 6 26.35 109.64 6.58 8.52 124.74 
+2017 7 8.21 34.16 2.05 2.65 38.86 
+Total 
+ 
+278.23 1157.67 
+69.46 89.95 
+1317.08 
+ 
+4.2. Project Emissions  
+The   actual net   GHG   removals   by   sinks   have   been   calculated   using   equation   2   of   the 
+methodology:   AR-AM0014:   Afforestation   and   reforestation   of   degraded   mangrove   habitats 
+(Version 03.0), as described below. 
+∆퐶
+ACTUAL,t
+=∆퐶
+푃,t 
+−퐺퐻퐺
+퐸,t
+ Equation  7 of this MR , 2 of AR-AM0014 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+49 
+ 
+Where:  
+ΔC
+ACTUAL,t
+ 
+= Annual actual net greenhouse gas removals by sinks at time t; t CO
+2
+-
+e yr
+-1
+ 
+ΔC
+P,t
+ 
+= Change in carbon stocks in project, occurring in the selected carbon 
+pools, at time t; t CO
+2
+-e yr
+-1
+ 
+GHG
+E,t
+ 
+= Increase of non-CO
+2 
+GHG emissions within the project boundary as a 
+result of the implementation of the A/R CDM project activity, in year t, t 
+CO
+2
+-e 
+Change in carbon stocks in project - ΔC
+P,t
+ 
+ 
+Change in the carbon stocks in the project have been calculated using equation 3 of the 
+methodology: 
+∆퐶
+푃,t
+=∆퐶
+푇푅퐸퐸_푃푅푂퐽,t 
++∆퐶
+푆퐻푅푈퐵_푃푅푂퐽,t
++∆퐶
+퐷푊_푃푅푂퐽,t
++∆푆푂퐶
+푃푅푂퐽,t
+ 
+ 
+Equation  8 of this MR , 3 of AR-
+AM0014 
+  
+Where:  
+ΔC
+P,t
+ 
+= Change in carbon stocks in project, occurring in the selected carbon 
+pools, at time t; t CO
+2
+-e yr
+-1
+ 
+ΔC
+TREE_PROJ,t
+ 
+= Change in carbon stock in tree biomass in project in year t, as 
+estimated in AR-TOOL14; t CO
+2
+-e yr
+-1
+ 
+ΔC
+SHRUB_PROJ,t
+ 
+= Change in carbon stock in shrub biomass in project in year t, as 
+estimated in AR-TOOL14; t CO
+2
+-e yr
+-1
+ 
+ΔC
+DW_PROJ,t
+ 
+= Change in carbon stock in dead wood in project in year t, as 
+estimated in the tool “Estimation of carbon stocks and change in carbon 
+stocks in dead wood and litter in A/R CDM project activities”, t CO
+2
+-e 
+ 
+ΔSOC
+PROJ,t
+ 
+= Change in carbon stock in the soil organic carbon (SOC) pool within 
+the project boundary, as estimated in AR-AM0014, in year t; t CO
+2
+-e yr
+-1
+ 
+Change in carbon stock in tree biomass - ΔC
+TREE_PROJ,t 
+ 
+ΔC
+TREE_PROJ,t 
+,  in  this  grouped  project, has  been calculated  using  sections  6,  7and  8  of AR-
+TOOL14. Specifically,  in this monitoring  period,  estimations  of  change  in  carbon  stock  in  trees 
+between  two  points  of  time  have  been done  using  the  “Difference  of  two  independent  stock 
+estimations” method (see section  6.1  of  AR-TOOL14).  The  application of  this  method  has  been 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+50 
+based on measurements of sample plots to estimate carbon stock in trees at a point of time (see 
+section 8.1 of AR-TOOL14).  
+ 
+The following equations have been used: 
+∆퐶
+TREE
+PROJ
+,t
+=
+∆퐶
+푇푅퐸퐸
+푇
+ 
+  
+Equation  9 of this MR,  11 of AR-TOOL14 
+∆퐶
+TREE
+=퐶
+푇푅퐸퐸,t2 
+−퐶
+푇푅퐸퐸,t1
+ 
+  
+Equation  10 of this MR, 1 of AR-TOOL14 
+Where:  
+ΔC
+TREE_PROJ,t
+ = Change  in carbon stock in tree biomass in project in  year t;  t CO
+2
+-e 
+yr
+-1
+ 
+ΔC
+TREE
+ 
+=  Rate  of  change  in  carbon  stock  in  tree  biomass  within  the  project 
+boundary  during  the  period  between  a  point  of  time  in  year t1 and  a 
+point of time in year t2; t CO
+2
+-e yr
+-1
+ 
+T 
+= Time elapsed between two successive estimations (T=t
+2
+ - t
+1
+); yr 
+The next equations are also used: 
+t,TREETREEtTREE,
+B*CF* 
+12
+44
+ C=
+ Equation  11 of this MR, 12 of AR-TOOL14 
+B
+TREE, t
+ = b
+TREE, t
+ * A 
+Equation  12 of this MR,13 of AR-TOOL14 
+  x w  
+∑
+M
+1i
+it,TREE,itTREE,
+
+bb
+ 
+Equation  13 of this MR, 14 of AR-TOOL14 
+i
+ni
+1p
+it,p,TREE,it,TREE,
+n /   
+∑
+
+bb
+ 
+Equation  14 of this MR,16 of AR-TOOL14) 
+i
+iPLOT,it,p,TREE,it,p,TREE,
+A/ B  b
+ 
+Equation  15 of this MR, 1 of Appendix 1, 
+AR-TOOL14 
+   
+∑
+j
+it,p,j,TREE,it,p,TREE,
+BB
+ 
+Equation  16 of this MR, 2 of Appendix 1, 
+Ar-TOOL14 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+51 
+∑
+l
+it,p,j,l,TREE,it,p,j,TREE,
+  BB
+ 
+Equation  17 of this MR, 3 of Appendix 1, 
+Ar-TOOL14 
+B
+TREE,l, j, p, t, i
+ = f
+j
+(x
+1,l
+,x
+2,l
+,x
+3,l
+,...) * (1 + R
+j
+) 
+Equation  18 of this MT, 4 of Appendix 1, 
+AR-TOOL14 
+Where:  
+C
+TREE, t
+ 
+= Carbon stock in tree biomass within the project boundary at a point of 
+time in year t; t CO2-e. Note: for the first verification, the variable C
+TREE, 
+t1 
+will be set equal to zero based on the results of section 3.1. 
+CF
+TREE
+ 
+= Carbon fraction of tree biomass; t C (t d.m.)
+-1
+. 
+A  default  value  of  0.47  is  used  unless  transparent  and  verifiable 
+information can be provided to justify a different value. 
+B
+TREE, t
+ 
+=  Total  tree  biomass  within  the  project  boundary  at  a  given  point  of 
+time in year t; t d.m. 
+b
+TREE, t
+ 
+= Mean tree biomass per hectare within the project boundary at a given 
+point of time in year t; t d.m. ha
+-1
+ 
+A 
+= Project area; ha 
+w
+i
+ =  Ratio  of  the  area  of  stratum i to  the  sum  of  areas  of  tree  biomass 
+estimation strata (A
+i
+/A), dimensionless 
+b
+TREE ,t,i
+ = Mean tree biomass per hectare in stratum i at a given point of time in 
+year t; t d.m. ha
+-1
+ 
+n
+i
+ = Number of sample plots in stratum i 
+b
+TREE, p, t, i
+ =  Tree  biomass  per  hectare  in  sample  plot p of  stratum i at  a  given 
+point of time in year t; t d.m. ha
+-1
+ 
+B
+TREE, p, t, i
+ = Tree biomass in sample plot p of stratum i at a given point of time in 
+year t; t d.m. 
+A
+PLOT,i
+ 
+= Size of sample plot in stratum i; ha 
+B
+TREE, j, p, t, i
+ = Biomass of trees of species j in sample plot p of stratum i at a given 
+point of time in year t; t d.m. 
+B
+TREE, l, j, p, t, i
+ = Biomass of tree l of species j in sample plot p of stratum i at a given 
+point of time in year t; t d.m. 
+A
+i
+ = Stratum i area; ha 
+f
+j
+(x
+1,l
+,x
+2,l
+,x
+3,l
+,...) 
+= Above-ground biomass of the tree returned by the allometric equation 
+for  species j relating  the  measurements  of  tree l to  the  above-ground 
+biomass of the tree; t d.m. 
+R
+j
+ 
+= Root-shoot ratio for tree species j; dimensionless 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+52 
+A  significant  number  of  mangrove plants within  the  project  area during  the  second  monitoring 
+period  are  in  a  transitional  condition  between  saplings  and  trees. Field  teams  classified  each 
+mangrove plant as sapling or tree. For this second verification, in order to remain a conservative 
+carbon analysis, saplings have not been accounted in the carbon monitoring.  
+Step 1: Selection of the allometric equation. 
+The  following allometric equations  have  been  selected  and  applied  to  the  respective  trees to 
+calculate AGB per tree: 
+Table 13 Allometric equations used in AGB assessment  
+Applied to Equation R² 
+N (sample 
+trees used to 
+derive the 
+equation) 
+Source 
+Rhizophora spp. AGB = 0.235 * D
+2.42 
+0.98 57 Ong et al. (2004)
+20
+ 
+Other mangrove 
+trees 
+AGB = 0.251* ρ*(D)
+2.46
+ 0.98 104 
+Komiyama et 
+al.(2005)21 
+Where: 
+AGB = Above ground biomass (kg) 
+ρ = Wood density, g/cm
+3
+ 
+D 
+= Diameter at Breast Height or Diameter at 30cm- or 10cm from the last stilt 
+root that is fixed to the surface (d30 or d10) and from the ground (dbh) 
+(cm)
+22
+. For Rizophora spp. normally the d
+30
+ or d
+10
+ is taken. For Avicennia 
+dbh is taken.  
+                                                           
+ 
+20
+http://www.sciencedirect.com/science/article/pii/S0378112703003906 (also provided as supporting 
+documentation) 
+21
+Komiyama, A.; Poungparn,S. & Kato, S. (2005) Common Allometric equations for estimating the tree 
+weight of mangroves. Journal of tropical Ecology 21: 471-477. Cambridge University Press (available as 
+supporting documentation), also in http://www.cifor.org/publications/pdf_files/WPapers/WP86CIFOR.pdf 
+22
+ For stilt rooted species (e.g. Rhizophora spp.), stem diameter is often measured above the highest stilt 
+root. For some individuals with prop roots extending well into the canopy, it is not necessary, practical or 
+accurate to measure above the highest prop root. Typically, tree diameter is measured above the stilt 
+roots, where a true main stem exists. In Rhizophora species the d30 is normally recorded. If it is not 
+posible to measure d30 then d10 is measured. For non stilt rooted species (ej: Avicennia) with a main 
+stem,  dbh is taken) 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+53 
+Species  specific  values of  wood  density were  applied  in  order improve calculations accuracy 
+using a global wood density database
+23
+. A genus average value has been applied for the species 
+not listed in the database. A site average value was used when neither the species nor the genus 
+was listed in the database.  a table with different examples of mangrove species wood densities , 
+with a classification based on four priorities: 
+1. Species from South-East Asia (tropical) 
+2. Species from South-East Asia 
+3. Genus from South-East Asia (tropical) 
+4. Genus from South-East Asia 
+Table 14 Wood density of project-relevant mangrove species (Zanne et al. (2011)) 
+Scientific name Wood density (gcm
+-3
+) 
+Avicennia spp.  0.61 
+Rhizophora apiculata 0.85 
+Rhizophora mucronata 0.82 
+Rhizophora stylosa 0.84 
+Other 0.68 
+ 
+Step 2: Calculation of change in carbon stock in tree biomass 
+This step is developed in the following sub-steps: 
+ Sub-step 2.1: Calculation of above ground biomass (AGB) per tree (f
+j
+(x
+1,l
+,x
+2,l
+,x
+3,l
+,...)) 
+based on the trees variables measured and using the selected allomentric equation (see 
+results in Excel file“2019_10_26_Yagasu_Ex post_Calculations_2nd verification”);  
+ Sub-step 2.2: Calculation of tree biomass (B
+TREE,l, j, p, t, i
+ ) using equation 16, based on the 
+results of sub-step 2.1. and using the selected default root-shoot ratio: 0.29;  
+ Sub-step 2.3: Calculation of the carbon stock in tree biomass within the project boundary 
+at t
+2 
+(C
+TREE, t2
+, second monitoring ending date) and t
+1
+ (C
+TREE, t1
+, first monitoring ending 
+date). C
+TREE, t2
+ is calculated in the Excel file “2019_10_26_Yagasu_Ex 
+post_Calculations_2nd verification”  based on equations 9 to 15 (see summary results in 
+table below), C
+TREE, t1 
+results come from the previous verification report and monitoring 
+report; 
+                                                           
+ 
+23
+Zanne et al. (2009) Global wood density database. 
+http://datadryad.org/resource/doi:10.5061/dryad.234/1 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+54 
+ Sub-step 2.4: Discount rate application to the calculation of change in carbon stock in 
+trees during the period between two points of time based on monitoring uncertainty. 
+Calculations provide an uncertainty of 59% (calculated using equations 1 and 2 of AR-
+TOOL14). 
+Table 15 Summary results in the calculation of ΔC
+TREE 
+Stratum ID A
+i 
+(ha) n
+i
+ w
+i
+ b
+TREE,t,i
+ (t d.m./ha) 
+1 
+ 761.92  75 0.15 5.12 
+2 
+ 2,554.51  96 0.49 4.46 
+3 
+ 1,910.82 66 0.37 1.03 
+Total 
+5227.25 
+237 1.00 Weighted mean 10.05 
+ 
+A
+PLOT
+ (ha) 
+0.01 
+b
+TREE,t
+ (t d.m./ha) 
+10.6 
+t
+val
+ 
+1.6512 
+u
+c
+ (%) 
+19.5% 
+CF 
+0.47 
+B
+TREE,t
+ (t d.m.) 
+55,456.2 
+C
+TREE,t
+ (t CO
+2
+-e) 
+95,569.6 
+Table 13. Uncertainty of ΔC
+TREE
+ 
+ 
+2nd monitoring 
+(t2) 
+1st monitoring 
+(t1) 
+A
+PLOT
+ (ha) 
+0.010 0.010 
+b
+TREE,t
+ (t d.m./ha) 
+10.61 3.70 
+t
+val
+ 
+1.65 1.655 
+u
+c
+ (%) 
+19.5% 19.0% 
+CF 
+0.47 0.47 
+B
+TREE,t
+ (t d.m.) 
+55,456.25 16839.70 
+C
+TREE,t
+ (t CO
+2
+-e) 
+95,569.6 29020.40 
+RE
+max
+ (%) 
+19.5% 19.0% 
+T (years) 
+3.83 
+ΔC
+TREE
+ 
+66,549.2 
+u
+Δc
+ (%) 
+29% 
+Discount (75% of 
+u
+Δc
+) 
+22% 
+∆C
+TREE,t 
+(t CO2-e) 51,950.52 
+ 
+Based  on  the  results  of  above  tables  the  conservative  value  (applying  the  discount  rate)  of 
+ΔC
+TREE
+ has  been  calculated  as 51,950.52t  CO
+2
+-e  (ΔC
+TREE
+ /  T = 51,950.52 / 3.8 = 13,563.81 t 
+CO
+2
+-e). The   discount   has   been   applied   following   Appendix   2   of   AR-TOOL14 “Applying 
+uncertainty discount” where is it indicated that for uncertainties higher that 20% the discount rate 
+should be 75% of the uncertainty. 
+ 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+55 
+Carbon stock change in shrubs 
+The  project  area was reforested  with  mangrove  trees  only.  Due  to  the  small  size  of  overall 
+vegetation  in  the  project  area,  shrub  vegetation  is  conservatively  not  estimated  in  this second 
+verification. It may be included in subsequent verifications if it becomes significant. 
+Carbon stock change in dead wood 
+The  change  in carbon stock  in  dead  wood  is  calculated  using  the  conservative  default-factor 
+based method included in AR-TOOL12. The following equation is applied: 
+C
+DW,i,t
+= C
+TREE,i,t
+ * DF
+DW
+ 
+Equation  19 of this MR,  9 of AR-TOOL12 
+    
+Where: 
+C
+DW,i,t
+ 
+= Carbon stock in dead wood in stratum i at a given point of time in year 
+t; t CO
+2
+-e; 
+C
+TREE,i,t
+ 
+= Carbon stock in trees biomass in stratum i at a point of time in year t; t 
+CO
+2
+-e; 
+DF
+DW
+ 
+= Conservative default factor expressing carbon stock in dead wood as a 
+percentage of carbon stock in tree biomass; per cent. 
+As stated in the PD, the conservative default factor for dead wood biomass for this project as 
+influenced by the biome, elevation and annual precipitation is 6% of carbon stock in tree biomass. 
+Hence, this value is applied. Therefore: ΔC
+DW 
+= ΔC
+TREE
+ * DF
+DW
+ = 51,805.00 t CO
+2
+-e * 6% = 
+3,047.24 t CO
+2
+-e. 
+ 
+Estimation of changes in soil organic carbon stocks 
+Changes in carbon stocks in the SOC pool is calculated as indicated in the Methodology AR-
+AM0014: 
+∆푆푂퐶
+푃푅푂퐽,푡
+=
+44
+12
+∗∑퐴
+푃퐿퐴푁푇,푡
+푡
+푡=1
+∗푑푆푂퐶
+푡
+∗1푦푒푎푟 
+ 
+Equation  20 of this MR,  4 of AR-AM0014 
+Where:  
+∆푆푂퐶
+푃푅푂퐽,푡
+ = Change in SOC stock within the project boundary, in year t; t CO
+2
+-e 
+퐴
+푃퐿퐴푁푇,푡
+ = Area planted in year t, ha 
+푑푆푂퐶
+푡
+ = The rate of change in SOC stocks within the project boundary, in year t, tCha
+-
+1
+yr
+-1
+. 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+56 
+Calculation  of  dSOC  has  been  done  based  on  the  publication  Murdiyarso  et  al.  (2015)
+24
+,  where 
+the potential of Indonesian mangrove forest was analyzed, providing evidence that mangroves in 
+Indonesia are among the ecosystems with the highest carbon accumulation in the world and that 
+soil carbon accounts for close to 80% of all carbon pools in these systems. This study analyzed 
+soil carbon in mangroves up to 200 cm of soil depth. In order to be conservative, calculations for 
+this  project  only  considers  50  cm.  In  addition,  in  order  to  account  for  allochthonous  soil  carbon 
+buried  at  the  project  sites,  the  default  approach  of  the  recently  accepted  VCS  Methodology 
+VM0033 Methodology for Tidal Wetland and Seagrass Restoration is applied
+25
+. A deduction factor 
+for allochthonous soil carbon for each of the soil layers up to 50 cm measured in the Murdiyarso 
+et al. (2015) study was derived with this approach. 
+Based on this study, dSOC was estimated as 3.32 t C/ha/year.  
+As indicated in the IPCC supplement for wetlands, where activity results in patchy or patches of 
+biomass,  the  emission  factor  recommended  as  the  default  value  can  only  be  applied  when  the 
+mangrove  cover  is at least  10%  of  the  overall  area.  All  areas  in  the  project  with  less  than  this 
+mangrove cover  were excluded from the project, so all  the  area under  plantation for  the second 
+monitoring   period  can   be  included  in  the   SOC  calculations   with  this  default   value.  This 
+methodology was applied to the areas of this project. 
+Table 16 Derivation of eligible project areas for SOC accounting  
+Year of inclusion of 
+project area 
+Area under plantation 
+(ha). First activity 
+instance 
+Area under plantation 
+(ha). Second activity 
+instance 
+2011 (6 months) 
+ 
+7.74 
+2012 
+ 
+51.95 
+2013 
+ 
+12.73 
+2014 
+ 
+169.90 
+2015 4,949.02 1.34 
+2016 4,949.02 26.35 
+2017 4.949,02 8.21 
+2018 4,949.02  
+                                                           
+ 
+24
+ Murdiyaso et al. (2015). The potential of Indonesian mangrove forest. Nature Climate Change. 
+Available as supporting documentation.  
+25
+ http://www.v-c-s.org/sites/v-c-
+s.org/files/VM0033%20Tidal%20Wetland%20and%20Seagrass%20Restoration%20v1.0%2020%
+20NOV%202015.pdf. In particular, Section 8.1.4.3 of this new methodology and equations 32, 33, 
+34, 37, 77. 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+57 
+Year of inclusion of 
+project area 
+Area under plantation 
+(ha). First activity 
+instance 
+Area under plantation 
+(ha). Second activity 
+instance 
+2019 (7 months) 4,949.02  
+Total 4,949.02 278.23 
+For  this monitoring period, a 3.83-year period  is used to calculate the actual soil  organic carbon 
+stock  changes of the  project.  In  this  verification  period,  for  the  first  time,  the  second  project 
+activity instances are included as shown in the table below. 
+Table 17 Calculation of SOC change for this monitoring period  
+Year 
+Project 
+year 
+Annual carbon 
+stock change 
+(tCO
+2-
+e) 
+Cumulative 
+carbon stock 
+change 
+(tCO
+2-
+e) 
+2011 (6 months) 1 47.1 47.1 
+2012 2 410.1 457.2 
+2013 3 803.5 1,260.7 
+2014 4 1,914.1 3,174.8 
+2015 5 17,878.6 21,053.4 
+2016 6 63,319.3 84,372.7 
+2017 7 63,529.4 147,902.1 
+2018 8 63,579.4 211,481.5 
+2019 (7 months) 9 
+37,014.2 
+ 
+248,495.6 
+ 
+Total   248,495.64 
+ 
+ 
+Actual net greenhouse gas removals by sinks - ΔC
+ACTUAL,t
+ 
+The  actual  net  GHG  removals  by  sinks for  the  different  years  of  the  monitoring  period  are 
+summarized below, separately for trees (including dead wood) and soil organic carbon, as well as 
+totals. 
+In addition, the cumulative months of project implementation are shown, starting with 6 months in 
+2011 and ending with 7 months in 2019 up to the end of this monitoring period (30-07-2019). 
+Table 18  Plantation areas included in this monitoring period  
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+58 
+Year 
+Plantation areas 
+of first project 
+activity instance 
+(ha) 
+Plantation 
+areas of 
+second project 
+activity 
+instance (ha) 
+Period 
+included in this 
+verification- 1st 
+instance 
+(months) 
+Period 
+included in 
+this second 
+verification- 
+2nd instance 
+(months) 
+2011 191.18 7.74 0 6 
+2012 851.32 51.95 0 6 
+2013 1,986.53 12.73 0 6 
+2014 1,623.19 169.90 0 6 
+2015 296.80 1.34 3 6 
+2016   26.35 12 6 
+2017   8.21 12 6 
+2018     12 12 
+2019     6.99 6.99 
+  
+4,949.02 278.23 
+    
+ 
+Table 19  Actual net greenhouse gas removals by sinks for the different years of the monitoring period 
+ 
+Actual tree net 
+GHG removals by 
+sinks, in year t;  
+Actual DW net 
+GHG removals 
+by sinks, in year 
+t;  
+Actual SOC net GHG 
+removals by sinks, in 
+year t;  
+Actual total 
+net GHG 
+removals 
+by sinks, in 
+year t; 
+(tCO2e) 
+Project year 
+Δ
+PLA,t
+ Δ
+DW,t
+ Δ
+SOC_PROJ,t
+ Δ
+PROJ,t
+ 
+(tCO
+2-
+e) (tCO
+2-
+e) (tCO
+2-
+e) (tCO
+2-
+e) 
+2015 3,362.62 199.82 21,053.44 24,615.88 
+2016 13,563.81 800.86 63,319.26 77,683.93 
+2017 13,563.81 810.65 63,529.43 77,903.89 
+2018 13,563.81 771.41 63,579.35 77,914.58 
+2019 7,896.48 473.45 37,014.16 45,384.10 
+TOTAL 
+51,950.52 3,056.20 
+248,495.64 
+303,502.36 
+ 
+Other project emissions 
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+59 
+GHG project emissions from burning of biomass do not occur in any of the mangrove systems in 
+the project area. 
+4.3. Leakage  
+As  demonstrated  in  Section  3.3  of  the  Project  Description,  leakage  to  due  displacement  of 
+agricultural activities in the areas of this project can be accounted as zero. 
+Table 20 GHG emissions due to leakage, in year t 
+Project year 
+LK
+t
+ 
+t CO
+2
+-e 
+2015 0 
+2016 0 
+2017 0 
+2018 0 
+2019 0 
+Total 0 
+4.4. Net GHG Emission Reductions and Removals 
+The net anthropogenic GHG emission reductions and removals are calculated using equation 6 of 
+the methodology AR-AM0014: 
+∆C
+퐴푅−퐶퐷푀,푡
+=∆C
+ACTUAL,t
+−∆C
+BSL,t
+−LK
+t
+ 
+Equation  21 of this MR ,  6 of AR-AM0014 
+Where: 
+∆퐶
+퐴푅−퐶퐷푀,푡
+ = Net anthropogenic GHG removals by sinks, in year t; t CO2-e 
+∆C
+ACTUAL,t
+ = Actual net GHG removals by sinks, in year t; t CO
+2
+-e 
+∆퐶
+퐵푆퐿,푡
+ = Baseline net GHG removals by sinks, in year t; t CO2-e 
+퐿퐾
+푡
+  = GHG emissions due to leakage, in year t; t CO2-e 
+The GHG emission reductions and removals for the first and second project activity instance are 
+shown below.  
+ 
+ 
+Table 21 Total Yagasu project GHG emission reductions for this monitoring period  
+
+ MONITORING REPORT: VCS Version 3   
+ 
+ v3.4 
+ 
+60 
+Year 
+Baseline emissions or 
+removals 
+∆C
+BSL,t
+ 
+(t CO
+2
+-e) 
+Project emissions or 
+removals 
+∆C
+ACTUAL,t
+ 
+(t CO
+2
+-e) 
+Leakage 
+emissions  
+LK
+t
+ 
+(t CO
+2
+-e) 
+Net GHG emission 
+reductions or removals 
+ ∆C
+AR−CDM,t
+ 
+(t CO
+2
+-e) 
+2015 
+1,153.48 
+24,615.88 
+0 
+23,462.40 
+2016 124.74 
+77,683.93 
+0 
+77,559.19 
+2017 38.86 
+77,903.89 
+0 
+77,865.03 
+2018 0 77,914.58 
+0 
+77,914.58 
+2019 0 45,384.10 
+0 
+45,384.10 
+Total 1,317.08 
+303,502.36 
+0 
+302,185.29 
+ 
+Therefore, the total GHG emission reductions of the first and second project activity instances, for 
+the second monitoring period from 01-10-2015 to 31-07-2019, are 302,185.29 t CO2-e. The non-
+permanence  risk  rating  is  10% – as  assessed  and  documented  in  the  AFOLU  non-permanence 
+risk report  (provided  as a separate  document). Therefore, the  total  number of buffer  credits that 
+need  to  be deposited into  the  AFOLU  pooled  buffer  account  is 30,218.53t  CO2-e  (10%). The 
+number of buffer credits per vintage year of this monitoring period is: 
+Table 22 No of buffer credits per vintage year 
+Year Buffer credits in year t; (tCO2e) 
+2015 
+2,346.24 
+2016 
+7,755.92 
+2017 
+7,786.50 
+2018 
+7,791.46 
+2019 
+4,538.41 
+Total 
+30,218.53 
+The number of GHG credits eligible to be issued as VCUs for the first and second project activity 
+instance of this monitoring period is 271,966.76t CO2-e. 
+ 
+ 
+ 

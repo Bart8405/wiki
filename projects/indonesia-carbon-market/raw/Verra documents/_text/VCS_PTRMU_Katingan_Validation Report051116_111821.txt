@@ -1,0 +1,2944 @@
+
+
+VALIDATION REPORT: VCS Version 3
+v3.3 
+1 
+VALIDATION REPORT FOR THE 
+KATINGAN PEATLAND RESTORATION 
+AND CONSERVATION PROJECT 
+ Pr
+epared By Francis Eaton 
+Project Title 
+Katingan Peatland Restoration and Conservation Project 
+Version 
+V1.0 
+Report ID 
+050516 
+Report Title 
+Validation Report for the Katingan Peatland Restoration and Conservation Project 
+Client 
+PT. Rimba Makmur Utama 
+Pages 
+67 
+Date of Issue 
+6   May 2016 
+Prepared By 
+SCS Global Services 
+Contact 
+Physical address, telephone, email, website 
+Approved By 
+2000 Powell Street, Suite 600, Emeryville, CA 94608, USA 
+http://www.scsglobalservices.com 
+Email: cpollet-young@scsglobalservices.com 
+Telephone: +1 (510) 452-8000 
+Work Carried 
+Out By 
+Francis Eaton: Lead Auditor 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+2 
+Dr. Aswin Usup: Technical Expert 
+Agus Putera: Local Expert 
+Dr. Letty B. Brown: Technical Reviewer 
+ 
+Summary: 
+This report describes the validation audit of the Katingan Peatland Restoration and Conservation 
+Project (“the project”), a Reduced Emissions from Deforestation and Degradation (REDD) project 
+located in the region of Central Kalimantan, Indonesia, that was conducted by SCS. The purpose of 
+the validation audit was to assess the conformance of the project with the validation criteria. The 
+validation audit was performed through a combination of document review, interviews with relevant 
+personnel and on-site inspections. A total of 15 findings were raised during the validation and 
+sufficiently resolved. The project complies with all of the validation criteria, and the assessment 
+team has no restrictions or uncertainties with respect to the compliance of the project with the 
+validation criteria. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+3 
+CONTENTS 
+1 Introduction ............................................................................................................................................ 5 
+1.1 Objective ....................................................................................................................................... 5 
+1.2 Scope and Criteria ........................................................................................................................ 5 
+1.3 Level of Assurance ........................................................................................................................ 5 
+1.4 Summary Description of the Project ............................................................................................. 5 
+2 Validation Process ................................................................................................................................. 6 
+2.1 Method and Criteria ....................................................................................................................... 6 
+2.2 Document Review ......................................................................................................................... 6 
+2.3 Interviews ...................................................................................................................................... 8 
+2.4 Site Inspections ........................................................................................................................... 16 
+2.5 Resolution of Findings ................................................................................................................. 17 
+2.6 Forward Action Requests ............................................................................................................ 17 
+3 Validation Findings ............................................................................................................................... 17 
+3.1 Project Details ............................................................................................................................. 17 
+3.1.1 Project type, technologies and measures implemented, and eligibility of the project ............. 18 
+3.1.2 Project proponent and other entities ....................................................................................... 18 
+3.1.3 Project start date ..................................................................................................................... 18 
+3.1.4 Project crediting period ........................................................................................................... 18 
+3.1.5 Project scale and estimated GHG emission reductions or removals ...................................... 18 
+3.1.6 Project location ........................................................................................................................ 18 
+3.1.7 Conditions prior to project initiation ......................................................................................... 18 
+3.1.8 Project compliance with applicable laws, statutes and other regulatory frameworks ............. 19 
+3.1.9 Ownership and other programs ............................................................................................... 19 
+3.1.10 Additional information relevant to the project ...................................................................... 19 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+4 
+3.2 Application of Methodology ......................................................................................................... 20 
+3.2.1 Ti  tle and Reference ................................................................................................................. 20 
+3.2.2 Applicability ............................................................................................................................. 21 
+3.2.3 Project Boundary ..................................................................................................................... 29 
+3.2.4 Baseline Scenario ................................................................................................................... 33 
+3.2.5 Additionality ............................................................................................................................. 34 
+3.2.6 Quantification of GHG Emission Reductions and Removals .................................................. 36 
+3.2.7 Methodology Deviations .......................................................................................................... 44 
+3.2.8 Monitoring Plan ....................................................................................................................... 44 
+3.3 Non-Permanence Risk Analysis.................................................................................................. 45 
+3.4 Environmental Impact ................................................................................................................. 52 
+3.5 Comments by Stakeholders ........................................................................................................ 52 
+4 Validation conclusion ........................................................................................................................... 52 
+APPENDIX A: VALIDATION FINDINGS ..................................................................................................... 53 
+ 
+ 
+ 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+5 
+1 INTRODUCTION 
+1.1 Objective 
+The purpose of the validation audit activity was to conduct an independent assessment of the Katingan 
+Peatland Restoration and Conservation Project (“the project”) to determine whether the project complies 
+with the validation criteria, as set out in the guidance documents listed in Section 1.2 of this report. 
+1.2 Scope and Criteria 
+In accordance with Section 4.3.4 of ISO 14064-3:2006, the scope was defined as follows: 
+• The project and its baseline scenarios; 
+• The physical infrastructure, activities, technologies and processes of the project; 
+• The GHG sources, sinks and/or reservoirs that are applicable to the project; 
+• The types of GHGs that are applicable to the project; and 
+• The project crediting period, as discussed in Section 3.1.4 of this report. 
+In accordance with Section 5.3.1 of the VCS Standard, the criteria for validation was the VCS Version 3, 
+including the following documents: 
+• VCS Program Guide 
+• VCS Standard 
+• VCS AFOLU Requirements 
+• VCS AFOLU Non-Permanence Risk Tool 
+Unless otherwise indicated, the assessment was performed against the most recent version of the 
+relevant VCS guidance document. It should be noted that, while the project complies with the prevailing 
+versions of the VCS guidance documents as of the issuance of this report, the assessment criteria 
+changed during the course of the provision of assessment services, and therefore some findings 
+(described in Section 2.5 below) refer to previous versions of various VCS guidance documents. 
+1.3 Level of Assurance 
+In accordance with Section 5.3.1 of the VCS Standard, the level of assurance of this report is reasonable. 
+1.4 Summary Description of the Project 
+The project is located in the Central Kalimantan region of Indonesia, and is aimed at reducing and 
+avoiding emissions related to Planned Deforestation and Reforestation in combination with Conservation 
+of Undrained and Partially drained Peatland and Rewetting of Drained Peatland activities 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+6 
+2 VALIDATION PROCESS 
+2.1 Method and Criteria 
+The validation was performed through a combination of document review, interviews with relevant 
+personnel and on-site inspections, as discussed in Sections 2.2 through 2.4 of this report. At all times, the 
+project was assessed for conformance to the criteria described in Section 1.2 of this report. As discussed 
+in Section 2.5, findings were issued to ensure that the project was in full conformance to all requirements. 
+The audit team created a sampling plan following a proprietary sampling plan workbook developed by 
+SCS. Per Section 4.4.3 of ISO 14064-3:2006, the audit team identified possible risks of errors, omissions 
+and misrepresentations with respect to the validation criteria. For each identified risk, the audit team 
+assessed the likelihood of the material discrepancy occurring, the likelihood of the material discrepancy 
+not being prevented or detected by the controls of the project, and the likelihood of the material 
+discrepancy not being detected by the audit team. Sampling and data testing activities were planned to 
+address any risk where the likelihood of a material discrepancy not being detected by the audit team was 
+judged to be unacceptably high. The audit team then created a validation plan that took the sampling plan 
+into account. 
+2.2 Document Review 
+The project design description (Version 1.3 11 May 2016) (PD) and supporting documentation were 
+carefully reviewed for conformance to the validation criteria. 
+Particular attention was focused on the PD, given its central role in the description of “the project and its 
+context” (VCS Standard, Section 3.19.1). Through review of the PD, the audit team ensured that: 
+• The project design, as described in the PD, is in conformance with the VCS rules and the 
+requirements of the methodology 
+• The PD satisfies all applicable documentation requirements of the VCS rules and the 
+methodology 
+In addition to the project description, the following written documents (e.g., reports, memos, land deeds 
+and titles) were reviewed to ensure conformance of the project to the VCS rules and the methodology: 
+Document Description File Name Ref. 
+Minister Decree 70_95_ind_Ref 28 /1/ 
+Additionality Evidence Buku Statistik 2013 /2/ 
+NPV Analysis eCBA 3 GGGI  - Katingan - Technical Document /3/ 
+Baseline Scenario 
+• Sims_Summary_DSR20150707.xlsx 
+• Master_bsl.xlsx 
+/4/ 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+7 
+• 20150624_REDD_BSL_WPS_emission  
+estimate_ITC_SK_NR_ver7 
+• 20150625_ARR_BSL_WPS_emission_removal_ 
+estimate_ITC_ver5 
+Project Area Boundaries Multiple Screen Shots /5/ 
+Uncertainty Calculations Uncertainty_calculation.xlsx /6/ 
+Ex Ante Reductions 20150729_SummaryEmissionReductions /7/ 
+Field SOP’s PD Annexes.docx /8/ 
+LandSat Imagery Various Scenes /9/ 
+Project Boundaries Various Shapefiles /10/ 
+Plot locations Various Shapefiles /11/ 
+Associated Documents and 
+Literature 
+Database Access Guidelines /12/ 
+Indonesian Law 41/99 uu41_99_en /13/ 
+Indonesian Law 19/2004 ins137703 /14/ 
+Audited Financials Endorsement of Katingan Financial Model_60-Year 
+Projection_FINAL_CONFIDENTIAL 
+/15/ 
+Forest Cover Analyzer http://www.wri.org/applications/maps/forest-cover-
+analyzer/index.html 
+/16/ 
+Community Interviews CCB validation on Community Section for PT RMU /17/ 
+Land Suitability http://www.wri.org/applications/maps/suitability-
+mapper/index.html#v=suitability 
+/18/ 
+Indonesian Forest statistics Buku Statistik 2013 /19/ 
+Proxy Data http://commodities.globalforestwatch.org /20/ 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+8 
+Methodological Annex to the PD PD Annexes /21/ 
+ 
+2.3 Interviews 
+Interviews constituted an important component of the audit process. The following personnel associated 
+with the project proponent and/or implementing partner were interviewed. The phrase “throughout audit” 
+under “Date(s) Interviewed” indicates that the individual in question was interviewed on multiple 
+occasions throughout the audit process. 
+Individual Affiliation Role Date(s) Interviewed 
+Dharsono Hartono 
+PT. Rimba Makmur 
+Utama (RMU) Chief Executive Director 
+Throughout Audit 
+Rezal Ashari 
+Kusumaatmadja RMU 
+Chief Operating 
+Director 
+Throughout Audit 
+Taryono Darusman RMU General Field Manager 
+Throughout Audit 
+Priyatno RMU Executive Director 
+4-13 October 2015 
+Syamsul Budiman RMU Forestry Liason Director 
+4-13 October 2015 
+Leswarawati RMU 
+Finance and 
+Administration Director 
+4-13 October 2015 
+Deasy Andriana RMU 
+Human Resources 
+Manager 
+4-13 October 2015 
+Big Antono RMU Database Manager 
+4-13 October 2015 
+Hardian Mulyana RMU GIS Specialist 
+4-13 October 2015 
+Nugrahadi Ramadhan 
+Tohir RMU GIS Assistant 
+4-13 October 2015 
+Meyner Nusalawo RMU 
+Head of Forest 
+Restoration and Head 
+of Research and 
+Development 
+4-13 October 2015 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+9 
+Muhammad Malik 
+Arrahiem RMU Hydrologists 
+4-13 October 2015 
+Hendri Saleh RMU 
+Technical Assistant of 
+Hydrology 
+4-13 October 2015 
+Yusef Fabianus 
+Hadiwinata RMU 
+Section Head of 
+Biodiversity 
+4-13 October 2015 
+Fransiskus Agus 
+Harsanto RMU 
+Division Head of Forest 
+Restoration and 
+Rehabilitation 
+4-13 October 2015 
+Rudi Mulyadi RMU Field Coordinator 
+4-13 October 2015 
+Noerman 
+RMU Senior Field Staff 
+4-13 October 2015 
+Muhammad Araf 
+RMU Field staff 
+4-13 October 2015 
+Rendi Pranata 
+RMU Field staff 
+4-13 October 2015 
+Suryadi 
+RMU Field staff 
+4-13 October 2015 
+Hardi 
+RMU Field staff 
+4-13 October 2015 
+Dipa Satriadi Rais 
+Wetlands International Technical Consultant 
+Throughout Audit 
+Irwansyah Reza Lubis 
+Wetlands International Technical Consultant 
+4-13 October 2015 
+Iwan Tricahyo Wibisono 
+Wetlands International Technical Consultant 
+4-13 October 2015 
+Andaman Muthadir 
+Yayasan Puter 
+Indonesia Manager Program 
+4-13 October 2015 
+Asep Mulyana 
+Yayasan Puter 
+Indonesia 
+Sub-District Coordinator 
+Kamipang 
+4-13 October 2015 
+Mambang Rena 
+Yayasan Puter 
+Indonesia 
+Community Organizer 
+Kamipang 
+4-13 October 2015 
+Suandri 
+Yayasan Puter 
+Indonesia 
+Community Organizer 
+Kamipang 
+4-13 October 2015 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+10 
+Heru 
+Yayasan Puter 
+Indonesia 
+Community Organizer 
+Kamipang 
+4-13 October 2015 
+Entis Sutisna 
+Yayasan Puter 
+Indonesia 
+Sub-District Coordinator 
+Mendawai 
+4-13 October 2015 
+Subronto Aji 
+Yayasan Puter 
+Indonesia 
+Community Organizer 
+Mendawai 
+4-13 October 2015 
+Decky Zulkarnain 
+Yayasan Puter 
+Indonesia 
+Community Organizer 
+Mendawai 
+4-13 October 2015 
+M Galigo Trianto 
+Yayasan Puter 
+Indonesia 
+Community Organizer 
+Mendawai 
+4-13 October 2015 
+Rumi Naito 
+Starling 
+Technical Consultant 
+Throughout Audit 
+Nick Brickle  Permian Global Technical Consultant  
+Throughout Audit 
+Nathan Renneboog  Permian Global Technical Consultant  
+4-13 October 2015 
+Simon Koenig  Permian Global Technical Consultant 
+4-13 October 2015 
+Henrietta Boyd  Permian Global Technical Consultant 
+4-13 October 2015 
+Christy Magerkurth  Permian Global Technical Consultant 
+Throughout Audit 
+ 
+Residents of communities located near the project boundary (termed “local residents” within this report) 
+were also interviewed. The villages and village groups interviewed are listed below: 
+Individual Position Village 
+Mr. Rendi Village office staff (Kepala 
+Urusan Pembangunan) 
+Perupuk 
+Mr. Suparji Village secretary Perupuk 
+Mr. Yuliano CO Assisstant (local facilitator 
+recruited by Puter Foundation) 
+Perupuk 
+Mrs. Muslimah Villager (worker in RMU’s 
+nursery pilot) 
+Perupuk 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+11 
+Mrs. Sukamti Villager (worker in RMU’s 
+nursery pilot) 
+Perupuk 
+Mr. Saryanto Head of BUMDes (Village 
+owned company) 
+Perupuk 
+Mr. Duak Rahmanto Village Secretary Telaga 
+Mr. Jaransah Head of KSM (community 
+institution for livelihood priority 
+program) 
+Telaga 
+Mr. Pendi Treasurer of KSM Telaga 
+Mr. Yusuf Afandi Village office staff  Telaga 
+Mr. Dabik Traditional Custom Head 
+(Mantir Adat) 
+Telaga 
+Mr. Yanto Village office staff (Kepala 
+Urusan Pembangunan) 
+Jahanjang 
+Mr. Dedi Heriyadi Head of KSM (community 
+institution for livelihood priority 
+program) 
+Jahanjang 
+Ms. Silvia Wulandari Secretary of BPD (Village 
+Representatives Body) 
+Jahanjang 
+Ms. Nursinah Villager Jahanjang 
+Mr. Sarwedi CO Assisstant (local facilitator 
+recruited by Puter Foundation) 
+Jahanjang 
+Mr. Puji Village office staff (Kepala 
+Urusan Pemerintahan) 
+Tumbang Runen 
+Mr. Nasrulah Head of KSM (community 
+institution for livelihood priority 
+program) 
+Tumbang Runen 
+Mrs. Kadariah Teasurer of KSM (community 
+institution for livelihood priority 
+program) 
+Tumbang Runen 
+Mr. Karyadi Member of BPD (Village 
+Representatives Body) 
+Tumbang Runen 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+12 
+Mr. Tomi Dunawan Vice Head of BPD  (Village 
+Representatives Body) 
+Tumbang Runen 
+Mr. Suwanto CO Assisstant (local facilitator 
+recruited by Puter Foundation) 
+Tumbang Runen 
+Mrs. Siska Melatiana Resident Tumbang Runen 
+Mr. Rah Dahlan Village office staff (Kepala 
+Urusan Pembangunan) 
+Asem Kumbang 
+Mr. Sudiyono Head of KSM (community 
+institution for livelihood priority 
+program) 
+Asem Kumbang 
+Mrs. Nur Apiyanti Secretary of KSM (community 
+institution for livelihood priority 
+program) 
+Asem Kumbang 
+Mrs. Sri Hartati Treasurer of KSM (community 
+institution for livelihood priority 
+program) 
+Asem Kumbang 
+Mr. Anggus Member of BPD (Village 
+Representatives Body) 
+Asem Kumbang 
+Mr. Masjati CO Assisstant (local facilitator 
+recruited by Puter Foundation) 
+Asem Kumbang 
+Mr. Mukhlis Head of KSM (community 
+institution for livelihood priority 
+program) 
+Buan Bango 
+Mrs. Sukarti Treasurer of KSM (community 
+institution for livelihood priority 
+program) 
+Buan Bango 
+Mrs. Junaimah Member of KSM (community 
+institution for livelihood priority 
+program) 
+Buan Bango 
+Mr. Muksinin Resident Buan Bango 
+Mr. Wanto Village office staff (Kepala 
+Urusan Pemerintahan) 
+Karuing 
+Mr. Andi Liani Village Head Karuing 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+13 
+Mr. Azis Resident Karuing 
+Mr. Heri Irama CO Assisstant (local facilitator 
+recruited by Puter Foundation) 
+Karuing 
+Mr. Jeki Resident Karuing 
+Mr. Hernodyansyah Secretary of KSM and Member 
+of BPD  
+Tampelas 
+Mr. Hamansyah Villager Tampelas 
+Mr. Rantau CO Assisstant (local facilitator 
+recruited by Puter Foundation) 
+Tampelas 
+Mrs. Widyawati Tocologist/midwife Tampelas 
+Mrs, Hartati Kindergarden teacher Tampelas 
+Mr. Yosef Pagan Head of KSM (community 
+institution for livelihood priority 
+program) 
+Gelinggang 
+Mrs. Susi Treasurer of KSM Gelinggang 
+Mr. Baniansah Member of customary village 
+institution 
+Gelinggang 
+Mr. Suharman Resident Gelinggang 
+Mr. Marjiansah Village office staff (Kepala 
+Urusan Pembangunan) 
+Gelinggang 
+Mrs. Hawanah Resident Gelinggang 
+Mr. Muhidin CO Assisstant  Gelinggang 
+Mr. Sarif Fadli Head of customary village 
+institution and Vice Head of 
+KSM 
+Gelinggang 
+Mr. Rusdiansah Village Secretary Gelinggang 
+Mrs. Raminah Resident Gelinggang 
+Mr. Ahmad Head of BPD (Village 
+Representatives Body) 
+Gelinggang 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+14 
+Mr. Haji Yusran Village head Tumbang Bulan 
+Mr. Aliansah Head of KSM (community 
+institution for livelihood priority 
+program) 
+Tumbang Bulan 
+Mr. Ariansyah Village office staff (Kepala 
+Urusan Pemerintahan) 
+Tumbang Bulan 
+Mr. Soton Member of BPD Tumbang Bulan 
+Mr. Zulkifli Resident Tumbang Bulan 
+Mr. Sabirin Village office staff (Kepala 
+Urusan Pembangunan) 
+Tumbang Bulan 
+Mrs. Siti Komariah Resident Tumbang Bulan 
+Mr. Sahril Head of Capacity Building of 
+FORMAS (Community Forum) 
+Tumbang Bulan 
+Mr. Sudiyanto Resident Tewang Kampung 
+Mr. Wansah Resident Tewang Kampung 
+Mr. Rudiansah Head of Fire Fighting Team Tewang Kampung 
+Mr. Tri Wahyono Resident Tewang Kampung 
+Mrs. Dewi Ariani Treasurer of KSM (community 
+institution for livelihood priority 
+program) 
+Tewang Kampung 
+Mr. Ahmad Satria CO Assisstant Tewang Kampung 
+Mr. Junaedi Fadli Village office staff (Kepala 
+Urusan Pemerintahan) 
+Tewang Kampung 
+Mr. Masrani Village office staff (Kepala 
+Urusan Pembangunan) 
+Tewang Kampung 
+Mr. Hasanudin Member of BPD Tewang Kampung 
+Mrs. Ernawati Sub-village head Tewang Kampung 
+Mrs. Auda Resident Tewang Kampung 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+15 
+Mr. Apokarto Village Head Kampung Melayu 
+Mr. Guntur Setiawan Village Secretary Kampung Melayu 
+Mr. Heri Wahyudi Head of KSM (community 
+institution for livelihood priority 
+program) 
+Kampung Melayu 
+Mr. Jarmanto Resident Kampung Melayu 
+Mrs. Ami Siskawati Treasurer of KSM (community 
+institution for livelihood priority 
+program) 
+Kampung Melayu 
+Mr. Karyadi Village office staff (Kepala 
+Urusan Pembangunan) 
+Kampung Melayu 
+Mr. Amansah Member of BPD Kampung Melayu 
+Mr. Alfiansah Sub-village head Kampung Melayu 
+Mr. Hermanto Resident Kampung Melayu 
+Mr Ardiansah Resident Kampung Melayu 
+Mr. Sahrani Resident Kampung Melayu 
+Mr. Juliansah Resident Kampung Melayu 
+Mr. Agus Resident Kampung Melayu 
+Mr. Halikurahman Secretary of BPD Kampung Melayu 
+Mr. Beang Sub-village head Kampung Melayu 
+Mr. Fahrul Sub-village head Kampung Melayu 
+Mr. Hartawan Village Head Mendawai 
+Mr. Agus Panipasma Village Secretary Mendawai 
+Mr. Rasidi Head of BPD Mendawai 
+Mr. Sapril Fauzi Village office staff (Kepala 
+Urusan Pembangunan) 
+Mendawai 
+Mr. Hengki Village office staff (Kepala Mendawai 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+16 
+Urusan Pemerintahan) 
+Mr. Udin Member of BPD Mendawai 
+Mrs. Rupawan Resident Mendawai 
+Mrs. Fatimahtur Auliah Resident Mendawai 
+Mr. Khairil Resident Mendawai 
+Mr. Arifin Resident Mendawai 
+Mr. Basri Resident Mendawai 
+Mr. Darmawansah Sub-village head Mendawai 
+Mr. Tajudin Noor Sub-village head Mendawai 
+  
+2.4 Site Inspections 
+The objectives of the on-site inspections performed were to: 
+• Ensure that the geographic area of the project, as reported in the project description and the 
+accompanying KML file, is in conformance with Section 3.11.1 of the VCS Standard; 
+• Select samples of data from on-the-ground measurements for validation in order to meet a 
+reasonable level of assurance and to meet the materiality requirements of the project, as required 
+by Section 5.1.3 of the VCS Standard; 
+• Perform a risk-based review of the project area to ensure that the project is in conformance the 
+eligibility requirements of the VCS rules and the applicability conditions of the methodology; and 
+• Perform a risk-based review of the project area to ensure that the project conforms to all other  
+requirements of the VCS rules and the methodology 
+In fulfilment of the above objectives, the audit team performed an on-site inspection of the project area on 
+the dates 3-11 October  2015. The main activities undertaken by the audit team were as follows: 
+• Interviewed project personnel (see Section 2.3 of this report) to gather information regarding the 
+design of the project; 
+• Interviewed project personnel (see Section 2.3 of this report) for the purpose of seeking evidence 
+of conformance with respect to the specific requirements of the methodology and the VCS rules; 
+• Interviewed residents of several communities (see Section 2.3 above) located in the immediate 
+vicinity of the project area to confirm the claims of the project proponents with respect to the 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+17 
+extent of community engagement, the determination of the baseline scenario and the 
+demonstration of additionality; 
+• Viewed representatives of the Katingan project conducting re-measurements on four inventory 
+plots, including a re-measurement by the audit team. The representatives were asked to replicate 
+the measurement protocol that was applied, for the purpose of providing the audit team with 
+reasonable assurance that the measurements were collected to meet the appropriate quality 
+standards; 
+• Resampled two peat transects using best practices to determine the accuracy of the peat 
+parameters. 
+2.5 Resolution of Findings 
+Any potential or actual material discrepancies identified during the assessment process were resolved 
+through the issuance of findings. The types of findings issued by SCS were characterized as follows: 
+Non-Conformity Report (NCR): An NCR signified a material discrepancy with respect to a specific 
+requirement. This type of finding could only be closed upon receipt by SCS of evidence indicating that the 
+identified discrepancy had been corrected. Resolution of all open NCRs was a prerequisite for issuance 
+of a validation statement. 
+New Information Request (NIR): An NIR signified a need for supplementary information in order to 
+determine whether a material discrepancy existed with respect to a specific requirement. Receipt of an 
+NIR did not necessarily indicate that the project was not in compliance with a specific requirement. 
+However, resolution of all open NIRs was a prerequisite for issuance of a validation statement. 
+Opportunity for Improvement (OFI): An OFI indicated an area that should be monitored or ideally, 
+improved upon. OFI’s were considered to be an indication of something that could become a non-
+conformity if not given proper attention, and were sometimes issued in the case that a non-material 
+discrepancy was identified. OFIs were considered to be closed upon issuance. 
+All findings issued by the audit team (11 NCR’s and 4 NIR’s) during the validation process have been 
+closed. In accordance with Section 5.3.6 of the VCS Standard, all findings issued during the validation 
+process, and the impetus for their closure, are described in Appendix A of this report. 
+2.6 Forward Action Requests 
+No forward action requests were issued during the validation. 
+3 VALIDATION FINDINGS 
+3.1 Project Details 
+The audit team confirmed that the PD provides a detailed description of the project design that is both 
+accurate and complete, as it conforms to Section 3 of both the VCS Standard and the AFOLU 
+Requirements. Moreover, it is the opinion of the audit team that the PD provides a comprehensive 
+understanding of the nature of the project. 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+18 
+3.1.1 Project type, technologies and measures implemented, and eligibility of the project 
+The project exists under sectoral scope 14 (AFOLU). As described in Section 4.2 of the VCS AFOLU 
+Requirements, the project falls under the category of Reduced Emissions from Deforestation and 
+Degradation (REDD). 
+3.1.2 Project proponent and other entities 
+The project proponent for the Katingan Peatland Restoration and Conservation Project is PT RMU. Using 
+a web based review, the audit team was able to confirm the official status of each notary. In addition, the 
+audit team met with members of local communities and project personnel who confirmed the claims 
+stated in the PD.
+ 
+3.1.3 Project start date 
+The project start date is listed as 1 November 2010. While onsite, the audit team reviewed the original 
+data sheets dated 1 November 2010 as evidence of the commencement of the project biomass sampling. 
+As the results of biomass sampling are directly linked to the baseline carbon stocks by which the project 
+will be assessed in to the future, it is the opinion of the audit team that start date of this activity represents 
+the date on which activities that lead to the generation of GHG emission reductions or removals are 
+implemented and is therefore justified according to section 3.2.1 of The AFOLU Requirements. 
+3.1.4 Project crediting period 
+The audit team reviewed the PD and confirmed the project crediting period of 60 years, commencing on 1 
+November 2010, to be in conformance with Section 3.8.1 of the VCS Standard, as it falls between the 20 
+year minimum and 100 maximum for AFOLU projects. 
+3.1.5 Project scale and estimated GHG emission reductions or removals 
+As stated in Section 1.7 of the project description, the project is considered a “large project” according to 
+the requirements of Section 3.9.1 of the VCS Standard. The project is estimated to result in GHG 
+emission reductions and removals equivalent to 7,451,846 tCO2e annually, over the project crediting 
+period. 
+3.1.6 Project location 
+The audit team reviewed Section 1.2 of the PD and confirmed it provides an adequate description of the 
+project location. The audit team was provided with a KML file of the project area and was able to confirm 
+the accuracy of the polygon delineation while on site. In addition, the audit team confirmed that the KML 
+provided is consistent with the KML file on the VCS website and therefore the project conforms to all 
+applicable VCS rules with respect to project location. 
+3.1.7 Conditions prior to project initiation 
+Section 1.3 of the PD contains an exhaustive description of the conditions prior to project initiation. 
+Whereas, some project activities had been implemented prior to the validation site visit, the audit team 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+19 
+visited a suite of locations across the project area and confirmed the description in the PD to be accurate. 
+A further description of the validation activities performed on site can be found in Section 3.2.4 below. 
+3.1.8 Project compliance with applicable laws, statutes and other regulatory frameworks 
+The audit team held interviews with project personnel who provided the audit team with access to what 
+were, in their opinion, all of the laws and statutes and other regulatory frameworks applicable to the 
+project activities. The audit team cross-checked these laws with both the information provided in the PD 
+and using a web based investigation and confirmed with a reasonable level of assurance that the project 
+is designed to be in conformance with all applicable laws, statutes and other regulatory frameworks. 
+3.1.9 Ownership and other programs 
+3.1.9.1  Right of use 
+The tract of land encompassing the project area is covered by a ministerial decree (Minister of Forestry 
+Decree SK 734/Menhut-II/2013) covering the project area. There is some question at this point as to 
+whether the entire accounting area will be covered by decree before the project is verified, however local 
+government has allowed the project to operate under the assumption that the entire project area will be 
+covered prior to verification which is in conformance with item 6 of Section 3.11.1 of the VCS Standard. 
+Given the history of the audit team working in the region and the understanding of right of use at 
+validation the audit team is comfortable with the project assertions at this point, however this will be need 
+to be re-addressed at verification. 
+3.1.9.2  Emission trading programs and other binding limits 
+As the project has not reduced GHG emissions from activities that are included in an emissions trading 
+program or any other mechanism that includes GHG allowance trading, this section is not applicable. It is 
+the audit team’s understanding that emissions from planned deforestation activities in Indonesia are not 
+included in any emissions trading programs at the time of the project start date. 
+3.1.9.3  Other forms of environmental credit sought or received 
+As the project has not sought or received other forms of environmental credit, this section is not 
+applicable. 
+3.1.9.4  Participation under other GHG programs 
+As the project is not participating under other GHG programs, this section is not applicable. 
+3.1.9.5  Rejection by other GHG programs 
+As the project has not been rejected by any other GHG programs, this section is not applicable. 
+3.1.10   Additional information relevant to the project 
+3.1.10.1   Eligibility for grouped projects 
+This section is not applicable, as the project is not a grouped project. 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+20 
+3.1.10.2   Leakage management for AFOLU projects 
+The audit team reviewed Sections 5.2 and 5.5 of the PD and confirmed it contains a detailed leakage 
+mitigation strategy. Through interviews with local residents of the project area the audit team confirmed 
+that the activities are designed in conformance with Sections 3.6.1-3.6.2 of the AFOLU Requirements. A 
+further description of the validation activities regarding leakage management can be found in Sections 
+3.2.6 and 3.3 of this report. 
+3.1.10.3   Commercially sensitive information 
+As stated in Section 2.8 of the PD, certain commercially sensitive information has been excluded from the 
+PD. All information, however has been provided to the audit team. The audit team reviewed this 
+information and agrees that in the context of this project the information excluded from the PD meets the 
+definition of sensitive information, as defined in the VCS Program Definitions and therefore may be 
+excluded in accordance with Section 3.18.2 of the VCS Standard. Specifically, the rules allow for the 
+exclusion of financial and private descriptions of the property information for whose public disclosure 
+could reasonably be expected to undermine or negatively affect the development and/or implementation 
+of a program. 
+ 
+3.2 Application of Methodology  
+3.2.1 Title and Reference 
+The project has applied the following: 
+VCS methodology VM0007 v1.2 
+VCS module VMD0001 v1.1 
+VCS Module VMD0006 v1.2 
+VCS Module VMD0041 v1.0 
+VCS Module VMD0042 v1.0 
+CDM AR-ACM0003 v2.0 
+VCS Module VMD0016 v1.1 
+VCS Module VMD0017 v1.2 
+VCS Module VMD0013 v1.1 
+VCS Module VMD0043 v1.0 
+VCS Module VMD0009 v1.2 
+VCS Module VMD0044 v1.0 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+21 
+VCS Module VMD0045 v1.0 
+VCS Module VMD0046 v1.0 
+VCS Module VMD0015 v2.1 
+VCS Tool VT0001 v3.0 
+3.2.2 Applicability 
+The project complies with each applicability condition of the methodology and associated modules and 
+tools, as justified below. 
+VM0007 
+v1.2 
+REDD MF Methodology 
+Condition Steps taken to assess compliance 
+4.1 All land areas registered under the CDM or under any other GHG program (both voluntary 
+and compliance-oriented) must be transparently reported and excluded from the project 
+area. The exclusion of land in the project area from any other GHG program must be 
+monitored over time and reported in the monitoring reports. 
+The audit team performed a web based review of current GHG programs and found no 
+evidence of the project being registered under any other program 
+4.2.1 Land in the project area has qualified as forest (following the definition used by VCS) at least 
+10 years before the project start date. 
+The audit team visited random portions of the property and investigated remote sensing 
+imagery dating back to 2001 confirming that even the most degraded portions of the project 
+area met the FAO definition of forest (10% canopy cover, area of more than .5 hectares, and 
+trees meeting or able to meet 5 meters at maturity). 
+4.2.1 If land within the project area is peatland and emissions from the soil carbon pool are 
+deemed significant, the relevant WRC modules (see Table 1) must be applied alongside 
+other relevant modules. 
+The audit team cross checked the soil carbon pools claimed in the PD against the 
+requirements of the WRC modules and confirmed that all pools not allowed for conservative 
+exclusion have been included. 
+4.2.1 Baseline deforestation and forest degradation in the project area fall within one or more of 
+the following categories: 
+ • Unplanned deforestation (VCS category AUDD); 
+• Planned deforestation/degradation (VCS category APD); 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+22 
+• Degradation through extraction of wood for fuel (fuelwood and charcoal production) (VCS 
+category AUDD). 
+The audit team confirmed through assessment of additionality that the project meets this 
+applicability condition that the baseline deforestation and degradation falls into the planned 
+deforestation/degradation category (see Section 3.2.5 below for a more detailed description). 
+4.2.1 Leakage avoidance activities must not include: 
+ 
+• Agricultural lands that are flooded to increase production (eg, paddy rice); 
+ 
+• Intensifying livestock production through use of feed-lots and/or manure lagoons 
+ 
+The audit team reviewed Sections 2.2.1 and 5.2 of the PD confirming that the above 
+activities are not included in the project design 
+ 
+4.2.3 Unplanned deforestation/degradation activities are applicable under the following 
+condition: 
+ 
+• Conversion of forest lands to a deforested condition must be legally permitted. 
+ 
+The audit team reviewed the laws in place at the time of the project start date (
+/13/ /14/) 
+confirming that acacia plantation and logging concessions are allowable under Indonesian 
+Law. 
+ 
+4.3 ARR activities are applicable under the following conditions: 
+ 
+• The project area is non-forest land or land with degraded forest. 
+ 
+• The project scenario does not involve the harvesting of trees. Therefore, 
+procedures for the estimation of long-term average carbon stocks are not provided. 
+ 
+• The project scenario does not involve the application of nitrogen fertilizers 
+ 
+The audit team reviewed the PD and observed while on site that the areas slated for the 
+ARR activities take place on non-forest or degraded forestland, do not include plans for 
+harvesting of trees, or involve the application of nitrogen fertilizers. 
+ 
+4.4 WRC activities are applicable under the following conditions: 
+ 
+• This methodology is applicable to rewetting drained peatland (RDP) and conservation of 
+undrained and partially drained peatland (CUPP) activities on project areas that meet the 
+VCS definition for peatland. The scope of this methodology is limited to domed peatlands in 
+the tropical climate zone. 
+ 
+• Fire reduction projects on peatland that exclude rewetting as part of the project activity are 
+not eligible. 
+ 
+• Rewetting of drained peatland and conservation of undrained or partially drained peatland 
+may be implemented in combination with REDD project activities. REDD project activities on 
+peatland must not increase drainage. 
+ 
+• Rewetting of drained peatland may be implemented as a separate activity or in combination 
+with ARR project activities. ARR activities must not enhance peat oxidation and therefore 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+23 
+this activity requires at least some degree of rewetting. 
+ 
+The audit team reviewed the PD along with observations while on site and confirmed the 
+project design does not include fire reduction projects that exclude rewetting or include any 
+drainage activities, and does occur on domed peatlands in the tropical climate zone and 
+includes rewetting. 
+ 
+VMD0042 
+v1.0 
+Estimation of baseline soil carbon stock changes and greenhouse gas emissions in 
+peatland rewetting and conservation project activities (BL-PEAT) 
+Condition Steps taken to assess compliance 
+4.0 It must be demonstrated by using the latest version of T-SIG that N2O emissions in the 
+project scenario are not significant, or that N2O emissions will not increase in the project 
+scenario compared to the baseline scenario, and therefore N2O emissions need not be 
+accounted for. 
+ 
+The audit team reviewed the PD and confirmed that nitrogen fertilizers are not included in 
+the project design 
+4.0 • In the baseline scenario the peatland must be drained or partially drained. At the start of 
+the project the peatland may still be undrained. 
+ 
+While on site, the audit team reviewed the areas where rewetting is to take place and 
+confirmed that they are either drained or partially drained. 
+ 
+VMD0041 
+v1.0 
+Estimation of baseline carbon stock changes and greenhouse gas emissions in ARR 
+project activities on peat and mineral soil (BL-ARR) 
+Condition Steps taken to assess compliance 
+4.0 The applicability conditions set out in AR-ACM0003 Afforestation and reforestation of lands 
+except wetlands must be met. 
+ 
+See AR-ACM0003 below. 
+4.0 Applicability conditions included in AR-ACM0003 Afforestation and reforestation of lands 
+except wetlands and corresponding tools that exclude project activities on wetlands can 
+be disregarded for the purpose of their use in this module, as accounting procedures for the 
+peat soil are provided in module BL-PEAT. 
+ 
+The project uses BL-PEAT as described above. 
+ 
+ 
+15) Where the ARR project activity is implemented on peatland, the peatland must be degraded 
+in the baseline scenario as identified by the presence of drainage infrastructure (ditches, 
+canals) and associated lowered water tables below the surface. In case of forested peatland, 
+degradation may be identified by the removal or degradation of the tree cover before the 
+project start date. 
+ 
+While on site the audit team travelled to the project area through series of canals supporting 
+the peatland drainage and sampled forestland that can be classified as degraded. 
+ 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+24 
+AR-
+ACM0003 
+v2.0 
+Afforestation and reforestation project activities implemented on wetlands 
+Condition Steps taken to assess compliance 
+5. This methodology is applicable under the following conditions: 
+ 
+(a)  The land subject to the project activity does not fall in wetland category; 
+ 
+(b)  Soil disturbance attributable to the project activity does not cover more than 10 per 
+cent of area in each of the following types of land, when these lands are included 
+within the project boundary: 
+            (i) Land containing organic soils; 
+           (ii) Land which, in the baseline, is subjected to land-use and management practices 
+                and receives inputs listed in appendices 1 and 2 to this methodology. 
+ 
+Item (a) can be excluded as described as an applicability condition of BL-ARR as the 
+accounting procedures are accounted for in the BL-PEAT module. 
+ 
+The audit team reviewed the PD and confirmed that the project is not designed to include 
+soil disturbing activities. 
+ 
+5. A project activity applying this methodology shall also comply with the applicability conditions 
+of the tools contained within the methodology and applied by the project activity. 
+ 
+As this methodology is covered by the REDD MF methodology and associated modules and 
+tools, the project meets this criterion. 
+VMD0016 
+v1.1 
+Methods for stratification of the project area 
+(X-STR) 
+Condition Steps taken to assess compliance 
+4.1 Any module referencing strata i must be used in combination with this module. 
+ 
+The audit team reviewed the PD and confirmed that all parameters using strata i are 
+designed to be used in combination with the X-STR module 
+4.2 In case of REDD, above-ground biomass stratification is only used for pre-deforestation 
+forest classes, and strata are the same in the baseline and the project scenario. Post-
+deforestation land uses are not stratified. Instead, average post-deforestation stock values 
+(e.g. “Simple” or “Historical area-weighted” approaches are used, as per Module BL-UP). 
+ 
+The audit team reviewed the PD and confirmed that above-ground biomass stratification is 
+only used for pre-deforestation forest classes, and strata are the same in the baseline and 
+the project scenario. And post-deforestation land uses are not stratified. Instead, average 
+post-deforestation stock values (e.g. “Simple” or “Historical area-weighted”) approaches are 
+used, as per Module BL-UP. 
+ 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+25 
+4.3 For peatland rewetting and conservation project activities this module must be used to 
+delineate non-peat versus peat and to stratify the peat according to peat depth and soil 
+emission characteristics, unless it can be demonstrated that the expected emissions from 
+the soil organic carbon pool or change in the soil organic carbon pool in the project scenario 
+is de minimis. 
+ 
+The audit team reviewed the peat stratification in the PD and sampled peat depths in the 
+field confirming that the project used the module to delineate non-peat versus peat and to 
+stratify the peat according to peat depth and soil emission. 
+ 
+4.4 In the case of peatland rewetting and conservation project activities, the project boundary 
+must be designed such that the negative effect of drainage activities that occur outside the 
+project area on the project GHG benefits are minimized. 
+ 
+The audit team reviewed the PD and interviewed project personnel and confirmed that the 
+project is designed in a way that project boundary must be designed such that the negative 
+effect of drainage activities that occur outside the project area on the project GHG benefits 
+are minimized. As shown in the project area maps, the project area is set between two major 
+waterways ensuring the effects of the project do not negatively impact areas outside of the 
+boundary. 
+ 
+VMD0009 
+v1.2 
+Estimation of emissions from activity shifting for avoiding planned deforestation and 
+planned degradation (LK-ASP) 
+Condition Steps taken to assess compliance 
+4.1 The module is applicable for estimating the leakage emissions due to activity shifting from 
+forest lands that are legally authorized and documented to be converted to non-forest land, 
+including activity shifting to forested peatland that is drained as a consequence of project 
+implementation. This tool must be used in countries where planned deforestation happens 
+on forested peatlands regardless of the absence of peatland within the project boundaries. 
+Under this situation, displacement of baseline activities can be controlled and measured 
+directly by monitoring the baseline deforestation agents or class of agents. 
+ 
+The audit team reviewed the PD and confirmed that the design includes the appropriate 
+description and inclusion of planned deforestation leakage monitoring. The audit team was 
+also able to confirm through review of other concessions granted to acacia plantations in 
+Indonesia*.In addition the audit team confirmed through onsite observations that 
+deforestation takes place on peatland. 
+4.2 The module is mandatory if Module BL-PL has been used to define the baseline and the 
+applicability criteria in Module BL-PL must be complied with in full. 
+ 
+The audit team confirmed this condition is met (see BL-PL below) 
+*Whereas, Indonesia no longer posts concession information online, the audit team was able to confirm 
+the existence of such concessions using other online resources. 
+VMD0006 
+v1.2 
+Estimation of Baseline Carbon Stock Changes and Greenhouse Gas Emissions from 
+Planned Deforestation and Planned Degradation (BL-PL) 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+26 
+3.1 The module is applicable for estimating the baseline emissions on forest lands (usually 
+privately or government owned) that are legally authorized and documented to be converted 
+to non-forest land. 
+ 
+Condition met (see LK-ASP above). 
+3.2 Where, pre-project, unsustainable fuelwood collection is occurring within the project 
+boundaries modules BL-DFW and LK-DFW shall be used to determine potential leakage. 
+ 
+Not Applicable. 
+VMD0044 
+v1.0 
+Estimation of Emissions from Ecological 
+Leakage (LK-ECO) 
+4.1 This module is applicable under the following condition: 
+• Leakage caused by hydrological connectivity is avoided by project design and site 
+selection, as outlined in Chapter 5. 
+ 
+The audit team visited the project area on site and confirmed that the areas set for rewetting 
+are generally small and insignificant as they are bordered by major waterways and are highly 
+unlikely to affect water tables in surrounding areas. 
+VMD0017 
+v2.1 
+Estimation of uncertainty for REDD+ project 
+activities (X-UNC) 
+4.1 The module is mandatory when using VCS methodology VM0007. It is applicable for 
+estimating the uncertainty of estimates of emissions and removals of CO2-e generated from 
+REDD and WRC project activities. The module focuses on the following sources of 
+uncertainty: 
+• Determination of rates of deforestation and degradation  
+• Uncertainty associated with estimation of stocks in carbon pools and changes in carbon 
+stocks 
+• Uncertainty associated with estimation of peat emissions 
+• Uncertainty in assessment of project emissions 
+ 
+The audit team reviewed uncertainty calculations for the bullets above, confirming that the 
+module was used in determining all uncertainty. 
+4.2 Where an uncertainty value is not known or cannot be simply calculated, then a project must 
+justify that it is using an indisputably conservative number and an uncertainty of 0% may be 
+used for this component. 
+ 
+As described above, the audit team reviewed uncertainty calculations for the project and 
+confirmed that the module was used in each of the calculations. In addition the audit team 
+agrees that uncertainty from water body emissions was appropriately set to zero, as 
+excluding such emissions is conservative and that using the lowest deforestation rate based 
+on the evidence provided is certainly conservative given the average rate is considerable 
+higher and therefore an uncertainty rate of zero is appropriate. 
+4.3 Guidance on uncertainty – a precision target of a 95% confidence interval half-width equal to 
+or less than 15% of the recorded value shall be targeted. This is especially important in 
+terms of project planning for measurement of carbon stocks; sufficient measurement plots 
+should be included to achieve this precision level across the measured stocks. 
+ 
+The audit team reviewed the sampling design and uncertainty calculations and confirmed 
+that the project added sufficient plots to ensure the sample size met the guidance on 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+27 
+uncertainty. 
+VMD0043 
+v1.0 
+Estimation of emissions from displacement of 
+pre-project agricultural activities (LK-ARR) 
+4.1 This module is applicable under the following conditions: 
+• Applicability conditions set out in AR-ACM0003 must be met. 
+• Applicability conditions in AR-ACM003 that exclude project activities on wetlands can be 
+disregarded in the context of this module. 
+ 
+Condition met (AR-ACM0003 above) 
+VMD0013 
+v1.1 
+Estimation of greenhouse gas emissions from biomass and peat burning (E–BPB) 
+4.1 This module is applicable to avoiding unplanned deforestation or degradation (AUDD), 
+avoiding planned deforestation (APD) and avoiding degradation project activities, whether or 
+not situated on peatland. 
+ 
+The audit team confirmed the baseline scenario and confirmed the project baseline allows 
+for the use of this module (See Section 3.2.4 below) 
+VMD0045 
+v1.0 
+Methods for monitoring greenhouse gas emissions and removals in ARR project 
+activities on peat and mineral soil (M-ARR) 
+4.1 This module is applicable under the following conditions: 
+• The applicability conditions provided in AR-ACM0003. 
+• Applicability conditions included in AR-ACM0003 and corresponding tools that exclude 
+project activities on wetlands can be neglected for the purpose of their use in this module, as 
+accounting procedures for the peat soil are provided in module BL-PEAT. 
+ 
+Condition met (See BL-ARR above). 
+VMD0046 
+v1.0 
+Methods for monitoring of soil carbon stock changes and greenhouse gas emissions 
+and removals in peatland rewetting and conservation project activities (M-PEAT) 
+4.1 This module is applicable to RDP and CUPP activities as defined in VCS AFOLU 
+Requirements. 
+The project area must meet the VCS definition for peatland. This module is limited to domed 
+peatlands in the tropical climate zone. 
+ 
+Condition met (See BL-PEAT above) 
+ 
+4.2 Furthermore, the following applicability conditions apply: 
+• It must be demonstrated using tool T-SIG that N2O emissions in the project scenario are 
+not significant, or it must be demonstrated that N2O emissions will not increase in the project 
+scenario compared to the baseline scenario, and therefore N2O emissions need not be 
+accounted for. 
+ 
+Condition met (T-SIG below). 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+28 
+ 
+4.3 Furthermore, the following applicability conditions apply: 
+• In the baseline scenario the peatland must be drained or partially drained. 
+ 
+The audit team confirmed that the baseline scenario is acacia plantation, thus meeting this 
+condition (see section 3.2.4 below) 
+4.4 Furthermore, the following applicability conditions apply: 
+• At project start the peatland may still be undrained. 
+ 
+The audit team performed onsite inspections and confirmed that the majority of the project 
+area is undrained at the start of the project. 
+4.5 Furthermore, the following applicability conditions apply: 
+• It must be demonstrated using module LK-ECO that ecological leakage must not occur. 
+ 
+Condition met (See LK-ECO above) 
+T-SIG v01 Tool for testing significance of GHG emissions in A/R CDM project activities 
+The tool shall be used in the application of an A/R CDM approved methodology to an A/R CDM 
+project activity: 
+a) To determine which decreases in carbon pools, and increases in emissions of the greenhouse gases 
+measured in CO2 equivalents that result from the implementation of the A/R project activity, are 
+insignificant and can be neglected. 
+ 
+The audit team reviewed the project design and concluded that no significant tests were necessary as 
+pools were only excluded if allowed by the methodology as conservative. 
+The tool shall be used in the application of an A/R CDM approved methodology to an A/R CDM 
+project activity: 
+b) To ensure that it is valid to neglect decreases in carbon pools and increases in GHG emissions by 
+sources stated as being insignificant in the applicability conditions of an A/R CDM methodology. 
+ 
+Condition met (see conditions for AR-ACM0003 v3.0 above) 
+ 
+VT0001 
+v3.0 
+Tool for the demonstration and assessment of additionality in VCS agriculture, 
+Forestry and other land use (AFOLU) project activities 
+1.2 (a) 
+The tool is applicable under the following conditions: 
+AFOLU activities the same or similar to the proposed project activity on the land within the 
+proposed project boundary performed with or without being registered as the VCS AFOLU 
+project shall not lead to violation of any applicable law even if the law is not enforced. 
+ 
+Condition met (See Section 3.2.5 below). 
+1.2 (b) 
+The tool is applicable under the following conditions: 
+The use of this tool to determine additionality requires the baseline methodology to provide 
+for a stepwise approach justifying the determination of the most plausible baseline scenario. 
+Project proponent(s) proposing new baseline methodologies shall ensure consistency 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+29 
+between the determination of a baseline scenario and the determination of additionality of a 
+project activity. 
+ 
+Condition met (See Section 3.2.5 below). 
+As described above, the audit team agrees that the applicability conditions of the methodology and all 
+associated modules and tools have been met by the evidence provided and gleaned by the audit team. 
+3.2.3 Project Boundary 
+Overall, the project boundary and selected sources, sinks and reservoirs are justified for the project. A 
+further discussion of this is given below. 
+3.2.3.1  Spatial boundaries 
+Through a combination of document review, remote sensing, and ground truthing the audit team 
+confirmed that the spatial boundaries of the project area conform to Sections 5.1.1 – 5.1.4 of the 
+methodology. The audit team reviewed the PD and confirmed that it includes maps including all of the 
+geographic and physical boundaries required by the methodology. 
+While on site, the audit team observed the replication of the process for digitizing the concession 
+boundaries into a GIS format and confirmed that the boundaries utilized for extrapolation of carbon stocks 
+is consistent with the boundaries and area provided in the concession. In addition, the audit team 
+confirmed that the process was performed using best practices in GIS. 
+Next, the audit team observed re-measurements of aboveground biomass plots and confirmed the results 
+were consistent with that of the reporting in the PD. The biomass teams performed this exercise at a high 
+level of quality supporting the belief of the audit team that the aboveground biomass is reported 
+accurately and with the precision reported. 
+Finally, the audit team resampled and recalculated bulk density (BD) for six of the peat transects 
+previously measured by project personnel. The results of the analysis showed that the BD values 
+reported by the project, while different from the audit sample (most likely due to sampling methods), and 
+are more than likely to result in conservative estimates of GHG reductions (a more detailed description 
+can be found in section 3.2.6 below). 
+3.2.3.2  Temporal boundaries 
+The audit team confirmed that the project complies with all of the requirements of the methodology 
+regarding temporal boundaries. The audit team observed the replication of the process used to attain 
+remote sensing imagery and confirmed the dates meet the requirements of the methodology. See Section 
+3.1 above for a complete description of how the project meets the additional requirements. 
+3.2.3.3  Carbon Pools 
+Carbon pool In/excluded Step(s) to assess Conformance 
+Aboveground tree biomass  Included  Cross checked against tables 4-8 of the 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+30 
+Carbon pool In/excluded Step(s) to assess Conformance 
+methodology to ensure conformance 
+Aboveground non-tree 
+biomass  
+Excluded Cross checked against tables 4-8 of the 
+methodology to ensure conformance. The 
+justification provided in the PD is appropriate as the 
+baseline scenario is plantation and thus is expected 
+to increase under natural forest in the project 
+scenario  
+Belowground biomass  Included  Cross checked against tables 4-8 of the 
+methodology to ensure conformance 
+Litter on mineral soil  Excluded Cross checked against tables 4-8 of the 
+methodology to ensure conformance 
+Litter on peatland  Excluded Cross checked against tables 4-8 of the 
+methodology to ensure conformance 
+Dead wood Excluded Cross checked against tables 4-8 of the 
+methodology to ensure conformance 
+Mineral soil carbon pool Excluded Cross checked against tables 4-8 of the 
+methodology to ensure conformance.  
+Peat carbon pool Included Cross checked against tables 4-8 of the 
+methodology to ensure conformance  
+Wood products Excluded Cross checked against tables 4-8 of the 
+methodology to ensure conformance 
+ 
+3.2.3.4  Gases  
+3.2.3.4.1  REDD 
+Source Gas Included Step(s) to assess Conformance 
+ 
+Biomass burning CO
+2
+ No Confirmed - exclusion in the baseline is conservative 
+CH
+4
+ No Confirmed - exclusion in the baseline is conservative 
+N
+2
+O No Confirmed - exclusion in the baseline is conservative 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+31 
+Source Gas Included Step(s) to assess Conformance 
+Combustion of fossil 
+fuels 
+CO
+2
+ No Confirmed - exclusion in the baseline is conservative 
+CH
+4
+ No Confirmed - exclusion in the baseline is conservative 
+N
+2
+O No Confirmed - exclusion in the baseline is conservative 
+Use of fertilisers CO
+2
+ No Confirmed - exclusion in the baseline is conservative 
+CH
+4
+ No Confirmed - exclusion in the baseline is conservative 
+N
+2
+O No Confirmed - exclusion in the baseline is conservative 
+Project scenario
+ 
+Biomass burning CO
+2
+ No Excluded as is accounted for in carbon stock changes 
+CH
+4
+ Yes Confirmed through cross check of table 6 of the 
+methodology 
+N
+2
+O Yes Confirmed through cross check of table 6 of the 
+methodology 
+Combustion of fossil 
+fuels 
+CO
+2
+ No Confirmed through cross check of table 6 of the 
+methodology 
+CH4 No Confirmed through cross check of table 6 of the 
+methodology 
+N
+2
+O No Confirmed through cross check of table 6 of the 
+methodology 
+Use of fertilisers CO
+2
+ No Confirmed through cross check of table 6 of the 
+methodology  
+CH
+4
+ No Confirmed through cross check of table 6 of the 
+methodology 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+32 
+Source Gas Included Step(s) to assess Conformance 
+N
+2
+O No Confirmed through cross check of table 6 of the 
+methodology 
+ 
+3.2.3.4.2  ARR 
+Source Gas Included Step(s) to assess Conformance 
+Baseline scenario
+ 
+Burning of woody 
+biomass 
+CO
+2
+ No Confirmed as exclusion in the baseline is 
+conservative 
+CH
+4
+ No Confirmed as exclusion in the baseline is 
+conservative 
+N
+2
+O No Confirmed as exclusion in the baseline is 
+conservative 
+Project scenario
+ 
+Burning of woody 
+biomass 
+CO
+2
+ No Confirmed, as accounted for in carbon stock change 
+CH
+4
+ Yes Confirmed through cross check of table 7 of the 
+methodology 
+N
+2
+O Yes Confirmed through cross check of table 7 of the 
+methodology 
+ 
+3.2.3.4.3  WRC 
+Source Gas Included Step(s) to assess conformance 
+Baseline / Project scenario
+ 
+Microbial 
+decomposition 
+CO
+2
+ Yes Confirmed through cross check of table 8 of the 
+methodology 
+CH
+4
+ Yes Confirmed through cross check of table 8 of the 
+methodology 
+N
+2
+O No Confirmed through cross check of table 8 of the 
+methodology 
+Peat combustion CO
+2
+ Yes Confirmed through cross check of table 8 of the 
+methodology  
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+33 
+Source Gas Included Step(s) to assess conformance 
+ CH
+4
+ Yes Confirmed through cross check of table 8 of the 
+methodology 
+N
+2
+O Yes Confirmed through cross check of table 8 of the 
+methodology  
+Combustion of fossil 
+fuels 
+CO
+2
+ No Confirmed through cross check of table 8 of the 
+methodology  
+CH
+4
+ No Confirmed through cross check of table 8 of the 
+methodology.  
+N
+2
+O No Confirmed through cross check of table 8 of the 
+methodology 
+ 
+Based on the above cross checks and conservative exclusions the audit team has a reasonable level of 
+assurance that all required carbon pools and emission sources have been appropriately accounted for as 
+required by the methodology and associated modules. 
+3.2.4 Baseline Scenario 
+The audit team reviewed the justification in the PD and confirmed that the justification was consistent with 
+what was observed during the site visit, that acacia plantation is the most plausible baseline scenario. 
+Using web based research /16//18/, remote sensing imagery /9/ , and interviews with local communities’ 
+/17/, the audit team confirmed the following scenarios are all possibilities in the project area (whereas the 
+main sources have been provided in Section 2.2 of this report, corroborating proprietary evidence from 
+project personnel were used as well): 
+Industrial oil palm plantation 
+The audit team reviewed the proprietary evidence consisting of existing concessions and land use 
+classifications and cross checked the data against the WRI data /16//18/ and confirmed that while the 
+project area itself is not legally permissible for conversion to oil palm plantation, observations on site 
+confirmed that oil palm plantations had been implemented in the region. 
+Logging Concessions 
+The audit team reviewed the proprietary evidence consisting of existing concessions and land use 
+classifications and cross checked the data against the WRI data /16//18/ and confirmed that for the 
+project area the land is legally permitted commercial logging in the absence of the project concessions. In 
+addition, observations on site confirmed that commercial logging had been implemented in the region. 
+Unprotected Forests 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+34 
+The audit team reviewed the proprietary evidence consisting of existing concessions and land use 
+classifications and cross checked the data against the WRI data /16//18/ and confirmed that for the 
+project area the land has unprotected status. In addition, observations during the site visit confirmed that 
+degradation through local exploitation had been implemented in the region. 
+Protected Forests 
+The audit team reviewed the proprietary evidence consisting of existing concessions and land use 
+classifications and cross checked the data against the WRI data /16//18/ and confirmed that protected 
+forests exist in the region encompassing the project area. In addition, the audit team has experience 
+working in the region and can corroborate that protected areas exist through firsthand knowledge. 
+Smallholder Agriculture 
+While on site the audit team observed many areas in the region of the project area in which agricultural 
+activities are taking place. The audit team observed subsistence agriculture, as well as rubber trees and 
+pineapple. In addition, the audit team reviewed remote sensing imagery /16//18/ showing settlements 
+near the project area in which land had been cleared for agriculture. 
+Mining 
+The audit team confirmed through interviews with local communities /17/ that residents are being paid to 
+work as gold miners in the area. Specifically, there is concern that the project will result in the 
+discontinuing of such activities and thus is viewed by the audit team as an alternative to the project 
+activities. Furthermore, the audit team reviewed the proprietary evidence showing concessions for mining 
+in the region. 
+Acacia Plantations 
+The audit team reviewed the proprietary evidence consisting of existing concessions and land use 
+classifications and cross checked the data against the WRI data /16//18/ and confirmed that plantation 
+forestry is rampant across the region encompassing the project area. Additionally, the audit team 
+reviewed literature (Cifor 2004, Bartlett 2011, Jauhiainen et al 2012) corroborating project claims of 
+acacia plantation as an alternative to the project activities. 
+All of the above alternative scenarios are supported by multiple pieces of corroborating evidence. The 
+current global focus on Indonesian forests provides a host of literature, work papers, and remote sensing 
+work products describing the state of deforestation in Indonesia. All of the evidence collected by the audit 
+team is in agreement with the claims reported by the PD. 
+In conclusion, the audit team agrees that the information and justifications provided clearly show acacia 
+plantations as the most likely baseline scenario. Moreover, the audit team agrees that based on current 
+and past evidence that in the absence of the project activities that the project correctly identifies the 
+without project scenario. 
+3.2.5 Additionality 
+Overall, additionality is justified for the project. In accordance with the methodology, and as well-
+documented within Section 4.5 of the PD, Version 3.0 (the most recent version) of the VCS-approved 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+35 
+“Tool for the Demonstration and Assessment of Additionality in VCS AFOLU Project Activities” has been 
+used to demonstrate additionality. The audit team’s findings regarding the application of this tool are as 
+follows. 
+3.2.5.1  Step 1. Identification of alternative land use scenarios to the proposed VCS AFOLU project 
+activity 
+3.2.5.1.1 Sub-Step 1a 
+The identified land use scenarios identified in sub-Step 1a of the PD include those scenarios required by 
+VT0001. The audit team’s findings regarding the identified scenarios are discussed in section 3.2.4 
+above. 
+3.2.5.1.2  Sub-Step 1b 
+As stated above in Section 3.2.4 all of the described alternatives are taking place in the region 
+encompassing the project area. The legality of such activities is not clear in all cases. The audit team 
+reviewed Indonesian land use law /13//14/ and were able to confirm the claims in the PD as to the legality 
+of such activities in the project area itself in the absence of the project. Based on this evidence, the audit 
+team confirmed that those activities not legally permitted were removed from the list of alternatives as 
+required by the tool. Based on this use of the tool the audit team confirmed that after accounting for sub-
+step 1b that acacia plantations, unprotected forests, and protected forests remained as viable alternative 
+baseline scenarios. One note is that aside from oil palm plantation, government licensing could allow for 
+the other alternatives and while eliminated using the barrier analysis by the project, this report will focus 
+only on alternatives with clear legality. 
+3.2.5.1.3  Sub-Step 1c 
+3.2.5.1.4  Step 3 
+As described in the PD the project chose to use both the investment and barrier analysis in order to select 
+a single baseline scenario. As only one of the analyses are required by the tool, this report with focus on 
+the barrier analysis. For a complete description of the investment analysis performed by the project see 
+https://issuu.com/greengrowthprogram/docs/ecba_3_katingan_technical_report
+. 
+Commercial logging 
+The audit team reviewed the legality and suitability of land use in Indonesia /16//18//19/ along with 
+proprietary evidence of project personnel and confirmed that logging concessions are highly unlikely in 
+the project area given the history of logging in the area. In addition, the audit team visited random 
+portions of the project area while on site and used professional judgment to ascertain that very little to no 
+primary forest still exists. This combined with improving laws regarding forestry and labor have 
+significantly decreased the economics associated with commercial logging. It is the profession forestry 
+knowledge of the audit team that economic barriers would eliminate this activity as the baseline scenario. 
+Protected forests 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+36 
+The audit team reviewed the available literature /19//2/ and online resources /16//18/ and were able 
+confirm the project claims in the PD. Additionally, the audit team has experience working in the region 
+and other institutional knowledge and used professional judgment to ascertain that economic barriers 
+exist to including the project area as a protected forests. The audit team used the cited resources to 
+understand that current trends in Indonesia lend themselves to including land under restoration 
+concessions in which the concession holder is financially responsible for protection of the forest. 
+Whereas, the audit team was unable to speak to government officials who would corroborate such claims, 
+the audit team has a reasonable assurance that the evidence provided supports the elimination of this 
+activity as an alternative baseline scenario. 
+Acacia plantations 
+ As stated throughout the baseline and additionality sections of this report, the audit team used a number 
+of online /16//18/, remote sensing /14/, and literature /19//2/ to understand the legal and other barriers 
+impeding certain activities. All of the evidence reviewed by the audit team shows that acacia plantations 
+are legally permitted, face no ecological or economic barriers, and is appropriate given the suitability of 
+the land. Based on this evidence the audit team agrees that the project have used the additionality tool 
+appropriately and provided adequate justification in the PD that acacia plantations are the single 
+alternative to project activities. 
+3.2.5.1.5  Step 4 
+The audit team reviewed the justification provided in the PD and use professional forestry knowledge to 
+confirm that it is not common practice in commercial forestry operations, particularly 5 year pulp rotation 
+plantations, to protect secondary and degraded forests 
+In summary, it is the opinion of the audit team that as long as the project is implemented as designed, the 
+justification and the supporting evidence provided are sufficient to show that the additionality of the 
+project is justified. 
+3.2.6 Quantification of GHG Emission Reductions and Removals 
+Overall, the methodology and any referenced tools have been applied correctly to calculate baseline 
+emissions, project emissions, leakage and net GHG emission reductions and removals. The 
+quantification of such is described in greater detail below. 
+The audit team can confirm that the PD contains a very high level of detail regarding the calculation of 
+GHG emission reductions, such that the following are true: 
+• All relevant assumptions and data are listed in the project description, including their references 
+and sources: the PD is very thoroughly documented and all equations, data, assumptions and 
+other sources of information are included 
+• All of the project description requirements (PDR) with respect to the quantification of GHG 
+emission reduction and removals are clearly presented replete with the equations and processes 
+employed 
+The audit team reviewed a series of remote sensing products, GIS output, workbooks, and proprietary 
+models (see section 2.2 above) in order to confirm conformance with the quantification requirements of 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+37 
+the methodology and associate modules. Specifically, the audit team used the verified aboveground 
+biomass and peat data, and remote sensing results (selected as high risk variables from the validation 
+risk assessment) for data checks to determine the accuracy of the baseline and ex-ante GHG 
+calculations. A complete reporting of the resulting values for each requirement of the methodology is as 
+follows: 
+3.2.6.1  Quantification of baseline emissions 
+3.2.6.1.1  Selection of proxy areas 
+As the project does not have a verifiable plan for the rate of deforestation six proxy areas were selected 
+to determine the rate of deforestation. See below for a description of what how the audit team assessed 
+the criteria:  
+Criteria Step(s) to assess conformance 
+Land conversion practices shall be the same as 
+those used by the baseline agent or class of agent. 
+The audit team reviewed the proxy areas selected 
+by the project in the project database and 
+confirmed that acacia plantation was the land 
+conversion practice. 
+The post-deforestation land use shall be the same 
+in the proxy areas as expected in the project area 
+under business as usual. 
+As stated above and in Section 2.3.4 the audit 
+team reviewed the proxy area data and cross 
+checked against the remote sensing imagery /14/ 
+and online resources /16//18/ confirming that the 
+post deforestation land use classes are the same. 
+The proxy areas shall have the same management 
+and land use rights type as the proposed project 
+area under business as usual. 
+During review of the project concession application, 
+the audit team confirmed that under the legal 
+requirements of Indonesia, concession applications 
+require a financial and management plan for the 
+concession land and would be granted for a 
+specific land use type, ensuring the same 
+management and land use rights type as the 
+proposed project area under business as usual. 
+If suitable sites exist they shall be in the immediate 
+area of the project; if an insufficient number of sites 
+exists in the immediate area of the project, sites 
+shall be identified elsewhere in the same country 
+as the project; if an insufficient number of sites 
+exists in the country, sites shall be identified in 
+neighboring countries. 
+As stated in the PD all proxy sites are in the 
+country of Indonesia. The audit team reviewed the 
+ministry database and remote sensing imagery 
+confirming adherence to this requirement /16//18/. 
+Agents of deforestation in proxy areas must have 
+deforested their land under the same criteria that 
+the project lands must follow (legally permissible 
+See section 3.2.4 above.  
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+38 
+and suitable for conversion)—see section. 
+Deforestation in the proxy area shall have occurred 
+within the 10 years prior to the baseline period. 
+The audit team reviewed the project data for the 
+proxy areas and cross checked against the 
+available online data /20/ confirming the proxy 
+areas were converted to convertible production 
+forest within the ten years prior to the start date. 
+The three following conditions shall be met: 
+• The forest types surrounding the proxy area or in 
+the proxy area prior to deforestation shall be in the 
+same proportion as in the project area (±20%). 
+• Soil types that are suitable for the land-use 
+practice used by the agent of deforestation in the 
+project area must be present in the proxy area in 
+the same proportion as the project area (±20%). 
+The ratio of slope classes “gentle” (slope <15%) to 
+“steep” (slope ≥15%) in the proxy areas shall be 
+(±20%) the same of the ratio in the project area. 
+• Elevation classes (500m classes) in the proxy 
+area shall be in the same proportion as in the 
+project area (±20%). 
+The audit team observed the replication of the 
+remote sensing and GIS processes used to 
+determine how the proxy areas compare with 
+project area with respect to the criteria of the BL-PL 
+modules and confirmed that the same results were 
+produced. In addition, the audit team cross 
+checked the results against the available online 
+data /20/ which corroborated the results reported in 
+the PD. 
+ 
+In determining the conformance to the above criteria the audit team performed an assessment of the 
+remote sensing analysis to ensure best practices were followed as described GOFC-GOLD 2013 
+handbook. The audit team observed the replication of the process for preparing imagery for analysis and 
+were able to confirm that best practices were followed, as all Landsat imagery was appropriately 
+downloaded from USGS, was atmospherically corrected, ground-truthed, masked out non-readable pixels 
+(scan line corrector failure), and met best practice accuracy requirements.  
+The audit team selected one proxy area (Bumi Mekar Hijau) for an independent analysis. Using online 
+resources /18//20/ the audit team was able to confirm with a reasonable level of assurance that the proxy 
+area is appropriate as, surrounding forest type, slope, and elevation are all within +or – 20%. In addition, 
+the audit team used the ministry of forestry concession database to calculate soil characteristics and 
+confirmed 91% peat soils for the concession. 
+3.2.6.1.2  Baseline deforestation rate 
+As previously stated the audit team independently confirmed one proxy area. Based on the ability to 
+confirm the data reported for the single proxy area, the audit team recalculated the total area of 
+deforestation and deforestation rate to be applied to the project area. Whereas, the audit team calculated 
+a slightly higher total area and deforestation rate, the audit team agrees that the use of the most 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+39 
+conservative proxy value calculated by the project (3.91%) is appropriate and therefore the uncertainty 
+value of 0 is allowed. 
+3.2.6.1.3  Baseline stratification 
+Aboveground Biomass 
+While onsite the audit team reviewed the remote sensing procedures for determining land use classes 
+(see Section 3.2.6.1.1) and confirmed the accuracy for forest through reviewing a replication of the 
+process. In addition the audit team observed the replication of the biomass collection process in the field 
+and confirmed that the data was consistent with the results reported in the PD. Moreover, the audit team 
+agrees that not stratifying the existing forest is appropriate as the sample size was sufficient for meeting 
+the desired level of error, as required by the methodology. The audit team confirmed the uncertainty of 
+the aboveground biomass through a recalculation of the project inventory data. Also, through on site 
+observations on site and review of Indonesian forest regulation the audit team confirmed that project 
+personnel have accurately accounted for the portions of the project area that are required for each use 
+type by the regulation. Finally, in addition to the regulatory review, and the proxy analysis, the audit team 
+visited community crop areas while on site and confirmed that the allocation of area to each strata is 
+appropriate. 
+Peatland 
+Initial delineation of peatland vs non-peatland boundaries was reviewed by the audit team, who confirmed 
+that the methodology employed by project personnel is consistent with the professional understanding of 
+the audit team. The audit team further corroborated the boundaries through an independent sampling of 
+peat in the field, using transects initially installed by project personnel. Given that transects begin at 
+canals and rivers, any misallocation of soil data would more than likely be observed by the audit team. 
+Furthermore, the audit team used the field sampling exercise to determine peat thickness across the 
+dome and confirmed the results reported by project personnel to be accurate for the sampling points. 
+During the office portion of the site visit, the audit team observed a replication of the extrapolation of peat 
+data to areas outside of the sampling points and cross checked the reported and verified field verified 
+sampling data against the requirements of Section 5.3 of the X-STR module: 
+No Requirements per VM0007 module X-STR Step(s) to assess conformance 
+1 When in more than 5% of the project area peat 
+is absent or the thickness of the peat is below a 
+threshold value (e.g., 50 cm); the map only 
+needs to distinguish where peat thickness 
+exceeds this threshold. It is conservative to treat 
+shallow peat strata as mineral soil strata.
+ 
+As stated above the audit team observed a 
+replication of the peat stratification process 
+and confirmed that less than 5% of the project 
+area includes peat soils less than 50cm. In 
+addition the audit team observed the 
+replication of the Kriging process used to 
+interpolate peat thickness for non-sampled 
+areas and confirmed the process was 
+performed using verified peat depths and 
+included an appropriate process for 
+determining distances used in the smoothing 
+process. 
+2 When, using a conservative (high) value for During the office portion of the site visit the 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+40 
+No Requirements per VM0007 module X-STR Step(s) to assess conformance 
+subsidence rates, in more than 5% of the 
+project area less peat is available at t=100 
+years in the project scenario than in the same 
+strata in the baseline scenario, the peat 
+thickness map only needs to distinguish these 
+strata
+ 
+audit team repeated the process described 
+above and confirmed the initial peat thickness 
+values were accurately imported into the 
+subsidence calculations. In addition, the audit 
+team was able to confirm that the values and 
+methods for calculating subsidence follow the 
+processes prescribed by IPCC and are 
+appropriately referenced in the project 
+documentation. Based on the validation 
+activities the audit team was able to confirm 
+that in more than 5% of the project area less 
+peat is available at t=100 years in the project 
+scenario than in the same strata in the 
+baseline scenario.
+ 
+3 When, using a conservative (high) value for 
+subsidence rates, in the baseline scenario in 
+more than 5% of the project area the project 
+crediting period exceeds the peat depletion time 
+(PDT); the peat thickness map must distinguish 
+with a resolution of 50 cm strata where peat will 
+be depleted within the project crediting period. 
+Peat strata that will be depleted can be further 
+stratified according to their peat depletion time. 
+Areas where peat will not be depleted need not 
+be further stratified.
+ 
+During the office portion of the site visit, the 
+audit team observed a replication of the 
+calculation of baseline and ex-ante estimates 
+and confirmed that more than 5% of the 
+project area the project crediting period 
+exceeds the peat depletion time (PDT).
+ 
+ 
+In addition to the aboveground biomass and peatland activities described above, the audit team reviewed 
+the analysis performed by project personnel and described in in the methodological annex to the PD /21/ 
+and confirmed that the rationale for the ultimate stratification of the project area. Moreover, as described 
+in Section 3.2.2 of this report the audit team recalculated the uncertainty analysis for each applicable pool 
+and confirmed the calculations were free from calculation error and in conformance with the methodology 
+and associated modules. 
+3.2.6.1.4  Baseline emissions 
+Subsidence 
+The audit team reviewed the subsidence rate used to calculate baseline emissions for peatlands. 
+Whereas, the audit team was unable to ascertain water table fluxes in the project or proxy areas due the 
+time involved in collecting such data, the audit team reviewed the processes used by project personnel 
+/21/ in combination with water levels encountered during the re-sampling of peat transects in the field and 
+confirmed, with a reasonable level of assurance that the process had been performed accurately and in 
+conformance with best practices.  
+The audit team reviewed the values employed to calculate subsidence rates and confirmed that the 
+values were consistent with those produced through field sampling and the verified proxy data and 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+41 
+employed default values allowed by the methodology and associated modules (see parameters available 
+at validation below). Based on the successful validation of computational inputs the audit team re-
+calculated subsidence for a sample of data and confirmed the reported values to be free from calculation 
+error. 
+Water bodies 
+The audit team reviewed the explanation in the PD and the proxy area data and confirmed the basic 
+assumption that the baseline agents described in Section 3.2.4 above do not create open bodies of water 
+such as ponds or lakes. In addition, the audit team reviewed the information provided in appendix 4 and 
+the proxy data and confirmed the rationale for applying temporal stratification. The audit team also 
+performed a recalculation of the area of water bodies (WB) and found the value of 3,327 ha to be free 
+from calculation error. 
+In addition to confirming the WB area, the audit team recalculated a sample of data and confirmed that 
+the baseline emissions employ the appropriate values for dissolved organic carbon (DOC) (see 
+parameters available at validation below) and are free from calculation error. 
+Peat burn 
+The audit team analyzed the modis data surrounding the project area and fire data for the sampled proxy 
+area and confirmed that the rationale provided in Annex 7 to be appropriate. The audit team reviewed the 
+calculations of burn probability and confirmed the results to be accurate based on the historic fire data. In 
+addition while on site, the audit team observed a replication of the Sims (Excel) model used to select 
+areas that would have burned in the baseline scenario and confirmed that the model appropriately 
+accounts for probability of burn and that the correct emissions factors were employed. Finally, the audit 
+team recalculated the uncertainty of peat burn and confirmed the project calculations to be accurate. 
+Aboveground biomass 
+As stated in Section 3.2.4 above, the audit team confirmed that the determination of the baseline scenario 
+was reported as a result of the correct use of the VT0001 additionality tool. Based on this the audit team 
+confirmed that the baseline scenario and thus the pattern of deforestation and land use is appropriate for 
+determining baseline emissions from deforestation.  
+The audit team reviewed the inventory data and cross checked field data against the original inventory 
+and confirmed the mean stocking for aboveground biomass is reported accurately. In addition the audit 
+team confirmed that subtracting the lowest stocking level from the mean stocking level is an appropriate 
+method for estimating degradation using professional judgment. The audit team also confirmed that the 
+reported post deforestation class values are appropriate and supported by the literature and other online 
+resources. Through recalculation of a sample of the data, the audit team was able to confirm that the 
+allometric equations have been used as designed and are appropriate for the region (see parameters 
+available at validation below). Finally, the audit team performed a recalculation of the uncertainty 
+associated with aboveground biomass and confirmed it to be accurate. 
+ARR activities 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+42 
+The audit team considered the ARR activities of the baseline and project scenario a low risk area as this 
+accounts for less than .5% of the overall GHG emission reductions. Based on the initial risk assessment 
+the audit team did not recalculate baseline or project scenario emissions, however the audit team 
+reviewed the inputs and calculations performed by the project and confirmed that the calculations were 
+performed using the same methods and work products as other emissions. The audit team was able to 
+trace all data to its source and have a reasonable level of assurance that the emission reductions from 
+ARR activities have been reported accurately. 
+3.2.6.2   Project emissions 
+Given the similarities between the methodology for calculating baseline emissions and project emissions, 
+this report will not recap each of the steps taken to assess each emission source, but refers the reader to 
+the baseline emission section. The stratification follows the same procedures and was recalculated by the 
+audit team confirming the strata areas reported by project personnel in the PD. 
+While on site the audit team visited portions of the property and confirmed that the areas planned for 
+reforestation are currently deforested and otherwise meet the applicability conditions for ARR activities 
+reported by the methodology and associated modules (see Section 3.2.2 above). In addition the audit 
+team observed the areas for peat rewetting and confirmed that the canal exists and is    appropriate for 
+restoration activities. 
+The audit team reviewed and recalculated a sample of project data for each of the emissions reported in 
+the PD and confirmed that the emissions have been calculated accurately and the inputs used are 
+consistent with those verified in the baseline scenario (see parameters available at validation below). 
+Based on the previous text and the methods employed as described in the baseline emissions section, 
+the audit team confirms with a reasonable level of assurance that the ex-ante emissions have been 
+reported accurately. 
+3.2.6.2.1  Leakage emissions 
+As described in Section 3.2.2 the project evaluation of which leakage modules are applicable to the 
+project is appropriate. A complete description of the activities employed to assess leakage estimate for 
+the project are discussed below: 
+Leakage Module Step(s) taken to assess conformance 
+Estimation of emissions from activity shifting for 
+avoiding planned deforestation and planned 
+degradation (LK-ASP); 
+Step 1. Determine the baseline rate of 
+deforestation; 
+STEP 2: Estimate New Projection of Forest 
+Clearance by the Baseline Agent Of Deforestation 
+with Project Implementation if No Leakage is 
+Occurring; 
+1. As previously described the baseline 
+deforestation rate of 3.91% is appropriate 
+and conservative. The audit team reviewed 
+the regression analysis and confirmed the 
+areas reported for the deforestation 
+estimates were those confirmed in Section 
+3.2.6.1.2 of this report and that the 
+resulting correlation meets the 
+requirements of the module. 
+2.    The audit team recalculated the area of 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+43 
+STEP 3: Monitor All Areas Deforested by Baseline 
+Agent of Deforestation Through the Years in Which 
+Planned Deforestation was Forecast To Occur; 
+STEP 4: Monitor GHG Emissions Outside the 
+Project Boundary by Baseline Agent of 
+Deforestation; 
+STEP 5: Estimate the Peat Carbon in All of the 
+Agent Concessions; 
+STEP 6: Estimate the CO2 Emission Factor from 
+Leakage to Peatland per ha; 
+STEP 7: Estimate the Net GHG Emissions Due to 
+Leakage to Undrained Peatlands as a Result of 
+Implementation of a Planned Deforestation Project 
+in Year t (Lkpeat,T). 
+new forest clearance if no leakage is 
+occurring and found the reported values of 
+the project to be correct. 
+3.    The audit team reviewed the PD and 
+confirmed the documentation includes an 
+adequate monitoring plan for meeting the 
+requirements of the module. 
+4.    As no single agent of baseline 
+deforestation has been identified, this step 
+is not applicable. 
+5.    The audit team reviewed the rationale in 
+the PD and confirmed that the method 
+employed is more than likely to 
+overestimate leakage emissions from peat. 
+For a description of the methods used to 
+determine peat loss see Section 3.2.6.1 of 
+this report.  
+6.    The audit team recalculated this step as 
+described in the module and confirmed the 
+project reported value to be accurate. 
+7.    The audit team recalculated the net 
+emissions due to leakage based on the 
+project data and confirmed the reported 
+value to be accurate. 
+Estimation of emissions from displacement of 
+pre-project agricultural activities (LK-ARR) 
+Step(s) taken to assess conformance 
+Emissions due to the displacement of pre-project 
+agricultural activities in ARR project activities are 
+estimated using CDM tool Estimation of the 
+increase in GHG emissions attributable 
+t0displacement of pre-project agricultural activities 
+in A/R CDM project activity. 
+The audit team reviewed the rationale provided in 
+the PD and observed projected agricultural areas 
+while on site and using GIS and confirming an ex-
+ante estimate of zero for this module. 
+Under the applicability conditions of this module, 
+ecological leakage affecting the soil (peat) carbon 
+pool does not occur, by ensuring that the effect of 
+hydrological connectivity with adjacent areas is 
+insignificant (ie, causing no significant alteration of 
+mean annual water table depths in such areas). 
+This can be achieved either by an appropriate 
+The audit team reviewed the rationale provided in 
+the PD and observed projected restoration areas 
+while on site and using GIS and confirming an ex-
+ante estimate of zero for this module. 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+44 
+design (eg, by establishing an impermeable dam, 
+by rewetting peatland surrounded by undrained 
+peatland or by rivers) or by a buffer zone within the 
+project boundary. This buffer zone, if employed, 
+shall be mapped (see module X-STR). The width of 
+the buffer zone shall be determined on the basis of 
+quantitative hydrological modeling, or expert 
+judgment. 
+ 
+3.2.6.3   Parameters available at validation 
+The parameters below are those required by the methodology, however given the complexity of the 
+project, project personnel have provided a methodological annex to the PD /21/ in which a host of 
+associated parameters available at validation are provided. 
+Parameter Value Step(s) taken to assess conformance (Forest) 
+∆C
+BSL,planned 
+34,037,000 See Section 3.2.6.1 above 
+∆C
+BSL-ARR
+ 
+441,274.71 See Section 3.2.6.1 above 
+GHG
+BSL-WRC
+ 
+437,681,743 See Section 3.2.6.1 above 
+ 
+In summary, it is the opinion of the audit team that the VM0007 v1.5 methodology and the associated 
+tools and modules have been applied correctly and allow for the audit team to have a reasonable level of 
+assurance that the result is the correct calculation of baseline emissions, project emissions, leakage and 
+net GHG emission reductions and removals. 
+3.2.7 Methodology Deviations 
+Not applicable as no methodology deviation were assessed during validation. 
+3.2.8 Monitoring Plan 
+The parameters below are those required by the methodology, however given the complexity of the 
+project, project personnel have provided a methodological annex to the PD /21/ in which a host of 
+associated parameters monitored are provided. 
+Parameter Value Step(s) taken to assess conformance (Forest) 
+∆C
+WPS-REDD 
+64,407,344 See section 3.2.6.2 above 
+∆C
+LK-
+AS,planned
+ 
+Not applicable until 
+monitoring takes 
+place 
+See section 3.2.6.2.1 above 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+45 
+∆C
+WPS-ARR
+ 
+1,864,644.09 See section 3.2.6.2 above 
+∆C
+LK-ARR
+ 
+Not applicable until 
+monitoring takes 
+place 
+See section 3.2.6.2.1 above 
+GHG
+WPS-
+WRC 
+430,919,776 See section 3.2.6.2 above 
+GHG
+LK-ECO 
+0 See section 3.2.6.2.1 above 
+ 
+In summary, the audit team confirmed that the monitoring parameters have been included in conformance 
+with the applicable methodology and that the monitoring methods and procedures are designed using 
+best practices as required by the methodology. In addition, as described in Section 3.2.2 above, the 
+project has assessed the applicability of the associated monitoring modules and is designed to conform to 
+the applicable criteria. 
+3.3 Non-Permanence Risk Analysis 
+In accordance with Section 3.7.3 of the VCS AFOLU Requirements, the project’s non-permanence risk 
+report was assessed by the audit team. The risk analysis assessment was based on the Version 6.0 of 
+the non-permanence risk report, which is dated 11 December 2015. The findings and conclusion 
+regarding the non-permanence risk analysis undertaken for the project are summarized below for each 
+risk category and factor. Unless noted otherwise, the audit team agrees with the conclusion stated in the 
+non-permanence risk report. 
+The findings of the audit team regarding the risk scores applied for each factor are as follows. 
+Internal Risks 
+ 
+Project Management 
+Risk  Assessment of rationale, 
+assumptions and justification  
+Assessment of quality of 
+documentation and data provided  
+Conclusion 
+regarding 
+appropriateness 
+of the risk 
+rating  
+a) 
+No credits have been issued at this 
+time and therefore this risk score is 
+not applicable 
+N/A N/A 
+b) 
+No credits have been issued at this 
+time and therefore this risk score is 
+not applicable 
+N/A N/A 
+c) 
+The audit team is familiar with 
+many of the project management 
+team and was able to confirm that 
+this team designed and 
+The audit team was provided with 
+access to all of the company 
+websites showing the experience of 
+the team members. The audit team 
+The Risk Score 
+Is Appropriate 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+46 
+implemented these project types 
+dating back to 2011. The audit 
+team also reviewed published 
+literature showing further 
+experience in each of the required 
+areas 
+considers this high quality 
+d) 
+The management team has offices 
+in    Jakarta, Bogor and 
+Palangkaraya. The audit team 
+visited the Bogor office and 
+traveled to the project area during 
+the site visit and confirmed that the 
+project team is less than a days 
+travel from the project area. 
+Given that the audit team observed 
+this first hand, the audit team 
+considers their own experience and 
+knowledge high quality 
+The Risk Score 
+Is Appropriate 
+e) 
+The same individuals alluded to in 
+item c above have also 
+successfully implemented a 
+number of AFOLU projects around 
+the world, therefore meeting these 
+requirements. The audit team 
+reviewed the VCS project database 
+on 27 December 2015 providing 
+evidence for meeting this criteria 
+Also, as stated in item c above the 
+project team has evidence of the 
+types and number of projects 
+available on their respective 
+websites. In addition, the same 
+information is available on the VCS 
+website; therefore, the information 
+can be considered to be of high 
+quality 
+The Risk Score 
+Is Appropriate 
+f) 
+The audit team reviewed the PD 
+and confirmed that Section 6.3 and 
+Chapter 8 of the PD and confirmed 
+it includes a detailed description of 
+the adaptive management plan.  
+Through interviews with local 
+communities and project personnel, 
+and review of meeting minutes, the 
+audit team confirmed that the 
+adaptive strategies were the result of 
+a long collaborative process 
+therefore are considered high quality 
+The Risk Score 
+Is Appropriate 
+Total Project Management (PM) [as applicable, (a + b + c + d + e + f)] 
+Total may be less than zero. 
+The Risk Score 
+Is Appropriate 
+ 
+ 
+Financial Viability 
+Risk  Assessment of rationale, 
+assumptions and justification  
+Assessment of quality of 
+documentation and data provided  
+Conclusion 
+regarding 
+appropriateness 
+of the risk 
+rating  
+a) N/A N/A N/A 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+47 
+b) N/A N/A N/A 
+c) The audit team was provided with a 
+suite of documentation supporting 
+the breakeven analysis /19-20/ and 
+/25-29/. The audit team traced 
+organization budget values through 
+the series of project budget 
+worksheets and confirmed that the 
+secured funding values were 
+appropriate. In addition, the audit 
+team reviewed the current and 
+anticipated expenses and 
+confirmed that the values provided 
+for the anticipated project expenses 
+were reasonable 
+The documentation provided 
+included audited financial documents 
+and a detailed, user friendly budget 
+workbook that allowed for 
+assessment by the audit team and is 
+therefore of high quality 
+N/A 
+d) N/A N/A The Risk Score 
+Is Appropriate 
+e) N/A N/A N/A 
+f) N/A N/A N/A 
+g) N/A N/A The Risk Score 
+Is Appropriate 
+h) In addition to the documentation 
+provided above, the audit team 
+reviewed the funding received by 
+the project confirming it to be 
+sufficient to cover project cash out 
+prior to breakeven. 
+See item C above The Risk Score 
+Is Appropriate 
+i) See item g above See item g above The Risk Score 
+Is Appropriate 
+Total Financial Viability (FV) [as applicable, ((a, b, c or d) + (e, f, g or h) + i)] 
+Total may not be less than zero. 
+The Risk Score 
+Is Appropriate 
+ 
+ 
+Opportunity Cost 
+Risk  Assessment of rationale, Assessment of quality of Conclusion 
+regarding 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+48 
+assumptions and justification  documentation and data provided  appropriateness 
+of the risk 
+rating  
+a) N/A N/A N/A 
+b) N/A N/A N/A 
+c) N/A N/A N/A 
+d) The audit team reviewed the 
+project financial model, as well as 
+the costs and benefits supported by 
+confidential financial documents 
+and compared the analyses 
+performed by project personnel 
+confirming that item d is the 
+appropriate risk indicator for the 
+project 
+The audit team was provided with a 
+detailed financial model and 
+literature supporting the costs and 
+benefits associated with the baseline 
+scenario which have been audited by 
+investment organizations and the 
+Indonesian government making them 
+of high quality 
+The Risk Score 
+Is Appropriate 
+e) N/A N/A N/A 
+f) N/A N/A N/A 
+g) N/A N/A N/A 
+h) N/A  N/A 
+ 
+ 
+N/A 
+i) N/A N/A N/A 
+Total Opportunity Cost (OC) [as applicable, (a, b, c, d, e or f) + (g + h or i)] 
+Total may not be less than zero. 
+The Risk Score 
+Is Appropriate 
+ 
+ 
+Project Longevity 
+  
+Risk  Assessment of rationale, 
+assumptions and justification  
+Assessment of quality of 
+documentation and data provided 
+Risk  
+a) Whereas the project is legally required 
+to continue the management practices, 
+the audit team confirmed that the 
+The audit team considers the legal 
+application process for forest 
+concessions in Indonesia to be of 
+The Risk 
+Score Is 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+49 
+entire carbon accounting area is not 
+currently covered and thus does not 
+meet the requirement to use item b 
+below. While on site, the audit team 
+reviewed the financial and 
+management plans (requirements of 
+the concession application) confirming 
+the conformance to this criterion 
+high quality. Appropriate 
+b) N/A N/A N/A 
+Total Project Longevity (PL) 
+May not be less than zero 
+The Risk 
+Score Is 
+Appropriate 
+ 
+Internal Risk 
+Total Internal Risk (PM + FV + OC + PL)  
+Total may not be less than zero. 
+8 
+ 
+External risk 
+ 
+Land Tenure and Resource Access/Impacts 
+ 
+Risk  Assessment of rationale, assumptions and justification  Risk  
+a) 
+N/A N/A N/A 
+b) 
+As described in section 3.1.9 above the 
+audit team reviewed the concession for 
+the project area confirming the 
+ownership and use rights are held by 
+separate entities. 
+The audit team considers 
+government decrees to be of high 
+quality 
+The Risk 
+Score Is 
+Appropriate 
+c) 
+The audit team held interviews with 
+local communities and reviewed 
+concession process confirming no 
+disputes exist at this time 
+The audit team considers the 
+concession process and firsthand 
+knowledge through interviews of 
+high quality 
+The Risk 
+Score Is 
+Appropriate 
+d) 
+See above  
+See above 
+The Risk 
+Score Is 
+Appropriate 
+e) 
+The audit team reviewed the rationale 
+and made observations on site 
+confirming that the project is not likely 
+to have upstream impacts 
+The information provided in the PD 
+and the supporting literature is 
+considered high quality by the audit 
+team 
+The Risk 
+Score Is 
+Appropriate 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+50 
+f) 
+N/A N/A N/A 
+g) 
+N/A 
+N/A N/A 
+Total Land Tenure (LT) [as applicable, ((a or b) + c + d + e + f + g)] 
+Total may not be less than zero. 
+The Risk 
+Score Is 
+Appropriate 
+ 
+ 
+Community Engagement 
+ 
+Risk  Assessment of rationale, assumptions and justification  Risk  
+a) The audit team held interviews with 
+communities inside of the project zone 
+and confirmed that the all of the 
+individuals in the audit sample had 
+been consulted. The results of this 
+sample leads the audit team to believe 
+that the majority of communities inside 
+the project area have been consulted 
+Interviews, consultation meeting 
+minutes are considered high quality 
+The Risk 
+Score Is 
+Appropriate 
+b) N/A N/A N/A 
+c) The audit team also conducted the 
+CCB validation of the project and held 
+interviews with local communities 
+confirming that the project is designed 
+to provide net positive impacts on the 
+social and economic wellbeing of the 
+local communities who derive 
+livelihoods from the project area. 
+The CCB PD and Interviews with 
+local communities and are 
+considered high quality 
+The Risk 
+Score Is 
+Appropriate 
+Total Community Engagement (CE) [where applicable, (a + b + c)] 
+Total may be less than zero. 
+The Risk 
+Score Is 
+Appropriate 
+ 
+ 
+Political Risk 
+ 
+Risk  Assessment of rationale, assumptions and justification  Risk  
+a) N/A N/A N/A 
+b) The audit team observed project 
+personnel downloading and calculating 
+the political risk score confirming the 
+The World Bank governance 
+indicator online database is 
+considered of high quality 
+The Risk 
+Score Is 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+51 
+applicability of this indicator (http://info.worldbank.org/governanc
+e/wgi/index.aspx#home) 
+ 
+Appropriate 
+c) N/A N/A N/A 
+d) N/A N/A N/A 
+e) N/A N/A N/A 
+f) The audit team reviewed the Governors’ 
+Climate and Forest Task Force webisite 
+confirming that the project area meets 
+this criteria 
+The audit team considers the online 
+database of high quality 
+(
+http://www.gcftaskforce.org/) 
+ 
+ 
+The Risk 
+Score Is 
+Appropriate 
+Total Political (PC) [as applicable ((a, b, c, d or e) + f)] 
+Total may not be less than zero. 
+2 The Risk 
+Score Is 
+Appropriate 
+ 
+Natural Risk - Fire 
+Risk  Assessment of rationale, assumptions and justification  Risk  
+The audit team interviewed local communities and reviewed MODIS data for the project 
+area confirming that fires are not responsible for loss of carbon stocks for undrained 
+peatland. While on site the audit team did observe a suite of fires near the project area, 
+however these were taking place on drained soils. Whereas peatland fires are growing in 
+frequency and intensity in Indonesia, the available literature and online resources are in 
+agreement that these are anthropogenic fires 
+The Risk 
+Score Is 
+Appropriate 
+ 
+Natural Risk - Pest 
+Risk  Assessment of rationale, assumptions and justification  Risk  
+The audit team reviewed the evidence referenced in the PD and included an expert in 
+peatlands in the region and was able to confirm that risks from pests to more than 5% of 
+the carbon stocks is highly unlikely. 
+The Risk 
+Score Is 
+Appropriate 
+ 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+52 
+Natural Risk -  Extreme Weather 
+Risk  Assessment of rationale, assumptions and justification  Risk  
+The audit team interviewed local communities and reviewed the literature referenced in 
+the PD. In addition, the audit team included an expert in peatlands in the region. Based on 
+the literature and expert knowledge of the audit team confirms the score is appropriate 
+The Risk 
+Score Is 
+Appropriate 
+ 
+In summary, given the audit teams’ experience in the region, the audit team agrees with the assessment 
+of project personnel that the natural risk literature is indeed lacking. Overall, the audit team agrees with 
+the expert opinion that has been documented in the PD. Finally, the audit team agrees that the minimum 
+risk score of 10% has been appropriately applied in this project case. 
+3.4 Environmental Impact 
+The audit team also performed the validation of the CCB portion of the project and confirmed that project 
+personnel provide a complete environmental assessment within the PD. It is the experience of the audit 
+team that protecting native ecosystems through community incentives and alternative livelihoods is, by 
+design, more than likely to result in only positive environmental impacts. 
+3.5 Comments by Stakeholders 
+N/A. Stakeholder comments will be provided upon the completion of the CCB portion of the validation. 
+4 VALIDATION CONCLUSION 
+In conclusion, the project complies with the validation criteria for projects set out in VCS Version 3. The 
+audit team holds no qualifications or limitations regarding the above statement. Thus, the audit team has 
+validated the Project's compliance with the VCS Program requirements as set out in the VCS Rules. 
+While only time will tell whether the project is able to achieve the estimated GHG emission reductions, it 
+should be noted that the implementation of methodology has resulted in fairly conservative 
+methodological choices for ex-ante calculation. These conservative methodological choices, along with 
+the conservative choices inherent in the approach selected by project personnel, make it quite likely that 
+the project will meet or exceed the estimated GHG emission reductions. 
+ 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+53 
+APPENDIX A: VALIDATION FINDINGS  
+The following tables include all issues raised during the validation audit of the Katingan Restoration and 
+Conservation Project. It should be noted that all language under “Client Response” is a verbatim 
+transcription of responses to findings as provided by project personnel. 
+NCR 2015.1 dated 11/23/2015 
+Standard Reference: VCS Standard v3.5 Section 3.11.1 
+Document Reference: 2015-08-27 Final PD_RMU Section 3.2 
+Finding: The VCS Standard requires that: 
+The project description shall be accompanied by documentary evidence establishing conclusively one or 
+more of the following rights of use (see VCS document Program Definitions for definition of right of use) 
+accorded to the project proponent(s)..." 
+The information provided in the PD does not allow for an assessment of which right of use is being 
+claimed and therefore is not in conformance with the Standard. 
+Client Response: The client has provided evidence for the closure of this finding outside the cover of this 
+workbook. 
+Auditor Response: The audit team reviwed the revised PD and confirmed that section 3.2 of the PD now 
+states "A right of use arising or granted under statue, regulation or decree by a competent authority." The 
+amendments to the PD are sufficient for closing this finding. 
+Closing Remarks: The client's response adequately addresses the finding.  
+ 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+54 
+NCR 2015.2 dated 11/23/2015 
+Standard Reference: VCS Standard v3.5 Section 3.7.3 
+Document Reference: N/A 
+Finding: The VCS Standard requires that: 
+"AFOLU projects with a project start date on or after 8 March 2008 shall complete validation within five 
+years of the project start date." 
+Given that the deadline for validation completion has past, the project is not in conformance with the 
+Standard. 
+Client Response: The client has provided evidence for the closure of this finding outside the cover of this 
+workbook. 
+Auditor Response: The audit team was provided with an extension letter from the VCSA dated 28 
+October 2015 granting an extension for validation completion until 31 May, 2016 Therefore resolving this 
+issue. 
+Closing Remarks: The client's response adequately addresses the finding.  
+ 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+55 
+NCR 2015.3 dated 11/23/2015 
+Standard Reference: VCS Standard v3.5 Section 3.14.1, 1.1. VCS VM0007 - "Tool for the 
+Demonstration and Assessment of Additionality in VCS Agriculture, Forestry and Other Land Use 
+(AFOLU) Project Activities, v3.0 
+Document Reference: 2015-08-27 Final PD_RMU Section 4.5 
+Finding: The VCS Standard states "This document will be updated from time-to-time and readers shall 
+ensure that they are using the most current version of the document. Where external documents are 
+referenced, such as the IPCC 2006 Guidelines for National GHG Inventories, and such documents are 
+updated, the most recent version of the document shall be used." 
+The VM0007 methodology states "T-ADD must be used to identify credible alternative land use scenarios 
+and evaluate both the alternatives and the proposed project scenarios and to demonstrate the 
+additionality of the project." 
+The PD states that the “combined tool to identify the baseline scenario and demonstrate additionality in 
+A/R CDM project activities: Version 1” [17]" was used for demonstrating additionality, however the the 
+Tool provided along with the VM0007 methodology is the "Tool for the Demonstration and Assessment of 
+Additionality in VCS Agriculture, Forestry and Other Land Use (AFOLU) Project Activities, v3.0 and 
+therefore is not in conformance with the Standard. 
+Client Response: The client has provided evidence for the closure of this finding outside the cover of this 
+workbook. 
+Auditor Response: The audit team reviewed the information provided and confirmed that the 
+determination of baseline and additionality conform to the stepwise approach provided in the VCS 
+VT0001 additionality tool. 
+Closing Remarks: The client's response adequately addresses the finding.  
+ 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+56 
+NIR 2015.4 dated 11/23/2015 
+Standard Reference: "Tool for the Demonstration and Assessment of Additionality in VCS Agriculture, 
+Forestry and Other Land Use (AFOLU) Project Activities, v3.0 Sect6ion 2.3.1 (L) 
+Document Reference: 2015-08-27 Final PD_RMU Section 4.5.1.2 
+Finding: Tool for the Demonstration and Assessment of Additionality in VCS Agriculture, Forestry and 
+Other Land Use (AFOLU) Project Activities, v3.0 states: 
+"Provide transparent and documented evidence, and offer conservative interpretations of this 
+documented evidence, as to how it demonstrates the existence and significance of the identified barriers. 
+Anecdotal evidence can be included, but alone is not sufficient proof of barriers. The type of evidence to 
+be provided may include: 
+i) Relevant legislation, regulatory information or environmental/natural resource management norms, acts 
+or rules; 
+ii) Relevant (sectoral) studies or surveys (e.g. market surveys, technology studies, etc) undertaken by 
+universities, research institutions, NGOs, associations, companies, bilateral/ multilateral institutions, etc; 
+iv) Documentation of relevant market data (e.g. market prices, tariffs, rules); 
+v) Written documentation from the company or institution developing or implementing the 
+VCS AFOLU project activity or the VCS AFOLU project developer, such as minutes from 
+Board meetings, correspondence, feasibility studies, financial or budgetary information, 
+etc; 
+vi) Documents prepared by the project developer, contractors or project partners in the context of the 
+proposed project activity or similar previous project implementations; 
+vii) Written documentation of independent expert judgments from AFOLU related Government/ Non-
+Government bodies or individual experts, educational institutions (e.g. universities, technical schools, 
+training centers), professional associations and others. 
+iii) Relevant statistical data from national or international statistics;" 
+Whereas the PD provides a list and description of barriers, there has been no evidence provided to 
+support these claims and therefore is not in conformance with the Tool. 
+Client Response: The client has provided evidence for the closure of this finding outside the cover of this 
+workbook. 
+Auditor Response: The audit team reviewed the literature supporting barrier analysis provided in the PD 
+and confirmed the information provided  transparent and documented evidence, and offered conservative 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+57 
+interpretations of this documented evidence, as to how it demonstrates the existence and significance of 
+the identified barriers. The information provided is sufficient for closing this finding. 
+Closing Remarks: The client's response adequately addresses the finding.  
+ 
+NCR 2015.5 dated 11/23/2015 
+Standard Reference: VCS AFOLU Requirements v3.4. VCS Non-Permanence Risk Tool v3.2. VCS Non-
+Permanence Risk report v3.1 
+Document Reference: 2015-08-27 Final PD_RMU Appendix 2 
+Finding: The AFOLU Requirements state "Projects shall prepare a non-permanence risk report in 
+accordance with VCS document AFOLU Non-Permanence Risk Tool at both validation and verification. In 
+the case of projects that are not validated and verified simultaneously, having their initial risk 
+assessments validated at the time of VCS project validation will assist VCU buyers and sellers by 
+providing a more accurate early indication of the number of VCUs projects are expected to generate. The 
+non-permanence risk report shall be prepared using the VCS Non-Permanence Risk Report Template, 
+which may be included as an annex to the project description or monitoring report, as applicable, or 
+provided as a stand-alone document." 
+The VCS Non-Permanence Risk Tool states "This document shall be updated from time-to-time and 
+readers should ensure that they are using the most current version of the document." 
+The project has not used the VCS risk report template and therefore is not in conformance with the VCS 
+program documents. 
+Client Response: The client has provided evidence for the closure of this finding outside the cover of this 
+workbook. 
+Auditor Response: The audit team was provided with the non=permanence risk report and confirmed it 
+to be the most up to date verion of the risk report template and therefore closing this finding. 
+Closing Remarks: The client's response adequately addresses the finding.  
+ 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+58 
+NCR 2015.6 dated 11/23/2015 
+Standard Reference: VCS AFOLU Requirements v3.4. VCS Non-Permanence Risk Tool v3.2.  
+Document Reference: 2015-08-27 Final PD_RMU Appendix 2 
+Finding: The AFOLU Requirements state "Projects shall prepare a non-permanence risk report in 
+accordance with VCS document AFOLU Non-Permanence Risk Tool at both validation and verification. In 
+the case of projects that are not validated and verified simultaneously, having their initial risk 
+assessments validated at the time of VCS project validation will assist VCU buyers and sellers by 
+providing a more accurate early indication of the number of VCUs projects are expected to generate. The 
+non-permanence risk report shall be prepared using the VCS Non-Permanence Risk Report Template, 
+which may be included as an annex to the project description or monitoring report, as applicable, or 
+provided as a stand-alone document." 
+The VCS Non-Permanence Risk Tool states "This document shall be updated from time-to-time and 
+readers should ensure that they are using the most current version of the document." 
+The project has not used the latest version of the VCS Non-Permanence Risk Tool and therefore is not in 
+conformance with the VCS program documents. 
+Client Response: The client has provided evidence for the closure of this finding outside the cover of this 
+workbook. 
+Auditor Response: The audit team reviewed the amended risk report and confirmed it was completed in 
+conformance with the latest version of the AFOLU non-permanence risk tool. The amended risk report 
+using the appropriate tool is sufficient for closing this finding. 
+Closing Remarks: The client's response adequately addresses the finding.  
+ 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+59 
+NCR 2015.7 dated 11/23/2015 
+Standard Reference: VCS Non-Permanence Risk Tool v3.2 Section 2.2.1 (f) 
+Document Reference: 2015-08-27 Final PD_RMU Appendix 2 
+Finding: For a mitigation score of -2 in the project management section of the VCS Non-Permanence 
+Risk Tool an adaptive management plan must be in place. 
+Given that no adaptive management plan is currently in place the project is not in conformance with the 
+risk tool. 
+Client Response: The client has provided evidence for the closure of this finding outside the cover of this 
+workbook. 
+Auditor Response: The audit team reviewed the amended PD and confirmed that section 8 now 
+contains sufficient information to show that an adaptive management plan is in place and therefore 
+meeting the criteria for selecting the mitigation score. The information provided is sufficient for closing this 
+finding. 
+Closing Remarks: The client's response adequately addresses the finding.  
+ 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+60 
+NCR 2015.8 dated 11/23/2015 
+Standard Reference: VCS Non-Permanence Risk Tool v3.2 Section 2.2.3 (1) 
+Document Reference: 2015-08-27 Final PD_RMU Appendix 2 
+Finding: The Risk Tool states "Opportunity cost analysis shall be undertaken based on the alternative 
+land uses identified in the project’s additionality assessment (except where (2) applies). The onus is on 
+the project proponent to demonstrate and substantiate what constitutes credible alternative land use 
+scenarios within this area, and shall at a minimum include the activities identified in the baseline scenario. 
+The opportunity cost analysis shall include a net present value (NPV) analysis, covering the project 
+crediting period, of such alternatives as compared to the project, taking into consideration a conservative 
+estimate of revenue from GHG credit sales and other project revenue streams, and potential price 
+fluctuations of commodities impacted by the project. The financial discount rates used shall be based on 
+published sources and represent the appropriate risk for the relevant land use scenario. Estimates of 
+prices for GHG credit sales shall be based on published sources such as market intelligence reports. The 
+analysis shall be undertaken in a transparent manner and shall provide all relevant assumptions, 
+parameters, and data sources such that a reader may reproduce the analysis and determine the same 
+results." 
+The project has not provided the NPV analysis in a transparent manner and does not provide all relevant 
+assumptions, parameters, and data sources such that a reader may reproduce the analysis and 
+determine the same results and therefore is non in conformance with the Tool. 
+Client Response: The client has provided evidence for the closure of this finding outside the cover of this 
+workbook. 
+Auditor Response: The audit team was provided with a detailed NPV analysis conducted by project 
+personnel and confirmed that the analysis was performed correctly and includes verifiable assumptions 
+and inputs to allow the reader to reproduce the results. The analysis provided to the audit team is 
+sufficient for closing this finding. 
+Closing Remarks: The client's response adequately addresses the finding.  
+ 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+61 
+NIR 2015.9 dated 11/23/2015 
+Standard Reference: VCS Non-Permanence Risk Tool v3.2 Section 2.2.4 (3) 
+Document Reference: 2015-08-27 Final PD_RMU Appendix 2 
+Finding: The Risk Tool states "For all AFOLU project types, the entire project longevity shall be covered 
+by management and financial plans as submitted to local government or financial institutions, or 
+otherwise made public, in which the intention to continue management practices is stated and planned 
+for, and may include external evidence such as municipal land-use plans, institutional structures, or tools 
+such as ecological-economic zoning." 
+During the site visit, the audit team was provided with evidence that the project has submitted both 
+management plans and financial plans to government institutions, however they were not provided with 
+evidence that the financial plan covers the entire project longevity. 
+Client Response: The client has provided evidence for the closure of this finding outside the cover of this 
+workbook. 
+Auditor Response: While onsite, the audit team reviewed the concessions application submitted for the 
+project and confirmed that it meets the requirements for management and financial plans and was 
+submitted to the Indonesian government. The plans reviewed by the audit team and submitted to the 
+government are sufficient for the closing of this finding. 
+Closing Remarks: The client's response adequately addresses the finding.  
+ 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+62 
+NCR 2015.10 dated 11/23/2015 
+Standard Reference: VCS Non-Permanence Risk Tool v3.2 Section 2.2.4 (5) 
+Document Reference: 2015-08-27 Final PD_RMU Appendix 2 
+Finding: The Risk tool requires that to claim item b) of the project longevity score that a legal agreement 
+or requirement to continue the management practice be in place. 
+Whereas, the audit team understands that the concession provided to the audit team is by its nature 
+legally binding, the concession does not cover the entire project area and therefore is not in conformance 
+with the Tool. 
+Client Response: The client has provided evidence for the closure of this finding outside the cover of this 
+workbook. 
+Auditor Response: The audit team was provided with a revised risk report in which the clients are no 
+longer claiming item a for the project longevity risk score and thus is in conformance with the risk tool. 
+The information provided is sufficient for closing this finding. 
+Closing Remarks: The client's response adequately addresses the finding.  
+ 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+63 
+NCR 2015.11 dated 11/23/2015 
+Standard Reference: VCS Non-Permanence Risk Tool v3.2 Section 2.3.1 (10) 
+Document Reference: 2015-08-27 Final PD_RMU Appendix 2 
+Finding: The Risk Tool States "WRC projects unable to demonstrate that potential upstream and sea 
+impacts that could undermine issued credits in the next 10 years are irrelevant or expected to be 
+insignificant, or that there is a plan in place for effectively mitigating such impacts" receive a risk score of 
+5. 
+Additionally the Tool states "WRC projects are subject to upstream and sea impacts (eg, changes in 
+water and sediment flows, tidal processes or sea level rise), whether driven by natural processes or 
+resulting from policy decisions that may undermine credits that have been issued. Unless demonstrated 
+that such impacts on issued credits are irrelevant or expected to be insignificant within the next 10 years, 
+or that there is a plan in place for effectively mitigating such impacts, WRC projects shall apply the risk 
+score listed in Table 6 below. Note that WRC projects must also demonstrate that hydrologically 
+connected areas adjacent to the project boundary shall not have a significant negative impact on the 
+project area (see the AFOLU Requirements for the full requirements). 
+Whereas, the audit team was provided with a justification as to why this score is not applicable to the 
+project, no supporting evidence has been provided demonstrating such and therefore is not in 
+conformance with the Tool. 
+Client Response: The client has provided evidence for the closure of this finding outside the cover of this 
+workbook. 
+Auditor Response: The audit team reviewed the amended risk report and confirmed that the justification 
+provided is now consistent with observations on site and the expert knowledge of the audit team. The 
+information provided is sufficient for closing this finding. 
+Closing Remarks: The client's response adequately addresses the finding.  
+ 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+64 
+NIR 2015.12 dated 11/23/2015 
+Standard Reference: VCS Non-Permanence Risk Tool v3.2 Section 2.3.2  
+Document Reference: 2015-08-27 Final PD_RMU Appendix 2 
+Finding: The Risk tool states "Community engagement shall be assessed for projects where local 
+populations, including those living within or surrounding the project area (given as within 20 km of the 
+project boundary), are reliant on the project area, such as for essential food, fuel, fodder, medicines or 
+building materials. Where local populations are not reliant on the project area, the risk is not relevant to 
+the project and the risk rating for community engagement (CE) shall be zero. Evidence may include social 
+assessments such as household surveys and participatory rural appraisals." 
+Given that no evidence has been provided for this criterion, the audit team is unable to assess this and 
+therefore the project is not in conformance with the Tool. 
+Client Response: The client has provided evidence for the closure of this finding outside the cover of this 
+workbook. 
+Auditor Response: The audit team was provided with the community consultation activity log used by 
+project personnel and confirmed it to be consistent with the information gleaned through community 
+interviews while on site. The information provided is sufficient for closing this finding. 
+Closing Remarks: The client's response adequately addresses the finding.  
+ 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+65 
+NCR 2015.13 dated 11/23/2015 
+Standard Reference: VCS Non-Permanence Risk Tool v3.2 Section 2.3.3 
+Document Reference: 2015-08-27 Final PD_RMU Appendix 2 
+Finding: The Risk Tool States "A governance score (of between -2.5 and 2.5) shall be calculated from 
+the mean of Governance Scores across the six indicators of the World Bank Institute’s Worldwide 
+Governance Indicators (WGI), averaged over the most recent five years of available data. Governance 
+scores shall be translated into risk scores as set out in Table 9." 
+During the site visit the audit team discovered that the risk analysis had been performed using years other 
+than the most recent 5 years and therefore is not in conformance with the Tool. 
+Client Response: The client has provided evidence for the closure of this finding outside the cover of this 
+workbook. 
+Auditor Response: The audit team was provided with an updated risk report and confirmed the political 
+risk score was performed using the most recent 5 years of data. The information provided is sufficient for 
+closing this finding. 
+Closing Remarks: The client's response adequately addresses the finding.  
+ 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+66 
+NCR 2015.14 dated 11/23/2015 
+Standard Reference: VCS Standard v3.5 Section 3.1.1 
+Document Reference: N/A 
+Finding: The VCS Standard states "Projects shall meet all applicable rules and requirements set out 
+under the VCS Program, including this document. Projects shall be guided by the principles set out in 
+Section 2.4.1." 
+Additionally, Accuracy under section 2.4.1 is defined as "Reduce bias and uncertainties as far as is 
+practical." 
+In reviewing the carbon stock estimates for tree biomass, the audit team noted that multiple sampling 
+designs had been employed to estimate carbon stocks, however the statistical estimators employed to 
+estimate the mean and total do not account for the multiple designs and therefore may be introducing 
+bias into the estimates. Given the current statistical methods used to estimate tree biomass, the project is 
+not in conformance with the Standard. 
+Client Response: The client has provided evidence for the closure of this finding outside the cover of this 
+workbook. 
+Auditor Response: The audit team was provided with a comparative analysis of the project sampling 
+using weighted and unweighted estimates of carbon stocks and confirmed that the methods employed for 
+the estimate of aboveground biomass stocks results in a conservative estimate of GHG reductions and 
+thus is in conformance with the VCS rules. . The information provided is sufficient for closing this finding. 
+Closing Remarks: The client's response adequately addresses the finding.  
+ 
+
+ VALIDATION REPORT: VCS Version 3   
+ 
+v3.3 
+67 
+NCR 2015.15 dated 11/23/2015 
+Standard Reference: VCS Standard v3.5 Section 3.1.1 
+Document Reference: N/A 
+Finding: The VCS Standard states "Projects shall meet all applicable rules and requirements set out 
+under the VCS Program, including this document. Projects shall be guided by the principles set out in 
+Section 2.4.1." 
+Additionally, Accuracy under section 2.4.1 is defined as "Reduce bias and uncertainties as far as is 
+practical." 
+In reviewing the carbon stock estimates for peat biomass, the audit team noted that multiple sampling 
+designs had been employed to estimate carbon stocks, however the statistical estimators employed to 
+estimate the mean and total do not account for the multiple designs and therefore may be introducing 
+bias into the estimates. Given the current statistical methods used to estimate peat biomass, the project is 
+not in conformance with the Standard. 
+Client Response: The client has provided evidence for the closure of this finding outside the cover of this 
+workbook. 
+Auditor Response:  The audit team was provided with a detailed workbook showing the calculation of 
+peat stock uncertainty, the audit team agrees that the Kriging process employed by the project produced 
+the actual sample for the resulting reported stocks and the initial concern of bias in the sampling design is 
+no longer a concern of the audit team. The information provided is sufficient for closing this finding. 
+Closing Remarks: The client's response adequately addresses the finding.  
+ 
+ 
+ 

@@ -1,0 +1,2347 @@
+
+
+ 
+ 
+ 
+ 
+INSTALLATION OF HIGH EFFICIENCY 
+WOOD BURNING COOKSTOVES IN 
+INDONESIA 2 
+Document Prepared by 
+C-Quest Capital Stoves Asia Limited 
+ 
+Project Title  
+Installation of high efficiency wood burning cookstoves in Indonesia 2 
+Version 
+02 
+Date of Issue 
+16-August-2022 
+Prepared By 
+C-Quest Capital Stoves Asia Limited 
+Contact 
+Address: C-Quest Capital Stoves Asia Limited,  
+Brumby Centre, Lot 42, Jalan Muhibbah,  
+87000 Labuan F. T., Malaysia, 
+Telephone: +6 087 593828 
+Email: cqc-operations@cquestcapital.com 
+Website: www.cquestcapital.com 
+
+ 
+CONTENTS 
+1 PROJECT DETAILS................................................................................................. 4 
+1.1 Summary Description of the Project ................................................................................ 4 
+1.2 Sectoral Scope and Project Type .................................................................................... 4 
+1.3 Project Eligibility .................................................................................................................. 5 
+1.4 Project Design ..................................................................................................................... 5 
+1.5 Project Proponent .............................................................................................................. 6 
+1.6 Other Entities Involved in the Project ............................................................................... 7 
+1.7 Ownership ............................................................................................................................ 7 
+1.8 Project Start Date ............................................................................................................... 7 
+1.9 Project Crediting Period .................................................................................................... 7 
+1.10 Project Scale and Estimated GHG Emission Reductions or Removals ........................ 7 
+1.11 Description of the Project Activity .................................................................................... 8 
+1.12 Project Location ............................................................................................................... 11 
+1.13 Conditions Prior to Project Initiation ............................................................................... 12 
+1.14 Compliance with Laws, Statutes and Other Regulatory Frameworks ....................... 12 
+1.15 Participation under Other GHG Programs .................................................................... 12 
+1.16 Other Forms of Credit ....................................................................................................... 12 
+1.17 Sustainable Development Contributions ...................................................................... 13 
+1.18 Additional Information Relevant to the Project ........................................................... 13 
+2 SAFEGUARDS ..................................................................................................... 14 
+2.1 No Net Harm ..................................................................................................................... 14 
+2.2 Local Stakeholder Consultation ..................................................................................... 14 
+2.3 Environmental Impact ..................................................................................................... 14 
+2.4 Public Comments ............................................................................................................. 14 
+2.5 AFOLU-Specific Safeguards ............................................................................................ 14 
+3 APPLICATION OF METHODOLOGY ................................................................... 14 
+3.1 Title and Reference of Methodology ............................................................................ 14 
+3.2 Applicability of Methodology ......................................................................................... 14 
+3.3 Project Boundary .............................................................................................................. 16 
+3.4 Baseline Scenario ............................................................................................................. 18 
+
+ 
+3.5 Additionality ...................................................................................................................... 18 
+3.6 Methodology Deviations ................................................................................................. 19 
+4 QUANTIFICATION OF GHG EMISSION REDUCTIONS AND REMOVALS .......... 19 
+4.1 Baseline Emissions ............................................................................................................. 19 
+4.2 Project Emissions ............................................................................................................... 19 
+4.3 Leakage ............................................................................................................................. 19 
+4.4 Net GHG Emission Reductions and Removals .............................................................. 19 
+5 MONITORING .................................................................................................... 27 
+5.1 Data and Parameters Available at Validation ............................................................ 27 
+5.2 Data and Parameters Monitored ................................................................................... 29 
+5.3 Monitoring Plan ................................................................................................................. 33 
+
+1 PROJECT DETAILS 
+1.1 Summary Description of the Project 
+A
+ summary description of the 
+technologies/ measures 
+to be implemented by the project.
+ 
+The  project  status  is  under  development.  The  project  involves  distribution  of  fuel-efficient 
+improved cookstoves (ICS) in Indonesia. The ICS disseminated through this project will replace 
+the baseline cookstoves.  
+Through  this  project,  the  distribution  and  installation  of  approximately  500,000  ICS  will  be 
+undertaken for households in Indonesia. It is intended that under this project two types of single 
+pot  portable  stove  will  be  distributed,  which  are  SSM  S32-X  stove  and  Baldwin  stove.  Each 
+household will receive up to 2 ICS per household, it could comprise of same or different types of 
+ICS. The ICS will burn wood more efficiently thereby improving thermal transfer to pots, hence 
+saving fuel. Not only will this halt the rapidly progressing deforestation in Indonesia but will also 
+reduce health hazards from indoor smoke pollution and women and children will have to spend 
+less time collecting firewood. 
+The end user will be informed in advance that the use of ICS generates carbon finance which in 
+turn is used for subsidising the price of ICS and for recovering project implementation costs. 
+The location of the project. 
+The project will take place in Indonesia. The details of the project location are provided in Section 
+1.12. 
+ 
+An explanation of how the project is expected to generate GHG emission reductions or removals. 
+The ICS will substitute the current cooking practices of using the three stone fired stoves or a 
+conventional device with no improved combustion air supply or flue gas ventilation, that is without 
+a grate or a chimney. The ICS burns wood more efficiently thereby improving thermal transfer to 
+pots, hence saving fuel and lowering greenhouse gas emissions. 
+A brief description of the scenario existing prior to the implementation of the project. 
+The baseline scenario is the continued use of three stone fired or a conventional cook stove 
+without a grate or a chimney by the target population burning non-renewable wood fuel to meet 
+similar thermal energy needs in the absence of project activity. 
+An estimate of annual average and total GHG emission reductions and removals. 
+The average annual GHG emission reduction from the project is expected to be 3,263,178 t CO
+2
+e. 
+Total GHG emission reduction from the project is expected to be 32,631,780 tCO
+2
+e over the entire 
+crediting period of 10 years 
+1.2 Sectoral Scope and Project Type 
+The project is categorised under type/category as below: 
+
+ 
+Project Description: VCS Version 4.1 
+5 
+ 
+a) Sectoral scope: 03 - Energy demand 
+b) Type: II – Energy efficiency improvement projects 
+ 
+The project is a grouped project. 
+1.3 Project Eligibility 
+The project involves energy efficient cookstove distribution which falls under the category of 
+efficiency improvements in thermal applications, therefore it is eligible under the scope of VCS 
+Program. 
+1.4 Project Design 
+☐  The project includes a single location or installation only 
+☐  The project includes multiple locations or project activity instances, but is not being 
+developed as a grouped project 
+☒  The project is a grouped project 
+Eligibility Criteria 
+For the inclusion of new project activity instances (each SSM-S32-X Stove or Baldwin Stove), the 
+project proponent shall ensure that it meets the eligibility criteria below. 
+No.    Criterion How the new project activity instances to 
+comply 
+1 
+Meet the applicability conditions set out 
+in  the  methodology  applied  to  the 
+project  
+New  project  activity  instances (each SSM-
+S32-X Stove or Baldwin Stove) will meet the 
+applicability conditions set out in Section 3.2 
+where the target of the end-user is household 
+and  the  ICS  deployed  is  at  least  25%  of 
+thermal efficiency.  
+2 
+Use  the  technologies  or  measures 
+specified in the project description.  
+SSM-S32-X Stoves and Baldwin Stoves to be 
+adopted in the project,  
+3 
+Apply the technologies or measures in 
+the same  manner  as  specified  in  the 
+project description.  
+SSM-S32-X Stoves and Baldwin Stoves to be 
+adopted  in  the  project  and  it  will  replace 
+traditional cookstoves in household 
+4 
+Are  subject  to  the  baseline  scenario 
+determined  in  the  project  description 
+for  the  specified  project  activity  and 
+geographic area. 
+The  new  project  activity  instances  will  be 
+distributed within Indonesia only and subject 
+to the same baseline scenario determined in 
+Section 3.4. 
+5 
+Have  characteristics  with  respect  to 
+additionality  that  are  consistent  with 
+the  initial  instances  for  the  specified 
+project activity and geographic area.  
+All new project activity instances will use the 
+activity  method  for  demonstration  of 
+additionality.  
+ 
+
+ 
+Project Description: VCS Version 4.1 
+6 
+Step 1: Regulatory Surplus 
+There   is   no   mandated   government 
+programme or policy in host country of this 
+project  ensuring  the  distribution  of  new 
+project activity instances. 
+ 
+Step 2: Positive List   
+The  inclusion  of  new  project  activity 
+instances will comply with positive list as it 
+satisfies criterion 1  where  it meets  all the 
+applicability conditions of the methodology. 
+6 
+Where  a  capacity  limit  applies  to  a 
+project activity included in the project, 
+no project activity instance shall exceed 
+such limit. Further, no single cluster of 
+project activity instances shall exceed 
+the  capacity  limit,  determined  as 
+follows:  
+1) Each  project  activity  instance 
+that exceeds one percent of the 
+capacity   limit   shall   be 
+identified.  
+2) Such instances shall be divided 
+into  clusters,  whereby  each 
+cluster  is  comprised  of  any 
+system of instances such that 
+each  instance  is  within  one 
+kilometer of at least one other 
+instance   in   the   cluster. 
+Instances  that  are  not  within 
+one  kilometer  of  any  other 
+instance shall not be assigned 
+to clusters.  
+3) None  of  the  clusters  shall 
+exceed  the  capacity  limit  and 
+no  further  project  activity 
+instances shall be added to the 
+project that would cause any of 
+the  clusters  to  exceed  the 
+capacity limit.  
+ 
+No project activity instance shall exceed the 
+applicable limit, which is 180 GWh
+th
+/y.  
+ 
+The expected annual energy saving for each 
+project activity instance is approximately 0.03 
+GWh
+th
+/y or 0.017% of the limit. 
+ 
+As the annual energy saving is below 1% of the 
+limit, therefore no project activity instance is 
+identified and divided into clusters. 
+ 
+ 
+ 
+1.5 Project Proponent 
+ 
+Organization name 
+C-Quest Capital Stoves Asia Limited 
+Contact person 
+Ken Newcombe 
+
+ 
+Project Description: VCS Version 4.1 
+7 
+Title Director 
+Address Brumby Centre, Lot 42, Jalan Muhibbah, 87000 Labuan, Malaysia. 
+Telephone +6 087 423828 
+Email cqc-operations@cquestcapital.com  
+1.6 Other Entities Involved in the Project 
+At the present, C-Quest Capital Stoves Asia Limited is the sole entity involved in the project.  
+1.7 Ownership 
+The project ownership is with C-Quest Capital Stoves Asia Limited. 
+ 
+Further, Registration certificate cum consent deed signed by end user (stove owner) to PP during 
+the registration process includes the statutory clause “Acknowledgement and Carbon Rights 
+Waiver – My household hereby transfers and waives all and any rights in connection with the 
+improved cookstove or project and greenhouse gas emission reductions or other environmental 
+or social attributes generated by the installation and use of the improved cookstove to C-Quest 
+Capital Stoves Asia Ltd and we understand that C-Quest Capital Stoves Asia Ltd may, at any time, 
+transfer those rights to an affiliate without further notice or consent”.   
+ This is in line with clause 5 of section 3.6.1. of VCS project standard version 04.2. 
+1.8 Project Start Date 
+01-July-2022 (The estimated date of distribution of first ICS under this grouped project) 
+1.9 Project Crediting Period 
+01-July-2022 to 30-June-2032, 10 years fixed crediting period 
+1.10 Project Scale and Estimated GHG Emission Reductions or Removals 
+The estimated annual GHG emission reductions/removals of the project are: 
+☐  <20,000 tCO
+2
+e/year 
+☐  20,000 – 100,000 tCO
+2
+e/year 
+☐  100,001 – 1,000,000 tCO
+2
+e/year 
+☒  >1,000,000 tCO
+2
+e/year 
+ 
+
+ 
+Project Description: VCS Version 4.1 
+8 
+Project Scale 
+Project 
+ 
+Large project 
+√ 
+ 
+Year Estimated GHG emission 
+reductions or removals (tCO
+2
+e) 
+Year 2022-2023 
+6,160,396 
+Year 2023-2024 
+5,474,781 
+Year 2024-2025 
+4,805,245 
+Year 2025-2026 
+4,151,552 
+Year 2026-2027 
+3,513,467 
+Year 2027-2028 
+2,890,759 
+Year 2028-2029 
+2,283,200 
+Year 2029-2030 
+1,690,565 
+Year 2030-2031 
+1,112,632 
+Year 2031-2032 
+549,183 
+Total estimated ERs 
+32,631,780 
+Total number of crediting years 
+10 
+Average annual ERs 
+3,263,178 
+1.11 Description of the Project Activity 
+The  project  involves  distribution  of  fuel-efficient  improved  cookstoves  (ICS)  to  replace  the 
+baseline cookstoves in households. 
+The  ICS  to  be  deployed  under  this  project  are  SSM  S32-X  stove  and  Baldwin  stove  which 
+substantially reduce fuel consumption and emissions for conducting cooking and water heating 
+tasks in homes.   
+
+ 
+Project Description: VCS Version 4.1 
+9 
+   
+SSM S32-X stove with pot skirt 
+ 
+Table 1: Technical description of SSM S32-X stove with pot skirt 
+No Parameter Value 
+1 Thermal Efficiency   52.68% (with pot skirt) 
+2 Dimensions  25.5 cm height, 32 cm diameter  
+3 Material  
+ Stove Body: Stainless Steel   
+ Pot Rest: Cast Iron 
+ Pot Skirt: Stainless Steel  
+ Burning Chamber: Stainless Steel and Ceramic 
+ Fuel Feeding Door: Stainless Steel  
+ Inner Fuel Shelf: Stainless Steel 
+ Outer Fuel Shelf: Powder-coated steel 
+4 Life Span  10 years 
+ 
+
+ 
+Project Description: VCS Version 4.1 
+10 
+ 
+Baldwin stove 
+Table 2: Technical description of Baldwin stove  
+No Parameter Value 
+1  Thermal Efficiency   52.07% 
+2  Dimensions  27.0 cm height; 23.0 cm to 30.0 cm adjustable diameter  
+3 Material  
+ Stove Body: Stainless Steel   
+ Pot Rest: Cast Iron 
+ Door frame: Stainless Steel 
+ Pot Rest: Steel  
+ Legs: Steel 
+ Inner Fuel Shelf: Cast Iron 
+4 Life Span  10 years  
+ 
+Data collection of ICS end-user 
+Project proponent must gather the necessary information to identify households using its ICS 
+during the course of the project. To facilitate this process, each ICS will be assigned a unique 
+serial number. This number will be recorded during the registration process together with the 
+following information (as appropriate and as available): 
+ Name of ICS user or head of the household 
+ Address / GPS of ICS household 
+ Phone number of ICS user or household, where available. 
+ Stove model 
+ Date of distribution/installation 
+ ICS serial number 
+ Retailer/distributer information 
+ 
+
+ 
+Project Description: VCS Version 4.1 
+11 
+The information collected will be stored in the electronic database which will serve as project 
+database for project monitoring and sampling purposes. 
+1.12 Project Location 
+The project location will be the geographical boundary of Republic of Indonesia with coordinates 
+0°47'21.4'' S latitude and 113°55.28' E longitude.
+1
+ 
+ 
+ 
+Indonesia map
+2
+ 
+ 
+ 
+Map of project area (See KML file attached) 
+ 
+ 
+1
+ https://www.geodatos.net/en/coordinates/indonesia 
+2
+ http://www.freeworldmaps.net/asia/indonesia/indonesia-provinces-map.jpg 
+ 
+
+ 
+Project Description: VCS Version 4.1 
+12 
+1.13 Conditions Prior to Project Initiation 
+The  conditions  prior  to  project  initiation  is  the  continued  use  of  non-renewable  wood  fuel 
+(firewood) by the target population to meet similar thermal energy needs as provided by project 
+cookstoves in absence of project activity. The pre-project devices are inefficient three-stone fires 
+or  conventional  systems  with  no  improved  combustion  air  supply  mechanism  and  flue  gas 
+ventilation system i.e., traditional stoves. 
+1.14 Compliance with Laws, Statutes and Other Regulatory Frameworks 
+There  are  no  laws  and  regulations  governing  the  use  of  improved  cookstoves  in  Indonesia 
+households. The project is a voluntary effort by the project proponent. 
+A review is made on Indonesia environmental laws and regulations as below: 
+a) Environmental Protection and Management (Law No. 32/2009) 
+b) Waste Management (Law No. 18/2008) 
+ 
+There is no negative concern made on improved cookstoves project from the above laws and 
+regulations. 
+1.15 Participation under Other GHG Programs 
+ Projects Registered (or seeking registration) under Other GHG Program(s) 
+The project has not been registered, nor is it seeking registration under any other GHG program. 
+ Projects Rejected by Other GHG Programs 
+The project has not been rejected by any other GHG program. 
+1.16 Other Forms of Credit 
+ Emissions Trading Programs and Other Binding Limits 
+Does the project reduce GHG emissions from activities that are included in an emissions 
+trading program or any other mechanism that includes GHG allowance trading? 
+☐  Yes   ☒  No 
+ Other Forms of Environmental Credit 
+Has the project sought or received another form of GHG-related credit, including renewable 
+energy certificates? 
+☐  Yes   ☒  No 
+
+ 
+Project Description: VCS Version 4.1 
+13 
+1.17 Sustainable Development Contributions 
+The project contributes to sustainable development in a number of ways: 
+a) Environmental Sustainability 
+ The project will help significantly reduce greenhouse gas emissions over its lifetime. 
+ The project will help reduce the use of non-renewable biomass from forests, thus assist in 
+conserving existing forest stock and the protection of natural forest eco-systems and wildlife 
+habitats. 
+ 
+b) Social Sustainability 
+ Considerably less time need to be spent collecting wood fuel for the family home thereby 
+reducing  the  work  burden  on  rural  families  and  presenting  alternative  opportunities  for 
+economic development. 
+ The amount of indoor pollutants from the burning of biomass in the family home will be 
+reduced. Less carbon dioxide, carbon monoxide and particulates will be emitted due to the 
+decrease in total biomass burned and an increase in the temperature of combustion. 
+ The stove provides a safer method for combusting biomass for cooking, helping to reduce 
+burn injuries, especially for children, in the family home. 
+ 
+c) Economic Sustainability 
+ The  project  will  help  develop  a  section  of  the  local  economy,  in  the  distribution,  local 
+assembly, maintenance and monitoring activities. 
+ Household expenditures on cooking fuel will be reduced through the use of the ICS. 
+ Saved household labour can be diverted to more productive economic activities. 
+ The  project  will  create  local  employment  opportunities  in  operational  and  management 
+roles, as well as future assembly and/or manufacturing initiatives. 
+ 
+Project will be pursued for SD Vista labeling, so detail of SDG achieved by the project activity 
+will be provided in the SD Vista PD. 
+1.18 Additional Information Relevant to the Project  
+Leakage Management 
+Not applicable as the project adopts a net gross adjustment factor of 95% to account for leakage. 
+Commercially Sensitive Information  
+No commercially sensitive information has been excluded from the public version of the project 
+description. 
+Further Information 
+Not applicable. 
+
+ 
+Project Description: VCS Version 4.1 
+14 
+2 SAFEGUARDS 
+2.1 No Net Harm 
+The project will only bring positive impacts on environmental and socio-economic aspects as 
+elaborated in Section 1.17. No potential negative environmental or socio-economic impacts have 
+been identified for the project. 
+2.2 Local Stakeholder Consultation 
+This section  is not applicable as the project is listed  under development. Local Stakeholder 
+Consultation details will be updated later at the time of VVB validation process. 
+2.3 Environmental Impact 
+No negative environmental impacts have been identified from the project and environmental 
+impact assessment (EIA) is not required for the project.  
+2.4 Public Comments 
+This section is not applicable as the project is not listed under VERRA yet.  
+2.5 AFOLU-Specific Safeguards 
+This section is not applicable as the project is a non-AFOLU project. 
+3 APPLICATION OF METHODOLOGY 
+3.1 Title and Reference of Methodology  
+VMR0006: Methodology for Installation of High Efficiency Firewood Cookstoves, Version 1.1
+3
+ 
+3.2 Applicability of Methodology 
+Applicability criterion How the project complies 
+ 
+3
+  https://verra.org/wp-content/uploads/2021/07/VMR0006-Methodology-for-Installation-of-High-Efficiency-Firewood-
+Cookstoves-v1.1.pdf 
+
+ 
+Project Description: VCS Version 4.1 
+15 
+Project  activities  shall  be  implemented  in 
+domestic  premises  or  in  community-based 
+kitchen 
+The proposed project involves deployment of 
+ICS only in households. 
+The  project  stove  shall  have  specified  high-
+power thermal efficiency of at least 25% per 
+the  manufacturer’s  specifications  and  shall 
+exclusively  use  woody  biomass  and  can  be 
+single pot or multi-pot; 
+SSM  S32-X  stove  and  the  Baldwin  stove 
+planned to be distributed under this project 
+are  single  pot  wood  cookstoves  that  have 
+efficiency of 52.68% and 52.07% respectively 
+as per the manufacturer’s specifications. 
+Non-renewable biomass has been used in the 
+project  region  since  31  December  1989, 
+using  survey  methods  or  referring  to 
+published  literature,  official  reports  or 
+statistics; 
+Non-renewable biomass has been used since 
+31  December  1989  in  Indonesia  as 
+demonstrated at below. 
+For  the  specific  case  of  biomass  residues 
+processed  as  a  fuel  (e.g.  briquettes,  wood 
+chips 
+Not  applicable.  The  ICS  is  introduced  as 
+energy efficiency measure to replace baseline 
+stoves and reduce the use of non-renewable 
+biomass for combustion. 
+The CDM-PDD or CDM-PoA-DD/CPA-DD shall 
+explain the proposed method for distribution 
+of  project  devices  including  the  method  to 
+avoid double counting of emission reductions 
+such as unique identifications of product and 
+end-user locations (e.g. programme logo). 
+The project proponent will ensure that every 
+cookstove that will be distributed within the 
+project area will have a unique ID comprising 
+of  a  combination  of  customer  name, 
+geographical  location  as  well  as  a  serial 
+number to identify the ICS end users of this 
+project activity. In addition, the project will be 
+cross  checked  against  other  CDM  project 
+activity  operating  in  the  country  using  the 
+UNFCCC,  the  Gold  Standard,  and  other 
+relevant voluntary carbon schemes to ensure 
+that the ICS is not included in any other CDM 
+project  activity  or  voluntary  project  activity. 
+Also, the approach adopted for distribution of 
+cookstoves  will  be  elaborately  described  in 
+the monitoring report. 
+The CDM-PDD or CDM-PoA-DD/CPA-DD shall 
+also  explain  how  the  proposed  procedures 
+prevent   double   counting   of   emission 
+reductions, for example to avoid that project 
+stove manufacturers, wholesale providers or 
+An  undertaking  will  be  taken  by  all  the 
+beneficiaries,  i.e.,  the  end-users  indicating 
+that  the  ownership  of  the  current  project 
+solely  lies  with  C-Quest  Capital  Stoves  Asia 
+Limited.  The  beneficiaries  are  completely 
+
+ 
+Project Description: VCS Version 4.1 
+16 
+others  claim  credit  for  emission  reductions 
+from the project devices. 
+dependent on our experts and field staff who 
+provide  capacity  building  and  required 
+training to the community to use the ICS. To 
+further ensure that the ownership rights of the 
+project  are  reserved  with  CQC,  all  the 
+stakeholders relevant, i.e., 
+manufacturers/wholesale  providers  will  be 
+signing an undertaking which will clearly state 
+that  the  project  proponent  or  an  entity 
+authorized by it shall be the sole owner of the 
+VCUs arising from the project. 
+Evidence that the non-renewable biomass has been in use since 1989 
+Non-renewable biomass has been in use since 31 December 1989 as evidenced by various FAO 
+statistical data. The Global Forest Resources Assessment 2010
+4
+  (FAO) indicates that forest areas 
+decline yearly. Between years 1990 and 2000, Indonesia lost on average of 1.913,600 hectares 
+of forest per year.  This amounts to an average annual deforestation rate of 1.61%. Between years 
+2000 and 2010, the rate of forest loss is 5% or 0.50% per annum.  In total, between 1990 and 
+2010, Indonesia lost 20.3% of its forest cover, or around 24,113,000 hectares.  
+Decline in forest area between 1990 – 2010 
+ 
+Thus, it can be concluded that losses have been reported in forest areas from before 1989 
+thereby hinting that fuelwood used across Indonesia comes from non-renewable sources. 
+3.3 Project Boundary 
+Source Gas Included? Justification/Explanation 
+Baseline
+ 
+Emission from 
+use of non- 
+renewable 
+CO
+2
+ 
+Yes Major source 
+CH
+4
+ 
+Yes Major source 
+ 
+4
+  FAO, Global Forest Resources Assessment 2010, Country Report, Indonesia, page 10 
+https://www.fao.org/docrep/013/al531E/al531E.pdf 
+
+ 
+Project Description: VCS Version 4.1 
+17 
+biomass/Fossil 
+fuel 
+N
+2
+O 
+Yes Major source 
+Other No No other source identified 
+Project 
+Emission from 
+use of non- 
+renewable 
+biomass 
+CO
+2
+ 
+Yes Major source 
+CH
+4
+ 
+Yes Major source 
+N
+2
+O 
+Yes Major source 
+Other 
+No No other source identified 
+ 
+ A representation of the baseline scenario and project scenario boundaries are given as below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Baseline scenario 
+Project scenario 
+
+ 
+Project Description: VCS Version 4.1 
+18 
+3.4 Baseline Scenario 
+The baseline scenario is the continued use of three stone fired cookstoves or a conventional 
+device with no improved combustion air supply or flue gas ventilation (that is without a grate or 
+a  chimney)  by  the  target  population  by  burning  non-renewable  woody  biomass  to  meet  the 
+thermal energy needs. The project cookstoves (ICS) will be deployed substituting the less efficient 
+baseline stoves. 
+The baseline cookstoves are three-stone fires or conventional systems, which lacks efficient 
+combustion chambers/air supply mechanism and flue gas ventilation system, leading to more 
+wood fuel use and higher GHG emissions. While the project stoves continue to use the same 
+wood fuel, due to higher efficiency, it reduces the need (saves) to burn more wood fuel for the 
+same purposes (household cooking).    
+It is a common and traditional practice in the project area to use three stone fired stoves or a 
+conventional device with no improved combustion air supply or flue gas ventilation, that is without 
+a  grate  or  a  chimney.  Hence,  the  applicable  efficiency  fraction  for  three  stones  fired  or 
+conventional stoves which stands at 0.1 (default) as per the applied methodology
+5
+ is considered 
+in the baseline estimations. 
+Baseline scenario can also be verified from the registration cum consent deed signed by the 
+registered stove user at the time of distribution of the project device (ICS), which confirms that, 
+registered  user  voluntarily  adopting  the  project  stove  and  was  using  the  three  stone  fire  or 
+conventional device (without a grate or a chimney) before switching to the project stove. 
+3.5 Additionality 
+The methodology uses activity method for the demonstration of additionality. 
+Activity Method 
+Step 1: Regulatory Surplus 
+There is no mandated government programme or policy in host country of this project ensuring 
+the distribution of domestic fuel-efficient cookstoves. The project is not mandated by any law, 
+statute or other regulatory framework, or for UNFCCC non-Annex I countries, any systematically 
+enforced law, statute or other regulatory framework. 
+Households  may  only  participate  voluntarily  in  this  project.  It  is  hereby  confirmed  that  the 
+proposed project is a voluntary coordinated action by CQC. 
+Step 2: Positive List 
+ 
+5
+ Pg.19, section 9.2, VMR0006, Methodology for Installation of High Efficiency Firewood Cookstoves 
+
+ 
+Project Description: VCS Version 4.1 
+19 
+As  per  Section 3.2, the  project  meets  the applicability  conditions of  the methodology  which 
+represent the positive list. 
+The project installs the ICS at zero cost to the household and has no other source of revenue 
+other than the sale of GHG credits. 
+The project is not implemented as part of government schemes or supported by multilateral 
+funds. 
+Conclusion: As the project fulfills the conditions above, it is deemed additional.  
+Step 3: Project Method  
+This step is not applicable under project activity because the stoves are provided at zero cost to 
+the end-users.  
+3.6 Methodology Deviations 
+The project did not apply any methodology deviations
+. 
+ 
+4 QUANTIFICATION OF GHG EMISSION 
+REDUCTIONS AND REMOVALS 
+4.1 Baseline Emissions 
+The methodology does not account for baseline emissions separately, but instead quantifies 
+net emission reductions achieved by the project. Please refer to Section 4.4 
+4.2 Project Emissions 
+The methodology does not account for project emissions separately, but instead quantifies net 
+emission reductions achieved by the project. Please refer to Section 4.4.   
+4.3 Leakage 
+Leakage shall be considered as default 0.95 in accordance with methodology.  
+4.4 Net GHG Emission Reductions and Removals 
+
+ 
+Project Description: VCS Version 4.1 
+20 
+The  improved  cookstove  is  introduced  as  energy  efficiency  measure  in  the  project,  therefore 
+equations 1 and 2 of the methodology will be applied to calculate the net GHG emission reductions.  
+ 
+Equation (1) 
+Where: 
+푖 
+= Indices for the situation where more than one type/model of improved 
+cookstove is introduced to replace three-stone fire 
+j = Indices for the situation where there is more than one batch of improved 
+cookstove of type i 
+퐸푅
+௬
+ 
+= Emission reductions during year y in t CO
+2
+e 
+퐸푅
+௬,௜,௝
+ 
+= Emission reductions by improved cookstove of type i and batch j during 
+year y in t CO
+2
+e 
+ 
+퐸푅
+௬,௜,௝
+= 퐵
+௬,௦௔௩௜௡௚௦,௜,௝
+×푁퐶푉
+௪௢௢ௗ ௙௨௘௟
+×푓
+ேோ஻,௬ 
+×൫퐸퐹
+௪௙,஼ைଶ
++퐸퐹
+௪௙,௡௢௡ ஼ைଶ
+൯
+×푁
+௬,௜,௝
+×0.95 
+Equation (2) 
+Where: 
+퐵
+௬,௦௔௩௜௡௚௦,௜,௝
+ 
+= Quantity of woody biomass that is saved in tonnes per improved 
+cookstove of type i and batch j during year y 
+푓
+ேோ஻,௬
+ 
+= Fraction of woody biomass that can be established as non-renewable 
+biomass (fNRB)
+6
+  
+푁퐶푉
+௪௢௢ௗ ௙௨௘௟
+ 
+= Net  calorific  value  of  the  non-renewable  woody  biomass  that  is 
+substituted or reduced (IPCC default for wood fuel, 0.0156 TJ/tonne)
+7
+ 
+퐸퐹
+௪௙,஼ைଶ
+ 
+= CO
+2
+ emission factor for the use of wood fuel in baseline scenario (IPCC 
+default for wood fuel, 112 tCO
+2
+/TJ)
+8
+ 
+퐸퐹
+௪௙,௡௢௡ ஼ைଶ
+ 
+= Non-CO
+2
+ emission factor for the use of wood fuel in baseline scenario 
+(IPCC default for wood fuel, 26.23 tCO
+2
+/TJ)
+9
+ 
+푁
+௬,௜,௝
+ 
+= Number of improved cookstoves of type i and batch j operating during 
+year y  
+0.95 = Discount factor to account for leakage 
+ 
+6
+  Default  values  endorsed  by  designated  national  authorities  and  approved  by  the  Board  are  available  at 
+https://cdm.unfccc.int/DNA/fNRB/index.html 
+7
+ 2006 IPCC Guidelines for National Greenhouse Gas Inventories; Volume 2 Energy, Chapter 1 Introduction 
+8
+ 2006 IPCC Guidelines for National Greenhouse Gas Inventories; Volume 2 Energy, Chapter 2 Stationary Combustion 
+9
+ 2006 IPCC Guidelines for National Greenhouse Gas Inventories; Volume 2 Energy, Chapter 2 Stationary Combustion 
+
+ 
+Project Description: VCS Version 4.1 
+21 
+The  quantify  of  woody  biomass  saved  due  to  implementation  of  improved  cookstoves  to  be 
+estimated using equation below: 
+퐵
+௬,௦௔௩௜௡௚௦,௜,௝
+= 퐵
+௬ୀଵ,௡௘௪,௜,௦௨௥௩௘௬
+×൬
+휂
+௡௘௪,௬,௜,௝
+휂
+௢௟ௗ
+−1൰ 
+Equation (3) 
+where 
+휂
+표푙푑
+ 
+= Efficiency of baseline cookstove  
+휂
+௡௘௪,௬,௜,௝ 
+ 
+= Efficiency of the improved cookstove type i and batch j determined 
+through water boiling test (WBT) during year y 
+Alternatively, efficiency may be determined using Equation 4. 
+퐵
+௬ୀଵ,௡௘௪,௜,௝,௦௨௥௩௘௬
+ 
+= Annual quantity of woody biomass used by improved cookstoves in 
+tonnes per device of type i and batch j, determined in the first year of 
+the implementation of the project through a sample survey.  
+ 
+ 
+휂
+௡௘௪,௬,௜,௝ 
+= 휂
+௣
+×(퐷퐹
+௡
+)
+௬ିଵ
+×0.94 
+Equation (4) 
+ 
+where 
+ 
+ 
+ 
+= 
+ 
+Efficiency of project stove (fraction) at the start of project activity. 
+ 
+(퐷퐹
+௡
+)
+௬ିଵ  
+ 
+= 
+Discount factor to account for efficiency loss of project cookstove per year of 
+operation (fraction). This value may be based on actual monitoring or based on 
+manufacturer’s declaration on expected loss in efficiency or through publicly 
+available literature on relevant industry standards. Alternatively default value of 
+0.99 efficiency loss per year can be considered. 
+0.94 = 
+Adjustment factor to account for uncertainty related to project cookstove 
+efficiency test. 
+ 
+For ex-ante calculation purpose, the assumption below is applied. 
+1) It is assumed that the 500,000 ICS to be distributed under SSM S32-X stove and Baldwin 
+stove with estimated proportion of 50:50.  
+2) Annual stove loss rate is estimated at 10% for SSM S32-X stove and 10% for Baldwin stove. 
+3) 퐵
+௬ୀଵ,௡௘௪,௜,௝,௦௨௥௩௘௬
+ is assumed as 1.83 tonnes / device / year 
+Determination of number of ICS operating during year y 
+푁
+௬,௜,௝
+ = 250,000 x [1 - (y-1) x 10%] 
+Example of calculation: 
+If y = 2, 
+푁
+௬,௜,௝
+ = 250,000 x [1 - (2-1) x 10%] 
+
+ 
+Project Description: VCS Version 4.1 
+22 
+= 250,000 x 90% 
+= 225,000 
+Hence, the number of ICS operating during year y is as below: 
+ SSM S32-X stove Baldwin Stove 
+Year (y) 
+푵
+풚,풊,풋
+ 푵
+풚,풊,풋
+ 
+1 250,000 250,000 
+2 225,000 225,000 
+3 200,000 200,000 
+4 175,000 175,000 
+5 150,000 150,000 
+6 125,000 125,000 
+7 100,000 100,000 
+8 75,000 75,000 
+9 50,000 50,000 
+10 25,000 25,000 
+Determination of efficiency of ICS during year y 
+휂
+௡௘௪,௬,௜,௝ 
+= 휂
+௣
+×(퐷퐹
+௡
+)
+௬ିଵ
+×0.94 
+Where 
+휂
+௣
+ = 52.68% 
+퐷퐹
+௡
+ = 0.99 
+Example of calculation:  
+If y= 2 
+휂
+௡௘௪,௬,௜,௝ 
+ = 52.68% X (0.99)
+2-1 
+X 0.94 
+= 49.02% 
+Hence the efficiency of ICS during year y is as below: 
+ 
+ SSM S32-X stove Baldwin Stove 
+
+ 
+Project Description: VCS Version 4.1 
+23 
+Year (y) 
+휼
+풏풆풘,풚,풊,풋 
+ 휼
+풏풆풘,풚,풊,풋 
+ 
+1 49.52% 48.95% 
+2 49.02% 48.46% 
+3 48.53% 47.97% 
+4 48.05% 47.49% 
+5 47.57% 47.02% 
+6 47.09% 46.55% 
+7 46.62% 46.08% 
+8 46.16% 45.62% 
+9 45.69% 45.16% 
+10 45.24% 44.71% 
+ 
+Determination of quantity of woody biomass that is saved in tonnes per ICS during year y 
+퐵
+௬,௦௔௩௜௡௚௦,௜,௝
+= 퐵
+௬ୀଵ,௡௘௪,௜,௦௨௥௩௘௬
+×൬
+휂
+௡௘௪,௬,௜,௝
+휂
+௢௟ௗ
+−1൰ 
+Example of calculation: 
+If y= 2, 
+퐵
+௬,௦௔௩௜௡௚௦,௜,௝
+= 1.83 X [(0.4902/0.1) -1] 
+= 7.1219 tonnes 
+ 
+SSM S32-X 
+stove 
+Baldwin 
+Stove 
+SSM S32-X 
+stove 
+Baldwin 
+Stove 
+Year (y) 
+푩
+풚ୀퟏ,풏풆풘,풊,풔풖풓풗풆풚
+ 휂
+표푙푑
+ 휼
+풏풆풘,풚,풊,풋 
+ 휼
+풏풆풘,풚,풊,풋 
+ 푩
+풚,풔풂풗풊풏품풔,풊,풋
+ 푩
+풚,풔풂풗풊풏품풔,풊,풋
+ 
+1 1.83 0.1 49.52%     48.95% 7.2123 7.1076 
+2 1.83 0.1 49.02%     48.46% 7.1219 7.0183 
+3 1.83 0.1 48.53% 47.97% 7.0324 6.9298 
+4 1.83 0.1 48.05%     47.49% 6.9438 6.8423 
+5 1.83 0.1 47.57% 47.02% 6.8562 6.7556 
+
+ 
+Project Description: VCS Version 4.1 
+24 
+6 1.83 0.1 47.09%     46.55% 6.7693 6.6698 
+7 1.83 0.1 46.62%     46.08% 6.6834 6.5849 
+8 1.83 0.1 46.16%     45.62% 6.5983 6.5008 
+9 1.83 0.1 45.69%     45.16% 6.5141 6.4175 
+10 1.83 0.1 45.24%     44.71% 6.4307 6.3351 
+Determination of emission reductions by ICS of batch 1 during year y 
+퐸푅
+௬,௜,௝
+= 퐵
+௬,௦௔௩௜௡௚௦,௜,௝
+×푁퐶푉
+௪௢௢ௗ ௙௨௘௟
+×푓
+ேோ஻,௬ 
+×൫퐸퐹
+௪௙,஼ைଶ
++퐸퐹
+௪௙,௡௢௡ ஼ைଶ
+൯×푁
+௬,௜,௝
+×0.95 
+Where 
+푁퐶푉
+௪௢௢ௗ ௙௨௘௟
+ = 0.0156 TJ/tonne 
+푓
+ேோ஻,௬ 
+= 0.84 
+퐸퐹
+௪௙,஼ைଶ
++퐸퐹
+௪௙,௡௢௡ ஼ைଶ
+ = 112 + 26.23 = 138.23 tCO
+2
+/TJ 
+ 
+ 
+Example of calculation: 
+SSM S32-X stove 
+If y=2, 
+퐸푅
+௬,௜,௝
+ = 7.1219 X 0.0156 X 0.84 x 138.23 X 225,000 X 0.95 
+= 2,757,446.26 tCO
+2 
+ 
+Year  
+푩
+풚,풔풂풗풊풏품풔,풊,풋
+ 푵푪푽
+풘풐풐풅 풇풖풆풍
+ 풇
+푵푹푩,풚 
+ 푬푭
+풘풇,푪푶ퟐ
++푬푭
+풘풇,풏풐풏 푪푶ퟐ
+ 
+푵
+풚,풊,풋
+ 푬푹
+풚,풊,풋
+ 
+1 7.2123 0.0156 0.84 138.23 250,000 3,102,707.39 
+2 7.1219 0.0156 0.84 138.23 225,000 2,757,446.26 
+3 7.0324 0.0156 0.84 138.23 200,000 2,420,271.79 
+4     6.9438 0.0156 0.84 138.23 175,000 2,091,064.64 
+5     6.8562 0.0156 0.84 138.23 150,000 1,769,707.03 
+6 6.7693 0.0156 0.84 138.23 125,000 1,456,082.73 
+
+ 
+Project Description: VCS Version 4.1 
+25 
+7     6.6834 0.0156 0.84 138.23 100,000 1,150,077.07 
+8     6.5983 0.0156 0.84 138.23 75,000 851,576.88 
+9 6.5141 0.0156 0.84 138.23 50,000 560,470.51 
+10     6.4307 0.0156 0.84 138.23 25,000 276,647.79 
+ 
+Example of calculation: 
+Baldwin stove 
+If y=2, 
+퐸푅
+௬,௜,௝
+ = 7.0183 X 0.0156 X 0.84 x 138.23 X 225,000 X 0.95 
+= 2,717,334.83 tCO
+2 
+ 
+ 
+Year  
+푩
+풚,풔풂풗풊풏품풔,풊,풋
+ 푵푪푽
+풘풐풐풅 풇풖풆풍
+ 풇
+푵푹푩,풚 
+ 푬푭
+풘풇,푪푶ퟐ
++푬푭
+풘풇,풏풐풏 푪푶ퟐ
+ 
+푵
+풚,풊,풋
+ 푬푹
+풚,풊,풋
+ 
+1 7.1076 0.0156 0.84 138.23 250,000 3,057,688.95 
+2 7.0183 0.0156 0.84 138.23 225,000 2,717,334.83 
+3     6.9298 0.0156 0.84 138.23 200,000 2,384,973.74 
+4     6.8423 0.0156 0.84 138.23 175,000 2,060,487.71 
+5     6.7556 0.0156 0.84 138.23 150,000 1,743,760.31 
+6     6.6698 0.0156 0.84 138.23 125,000 1,434,676.69 
+7     6.5849 0.0156 0.84 138.23 100,000 1,133,123.48 
+8     6.5008 0.0156 0.84 138.23 75,000 838,988.84 
+9 6.4175 0.0156 0.84 138.23 50,000 552,162.41 
+10     6.3351 0.0156 0.84 138.23 25,000 272,535.28 
+ 
+ SSM S32-X 
+stove 
+Baldwin stove 
+ 
+Total (round 
+down) 
+
+ 
+Project Description: VCS Version 4.1 
+26 
+Year  
+푬푹
+풚,풊,풋
+ 푬푹
+풚,풊,풋
+ 
+tCO
+2
+ 
+1    3,102,707.39 3,057,688.95 6,160,396 
+2    2,757,446.26 2,717,334.83    5,474,781 
+3    2,420,271.79 2,384,973.74    4,805,245 
+4    2,091,064.64 2,060,487.71    4,151,552 
+5    1,769,707.03 1,743,760.31    3,513,467 
+6    1,456,082.73 1,434,676.69 2,890,759 
+7    1,150,077.07 1,133,123.48    2,283,200 
+8     851,576.88     838,988.84    1,690,565 
+9     560,470.51     552,162.41    1,112,632 
+10    276,647.79     272,535.28     549,183 
+ 
+Year Estimated 
+baseline 
+emissions or 
+removals (tCO
+2
+e) 
+Estimated 
+project 
+emissions or 
+removals 
+(tCO
+2
+e) 
+Estimated 
+leakage 
+emissions 
+(tCO
+2
+e) 
+Estimated net 
+GHG emission 
+reductions or 
+removals (tCO
+2
+e) 
+Year 2022-2023 
+6,160,396 0 0 6,160,396 
+Year 2023-2024 5,474,781 0 0 5,474,781 
+Year 2024-2025 4,805,245 0 0 4,805,245 
+Year 2025-2026 4,151,552 0 0 4,151,552 
+Year 2026-2027 3,513,467 0 0 3,513,467 
+Year 2027-2028 2,890,759 0 0 2,890,759 
+Year 2028-2029 2,283,200 0 0 2,283,200 
+Year 2029-2030 1,690,565 0 0 1,690,565 
+Year 2030-2031 1,112,632 0 0 1,112,632 
+Year 2031-2032 549,183 0 0 549,183 
+Total  
+32,631,780 
+0 0 32,631,780 
+
+ 
+Project Description: VCS Version 4.1 
+27 
+5 MONITORING 
+5.1 Data and Parameters Available at Validation 
+Data / Parameter 
+풇
+푵푹푩,
+풚
+ 
+Data unit 
+Fraction 
+Description 
+Fraction of woody biomass saved by the project activity during 
+year y that can be established as non-renewable biomass 
+Source of data 
+Value determined from survey methods  
+Value applied 
+0.84 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+This parameter shall be determined ex-ante. C4 EcoSolutions 
+(Pty) Ltd was appointed as third party to study and derive the f
+NRB
+ 
+value for Indonesia. 
+ Purpose of Data 
+Calculation of emission reductions 
+Comments 
+The report of fNRB will be made available to VVB during the 
+validation. 
+ 
+Data / Parameter 
+푵푪푽
+풘풐풐풅 풇풖풆풍
+ 
+Data unit 
+TJ/tonne 
+Description 
+Net calorific value of the non-renewable woody biomass that is 
+substituted or reduced 
+Source of data 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories; 
+Volume 2 Energy, Chapter 1 Introduction 
+Value applied 
+0.0156 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+IPCC default value 
+ Purpose of Data 
+Calculation of emission reductions 
+Comments 
+- 
+ 
+
+ 
+Project Description: VCS Version 4.1 
+28 
+Data / Parameter 
+푬푭
+풘풇,푪푶ퟐ
+ 
+Data unit 
+tCO
+2
+/TJ 
+Description 
+CO
+2
+ emission factor for the use of wood fuel in baseline scenario  
+Source of data 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories; 
+Volume 2 Energy, Chapter 2 Stationary Combustion 
+Value applied 
+112 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+IPCC default value 
+ Purpose of Data 
+Calculation of emission reductions  
+Comments 
+- 
+ 
+Data / Parameter 
+푬푭
+풘풇,풏풐풏 푪푶ퟐ
+ 
+Data unit 
+tCO
+2
+/TJ 
+Description 
+Non-CO
+2
+ emission factor for the use of wood fuel in baseline 
+scenario  
+Source of data 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories; 
+Volume 2 Energy, Chapter 2 Stationary Combustion 
+Value applied 
+26.23 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+IPCC default value 
+ Purpose of Data 
+Calculation of emission reductions 
+Comments 
+- 
+ 
+Data / Parameter 
+휼
+풐풍풅
+ 
+Data unit 
+Fraction 
+Description 
+Efficiency of baseline cookstove 
+
+ 
+Project Description: VCS Version 4.1 
+29 
+Source of data 
+Methodological default value 
+Value applied 
+0.1 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+A default value of 0.1 shall be used if baseline device is a three-
+stone fire using firewood (not charcoal), or a conventional device 
+with no improved combustion air supply or flue gas ventilation, 
+that is without a grate or a chimney 
+ Purpose of Data 
+Calculation of emission reductions 
+Comments 
+- 
+ 
+Data / Parameter 
+ 
+Data unit 
+Fraction 
+Description 
+Efficiency of project stove at the start of project activity. 
+Source of data 
+Manufacturer’s specification 
+Value applied 
+SSM S32-X stove: 52.68% 
+Baldwin stove: 52.07% 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+This parameter shall be determined ex-ante 
+ Purpose of Data 
+Calculation of Ƞ
+퐧퐞퐰
+,y,
+퐢
+,
+퐣
+  
+ 
+Comments 
+- 
+ 
+5.2 Data and Parameters Monitored  
+ 
+Data / Parameter 
+푵
+풚,풊,풋
+ 
+Data unit 
+Number 
+Description 
+Number of project devices of type I and batch j operating during 
+year y 
+Source of data 
+Monitoring 
+
+ 
+Project Description: VCS Version 4.1 
+30 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Measured directly or based on a representative sample. Sampling 
+standard shall be used for determining the sample size to achieve 
+90/10  confidence  precision  according  to  the  latest  version  of 
+Standard for sampling and surveys for CDM project activities and 
+programme of activities. 
+Frequency of 
+monitoring/recording 
+At least once every two years 
+Value applied 
+For ex-ante emission reduction calculation, it is assumed that the 
+project will distribute up to 500,000 ICS with proportion of 50:50 
+between SSM S32-X stove and Baldwin stove. 
+Monitoring equipment 
+Monitoring survey 
+QA/QC procedures to be 
+applied 
+Sampling  standard  “sampling  and  surveys  for  CDM  project 
+activities and programme of activities” version 9 will be used for 
+determining  the  sample  size  to  achieve  90/10  confidence 
+precision. 
+Purpose of data 
+Calculation of emission reductions  
+Calculation method 
+Proportion  of  operational  stoves  obtained  from  the  survey  is 
+multiplied by the total commissioned stoves to arrive at this value 
+Comments 
+No Comments 
+ 
+Data / Parameter 
+휼
+풏풆풘,풚,풊,풋 
+ 
+Data unit 
+Fraction 
+Description 
+Efficiency of the improved cookstove type i and batch j determined 
+through water boiling test (WBT) during year y 
+Source of data 
+Calculation 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+To adopt Option V given in the methodology: 
+“Efficiency  of  the  improved  cookstoves  to  be  estimated  using 
+equation 5 above where loss in efficiency per year is calculated, 
+and therefore this parameter does not need to be monitored” 
+Frequency of 
+monitoring/recording 
+Annually 
+Value applied 
+For ex-ante calculation, the value below is applied. 
+SSM S32-X 
+Year (y) 
+휼
+풏풆풘,풚,풊,풋 
+ 
+1 49.52% 
+
+ 
+Project Description: VCS Version 4.1 
+31 
+2 49.02% 
+3 48.53% 
+4 48.05% 
+5 47.57% 
+6 47.09% 
+7 46.62% 
+8 46.16% 
+9 45.69% 
+10 45.24% 
+ 
+Baldwin stove 
+Year (y) 
+휼
+풏풆풘,풚,풊,풋 
+ 
+1 48.95% 
+2 48.46% 
+3 47.97% 
+4 47.49% 
+5 47.02% 
+6 46.55% 
+7 46.08% 
+8 45.62% 
+9 45.16% 
+10 44.71% 
+ 
+Monitoring equipment 
+Calculated value (No Monitoring equipment used) 
+QA/QC procedures to be 
+applied 
+This parameter will be calculated using equation 5 of the applied 
+methodology. 
+Purpose of data 
+Calculation of emission reductions  
+Calculation method 
+Calculation to be performed using equation below: 
+휂
+௡௘௪,௬,௜,௝ 
+= 휂
+௣
+×(퐷퐹
+௡
+)
+௬ିଵ
+×0.94 
+
+ 
+Project Description: VCS Version 4.1 
+32 
+Comments 
+No comments 
+ 
+Data / Parameter 
+푩
+풚ୀퟏ,풏풆풘,풊,풋,풔풖풓풗풆풚
+ 
+Data unit 
+Tonnes 
+Description 
+Annual quantity of woody biomass used by improved cookstoves 
+in tonnes per device of type i and batch j, determined in the first 
+year of the implementation of the project through a sample 
+survey 
+Source of data 
+Monitoring survey 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Minimum sample size of each type i and batch j should be in line 
+with the latest version of Standard for sampling and surveys for 
+CDM project activities and programme of activities or guidelines 
+provided in methodology Section 8.4 option (b). 
+Determined in the first year of the introduction of the devices (e.g. 
+during  the  first  year  of  the  crediting  period,  y=1)  through 
+measurement  campaigns  at  representative  households  and/or 
+sample survey. Sample surveys to estimate this parameter, that 
+are solely based on questionnaires or interviews (i.e. that do not 
+implement  measurement  campaigns)  may  only  be  used  if  the 
+following  conditions  are  satisfied.  (i)  Baseline  cookstoves  have 
+been completely decommissioned and only improved cookstoves 
+are  exclusively  used  in  the  project  households;  (ii)  If  multiple 
+devices are used in the project, it is possible from the results of 
+the  survey  questions  to  clearly  differentiate  the  quantity  of 
+firewood being used by each device. In other words, if more than 
+one device, or another device that consumes firewood, are in use 
+in  project  households,  then  the  sample  survey  needs  to 
+distinguish the quantity of firewood used by the project device and 
+the other devices that use firewood. 
+Frequency of 
+monitoring/recording 
+Determined in the first year of project implementation 
+Value applied 
+For ex-ante calculation, the value is assumed as 5 kg/device/day 
+or equal to 1.83 tonnes/device/year. 
+Monitoring equipment 
+Weighing Scales to be used for measuring quantity of fuel wood 
+QA/QC procedures to be 
+applied 
+Calibration of weighing scales to be used for measuring the fuel 
+wood will get done before start using on site 
+Purpose of data 
+Calculation of emission reductions  
+Calculation method 
+Not Applicable. This is monitored value. 
+
+ 
+Project Description: VCS Version 4.1 
+33 
+Comments 
+No Comments 
+ 
+Data / Parameter 
+Life Span 
+Data unit 
+Number of years 
+Description 
+The operating lifetime of the project device. The life span should 
+be reported if the methodology equation 5 is adopted to 
+determine the project stove efficiency  
+Source of data 
+Manufacturer’s specification 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Technical specification as declared by the manufacturer and 
+wherever possible supported by third party report. 
+Frequency of 
+monitoring/recording 
+Once at the time of project stove installation 
+Value applied 
+SSM S32-X stove: 10 years 
+Baldwin stove: 10 years 
+Monitoring equipment 
+No equipment is required to monitor this parameter 
+QA/QC procedures to be 
+applied 
+This parameter will be referred from the Manufacturer’s 
+specification 
+Purpose of data 
+Calculation of emission reductions 
+Calculation method 
+No calculation used for this parameter 
+Comments 
+If the life span of project devices is less than the crediting period, 
+it shall be demonstrated that the devices shall be replaced after 
+the  life  span  has  ended.  In  such  cases,  if  it  cannot  be 
+demonstrated that the project devices will be replaced with new 
+devices, no emission reductions can be claimed beyond the life 
+span of the project devices. 
+5.3 Monitoring Plan 
+Sampling Plan 
+As  per  the Guideline for Sampling and Surveys for CDM Project Activities and Programme of 
+Activities, version 04.0, the sampling plan is the following: 
+ 
+(a)  Sampling design 
+ 
+Due to the large number of ICS envisioned to be distributed under the project, it is not economically 
+feasible to monitor each individual ICS unit distributed. Therefore, representative sampling shall be 
+
+ 
+Project Description: VCS Version 4.1 
+34 
+undertaken for each batch of ICS. The sampling plan to be designed in line with the requirements 
+of the Standard for Sampling and Surveys for CDM Project Activities and Programme of Activities, 
+version 09.0. 
+ 
+Samples will be drawn from ICS recorded in the project database administered by the project 
+proponent. A detailed explanation of this database is found in Section 1.11 of project description. 
+ 
+Objectives and Reliability Requirements 
+ 
+The objective is to obtain an unbiased and reliable estimate of the proportion or mean value of the 
+following key variables over the course of the crediting period. As per CDM Methodology AMS-II.G, 
+90/10 confidence/precision shall be applied for annual sampling requirement and 95/10 for 
+biennial sampling inspection. As per Standard for Sampling and Surveys for CDM Project Activities 
+and Programme of Activities, 90/10 confidence/precision to be adopted for small-scale project 
+and 95/10 for large-scale project. Given that the size of the project is under the category of large 
+projects,  hence  95/10  confidence/precision  shall  be  adopted  for  all  parameters  unless  the 
+average annual emission reductions of the project below the threshold. 
+ 
+Monitored Parameters: 
+The project involves introduction of improved cook stoves as energy efficiency measure: 
+ 
+No. Monitoring 
+parameters 
+Sampling 
+parameters 
+Parameter type Monitoring 
+frequency 
+1 
+푵
+풚,풊,풋
+ 
+Number of project 
+devices of type i 
+and batch j 
+operating during 
+year y 
+Proportion of ICS 
+still in operation 
+Proportion Biennially 
+2 
+퐧퐞퐰,퐲,,퐢,퐣
+ 
+Efficiency of the 
+device of each 
+type i and batch j 
+implemented as 
+part of the project 
+activity 
+Thermal Efficiency 
+of operational ICS 
+ 
+ 
+Mean value Annually 
+ 
+(The project opts to 
+determine the 
+efficiency using the 
+equation given by 
+methodology, 
+therefore it is not 
+required to monitor 
+this parameter via 
+sampling survey.) 
+3 
+푩
+풚ୀퟏ,풏풆풘,풊,풋,풔풖풓풗풆풚
+ 
+Quantity of woody 
+biomass used by 
+project devices in 
+Daily  consumption 
+of  woody  biomass 
+per ICS 
+ 
+Mean value Determined in the 
+first year of project 
+implementation 
+
+
+ 
+Project Description: VCS Version 4.1 
+35 
+ 
+Target Population 
+The target population will be the complete set of appliances (ICS) deployed under the project. 
+Sampling Method 
+The project involves distribution of ICS throughout the project area thereby replacing traditional 
+cooking devices. The population is heterogeneous in nature i.e. common technology with similar 
+operating  characteristics  but  dispersed  i.e.  distribution  of  ICS  is  spread  across  different 
+states/province  of  the  country.  The  population  consists  of  sub-populations  which  are 
+homogeneous  called  as  Strata.  The  characteristics  of  population  (for  example  quantity  of 
+biomass consumed) are more similar within the stratum (ICS of same type, vintage and location 
+in which they are operating) than across the strata. Therefore, Stratified Sampling technique will 
+be used to conduct sampling survey among ICS batches.  
+The populations of each batch will be combined together, the sample size is determined, and a 
+single survey will be undertaken to collect data. To ensure the survey result is representative of 
+the entire population, the dissimilarity (such as ICS type, vintage and location in which they are 
+operating) within the included CPAs will be taken into account in the sample size calculation. The 
+ICS of same type, vintage and location in which they are operating will be grouped in the same 
+strata. Samples will be drawn by using the random number generator. 
+To  determine  the  parameters,  sampling  will  involve  the  following  approaches  (outcome  in 
+brackets): 
+푵
+풚,풊,풋
+ Visual  inspection  of  the  premises  to  see  if  ICS  is  operational  and  in  use.  
+Interview with end user if required to verify that ICS is still in use (Yes/No) 
+푩
+풚ୀퟏ,풏풆풘,풊,풋,풔풖풓풗풆풚
+  Interview with end user and estimate the daily consumption of woody biomass 
+of ICS (Daily consumption of woody biomass) 
+Sample Size  
+The procedure to determine the sample of households will ensure that they adequately represent 
+the broader project population, minimizing sampling error.  Using, a 90 or 95 per cent confidence 
+level, and a 10 per cent margin of error, a random sample will be selected from each strata. 
+In order to calculate the required sample size estimates, values for the proportions, mean values, 
+and standard deviations are required. As per Guideline for Sampling and surveys for CDM project 
+activities and programmes of activities, version 04.0, there are different ways available to obtain 
+the estimates of the parameter of interest: 
+(a)     Refer to the result of previous studies and use these results; 
+tonnes per device 
+of type i. and 
+batch j 
+
+ 
+Project Description: VCS Version 4.1 
+36 
+(b)    In a situation where information from previous studies is not available, a preliminary 
+sample  as  a  pilot  could  be  conducted  and  use  that  sample  is  used  to  provide  the 
+estimates; 
+(c)     Use best guesses based on the researcher’s own experiences. 
+ 
+Proportion parameter 
+To estimate the sample size for proportion parameters, the following equation
+10
+ is used: 
+VN
+NV
+n
+
+
+22
+2
+96.11.0)1(
+96.1
+ 
+ 
+Where
+11
+: 
+푉=൬
+푆퐷
+푝
+൰
+ଶ
+ 
+n  = Sample size 
+N  = Population size (Total number of households or ICS)  
+p  = Weighted overall expected proportion  
+SD
+2
+     = Weighted overall expected variance 
+1.96
+    = Represents the 95% confidence required  
+              (In the case of 90% confidence, 1.645 shall be used) 
+0.1     = Represents the 10% relative precision 
+ 
+ 
+The overall variance and proportion are calculated using equation below: 
+ 
+ 
+푝 =
+(
+푔
+௔
+×푝
+௔
+)
++
+(
+푔
+௕
+×푝
+௕
+)
++
+(
+푔
+௖
+×푝
+௖
+)
++⋯+
+(
+푔
+௞
+×푝
+௞
+)
+푁
+ 
+ 
+푆퐷
+2
+=
+ቀ푔
+푎 
+×푝
+푎
+൫
+1−푝
+푎
+൯
+ቁ+ቀ푔
+푏 
+×푝
+푏
+൫
+1−푝
+푏
+൯
+ቁ+ቀ푔
+푐
+×푝
+푐
+൫
+1−푝
+푐
+൯
+ቁ+⋯+ቀ푔
+푘 
+×푝
+푘
+൫
+1−푝
+푘
+൯
+ቁ
+푁
+ 
+ 
+10
+ Equation 1 of Appendix 3, Guidelines for Sampling and Surveys for CDM Project Activities and Programme of Activities 
+(Version 04.0) 
+11
+ Equation 2 of Appendix 3, Guidelines for Sampling and Surveys for CDM Project Activities and Programme of Activities 
+(Version 04.0) 
+
+ 
+Project Description: VCS Version 4.1 
+37 
+ 
+ 
+Where 
+g
+i 
+=    Size of the i
+th
+ strata where  i = a,...,k 
+p
+i 
+=    Proportion of the i
+th
+ strata where  i = a,...,k 
+ 
+Sample size for each strata 
+푛
+푖
+=
+푔
+푖
+푁
+×푛 
+Where:  
+n
+i 
+= Sample size of the i
+th
+ strata where i = a,...,k 
+ 
+ 
+ 
+ 
+ 
+Mean value parameter 
+To estimate the sample size for mean value parameter, the following equation
+12
+ is used: 
+VN
+NV
+n
+
+
+22
+2
+96.11.0)1(
+96.1
+ 
+ 
+Where
+13
+: 
+푉=൬
+푆퐷
+푚
+൰
+ଶ
+ 
+n  = Sample size 
+N  = Population size (Total number of households or ICS)  
+m  = Weighted overall expected mean  
+SD
+2
+     = Weighted overall expected variance 
+ 
+12
+ Equation 19 of Appendix 3, Guidelines for Sampling and Surveys in CDM Project Activities and Programme of Activities 
+(version 04.0) 
+13
+ Equation 20 of Appendix 3, Guidelines for Sampling and Surveys in CDM Project Activities and Programme of Activities 
+(version 04.0) 
+
+ 
+Project Description: VCS Version 4.1 
+38 
+1.96
+    = Represents the 95% confidence required  
+              (In the case of 90% confidence, 1.645 shall be used) 
+0.1     = Represents the 10% relative precision 
+ 
+ 
+The overall variance and mean are calculated using equation below: 
+ 
+ 
+푚 =
+(
+푔
+௔
+×푚
+௔
+)
++
+(
+푔
+௕
+×푚
+௕
+)
++
+(
+푔
+௖
+×푚
+௖
+)
++⋯+
+(
+푔
+௞
+×푚
+௞
+)
+푁
+ 
+ 
+푆퐷
+ଶ
+=
+൫
+푔
+௔ 
+×푆퐷
+௤
+ଶ
+൯
++
+൫
+푔
+௕ 
+×푆퐷
+௕
+ଶ
+൯
++
+(
+푔
+௖
+×푆퐷
+௖
+ଶ
+)
++⋯+
+൫
+푔
+௞ 
+×푆퐷
+௞
+ଶ
+൯
+푁
+ 
+ 
+ 
+Where 
+g
+i 
+=    Size of the i
+th
+ strata where  i = a,...,k 
+m
+i 
+=    Mean of the i
+th
+ strata where  i = a,...,k 
+ 
+Sample size for each strata 
+푛
+푖
+=
+푔
+푖
+푁
+×푛 
+Where:  
+n
+i 
+= Sample size of the i
+th
+ strata where i = a,...,k 
+ 
+If the resulting sample size based on the above equation is smaller than 30 ICS, then as the 
+parameter of interest is a numeric mean value (i.e. not a proportion or percentage) the Student’s 
+t-distribution shall be used.  
+The sample size for mean value parameter is referred to the equation below
+14
+: 
+2
+1
+1.0
+
+
+
+
+
+
+
+
+
+
+mean
+SDt
+n
+n
+ 
+ 
+14
+ Paragraph 102, Guidelines for Sampling and Surveys in CDM Project Activities and Programme of Activities (version 
+04.0) 
+
+ 
+Project Description: VCS Version 4.1 
+39 
+ Where t
+n-1 
+is the value of the t-distribution for 95% confidence when the sample size is n. Since 
+the sample size is not known yet, the first step is to use the value for 95% confidence when the 
+sample is large, i.e. 1.96 and then redefine the calculation. 
+The calculation now need to repeat using t-value for 95% confidence. The process should be 
+iterated until there is no change to the value of n. 
+The project proponent may choose to use the same sample to monitor more than one parameter. 
+According to the Standard for sampling and surveys for CDM project activities and programme of 
+activities, if there is more than one parameter to be estimated, then a sample size calculation 
+should be done for each of them. Then either the largest number for the sample size is chosen 
+as  sampling  effort  with  one  common  survey,  or  separate  sampling  efforts  and  surveys  are 
+undertaken for each parameter. For instance, the project proponent may sample separately 푵
+풚,풊,풋
+j
+ 
+and 푩
+풚ୀퟏ,풏풆풘,풊,풋,풔풖풓풗풆풚
+ –or a combination of two parameters in the same sample. Sampling more 
+than  one  parameter  within  the  same  sample  (household)  helps  reduce  travel  needs  for 
+monitoring  and  the  associated  costs.  At  the  same  time  this  approach  ensures  the  random 
+selection of samples for every parameter. 
+Oversampling is strongly encouraged, not only to compensate for any attrition, outliers or non-
+response associated with the sample, but also to prevent a situation at the analysis stage where 
+the required reliability is not achieved and additional sampling efforts would be required. The 
+sample  size  shown  above  will  be  adjusted  upwards  to  account  for  non-responses,  Project 
+proponent shall determine the appropriate non-responses rate based on previous experience. 
+Sampling Frame 
+Separate samples shall be taken for each batch. The sampling frames shall be defined as per below. 
+In overall, a batch of ICS will have same group of end users which is household users, thus it is 
+expected that the geographical locations do not have influence on the parameter of interest. 
+Therefore, all monitoring parameters can be assumed to be highly homogeneous for each ICS 
+model regardless of how the end user group and distribution/installation location is defined. 
+To formulate sample frame, all ICS operating under the batch will be combined together. The 
+number of project devices operating may vary with ICS type and location where they are located 
+& efficiency of the ICS depends on the ICS type and ICS age group. Therefore, ICS can be sub- 
+grouped into strata based on ICS batch, ICS type and location where they are located. 
+
+ 
+Project Description: VCS Version 4.1 
+40 
+ 
+Batch j 
+Number of ICS 
+Operating 
+250,000 
+Location/Region 
+A B C D E 
+ICS Type X X X X X 
+Number of ICS / 
+strata 
+50,000 50,000 50,000 50,000 50,000 
+Strata 1 2 3 4 5 
+ 
+Sampling frame 
+ 
+ 
+(b)     Data to be collected: 
+(i) Field Measurements: 
+The table below summarizes field measurement data requirements 
+Parameter 
+Timing 
+(indicative) 
+Frequency as 
+required by 
+methodology 
+Methods to be 
+applied 
+Comments on 
+seasonal 
+fluctuation 
+푵
+풚,풊,풋
+ 
+Monitoring will 
+likely occur every 
+12 to 24 months 
+Biennially 
+Visits to the 
+premises, visual 
+inspection and 
+interview with ICS 
+end-user. 
+Not due to any 
+seasonal 
+fluctuation. 
+푩
+풚ୀퟏ,풏풆풘,풊,풋,풔풖풓풗풆풚
+ 
+Monitoring will 
+likely occur within 
+the first year after 
+installation 
+First year of 
+installation 
+Visits to the 
+premises, visual 
+inspection and 
+interview with ICS 
+end-user. 
+Not due to any 
+seasonal 
+fluctuation. 
+ 
+Hard  copies  of  the  surveys  will  be  kept  and  the  database  will  have  back  up.  Original  stove 
+purchase contracts, information collected from the registration or other means of acceptance by 
+the users will be stored in the project office.  A back-up of the project database will also be stored 
+on an electric medium.  All data monitored and required for verification and issuance will be kept 
+for two years after the end of the crediting period or the last issuance of credits for the project 
+activity, whichever is later. 
+ 
+(ii) Quality Assurance/Quality Control 
+
+ 
+Project Description: VCS Version 4.1 
+41 
+The project proponent will apply measures to ensure the required confidence/precision for each 
+sampled parameter is met, allowing for non-response and the possible removal of outliers from 
+the sample, as  part  of  a Quality  Control/Quality Assurance  system.   The choice of measure 
+applied to each parameter will depend on the cost of each data collection approach and logistics 
+required.  The project proponent will determine the most effective measure for each parameter 
+from the following list:  
+- Oversampling:  Randomly draw a sample more than the calculated number (say 20%) and 
+collect data from each 
+- Buffer Group: Randomly draw additional samples (say 20%) and collect data from only for 
+minimum numbers of ICS as per sample size calculation.  If this would not result in the 
+required sample size data would be collected from the additional ICS that were selected in 
+the sample. 
+- If precision required is not achieved by reliability check, use the lower bound or upper bound 
+of estimates of the parameter.  
+The sampling plan has the following procedures in place to ensure good quality data. The project 
+proponent will ensure that field personnel have reviewed, understand and have agreed to follow 
+the monitoring plan procedures, including provisions for maximizing response rates, documenting 
+out-of-population  cases,  refusals  and  other  sources  of  non-response.    A  quality  control  and 
+assurance  strategy  will  be  documented.  Quality  control  and  assurance  strategies  include 
+addressing  non-sampling  errors,  such  as  non-response  or  bias  from  interviewer.  The  project 
+proponent or a competent third party designated by the project proponent with the proper skills 
+will train the monitoring personnel on how to properly survey households to prevent bias from 
+interviewer. In the case a household refuses to participate, another household will be chosen at 
+random.  To reduce interviewer bias, good questionnaire design and well-tested questionnaires 
+will be used.  
+The sample data for mean value parameter is continuous and therefore the presence of outliers 
+is possible.  To identify and address outliers for the parameter, outliers will be defined as those 
+data points with values greater than three standard deviations from the mean of the sample. 
+Data points identified as outliers will be examined further to correct for possible transcription 
+and data entry errors but will be omitted from the analysis if no such administrative errors exist. 
+ 
+(iii) Analysis 
+The project proponent will manage a project database that includes the following data that can 
+be  directly  attributable  to  each  batch  within  the  project,  thereby  allowing  unambiguous 
+determination of the emission reductions attributable to each project: 
+ A  list  of  households  participating  in  each  batch  /  project,  including  name, 
+community/location, distribution/installation date and unique serial number; 
+ Testing to ensure that the stoves are still operating above the minimum  25% efficiency 
+required by the methodology, by the project proponent or a third party certified by a national 
+standards body or an appropriate certifying agency recognized by it.  
+ Where replacements are made, assurance that the efficiency of the new ICS is similar to the 
+specified.  
+
+ 
+Project Description: VCS Version 4.1 
+42 
+ 
+Data obtained from the samples will be used to estimate proportions and mean values for the 
+parameters  described  above.  The  values  will  then  be  factored  into  the  emissions  reduction 
+calculations and result  in the request for issuance of VERs. The  parameters are applied for 
+emission reduction calculations.  The stoves that are not in use will be excluded from emissions 
+reductions calculations and will not be counted towards the total number of ICS in operation 
+during the monitoring period.  
+ 
+(c) Implementation  
+Sampling for the purpose of emission reduction calculation and elaboration of the monitoring 
+report will occur at the end of each monitoring period. This sampling will be conducted by trained 
+personal from project proponent or an experienced third-party entity. The credentials and/or 
+training  materials  for  the  sampling  personal  will  be  provided  to  the  VVB  at  verification.  The 
+maximum length of one monitoring period will be two years (duration, not calendar years), with 
+option for annual or bi-annual monitoring.  The project proponent will be responsible for managing 
+household  data  collection  and  entry  into  the  project  database.  Field  personnel  will  receive 
+training on how to properly deal with surveying techniques and reduce errors and sign a document 
+certifying that there is no conflict of interest of those involved in data collection and analysis.  If 
+there is conflict of interest, the personnel will not be allowed to participate in data collection and 
+analysis. The project database will record the start and end dates of each monitoring period and 
+record  the  emission  reductions  attributable  to  each  monitoring  period.    Appropriate  record 
+keeping procedures will be implemented to ensure that each monitoring period data set can be 
+transparently attributed to its corresponding batch/project, preventing any occurrences of double 
+counting.  An internal review of the project database will be able to determine the current status 
+of  each  batch  —  the  duration  of  previous  monitoring  periods,  the  households  delivering 
+monitoring data, and current verification activities. 
+ 
+(i) Assessment for Leakage 
+The methodology provides a net to gross adjustment factor of 0.95 to account for leakages, hence 
+the surveys are not required to determine leakage.  
+The other source of leakage occurs if equipment currently being utilised is transferred  from 
+outside  the  boundary  to  the  project  activity.  All  ICS  in  the  project  will  be  newly 
+manufactured/assembled. 
+ 
+(ii) Disposal of Low Efficiency Appliances and Use of Baseline Stoves 
+When an ICS is distributed, the end user receives information explaining that conventional open 
+fire appliance must no longer be used. Follow-up meetings with end users will ensure that those 
+
+ 
+Project Description: VCS Version 4.1 
+43 
+who have received an ICS are using it properly and that the conventional open fire is no longer in 
+use.  If it is determined that the conventional open fire is still in use along with the operating ICS, 
+a survey will be conducted, and discount will be applied to ER formulae for emission reduction 
+adjustment. 
+ 
+(iii)  Monitoring Reporting 
+The project proponent will assess all monitoring data and produce a monitoring report for the VVB 
+to verify corresponding to the preceding monitoring period.  This report will present the data relating 
+to the emission reductions generated by those batches during the monitoring period. 

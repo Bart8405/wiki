@@ -1,0 +1,3334 @@
+
+
+ PROJECT DESCRIPTION: VCS Version 3 
+v3.2 
+1 
+ 
+PRESERVING PEAT SWAMP FOREST ECOSYSTEM 
+THROUGH REDD+ ACTIVITY  
+IN KAMPAR PENINSULA 
+RIAU-INDONESIA 
+ 
+ 
+ 
+Document Prepared By 
+Korea-Indonesia FMU/REDD+ Project Management Unit
+1
+, SG Consulting
+2
+, and CER 
+Indonesia
+3
+ 
+ 
+ 
+ 
+ 
+ 
+Project Title  
+PRESERVING PEAT SWAMP FOREST ECOSYSTEM THROUGH REDD+ 
+ACTIVITY IN KAMPAR PENINSULA RIAU-INDONESIA 
+Version 
+Version 01 
+Date of Issue 22 February 2016 
+Prepared By 
+Lee Seong Hwan
+1
+, Roh Gyeong Min
+2
+, and Muhammad Ridwan
+3
+ 
+Contact  
+Room 511, Wing B, 5
+th
+ Floor, Blok I, Manggala Wanabakti Building 
+Jakarta ,Indonesia 
+Telephone: +62 21 5773 790 
+e-mail: leesh00317@gmail.com 
+  
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+2 
+TABLE OF CONTENTS 
+1. Project Details.................................................................................................................. 6 
+1.1 Summary Description of the Project ......................................................................... 6 
+1.2 Sectoral Scope and Project Type ............................................................................. 7 
+1.3 Project Proponent ..................................................................................................... 7 
+1.4 Other Entities Involved in the Project ....................................................................... 8 
+1.5 Project Start Date ..................................................................................................... 9 
+1.6 Project Crediting Period ........................................................................................... 9 
+1.7 Project Scale and Estimated GHG Emission Reductions or Removals ................... 9 
+1.8 Description of the Project Activity ........................................................................... 10 
+1.9 Project Location ...................................................................................................... 11 
+1.10. Conditions Prior to Project Initiation.......................................................................... 13 
+1.11 Compliance with Laws, Statutes and Other Regulatory Frameworks ................ 18 
+1.12 Ownership and Other Programs......................................................................... 18 
+1.12.1 Right of Use .................................................................................................... 18 
+1.12.2 Emissions Trading Programs and Other Binding Limits ................................ 19 
+1.12.3 Other Forms of Environmental Credit ............................................................ 19 
+1.12.4 Participation under Other GHG Programs ..................................................... 19 
+1.12.5 Projects Rejected by Other GHG Programs .................................................. 19 
+1.13 Additional Information Relevant to the Project ................................................... 19 
+2. Application of Methodology ........................................................................................... 20 
+2.1 Title and Reference of Methodology ...................................................................... 20 
+2.2 Applicability of Methodology ................................................................................... 21 
+2.3 Project Boundary .................................................................................................... 22 
+2.3.1 Geographical boundary .................................................................................. 22 
+2.3.2 GHG emissions sources associated with baseline and project scenario ....... 25 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+3 
+2.4 Baseline Scenario .................................................................................................. 27 
+2.5 Additionality ............................................................................................................ 27 
+2.6 Methodology Deviations ......................................................................................... 33 
+3. Quantification of GHG Emission Reductions and Removals ........................................ 34 
+3.1 Baseline Emissions ................................................................................................ 34 
+3.1.1 Calculating annual area of deforested land .................................................... 34 
+3.1.2 Carbon stock changes .................................................................................... 41 
+3.1.3 Emissions as a result of deforestation activity ............................................... 44 
+3.1.4 Summary of emissions/removals ................................................................... 48 
+3.1.5 Frequency of baseline renewal ...................................................................... 49 
+3.2 Project Emissions ................................................................................................... 49 
+3.3 Leakage .................................................................................................................. 50 
+3.4 Net GHG Emission Reductions and Removals ...................................................... 50 
+4. Monitoring ...................................................................................................................... 52 
+4.1 Data and Parameters Available at Validation......................................................... 52 
+4.2 Data and Parameters Monitored ............................................................................ 58 
+4.3 Monitoring Plan ...................................................................................................... 60 
+4.3.1 Forest cover change monitoring ..................................................................... 60 
+4.3.2 Analysis and Frequency ................................................................................. 61 
+4.3.3 Ground measurement of biomass carbon stock ............................................ 61 
+5. Environmental Impact .................................................................................................... 62 
+6. Stakeholder Comments ................................................................................................. 63 
+Appendix 1. Result of Satellite Imagery Analysis on Forest Fire Occurrence in the Project 
+Area ........................................................................................................................................ 65 
+Appendix 2. Expert judgement on the change of water table within the project area ............ 66 
+Appendix 3. Location of Permanent Sample Plots ................................................................. 67 
+ 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+4 
+LIST OF TABLE 
+Table 1. Estimated net emission removals throughout crediting period ................................ 10 
+Table 2. Conformity of the project activity to eligibility criteria ............................................... 21 
+Table 3. Existing Timber Plantation Concessions at KPHPTBS ............................................ 23 
+Table 4. GHG emission sources in baseline scenario ........................................................... 25 
+Table 5. GHG emission sources in project scenario .............................................................. 26 
+Table 6. Barriers identified in each alternative land use scenarios ........................................ 30 
+Table 7. Result of sensitivity analysis .................................................................................... 32 
+Table 8. Timber Plantation Concessions randomly selected as proxy areas ........................ 36 
+Table 9. Availability of Satellite imagery (Landsat) for landcover change ............................. 37 
+Table 10. Land cover change and deforestation rate of proxy areas .................................... 40 
+Table 11. Biomass stock factors used in pre-deforestation stocks estimate ......................... 42 
+Table 12. Estimation of net carbon stock change in aboveground biomass.......................... 42 
+Table 13. Estimation of net carbon stock change in belowground biomass .......................... 42 
+Table 14. Net carbon stock changes ...................................................................................... 43 
+Table 15. Fuel consumption per types of vehicle ................................................................... 44 
+Table 16. Emissions from fossil fuel consumption ................................................................. 45 
+Table 17. Synthetic Fertilizer applied per type of fertilizer (application is only conducted one 
+time per crop cycle) ................................................................................................................ 45 
+Table 18. Emissions from the use of fertilizer ........................................................................ 46 
+ 
+LIST OF FIGURE 
+Figure 1. The location of activity according to RPHJP KPH Tasik Besar Serkap 
+2014-2023 .................................................................................................................. 12 
+Figure 2. Overlay of project location and Peat Moratorium Map (PIPIB) Year 2014
+ ................................................................................................................................... 13 
+Figure 3. Peat depth assessment based on field survey ............................................. 14 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+5 
+Figure 4. Landcover of project area year 2014 based on Landsat 8 Imagery ............ 16 
+Figure 5. Proposed REDD+ Project Boundary .......................................................... 23 
+Figure 6. Forest consession in the area of the KPHP Tasik Besar Serkap ................ 36 
+Figure 7. Proxy areas ................................................................................................. 37 
+Figure 8. Plan for road development near proposed project area .............................. 49 
+Figure 9. Map of Hot Spot Cases in Last 15 Years According to MODIS satellite 
+(NASA) ...................................................................................................................... 65 
+ 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+6 
+1. PROJECT DETAILS 
+1.1 Summary Description of the Project 
+The  statistics  of  the  fiscal  year  2005 provided  that  a  total  of  1.79  GtCO
+2
+eof 
+greenhouse gas was emitted by the Republic of Indonesia, with emissions from Land 
+Use   Change   and   Forestry   (LUCF)   and   peat   fire   comprising   37%   and   25% 
+respectively  (SNC,  2010).  Consequently,  the  government  of  Indonesia  suggested  a 
+goal of 26% emission reduction based on BAU (Business as Usual) by the year 2020 
+through   unilateral   actions.   In   doing   so,   prevention   of   deforestation   and   peat 
+protection are crucial elements. 
+Kampar peninsula is located in the Riau province of Sumatra island and is one of the 
+major  peat lands  in Indonesia  with the total area  of 671,125 ha (Tropenbos,  2011). 
+Due  to  the  formation  of  industrial  plantation  aimed  for  pulp  production  starting  from 
+2002, most of the area that was once mostly peat swamp forest has been converted 
+(RPHJP  KPHP  TBS,  2014).  Conversion of  peat  swamp  forest  into  plantation  has 
+estimated  to  have  increased  the  risks  of  peat  subsidence  and  fire,  which  ultimately 
+lead to the continued increase of greenhouse gas emission. 
+Production  Forest  Management  Unit  (KPHP  in  Indonesian)  Tasik  Besar  Serkap 
+(hereafter  referred  as  “KPHP  TBS”)  is  located  in  Riau  Province  and  manages  an 
+area  of  513,276  ha  within  the  Kampar  Peninsula.  The  organization  is  under  the 
+government  of  the  Riau  province  and  is  authorized  of  establishment  of  forest 
+management  plans,  management/supervision  of  concession-issued  areas,  forest 
+protection,  and  profitable  activities  in  designated  areas  including timber  plantation. 
+Area it manages is classified as national forest with production purpose.  
+Implementation  of REDD+  activities  (Reducing  Emissions  from  Deforestation  and 
+Forest    Degradation,    and    role    of    Conservation    Forest,    Sustainable    forest 
+management,  and  Enhancement  of  Forest  Carbon  Stock)  play  pivotal  roles  in 
+prevention  of  deforestation  and  peat land  preservation  in  Indonesia. As  mentioned 
+above, emissions from deforestation and peat decomposition is the major source of 
+national  emissions.  Therefore, a  REDD  project  is  being  developed  to  avoid  the 
+conversion of some areas of the Kampar Peninsula. 
+This  project  aims  to  reduce  greenhouse  gas  through  preventing 14,722.9 ha 
+managed by KPHP  TBS from being  converted  into  a  timber  plantation.  The  project 
+area consists of swamp forest on top of a thick layer (5-12m) of peat that is currently 
+maintained  under  a favourable condition.  Nevertheless,  the  issuance  of  17  timber 
+plantation concession over the 355,848 ha out of the 531,276 ha, and an investment 
+analysis  result indicate that conversion of  the  remaining  national  forest  into  a 
+plantation  would  be  the  best  investment. These  show that  the  project  area  is 
+exposed to great risk of conversion into plantation. 
+Hence,  KPHP  TBS  intends  to  protect  peat  swamp  forest  through  this  project  using 
+REDD+  Avoided  Planned  Deforestation  (APD)  mechanism  provided  by  the  Verified 
+Carbon Standard (VCS). In particular, the area also stores more than of 24.8 MtCO
+2-
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+7 
+e  which  allows  an  expected  annual  reduction  of 1.2 million tonnes CO
+2-
+e  over  the 
+next  20  years  through  prevention  of conversion into  plantation.  In  addition,  the 
+prevention  of  peat  swamp  forest  from conversion into  plantation  would  allow  this 
+project  to  contribute  towards  protection  of  Indonesian  peat  swamp  forest  and 
+achievement of greenhouse gas emission reduction goal for the year 2020. 
+ 
+1.2 Sectoral Scope and Project Type 
+Sectoral scope of the project is 14 (agriculture, forest and other land-use). 
+The project is categorized as Avoid Planned Deforestation (APD) on natural forest. 
+The project is a single project (not a grouped project).  
+ 
+1.3 Project Proponent 
+Organization 
+name 
+KPHP Tasik Besar Serkap, Riau Province-Indonesia 
+Contact person Apidian Suherdiata 
+Title Head Section of Forest Planning, Utilization, and Use 
+Address Jalan Pengayoman 1 Pekanbaru Riau Province-Indonesia 
+Telephone +62 761 7874 131 / +62 813 6599 3789 
+Email Apidian1973@gmail.com 
+KPHP is a form of Forest Management Unit assigned to perform the following tasks: 
+(i)  Forest  management  and  development  of  forest  management  plan,  (ii)  Forest 
+utilization,  (iii)  Forest  land use  utilization,  (iv)  Forest  rehabilitation  and  reclamation, 
+and (v) Forest protection and nature conservation
+1
+. 
+Aside  from  the  abovementioned  tasks,  it  also  has  the  authority  to  describe  the 
+national,  provincial  and  district  forest  policies  to  be  implemented,  implementing 
+forest  management  activities,  monitor  and  evaluate  the  implementation  of  forest 
+management  activities,  and  to  invite  investment  in  the  forest  area.  In  implementing 
+forest  management  activities,  the  KPHP  can  delegate  the  management  rights to 
+concession holder from private and/or public (community). 
+ 
+                                                 
+1
+According to the Ministry of Forestry Regulation P.47/Menhut-II/2013 regarding Guidance, Criteria and Standard 
+for Forest Utilization in designated area on Protection Forest Management Unit and Production Forest Management 
+Unit (KPHP) 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+8 
+1.4 Other Entities Involved in the Project 
+Organization name Ministry of Environment and Forestry 
+Role in the project Government body to co-develop the project and advise KPHP 
+TBS on all aspects of project development, especially 
+regarding governmental rules and permits. 
+Contact person 1) Is Mugiono,  
+2) Armunanto 
+Title Director of Planning, Utilisation, and Establishment of Forest 
+Management Area. 
+Address Manggala Wanabhakti Building Jakarta-Indonesia 
+Telephone +62 21 570 4501/ 570 4502/ 570 4503/ 570 4504 
+Email is_mugiono@yahoo.com ; armunantods@yahoo.com 
+ 
+Organization name Korea-Indonesia FMU/REDD+ Project Management Unit 
+(PMU) 
+Role in the project Co-Developer. Assist in aspects of project development related 
+to preparation, kick-off, and preparation of verification and 
+validation process 
+Contact person 1) Lee Seong Hwan 
+2) Andi Andriadi 
+Title 1) Korea Co-Director 
+2) Indonesia Co-Director 
+Address Manggala Wanabhakti Building Jakarta-Indonesia 
+Block I 5th Floor Wing B Room 511 
+Telephone +62 21 5773 790 
+Email leesh00317@gmail.com, andriadiandi@gmail.com 
+ 
+Organization name Korea Indonesia Forest Center 
+Role in the project Co-Developer. Assist in finalizing project documents for 
+verification and validation process, as well as registry process. 
+Contact person Moon Jongpil 
+Title Project Manager 
+Address Manggala Wanabhakti Building Jakarta-Indonesia 
+Block IV 7th Floor Wing C Room 723 
+Telephone +62 21 5785 2991 / +62 812 9739 9095 
+Email bucge@nate.com 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+9 
+ 
+Organization name Kampar REDD+ Consortium 
+Role in the project A consortium consists of independent consultants and 
+universities to assist PMU in project development kick-off; 
+design and management of forest carbon inventory; lead and 
+supervise collection of field data; lead the development of 
+baseline; develop project document, registry process, and 
+advise KPHP TBS on aspects of project development. The 
+Kampar REDD+ Consortium is led by SG Consulting, Korindo 
+Group and its members are CER Indonesia, University of Riau, 
+Lancang Kuning University and Seoul National University. 
+Contact person Roh Gyeong Min 
+Title Deputy General Manager, SG Consulting, Korindo Group 
+Address 13
+th
+ Floor Wisma Korindo. Jl. MT Haryono Kav 62. Jakarta 
+Indonesia. 
+Telephone +62 21 797 5959 (Ext. 392) 
+Email gmroh@korindo.co.id 
+ 
+1.5 Project Start Date 
+Issuance  date  of the Long-term  Forest  Management  Plan  (RPHJP)  of  the KPHP 
+TBS is 16  December  2014.The  document  stated  that  the  proposed  project  area  is 
+officially designated as location for implementation of REDD+ activity. Thus the date 
+is selected as the project’s start date. 
+ 
+1.6 Project Crediting Period 
+The project’s crediting period is 20 years. The start date is 16 December 2014  and 
+the end date of the crediting period is 15 December 2034 
+ 
+1.7 Project Scale and Estimated GHG Emission Reductions or Removals 
+The project  is  estimated  to  generate 24.8 Mt CO
+2
+ of net emission  removals during 
+the project period. It is beyond the threshold for large project of annual emissions of 
+1,000,000 tCO
+2
+, thus the project is categorized as a large project. 
+Project Scale 
+Project 
+ 
+Large project 
+√ 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+10 
+ 
+Table 1. Estimated net emission removals throughout crediting period 
+Year Estimated GHG emission 
+removals (tCO
+2
+e) 
+2015 
+          316,244.59  
+2016 
+           587,407.70  
+2017 
+           805,952.62  
+2018 
+        1,013,123.14  
+2019 
+        1,167,906.65  
+2020 
+        1,285,413.56  
+2021 
+        1,364,257.11  
+2022 
+        1,429,130.99  
+2023 
+        1,419,873.39  
+2024 
+        1,409,068.10  
+2025 
+        1,406,732.34  
+2026 
+        1,395,974.53  
+2027 
+        1,388,319.68  
+2028 
+        1,380,374.29  
+2029 
+        1,429,130.99  
+2030 
+        1,419,873.39  
+2031 
+        1,409,068.10  
+2032 
+        1,406,732.34  
+2033 
+        1,395,974.53  
+2034 
+        1,388,319.68  
+Total estimated ERs 
+      24,818,877.73  
+Total number of 
+crediting years 
+20 
+Average annual ERs 
+1,240,943.89 
+ 
+1.8 Description of the Project Activity 
+Main  objective of the proposed  project is to avoid conversion of the 14,722.9 ha of 
+the proposed  project area into  timber  plantation by  assign  it  as  a  REDD  area  thus 
+change its function from production to protection.  
+The  area  is part  of “wilayah tertentu”  (“specific area”) of  the  KPHP  TBS.  By 
+regulation, the “specific area” is defined as area of KPHP in which no concessional 
+rights have  been awarded  to  any  party. Within  the  KPHP  TBS,  there  are  about 
+40,000  ha  “specific area”. The  KPHP has  the  rights  to  manage  this  area  for 
+production of timber and/or non-timber forest products.  
+In  line  with  the  function  of  the  KPHP  as  defined  in  Minister  of  Forestry  Decree  no. 
+509/Menhut-VII/2010,  this  area  is  planned  to  be  managed  for timber  production, 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+11 
+which  was  also  stated  in  the  initial  meeting  for  development  of  the  KPHP  TBS’s 
+management  plan.  However,  considering  the potential  of the  proposed area for 
+forest  preservation, the  Government  of  Indonesia received  an  offer  to  have  a  joint 
+cooperation in strengthening the capacity of forest management unit at Tasik Besar 
+Serkap  from  the  Government  of  Korea,  in  which  one  of  the  activity  in  to  promote 
+REDD+  and  other  carbon  emission  reduction  mechanism. Following  this,  the  area 
+was then allocated for  the  cooperation to be conserved under REDD  scheme. This 
+plan was then formalized in the KPHP TBS’s RPHJP (Rencana Pengelolaan Hutan 
+Jangka Panjang - Long-term Forest Management Plan) and legalized by the Ministry 
+of Forestry Decree No. 7565/Menhut-2014. 
+The  proposed  project  will  apply several  measures  designed  to  preserve  the  area 
+from being deforested and/or experiencing degradation, such as: 
+ Installation of clear boundary that can be easily recognized by community 
+ Socialization with relevant stakeholders on the area’s designation as REDD 
+project site 
+ Facilitation on development of livelihood for surrounding communities, such 
+as development of community forest.  
+ Collaboration  with  community  under  a  program  called Masyarakat  Peduli 
+Api” (community care fire) to manage the fire risk in the area
+2
+. 
+ Empowering  the  community  surrounding  the  project  area  to  encourage  the 
+community  participation  and  improve  their  concern  to  protect  the  forest 
+ecosystem   from   degradation.   The   activities   include   facilitation   to   the 
+development  of  small  and  medium  businesses (UKM – Usaha  Kecil  dan 
+Menengah)  in  the  villages  surrounding  the  KPHP-TBS,  identification  and 
+development  of  business  plan,  as  well  as  development  of  ecotourism 
+activities, community  rubber  plantation  and  Sago  community  forest  outside 
+the  proposed  project boundary,  forest-based  honey  bee, optimization  of 
+unproductive  land  in  the  villages  for  agrosilvopastural,  and  development  of 
+fish pond silvofishery. 
+ 
+1.9 Project Location 
+The proposed project site is located inside the State Production Forest Area of Tasik 
+Besar Serkap’s Forest Management Unit– Production.  Administratively,  the  area  is 
+part of Sungai Apit Sub District, Siak District, Riau Province. 
+                                                 
+2
+The system works on voluntary basis. In participating villages, there will be trained volunteers to monitor for the 
+existence of flames that potentially become fires. In the case that the flames are manageable, self-hep extinguishing 
+is then conducted; otherwise they will report it to officers in sub-district level and/or above. 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+12 
+According to the following map of project boundary from the KPHP, the project site is 
+geographically  lies between  the  coordinates  0
+O
+37'35,72” North - 0
+O
+45'57,38"North 
+and 102
+O
+20'50,15"  East - 102
+O
+38'19,29" East, as shown by the Figure 1 below. 
+ 
+Figure 1. The location of activity according to RPHJP KPH Tasik Besar Serkap 
+2014-2023 
+As shown by Land System Map from the Ministry of Agriculture (RePPProT, 1987). 
+the proposed site is part of large peat ecosystem that stretches along the low land at 
+east  coast  of  Riau  Province.Nevertheless,  overlay  analysis  shows  that  the  site 
+located  outside  the  peat  moratorium  zone  as  regulated  by  Decree  of  Ministry  of 
+Forestry no      6982 year   2014 (Keputusan   Menteri   Kehutanan   6982/Menhut-
+VII/IPSDH/2014) or also known as PIPIB 7
+3
+ (see Figure 2). 
+ 
+                                                 
+3
+ Presidential  Decree  No.  61/2011  has  targeted  reduction  of  GHG  emissions  by  26%  of  which  80%  are  from  the 
+LULUCF  sector  including  peat.  To  support  its  implementation,  GoI  has  issued  Presidential  Instruction  No.  10/ 
+2011 dated May 20, 2011 on New Permit Delays and Improving of Governance of Primary Forest and Peatland. 
+As a follow up measures, the Ministry of Forestry issued the Ministerial Decree No. SK.323/ Menhut-II/2011 dated 
+June 17, 2011 concerning Indicative Map of New Permit Delays (Peta Indikatif Pembukaan Ijin Baru/PIPIB) on 
+Utilization  of  Forest  Product,  Utilization  of  Forest  Area  Area,  and  Conversion  of  Forest  Area.  In  accordance  to 
+periodic revision of the map, the latest version of PIPIB map (version 7) has been issued through the Minister of 
+Forestry 6982 / Menhut-VII / IPSDH / 2014 dated 13 November 2014. 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+13 
+ 
+Figure 2. Overlay  of  project  location  and  Peat  Moratorium  Map (PIPIB) Year 
+2014 
+ 
+1.10. Conditions Prior to Project Initiation 
+a. Physical and climate  
+Peat  swamp  forest  in  the  project site is  made  up  of  young  and  old  alluvium 
+sediments consisting of sand sediment, lake, clay, peat and plant remains. Based on 
+the national soil classification, the project site is dominated by Organosol / Peat soil 
+which contains  a  lot  of  organic  material, so  that  development  of  the  land will  be 
+affected   by   the   level   of  maturity,   and   the   decomposition   of   organic   material 
+properties. Morphologically, the peat ecosystem is characterized by formation of soil 
+horizons with dark brown to black colour,  high  water levels  and  very  sour in  acidity 
+(pH  3-5). Based  on  the  interpolation  technique  of  field  measurement  data  by  using 
+GIS, Peat depth varies, ranging from 4 to more than 12 m (see Figure 3) 
+Based on Digital Elevation Model (DEM) data from SRTM, the average altitude is 20 
+meters  above  sea  level  with  slope ranging from 0 to 8% (flat  area). Overall  type  of 
+climate in the area by classification Schmidt - Fergusson is included as climate type 
+A  (wet  climate) with  average  of annual  rainfall  in  Siak  (2011) is 2,443.80  mm.  
+Temperatures ranging from 26 °C to 30 °C. 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+14 
+ 
+Figure 3. Peat depth assessment based on field survey 
+b. Landcover  
+Land  cover of  the  project  area  was  developed  through  Landsat  8/Operational  Land 
+Imager  (OLI)  classification. Overall  accuracy  of  the  classification  was  90.79  %  and 
+Kappa statistic was 86.33%. Land cover in year 2014 was dominated by secondary 
+peat swamp forest, with the coverage percentage reached 93% of the total acreage. 
+The forest average  is  dominated  by  dipterocarpaceae  trees.  Other  tree  species 
+found in the area are Kelat (Syzygium aqueum Burm.), Bintangur (Callophylum spp), 
+Gelam (Melaleuca cajaputi Powell), Jerejet, Kelincan (Cinnamomum spp), Mahakai, 
+Pelintai (Syzygium spp), and Sepahit
+4
+. 
+Based on the Simpson diversity  index, the  proposed  location falls  into the category 
+of  complex  and  stable  community. While  based  on  the  calculation  of  the  Shannon-
+Wiener  diversity  index,  level  of  diversity  in  the  project  area  are  classified  as 
+moderate category. 
+For  the  purpose  of  forest  stratification  with  regard  to  above  ground  carbon  stock 
+measurement, the forest was differentiated further  into four level of density, namely 
+very low density, low density, medium density and dense forest. This will ensure the 
+homogeneity of plot during measurement (Subedi et al., 2010). For that reason then 
+the  object  based  stratification  method  was performed  based  on  field  observation. 
+Meanwhile  for  forest  density  differentiation, the  stem  count was  selected  as  key 
+                                                 
+4
+Long Term Management Plan of Tasik Besar Serkap (RPHJP) 2014 - 2023 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+15 
+criteria (Kohl, Magnusen & Marchetti, 2006). In addition to that tree crown coverage 
+and understory vegetation condition were also consider. The criteria and indicator of 
+stratification are follows: 
+ Very  low  density  of  forest :  secondary  degraded  forest  which  is  dominated  by 
+sapling & poles  
+ Low  density  secondary  forest: Forest  cover  in  which  within  a  20  x  20  m  plot, 
+there  are  20-40  trees  stand,  since  the  crown  cover  is  relatively  low,  therefore 
+the   forest   floor   is   mostly   occupied   by   seedling,   shrubs and pandanus 
+(Pandanus spp). 
+ Medium density forest: Forest cover in which within a 20 x 20 m, there are 15-
+60  trees  stand,  whereas  some  trees  have  high  size  of  diameter.Sapling  and 
+poles  dominated  in  the  forest  floor.  Very  often tall pandanus  (Pandanus  spp) 
+species can be found. 
+ Dense  Forest:  Forest  with  very  high  crown  coverage,  that  make  forest  floor 
+relatively  clear  compare  to  low  and  medium  density.  Within  a  20  x  20  m  plot 
+dimension, there are 70 – 100 trees, in which some of them have very tall. Very 
+often, very tall Mengkuang (Pandanus odoratissimus) exist. 
+These vegetated  area cover 14,536.4 ha  (99%)  of  the  total  area  allocated for  the 
+project.  
+Bareland  land  cover  types  originated  from  secondary  forests  that  have  suffered 
+severe  degradation due  to land  clearing  for  agricultural  purposes  or  as  a  result  of 
+forest fires. Barren land currently can be found in the western part of the area which 
+already   has   good   road   access   to   facilitate   encroachment   by   surrounding 
+communities.  
+There is no settlement found inside the proposed project area. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+16 
+ 
+The land cover map in the project area can be seen in Figure 4 below. 
+ 
+Figure 4. Landcover of project area year 2014 based on Landsat 8 Imagery 
+ 
+c. Biodiversity 
+Biodiversity  assessment  survey  was  conducted  within  the  period  of  16  March – 17 
+May  2015.  The  survey  was  divided  into  three  stages,  the  first  is  pre  survey 
+conducted on 16 – 22 March 2015, the first main survey on 21 – 27 April 2015, and 
+the  last  is  second  main  survey  on  8 – 17 May 2015.  Furthermore,  to  support  the 
+existing data, a rapid assessment was conducted on 20 – 28 October 2015. 
+Flora 
+Based  on  the  results  of  the  survey,  67  species  of  timber  plants  and  29  species  of 
+non-timber plant were found. The level of biodiversity of flora in the area of REDD + 
+Kampar including  medium  category  with  H'  (Shannon Wiener  Index)  value  of 2.99. 
+Species  richness exists  in the  area is  considered as  high  category  level  with 
+Margalef Index (R) of 8.97.  
+The  most  dominant  species  in  the  area are  Kelat  (Syzygium  aqueum), 59.24%; 
+Medang  (Cinnamomum  spp),  21.33%; Meranti  (Shorea  spp),  20.60%; Bintangur 
+(Calophyllum spp), 20.10%; and Arang-arang (Diospyros macrophylla Bl), 15.49%. 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+17 
+Out of the identified plants species, Resak paya (Vatica teysmanniana) and Meranti 
+bunga (Shorea teysmanniana) are native (endemic) of Sumatra, being found only in 
+peat lands of South Sumatra, Riau and Bangka. 
+With  regard to  the  IUCN  Red  List,  one  species  of  woody  plants is categorized  as 
+Critically  Endangered  (CR), one species  categorized  as  Vulnerable  (VU)  and  one 
+species categorized as Endangered (EN). In addition, there are also four non-timber 
+plants species are categorized as Least Concern (LC). 
+Fauna 
+Fauna identified in the proposed project area is divided into three categories, namely 
+species of  herpetofauna, avifauna  and mammals. Based on the survey, 28 species 
+of herpetofauna, 75 species of avifauna, and 16 species of mammals were found.  
+Rapid assessment was conducted two transects (T1 and T3). Herpetofauna species 
+dominance index shows differences in species composition in each transect. Out of 
+the  total  of  18  species found,  only  five  species  are  found  in  both  transects.  This  is 
+because the two transects are relatively distinct communities. 
+The biodiversity  level  of  avifauna is  considered  as high  category  with  H'  (Shannon 
+Wiener Index) value of 3.32 at T1 and 3.37 at T3. Both transects is dominated by a 
+group of Aerial feeders. Overall, the group of birds most commonly found are insect 
+eaters, followed by fruit-eating birds. 
+The  level  of  biodiversity  for mammals is  at medium  category  with  H'  (Shannon 
+Wiener  Index) values  of 2.29 in  T1 and  1.92 in T3.  The  level  of  evenness  (J)  were 
+high  on  both  transects  with  a  value  of  J  at  T1  0.76  and  0.61  at  T3. There  are 
+differences  in  the  level  of  encounter  and the  mammal’s body size.  The  large 
+mammals have higher percentage of encounter than the small-sized mammals. 
+Out  of  the  of  three identified  species groups  of  fauna,  Katak  rawa  kecil  (Hylarana 
+rawa),  Perenjak  jawa  (Prinia  familiaris),  and  Harimau  sumatera  (Panthera  tigris 
+sumatrae) are native (endemic) of Sumatra. 
+With regard to the IUCN Red List, for herpetofauna species, two are categorized as 
+Vulnerable (VU) and 15 species are categorized as Least Concern (LC). In addition, 
+there  are  nine species  of  herpetofauna  categorized  as  Not  Evaluated  (NE),  and  2 
+species (Cyrtodactylus  porosus and Sphenomorphus sp.) are not  included  in  the 
+category of IUCN, CITIES, and the Indonesian government regulations. 
+For  Avifauna, one species  is  categorized  as  Endangered  (EN)  and  14  species  are 
+categorized  as  Near  Threatened  (NT).  For  mammals, two species are categorized 
+as  Endangered  (EN), two species  are  categorized  as  Near  Threatened  (NT),  three 
+species  are  categorized  as  Vulnerable  (VU)  and  one species is categorized  as 
+Critically  Endangered  (CR).  In  addition,  there  are  also  six species  of  mammals 
+categorized  as  Least  Concern  (LC)  and  one species  categorized  as  Data  Deficient 
+(DD). 
+ 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+18 
+1.11 Compliance with Laws, Statutes and Other Regulatory Frameworks 
+The  project  proponent is government  entities  eligible  to  develop  REDD projects 
+according   to   the Minister   of   Forestry Regulation P.20/Menhut-II/2012 regarding 
+Implementation of Forest Carbon. 
+Since  the  proposed  project  area  is  a  peat  land  with  depth  ranging  between  5-12  m, 
+there  is  a  question  on  whether  the  area  can  be  used  for  production  use. With  the 
+issuance   of   the   Government   Regulation   (PP)   no.   71/2014   on   Protection   and 
+Management  of  Peat  Ecosystem,  the  Minister  of  Environment  and  Forestry  should 
+issue  a  decree  to  define  the  proposed  area  as  protection  function  if  it  has  peat  land 
+with  depth  of  more  than  3  meters  and  also  has  biodiversity  function,  protected 
+species, and peat ecosystem.  
+However, application   of   the   regulation   needs   further   interpretation   through   the 
+issuance  of  map  indicating  whether  an  area  is assigned  for  protection  or  not,  and 
+based on the indicative map on moratorium for  issuance of new permits prepared by 
+the  Ministry  of Environment  and  Forestry,  the  proposed  area  is  not  included  as 
+moratorium  area. Meaning  that  the  function  of  the  area  remain  as  production  area 
+following the Ministry   of   Forestry   decree   No.   173/Kpts-II/1986   regarding   the 
+designation of the Tasik Besar Serkap area as production area. The indicative map is 
+confirmed by the Minister of Forestry Decree no. 6982/Menhut-VII/IPSDH/2014 dated 
+13 November 2014. Thus the KPHP TBS have the rights to continue using the area for 
+harvesting woods, including converting it to timber plantation forest. 
+Following the national policy related to the implementation of REDD as defined in the 
+REDD  National  Strategy (2012)
+5
+, some of  the  production  forest  area  located  in  peat 
+land are included in the area to be conserved. In this regard, the proposed area is also 
+included in the indicative map (PIPIB) dated 13
+th
+ May 2015
+6
+ to confirm the intention of 
+the KPHP TBS in allocating the area for REDD project.  
+ 
+1.12 Ownership and Other Programs 
+1.12.1 Right of Use 
+The  land  title of  the  area is a state owned  forest  area,  according  to  the  following 
+legality: 
+ Minister  of  Forestry Decree Number 173/Kpts-II/1986  dated  6  June  1986 
+regarding  Forest  Land  Use  Agreement (TGHK),  which  was  ammended  by 
+                                                 
+5
+ Strategi Nasional REDD+, Satuan Tugas Persiapan Kelembagaan REDD+ Indonesia, Jakarta, Indonesia, Juni 
+2012. (http://forestclimatecenter.org/files/2012-06-18%20Strategi%20Nasional%20REDD+.pdf) 
+6
+ Legalized by Presidential Instruction no. 8/2015 regarding Moratorium of New Permit and Improvement of the 
+Management of Proimary Natural Forest and Peat Land  
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+19 
+Decree   of   Minister   of   Forestry   Number   878/Menhut-II/2014   dated   29 
+September 2014 regarding State Forest Area of Riau Province. 
+ Riau Local Regulation (Perda) Number 10 year 1994 dated 19 August 1994 
+regarding Spatial Plan of Riau Province. 
+The  state’s  owned  forest  area is managed  by  KPHP  Tasik  Besar  Serkap  (KPHP 
+TBS). 
+1.12.2 Emissions Trading Programs and Other Binding Limits 
+According  to  the  Indonesia’s Action  Plan  for  Greenhouse  Gas  Reduction, the 
+establishment of Forest Management Unit (KPH) is designed to be a key strategy in 
+achieving the national emission  reduction  target  of  26% and  41%
+7
+. Although the 
+proposed  project  is  being  developed  under  VCS  scheme of  which  the  credits 
+generated  can  be  sold  to  open  buyer, the  emission  reduction  generated  from  this 
+project  is  also  open  to be  used  to fulfil  the national  target if  it  is  not  being  sold to 
+foreign   buyer.   Therefore,   to   avoid   double   counting, the   proponent   will   sent 
+notification letter to the Ministry of Environment and Forestry who manages national 
+registry  on  REDD  Demonstration  Activities  as  well  as National  Greenhouse  Gas 
+Inventory,  and  to  Bappenas who  tracks  the  progress  of  the  national  emission 
+reduction target.     
+1.12.3 Other Forms of Environmental Credit 
+The project will only be registered under VCS standard. 
+1.12.4 Participation under Other GHG Programs 
+The project will only follow and registered to VCS standard. 
+1.12.5 Projects Rejected by Other GHG Programs 
+The project has not been registered to other forest carbon standard. 
+1.13 Additional Information Relevant to the Project 
+Eligibility Criteria 
+The proposed project area is single project, thus there is no eligibility criteria for 
+inclusion of new instances of project activity 
+Leakage Management 
+                                                 
+7
+ The target is stipulated in the Presidential Regulation no. 61/2011 regarding National Action Plan for 
+Greenhouse Gas Emission Reduction  
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+20 
+Potential  leakage  from  displacement  of  activities  is  considered  zero  therefore  no 
+activity addressing the possibility of shifting of activity is designed.  
+Commercially Sensitive Information  
+N.A 
+Further Information 
+N.A 
+ 
+2. APPLICATION OF METHODOLOGY 
+2.1 Title and Reference of Methodology 
+The  proposed  project  is  developed  following  the Approved  VCS  Methodology 
+VM0007 ver.1.5 sectoral scope 14 titled REDD+ Methodology Framework.  
+The  following  modules  and  tools  are  used  is  the  preparation  of  the  VCS-PD,  in 
+accordance to guideline described in the VM0007 ver 1.5 
+ Module   BL-PL   for estimation of   baseline carbon   stock   changes   and 
+greenhouse   gas   emissions   from planned   deforestation and   planned 
+degradation, version 1.2 
+ Module  CP-AB  for estimation of  carbon stocks  in  the above and  below 
+ground biomass in live tree and non-tree pools, version 1.1 
+ Module  BL-PEAT  for  Estimation  of  baseline  soil  carbon  stock changes  and 
+greenhouse  gas  emissions  in  peat land  rewetting  and  conservation  project 
+activities; version 1.0 
+ Module  E-FFC  for  Estimation  of  emissions  from  fossil  fuel  combustion; 
+version 1.0 
+ A/R  Methodological  tool  “Estimation  of  direct  nitrous  oxide  emission  from 
+nitrogen fertilization”, version 01 
+ Module   M-REDD/M-MON   methods   for   monitoring   of   greenhouse   gas 
+emissions and removals in REDD project activities, version 2.1 
+ Module  M-PEAT methods  for  monitoring  of  soil  carbon  stock  changes  and 
+greenhouse   gas   emissions   and   removals   in   peatland   rewetting   and 
+conservation project activities, version 1.0 
+ Module LK-ASP for calculation of leakage from shifting of activities, version 
+1.2 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+21 
+ Module  X-UNC  for  Estimation  of  uncertainty  for  REDD+  project  activities, 
+version 2.1 
+ A/R Methodological tool “Combined tool to identify the baseline scenario and 
+demonstrate additionality in A/R CDM project activities”, version 01 
+ 
+2.2 Applicability of Methodology 
+The project activity conforms to the eligibility stated in the VM0007 as follows: 
+Table 2. Conformity of the project activity to eligibility criteria 
+No Applicability point Project situation 
+1 All land areas registered under the 
+CDM or under any other carbon 
+trading scheme (both voluntary and 
+compliance-oriented) must be 
+transparently reported and 
+excluded from the project area 
+The proposed project area has no land 
+registered under CDM or any other 
+carbon trading scheme 
+2 Land in the project area has 
+qualified as forest (following the 
+definition used by VCS) at least 10 
+years before the project start date. 
+VCS forest definition is the same as 
+CDM forest definition, therefore for 
+Indonesian case the definition follow 
+the Ministry of Forestry Regulation No 
+14/2004, which is also referred by the 
+National Forest Reference Emission 
+Level. Based on the regulation, forest 
+definition is stated as follow: 
+- Minimum land cover 30% 
+- Wide area 0.25 Ha 
+- Minimum height of tree 5 metres at 
+mature stage. 
+3 Leakage avoidance activities shall 
+not include: 
+•  Agricultural lands that are flooded 
+to increase production (e.g. paddy 
+rice); 
+•  Intensifying livestock production 
+through use of “feed-lots” and/or 
+manure lagoons 
+Leakage associated with planned 
+deforestation baseline scenario is 
+related to leakage due to shifting 
+activity. Since no such leakage is 
+estimated to occur, there is no leakage 
+avoidance activities being planned 
+4 Conversion of forest lands to a 
+deforested condition must be 
+legally permitted 
+The proposed project area is a 
+designated production forest area in 
+which conversion into other forest form 
+is permitted under the Ministry of 
+Forestry decree No. 509/Menhut-
+VII/2010 on Establishment of the Tasik 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+22 
+Besar Serkap Production Forest 
+Management Unit (KPHP TBS) 
+5 Where, pre-project, unsustainable 
+fuel wood collection is occurring 
+within the project boundaries 
+modules BL-DFW and LK-DFW 
+shall be used to determine potential 
+leakage. 
+No unsustainable fuel wood collection 
+activities are identified prior to project 
+implementation 
+6 REDD project activities on peat 
+land shall not increase drainage 
+The REDD project activity is 
+continuation of the current state of 
+proposed project area as natural 
+forest. No production activity will take 
+place in the area thus the REDD 
+project will not increase drainage 
+ 
+2.3 Project Boundary 
+2.3.1 Geographical boundary 
+Geographical boundary of  the  project comprising an  area of 14,722.9 ha located in 
+Siak  and  Pelalawan  District. The  proposed  project  area  is  surrounded  by  timber 
+plantation  forests  (HTI).  In  the north  side is timber plantation  forest  belongs  to PT. 
+RAPP (see Figure 5). 
+However, out of the 14,722.9 ha allocated for the REDD project, only 14,546.19 ha 
+are being covered with vegetation while the remaining areas are in the form of water 
+body and bare land, thus the vegetated area is the one use for estimation of carbon 
+stocks and emissions. 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+23 
+ 
+Figure 5. Proposed REDD+ Project Boundary 
+To demarcate field boundary of project site, KPHP Tasik Besar Serkap has installed 
+permanent   boundary   markers   (concrete pole/frame), which   was conducted   in 
+October2014. Installation  of  the  boundary  markers  have  been  equipped  with  the 
+minutes (berita  acara) that  describes  the geographic  coordinate  of each  boundary 
+markers (see Appendix 1). 
+According  to  the Ministry  of  Forestry  decree  No.  509/Menhut-VII/2010  on,  the 
+proposed  project  area  is  eligible  for  conversion  into other  forest  land  uses  such  as 
+industrial timber plantation, village forest, etc.  At the time of the Project Description 
+writing, there  are  already  17  Industrial Timber Plantation Forest, four Ecosystem 
+Restoration   (Restorasi   Ekosistem),   and two Village   Forest      (Hutan   Desa) 
+surrounding  the  area  (see Table 3),  making  conversion  of  the  area  into  industrial 
+timber plantation the most plausible option. 
+Table 3. Existing Timber Plantation Concessions at KPHPTBS 
+No 
+Name of consession / 
+parcels 
+Type Permit and year 
+Area 
+(ha) 
+1 
+PT. RAPP 
+(consist of three separated 
+location) 
+IUPHHK-
+HT
+8
+ 
+ SK. 248/MENHUT-
+VI/2009  
+ SK 180/Menhut-II/2013 
+141,795 
+2 PT. Mitra Hutani Jaya 
+IUPHHK-
+SK 101/Menhut-II/2006 9,240 
+                                                 
+8
+ Permit for plantation 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+24 
+No 
+Name of consession / 
+parcels 
+Type Permit and year 
+Area 
+(ha) 
+HT 
+3 PT. Satria Perkasa Agung 
+IUPHHK-
+HT 
+SK 60/Menhut-II/2013 11,927 
+4 PT. Triomas FDI 
+IUPHHK-
+HT 
+SK.522.21/IUPHHKHT/I/200
+3/012 9,625 
+5 PT. Uni Seraya 
+IUPHHK-
+HT 
+SK.214/Menhut-II/2007 33,360 
+6 PT. Putra Riau Perkasa 
+IUPHHK-
+HT SK 104/Menhut-II/2006 15,640 
+7 PT. Madukoro 
+IUPHHK-
+HT 
+SK522.21/IUPHHKHT/I/2003
+/017 
+15,000 
+8 PT. Selaras Abadi Utama 
+IUPHHK-
+HT SK 382/Menhut-II/2004 13,600 
+9 CV. Bhakti Praja Mulia 
+IUPHHK-
+HT 
+SK 
+522.21/IUPHHKHT/I/2003/11 
+5,800 
+10 CV. Alam Lestari 
+IUPHHK-
+HT 
+SK 
+522.21/IUPHHKHT/I/2003/15 3,300 
+11 CV. Harapan Jaya 
+IUPHHK-
+HT 
+SK 
+522.21/IUPHHKHT/I/2003/16 
+4,800 
+12 CV. Tuah Negeri 
+IUPHHK-
+HT 
+SK 215/Menhut-II/2007 1,480 
+13 CV. Mutiara Lestari 
+IUPHHK-
+HT 
+SK 
+522.21/IUPHHKHT/I/2003/00
+7 
+4,000 
+14 PT. Arara Abadi 
+IUPHHK-
+HT 
+SK 703/Menhut-II/2013 45,431 
+15 
+PT. Ekawana Lestari 
+Dharma 
+IUPHHK-
+HT 
+SK 733/Kpts-II/1997 9,300 
+16 
+PT. National Timber and 
+Forest Product 
+IUPHHK-
+HT 
+SK 21/Menhut-II/2007 9,300 
+17 PT. Balai Khayang Mandiri 
+IUPHHK-
+HT 
+SK 20/Menhut-II/2007 22,250 
+18 
+PT. The Best One Uni 
+Timber 
+IUPHHK-
+RE
+9
+ 
+Ongoing process for 
+obtaining permit 
+44,112 
+19 
+PT. Gemilang Cipta 
+Nusantara 
+IUPHHK-
+RE 
+SK 395/Menhut-II/2012 20,265 
+20 
+PT. Sinar Mutiara 
+Nusantara 
+IUPHHK-
+RE 
+SK 162/Menhut-II/2014 37,100 
+21 PT. Global Alam Nusantara 
+IUPHHK-
+SK 230/Menhut-II/2014 36,850 
+                                                 
+9
+ Permit for Ecosystem Restoration  
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+25 
+No 
+Name of consession / 
+parcels 
+Type Permit and year 
+Area 
+(ha) 
+RE 
+22 
+Desa Segamai Kec. T. 
+Meranti 
+Village 
+Forest 
+SK.154/Menhut-II/2013 2,000 
+23 
+Desa Serapung Kec. K. 
+Kampar 
+Village 
+Forest 
+SK 155/Menhut-II/2013 2,000 
+Source: RPHJP KPHP TBS, December 2014 
+ 
+2.3.2 GHG emissions sources associated with baseline and project scenario 
+The  proposed  project  activity  is  avoid  planned  deforestation  conducted  in  a  peat 
+land. As such, emission sources considered are those related to net stock changes 
+and emissions occur due to deforestation activity in peat land. 
+Table 4. GHG emission sources in baseline scenario 
+Source Gas Included? Justification/explanation 
+Stock changes in 
+Above ground biomass  
+CO
+2
+ Yes Tree  and  non-tree. Included  as  per 
+VCS  methodology  VM0007  ver.  1.5 
+& VMD0006 BL-PL V1.2 
+Stock changes in 
+Below ground biomass   
+CO
+2
+ Yes Tree  and  non-tree. Included  as  per 
+VCS  methodology  VM0007  ver.  1.5 
+& VMD0006 BL-PL V1.2 
+Stock  changes  in  Soil 
+(peat) 
+CO
+2
+ No Changes  in  peat  is  covered  in  the 
+estimation   of   emission   from   peat 
+decomposition,  thus  this  source  is 
+omitted 
+Stock changes in 
+Litters 
+CO
+2
+ No Optional,  project  proponent  chose  to 
+not include it 
+Stock changes in 
+Deadwood 
+CO
+2
+ No From  field  survey, carbon  stock of 
+deadwood  in  the  current  land  use 
+(natural  forest)  is in  average  8.6  ton 
+C/ha, while  under  baseline  scenario 
+(timber    plantation),    deadwood    is 
+rarely   found   in   the   ground.   Thus 
+carbon   pool   post   deforestation   is 
+less than pre-deforestation.  
+Following  the  VM0007 ver.  1.5,  the 
+source is then omitted. 
+Stock changes in 
+Wood products 
+CO
+2
+ No Timber  harvested  in  the  area  are 
+most  likely  to  be  used  for  pulp  and 
+paper  industry  in  which  the  wood 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+26 
+products will   be   short-lived,   thus 
+emission from this source is omitted 
+Emission    from    Peat 
+decomposition 
+CO
+2
+ Yes The proposed project area is located 
+in  a  peat  land.  Baseline  scenario  is 
+estimate to cause peat 
+decomposition  thus  emission  from  it 
+is included. 
+Emission   from   Ditch 
+drainage 
+CH
+4
+ Yes Under    the    baseline    scenario    of 
+managed tree plantation, ditches  will 
+be    constructed to    stabilize    the 
+hydrological  system  in  the  area thus 
+emission from it is included. 
+Emission    from    Fuel 
+consumption 
+CO
+2
+ Yes Included    as per    VCS    module 
+VMD0006 BL-PL V1.2 
+Emission  from  Use  of 
+fertilizer 
+N
+2
+O Yes Included    as    per    VCS    module 
+VMD0006 BL-PL V1.2 
+Emission from 
+Biomass burning 
+CH
+4
+ No The   practice   of   burning   for   land 
+clearing in Industrial Timber 
+Plantation  is  forbidden  according to 
+the Act no. 32/2009 on 
+Environmental Protection and 
+Management, thus it is assumed that 
+biomass  burning  due  to  forest  fire 
+will not occur 
+Moreover,  Based  on  15  year  history 
+of     fire    occurrence    at     Kampar 
+Peninsula,  there  was  no  any  single 
+incidence   within   the   project area 
+(see Appendix 3) 
+Emission from 
+Biomass burning 
+N
+2
+O No 
+ 
+Table 5. GHG emission sources in project scenario 
+Source Gas Included? Justification/explanation 
+Stock changes in 
+Above ground biomass  
+CO
+2
+ Yes Tree  and non-tree. Included  as  per 
+VCS methodology VM0007 ver. 1.5& 
+VCS module VMD0006 BL-PL V1.2 
+Stock changes in 
+Below ground biomass   
+CO
+2
+ Yes Tree  and  non-tree. Included  as  per 
+VCS methodology VM0007 ver. 1.5& 
+VCS module VMD0006 BL-PL V1.2 
+Stock  changes  in Soil 
+(peat) 
+CO
+2
+ No The  source  is  omitted  in  baseline 
+scenario  thus  also  omitted  in  project 
+scenario 
+Stock changes in Litter CO
+2
+ No The  source  is  omitted  in  baseline 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+27 
+scenario  thus  also  omitted  in  project 
+scenario 
+Stock changes in 
+Deadwood 
+CO
+2
+ No The source  is  omitted  in  baseline 
+scenario  thus  also  omitted  in  project 
+scenario 
+Stock changes in 
+Wood products 
+CO
+2
+ No The  source  is  omitted  in  baseline 
+scenario  thus  also  omitted  in  project 
+scenario 
+Emission    from    Peat 
+decomposition 
+CO
+2
+ No The  project scenario  is  continuation 
+of  current  forest  and  use  as  natural 
+forest.  No  significant  emission  from 
+peat   decomposition   occur   on   this 
+state, thus this source is excluded 
+Emission   from   Ditch 
+drainage 
+CH
+4
+ No There   will   be   no   development   of 
+ditches  under project  scenario,  thus 
+this source is excluded 
+ 
+2.4 Baseline Scenario 
+Baseline  scenario  is  conversion  of  the  proposed  project  area  to  timber  plantation 
+forest. Most  likely  commodity developed under  the  timber  plantation  is Acacia 
+crassicarpa. Detail on the steps for selection of baseline scenario is described in the 
+below Section 2.5 (Additionality). 
+Following  the  national  policy  on  REDD,  the  objective  of  development  of  REDD  in 
+Indonesia  is  to  save  the  country’s  natural  forests  and  the  flora  and  fauna  within 
+them.  Thus  conversion  of  natural  forest  into  non-natural  forest  into  for  example, 
+timber   plantation,   rubber   plantation,   and   sago   plantation   is   considered   as 
+deforestation. Since the proposed area is legally authorized for conversion to a man-
+made  plantation,  the  activity  proposed  under  this  project  is  an  avoided  planned 
+deforestation. 
+KPHP TBS is the agent of deforestation and it is estimated that deforestation under 
+baseline scenario will occur at the rate of 1,037.94 ha/yr.  Detail on the estimation of 
+deforestation rate is presented in Section 3.1.1.  
+ 
+2.5 Additionality 
+According to the latest version of VCS Methodology: VM0007 REDD+ Methodology 
+Framework  (Version  1.5,  9
+th 
+March  2015),  the  project’s  additionality should  be 
+assessed using  the  “Combined   Tool to   Identify   the   Baseline   Scenario   and 
+Demonstrate  Additionality  in  A/R  CDM  Project  Activities” (version  01,  19  October 
+2007).  As such, the following steps under the tool were applied: 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+28 
+STEP 1. Identification of alternative land use scenarios to the proposed project 
+activity; 
+Sub-step 1.a. Identify credible alternative land use scenarios to the proposed project 
+activity  
+Under the Ministerial Decree no. 509/Menhut-VII/2010, the proposed project area is 
+a  designated  production  area  and  KPHP  TBS  is  given  authority  to  manage  it  or  to 
+authorize it to third party (private and/or public entity).   
+Taking  into  account  the  abovementioned  decree  and  land  use  practices  in  Kampar 
+Peninsula area,  there  are seven  options  of  land-use  scenario  that  would  have 
+occurred on the proposed project area, i.e:  
+A. Conversion  to  Forest  Concession  (Hak  Pengusahaan  Hutan – HPH)  through 
+licensing  IUPHHK-HA
+10
+.  Most  likely  the  concession  owner  will  implement 
+selective cuttings.  
+B. Conversion to Industrial Forest Plantation (Hutan Tanaman Industri – HTI) with 
+Acacia crassicarpa as commodity through licensing IUPHHK-HT
+11
+ 
+As   mentioned   before,   there   are   already   17   industrial   timber   plantations 
+established  in  the  KPHP  TBS  area,  making  it  one  of  the  alternatives  to  be 
+developed in the proposed project area 
+C. Conversion to Industrial Forest Plantation (Hutan Tanaman Industri – HTI) with 
+Rubber as   commodity   through   licensing   IUPHHK-HT.   During   stakeholder 
+process  with  surrounding  community,  some  of  them  expressed  their  wish  to 
+have rubber plantation in the area 
+D. Conversion  to  Community  Plantation  Forest  (Hutan  Tanaman  Rakyat – HTR) 
+through licensing IUPHK-HTR with sago as possible commodity 
+During  discussion   with  surrounding  community,  some  of  them  expressed 
+wishes  to  have  sago  as  commodity  to  be  developed  in  the  area.  In  order  to 
+accommodate the community’s wish, development of sago can be seen as an 
+                                                 
+10
+ A  Business  License  for  the  Utilisation  of  Forest  Timber  Products  in  Natural  Forests  hereafter  abbreviated  to 
+IUPHHK-HA previously named Forest Concession (HPH) means a license to utilize production forests covering the 
+activities of felling, transporting, planting, maintaining, securing, processing and marketing of forest timber products. 
+(Based  on  Ministry  of  Forestry  Regulation  No  P.  50/Menhut-II/2010 about  the  method  granting  and  extending  the 
+work area of IUPHHK.)  
+11
+ A  Business  Licenses  for  the  Utilisation  of  Forest  Timber  Products  in  Plantation  Forests  at  Production  Forests 
+hereafter  abbreviated  to  IUPHHK-HTI  previously  named  Plantation  Forest  Concession  (HPHT)  or  Industrial 
+Plantation  Forest  Concession  (HPHTI)  or  a Business  License  for  the  Utilisation  of  Forest  Timber  Products  at 
+Plantation  Forests  (IUPHHK-HTI)  means  a  business  license  to  develop  a  plantation  forest  at  a  production  forst 
+which is developed by an industrial group to enhance the potential and quality of the production forest in the frame 
+of meeting the demands for industrial basic material. 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+29 
+alternative,   and   the   form   of   Community   Plantation   Forest   is   the   most 
+appropriate one since the land is a state land
+12
+.  
+E. Conversion to Village Forest (Hutan Desa – HD), through licensing IUPHK-HD 
+There are already two Village Forests in the KPHP TBS area, making it feasible 
+alternative  
+F. Designation  as  Ecosystem  Restoration  (Restorasi  Ekosistem - RE)  area,  in 
+which  the  concession  will  be  given  to  management  unit  of a company  applied 
+and approved for the activity 
+Four  Restoration  Ecosystems  have  been  established  in  the  KPHP  TBS  area. 
+Considering  that  the  proposed  project  area  is  surrounded  by  plantation  forest, 
+concession holders wish to do conservation activity may apply to establish RE.  
+G. Avoidance  of  the  area  from  conversion  into  other  land  use  forms  which  is 
+continuation of pre-project land use as natural forest 
+The KPHP TBS can conduct the abovementioned  activities  without  applying for  the 
+specific   license   indicated   in   each   of   the   activity.   Rather,   their   mandate for 
+management  of  the  proposed  project  area  is  being  stipulated  in  the Ministry  of 
+Forestry decision no. 509/Menhut-VII/2010 on the establishment of the KPHP TBS.  
+There  is  also  palm  oil  plantation  in  some  areas  within  the  Kampar  Bay  area. 
+However, legally this practice is prohibited since palm oil is classified as agricultural 
+commodity which falls under the jurisdiction of the Ministry of Agriculture. Thus palm 
+oil  is  not  allowed  to  be  developed  in  areas  under  the  jurisdiction  of  the  Ministry  of 
+Environment and Forestry. 
+Sub-step  1.b.  Consistency  of  credible  land  use  scenario  with  enforced  mandatory 
+applicable laws and regulations 
+The abovementioned seven options are all eligible under the Republic of Indonesia’s 
+existing  laws  and  regulation.  Thus,  possible  land  use  scenario  resulted  from 
+application of Sub-step 1.b are similar to those resulted from application of Sub-Step 
+1.a. 
+STEP 2. Barrier Analysis 
+Sub-step 2.a. Identification of barriers that prevent the implementation of at least one 
+alternative land use scenarios 
+Implementation of managed tree plantation may encounter the following barriers: 
+                                                 
+12
+ The differentiation between Community Plantation Forest (Hutan Tanaman Rakyat – HTR) and Community 
+Forest (Hutan Rakyat – HR) is that HTR is developed in state land while HR is developed in private land. 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+30 
+a. Economic barrier, including the non-attractiveness of activity’s economy, lack of 
+access to initial capital, and lack of access to market 
+b. Institutional barrier, such as the lack/weak institutional capacity on-site 
+c. Ecological  barrier,  such  as  increase  of  forest  fire  due  to  improper  water 
+management 
+Possible  barriers  are  identified and  listed  for  each  alternative  land  use  scenario in 
+the Table 9 below: 
+Table 6. Barriers identified in each alternative land use scenarios 
+Option Barrier type 
+A. Concession area (IUPHHK-
+HA) 
+Considering  the  area  which  is  only 14,722.9 ha 
+(usually   HPH   area   is   more   than   35,000   ha). 
+Implementing HPH is not economically attractive 
+B. Acacia Forest Plantation 
+(IUPHHK-HTI – Acacia 
+crassicarpa)  
+HTI will have negative impact on peat and also 
+increase the risk of forest fire due to improper 
+water management 
+C. Forest Plantation – Rubber 
+(IUPHHK-HTI – Hevea 
+brasiliensis) 
+Lack of access to market. HTI with rubber as 
+commodity will have negative impact on peat and 
+also increase the risk of forest fire due to improper 
+water management. Also, since rubber requires 
+intensive management, easy access to site is 
+crucial. 
+D. Community Plantation 
+Forest (HTR) 
+Lack of access to initial capital. Implementation of 
+HTR also requires institutional capacity on-site 
+which is lacking at the moment, thus requires 
+institutional capacity development 
+E. Village Forest (HD) Lack of access to initial capital 
+F. Restoration of Ecosystem 
+(RE)  
+Economically not attractive 
+G. Avoidance of the area from 
+conversion into other land 
+use (continuation of 
+existing land use) 
+Economically not attractive  
+Sub-step 2.b. Elimination  of land  use scenarios that  are prevented  by the identified 
+barriers 
+All   land   use   options   have   at   least   one   barrier.   However,   there   are   other 
+considerations overruling the barriers. The ecological barrier of HTI under scenario B 
+is overlooked because of its economic attractiveness, while the barrier in scenario G 
+is overlooked because of its benefit for preservation and GHG emission reduction.   
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+31 
+Based  on  the  application  of  sub-step  2.a.  and  the  abovementioned  rationale,  the 
+remaining alternative land use scenarios are: 
+A. Conversion  to  Industrial  Forest  Plantation  (Hutan  Tanaman  Industri– HTI)  with 
+Acacia crassicarpa as commodity 
+B. Avoidance  of  the  area  from  conversion  into  other  land  use  forms  which  is 
+continuation of pre-project land use  
+Sub-step 2.c. Determination of baseline scenario 
+The proposed project’s land use scenario without its inclusion in VCS REDD scheme 
+is included in the list of land use scenarios in sub-step 2.b., therefore analysis move 
+forward to Step 3. 
+ 
+STEP 3. Investment Analysis  
+The tool mentioned three options to determine the type of investment analysis to be 
+used, i.e:  
+ Option 1 (simple cost Analysis) applicable if the VCS AFOLU project generates 
+no financial or economic benefits other than VCS related income. 
+ Option 2 (Comparison analysis) 
+ Option 3 (Benchmark Analysis) 
+Since the project generates no economical benefits aside than VCS related income, 
+simple cost analysis is the one being applied 
+Sub-step 3.b. – Option I. Apply Simple cost analysis 
+Three simple cost analysis were conducted on each of the following options  
+A. Conversion  to  Industrial  Forest Plantation  (Hutan  Tanaman  Industri– HTI)  with 
+Acacia crassicarpa as commodity; 
+B. Avoidance  of  the  area  from  conversion  into  other  land  use  forms  which  is 
+continuation of existing forest management; and 
+C. Continued existing forest management (option B) under REDD scheme.  
+Option  B  and  C  do  not  involve  new  investment,  therefore  NPV  was  chosen  for 
+analysis instead of IRR. 
+Based on the Article 8 point 5 of the Ministry of Forestry Regulation No. 20/Menhut-
+II/2012 on Implementation  of Carbon Forestry, 51% of GHG emission reductions or 
+removals  generated  by forestry  carbon project  will  be  used  to  fulfil  national  target 
+needs,  the  remaining  49%  can  be  traded  to  foreign  country.  The  project  proponent 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+32 
+has  options  to  sell  the  carbon  credit  to  domestic  buyer  or  international  buyer. 
+Following  this,  revenue  considered  in  the  calculation  of  investment  analysis  for 
+option C is based on the selling of 49% of the estimated net emission reduction. 
+Calculation of the investment analysis is available for validation and summary of the 
+analysis is presented below: 
+Option NPV (IDR) 
+A 1,090,130,789,790 
+B (53,831,338,216) 
+C 389,183,213,424 
+ 
+Baseline  scenario  is  the  scenario  having  the  highest  difference  between  incomes 
+and costs over the crediting period. In this case is option A: conversion to Industrial 
+Forest Plantation. 
+Sub-step 3.d. – Sensitivity analysis 
+Sensitivity  analysis  was  conducted  to  see  whether  under  different  circumstances 
+option A is still the most feasible option economically. There are two scenarios used 
+in the sensitivity analysis, namely: 
+1. Decrease in direct costs (such as for maintenance, etc) of 10% per year while it 
+is foreseen that the increase in fuel will cause an increase in operational costs at 
+the rate of 10% per year 
+2. An increase in operational cost due to the increase in fuel price estimated at the 
+rate of 20% per year. Meanwhile, the selling price of timber is decreasing at the 
+rate of 20% per year. 
+ 
+Table 7. Result of sensitivity analysis 
+Option NPV (IDR) 
+Scenario 1 Scenario 2 
+A. HTI Acacia      1,102,731,692,825        797,706,733,859 
+B. Avoidance of the area from 
+conversion into other land use 
+forms (as it is) 
+                     
+(59,214,472,038) 
+                                          
+(64,597,605,859) 
+C. Avoidance of the area from 
+                                                               
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+33 
+conversion into other land use 
+forms (REDD Scheme) 
+383,751,282,895  284,039,119,243  
+Based on the result of the investment analysis, conversion to HTI-Acacia is the most 
+economically attractive option thus serves as baseline. 
+ 
+STEP 4. Common Practice Analysis 
+The proposed project’s land use activity is the continuation of pre-project land use 
+which will avoid conversion of the proposed project area into other land uses. This 
+land uses is not a common practice considering the proposed project area is within a 
+designated forest production area and Industrial Forest Plantation (HTI) is the 
+common land use in the area.  
+Based on the result of Step 1 to Step 4 in which: 
+- The proposed project activity is within compliance with law and regulation 
+- Implementation of proposed project activity has barrier which being overlooked 
+due to its benefit for forest preservation and GHG emission reduction 
+- The proposed project activity is not the most economically attractive option 
+- The proposed project activity is not a common practice in the area 
+the proposed project activity is additional. 
+ 
+2.6 Methodology Deviations 
+The project apply the following deviations to the VM0007 ver. 1.5 
+According to module BL-PL ver. 1.2, in calculating the likelihood for deforestation “likelihood 
+(L-Di)  will  be  equal  to  the  proportion  of  similarly  zoned  proxy  areas  deforested  within  the 
+previous  five  years  within  the  appropriate  stratum”.  However,  due  to limited  availability  of 
+cloud-free satellite imagery, the period used for the proxies is modified into within eight years 
+since the proxy’s issuance of permit.  This  period  is  chosen assuming deforestation  activity 
+was still taking place in the period.  
+The  sources  of  peat  emissions  due  to  deforestation  activity  (under  the  baseline  scenario) 
+included  in  this  report  are CO2  emission  from  peat  decomposition  and  CH4  emission  from 
+the  drainage  ditch.  The  emission factors  for  both  and  the  estimate  of  area  allocated  for 
+drainage ditches are based on IPCC (2014).  
+ 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+34 
+3. QUANTIFICATION OF GHG EMISSION REDUCTIONS AND REMOVALS 
+3.1 Baseline Emissions 
+The baseline net GHG emissions for planned deforestation is determined as  
+ 
+ Where: 
+∆C
+BSL,planned
+ : Net greenhouse gas emissions in the baseline from planned 
+deforestation; t CO2-e 
+∆C
+BSL,i,t
+ : Net carbon stock in all pools in the baseline stratum i at time t; t 
+CO2-e 
+GHG
+BSL-E,i,t
+ : Greenhouse gas emissions as a result of deforestation activities 
+within the project boundary in the baseline stratum i during project 
+year t; t CO2-e/year 
+i : 1, 2, 3, ...M strata 
+t : 1, 2, 3, ...t
+*
+ years elapsed since the projected start of the REDD 
+project activity 
+3.1.1 Calculating annual area of deforested land 
+Identification of the agent of planned deforestation in each baseline stratum i 
+The  project  site  is  located  inside  state-owned  production  forest  area,  with  no 
+significant  restriction  for converting the area into a timber  plantation area.  This 
+shows  that  there  is  single  planned  deforestation  agent  which  is  timber  plantation 
+concession obtaining permit from the Ministry of Environment and Forestry. 
+Area of deforestation (A
+planned,i  
+) 
+According to official data from the Ministry of Environment and Forestry, there are 17 
+timber  plantation concessions (IUPHHK-HTI) operating in  the  area of KPHP Tasik 
+Besar Serkap. Historical data shows that prior to designation for REDD+ project, the 
+project  site  had  been  allocated  for  timber  plantation  estates.  Therefore,  there  is  a 
+threat of immediate deforestation in the project site. This threat can be demonstrated 
+by the following evidences:  
+a. Legal  permissibility  for conversion  into  managed  tree  plantation,  including 
+timber plantation 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+35 
+According  to  the  Minister  of  Forestry  regulation  no.  509/Menhut-VII/2010,  the 
+KPHP TBS have authority to manage tree plantation activity in the area such as 
+timber plantation, rubber plantation, and agroforestry. 
+b. Suitability for conversion to alternative non-forest land use;  
+The   proposed   project   area   is   part   of   the Kampar Peninsula peat   land 
+ecosystem. At the time of writing, there are 23 forest concessions permit holder 
+in  the  KPHP  TBS  area,  17  of  it  are  for  industrial  timber  plantation  activity 
+(IUPHHK-HTI). 
+c. Intent to deforest 
+Considering  that  the  area’s  status  is  a  production  forest  and  one  of  KPHP’s 
+tasks is managing forest production, in the absence of the proposed project, the 
+area is most likely to be converted into timber plantation in which deforestation 
+will then occur. 
+Projection of Rate of deforestation (D%
+planned,i,t 
+)   
+In  accordance with  the  approved VCS  methodology VM0007 ver  1.5,  rate  of 
+deforestation of proposed project area can be projected through examining the rate 
+of deforestation  of certain  proxy  areas  or  average proportion of land that  is cleared 
+each year. 
+This “proxy area” approach is considered as the most suitable approach since there 
+is no  actual  verifiable  deforestation  plan  exists  yet  and  the  project  area is not  yet 
+granted  to  any concessioners.  The  proxy  areas are defined  as  areas  under  the 
+management of KPH that met the following criteria:  
+ Land conversion practices shall be the same as those used by the baseline 
+agent  
+ The post-deforestation land use shall be the same in the proxy areas as 
+expected in the project area under business as usual  
+ The proxy areas shall have the same management and land use rights type as 
+the proposed project area under business as usual  
+ Agents of deforestation in proxy areas must have deforested their land under 
+the same criteria that the project lands must follow.  
+As  previously  mentioned, there  are 23  forest  concesions  permit  holder  currently 
+working  inside  the  KPH  area,  from  which  17  consessions  are  Timber  Plantation 
+(IUPHHK-HTI)   permit,   4   consessions   are   Ecosystem   Restoration   (Restorasi 
+Ekosistem), and 2 Village Forest  (Hutan Desa). 
+From the 17 Timber Plantation Concession Permit, six concession parcels had been 
+selected  as proxy  area for  deforestation  modelling, which  were:  1)  PT.  Ekawana 
+Lestari  Dharma,  2)  PT.  Riau  Andalan  Pulp  and  Paper – Tasik  Belat  Block,  3)  PT. 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+36 
+Mitra Hutan Jaya, 4) CV. Alam Lestari, 5) PT. Madukoro, and 6) CV.  Harapan Jaya 
+(see Figure 6 and Table 8). 
+ 
+Figure 6. Forest consession in the area of the KPHP Tasik Besar Serkap 
+Those six proxy areas were expected to represent common land clearing practice in 
+the proxy area, and hence also potentially occurred in the project area. Examination 
+of  proxy  areas  had  been  done  mostly  through remote  sensing  data (Landsat  TM, 
+Landsat  ETM  &  Landsat  OLI)  classification analysis  assisted  by  a  set  of  verifiable 
+spatial data from credible sources to support the analysis. 
+Table 8. Timber Plantation Concessions randomly selected as proxy areas 
+No 
+Name of 
+concession holder 
+Type Permit and year 
+Area 
+(ha) 
+1 
+PT. RAPP (Tasik  
+Belat Section)* 
+IUPHHK-HT SK. 248/MENHUT-VI/2009 11,708.4 
+2 
+PT. Mitra Hutani 
+Jaya 
+IUPHHK-HT SK 101/Menhut-II/2006 9,240 
+3 PT. Madukoro IUPHHK-HT SK522.21/IUPHHKHT/I/2003/017 15,000 
+4 CV. Alam Lestari IUPHHK-HT SK 522.21/IUPHHKHT/I/2003/15 3,300 
+5 CV. Harapan Jaya IUPHHK-HT SK 522.21/IUPHHKHT/I/2003/16 4,800 
+6 
+PT. Ekawana 
+Lestari Dharma 
+IUPHHK-HT SK 733/Kpts-II/1997 9,300 
+*Section name is not official name from PT. RAPP, only used for this estimation purpose;  
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+37 
+ 
+Figure 7. Proxy areas 
+For each selected proxy, a year to  year land cover change analysis was performed 
+with  initial  year  (T
+0
+) refers to  each  business  license  from  the  government.  The 
+earliest  concession operation  is PT.  Ekawana  Lestari  Dharma  (1997)  and  the  most 
+recent one is PT. RAPP (2009). 
+Differences in starting years of each sample of proxies’ causes the analysis can not 
+fully performed within  period  of  10  years due  to  limited  availability  of  satellite  data 
+dating  way  back.  In  addition,  proper  satellite  imagery  was  not  always  available  for 
+the expected year. 
+Table 9. Availability of Satellite imagery (Landsat) for landcover change 
+No. Acquisition date Preview 
+1 28 August 2001 
+ 
+2 15 August 2002 
+ 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+38 
+3 7 August 2005 
+ 
+4 2 February 2009 
+ 
+5 20 April 2011 
+ 
+6 18 June 2013 
+ 
+7 17 February 2014 
+ 
+In defining  area category in  proxy  area’s satellite  image, binary  classification was 
+applied,  1 for  Natural Forest  and  0  for  non  Natural  Forest, including timber  forest 
+plantation (HTI), grasslands, shrubs, and barren land.  
+The  projected  rate  of  deforestation in  the  proposed project  area is calculated  with 
+following equation: 
+ 
+퐷%
+푝푙푎푛푛푒푑,푖,푡
+=
+(
+∑
+(
+퐷%
+푝푛
+푌푟푠
+푝푛
+⁄)
+푛
+푝푛=1
+)
+푛
+⁄
+  
+Where: 
+D%
+planned,i,t
+ : Projected annual proportion of land that will be deforested in stratum 
+i during year t. If actual annual proportion is known and documented 
+(e.g. 25% per year for 4 years), set to proportion (%) 
+D%
+pn
+ : Percent of deforestation in land parcel pn etc of a proxy area as a 
+result of planned deforestation as defined in this module; % 
+Yrs
+pn
+ : Number of years over which deforestation occurred in land parcel pn 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+39 
+in proxy area; years 
+n : Total number of land parcels examined 
+p
+n
+ : 1, 2, 3, ...n* land parcels examined in proxy area 
+i : 1, 2, 3, ...M strata 
+Result of calculation of the deforestation rate can bee seen in the table 10 below.  
+Likelihood of deforestation (L-D
+i 
+) 
+The  project  area  is  under  government  control  and  the  areas  have  been  zoned  for 
+deforestation  (production  forest).  The six parcels  above  had  been  examined  to 
+define the likelihood of deforestation occurring. Result of calculation of the likelihood 
+of deforestation can bee seen in the table 10 below.  
+Annual area of deforestation (AA
+planned,i,t 
+) 
+The projected annual area of deforestation in the baseline case was calculated as: 
+ 
+Where:  
+AA
+planned,i,t,
+ : 
+Annual area of baseline planned deforestation for stratum i at time t; 
+ha 
+D%
+planned,i,t
+ : Projected annual proportion of land that will be deforested in stratum 
+i during year t. If actual annual proportion is known and documented 
+(e.g. 25% per year for 4 years), set to proportion; % 
+A
+planned,i,
+ : Total area of planned deforestation over the baseline period for 
+stratum i; ha 
+L-D
+i 
+ : 
+Likelihood of deforestation for stratum i; % 
+Result  of  calculation  of  the projected  annual  area  of  deforestation  can  bee  seen  in 
+the table 10 below: 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+40 
+Table 10. Land cover change and deforestation rate of proxy areas 
+N
+o 
+Name of 
+concession 
+holders used for 
+proxy 
+Year of 
+permit 
+grante
+d 
+Concession 
+area granted 
+in the permit, 
+in hectare (L) 
+Remaining area according to satellite analysis, in hectare 
+Total 
+deforeste
+d area, D 
+Number 
+of years 
+Likelihood 
+of 
+Deforestatio
+n, (L-Di) 
+Defore
+station 
+rate 
+2001 2002 2005 2009 2011 2013 hectare %/year 
+1 
+PT. Ekawana 
+Lestari Dharma 1997 
+            
+9,300.00  
+   
+7,828.11   6,044.32    3,198.67  
+      
+    4,629.44        4.00  59.14 14.8 
+2 PT. Madukoro 2003       15,000.00       14,782.20     8,573.56          6,208.64        4.00  42.00 10.5 
+3 CV Harapan Jaya 2003        4,800.00        4,995.40     2,852.65          2,142.75        4.00  42.89 10.7 
+4 CV Alam Lestari 2003         3,300.00        1,510.89       864.40             646.49        4.00  42.79 10.7 
+5 
+PT. Mitra Hutani 
+Jaya 
+2006 
+            
+9,240.00  
+  8626.74   2,258.96            6,367.78         3.00  73.81 24.6 
+6 
+PT. RAPP - Tasik 
+Belat block 
+2009 
+         
+11,708.39  
+       10,628.15  7390.82 
+   
+5,543.23  
+    5,084.92  
+        
+4.00  
+47.84 12.0 
+ 
+Conclusion: 
+Total area of planned deforestation; A
+planned
+, ha = 14,546.19 
+Projected annual proportion of land will be deforested; D%
+planned
+, (%) = 13.88 
+Average likelihood of deforestation; L-D (%) = 51.41 
+Annual area of baseline planned deforestation; AA
+planned
+ (ha/year) = 1,037.94 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+41 
+3.1.2 Carbon stock changes 
+Carbon pools included for calculation of net carbon stock changes are those from above ground 
+and below ground tree and non-tree.  
+Following the module  BL-PL  ver.  1.2,  net  carbon  stock  changes  is calculated  as the  pre-
+deforestation stocks minus the long-term post deforestation stocks. Each of the pre-deforestation 
+and post-deforestation carbon stocks is calculated following below formula: 
+퐶
+푃,푖,푡
+=퐶
+퐴퐵_푡푟푒푒
++퐶
+퐵퐵_푡푟푒푒
++퐶
+퐴퐵
+푛표푛
+−푡푟푒푒
++퐶
+퐵퐵
+푛표푛
+−푡푟푒푒
+ 
+Where: 
+C
+P,i,t
+ Carbon stock in all pools in the baseline case in stratum i at time t; t CO2-e 
+C
+AB_tree,i
+ Carbon  stock  in  aboveground  tree  biomass  in  the baseline case  in  stratum  i;  t 
+CO
+2
+e 
+C
+BB_tree,i
+ Carbon  stock  in  belowground  tree  biomass  in  the baseline case  in  stratum  i;  t 
+CO
+2e
+ 
+C
+AB_non-tree,i
+ Carbon stock in aboveground non-tree vegetation in stratum i; t CO
+2e
+ 
+C
+BB_non-tree,i
+ Carbon stock in belowground non-tree vegetation in stratum i; t CO
+2e
+ 
+i 1, 2, 3 ...M strata 
+t 1, 2, 3, ... t* years elapsed since the start of the REDD project activity 
+Factors used  in calculating pre  deforestation carbon stocks came from result of biomass survey 
+conducted between March – May 2015 (see Table 11). While stratification was used in the survey 
+and  each  stratum  have  its  own  stock  factors,  it  is  decided  to  use  weighted  average  in  the 
+calculation  because  the  absence  of  business  plan  for  industrial  timber  plantation  activity  mean 
+that there is no information on which exact strata is to be converted into plantation each year. 
+Assuming  that  each  stratum  will  have  the  same  possibility  of  being  converted  into  timber 
+plantation, calculation of weighted average carbon stock factor takes into account the proportion 
+of each strata to total project area and total area planned for deforestation 
+As  for  the  post-deforestation  scenario,  commodity  used  in  the  timber  plantation  forest  is Acacia 
+crassicarpa and   the   value   of   its   carbon   stock   factor   is   adapted   from   the   research   by 
+Rochmayanto, et al. (2013). 
+ 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+42 
+Table 11. Biomass stock factors used in pre-deforestation stocks estimate 
+Above Ground tree  
+60.54 t C/ha 
+Above Ground non tree 
+1.40 t C/ha 
+Biomass Below Ground tree 
+6.05 t C/ha 
+Biomass Below Ground non tree 
+0.14 t C/ha 
+ 
+Results of the calculation are presented in below tables: 
+Table 12. Estimation of net carbon stock change in aboveground biomass  
+Year 
+Total C
+AB pre
+ 
+Total C
+AB
+ 
+post 
+∆C
+AB
+ 
+t C t C t C t CO2 
+2015 497,992.54 433,955.56 64,036.98         234,802.27  
+2016 497,992.54 380,703.62 117,288.92         430,059.37  
+2017 497,992.54 340,039.77 157,952.78             579,160.18  
+2018 497,992.54 302,097.06 195,895.48             718,283.43  
+2019 497,992.54 276,687.13 221,305.41             811,453.17  
+2020 497,992.54 260,195.05 237,797.49             871,924.13  
+2021 497,992.54 252,959.30 245,033.24             898,455.21  
+2022 497,992.54 239,809.14 258,183.40             946,672.47  
+2023 497,992.54 242,023.88 255,968.66             938,551.77  
+2024 497,992.54 244,608.87 253,383.67             929,073.45  
+2025 497,992.54 245,167.67 252,824.87             927,024.53  
+2026 497,992.54 247,741.31 250,251.23             917,587.86  
+2027 497,992.54 249,572.61 248,419.93             910,873.08  
+2028 497,992.54 251,473.42 246,519.12             903,903.43  
+2029 497,992.54 239,809.14 258,183.40             946,672.47  
+2030 497,992.54 242,023.88 255,968.66             938,551.77  
+2031 497,992.54 244,608.87 253,383.67             929,073.45  
+2032 497,992.54 245,167.67 252,824.87             927,024.53  
+2033 497,992.54 247,741.31 250,251.23             917,587.86  
+2034 497,992.54 249,572.61 248,419.93             910,873.08  
+Total 9,959,850.83 5,435,957.88 4,523,892.95 16,587,607.48 
+ 
+Table 13. Estimation of net carbon stock change in belowground biomass  
+Year 
+Total C
+BB pre
+ Total C
+BB
+ post ∆C
+BB
+  
+t C t C t C t CO2 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+43 
+2015 
+11,528.87 10,639.64  889.22   3,260.49  
+2016 
+11,528.87 11,260.33  268.54   984.66  
+2017 
+11,528.87 13,643.34  (2,114.47)  (7,753.05) 
+2018 
+11,528.87 16,407.31  (4,878.44)  (17,887.63) 
+2019 
+11,528.87 20,925.87  (9,397.01)  (34,455.69) 
+2020 
+11,528.87 26,692.94  (15,164.07)  (55,601.58) 
+2021 
+11,528.87 33,755.88  (22,227.02)  (81,499.06) 
+2022 
+11,528.87 33,573.28  (22,044.41)  (80,829.51) 
+2023 
+11,528.87 33,883.34  (22,354.47)  (81,966.40) 
+2024 
+11,528.87 34,245.24  (22,716.37)  (83,293.37) 
+2025 
+11,528.87 34,323.47  (22,794.60)  (83,580.22) 
+2026 
+11,528.87 34,683.78  (23,154.91)  (84,901.35) 
+2027 
+11,528.87 34,940.17  (23,411.30)  (85,841.42) 
+2028 
+11,528.87 35,206.28  (23,677.41)  (86,817.17) 
+2029 
+11,528.87 33,573.28  (22,044.41)  (80,829.51) 
+2030 
+11,528.87 33,883.34  (22,354.47)  (81,966.40) 
+2031 
+11,528.87 34,245.24  (22,716.37)  (83,293.37) 
+2032 
+11,528.87 34,323.47  (22,794.60)  (83,580.22) 
+2033 
+11,528.87 34,683.78  (23,154.91)  (84,901.35) 
+2034 
+11,528.87 34,940.17  (23,411.30)  (85,841.42) 
+Total 
+ 230,577.38   579,830.17   (349,252.79)  (1,280,593.57) 
+ 
+Table 14. Net carbon stock changes  
+Year Total stock pre-
+deforestation  
+(t CO2) 
+Total stock post-
+deforestation  
+(t CO2) 
+Total stock 
+changes   
+(t CO
+2
+) 
+2015  1,868,245.17   1,630,182.41   238,062.76  
+2016  1,868,245.17   1,437,201.14   431,044.03  
+2017  1,868,245.17   1,296,838.05   571,407.12  
+2018  1,868,245.17   1,167,849.37   700,395.80  
+2019  1,868,245.17   1,091,247.69   776,997.48  
+2020  1,868,245.17   1,051,922.62   816,322.55  
+2021  1,868,245.17   1,051,289.02   816,956.15  
+2022  1,868,245.17   1,002,402.21   865,842.96  
+2023  1,868,245.17   1,011,659.81   856,585.36  
+2024  1,868,245.17   1,022,465.09   845,780.08  
+2025  1,868,245.17   1,024,800.86   843,444.31  
+2026  1,868,245.17   1,035,558.67   832,686.51  
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+44 
+2027  1,868,245.17   1,043,213.52   825,031.66  
+2028  1,868,245.17   1,051,158.91   817,086.26  
+2029  1,868,245.17   1,002,402.21   865,842.96  
+2030  1,868,245.17   1,011,659.81   856,585.36  
+2031  1,868,245.17   1,022,465.09   845,780.08  
+2032  1,868,245.17   1,024,800.86   843,444.31  
+2033  1,868,245.17   1,035,558.67   832,686.51  
+2034  1,868,245.17   1,043,213.52   825,031.66  
+Total  37,364,903.43   22,057,889.52   15,307,013.91  
+ 
+3.1.3 Emissions as a result of deforestation activity 
+Deforestation in the proposed project is caused by development of industrial timber plantation in 
+peat land. Therefore the following sources of emissions are estimated: 
+a. CO
+2
+ emissions from fossil fuel combustion in the plantation’s operation 
+b. N
+2
+O emissions from the use of fertilizer in the plantation 
+c. CO
+2
+ Emissions from decomposition of peat  
+d. CH
+4
+ emissions from drainage ditches 
+The methodology  also  mentions  emissions  due  to  biomass  burning,  typically  generated  during 
+clearing  for  preparation  of  the  land.  However,  practice  in  burning  land  for  clearing  is  prohibited 
+according  toAct  no.  32/2009  on  Environmental  Protection  and  Management thus  this  emission 
+source is omitted.   
+Emissions from fossil fuel combustion 
+The baseline activity is estimated to according to the data from industrial plantation forest owned 
+by PT. Korintiga Hutani that is also located in peat land. It used gasoline and diesel oil to fuel their 
+operational vehicles (car,  truck, motorcycle). Estimated fossil fuel consumption for each types of 
+fuel is presented in Table 15. 
+Table 15. Fuel consumption per types of vehicle  
+Fuel type Fuel consumption (liter/ha) 
+Gasoline 2.22 
+Diesel 47.17 
+Emission generated from the fossil fuel consumption is calculated using the following formulas: 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+45 
+퐸
+퐹퐶
+=퐹푢푒푙
+푎
+ × 퐸퐹
+푎
+ 
+퐹푢푒푙
+푎
+=퐿푖푡푒푟푠
+퐹푢푒푙,푎
+ × 퐷푒푛푠푖푡푦
+퐹푢푒푙,푎
+ × 푁퐶푉
+퐹푢푒푙,푎
+÷ 10
+6
+ 
+Where:  
+E
+FC
+ Net CO
+2-e
+ emissions of fuel consumption; t CO
+2-e
+ 
+Fuel
+a
+ 
+Amount of fuel of type a consumed; TJ 
+EF
+a
+ 
+Emission Factor of fuel type a; tCO
+2-e
+/TJ  
+a 
+1,2,3,... fuel types 
+Liters
+Fuel,a
+ 
+Quantity of fuel type a consumed; liter 
+Density
+Fuel,a
+ 
+Density of fuel type a; kg/liter 
+NCV
+Fuel,a
+ Net Calorific Value of fuel type a; TJ/Gg 
+Default  values  such  as  NCV,  and  emission  factors  used  for  each  types  of  fuel  are  following  the 
+2006 IPCC Guideline and the Energy Statistic Manual as recommended in the module E-FFC ver. 
+1.0. Result of the calculation is presented below (see Table 16) 
+Table 16. Total emissions from fossil fuel consumption in 20 years 
+Vehicle type Emissions (t CO2-e) 
+Gasoline 643.08 
+Diesel 16,045.16 
+Total 16,688.24 
+ 
+Emissions from the use of fertilizer 
+The amount of fertilizer used in Acacia crassicarpa planting is provided through estimation based 
+on the common practice on timber plantation companies within Riau Province, Indonesia. 
+Table 17. Synthetic  Fertilizer  applied  per  type  of  fertilizer  (application  is only  conducted 
+one time per crop cycle) 
+Type Synthetic Fertilizer applied (ton/ha) 
+Urea 0.34 
+ZA 0.39 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+46 
+NPK 0.5 
+Since no organic fertilizer is used, emission is only estimated from the use of synthetic fertilizer 
+and calculated following the below formula: 
+푁2푂
+푑푖푟푒푐푡−푁
+=
+(
+퐹
+푆푁
++퐹
+푂푁
+)
+×퐸퐹1×푀푊
+푁2푂
+×퐺푊푃
+푁2푂
+ 
+퐹
+푆푁
+=∑푀
+푆퐹푖
+×푁퐶
+푆퐹푖
+×
+(
+1−퐹푟푎푐
+퐺퐴푆퐹
+)
+퐼
+ 
+Where: 
+N2O
+direct-N
+ Direct N2O emission as a result of nitrogen application within the project 
+boundary;t-CO
+2-e
+ 
+F
+SN
+ Mass of synthetic fertilizer nitrogen applied adjusted for volatilization as NH
+3
+ and 
+NOX; t-N 
+M
+SFi
+ 
+Mass of synthetic fertilizer type i applied; tonne 
+EF
+1
+ Emission Factor for emissions from N inputs; tonne-N2O-N/(t-N input) 
+Frac
+GASF
+ Fraction that volatilises as NH
+3
+ and NOX for synthetic fertilizers; dimensionless 
+MW
+N2O
+ Ratio of molecular weights of N
+2
+O and N (44/28); tonne-N
+2
+O/(t-N) 
+GWP
+N2O
+ Global Warming Potential for N
+2
+O,kg-CO
+2-e
+/kg-N
+2
+O 
+NC
+SFi
+ 
+Nitrogen content of synthetic fertilizer type i applied; g-N/100 g fertilizer 
+i 
+Number of synthetic fertilizer types 
+Default values such as EF
+1
+, Frac
+GASF
+, GWP
+N2O
+ are following the 2006 IPCC Guideline, while the 
+value of NC
+SFi is
+ following Indonesian National Standard (Urea SNI 2801 2010; ZA SNI 02-1760-
+2005; NPK SNI 2803 2010). Result of the calculation is presented below (Table 18) 
+Table 18. Emissions from the use of fertilizer   
+Time scale Emissions (t CO2-e) 
+Per ha per application 1.17 
+Total per ha for 20 years (9 times application)  10.54 
+Per ha per year 0.53 
+Cumulative emission for 20 years 66,558.58 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+47 
+ 
+Emissions from decomposition of peat 
+Several assumptions were applied in the calculation: 
+1. All  land  covers  (Forest  1, 2,  3,  and  shrub)  in  the 14,546.19 ha of  project  area  are  undrained 
+under  the  initial  condition  (before  the  project  starts)  and  thus  the  emission  factor  is  0  (IPCC 
+2006, IPCC 2014) 
+2. Emission factor of subsequent land use (Acacia plantation) if the conversion occur has a mean 
+of  73.4  t  CO2  ha
+-1
+ yr
+-1
+ with  95%  confidential  interval,  minimum  value  of  58.7  t  CO2  ha
+-1
+ yr
+-1
+ 
+and maximum value of  88.1 t CO2 ha
+-1
+ yr
+-1
+. Emission at this rate continues at a constant rate 
+within the 20 years of project duration. 
+3. The rate of historical forest conversion is  1,037.94 ha/yr (see Section 3.1.1) 
+4. The calculation is made for 20 years period 
+5. Maximum conversion is 51.41% of the total project area, i.e. 7,478.2 ha. This conversion rate 
+will be reached in 7.2 years since the deforestation activity started 
+Estimation of  emission  from  peat  decomposition  is  calculated following  IPGG  guideline in  which 
+activity  data  (annual  area  projected  to  be  deforested;  ha)  is  calculated  with  emission  factor.  For 
+this calculation, emission factor of 73.4 t CO2/ha/yr from the IPCC (2014)
+13
+ is used.  
+ 
+Emissions from drainage ditches 
+CH
+4
+ emissions  from  drainage  ditch  follow was  also  calculated  following  IPCC in  which  activity 
+data  (annual  area  projected  to  be  deforested;  ha)  is  calculated  with  emission  factor.  For  this 
+calculation, emission factor of 2.259 tCH
+4
+/ha/yr based on the IPCC (2014) is used. 
+An  assumption  of  2%  deforested  area  is  allocated  for  construction  of  ditch per  hectare is  used 
+following the IPCC Supplement for Wetlands (IPCC, 2014). 
+  
+                                                 
+13
+ IPCC, 2014. 2013 Supplement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories: Wetlands. Hiraishi, T., 
+Krug, T., Tanabe, K., Srivastava, N., Baasansuren, J., Fukuda, M. and Troxler, T.G. (eds). IPCC, Switzerland 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+48 
+3.1.4 Summary of emissions/removals 
+Year Carbon stock changes (t CO2) Emissions due to deforestation activity (t CO2e) Total (t CO2e) 
+Aboveground 
+biomass 
+Belowground 
+biomass 
+Emission from 
+consumption of 
+fossil fuel 
+Emission from 
+the use of 
+fertilizer 
+Emission from 
+peat 
+decomposition 
+Emission from 
+drainage 
+ditches 
+2015 
+ 234,802.27   3,260.49   136.93   547.07   76,184.80   1,313.04   316,244.59  
+2016 
+ 430,059.37   984.66   273.86   1,094.15   152,369.59   2,626.07   587,407.70  
+2017 
+ 579,160.18   (7,753.05)  410.79   1,641.22   228,554.39   3,939.11   805,952.62  
+2018 
+ 718,283.43   (17,887.63)  547.72   2,188.29   304,739.18   5,252.14   1,013,123.14  
+2019 
+ 811,453.17   (34,455.69)  684.65   2,735.37   380,923.98   6,565.18   1,167,906.65  
+2020 
+ 871,924.13   (55,601.58)  821.58   3,282.44   457,108.78   7,878.21   1,285,413.56  
+2021 
+ 898,455.21   (81,499.06)  986.62   3,829.51   533,293.57   9,191.25   1,364,257.11  
+2022 
+ 946,672.47   (80,829.51)  986.62   3,941.58   548,899.61   9,460.22   1,429,130.99  
+2023 
+ 938,551.77   (81,966.40)  986.62   3,941.58   548,899.61   9,460.22   1,419,873.39  
+2024 
+ 929,073.45   (83,293.37)  986.62   3,941.58   548,899.61   9,460.22   1,409,068.10  
+2025 
+ 927,024.53   (83,580.22)  986.62   3,941.58   548,899.61   9,460.22   1,406,732.34  
+2026 
+ 917,587.86   (84,901.35)  986.62   3,941.58   548,899.61   9,460.22   1,395,974.53  
+2027 
+ 910,873.08   (85,841.42)  986.62   3,941.58   548,899.61   9,460.22   1,388,319.68  
+2028 
+ 903,903.43   (86,817.17)  986.62   3,941.58   548,899.61   9,460.22   1,380,374.29  
+2029 
+ 946,672.47   (80,829.51)  986.62   3,941.58   548,899.61   9,460.22   1,429,130.99  
+2030 
+ 938,551.77   (81,966.40)  986.62   3,941.58   548,899.61   9,460.22   1,419,873.39  
+2031 
+ 929,073.45   (83,293.37)  986.62   3,941.58   548,899.61   9,460.22   1,409,068.10  
+2032 
+ 927,024.53   (83,580.22)  986.62   3,941.58   548,899.61   9,460.22   1,406,732.34  
+2033 
+ 917,587.86   (84,901.35)  986.62   3,941.58   548,899.61   9,460.22   1,395,974.53  
+2034 
+ 910,873.08   (85,841.42)  986.62   3,941.58   548,899.61   9,460.22   1,388,319.68  
+Total 
+ 16,587,607.48   (1,280,593.57)  16,688.24   66,558.58   9,268,869.18   159,747.82   24,818,877.73  
+  
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+49 
+3.1.5 Frequency of baseline renewal 
+The baseline estimation will be renewed once within the crediting period, i.e: in the year 2024. 
+ 
+3.2 Project Emissions 
+The  proposed  project  is  continuation  of  existing  land  use  of  natural  forest so there  will  be  no 
+deforestation activity expected to occur. In terms of emissions from peat, the emission from peat 
+decomposition is assumed zero since the area is still in its natural state, while areas surrounding 
+the  proposed  project  have  been  converted  into  timber  plantation. Thus  the  change  of  condition 
+outside of project area in the future might not be significant.  
+The  potential  factor  that  may  affect  the  water  condition within  the  proposed  project  area  is 
+development  of  road  which  is  now  still  underway  (see  Figure 8).  However,  based  on  expert 
+judgement (see Appendix 2), this may not have significant influence on water table in the project 
+area. This is because construction of the road will involve the process of compaction of peat, so 
+that the  permeability of the peat  will be very  low. The construction of the road  will have positive 
+impact on water retention. Water drain from the area will be channelled to existing river networks. 
+ 
+Figure 8. Plan for road development near proposed project area 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+50 
+ 
+3.3 Leakage 
+According  to  VCS  Methodology  VM0007,  mandatory  source of leakage  to  be  considered  under 
+avoid planned deforestation project is leakage related to shifting of activity.  
+Deforestation  agent  in  this  project  is  the  KPHP  TBS,  therefore  leakage  analysis  is  analyse  on 
+possible  timber  plantation  activity  the  KPHP  TBS  might  do  to  replace  the  one  that  will  be 
+conducted in the proposed project area in the absence of the REDD project. 
+In this regard, potential leakage from displacement of activities is considered to be zero since (a) 
+all areas under the KPHP-TBS aside from the proposed project area is already being designated 
+as  production  area  and  will  remain  the  same, there  will  be  no  area  under  the  KPHP  TBS  that 
+function  will  be  changed  (e.g.  from  protection  to  production); and  (b)  the  KPHP TBS have  no 
+authority  to  develop  timber  plantation  outside  of  its assigned area according  to  the  Minister  of 
+Forestry decree no. 509/Menhut-VII/2010 regarding the establishment of the Tasik Besar Serkap 
+Production Forest Management Unit. 
+ 
+3.4 Net GHG Emission Reductions and Removals 
+Year Estimated 
+baseline 
+emissions or 
+removals (tCO
+2
+e) 
+Estimated 
+project 
+emissions or 
+removals 
+(tCO
+2
+e) 
+Estimated 
+leakage 
+emissions 
+(tCO
+2
+e) 
+Estimated net 
+GHG emission 
+reductions or 
+removals (tCO
+2
+e) 
+1           316,244.59  0 0           316,244.59  
+2            587,407.70  0 0            587,407.70  
+3            805,952.62  0 0            805,952.62  
+4         1,013,123.14  0 0         1,013,123.14  
+5         1,167,906.65  0 0         1,167,906.65  
+6         1,285,413.56  0 0         1,285,413.56  
+7         1,364,257.11  0 0         1,364,257.11  
+8         1,429,130.99  0 0         1,429,130.99  
+9         1,419,873.39  0 0         1,419,873.39  
+10         1,409,068.10  0 0         1,409,068.10  
+11         1,406,732.34  0 0         1,406,732.34  
+12         1,395,974.53  0 0         1,395,974.53  
+13         1,388,319.68  0 0         1,388,319.68  
+14         1,380,374.29  0 0         1,380,374.29  
+15         1,429,130.99  0 0         1,429,130.99  
+16         1,419,873.39  0 0         1,419,873.39  
+17         1,409,068.10  0 0         1,409,068.10  
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+51 
+18         1,406,732.34  0 0         1,406,732.34  
+19         1,395,974.53  0 0         1,395,974.53  
+20         1,388,319.68  0 0         1,388,319.68  
+Total  
+      24,818,877.73  0 0       24,818,877.73  
+ 
+With non-permanence risk buffer deduction, the eligible VCU is estimated below 
+Year Estimated 
+carbon stock 
+changes 
+Estimated total 
+emission due 
+to 
+deforestation 
+Estimated 
+project 
+emissions 
+or removals 
+Estimated 
+leakage 
+emissions 
+Risk buffer of 
+15% 
+Estimated net 
+GHG emission 
+reductions or 
+removals 
+(tCO2) (tCO2eq) (tCO2eq) (tCO2eq) (tCO2) (tCO2eq) 
+1 
+ 238,062.76   78,181.83  
+0 0 
+ 35,709.41   280,535.18  
+2 
+ 431,044.03   156,363.67  
+0 0 
+ 64,656.61   522,751.10  
+3 
+ 571,407.12   234,545.50  
+0 0 
+ 85,711.07   720,241.56  
+4 
+ 700,395.80   312,727.34  
+0 0 
+ 105,059.37   908,063.77  
+5 
+ 776,997.48   390,909.17  
+0 0 
+ 116,549.62   1,051,357.03  
+6 
+ 816,322.55   469,091.01  
+0 0 
+ 122,448.38   1,162,965.18  
+7 
+ 816,956.15   547,300.96  
+0 0 
+ 122,543.42   1,241,713.68  
+8 
+ 865,842.96   563,288.03  
+0 0 
+ 129,876.44   1,299,254.54  
+9 
+ 856,585.36   563,288.03  
+0 0 
+ 128,487.80   1,291,385.58  
+10 
+ 845,780.08   563,288.03  
+0 0 
+ 126,867.01   1,282,201.09  
+11 
+ 843,444.31   563,288.03  
+0 0 
+ 126,516.65   1,280,215.69  
+12 
+ 832,686.51   563,288.03  
+0 0 
+ 124,902.98   1,271,071.56  
+13 
+ 825,031.66   563,288.03  
+0 0 
+ 123,754.75   1,264,564.93  
+14 
+ 817,086.26   563,288.03  
+0 0 
+ 122,562.94   1,257,811.35  
+15 
+ 865,842.96   563,288.03  
+0 0 
+ 129,876.44   1,299,254.54  
+16 
+ 856,585.36   563,288.03  
+0 0 
+ 128,487.80   1,291,385.58  
+17 
+ 845,780.08   563,288.03  
+0 0 
+ 126,867.01   1,282,201.09  
+18 
+ 843,444.31   563,288.03  
+0 0 
+ 126,516.65   1,280,215.69  
+19 
+ 832,686.51   563,288.03  
+0 0 
+ 124,902.98   1,271,071.56  
+20 
+ 825,031.66   563,288.03  
+0 0 
+ 123,754.75   1,264,564.93  
+Total 
+ 15,307,013.91   9,511,863.82  
+                   -                    -    
+2,296,052.09   22,522,825.64  
+ 
+ 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+52 
+4. MONITORING 
+4.1 Data and Parameters Available at Validation 
+Data / Parameter  
+A
+planned
+ 
+Data unit  Ha  
+Description  Total area of planned deforestation over the entire project lifetime  
+Source of data  Calculated 
+Value applied  7,478.2 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied  
+Following section 1.2 of the module BL-PL ver. 1.2 
+Purpose of Data  Calculation of baseline 
+Comments  N/A  
+ 
+Data / Parameter  
+L-D 
+Data unit  % 
+Description  Likelihood of deforestation 
+Source of data  Calculated  
+Value applied  51.41 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied  
+Following section 1.4 of the module BL-PL ver. 1.2 
+Purpose of Data  Calculation of baseline 
+Comments  N/A  
+ 
+Data / Parameter  
+D%planned,i,t  
+Data unit  %  
+Description  Projected annual proportion of land that will be deforested in 
+stratum i at year t  
+Source of data  Calculated 
+Value applied  13.88 
+Justification of choice of 
+data or description of 
+Following equation 2 of the module BL-PL ver. 1.2 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+53 
+measurement methods 
+and procedures applied  
+Purpose of Data  Calculation of baseline 
+Comments  N/A  
+ 
+Data / Parameter  
+AA
+planned
+ 
+Data unit  Ha  
+Description  Projected annual area deforested 
+Source of data  Calculated  
+Value applied  1,037.94 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied  
+Following equation 3 of the module BL-PL ver. 1.2 
+Purpose of Data  Calculation of baseline 
+Comments  N/A  
+ 
+Data / Parameter  
+C
+AB,tree post (acacia)
+  
+Data unit  t CO
+2-e
+/ha 
+Description  
+Carbon stock in aboveground biomass of Acacia crassicarpa trees 
+in the baseline 
+Source of data  Calculated. Carbon stock factor is based on a research by 
+Rochmayanto, et al. (2013) 
+Value applied  Varies in years 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied  
+The carbon stock is estimated by calculating the amount of areas 
+planted each years with stock factor 
+Purpose of Data  Calculation of baseline 
+Comments  N/A  
+ 
+Data / Parameter  
+C
+BB,tree post (acacia)
+  
+Data unit  t CO
+2-e
+/ha 
+Description  
+Carbon stock in belowground biomass of Acacia crassicarpa trees 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+54 
+in the baseline 
+Source of data  Calculated 
+Value applied  Varies in years 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied  
+The carbon stock is estimated by calculating the aboveground 
+tree stock with a conversion factor (below ground ratio) of 0.16 
+Purpose of Data  Calculation of baseline 
+Comments  N/A  
+ 
+Data / Parameter  
+C
+AB,non-tree post (acacia)
+  
+Data unit  t CO
+2-e
+/ha 
+Description  
+Carbon stock in aboveground biomass non-tree in Acacia 
+crassicarpa area in the baseline 
+Source of data  Calculated. Conversion factor is based on a research by Putri 
+Ramadhan (2011) 
+Value applied  Varies in years 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied  
+The carbon stock is estimated by calculating the aboveground 
+tree stock with a conversion factor (non-tree ratio) of 0.0658 
+Purpose of Data  Calculation of baseline 
+Comments  N/A  
+ 
+Data / Parameter  
+C
+BB,non-tree post (acacia)
+  
+Data unit  t CO
+2-e
+/ha 
+Description  
+Carbon stock in belowground biomass non-tree in Acacia 
+crassicarpa area in the baseline 
+Source of data  Calculated 
+Value applied  Varies in years 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied  
+The carbon stock is estimated by calculating the aboveground 
+non-tree stock with a conversion factor (below ground ratio) 
+Purpose of Data  Calculation of baseline 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+55 
+Comments  N/A  
+ 
+Data / Parameter  
+R  
+Data unit  t root d.m. t-1 shoot d.m.  
+Description  Root to shoot ratio applied as belowground biomass per unit area: 
+aboveground biomass per unit area (not on a per stem basis)  
+Source of data  Hairiah K, Rahayu S. 2007. .Pengukuran “karbon tersimpan” di 
+berbagai macam Penggunaan lahan. Bogor. World Agroforestry 
+Centre – ICRAF, SEA Regional Office, University of Brawijaya, 
+Indonesia. 
+Value applied  0.1 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied  
+N/A 
+Purpose of Data  Calculation of baseline 
+Comments  N/A  
+ 
+Data / Parameter  
+Carbon fraction 
+Data unit  dimensionless 
+Description  Ratio applied as carbon stock: biomass stock 
+Source of data  SNI no.7224/2011 
+Value applied  0.47 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied  
+N/A 
+Purpose of Data  Calculation of baseline 
+Comments  N/A  
+ 
+Data / Parameter  
+AGB
+tree
+ 
+Data unit  t C/ha 
+Description  Carbon stock factor for aboveground biomass tree in natural 
+forest 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+56 
+Source of data  Estimated following field survey data 
+Value applied  60.54 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied  
+Stratification was used during field survey. The carbon stock 
+factor is then a weighted average of stock factors in these stratum  
+Purpose of Data  Calculation of baseline 
+Comments  N/A  
+ 
+Data / Parameter  
+AGB
+non-tree
+ 
+Data unit  t C/ha 
+Description  Carbon stock factor for aboveground biomass non-tree in natural 
+forest 
+Source of data  Estimated following field survey data 
+Value applied  6.05 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied  
+Stratification was used during field survey. The carbon stock 
+factor is then a weighted average of stock factors in these stratum  
+Purpose of Data  Calculation of baseline 
+Comments  N/A  
+ 
+Data / Parameter  
+BGB
+tree
+ 
+Data unit  t C/ha 
+Description  Carbon stock factor for belowground biomass tree in natural forest 
+Source of data  Estimated following field survey data 
+Value applied  1.4 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied  
+Stratification was used during field survey. The carbon stock 
+factor is then a weighted average of stock factors in these stratum  
+Purpose of Data  Calculation of baseline 
+Comments  N/A  
+ 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+57 
+Data / Parameter  
+BGB
+non-tree
+ 
+Data unit  t C/ha 
+Description  Carbon stock factor for belowground biomass non-tree in natural 
+forest 
+Source of data  Estimated following field survey data 
+Value applied  0.14 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied  
+Stratification was used during field survey. The carbon stock 
+factor is then a weighted average of stock factors in these stratum  
+Purpose of Data  Calculation of baseline 
+Comments  N/A  
+ 
+Data / Parameter  
+EFC
+t
+ 
+Data unit  t CO
+2-e
+ 
+Description  Emission from fuel combustion in year t 
+Source of data  Calculated 
+Value applied  Varies by years 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied  
+Following equation 1 of the module E-FFC ver. 1.0 
+Purpose of Data  Calculation of baseline 
+Comments  N/A  
+ 
+Data / Parameter  
+Fuel
+a,t
+ 
+Data unit  TJ 
+Description  
+Amount of fuel type a consumed in year t 
+Source of data  Calculated 
+Value applied  Varies according fuel type 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied  
+Following equation 2 of the module E-FFC ver. 1.0 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+58 
+Purpose of Data  Calculation of baseline 
+Comments  N/A  
+ 
+Data / Parameter  
+N
+2
+O direct-N,i,t  
+Data unit  t CO
+2-e
+ 
+Description  Direct N
+2
+O emission as a result of nitrogen application on the 
+alternative land use within the project boundary in year t  
+Source of data  Calculated 
+Value applied  Varies by years 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied  
+Following equation A/R Methodological tool "Estimation of direct 
+nitrous oxide emission from nitrogen fertilization" 
+Purpose of Data  Calculation of baseline 
+Comments  N/A  
+ 
+Data / Parameter  
+E
+peatditch-CH4,i,t 
+ 
+Data unit  t CO
+2
+e ha
+-1 
+yr
+-1 
+ 
+Description  
+Emission of CH
+4 
+from ditch and open water stratum i at year t  
+Source of data  Project-specific values; appropriate literature sources  
+Value applied  N/A  
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied  
+See module M-PEAT  
+Purpose of Data  Calculation of baseline emissions  
+Comments  N/A  
+ 
+4.2 Data and Parameters Monitored 
+Data / Parameter:  
+C
+AB tree
+ 
+Data unit:  t CO
+2e
+ 
+Description:  Carbon stocks of aboveground tree  
+Equations  Equation 29 of the module M-MON ver. 2.1 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+59 
+Source of data:  Calculated 
+Description of 
+measurement methods 
+and procedures to be 
+applied:  
+A combination of ground measurement and satellite imagery 
+analysis will be performed to estimate biomass stock. Carbon 
+fraction will then convert the stock into carbon stock. 
+The ground measurement will be carried out following the SNI 
+no.7224/2011 
+Frequency of 
+monitoring/recording:  
+Every three years 
+Value  applied:   
+Monitoring equipment 
+ Computer based GIS and remote sensing software 
+ GPS for ground truthing 
+ Camera  
+QA/QC procedures to be 
+applied:  
+ 
+Purpose of data:  Calculation of baseline 
+Calculation method:  
+ Change detection procedure using remote sensing tools 
+ Overlay analysis of two landcover map using GIS equipment 
+Comments  
+ 
+Data / Parameter:  
+C
+AB non-tree
+ 
+Data unit:  t CO
+2e
+ 
+Description:  Carbon stocks of aboveground non-tree  
+Equations  Equation 29 of the module M-MON ver. 2.1 
+Source of data:  Estimated 
+Description of 
+measurement methods 
+and procedures to be 
+applied:  
+A combination of ground measurement and satellite imagery 
+analysis will be performed to estimate biomass stock. Carbon 
+fraction will then convert the stock into carbon stock. 
+The ground measurement will be carried out following the SNI 
+no.7224/2011 
+Frequency of 
+monitoring/recording:  
+Every three years 
+Value  applied:   
+Monitoring equipment 
+ Computer based GIS and remote sensing software 
+ GPS for ground truthing 
+ Camera  
+QA/QC procedures to be 
+applied:  
+ 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+60 
+Purpose of data:  Calculation of baseline 
+Calculation method:  
+ Change detection procedure using remote sensing tools 
+ Overlay analysis of two landcover map using GIS equipment 
+Comments  
+ 
+4.3 Monitoring Plan 
+Monitoring  on carbon  stock  changes  will  be  conducted  for  aboveground  and  below  ground 
+biomass. The proposed project will use both ground measurement and satellite imagery analysis 
+to first estimate above ground biomass stock is the project area.  
+4.3.1 Forest cover change monitoring 
+The primary data used in forest cover change monitoring is high to medium data with 10 to 15 m 
+spatial resolution. Landsat 8 imagery is the minimum imagery standard in combination with SPOT 
+or higher resolution imagery.  
+A GPS device will be used to navigate the location of selected samples during ground verification. 
+Digital camera will be used to photograph the land cover segments at visited sites for each class 
+as reference data in the accuracy assessment.  
+The digital image processing will be carried out using computer based Remote sensing software 
+for image processing, classification and analysis of the imagery. 
+Satellite  image  acquisition,  pre-processing,  secondary  data  collection,  image  classification, 
+ground verification, accuracy assessment and output  derivation are the main components in the 
+monitoring  process.  Pre-processing  should  be  performed  to  improve  qualitative  judgements 
+concerning the data.  
+The  classification  system  will  be  referred  to  the  land  cover  map  issued  in  the  2014  land  cover 
+mapping,  which  covers  at  least  the  following  forest  class:  High  density,  medium  density,  low 
+density, and very low density forest. 
+The data collected and posterior analysis shall cover:  
+ The  entire  reference  region:  at  least  at  the  beginning  and  at  the  end  of  the  crediting 
+period (for periodical revision of the baseline).  Unit of analysis is ha yr
+-1
+. 
+ The entire project area: at least at the beginning and at the end of each monitoring period 
+(for periodical verifications). Unit of analysis is ha yr
+-1
+. 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+61 
+ The entire leakage belt, where required: at least at the beginning and at the end of each 
+monitoring period (for periodical verifications). Unit of analysis is ha yr
+-1
+. 
+Two main change detection techniques can be be used:  
+ Post-classification  change  detection:  Two  maps  are  generated  for  two  different  time 
+points and then compared to detect changes in forest cover.  
+ Pre-classification  change  detection  (direct  classification  of  change):  Two  data  sets 
+acquired at different dates are analyzed together to detect the locations where a change 
+has occurred 
+Automated classification methods should be used as the method of interpretation is more efficient 
+and  repeatable  than  a  visual  interpretation.  Interpretation  should  also  focuses  on  change 
+detection with interdependent assessment of two multi-temporal images together 
+An  accuracy  of  the  outcome  of  the  mapping  will  be  assessed  by  estimating  the  following  three 
+types  of  errors:  (1)  Overall  classification  accuracy  (2)  Error  of  omission  of  each  category  of 
+change  (error  of  excluding  an  area  from  a  category  to  which  it  does truly  belongs,  i.e.  area 
+underestimation) (3)  Error of commission of each category of change (error of including an area 
+in  a  category  to  which  it  does  not  truly  belong,  i.e.  area  overestimation)  for  each  category  of 
+change, using statistical sampling 
+4.3.2 Analysis and Frequency  
+From forest cover change mapping, the following will also be covered in the analysis: 
+- Monitoring of areas undergoing degradation 
+- Monitoring of areas undergoing carbon stock enhancement 
+As  stated  in  2014  landcover  map,  the  project  contains  forest  areas  that  are  assumed  to  be 
+accumulating carbon and these areas are included in the baseline (Very low density, low density 
+and medium denity). Forest cover monitoring will be used for monitoring any change in the area 
+of those mentioned strata.  
+A consistent time-series of land  use-change  will  be  used for  for  periodical monitoring. Following 
+standard  of  landcover  monitoring  in  Indonesia,  three  years  monitoring  interval  will  be  applied  to 
+achieve optimum result. 
+4.3.3 Ground measurement of biomass carbon stock 
+Ground measurement of biomass carbon stock in the project area will follow on procedure used 
+during measurement for baseline pre-deforestation carbon stock. 63 permanent sample plots are 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+62 
+distributed  within  the  project  area.  These  sample  plots  were  also  those  used  for  estimation  of 
+baseline pre-deforestation stock. Location of each sample plots is presented in Appendix 4.   
+Estimation  of  carbon  stock  will  follow  allometric  equation  by Murdiyarso  (2010),  thus  ground 
+measurement  activity  will  only  cover  the  measurement  of  diameter at  each  level  of  the  stand 
+(stakes, poles and trees) on various types of plants in the plots.   
+Calculation of carbon stock will follows the procedure used to estimate ex-ante pre-deforestation 
+carbon stock. Below ground biomass stock will also be estimated using root-shoot ratio of 0.1
+14
+. 
+Afterward,  a ratio  of  0.47
+15
+ will be used  to convert  the  value  of  biomass  stock  (ton)  into carbon 
+stock (ton C).   
+ 
+5. ENVIRONMENTAL IMPACT 
+Proposed project activity is continuation of existing land use, i.e as natural forest, which does not require 
+an   environmental   impact   assessment   according   to   the Minister   of   Environment   No.5/2012   that 
+Environmental Impact Assessments (EIAs) are required if the following conditions exist: 
+1. Concession Forest, all area scale 
+2. Timber Plantation, area is ≥ 5,000 Ha 
+Therefore, EIAs is not required for the proposed activity as the proposed project activity is not developing 
+a concession forest and timber plantation. 
+In  addition, implementation  of the  project  is expected to  assist  in  conservation  of  biodiversity  in  the 
+Kampar Bay area. As mentioned in the Section 1.10c regarding biodiversity, the proposed project area is 
+home to 84 plant species, 23 herpetofauna, 75 avifauna, and 16 large mammals, some of it are endemic 
+species  such  as Sumatran  tiger (Panthera  tigris  sumatrae), avifauna  (perenjak  jawa), herpetofauna 
+(hylarana  rawa). There  were  also  some  endangered species  such  as  agile  gibbon  (owa  ungko),  sunda 
+pangolin (trenggiling peusing). 
+In terms of biophysical impact of the proposed project, no significant change is planned on the landscape 
+as  well  as  the  composition  of  plants  and  peat  since  the  project  maintains  current  state  of  the  land,  i.e 
+natural  forest.  Located  in  a  peat  land,  the  proposed  project  will  avoid  decomposition  of  peat  that  will 
+otherwise occur if the area is converted into timber plantation.  
+                                                 
+14
+ Source: Hairiah K, Rahayu S. 2007. Pengukuran “karbon tersimpan” di berbagai macam Penggunaan lahan. Bogor. World 
+Agroforestry Centre – ICRAF, SEA Regional Office, University of Brawijaya, Indonesia. (p. 32). 
+15
+ Source: Standar Nasional Indonesia – SNI (Indonesian National Standard) no. 7724/2011 regarding Measurement and Estimation 
+of Carbon Stock – ground based forest carbon accounting. (p. 12). 
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+63 
+With  regard  to  community  surrounding  the  area,  social  economy  surveys  were  conducted  first  on 
+February 2015 and second time on September 2015. Objectives of the survey was to collect information 
+on the community’s view on the REDD project, their social economy situation, their livelihood dependency 
+on  forest,  and  also to  assist  in  formulating incentive for  the  community  to  reduce  their  dependency  on 
+forest products. According to the survey, more than 50% of the community’s livelihood depends on forest 
+products.  
+While implementation of the REDD project will limit their access to utilize some of the forest’s products, it 
+may  also  bring  other  opportunities,  for  example  in  the  development  of agroforestry  and forest  honey 
+business. 
+ 
+6. STAKEHOLDER COMMENTS 
+On the proposed project, the KPHP TBS is the main proponent and stakeholders identified are: 
+ Five local communities living in the village surrounding the project area, namely the communities 
+of Desa  Penyengat,  Desa  Rawa  Mekar  Jaya,  Desa  Sungai  Rawa,  Desa  Mengkapan and Desa 
+Teluk Lanus. 
+ Concessions holders in the KPHP TBS area 
+ Riau Forestry Service 
+ Riau Agency of Planning and Development 
+ Ministry of Environment and Forestry 
+The project  development process was  begun since  the signing  of Record  of  Discussion  (ROD)  by  two 
+parties i.e. Korean and Indonesia Government on 25
+th
+January 2012. As a follow up, during the period of 
+January 2012 – September 2015, the KPHP TBS has organized several meetings with local stakeholders 
+in  Riau in  preparation  of  the  REDD  project  implementation.  For  meetings  with  national  stakeholders, 
+some of it took place in Jakarta and Bogor.   
+Some of comments received during stakeholder consultation process are: 
+Private Plantation companies 
+ The organizational structure between the KPHP TBS and the concession holders should be improved 
+in order to improve communication and information sharing between parties. The concession holders 
+expect that in the future, the KPHP can provide leadership in facilitating inter-company interests.  
+ Concession holders in the area are supporting the implementation of REDD, as long as it is in line with 
+government policy  
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+64 
+Siak and Pelalawan Forestry Agency 
+ Since the KPHP is under direction of the Governor, the forestry agency of Siak district sees no direct 
+relation with the district agency, instead only with provincial agency. As such, the district agency is not 
+well informed of the KPHP’s activities. Nevertheless, they support the implementation of REDD project  
+Local Communities 
+ Penyengat village communities has long story to develop sago. In 2014, they proposed a land area of 
+600  hectares  for  300  families  for  planting  sago. They  wish  that  the  KPHP  can  facilitate  the 
+development of sago plantation in their area. 
+ Rawa Mekar Jaya communities expressed their interest to plant rubber. They estimated that they need 
+around 500  hectares  of  land that  can be  managed  by  250  households. In  the  future,  they  hope  the 
+KPHP can facilitate the rubber development  
+ The local communities are supporting  government’s  effort  in preserving forest.  However,  they  also 
+want to note that the local economy’ needs have to be taking into account. 
+ The community expect some clarity is given by the KPHP in terms of land used by the community. The 
+rights given are utilization rights, and not ownership. Therefore, it will prevent any future conflict over 
+land tenure. 
+Despite  not  having  community  living  inside  the  proposed  project  area,  the  KPHP  TBS  will  implements 
+several community development program as part of preventive measures to avoid future encroachment in 
+the  proposed  project  area. In  its  RPHJP,  they have  planned  to  develop  sago  and  rubber,  thus  the 
+community’s wish can then be accommodated in the form of development of community forest with sago 
+and rubber as the main commodities. Rawa Mekar and Penyengat villages are chosen to be the location 
+of these community forests.  
+ 
+ 
+  
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+65 
+APPENDIX 1. RESULT OF SATELLITE IMAGERY ANALYSIS ON FOREST FIRE 
+OCCURRENCE IN THE PROJECT AREA 
+According to hot spot monitoring data from FIRMS (NASA), indication of hot spot cases within the area of 
+the KPHP TBS in the last 15 years are as follows: 
+Year Hot spot 
+ 
+Year Hot spot 
+ 
+Year Hot spot 
+2001 1 
+ 
+2006 53 
+ 
+2011 13 
+2002 28 
+ 
+2007 25 
+ 
+2012 41 
+2003 20 
+ 
+2008 20 
+ 
+2013 63 
+2004 48 
+ 
+2009 47 
+ 
+2014 451 
+2005 423 
+ 
+2010 4 
+ 
+2015 37 
+There were two hot spot peaks in years 2005 (423 cases) and 2014 (451 cases) with average 0f 85 hot 
+spot  cases  every  year.    All  of  hot  spot  cases  are  located  outside  of  project  area,  even  though in  2014 
+some of them were occurred near the project location. 
+ 
+Figure 9. Map of Hot Spot Cases in Last 15 Years According to MODIS satellite (NASA) 
+  
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+66 
+APPENDIX 2. EXPERT JUDGEMENT ON THE CHANGE OF WATER TABLE WITHIN THE 
+PROJECT AREA 
+ 
+Date  
+7 November 2015 
+Name of expert involved  
+Prof. Dr. Budi Indra Setiawan 
+Experts’ background  
+Hydrologi Expert 
+The quantity being judged  
+The change of water table within project area under the 
+baseline and project condition 
+The logical basis for judgement, including 
+any data taken into consideration. This 
+should include the rationale for the high 
+end, low end, and central tendency of any 
+uncertainty distribution 
+under the baseline condition (conversion of natural forest 
+to industrial plantation with 7 years rotation) the emission 
+from carbon stock change and GHG emission after the 
+conversion only occur in the deforested area (converted 
+area). In other word, the carbon stock in the remaining 
+non converted area (natural forest) will not change 
+significantly.  
+Based on the expert judgement, the change may occur in 
+GHG emission due to small change in water table (less 
+than 20 cm on average in a year). Under project scenario, 
+the change outside project area will be the construction of 
+new road (see Figure 11). However, this may not have 
+significant influence on water table in the project area. 
+This is because construction of the road will involve the 
+process of compaction of peat, so that the permeability of 
+the peat will be very low. Instead, the construction of the 
+road will have positive impact on water retention.  
+Water drain from the area will be channelled to existing 
+river networks.  
+The result: e.g., activity value, emission 
+factor or for uncertainty the probability 
+distribution, or the range and  most likely 
+value and the probability distribution 
+subsequently inferred 
+Water table in the deforested area (HTI) ranging between 
+20-80 cm (on average 50 cm with 60% uncertainty), while 
+in natural forest ranges between 0-40 cm (on average 20 
+cm).  
+ 
+  
+
+ PROJECT DESCRIPTION: VCS Version 3 
+ 
+v3.2 
+67 
+ 
+APPENDIX 3. LOCATION OF PERMANENT SAMPLE PLOTS 
+ 
+ 
+ 
+ 
+ 

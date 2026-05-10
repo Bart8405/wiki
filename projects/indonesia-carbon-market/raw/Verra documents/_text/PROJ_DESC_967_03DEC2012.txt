@@ -1,0 +1,330 @@
+
+
+                            PROJECT DESCRIPTION: VCS Version 3   
+ 
+ 
+v3.1     
+ 
+1 
+ 
+BANTARGEBANG LANDFILL GAS 
+MANAGEMENT & POWER 
+GENERATION 
+ 
+ 
+ 
+ 
+Document Prepared By: 
+Environmental Finance Team of 
+PT. NAVIGAT ORGANIC ENERGY INDONESIA 
+ 
+Project Title  
+“Bantargebang Landfill Gas Management & Power Generation” 
+Version 
+Version 2.0 
+Date of Issue 
+03 December 2012 
+Prepared By 
+Environmental Finance Team of 
+PT NAVIGAT ORGANIC ENERGY INDONESIA 
+Contact  
+Lt 18 Panin Tower, Senayan City Complex 
+Jl. Asia Africa Lot 19, Jakarta 10270 
+Indonesia 
+Phone +62 21 7278 2353; 
+Fax: +62 21 7278 2358 
+Environmental.finance@noei.co.id 
+
+                            PROJECT DESCRIPTION: VCS Version 3   
+ 
+ 
+v3.1     
+ 
+2 
+Table of Contents 
+ 
+1 Project Details .................................................................................................................................... 3 
+1.1 Summary Description of the Project ............................................................................................ 3 
+1.2 Sectoral Scope and Project Type ................................................................................................ 3 
+1.3 Project Proponent........................................................................................................................ 3 
+1.4 Other Entities Involved in the Project .......................................................................................... 3 
+1.5 Project Start Date ........................................................................................................................ 4 
+1.6 Project Crediting Period .............................................................................................................. 4 
+1.7 Project Scale and Estimated GHG Emission Reductions or Removals ....................................... 4 
+1.8 Description of the Project Activity ................................................................................................ 5 
+1.9 Project Location .......................................................................................................................... 5 
+1.10 Conditions Prior to Project Initiation ........................................................................................ 5 
+1.11 Compliance with Laws, Statutes and Other Regulatory Frameworks ...................................... 5 
+1.12 Ownership and Other Programs .............................................................................................. 5 
+1.12.1 Right of Use ......................................................................................................................... 5 
+1.12.2 Emissions Trading Programs and Other Binding Limits ...................................................... 5 
+1.12.3 Participation under Other GHG Programs ........................................................................... 5 
+1.12.4 Other Forms of Environmental Credit .................................................................................. 6 
+1.12.5 Projects Rejected by Other GHG Programs ........................................................................ 6 
+1.13 Additional Information Relevant to the Project......................................................................... 6 
+2 Application of Methodology ................................................................................................................ 6 
+2.1 Title and Reference of Methodology............................................................................................ 6 
+2.2 Applicability of Methodology ........................................................................................................ 6 
+2.3 Project Boundary ......................................................................................................................... 6 
+2.4 Baseline Scenario ....................................................................................................................... 7 
+2.5 Additionality ................................................................................................................................. 7 
+2.6 Methodology Deviations .............................................................................................................. 7 
+3 Quantification of GHG Emission Reductions and Removals .............................................................. 7 
+3.1 Baseline Emissions ..................................................................................................................... 7 
+3.2 Project Emissions ........................................................................................................................ 7 
+3.3 Leakage ...................................................................................................................................... 7 
+3.4 Summary of GHG Emission Reductions and Removals .............................................................. 7 
+4 Monitoring ........................................................................................................................................... 7 
+4.1 Data and Parameters Available at Validation .............................................................................. 7 
+4.2 Data and Parameters Monitored ................................................................................................. 7 
+4.3 Description of the Monitoring Plan............................................................................................... 7 
+5 Environmental Impact ......................................................................................................................... 7 
+6 Stakeholder Comments ...................................................................................................................... 8 
+  
+
+                            PROJECT DESCRIPTION: VCS Version 3   
+ 
+ 
+v3.1     
+ 
+3 
+1 PROJECT DETAILS  
+1.1 Summary Description of the Project 
+The  Project  Activity  is  a  registered  CDM  Project  with  UNFCCC  Registration  number  6486. 
+The Project Description refers to Section A.1 of the Registered Project Design Documentation 
+(PDD), Section A.1 (Version 2.0.0 dated 21 June 2012)  
+1.2 Sectoral Scope and Project Type  
+The Project Activity falls under the following sectoral scope: 
+► Sectoral Scope 1: Energy Industries (renewable / non-renewable sources) 
+► Sectoral Scope 13: Waste Handling and Disposal  
+ 
+The  above  sectoral scopes  are  in-line  with  the  sectoral  scope  as  per  Section  A.4.2  of  the 
+above-stated PDD.  
+The Project is not a Grouped Project 
+ 
+1.3 Project Proponent 
+PT Navigat Organic Energy Indonesia (“NOEI”).  NOEI  is  the  investor  and operator  of  the 
+Project  Activity.  The company  is  registered  in  Indonesia,  and  is  a  host  country  Project 
+Participant. 
+Contact Information: 
+  Environmental Finance Division 
+PT Navigat Organic Energy Indonesia 
+Address: Lt. 18 Panin Tower Senayan City Complex,  
+  Jl. Asia Africa Lot 19, Jakarta 10270  
+  DKI Jakarta, Indonesia 
+Phone :  +62 21 7278 2353 
+Fax:  +62 21 7278 2358 
+Email:  environmental.finance@noei.co.id  
+1.4 Other Entities Involved in the Project 
+PT  Zeus  Innavitas  (“ZEUS”).  ZEUS  is  the  advisory  management  entity  for  the  CDM 
+registration of the Project, and is a host country Project Participant 
+Contact Information: 
+Mr. H. Soeyoto 
+PT Zeus Innavitas 
+Addresss: Lt. 07 Wisma Argo Manunggal  
+  Jl. Gatot Subroto Kav. 22, Jakarta Selatan 12930 
+  DKI Jakarta, Indonesia 
+Phone:   +62 21 5292 2252 
+Fax:  +62 21 5292 2253 
+Email:  Soeyoto@zeus-innavitas.com 
+ 
+
+                            PROJECT DESCRIPTION: VCS Version 3   
+ 
+ 
+v3.1     
+ 
+4 
+1.5 Project Start Date 
+The  Project  Start  Date  is  the  date  of  which  the  Project  starts  generating  verifiable  emission 
+reduction,  and  this  is  designated  as  the first  full  day  of  which  the  Project  enters  into 
+commercial transaction with the grid authority, which is the 26
+th
+ of February 2011.  
+The  CDM  Project  Start  Date  is  05th  of  December  2008,  as  outlined  in  Section  C.1.1  of  the 
+Registered PDD.  
+1.6 Project Crediting Period 
+Under the VCS Standard, a project credit period can be a maximum of 10 years which may 
+be renewed at most twice. With a starting date as specified in paragraph 1.5 above, the entire 
+voluntary credit period ends the latest on 25
+th
+ February 2041.  
+In addition  to  VCS,  as  of  05
+th
+ of  July  2012,  this  Project  has  been  registered  using  CDM 
+Standard with registration number 6486. Under CDM , the Project credit period commenced 
+on 1
+st
+ of August 2012 and can be renewed twice every 7 years. Thus, the entire CDM Credit 
+Period shall ends on 31
+st
+ of July 2033. 
+For project applying multiple GHG programs, paragraph 3.9.3 of the Standard stipulates that 
+such project is not eligible for VCU issuance after the date that is the earliest end-date of all 
+applicable project crediting period, which is the 31
+st
+ of July 2033.  
+As consequence, the Project’s credit period thus covers the period of 26
+th
+ of February 2011 to 
+31
+st
+ of July 2033 (both days inclusive).   
+1.7 Project Scale and Estimated GHG Emission Reductions or Removals 
+Project 
+ 
+Large project  
+ 
+Years Estimated GHG emission 
+reductions or removals 
+(tCO
+2
+e) 
+Year 1  
+ tCO2              580,477  
+Year 2 
+ tCO2              623,576  
+Year 3 
+ tCO2              658,009  
+Year 4 
+ tCO2              686,361  
+Year 5 
+ tCO2              710,382  
+Year 6 
+ tCO2              731,267  
+Year 7 
+ tCO2              749,829  
+Year 8 
+ tCO2              766,630  
+Year 9 
+ tCO2              782,001  
+Year 10 
+ tCO2              794,466  
+Total estimated ERs 
+ tCO2          7,082,998  
+
+                            PROJECT DESCRIPTION: VCS Version 3   
+ 
+ 
+v3.1     
+ 
+5 
+Total number of crediting years 
+10 
+Average annual ERs 
+ tCO2              708,300 
+1.8 Description of the Project Activity 
+The full description of the Project Activity is outlined in Section A.4.3 of the Registered PDD. 
+The expected operational lifetime of the project activity is specified in Section C.1.2 
+1.9 Project Location 
+The Project is hosted in the Republic of Indonesia, and located on the Province of West Java, 
+the City of Bekasi, and specifically within Bantargebang Final Disposal Site facility.  
+The Bantargebang Final Disposal Site facility itself is a 120 hectares of area. The location of 
+the power house is 6 21’ 04.21” South and 106 59’ 48.33” East. 
+1.10 Conditions Prior to Project Initiation 
+The  condition  prior  to  the  project  start  date  is  a  full  atmospheric  release  of  landfill  gas  and 
+continuous usage of carbon-intensive grid electricity by the electrical end-users. This situation 
+is identified  to  continue  throughout  the  credit  period, and  hence  established as  the baseline 
+scenario.  
+The demonstration of how this scenario is established is outlined in Section B.4 and B.5 of the 
+Registered PDD.    
+1.11 Compliance with Laws, Statutes and Other Regulatory Frameworks 
+The Project’s compliance to law are described in Section D.1 of the Registered PDD.  
+1.12 Ownership and Other Programs 
+1.12.1 Right of Use 
+The Letter of Approval for the Project was issued by the National Council for Climate Change 
+(“Dewan Nasional Perubahan Iklim”), which is the Designated National Authority for Republic 
+of Indonesia (the host country). The Approval were granted on 27 January 2011 for two host 
+Project Participants: PT Navigat Organic Energy Indonesia and PT Zeus Innavitas.    
+1.12.2 Emissions Trading Programs and Other Binding Limits 
+Not applicable.  
+1.12.3 Participation under Other GHG Programs 
+The  Project  Activity  is  a  registered  project  under  the  UNFCCC’s  Clean  Development 
+Mechanism GHG Program. The CDM registration date of the Project is 05th July 2012, with 
+registration number 6468, and credit period commencing on 1
+st
+ of August 2012.   
+
+                            PROJECT DESCRIPTION: VCS Version 3   
+ 
+ 
+v3.1     
+ 
+6 
+1.12.4 Other Forms of Environmental Credit 
+As  a  registered  CDM  Project,  the  emission  reduction  resulting  out  of  the  project  will  be 
+claimed  as  a  CDM  Certified  Emission  Reduction  (CDM-CER),  commencing  on  the  starting 
+date of the CDM credit period of 1
+st
+ August 2012.  
+Any emission reduction occurring prior to the 1
+st
+ of August 2012, is to be verified as voluntary 
+actions, and thus the sought VCS Registration. As such, there will be no overlap between the 
+emission reduction validated and verified as VERs. 
+1.12.5 Projects Rejected by Other GHG Programs 
+Not applicable 
+1.13 Additional Information Relevant to the Project  
+Eligibility Criteria 
+The Project is not a grouped Project. Eligibility criteria for inclusion hence is not relevant.  
+Leakage Management 
+Leakage is  not  expected  out  of  the  Project  as  all identified  GHG  emission  sources  possible 
+occurs within Project Boundary, as has been identified by the applied methodology.  
+Commercially Sensitive Information  
+Not applicable 
+Further Information 
+The  eligibility  of  the  Project  has  been  established  in  Section  B.5  of  the  CDM  PDD,  as  the 
+Project is the first of it’s kind in the host country. The compliance of the Project against it’s 
+environmental legal context are assessed in it’s Environmental Impact Assessment, already 
+reviewed as part of the requirement for Host Country Approval.   
+2 APPLICATION OF METHODOLOGY 
+2.1 Title and Reference of Methodology  
+Please refer to Section B.1 of PDD 
+2.2 Applicability of Methodology 
+Please refer to Section B.2 of PDD 
+2.3 Project Boundary 
+Please refer to Section B.3 of PDD 
+
+                            PROJECT DESCRIPTION: VCS Version 3   
+ 
+ 
+v3.1     
+ 
+7 
+2.4 Baseline Scenario 
+Please refer to Section B.4 of PDD 
+2.5 Additionality 
+Please refer to Section B.5 of PDD 
+2.6 Methodology Deviations 
+Not applicable 
+3 QUANTIFICATION OF GHG EMISSION REDUCTIONS AND REMOVALS 
+3.1 Baseline Emissions 
+Please refer to Section B.6.1 of PDD 
+3.2 Project Emissions 
+Please refer to Section B.6.1 of PDD 
+3.3 Leakage 
+Please refer to Section B.6.1 of PDD 
+3.4 Summary of GHG Emission Reductions and Removals 
+Please refer to Section B.6.3 of PDD 
+ 
+4 MONITORING 
+4.1 Data and Parameters Available at Validation 
+Please refer to Section B.6.2 of PDD 
+4.2 Data and Parameters Monitored  
+Please refer to Section B.7.1 of PDD 
+4.3 Description of the Monitoring Plan 
+Please refer to Section B.7.2 of PDD 
+5 ENVIRONMENTAL IMPACT 
+Please refer to Section D of PDD 
+
+                            PROJECT DESCRIPTION: VCS Version 3   
+ 
+ 
+v3.1     
+ 
+8 
+6 STAKEHOLDER COMMENTS 
+Please refer to Section E of PDD 
+ 
+---- end of document --- 
+ 

@@ -1,0 +1,1797 @@
+
+
+ 
+ 
+ 
+ 
+ENVIRO RISE 
+ 
+Project title
+ Enviro Rise  
+Project ID
+ 
+5631 
+Crediting period 
+1 January 2024 to 31 December 2063 
+Original date of issue 
+24-June-2025 
+ 
+Most recent date of 
+issue 
+24-June-2025 
+Version 
+v.1.0 
+VCS Standard Version 
+V4.7 
+Prepared by 
+Neusa Global Pte Ltd 
+
+ 
+CONTENTS 
+1 PROJECT DETAILS ................................................................................................ 4 
+1.1 Summary Description of the Project ............................................................................... 4 
+1.2 Audit History ....................................................................................................................... 5 
+1.3 Sectoral Scope and Project Type ................................................................................... 5 
+1.4 Project Eligibility ................................................................................................................. 5 
+1.5 Project Design .................................................................................................................... 8 
+1.6 Project Proponent ............................................................................................................. 8 
+1.7 Other Entities Involved in the Project .............................................................................. 8 
+1.8 Ownership .......................................................................................................................... 9 
+1.9 Project Start Date .............................................................................................................. 9 
+1.10 Project Crediting Period ................................................................................................. 10 
+1.11 Project Scale and Estimated GHG Emission Reductions or Removals ...................... 10 
+1.12 Description of the Project Activity ................................................................................. 12 
+1.13 Project Location .............................................................................................................. 15 
+1.14 Conditions Prior to Project Initiation .............................................................................. 16 
+1.15 Compliance with Laws, Statutes and Other Regulatory Frameworks ...................... 16 
+1.16 Double Counting and Participation under Other GHG Programs ............................ 16 
+1.17 Double Claiming, Other Forms of Credit, and Scope 3 Emissions ............................. 19 
+1.18 Sustainable Development Contributions ..................................................................... 20 
+1.19 Additional Information Relevant to the Project ........................................................... 24 
+2 SAFEGUARDS AND STAKEHOLDER ENGAGEMENT .......................................... 24 
+2.1 Stakeholder Engagement and Consultation ............................................................... 25 
+2.2 Risks to Stakeholders and the Environment .................................................................. 25 
+2.3 Respect for Human Rights and Equity .......................................................................... 25 
+2.4 Ecosystem Health ............................................................................................................ 26 
+3 APPLICATION OF METHODOLOGY ................................................................... 26 
+3.1 Title and Reference of Methodology ........................................................................... 27 
+3.2 Applicability of Methodology ........................................................................................ 28 
+3.3 Project Boundary ............................................................................................................. 35 
+3.4 Baseline Scenario ............................................................................................................ 35 
+
+ 
+3.5 Additionality ..................................................................................................................... 35 
+3.6 Methodology Deviations ................................................................................................ 35 
+4 QUANTIFICATION OF ESTIMATED GHG EMISSION REDUCTIONS AND 
+REMOVALS ......................................................................................................... 36 
+4.1 Baseline Emissions ............................................................................................................ 36 
+4.2 Project Emissions .............................................................................................................. 36 
+4.3 Leakage Emissions ........................................................................................................... 36 
+4.4 Estimated GHG Emission Reductions and Carbon Dioxide Removals ...................... 36 
+5 MONITORING .................................................................................................... 36 
+5.1 Data and Parameters Available at Validation ............................................................ 36 
+5.2 Data and Parameters Monitored .................................................................................. 36 
+5.3 Monitoring Plan ................................................................................................................ 36 
+
+1 PROJECT DETAILS 
+1.1 Summary Description of the Project 
+Enviro  Rise  is  an  initiative  dedicated  to  the  protection  and  restoration  of  diverse  forest  and  peatland 
+ecosystems  in  Seruyan,  Central  Kalimantan,  Indonesia.  With  62%  of  the  area  consisting  of  degraded 
+peatlands, our mission is to shift from a “Business as Usual” (BAU) of Industrial Forest Plantation (HTI) 
+business  model  that  will  clear  the  forest  and  drain  the  peatlands  to  one  that  actively  restores  and 
+preserves these vital  ecosystems. Key  measures  include  canal  blocking  for  rewetting,  assisted/natural 
+regeneration,   fire   prevention   and   management,   community   engagement,   livelihood   improvement 
+programs,  and  biodiversity  monitoring.  These  activities  align  with  REDD+  and  ARR  methodologies  under 
+the Verified Carbon Standard (VCS).  
+The  project  focuses  on  conserving  tropical  peat  swamp  forests  and  restoring  degraded  peatland 
+ecosystems in PT Rimbun Seruyan.  The project is situated in Central Kalimantan, Indonesia, across two 
+blocks  of  PT  Rimbun  Seruyan  concession,  encompassing  34,250  hectares  in  Seruyan  and  Kotawaringin 
+Timur Regencies.  
+Prior to the project, the area faced deforestation and degradation driven by illegal oil palm expansion, canal 
+development,  and  frequent  fires.  Over  the  past  decade,  12,322  hectares  were  burned,  with  significant 
+ecosystem disruption.  
+Our  efforts  aim  to  prevent  the  release  of  an  estimated 1,316,941 ton
+ 
+CO
+2
+eq/year emissions from  HTI 
+practice  and  other unplanned deforestation  drivers  by  implementing  comprehensive  strategies. This 
+includes emissions avoidance through REDD+ and Wetland Restoration and Conservation (WRC) activities 
+1,099,649ton  CO
+2
+e/year and removals via afforestation, reforestation, and revegetation (ARR) activities 
+(217,291 tCO2e/year). These include forest conservation reinforced by enhanced monitoring systems, a 
+robust   fire   prevention   plan,   and   the   restoration   of   degraded   peatlands   through   rewetting   and 
+revegetation.   Additionally,   we   empower   local communities   by   fostering   sustainable   livelihood 
+opportunities, helping them build resilience and secure a brighter future. 
+  
+
+ VCS Project Description Template, v4.4
+ 
+5 
+1.2 Audit History  
+ 
+Audit type Period Program Validation/verification 
+body name 
+Number 
+of years 
+Validation/ 
+verification 
+N/A N/A N/A N/A 
+1.3 Sectoral Scope and Project Type 
+Sectoral scope  
+14: Agriculture, forestry, and other land use 
+AFOLU project category
+1
+  
+Reduced Emission from Deforestation and Degradation 
+(REDD) 
+Wetland Restoration and Conservation (WRC) 
+Afforestation, Reforestation, and Revegetation (ARR) 
+Project activity type 
+Avoiding Planned Deforestation (APD) 
+Avoiding Planned Wetland Degradation (APWD) 
+Conservation of Intact Wetland (WRC) 
+Rewetting of Degraded Wetlands (RWE) 
+Afforestation, Reforestation, and Revegetation (ARR) 
+1.4 Project Eligibility 
+ General eligibility 
+Enviro Rise is eligible under the VCS – CCB program as it fulfils the following criteria:  
+1. It  confirms  with  all  rules  and  requirements  of  the  VCS  Standard  4.7  as  clearly  explained 
+throughout the project documentation.  
+2. The project activities are included under VCS Scope 14 as an Avoiding Planned Deforestation 
+(APD), Avoiding Planned Wetland Degradation (APWD), Rewetting Drained Peatland (RPD) and 
+Afforestation, Restoration, Revegetation (ARR) project. It applies the methodologies VM0007 
+v1.8 and VM0047 v1.1.  
+3. The project is initiating a pipeline listing process under VCS project timeline as set in the section 
+3.8.2  for  AFOLU  projects  of  VCS  Standard  4.7,  that  is  within  three  years  of  the  project  start 
+date, and shall complete validation within five years of the project start date. 
+4. The project implementation does not lead to the violation of any applicable law. 
+ 
+1
+ See Appendix 1 of the VCS Standard 
+
+ VCS Project Description Template, v4.4
+ 
+6 
+5. The  project  has  started  the  stakeholder  engagement  and  Free,  Prior  and  Informed  Consent 
+(FPIC). Enviro Rise considers this as an ongoing process and will ensure the process follows all 
+requirements as listed in Section 3.18 of the VCS Standard 4.7.  
+ AFOLU project eligibility 
+This AFOLU project combines two eligible VCS categories: 
+• Avoided Planned Deforestation (APD),  
+• Avoiding Planned Wetland Degradation (APWD) 
+• Rewetting Drained Peatland (RPD) 
+• Afforestation, Reforestation, and Revegetation (ARR) 
+The project is located in tropical peatland landscapes of Central Kalimantan, Indonesia, and aims to 
+prevent legally permitted forest conversion to plantation forest while restoring degraded peat areas 
+through native species reforestation and peat hydrology recovery through rewetting. 
+Avoided Planned Deforestation (APD):
+ 
+APD involves preventing the legally permitted conversion of tropical peat swamp forest within the Enviro 
+Rise project area in Central Kalimantan to industrial plantation. This is justified because: 
+• The land is legally designated and zoned for HTI (industrial forest plantation) by the Ministry of 
+Forestry, as documented in two official permits: 
+a. IUPHHK-HTI/PMDN/2016 (1/1/2016) – Business License for Industrial Plantation Forest 
+b. SK.12747/MenLHK-PHL/PUPH/HPL.1/11/2023 – Rencana Kerja Usaha (RKU-General 
+Workplan) 
+Both documents are available and provide clear evidence that the deforestation was planned, 
+legal, and financially viable. 
+• Under the business-as-usual (BAU) scenario, conversion to plantation would result in significant 
+greenhouse gas (GHG) emissions from biomass loss, peat oxidation, and subsidence due to 
+extensive drainage infrastructure development as approved under the Rencana Kerja Usaha 
+(RKU). 
+Avoided Planned Wetland Degradation (APWD):
+ 
+Peat degradation would occur from planned drainage infrastructure (e.g., canals, road development, 
+infrastructure) necessary to support plantation establishment and harvesting, which the project aims to 
+avoid. 
+
+ VCS Project Description Template, v4.4
+ 
+7 
+Rewetting Drained Peatland (RDP):
+ 
+In areas where drainage infrastructure was partially constructed prior to the project by public works and 
+local communities for agriculture, the project implements rewetting interventions such as canal blocking 
+to restore hydrology and reduce peat decomposition. 
+Afforestation, Reforestation, and Revegetation (ARR):
+ 
+ARR activities are planned on degraded land cover classes, such as bareland and savanna, through 
+assisted natural regeneration, and on shrub and forest land cover classes to support natural 
+regeneration, enhancing carbon sequestration and restoring ecosystem functions. 
+The Enviro Rise project safeguards the integrity of native ecosystems and does not generate GHG credits 
+from any conversion, clearing, draining, or degradation of native forest or peatland. Evidence includes: 
+• Remote sensing analysis using high resolution imaginaries confirms no clearing or drainage of 
+intact peat swamp forest has occurred within the project boundary since the project start. 
+• Field verification and land use records confirm the protection of native ecosystems, with no 
+activities that degrade or convert these ecosystems since project started.  
+• Project monitoring and enforcement mechanisms ensure ongoing protection against 
+unauthorized forest clearing. fire or drainage. 
+For ARR areas within the project boundary, evidence demonstrates compliance with the VCS requirement 
+that no clearing or conversion occurred within 10 years prior to the project start date: 
+• Historical land use maps and satellite imagery analysis confirm that ARR areas were classified as 
+bareland, savanna, shrubland, or degraded forest and have remained non-forest for over 10 
+years prior to project initiation. 
+• Enviro Rise does not involve the conversion of any native forest or natural ecosystems. The ARR 
+component is implemented only on areas where that clearing or conversion did not take place 
+within 10 years of the project start. 
+• The project includes safeguards to protect biodiversity, hydrology, and peatland ecological 
+functions. ARR species selection prioritizes native or site-adapted species appropriate for 
+rewetted peatland conditions. 
+• Both VM0007 and VM0047 are approved for use under the current VCS Program and apply to 
+the land types, activities, and conditions found in this project. 
+ 
+
+ VCS Project Description Template, v4.4
+ 
+8 
+ Transfer project eligibility  
+The project is not a part of any existing GHG program, nor is it intended to be part of other GHG programs.  
+1.5 Project Design 
+☒  Single location or installation 
+☐  Multiple locations or project activity instances (but not a grouped project) 
+☐  Grouped project 
+1.6 Project Proponent 
+ 
+Organization name 
+PT Rimbun Seruyan 
+Contact person 
+Arya Hanni 
+Title 
+President Director 
+Address 
+Grand ITC Permata Hijau 8th Fl, Unit A6, Kebayoran Lama, South 
+Jakarta 12210 
+Telephone 
++62 811 1219 381  
+Email 
+info@rimbunseruyan.com 
+1.7 Other Entities Involved in the Project 
+ 
+Organization name 
+Neusa Global Pte Ltd  
+Role in the project 
+Technical and operational suppor t 
+Contact person 
+Bushh Pangestu 
+Title 
+Director 
+Address 
+160 Robinson Road, #14-04 Singapore Business Federation 
+Center, Singapore 
+Telephone 
++62 877 8497 9547  
+Email 
+bushh@neusa.net  
+ 
+
+ VCS Project Description Template, v4.4
+ 
+9 
+1.8 Ownership 
+Enviro Rise complies with the ownership requirements of the VCS Standard v4.7 as set out by requirement 
+3.7.1
+21
+.  It  fulfils  criteria  1  of  3.7.1  (“Project  ownership  arising  or  granted  under  statutory,  regulation  or 
+decree by a competent authority”) and criteria 2 of 3.7.1 (“Project ownership arising by virtue of a statutory, 
+property  or  contractual  right  in  the  land,  vegetation  or  conservational  or  management  process  that 
+generates GHG emission reductions and/or removals (where the project proponent has not been divested 
+of such project ownership)”).  
+The project proponent possesses a list of legal approvals that they have obtained for the implementation 
+of the project. A copy of each of the below documents is available upon request (Table below) 
+Decree No Description Approval given 
+by 
+Date of 
+issuance 
+Expiry 
+Date 
+1/1/IUPHHK-HTI/PMDN/2016  Business 
+License for 
+Industrial 
+Plantation 
+Forest 
+Head of the 
+Investment 
+Coordinating 
+Board  
+6 January 
+2016  
+ 
+5 January 
+2076  
+ 
+SK.752/Menlhk/Setjen/Hpl.3/9/2021  
+ 
+Nomenclature 
+change for 
+permit to 
+Business 
+License for 
+Forest 
+Utilization 
+Minister of 
+Environment 
+and Forestry  
+13 
+September 
+2021  
+ 
+5 January 
+2076  
+ 
+ 
+1.9 Project Start Date 
+Project start date  
+01-01-2024 
+Justification  
+The project start date corresponds to the date upon which PT 
+Rimbun Seruyan entered into formal agreements to convert the 
+project from the planned baseline of commercial conversion 
+and drainage, to become a 100% protection and conservation 
+project. These agreements were signed in late 2023, and were 
+followed by the start of project activity around the turn of 2023-
+24. The project start date is conservatively defined as 01 
+January 2022 in order to align with calendar year accounting. 
+This start date aligns with VCS standard 4.7 points 3.8.2 and 
+3.8.4 as the project will seek validation in 2025. 
+ 
+ 
+ 
+ 
+
+ VCS Project Description Template, v4.4
+ 
+10 
+1.10 Project Crediting Period 
+Crediting period 
+☐ Seven years, twice renewable 
+☐ Ten year s, fixed 
+☒ Other (state the selected crediting period and justify how it 
+conforms with the VCS Program requirements) 
+The project crediting period will be 40 years. The project crediting 
+period started on 1 January 2024 and ends on the 31 December 
+2063. The beginning of the project crediting period coincides with 
+the project start date.  
+Start and end date of 
+first or fixed crediting 
+period  
+01-01-2024 to 31-12-2063 
+ 
+1.11 Project Scale and Estimated GHG Emission Reductions or Removals 
+Indicate the estimated annual GHG emission reductions/removals (ERRs) of the project: 
+☐ < 300,000 tCO2e/year (project) 
+☒ ≥ 300,000 tCO2e/year (large project) 
+Complete the table below for the first (if renewable) or fixed crediting period:  
+Calendar year of crediting 
+period 
+Estimated GHG emission reductions or removals 
+(tCO
+2
+e) 
+2023 
+ 833,199  
+2024 
+ 1,642,097  
+2025 
+ 2,358,842  
+2026 
+ 3,073,621  
+2027 
+ 3,426,471  
+2028 
+ 1,047,641  
+2029 
+ 244,855  
+2030 
+ 462,655  
+2031 
+ 870,092  
+2032 
+ 1,114,965  
+
+ VCS Project Description Template, v4.4
+ 
+11 
+Calendar year of crediting 
+period 
+Estimated GHG emission reductions or removals 
+(tCO
+2
+e) 
+2033 
+ 1,207,808  
+2034 
+ 1,299,346  
+2035 
+ 899,008  
+2036 
+ 1,078,213  
+2037 
+ 1,166,217  
+2038 
+ 1,253,159  
+2039 
+ 1,339,092  
+2040 
+ 1,424,066  
+2041 
+ 580,250  
+2042 
+ 1,507,155  
+2043 
+ 1,122,491  
+2044 
+ 1,354,744  
+2045 
+ 1,435,598  
+2046 
+ 1,515,747  
+2047 
+ 1,104,588  
+2048 
+ 1,273,515  
+2049 
+ 1,351,754  
+2050 
+ 1,429,419  
+2051 
+ 1,506,539  
+2052 
+ 1,583,140  
+2053 
+ 731,371  
+2054 
+ 897,096  
+2055 
+ 1,258,878  
+2056 
+ 1,484,312  
+2057 
+ 1,558,687  
+2058 
+ 1,632,681  
+2059 
+ 1,215,676  
+
+ VCS Project Description Template, v4.4
+ 
+12 
+Calendar year of crediting 
+period 
+Estimated GHG emission reductions or removals 
+(tCO
+2
+e) 
+2060 
+ 1,379,048  
+2061 
+ 1,452,010  
+2062 
+ 1,524,663  
+Total estimated ERRs during the 
+first or fixed crediting period 
+53,640,709 
+Total number of years 
+40 years 
+Average annual ERRs 
+1,341,018 
+1.12 Description of the Project Activity 
+1. Deforestation and peat decomposition are prevented  
+Deforestation  and  peat  decomposition  are  two  key  drivers  of  emissions  in  the  without-project 
+scenario.  Rewetting  the  peatland  areas  and  patrolling  the  project  area  regularly,  in  combination  with 
+community  engagement  and robust monitoring system will  ensure  that  within  the  project  area,  the 
+deforestation rate and peat decomposition rate are reduced.  
+Activities:  
+a. Regular patrols will be conducted in the project area to detect and report illegal activities such as 
+land grabbing, logging, or poaching.  
+b. Increase  community  awareness  of  forest  conservation: Village-level  education  programs  will  be 
+organised to raise awareness about the impacts of illegal forest activities. This will be done in close 
+collaboration with community teams to strengthen local involvement in conservation efforts.  
+c. Blocking drainage canals : In the baseline scenario, the peatland areas designated for Acacia or 
+NTFP production would be fully drained. In the project scenario, instead, peatland ecosystems are 
+restored  by  blocking  canals  that  drain  the  water,  thereby  helping  to  stabilize  water  levels  and 
+prevent peat degradation.  
+d. Enrichment planting and silvicultural interventions : In the baseline scenario, the forest on areas 
+designated for Acacia or NTFP production would be fully removed. In the project scenario, instead, 
+forests  are  conserved  and  restored  via  enrichment  planting  and  silvicultural  measures  such  as 
+liana cutting.  
+2. Emissions due to fire are prevented and reduced  
+Fire  plays  a  large  role  in  the  emissions  in  the  project  area.  Although  rewetting  the  project  area 
+should reduce the fire risk, it remains important to prevent fires from taking place in the project area. This 
+is done via a fire management system, fire patrols and capacity building for forest fire management.  
+ 
+
+ VCS Project Description Template, v4.4
+ 
+13 
+Activities: 
+a. Develop and implement an Integrated Fire Management (IFM) system and fire prevention plan . A 
+comprehensive  fire  prevention  and  response  system  will  be  created  to  mitigate  forest  fires.  This 
+includes predictive fire mapping, early warning systems, and community-based fire management 
+initiatives. This will be done together with the local communities and neighbouring companies.  
+b. Establish  forest  fire  patrols : Patrol  teams  will  be  formed  to  monitor  forest  areas  for  fire  risks, 
+conduct controlled burns where necessary, and respond rapidly to outbreaks of fire.  
+c. Train staff and local communities in fire management . Provide training and resources to staff and 
+local communities to improve skills in fire prevention, fire control, and post-fire recovery. 
+3. Degraded lands are regenerated  
+Large parts of the project area are degraded, having negative consequences for both the carbon 
+stock in the area and the biodiversity. By identifying areas with high potential for reforestation, promoting 
+the  natural regeneration  of  forests  and  reforesting  the  most  degraded  areas,  degraded  land will  be 
+restored, carbon uptake will be enhanced, and biodiversity will be reinforced.   
+Activities: 
+a.  Promote natural regeneration : The existing forests will be protected and managed to encourage 
+natural regeneration of vegetation, which supports biodiversity and enhances ecosystem services. 
+This will be done through a combination of enrichment planting, liana cutting and other silvicultural 
+measures.  
+b. Forest rehabilitation via enrichment planting  : The most degraded parts of the project area will be 
+reforested  via  enrichment  planting.  Local  communities  will  be  engaged  in  the  rehabilitation  of 
+forests through nursery planting and reforestation efforts.  
+4. RTE species are protected and habitat improved for biodiversity 
+The  project  area  is  a  rare  and  vulnerable  ecosystem  which  contains  RTE  species.  As  such,  it  is 
+crucial that the project also aims at the protection and enhancement of these RTE species. Although this 
+is  partially  done  by  the  restoration  of  the  project  area as  defined  above,  tracking  the  status  of  rare, 
+threatened and endangered species, raising stakeholder awareness and protecting said species within the 
+project area is also required.  
+Activities:  
+a. Develop  a  database  and  monitoring  plan  for  RTE  species  : A  comprehensive  database  will  be 
+created to track the presence, population dynamics, and distribution patterns of Rare, Threatened, 
+and Endangered (RTE) species.  
+b. Establish a SMART patrol system for biodiversity monitoring and protection : Area, ecosystem, and 
+species monitoring and protection will be conducted through the adoption of a Spatial Monitoring 
+and Reporting Tool (SMART) Patrol System. This system enables the collection and digital storage 
+of  data  in  a  centralized  database,  ensuring  standardization,  accountability,  and  transparency.  It 
+serves as a tool to monitor natural and human-induced threats, triggering alerts for species and 
+overall biodiversity. The database generated will support protection plans and conservation actions.  
+
+ VCS Project Description Template, v4.4
+ 
+14 
+c. Develop a database of ecosystem diversity and taxonomy : As enrichment efforts are expected to 
+increase  biodiversity  across  various  fauna  taxonomies,  a  database  will  be  created  to  track  the 
+change  in  biodiversity  in  the  project  area.  Annual  monitoring  will be  conducted  through  data 
+collection in permanent sampling plots representing each ecosystem type within the area.  
+d. Improvement  and  enrichment  of  critical  habitats    :  A  habitat-carrying  capacity  review  will  be 
+conducted to analyse the availability of food sources within the project area. Enrichment activities 
+will be implemented to enhance habitat quality, ensuring its primary function as a habitat for trigger 
+species and RTE (Rare, Threatened, and Endangered) species.  
+e. Combat  invasive  species:  Measures  will  be  implemented  to  monitor,  prevent,  and  control  the 
+spread of invasive species that threaten native biodiversity. This will be done via removal programs, 
+public awareness campaigns, and policy development.  
+5. Improving local community livelihood and capacity building for impacted groups 
+Activities: 
+a. Support the communities in developing capacity and business models for sustainable alternative 
+livelihoods. Enviro Rise aims to help the impacted communities to increase their access to funding 
+and a downstream market to sell their goods.  
+b. Develop  alternative  livelihood  business  models,  have  increased  access  to  funding  for  those 
+business  models  and  have  better  access  to  the  market  to  sell  their  products then community 
+welfare is improved.  
+c. Implement  a  capacity  building  program  including  organizational  skills  aiming  at  enhancing  the 
+knowledge, skills, attitudes and abilities towards sustainable fishing practices.  
+  
+
+ VCS Project Description Template, v4.4
+ 
+15 
+ 
+1.13 Project Location 
+Administratively, the project area located in the intersection of four villages: Sungai Bakau Village, 
+Bangun  Harja  Village,  Pematang  Limau  Village  and  Mekar Indah  Village  with  the  following  geographical 
+coordinates: 3° 4’ 25.315” S, 112° 25’ 55.860” E and 3° 20” 55,464” S, 112° 50’ 2,724” E (Figure 1 – 
+Location of the Project Area in the Central Kalimantan, Indonesia. The northern project area is bordered by 
+oil palm plantation of PT Kelua Adi Raya, shrubland, production forests and protected forests. Whereas, in 
+the southern project area is bordered by oil palm plantation (PT Seruyan Sawit Makmur. Shrubland and PT 
+Gawi  Bahandep  Sawit  Mekar  in  border  the  western  project  area.  Finally,  the  eastern  project  area  is 
+bordered by settlement and agricultural areas.  
+The project zone refers to the area where AFOLU project activities aim to generate or maintain the 
+net climate benefits, which includes the project area (REDD/WRC/ARR), areas eligible for crediting, leakage 
+belt, leakage management area and any areas in which project activities are implemented.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1. Project location of Enviro Rise 
+
+ VCS Project Description Template, v4.4
+ 
+16 
+1.14 Conditions Prior to Project Initiation 
+Enviro  Rise  will  be  implemented  in areas mainly  consists  of  peatlands.  The  vegetation  is 
+characterised by wet conditions in the project area and mainly consists of secondary swamp forest, swamp 
+scrub  and  swamp  bushes.  The  project  is  surrounded  by  five  small  communities.  Historically,  the  project 
+area  has  been  utilized  primarily  for  small-scale  agriculture  and  timber  extraction.  In  2016,  a industrial 
+forestry license was issued by the Ministry of Environment and Forestry (KLHK) to PT Rimbun Seruyan, later 
+upgraded to forest business utilization license in 2021, granting permission to develop a plantation on the 
+site.  Although  the  development  of  this  plantation  has  been  delayed,  an  updated  Rencana  Kerja  Usaha 
+(RKU) was issued in 2023, permitting the establishment of Acacia and Rubber plantations on 61.22%, or 
+24,572 hectares, which is 61.22% of the concession area of 40,135 ha. The remaining portion of the area 
+is  designated  for  the  protection  of  deep  peat  ecosystems,  riverbanks,  shorelines,  and  wildlife  protection 
+zones. Prior to the issuance of the updated license, unauthorized drainage channels were constructed by 
+third parties, including the local public works department (PUPR) . This unauthorized drainage has led to 
+significant environmental degradation, including increased peat decomposition and a dryer environment 
+susceptible to forest and peat fires. The unauthorized drainage channels also facilitated access to the area 
+for illegal logging, agriculture and land grabbing. As such, the current area is partially drained and degraded. 
+This is also reflected in the RKU, where a land cover analysis done in 2023 shows that 1,414 ha of the 
+licence area is used for small-scale agriculture and another 787 ha for small-scale plantations. As this was 
+all unauthorized by either the local authorities or the licence holder, it clearly shows the current scale of 
+the land grab taking place.  
+1.15
+ Compliance with Laws, Statutes and Other Regulatory Frameworks
+ 
+Enviro Rise is in compliance with all national, regional and local laws and regulations in 
+Indonesia relevant to project activities. Key relevant national laws and regulations are listed in the 
+sections below
+. 
+1.15.1  National Laws and Regional Planning 
+§ Presidential  Regulation  No.  18/2020 concerning  the  National  Medium-Term  Development  Plan 
+2020 – 2024. 
+1.15.2 Environment and Forestry Regulation 
+§ Government Regulation No. 23/2021 concerning Forest Management Implementation. 
+§ Government  Regulation  No.  21/2021  concerning  Environmental  Protection  and  Management 
+Implementation. 
+§ Ministry of Environment and Forestry No. 8/2021 concerning Forest Planning and the Development 
+of Forest Management Plan as well as Forest Utilization in Forest Protection and Forest Production. 
+
+ VCS Project Description Template, v4.4
+ 
+17 
+§ Law No. 32/2009 concerning Environmental Protection and Management. 
+§ Ministry of Forestry No. P.61/Menhut-II/2008 concerning the Ecosystem Restoration Requirement 
+and Permit Issuance in Forest Production Area.  
+ 
+1.15.3 Forest Fire Prevention and Peat Management 
+§ Presidential Instruction No. 3/2020 concerning the Forest and Land Fire Countermeasure. 
+§ Ministry   of   Environment   and   Forestry   Regulation   No.   P.10/Menlhk/Setjen/Kum.1/3/2019 
+concerning   the   Appointment,   Enactment,   and   Management   of   Peat   Dome   Based   on   the 
+Hydrological Peat Area.  
+§ Ministry  of  Environment  and  Forestry  Regulation  No.  P.60/Menlhk/Setjen/Kum.1/10/2019 
+concerning the Development, Enactment, and the Revision of the Peat Protection and Management 
+Plan. 
+§ Presidential Instruction No. 5/2019 concerning the Moratorium New Permitted Activities and the 
+Improvement of Primary Natural Forest and Peatland Management. 
+§ Ministry  of  Environment  and  Forestry  No.  P.8/Menlhk/Setjen/Kum.1/3/2018  concerning  the 
+Hotspot and/or Forest and Land Fire Verification Procedure.  
+§ Ministry   of   Environment   and   Forestry   No.   P.14/Menlhk/Setjen/Kum.1/2/2017   concerning 
+Inventory Procedure and Enactment of Peat Ecosystem Function. 
+§ Ministry of Environment and Forestry No. P.15/Menlhk/Setjen/Kum.1/2/2017 concerning Water 
+Level Measurement Procedure in Peat Ecosystem Point. 
+§ Ministry   of   Environment   and   Forestry   No.   P.16/Menlhk/Setjen/Kum.1/2/201   concerning 
+Technical Guidance on Peat Ecosystem Recovery. 
+§ Ministry of Environment and Forestry No. P.32/Menlhk/Setjen/Kum.1/3/2016 concerning Forest 
+and Land Fire Control.  
+§ Government Regulation No. 57/2016 concerning the Amendments of Government Regulation No. 
+71/2014 concerning the Protection and Management of Peat Ecosystem. 
+ 
+1.15.4 Biodiversity 
+§ Ministry  of  Environment  and  Forestry  No.  P.106/MENLHK/SETJEN/KUM.1/12/2018  concerning 
+the Amendment of P.20/MENLHK/SETJEN/KUM.1/6/2018 regarding Protected Fauna and Flora. 
+§ Ministry  of  Environment  and  Forestry  No.  P.94/Menlhk/Setjen/Kum.1/12/2016  concerning  the 
+Invasive Species.  
+§ Government Regulation No 28/2011 concerning management of nature reserve areas (KSA) and 
+conservation areas (KPA). 
+§ Law No. 5/1990 concerning Biodiversity and Ecosystem Conservation. 
+ 
+ 
+
+ VCS Project Description Template, v4.4
+ 
+18 
+1.15.5 Labor and Human Right 
+§ Government Regulation No. 5/2021 concerning the Risk Based Permit. 
+§ Law No. 11/2005 concerning the Ratification of International Covenant on Economic Social and 
+Cultural Rights. 
+§ Law No. 13/2003 concerning Manpower. 
+ 
+1.15.6 Carbon Pricing and Climate Change Regulation 
+§ Ministry  of  Environment  and  Forestry  Decree  No.  No.  1027/MENLHK/PHL/KUM.1/9/2023 
+concerning Forest Sector Carbon Trading Roadmap. 
+§ Ministry of Environment and Forestry Decree No. 
+716/MENLHK/SETJEN/KUM.1/6/2023   concerning   the   integration   of 
+carbon pricing mechanism. 
+§ Ministry  of  Environment  and  Forestry  No.  7/2023  concerning  Carbon 
+Trading in Forestry Sector.  
+§ Ministry  of  Environment  and  Forestry  No.  22/  2021  concerning  the 
+Implementation of Carbon Pricing.  
+§ Ministry of Environment and Forestry Decree No. No. 
+168/Menlhk/PKTL/PLA.1/2/2022  Indonesia’s  Forestry  and  Other  Land 
+Use (FOLU) Net Sink 2030 for Climate Mitigation. 
+§ Presidential Regulation No. 98/2021 concerning carbon pricing. 
+§ Law No. 7/2021 Tax Harmonization. 
+§ Government Regulation No. 46/2017 concerning the Green Environmental Instrument. 
+§ Ministry  of  Environment  and  Forestry  No.  P.70/Menlhk/Setjen/Kum.1/12/2017  concerning  the 
+Implementation  Procedure  for  Reducing  Emissions  from  Deforestation  and  Forest  Degradation, 
+Role of Conservation, Sustainable Management of Forest, and Enhancement. 
+§ Ministry  of  Environment  and  Forestry  No.  P.72/Menlhk/Setjen/Kum.1/12/2017  concerning  the 
+Implementation  Guidance  for  Measurement,  Reporting  and  Verification  of  Climate  Action  and 
+Resources. 
+§ Ministry  of  Environment  and  Forestry  No.  P.73/Menlhk/Setjen/Kum.1/12/2017  concerning  the 
+Implementation and Reporting Guidance for Greenhouse Gas Inventory. 
+§ Ministry  of  Environment  and  Forestry  No.  P.71/Menlhk/Setjen/Kum.1/12/2017  concerning  the 
+Implementation of National Registry System for Climate Action. 
+§ Law No. 16 / 2016 concerning on the Ratification of Paris Agreement. 
+§ Ministry  of  Forestry  No.  P.12/Menhut-II/2014 concerning  Types  and  Tariffs  of  Non-Tax  State 
+Revenue Applicable to the Ministry of Forestry. 
+ 
+ 
+ 
+ 
+
+ VCS Project Description Template, v4.4
+ 
+19 
+1.16 Double Counting and Participation under Other GHG Programs 
+ No Double Issuance 
+Is the project receiving or seeking credit for reductions and removals from a project activity 
+under another GHG program? 
+  ☐   Yes    ☒   No 
+ Registration in Other GHG Programs 
+Has the project registered under any other GHG programs? 
+  ☐   Yes    ☒   No 
+ Projects Rejected by Other GHG Programs 
+Has the project been rejected by any other GHG programs? 
+  ☐   Yes    ☒   No 
+1.17 Double Claiming, Other Forms of Credit, and Scope 3 Emissions 
+ No Double Claiming with Emissions Trading Programs or Binding Emission Limits 
+Are project reductions and removals or project activities also included in an emissions trading 
+program or binding emission limit? See the VCS Program Definitions for definitions of 
+emissions trading program and binding emission limit. 
+☐  Yes
+ 
+  ☒  No 
+ No Double Claiming with Other Forms of Environmental Credit 
+Has the project activity sought, received, or is planning to receive credit from another GHG-
+related environmental credit system? See the VCS Program Definitions for definition of GHG-
+related environmental credit system. 
+☐  Yes
+ 
+  ☒  No 
+ Supply Chain (Scope 3) Emissions 
+Do the project activities specified in Section 1.12 affect the emissions footprint of any 
+product(s) (goods or services) that are part of a supply chain? 
+ 
+☐  Yes   ☒  No 
+ 
+ 
+
+ VCS Project Description Template, v4.4
+ 
+20 
+If yes: 
+Is the project proponent(s) or authorized representative a buyer or seller of the product(s) 
+(goods or services) that are part of a supply chain?  
+☐  Yes
+ 
+  ☐  No 
+If yes:  
+Has the project proponent(s) or authorized representative posted a public statement on their 
+website saying, “Carbon credits may be issued through Verified Carbon Standard project 
+[project ID] for the greenhouse gas emission reductions or removals associated with [project 
+proponent or authorized representative organization name(s)] [name of product(s) whose 
+emissions footprint is changed by the project activities].” 
+☐  Yes
+ 
+  ☐  No 
+1.18 Sustainable Development Contributions 
+Enviro Rise has a variety of activities that contribute to sustainable development (SD). These activities 
+include forest conservation, reforestation, and capacity-building for local communities. The program aims 
+to ensure successful environmental and natural resources management integrated with climate change, 
+biodiversity preservation, and community livelihood improvement as part of a sustainable management 
+framework.  
+Furthermore,  the  project  aligns  with  Indonesia’s  national  priorities,  particularly  supporting  under  the 
+Paris Agreement, emphasizing reducing emissions from deforestation and forest degradation (REDD+), 
+and  Indonesia’s  Biodiversity  Strategy  and  Action  Plan (IBSAP)  2025 - 2045.  Furthermore,  it  advances 
+several of Indonesia's Sustainable Development Goals (SDGs), particularly those related to SDG  1 (No 
+poverty), 3 (Ensure healthy lives and promote well-being for all at all ages), 4 (Education quality), 6 (clean 
+water and sanitation), 8 (decent work and economic growth), 13 (Climate Action), and SDG 15 (Life on 
+Land). 
+To  ensure  alignment  with  Indonesia's  sustainable  development  priorities,  the  project  will  include 
+provisions  for  regular  monitoring  and  reporting.  Environmental  and  socioeconomic  assessments  are 
+carried  out  to  monitor  reforestation progress,  carbon  sequestration,  and  improvements  in  local 
+livelihoods.  Local  communities  in  five  villages  will  actively  participate  in  participatory  monitoring,  with 
+periodic  reports  submitted  to  national  authorities  such  as  the  Ministry  of  Forestry.  These reports  will 
+ensure  that  the  project  remains  transparent,  accountable,  and  aligned  with  Indonesia's  sustainable 
+development goals. 
+ 
+ 
+
+ VCS Project Description Template, v4.4
+ 
+21 
+SDG Indicators
+2
+ Relevant Provision Project Contribution 
+SGD 1 No. Poverty 
+1.4. ensure that all men and women, in particular 
+the poor and the vulnerable, have equal rights to 
+economic resources, as well as access to basic 
+services, ownership and control over land and other 
+forms of property, inheritance, natural resources, 
+appropriate new technology and financial services, 
+including microfinance 
+National SDG document 
+Mitigation document  
+2015-2045 
+• Provide direct employment 
+opportunities and additional 
+income streams for local 
+communities, especially in 5 
+villages. 
+• Improving access to resources, 
+providing economic opportunities, 
+and fostering inclusivity, which 
+helps reduce poverty and 
+promotes equitable development. 
+1.5. build the resilience of the poor and those in 
+vulnerable situations and reduce their exposure 
+and vulnerability to climate-related extreme events 
+and other economic, social and environmental 
+shocks and disasters 
+• Strengthen local economies by 
+providing alternative livelihoods 
+and enhancing natural resource 
+conservation, reducing the risks of 
+poverty due to environmental 
+degradation. 
+SDG 3. Ensure healthy lives and promote well-being for all at all ages 
+3.8. Achieve universal health coverage, including 
+financial risk protection, access to quality essential 
+health-care services and access to safe, effective, 
+quality and affordable essential medicines and 
+vaccines for all 
+• National Health 
+Insurance (JKN) 
+• National Medium Term 
+Development Plan 
+(RPJMN) 
+• Primary Health Care 
+Service (Puskesmas) 
+• Improving public health through 
+environmental protection 
+• Reducing health risk due to climate 
+change 
+• Supporting healthier livelihoods 
+especially in clean water source 
+• Promoting health education and 
+awareness 
+• Reducing burden on health 
+infrastructure 
+-  
+3.9. substantially reduce the number of deaths and 
+illnesses from hazardous chemicals and air, water 
+and soil pollution and contamination 
+Laws on air and 
+hazardous chemical and 
+waste management (Law 
+No. 32 of 2009 on 
+Environmental Protection 
+and Management 
+(UUPPLH)), water (Law 
+No. 17 of 2019 on Water 
+Resources Management), 
+and soil pollution (aw No. 
+41 of 2009 on 
+Sustainable Agricultural 
+Land Protection) and 
+public health programs 
+ 
+ 
+• Reducing air pollution due to 
+forest fires 
+• Protecting water resources 
+• Minimizing soil contamination 
+• Reducing hazardous emission 
+including smoke and forest fire 
+ 
+2
+ The SDG indcators can be found at https://ourworldindata.org/sdgs  
+
+ VCS Project Description Template, v4.4
+ 
+22 
+SDG 4. Education quality 
+4.4. Substantially increase the number of youth 
+and adults who have relevant skills, including 
+technical and vocational skills, for employment, 
+decent jobs and entrepreneurship 
+National SDG regulation 
+especially on education 
+• Provide hands-on training in 
+areas such as forestry 
+management, clean energy 
+installation, clean water 
+installation, and carbon 
+monitoring, 
+• Empowering communities with 
+technical expertise. By creating 
+local employment opportunities 
+and fostering skill development, 
+carbon projects help bridge the 
+gap between education and 
+meaningful work in sustainable 
+industries. 
+SDG 6. Clean water and Sanitation 
+6.1. Achieve universal and equitable access to safe 
+and affordable drinking water for all 
+ 
+Safeguard watersheds, reduce soil 
+erosion, and improve water quality 
+for communities, ensuring a more 
+reliable and safe water supply. 
+Additionally, some carbon projects 
+invest in clean water infrastructure, 
+such as rainwater harvesting 
+systems or clean water access 
+technologies, directly benefiting 
+vulnerable populations. 
+6.6. Protect and restore water-related ecosystems, 
+including mountains, forests, wetlands, rivers, 
+aquifers and lakes 
+ 
+Through activities like reforestation 
+and sustainable land management, 
+these projects help preserve 
+biodiversity, enhance natural water 
+filtration, and regulate water cycles, 
+ensuring the health of vital water 
+bodies. Additionally, carbon projects 
+support the long-term resilience of 
+water ecosystems, helping to 
+mitigate the impacts of climate 
+change, pollution, and overuse 
+SDG 8. Decent work and economic growth 
+8.2. Achieve higher levels of economic productivity 
+through diversification, technological upgrading and 
+innovation, including through a focus on high-value 
+added and labour-intensive sectors 
+• National SDG 
+document and 
+regulation 
+• RPJMN 2025 - 2029 
+ 
+These projects help to enhance 
+productivity by introducing 
+innovative technologies and 
+practices that improve resource 
+efficiency and reduce environmental 
+impacts. By fostering skills 
+development and investing in local 
+economies, carbon projects help 
+drive economic diversification and 
+resilience, boosting productivity 
+
+ VCS Project Description Template, v4.4
+ 
+23 
+while addressing climate 
+challenges. 
+SDG 13. Climate Action 
+13.1. Strengthen resilience and adaptive capacity 
+to climate-related hazards and natural disasters 
+• National SDG 
+document and 
+regulation 
+• National disaster 
+mitigation document 
+• ENDC (Enhanced 
+Nationally Determined 
+Contribution) 
+document 
+ 
+Strengthen local resilience to 
+climate impacts by enhancing 
+ecosystems' capacity to absorb 
+carbon, regulate water cycles, and 
+protect against extreme weather 
+events such as floods and droughts. 
+Additionally, carbon projects often 
+incorporate climate adaptation 
+strategies, supporting vulnerable 
+communities in building long-term 
+resilience to the effects of climate 
+change. 
+SDG 15. Life on Land 
+15.1. ensure the conservation, restoration and 
+sustainable use of terrestrial and inland freshwater 
+ecosystems and their services, in particular forests, 
+wetlands, mountains and drylands, in line with 
+obligations under international agreements 
+• National SDG 
+document and 
+regulation 
+• Aichi Biodiversity 
+target 
+• Biodiversity Strategy 
+and Action Plan 
+(IBSAP) 2015-2020 
+• National Strategy on 
+Wetland: peatland and 
+mangrove 
+• IUCN Redlist 
+• CITES 2023 
+• National regulations 
+referring to 
+government regulation 
+no 106/201; and 
+conservation 
+regulation no 
+32/2024 
+ 
+Through activities like afforestation, 
+reforestation, and sustainable land 
+management, these projects help 
+protect ecosystems and enhance 
+their ability to provide essential 
+services like clean air and water. 
+Additionally, carbon projects support 
+the sustainable use of ecosystems, 
+ensuring the preservation of 
+biodiversity while improving the 
+livelihoods of local communities 
+dependent on these natural 
+resources. 
+15.5. Take urgent and significant action to reduce 
+the degradation of natural habitats, halt the loss of 
+biodiversity and protect and prevent the extinction 
+of threatened species 
+By reducing deforestation and 
+promoting sustainable land use, 
+these projects mitigate the 
+destruction of ecosystems, 
+preserving the natural habitats that 
+support biodiversity. Additionally, 
+carbon projects enhance ecosystem 
+resilience to climate change, helping 
+prevent species extinction and 
+maintaining the ecological balance 
+necessary for sustaining diverse 
+plant and animal life. 
+ 
+ 
+ 
+ 
+
+ VCS Project Description Template, v4.4
+ 
+24 
+1.19 Additional Information Relevant to the Project  
+ Leakage Management 
+To be completed in the full PD. 
+ Commercially Sensitive Information  
+To be completed in the full PD. 
+ Further Information 
+To be completed in the full PD. 
+ 
+  
+
+ VCS Project Description Template, v4.4
+ 
+25 
+2 SAFEGUARDS AND STAKEHOLDER 
+ENGAGEMENT 
+2.1 Stakeholder Engagement and Consultation 
+ Stakeholder Identification 
+To be completed in the full PD. 
+ Stakeholder Consultation and Ongoing Communication 
+To be completed in the full PD. 
+  Free Prior and Informed Consent 
+To be completed in the full PD. 
+ Grievance Redress Procedure 
+To be completed in the full PD. 
+ Public Comments 
+To be completed in the full PD. 
+2.2 Risks to Stakeholders and the Environment 
+ Management Experience 
+To be completed in the full PD. 
+ Risk Assessment 
+To be completed in the full PD. 
+  
+
+ VCS Project Description Template, v4.4
+ 
+26 
+ 
+2.3 Respect for Human Rights and Equity 
+ Labor and Work 
+To be completed in the full PD. 
+ Human Rights 
+To be completed in the full PD. 
+ Indigenous Peoples and Cultural Heritage 
+To be completed in the full PD. 
+ Property Rights 
+To be completed in the full PD. 
+ Benefit Sharing 
+To be completed in the full PD. 
+2.4 Ecosystem Health 
+To be completed in the full PD. 
+ Rare, Threatened, and Endangered Species 
+To be completed in the full PD. 
+ Introduction of Species 
+To be completed in the full PD. 
+ Ecosystem Conversion 
+To be completed in the full PD. 
+  
+
+ VCS Project Description Template, v4.4
+ 
+27 
+3 APPLICATION OF METHODOLOGY 
+3.1 Title and Reference of Methodology 
+Enviro Rise applies the latest version of VCS Methodology VM0007 (version 1.8). Applicable 
+modules are listed the table below. 
+Type 
+(methodology, 
+tool or module). 
+Reference ID, if 
+applicable 
+Title Version 
+Methodology VM0007 
+VM0007 REDD+ Methodology Framework 
+(REDD+MF), 
+ 
+6.0 
+Methodology  VM0047  
+Afforestation, Reforestation and 
+Revegetation 
+10 
+Tool VT0001 
+VT0001 Tool for Demonstration and 
+Assessment of Additionality in VCS 
+Agriculture, Forestry and Other Land Use 
+(AFOLU) Project Activities (T- ADD) 
+30 
+Tool NPRT AFOLU Non-Permanence Risk Tool (T- BAR 
+42 
+Tool T-SIG 
+Tool for testing significance of GHG 
+emissions in A/R CDM Activities (T- SIG) 
+01 
+Module VMD0001 
+Estimation of carbon stocks in the above- 
+and below-ground biomass in live tree 
+and non-tree pools (CP-AB) 
+11 
+Module VMD0006 
+Estimation of baseline carbon stock 
+changes and greenhouse gas emissions 
+from planned deforestation/forest 
+degradation and planned wetland 
+degradation (BL-PL) 
+13 
+Module VMD0009 
+Estimation of emissions from activity 
+shifting for avoided unplanned 
+deforestation and avoiding unplanned 
+wetland degradation (LK- ASU) 
+12 
+Module VMD0011 
+Estimation of emissions from market 
+effects (LK-ME) 
+11 
+Module VMD0012 
+Estimation of emissions from 
+displacement of fuelwood extraction (LK-
+DFW) 
+10 
+Module VMD0013 
+Estimation of greenhouse gas emissions 
+from biomass and peat burning (E-BPB) 
+12 
+Module VMD0014 
+Estimation of emissions from fossil fuel 
+combustion (E-FC) 
+10 
+Module VMD0015 
+Methods for monitoring of greenhouse 
+gas emissions and removals (M-REDD) 
+22 
+Module VMD0016 
+Methods for stratification of the project 
+area (X-STR) 
+12 
+
+ VCS Project Description Template, v4.4
+ 
+28 
+Module 
+VMD0017  
+ 
+Estimation of uncertainty for REDD 
+project activities (X-UNC) 
+22 
+Module VMD0042 
+Estimation of baseline soil carbon stock 
+changes and greenhouse gas emissions 
+in peatland rewetting and conversation 
+project activities (BL- PEAT) 
+11 
+Module VMD0044 
+Estimation of emissions from ecological 
+leakage (LK-ECO) 
+11 
+Module VMD0046 
+Methods for monitoring soil carbon stock 
+changes and greenhouse gas emissions 
+and removals in peatland rewetting and 
+conversation project activities (M-PEAT) 
+11 
+Module VMD0054 
+Module for Estimating Leakage from ARR 
+Activities 
+10 
+3.2 Applicability of Methodology 
+VCS Methodology VM0007 and VM0047 provide the generic functionality of the methodologies, which 
+frames predefined modules and tools that perform a specific function. It constitutes, together with the 
+modules it calls upon, a complete REDD+ and ARR baseline and monitoring methodology. The modules 
+and tools applicable to this project relate to:  
+• Project activities that reduce emissions from planned deforestation (APD);  
+• Project activities that reduce emissions from planned wetland degradation (APWD);  
+• Project activities that reduce emissions by rewetting drained peatland (RPD);  
+• Project activities that remove emissions by afforestation, restoration and revegetation (ARR)  
+To determine the type of VCS-eligible project activities, the applicability conditions of VM0007 
+and VM0047 were considered.  
+Applicability of the VM0007 & VM0047 methodologies and their associated modules  
+Methodology ID Applicability condition Justification of compliance 
+VM0007 
+- The area eligible for REDD+ 
+has been forest for at least 
+10 years prior to the project 
+start date.  Furthermore, the 
+project does not contain any 
+mangrove forest.  
+- The project is partly located 
+on peatlands. As the 
+emissions from the SOC 
+pool are deemed significant, 
+the relevant WRC modules 
+are applied.  
+Condition met.  
+ 
+
+ VCS Project Description Template, v4.4
+ 
+29 
+- The baseline deforestation 
+in the project is classified as 
+planned deforestation per 
+the selected baseline 
+scenario  
+- The project does not plan to 
+either flood agricultural 
+lands to increase production 
+or intensify livestock 
+production through the use 
+of feed-lots and/or manure 
+lagoons. 
+- Conversion of forest lands 
+to deforested lands is legally 
+permitted. 
+VM0047  
+ 
+- Project activities do not 
+intend to lower the water 
+table, instead, the project 
+activities should result in 
+raising the water table   
+- The changes in hydrology 
+should result in the 
+accumulation or at 
+minimum maintenance of 
+the SOC stock as a result of 
+additional sedimentation 
+and/or vegetation 
+development (  
+- Any improved hydrological 
+connectivity should not 
+result in significant 
+increases in GHG emissions 
+outside of the project area  
+- Project activities do not 
+include the burning of 
+organic soil 
+- No nitrogen fertilizers are 
+applied in the project area 
+during the project crediting 
+period.  
+- Prior to the project start 
+date, PT RS already held the 
+legal rights exploit the RS 
+concession, as permitted by 
+Indonesian law. Parts of the 
+concession are protected 
+from conversion under the 
+same RKU Indonesian law. 
+For these areas, 6.a.III 
+holds: No land use has been 
+identified that will be shifted 
+because of the project. Any 
+further degradation of these 
+areas would be prohibited 
+by law. These areas are 
+eligible for RWE crediting  
+Condition met. 
+ 
+
+ VCS Project Description Template, v4.4
+ 
+30 
+- The area eligible for RDP 
+activities meets the VCS 
+definition for peatland  
+- The area eligible for CIW 
+activities meets the VCS 
+definition for peatland  
+- PT RS holds the legal rights 
+to convert the intact or 
+partially altered wetlands to 
+a degraded condition, as 
+permitted by Indonesian law   
+VT0001  
+ 
+The tool is applicable under 
+the following conditions. 
+Forestation of the land within 
+the proposed project 
+boundary performed with or 
+without being registered as 
+the A/R CDM project activity 
+shall not lead to a violation 
+of any applicable law even if 
+the law is enforced.  
+The tool is not applicable to 
+small-scale afforestation and 
+reforestation activities  
+Condition met.  
+ 
+NPRT  
+ 
+This tool provides the 
+procedures for conducting 
+the non- permanence risk 
+analysis and buffer 
+determination required for 
+AFOLU projects. AFOLU 
+projects shall comply with all 
+the requirements set out in 
+the document.  
+Condition met.  
+ 
+VMD0001  
+ 
+This module is applicable to 
+all forest types and age 
+classes.  
+Condition met.  
+ 
+VMD0002 This module is applicable to 
+all forest types and age 
+classes  
+Condition met.  
+ 
+VMD0003 This module is applicable to 
+all forest types and age 
+classes.  
+Not applicable  
+The litter pool has been 
+conservatively omitted.  
+VMD0004  
+ 
+This module is applicable to 
+non-organic soils under all 
+forest types and age classes  
+Not applicable  
+The SOC pool on non-organic 
+pools has been 
+conservatively omitted.  
+VMD0005  
+ 
+This module is applicable to 
+all cases where wood is 
+harvested for conversion to 
+wood products for 
+Not applicable  
+
+ VCS Project Description Template, v4.4
+ 
+31 
+commercial markets, for all 
+forest types and age classes.  
+The long-term wood products 
+pool has been conservatively 
+omitted.  
+VMD0006  
+ 
+The module is applicable for 
+estimating the baseline 
+emissions on forest lands 
+(usually privately or 
+government- owned) that are 
+legally authorized and 
+documented to be converted 
+to non-forest land.  
+Condition met 
+VMD0006  
+ 
+Where, pre-project, 
+unsustainable fuelwood 
+collection is occurring within 
+the project boundaries 
+Modules BL-DFW and LK-
+DFW must be used to 
+determine potential leakage.  
+Condition met 
+VMD0009  
+ 
+The module is applicable for 
+estimating the leakage 
+emissions due to activity 
+shifting from forest lands 
+that are legally authorized 
+and documented to be 
+converted to non- forest land, 
+including activity shifting to 
+forested wetlands that are 
+drained or degraded as a 
+consequence of project 
+implementation. The module 
+is also applicable for 
+estimating the leakage 
+emissions due to activity 
+shifting from non-forested 
+wetlands that are legally 
+authorized and documented 
+to be converted and 
+degraded. Under these 
+situations, displacement of 
+baseline activities can be 
+controlled and measured 
+directly by monitoring the 
+baseline deforestation or 
+wetland degradation agents 
+or class of agents.  
+Condition met 
+VMD0009  
+ 
+This tool must be used for 
+projects in areas where 
+planned deforestation 
+happens on forested 
+wetlands, regardless of the 
+absence of wetlands within 
+the project boundaries.  
+Condition met.  
+ 
+
+ VCS Project Description Template, v4.4
+ 
+32 
+VMD0009  
+ 
+The module is mandatory if 
+Module BL-PL has been used 
+to define the baseline, and 
+the applicability conditions in 
+Module BL-PL must be 
+complied with in full.  
+Condition met 
+VMD0011  
+ 
+This module is applicable for 
+calculating market-effects 
+leakage from projects that 
+are anticipated to reduce 
+levels of wood harvest 
+substantially and 
+permanently. When project 
+activities result in reductions 
+in wood harvest, it is likely 
+that production could shift to 
+other areas of the country to 
+compensate for the 
+reduction, including activity 
+shifting to forested peatland 
+that is drained as a 
+consequence of project 
+implementation. This tool 
+shall be used in countries 
+where wood harvest happens 
+on forested peatlands 
+regardless of the absence of 
+peatland within the project 
+boundary.  
+Condition met.  
+ 
+VMD0012  
+ 
+The module is applicable for 
+estimating the leakage 
+emissions due to activity 
+shifting for projects avoiding 
+degradation from fuelwood 
+collection and charcoal 
+production.  
+Condition met 
+VMD0013  
+ 
+This module is applicable to 
+REDD project activities with 
+emissions from biomass 
+burning and REDD-WRC 
+project activities with 
+emissions from biomass 
+and/or peat burning. This 
+module is also applicable to 
+RWE and ARR- RWE project 
+activities with emissions 
+from peat burning.  
+Condition met.  
+ 
+VMD0014  
+ 
+All fossil fuel combustion 
+associated with a project 
+may be accounted for, 
+including fossil fuel 
+combustion of 
+subcontractors that are 
+conducting (parts of the) 
+Condition met.  
+ 
+
+ VCS Project Description Template, v4.4
+ 
+33 
+work to implement the 
+project. Fossil fuel 
+combustion in all situations 
+is an optional emission 
+source. Project proponents 
+may, however, elect to 
+include fossil fuel 
+combustion if emissions are 
+higher in the baseline than in 
+the project case thus 
+generating emission 
+reductions through project 
+activities. Where emissions 
+from fossil fuel combustion 
+are estimated in the 
+baseline, monitoring and 
+estimation must also occur 
+in the with-project scenario.  
+VMD0015  
+ 
+Strata as defined in the 
+relevant baseline modules 
+are fixed and may not be 
+changed without baseline 
+revision.  
+Condition met.  
+ 
+VMD0015  
+ 
+The module is mandatory for 
+REDD, CIW-REDD, RWE-
+REDD and stand-alone CIW 
+project activities.  
+Condition met.  
+ 
+VMD0016  
+ 
+For peatland rewetting and 
+conservation project 
+activities, this module must 
+be used to delineate non-
+peat versus peat and to 
+stratify the peat according to 
+peat depth and soil emission 
+characteristics, unless it can 
+be demonstrated that the 
+expected emissions from the 
+soil organic carbon pool or 
+change in the soil organic 
+carbon pool in the project 
+scenario is de minimis  
+Condition met.  
+ 
+VMD0016  
+ 
+In the case of WRC project 
+activities, the project 
+boundary must be designed 
+such that the negative 
+effects of drainage activities 
+that occur outside the project 
+area on the project GHG 
+benefits are minimized.  
+Condition met.  
+ 
+VMD0017  
+ 
+This module is mandatory 
+when using the methodology 
+REDD+ MF. It is applicable 
+for estimating the 
+uncertainty of estimates of 
+Condition met.  
+ 
+
+ VCS Project Description Template, v4.4
+ 
+34 
+emissions and removals of 
+CO2-e generated from REDD 
+and WRC project activities.  
+VMD0017  
+ 
+Where an uncertainty value 
+is not known or cannot be 
+simply calculated, a project 
+must justify that it is using an 
+indisputably conservative 
+number and an uncertainty 
+of 0% may be used for this 
+component.  
+Condition met.  
+ 
+VMD0017  
+ 
+Guidance on uncertainty – a 
+precision target of a 95% 
+confidence interval half-
+width equal to or less than 
+15% of the recorded value 
+must be targeted. This is 
+especially important in terms 
+of project planning for the 
+measurement of carbon 
+stocks; sufficient 
+measurement plots should 
+be included to achieve this 
+precision level across the 
+measured stocks.  
+Condition met.  
+ 
+VMD0042 This module is applicable to 
+RDP and CUPP activities on 
+project areas that meet the 
+VCS definition for peatland. 
+The scope of this module is 
+limited to domed peatlands 
+in the tropical climate zone.  
+Condition met.  
+ 
+VMD0042  
+ 
+It must be demonstrated by 
+using the latest version of T-
+SIG that N2O emissions in 
+the project scenario are not 
+significant, or that N2O 
+emissions will not increase in 
+the project scenario 
+compared to the baseline 
+scenario, and therefore N2O 
+missions need not be 
+accounted for.  
+Condition met.  
+ 
+VMD0042  
+ 
+In the baseline scenario, the 
+peatland must be drained or 
+partially drained. At the start 
+of the project, the peatland 
+may still be undrained.  
+Condition met.  
+ 
+VMD0044  
+ 
+Leakage caused by 
+hydrological connectivity is 
+avoided by project design 
+and site selection, as set out 
+in Section 5 below.  
+Condition met.  
+ 
+
+ VCS Project Description Template, v4.4
+ 
+35 
+VMD0046  
+ 
+This module is applicable to 
+RDP and CUPP activities as 
+defined in the VCS Standard.  
+Condition met.  
+ 
+VMD0046  
+ 
+The project area must meet 
+the VCS definition for 
+Peatland. This module is 
+limited to domed peatlands 
+in the tropical climate zone.  
+Condition met. 
+VMD0046  
+ 
+It must be demonstrated by 
+using the latest version of T-
+SIG that N2O emissions in 
+the project scenario are not 
+significant, or that N2O 
+emissions will not increase in 
+the project scenario 
+compared to the baseline 
+scenario, and therefore N2O 
+missions need not be 
+accounted for.  
+Condition met.  
+ 
+VMD0046  
+ 
+In the baseline scenario, the 
+peatland must be drained or 
+partially drained. At the start 
+of the project, the peatland 
+may still be undrained.  
+Condition met.  
+ 
+VMD0046  
+ 
+It must be demonstrated 
+using Module LK-ECO that 
+ecological leakage must not 
+occur.  
+Condition met.  
+ 
+VMD0054  
+ 
+This module is mandatory for 
+ARR projects and must meet 
+all applicability conditions of 
+VM0047  
+Condition met.  
+ 
+3.3 Project Boundary 
+To be completed in the full PD. 
+3.4 Baseline Scenario 
+To be completed in the full PD. 
+3.5 Additionality 
+ Regulatory Surplus  
+To be completed in the full PD. 
+ Additionality Methods 
+To be completed in the full PD. 
+
+VCS Project Description Template, v4.4 
+36 
+3.6 Methodology Deviations 
+To be completed in the full PD. 
+4 QUANTIFICATION OF ESTIMATED GHG 
+EMISSION REDUCTIONS AND 
+REMOVALS 
+4.1 Baseline Emissions 
+To be completed in the full PD. 
+4.2 Project Emissions 
+To be completed in the full PD. 
+4.3 Leakage Emissions 
+To be completed in the full PD. 
+4.4 Estimated GHG Emission Reductions and Carbon Dioxide Removals 
+To be completed in the full PD. 
+5 MONITORING 
+5.1 Data and Parameters Available at Validation 
+To be completed in the full PD. 
+5.2 Data and Parameters Monitored 
+To be completed in the full PD. 
+5.3 Monitoring Plan 
+To be completed in the full PD. 

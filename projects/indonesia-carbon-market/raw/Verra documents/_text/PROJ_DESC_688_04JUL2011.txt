@@ -1,0 +1,328 @@
+
+
+VCS Project Description Template  
+ 1 
+ 
+ 
+ 
+Voluntary Carbon Standard  
+Project Description Template  
+ 
+Date of the VCS PD: 4 July 2011 
+ 
+Version of the VCS PD: 2 
+ 
+Only  the  section  1.12,  1.13,  1.14,  8.1  &  8.2  are  to  be 
+addressed. For rest of the sections refer to the CDM PDD. 
+Contents 
+1 Description of Project: ............................ 1 
+2 VCS Methodology: ................................... 3 
+3 Monitoring: ........................................ 4 
+4 GHG Emission Reductions: ........................... 4 
+5 Environmental Impact: .............................. 5 
+6 Stakeholders comments: ............................. 5 
+7 Schedule: .......................................... 5 
+8 Ownership: ......................................... 5 
+ 
+1 Description of Project:  
+ 
+1.1 Project title  
+ 
+Wayang Windu Phase 2 Geothermal Power Project 
+ 
+1.2 Type/Category of the project  
+ 
+ Refer to registered PDD section A.4.2 
+ 
+1.3 Estimated  amount  of  emission  reductions  over  the 
+crediting period including project size: 
+ 
+ Refer to registered PDD section A.4.4 
+ 
+1.4 A brief description of the project: 
+ 
+ 
+
+VCS Project Description Template  
+ 2 
+ Refer to registered PDD section A.2 
+ 
+1.5 Project  location  including  geographic  and  physical 
+information  allowing  the  unique  identification  and 
+delineation of the specific extent of the project: 
+ 
+ Refer to registered PDD section A.4.1.4 
+ 
+1.6 Duration of the project activity/crediting period: 
+ 
+ Refer to registered PDD section A.4.4, C.2.1 
+ 
+1.7 Conditions prior to project initiation: 
+ 
+ Refer to registered PDD section A.2 
+ 
+1.8 A  description  of  how  the  project  will  achieve  GHG 
+emission reductions and/or removal enhancements: 
+  
+ Refer to registered PDD section A.2 
+ 
+1.9 Project  technologies,  products,  services  and  the 
+expected level of activity:  
+ 
+ Refer to registered PDD section A.4.3 
+ 
+1.10 Compliance with relevant local laws and regulations 
+related to the project: 
+ 
+ Refer to registered PDD section D.1 
+ 
+1.11 Identification of  risks  that  may  substantially 
+affect  the  project’s  GHG  emission  reductions  or 
+removal enhancements: 
+ 
+Refer  to  registered  PDD  section B.6.1  (risks  include  unusual 
+circumstances  such  as  natural  disasters,  conflicts,  transmission 
+constraints) 
+ 
+1.12 Demonstration to  confirm that  the  project  was  not 
+implemented to create GHG emissions primarily for the 
+purpose of its subsequent removal or destruction.  
+ 
+The project activity will reduce 794,832 tCO
+2
+e annually by replacing 
+carbon-intensive grid electricity, which otherwise would have been 
+produced mainly by fossil fuel power plants.  In the absence of the 
+project activity, the baseline case is the provision of the equivalent 
+amount of annual power generated mostly by fossil fuel power plants 
+supplied to the grid (the JAMALI Grid) to which the project is 
+connected. 
+ 
+Therefore, it is confirmed that the project was not implemented to 
+create GHG emissions primarily for the purpose of its subsequent 
+removal or destruction. 
+ 
+ 
+1.13 Demonstration  that  the  project  has  not  created 
+another  form  of  environmental  credit  (for  example 
+renewable energy certificates). 
+ 
+
+VCS Project Description Template  
+ 3 
+The project activity is a registered CDM project (UNFCCC Reference No. 
+3193), which was registered on December 2, 2010.  As a registered CDM 
+project, the project is able to claim Certified Emissions Reductions 
+(CERs).  Any emission reductions generated from the project starting from 
+the registration date will be verified under the CDM as CERs.  Any 
+emission reductions generated outside of the CDM (e.g., emission 
+reductions generated prior to the CDM registration date, which do not 
+qualify as CERs) have been generated voluntarily.  Through the 
+application of this project under the VCS, those voluntary emission 
+reductions will be validated and verified as VERs. There will not be any 
+overlap or double counting of the emission reductions from the project 
+since there is a clear delineation between when emissions reductions are 
+generated under the CDM and voluntarily.  
+ 
+1.14 Project  rejected  under  other  GHG  programs (if 
+applicable): 
+ 
+The  project  is  not  rejected  under  any  other  GHG  program the  project. 
+The project activity is a registered CDM project (UNFCCC Reference No. 
+3193), which was registered on December 2, 2010.   
+ 
+1.15 Project   proponents roles   and   responsibilities, 
+including   contact   information   of   the   project 
+proponent, other project participants: 
+ 
+ Refer to registered PDD Annex 1 
+ 
+1.16 Any information relevant for the eligibility of the 
+project  and  quantification  of  emission  reductions  or 
+removal    enhancements,    including    legislative, 
+technical, economic, sectoral, social, environmental, 
+geographic, site-specific and temporal information.): 
+ 
+Not applicable. 
+ 
+1.17 List  of  commercially  sensitive  information (if 
+applicable):  
+ 
+The commercially sensitive documents will be provided to the audit team 
+during the validation process. 
+ 
+2 VCS Methodology: 
+ 
+2.1 Title and reference of the VCS methodology applied to 
+the  project  activity  and  explanation  of  methodology 
+choices: 
+ 
+ Refer to registered PDD section B.1 
+ 
+2.2 Justification  of  the  choice  of  the  methodology  and 
+why it is applicable to the project activity: 
+ 
+ Refer to registered PDD section B.2 
+ 
+2.3 Identifying GHG sources, sinks and reservoirs for the 
+baseline scenario and for the project:  
+ 
+ Refer to registered PDD section B.3 
+ 
+
+VCS Project Description Template  
+ 4 
+2.4 Description   of   how   the baseline   scenario   is 
+identified and description of the identified baseline 
+scenario:  
+ 
+ Refer to registered PDD section B.4 
+ 
+2.5 Description of how the emissions of GHG by source in 
+baseline scenario are reduced below those that would 
+have occurred in the absence of the project activity 
+(assessment and demonstration of additionality): 
+ 
+ Refer to registered PDD section B.5 
+ 
+3 Monitoring: 
+ 
+3.1  Title  and  reference  of  the  VCS  methodology  (which 
+includes  the  monitoring  requirements)  applied  to  the 
+project  activity  and  explanation  of  methodology 
+choices:  
+ 
+ Refer to registered PDD section B.1 
+ 
+3.2 Monitoring,    including    estimation,    modelling, 
+measurement or calculation approaches:   
+ 
+ Refer to registered PDD section B.6 
+ 
+3.3 Data  and  parameters  monitored  /  Selecting  relevant 
+GHG  sources,  sinks  and  reservoirs  for  monitoring  or 
+estimating GHG emissions and removals:  
+ 
+ Refer to registered PDD section B.7.1 
+ 
+3.4 Description of the monitoring plan  
+ 
+ Refer to registered PDD section B.7.2 
+ 
+4 GHG Emission Reductions:  
+ 
+4.1 Explanation of methodological choice:  
+ 
+ Refer to registered PDD section B.6.1 
+ 
+4.2 Quantifying  GHG  emissions  and/or  removals  for  the 
+baseline scenario:  
+ 
+ Refer to registered PDD section B.6.3 
+ 
+4.3 Quantifying  GHG  emissions  and/or  removals  for  the 
+project:  
+ 
+ Refer to registered PDD section B.6.3 
+ 
+4.4 Quantifying  GHG  emission  reductions  and  removal 
+enhancements for the GHG project:  
+ 
+ Refer to registered PDD section B.6.3 
+
+VCS Project Description Template  
+ 5 
+ 
+5 Environmental Impact: 
+ 
+ Refer to registered PDD section D 
+ 
+6 Stakeholders comments: 
+ 
+ Refer to registered PDD section E 
+ 
+7 Schedule: 
+    
+Project start date = 4 Mar 2009 
+8 Ownership: 
+ 
+8.1 Proof of Title: 
+ 
+Star Energy Geothermal (Wayang Windu) Limited (project owner) owns the 
+Wayang Windu Phase 2 Geothermal Power Project. The proof of title for the 
+Project is detailed below through   
+ 
+Legislative Right 
+ 
+Star Energy Geothermal (Wayang Windu) Limited (formerly Magma Nusantara 
+Limited/MNL) has the exclusive right to exploit and utilize geothermal 
+energy in the Wayang Windu allotment through a Joint Operating Contract 
+(JOC)dated 2
+nd
+ December 1994, as amended on 21
+st
+ November 2006 between MNL 
+and PT Pertamina Geothermal Energy Persero (formerly Perusahaan 
+Pertambangan Minyak dan Gas Bumi Negara, the Indonesian state-owned oil 
+company) and approved by the Minister of Energy and Mineral Resources of 
+Indonesia. The amended JOC runs for a term of 42 years from the 
+effective date of the JOC, 2
+nd
+ December 1994, until 2
+nd
+ December 2036. 
+ 
+MNL has the exclusive rights to sell electricity generated from the 
+project to PT Perusahaan Listrik Negara (PLN) under am Energy Sales 
+Contract (ESC) dated 2
+nd
+ December 1994 as amended on 21
+st
+ November 2006 
+and approved by the Minister of Energy and Mineral Resources of 
+Inodnesia. The amended ESC also runs for a term of 42 years from 2
+nd
+ 
+December 1994 until 2
+nd
+ December 2036.  
+ 
+Other rights and approvals 
+ 
+The Letter of Approval for the project was issued by the National 
+Committee on CDM (Designated National Authority for the Republic of 
+Indonesia) to Star Energy Geothermal (Wayang Windu) Limited on 8
+th
+ May 
+2009.  
+ 
+Ownership of the plant, equipment and/or process generating the 
+reductions/removals 
+ 
+Below is a list of contracts signed between Star Energy Geothermal 
+(Wayang Windu) Limited regarding the construction of the Wayang Windu 
+Phase 2 Geothermal Power Project and purchase of equipment. 
+ 
+Date  Contract Contracting Parties 
+11-Jul-05 Purchase contract for 
+Tubular components for 
+geothermal drilling 
+(No. WDA J-0255) 
+Magma Nusantara Limited 
+(MNL) 
+30-Jan-07 EPC Contract for power 
+plant and steam 
+pipeline (Contract no. 
+71510012-OS) 
+Star Energy Holdings Pte.Lrd 
+ 
+
+VCS Project Description Template  
+ 6 
+8.2 Projects  that  reduce  GHG  emissions  from  activities 
+that  participate  in  an  emissions  trading  program (if 
+applicable): 
+ 
+Not applicable. 
+  
+ 

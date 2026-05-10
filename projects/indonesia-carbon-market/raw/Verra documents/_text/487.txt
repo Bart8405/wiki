@@ -1,0 +1,2206 @@
+
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+1  
+210  MW  MUSI  HYDRO  POWER  PLANT,  
+BENGKULU  
+    
+Document  Prepared  By:  South  Pole  Carbon  Asset  Management  Ltd.  
+Contact  Information:  info@southpole.com  
+  
+Project  Title    210  MW  Musi  Hydro  Power  Plant,  Bengkulu  
+Version  3.0  
+Date  of  Issue  28/02/2018  
+Prepared  By  South  Pole  Carbon  Asset  Management  Ltd.  
+Contact    Technoparkstrasse  1,  Zurich  8005,  Switzerland  
+Telephone:  +41  43  501  35  50  
+E-­mail:  info@southpole.com  
+http://www.southpole.com  
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+2  
+Table  of  Contents  
+1  Project  Details  .....................................................................................................................................  3  
+1.1  Summary  Description  of  the  Project  ...........................................................................................  3  
+1.2  Sectoral  Scope  and  Project  Type  ...............................................................................................  3  
+1.3  Project  Proponent  .......................................................................................................................  4  
+1.4  Other  Entities  Involved  in  the  Project  .........................................................................................  4  
+1.5  Project  Start  Date  .......................................................................................................................  5  
+1.6  Project  Crediting  Period  ..............................................................................................................  5  
+1.7  Project  Scale  and  Estimated  GHG  Emission  Reductions  or  Removals  .....................................  5  
+1.8  Description  of  the  Project  Activity  ...............................................................................................  6  
+1.9  Project  Location  ..........................................................................................................................  7  
+1.10  Conditions  Prior  to  Project  Initiation  ...........................................................................................  8  
+1.11  Compliance  with  Laws,  Statutes  and  Other  Regulatory  Frameworks  ........................................  8  
+1.12  Ownership  and  Other  Programs  .................................................................................................  9  
+1.12.1  Project  Ownership  .......................................................................................................  9  
+1.12.2  Emissions  Trading  Programs  and  Other  Binding  Limits  ..............................................  9  
+1.12.3  Other  Forms  of  Environmental  Credit  ..........................................................................  9  
+1.12.4  Participation  under  Other  GHG  Programs  ...................................................................  9  
+1.12.5  Projects  Rejected  by  Other  GHG  Programs  ................................................................  9  
+1.13  Additional  Information  Relevant  to  the  Project  ...........................................................................  9  
+2  Application  of  Methodology  ............................................................................................................  11  
+2.1  Title  and  Reference  of  Methodology  .........................................................................................  11  
+2.2  Applicability  of  Methodology  .....................................................................................................  11  
+2.3  Project  Boundary  ......................................................................................................................  16  
+2.4  Baseline  Scenario  .....................................................................................................................  16  
+2.5  Additionality  ..............................................................................................................................  18  
+2.6  Methodology  Deviations  ...........................................................................................................  19  
+3  Quantification  of  GHG  Emission  Reductions  and  Removals  .......................................................  19  
+3.1  Baseline  Emissions  ..................................................................................................................  19  
+3.2  Project  Emissions  .....................................................................................................................  23  
+3.3  Leakage  ....................................................................................................................................  24  
+3.4  Net  GHG  Emission  Reductions  and  Removals  ........................................................................  24  
+4  Monitoring  .........................................................................................................................................  27  
+4.1  Data  and  Parameters  Available  at  Validation  ...........................................................................  27  
+4.2  Data  and  Parameters  Monitored  ..............................................................................................  28  
+4.3  Monitoring  Plan  .........................................................................................................................  29  
+5  Safeguards  ........................................................................................................................................  34  
+5.1  No  Net  Harm  .............................................................................................................................  34  
+5.2  Environmental  Impact  ...............................................................................................................  36  
+5.3  Local  Stakeholder  Consultation  ................................................................................................  36  
+5.4  Public  Comments  .....................................................................................................................  36  
+  
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+3  
+1  PROJECT  DETAILS    
+1.1  Summary  Description  of  the  Project  
+Indonesia  has  great  potential  for  hydro  energy  resources  that  are  not  yet  fully  exploited.  According  
+to  the  national  energy  policy,  the  potential  capacity  of  hydro  resources  in  Indonesia  is  75,000  MW  
+of  which  only  3,200  MW  has  so  far  been  used  to  generate  electricity  (including  captive  power  and  
+private  entities)
+1
+.  
+  
+The  project  is  a  new  run-­of-­river  hydropower  plant  in  Bengkulu  Province  in  Indonesia.  The  project  
+is  owned  and  developed  by  PT.  PLN  (Persero),  a  state-­owned  electricity  company.  
+  
+The  key  purpose  of  the  project  is  to  utilise  the  hydrological  resources  of  the  Musi  River,  which  is  a  
+renewable  source  of  energy,  to  generate  zero  emission  electricity  to  be  transmitted  to  the  Sumatra  
+grid  (hereafter  referred  to  as  the  grid)  through  the  Pekalongan  PLN  main  station,  with  a  150  kV  
+transmission  line  respectively.  It  will  displace  fossil  fuel  based  power  and  reduce  the  emissions  
+associated  with  fossil  fuel  based  power  plants  on  the  Grid.  Therefore,  the  project  activity  is  reducing  
+greenhouse  gas  emissions.  
+  
+The  total  installed  capacity  of  the  project  is  210  MW,  consisting  of  three  70  MW  turbines,  with  a  
+designed   load   factor   of   61.97%;;   all  of  the   power   generated   will   be   delivered   to   the   grid.   The  
+electricity  currently  generated  by  the  grid  is  rather  carbon  intensive,  with  a  grid  emission  factor  
+(GEF)  in  2016  of  0.857  tCO
+2
+/MWh.  
+  
+Following  are  operation  dates  of  all  three  units:  
+Unit  1:  19  July  2006  (Commissioning  Certificate  –  Laporan  Inspeksi  Uji  Kelaikan  Operasi)  
+Unit  2:  19  July  2006  (Commissioning  Certificate  –  Laporan  Inspeksi  Uji  Kelaikan  Operasi)  
+Unit  3:  19  July  2006  (Commissioning  Certificate  –  Laporan  Inspeksi  Uji  Kelaikan  Operasi)  
+1.2  Sectoral  Scope  and  Project  Type    
+The  project  activity  is  a  new  run-­of-­river  type  hydro  power  plant.  Total  installed  capacity  of  the  
+project  is  210  MW,  consisting  of  three  (3)  x  70  MW  turbines.  The  project  is  owned  and  developed  
+by  PT.  PLN  (Persero),  a  state-­owned  electricity  company.  The  project  supplies  electricity  to  the  
+connected   Sumatra   grid.   The   electricity   currently   generated   by   the   grid   is   relatively   carbon  
+intensive.  The  proposed  project  will  increase  the  utilization  of  renewable  energy  sources,  in  this  
+case  hydro  energy,  by  operating  a  new  hydropower  plant.  
+According  to  the  CDM  UNFCCC  criteria,  one  approved  GHG  program  by  the  Voluntary  Carbon  
+Standard  (VCS)  Board,  the  project  is  classified  as  large  scale.  Further  to  this,  based  on  Annex  A  
+of  the   Kyoto   Protocol   it   falls   under   the   following   types/categories   of   the   Clean   Development  
+Mechanism  under  Kyoto  Protocol:  
+                                                
+1
+  Indonesia  Power  Sector,  EU-­Indonesia  Infrastructure  Forum,  November  2007.  
+www.eurocham.or.id/download.php?path=EUROCHAM_UPLOAD_DIR&cid=217&id=185  
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+4  
+•  “Consolidated   baseline   methodology   for   grid-­connected   electricity   generation   from  
+renewable  sources”  
+Reference:  Approved  consolidated  baseline  methodology  ACM0002  version  17.0,  sectoral  scope  
+01-­Energy  Industries  (renewable-­/non-­renewable  sources),  effect  as  of  EB  47  
+•  The  specified  project  is  not  a  part  of  a  grouped  project.  
+1.3  Project  Proponent  
+Name  of  the  party  involved  
+((host)    indicates    a    host  
+party)  
+Private  and/or  public  entity  
+(ies)    project    participants  
+(as  applicable)  
+Kindly  indicate  if  the  party  
+involved   to   be   considered  
+as  project  participant  
+(Yes/No)  
+Indonesia  (host)  PT.  PLN  (Persero).  (as  public  
+entity)  
+No  
+Project  proponents  contact  information  as  follows:  
+Project  owner:  
+Organization  name  PT.  PLN  (Pesero)  
+Contact  person  Jurlian  Sitanggang  
+Title  
+Head  of  Health,  Safety,  Security,  and  Environment  Division  (Kepala  Divisi  
+Keselamatan  Kesehatan  Kerja  Keamanan  dan  Lingkungan)  
+Address  Jl.  Trunojoyo  blok  M  1/135,  Kebayoran  Baru  –  Jakarta  12160,  Indonesia  
+Telephone  +62-­21-­725  1234  
+Email  jurlian.sitanggang@pln.co.id  
+1.4  Other  Entities  Involved  in  the  Project  
+Name  of  the  party  involved  
+((host)    indicates    a    host  
+party)  
+Private  and/or  public  entity  
+(ies)    project    participants  
+(as  applicable)  
+Kindly  indicate  if  the  party  
+involved   to   be   considered  
+as  project  participant  
+(Yes/No)  
+Switzerland  South   Pole   Carbon   Asset  
+Management  Ltd.  (as  private  
+entity)  
+No  
+Carbon  credit  buyer:  
+Organization  name  South  Pole  Carbon  Asset  Management  Ltd.  
+Contact  person  Renat  Heuberger  
+Title  CEO  
+Address  Technoparkstrasse  1,  Zurich  8005,  Switzerland  
+Telephone  +41-­43  501  35  50  
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+5  
+Email  info@southpole.com  
+  
+1.5  Project  Start  Date  
+Musi  Hydro  Power  Plant  Unit  1:  19  July  2006  
+Musi  Hydro  Power  Plant  Unit  2:  19  July  2006  
+Musi  Hydro  Power  Plant  Unit  3:  19  July  2006  
+Thus,  the  project  start  date  is  19  July  2006  (as  per  the  commissioning  certificate),  as  the  earliest  
+project  start  date  of  three  units  at  Musi  Hydro  Power  Plant.  Operational  lifetime  of  project  activity:  
+30  years.  
+1.6  Project  Crediting  Period  
+1
+st
+  Crediting  period  start  date:  1  August  2006.  
+2
+nd
+  Crediting  period  start  date:  1  August  2016.  
+1
+st
+  Crediting  period:  10  years  from  1  August  2006  until  31  July  2016.  
+2
+nd
+  Crediting  period:  10  years  from  1  August  2016  until  31  July  2026.  
+1.7  Project  Scale  and  Estimated  GHG  Emission  Reductions  or  Removals  
+Project  Scale  
+Project    
+Large  project  √  
+  
+The  project  activity  is  a  run-­of-­river  type  hydropower  plant.  The  power  density  of  daily  regulating  
+storage  is  184.211  W/m
+2
+.  Total  installed  capacity  of  the  project  is  210  MW,  consisting  of  three  (3)  
+x  70  MW  turbines.  The  3  x  70  MW  installed  capacity  generates  an  average  of  953,128  emission  
+reduction  credits  per  year.  
+  
+Emission  reduction  estimates  over  a  crediting  period  of  10  (ten)  years  from  1  August  2016  until  31  
+July  2026  is  provided  in  the  table  below:  
+  
+Years  Estimated  GHG  emission  
+reductions  or  removals  (tCO
+2
+e)
+*
+  
+Year  2016  (1  August  2016  -­  31  July  2017)    738,461    
+Year  2017  (1  August  2017  -­  31  July  2018)    976,980    
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+6  
+Years  Estimated  GHG  emission  
+reductions  or  removals  (tCO
+2
+e)
+*
+  
+Year  2018  (1  August  2018  -­  31  July  2019)    976,980    
+Year  2019  (1  August  2019  -­  31  July  2020)    976,980    
+Year  2020  (1  August  2020  -­  31  July  2021)    976,980    
+Year  2021  (1  August  2021  -­  31  July  2022)    976,980    
+Year  2022  (1  August  2022  -­  31  July  2023)    976,980    
+Year  2023  (1  August  2023  -­  31  July  2024)    976,980    
+Year  2024  (1  August  2024  -­  31  July  2025)    976,980    
+Year  2025  (1  August  2025  -­  31  July  2026)    976,980    
+Total  estimated  ERs    9,531,281    
+Total  number  of  crediting  years  10  
+Average  annual  ERs  953,128  
+*  The  ER  calculation  is  based  on  actual  operation  (1  August  2016  -­  31  July  2017)  and  designed  
+annual  electricity  generation  stated  in  Musi  FS  project  report  1993.  
+1.8  Description  of  the  Project  Activity  
+The  Project  is  a  new  run-­of-­river  type  hydropower  plant.  Its  main  purpose  is  to  generate  electricity  
+with  a  total  installed  capacity  of  210  MW  (consisting  of  3  x  70  MW  turbines).  Annual  energy  output  
+is  expected  at  1,140  GWh;;  harnessing  a  gross  water  head  of  404.4  m  by  diverting  water  at  42.3  
+m
+3
+/sec  from  the  Musi  river  to  the  Simpangaur  river,  in  an  adjacent  watershed,  through  a  7.5  km  
+long  waterway  and  an  underground  powerhouse.  
+The  electricity  production  can  be  described  as  follows.  Water  is  taken  from  the  Musi  river  through  
+the  intake  dam  and  then  enters  into  the  turbine  through  the  high-­pressure  pipeline  to  produce  
+electricity  by  driving  the  generators.  The  water  then  discharges  into  to  the  Simpangaur  river  through  
+the  tailrace.  
+The  Project  will  use  proven  technology  in  electricity  generation  and  transmission.  The  essential  
+equipment   used   in   the   Project   had   to   be   procured   from   another   country.   Prior   to   the   project  
+commissioning  the  project  developer  organized  a  series  of  training  sessions  with  the  equipment  
+supplier.  The  training  conducted  mainly  covered  the  following  topics:  management  of  hydropower  
+generation,  operation  and  maintenance  of  a  hydropower  plant,  operation  and  maintenance  of  a  
+turbine,  generator  and  other  equipment.  The  purpose  of  the  training  was  to  enable  the  local  staff  to  
+perform  regular  and  safe  operation  and  maintenance.  
+The  main  technical  parameters  of  the  proposed  project  are  shown  in  table  below:  
+  
+  
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+7  
+Table  1  -­  Main  technical  parameters  of  the  proposed  project  
+Parameter  Capacity  Source  
+Installed  capacity  (MW)  210  
+Musi   FS   Project   Report  
+1993  
+Expected   annual   power  generation   (effective  
+supply  to  the  grid)  (MWh)  
+1,140,000  
+Musi   FS   Project   Report  
+1993  
+Water  head  (m)  404.4  
+Musi   FS   Project   Report  
+1993  
+Design  flow  (m
+3
+/s)  42.3  
+Musi   FS   Project   Report  
+1993  
+Load  Factor  (%)  61.97  
+Calculated   by   dividing   the  
+expected    annual  power  
+generation  by  the  maximum  
+annual  electricity  
+production.  
+The    maximum    annual  
+electricity    production    is  
+calculated   by   multiplying  
+the  installed   capacity   with  
+8760  hours.  
+1.9  Project  Location  
+The  project  area  of  the  Musi  Hydroelectric  Power  Plant  is  situated  in  Bengkulu  Province  about  30  
+km  northeast  of  Bengkulu  city,  the  capital  of  the  Province.  It  involves  the  inter-­basin  transfer  of  
+water  from  the  Musi  river  in  Rejang  Lebong  Regency  to  the  Simpangaur  river  in  North  Bengkulu  
+Regency  through  a  7.5  km  long  waterway  and  an  underground  powerhouse.  
+The  exact  location  is  03
+0
+  37’  6.59”  S  and  102
+0
+  27’  25.87”  E
+2
+.  
+                                                
+2
+  Location  of  Musi  regulating  dam  according  to  EIA  page  IV-­2.  
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+8  
+  
+Figure  1  -­  Location  of  Musi  Hydroelectric  Power  Plant  
+1.10  Conditions  Prior  to  Project  Initiation  
+Not  applicable.  This  is  a  Greenfield  project.  
+1.11  Compliance  with  Laws,  Statutes  and  Other  Regulatory  Frameworks  
+The   project   meets   all   local   laws   and   regulations   of   the   government   of   Indonesia.   The   project  
+activity,  in  using  hydro  power  to  generate  electricity,  is  a  voluntary  action  that  has  not  been  imposed  
+by  the  Government  of  Indonesia.  
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+9  
+The  project  has  a  land  deed  agreement,  construction  permit,  and  underwent  an  Environmental  
+Impact  Assessment  (EIA).  
+1.12  Ownership  and  Other  Programs  
+1.12.1  Project  Ownership  
+Proof  of  Title:  The  contract  agreement  can  be  referred  as  the  proof  of  the  ownership  of  the  project  
+activity.  
+1.12.2  Emissions  Trading  Programs  and  Other  Binding  Limits  
+Not  applicable.  
+1.12.3  Other  Forms  of  Environmental  Credit  
+The  project  activity  currently  has  not  applied  to  any  other  form  of  environmental  credits.  
+Projects   may   generate  other   forms   of   GHG-­related   environmental   credits,   such   as   renewable  
+energy  certificates  (RECs),  though  GHG  emission  reductions  and  removals  presented  for  VCU  
+issuance  shall  not  also  be  recognized  as  another  form  of  GHG-­related  environmental  credit
+3
+.    
+If  the  project  activity  will  be  issued  under  any  recognized  program  which  creates  GHG-­related  
+environmental   credits   (such   as   renewable   energy   certificates  or   RECs),  the   GHG   emission  
+reductions  or  removals  from  one  verification  period  can  be  split  between  the  VCS  Program  and  
+another  GHG  program
+4
+.  
+1.12.4  Participation  under  Other  GHG  Programs  
+Not  applicable.    
+1.12.5  Projects  Rejected  by  Other  GHG  Programs  
+Not  applicable.  
+1.13  Additional  Information  Relevant  to  the  Project    
+Eligibility  Criteria  
+Not  applicable.  
+Leakage  Management  
+According  to  ACM0002  version  17.0,  the  leakage  of  the  proposed  project  is  not  considered.  No  
+leakage  is  expected.  
+                                                
+3
+  According  to  VCS  Standard:  VCS  Version  3,  21  June  2017,  v3.7  
+4
+  According  to  Registration  and  Issuance  process:  VCS  Version  3,  21  June  2017,  v3.8  
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+10  
+Commercially  Sensitive  Information    
+All  information  provided  in  this  project  document  and  relevant  supporting  calculation  sheets  can  be  
+publicly  published.  
+Sustainable  Development    
+Social  well-­being:  
+•  The  project  contributes  to  the  development  of  the  region  by  increasing  community  development  
+and  corporate  social  responsibility  of  PT.  PLN  (Persero).  
+•  During   both   construction   and   operation,   various   kinds   of   mechanical   work  were  required,  
+providing  opportunities  for  part-­time  and  full-­time  employment.  
+Economic  well-­being:  
+•  The  project  activity  generates  employment  in  the  local  area  which  is  a  developing  region.  
+•  The  generated  electricity  is  fed  into  regional  grids  through  the  local  grid,  thereby  improving  the  
+grid   frequency   and   availability   of   electricity   to   local   consumers   (villagers   and   sub-­urban  
+inhabitants).  Due  to  increased  grid  reliability,  new  opportunities  for  industries  and  economic  
+activities  arise  along  with  prospects  for  local  employment  and  overall  development.  
+•  The  project  activity  leads  to  diversification  of  the  national  energy  supply,  which  is  dominated  by  
+conventional  fuel  based  generating  units.  
+•  The  project  activity  contributes  to  the  economic  sustainability  around  the  plant  sites,  which  is  
+encouraging  economic  power  decentralization.  
+Environmental  well-­being:  
+•  The   project   utilizes   hydropower   to   generate   electricity,   which   otherwise   would   have   been  
+generated  through  alternate  fuel-­  (most  likely  fossil  fuel-­)  based  power  plants.  This  contributes  
+to  a  reduction  in  specific  emissions  (emissions  of  pollutant/unit  of  energy  generated),  including  
+GHG  emissions.  
+•  As  hydroelectric  power  projects  do  not  produce  end-­products  in  the  form  of  solid  waste  (ash,  
+etc.),  they  do  not  have  to  cope  with  the  problem  of  solid  waste  disposal  encountered  by  most  
+other  sources  of  power.  
+•  Being  a  renewable  energy  source,  hydro  energy  is  used  to  generate  electricity  that  contributes  
+to  resource  conservation.  
+Technological  well-­being:  
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+11  
+•  The   project   supports   high   quality   equipments   transfer   from   other   regions   and   even   other  
+countries,  and  contributes  to  capacity  building  of  the  labor  force  through  training  and  practical  
+work.  
+•  The  project  promotes  local  products  developed  in  the  region,  when  replacement  of  spare  parts  
+is   necessary,   and   supports   renewable   technology   development   especially   for   hydroelectric  
+power  technology.  
+In  light  of  the  above  explanation,  the  project  participants  consider  that  the  project  activity  profoundly  
+contributing  to  sustainable  development.    
+Further  Information  
+No  further  information.  
+2  APPLICATION  OF  METHODOLOGY  
+2.1  Title  and  Reference  of  Methodology    
+The  project  uses  the  VCS  board-­approved  consolidated  baseline  and  monitoring  methodology  
+ACM0002   “Consolidated   baseline   methodology   for   grid-­connected   electricity   generation   from  
+renewable  sources”,  version  17.0,  13  May  2016
+5
+.  
+This  methodology  also  refers  to  the  latest  approved  versions  of  the  approved  “Tool  to  calculate  the  
+emission  factor  for  an  electricity  system”,  version  06.0
+6
+.  
+2.2  Applicability  of  Methodology  
+The  project  primarily  displaces  power  to  the  Sumatra  grid.  According  to  Annex  A  of  the  Kyoto  
+Protocol,  this  project  falls  into  Sectoral  Scope  1  –  Energy  Industries  (renewable-­/non-­renewable  
+sources).  
+Musi  hydroelectric  power  plant  (HEPP)  is  a  new  grid-­connected  run-­of-­river  type  hydropower  plant.  
+According  to  “Section  I:  Source,  Definitions  and  Applicability  of  Approved  consolidated  baseline  
+and  monitoring  methodology  ACM0002  Version  17.0”,  the  project  activity  is  applicable  under  the  
+following  conditions:  
+Applicability  Condition  Project  Compliance  Information  Source  
+This  methodology  is  applicable  to  
+grid-­connected  renewable  
+The   project   activity   is   a   new  
+hydro   power   plant   (greenfield  
+plant).   It   is   connected   with   a  
+PLN
+8,9
+  
+                                                
+5
+  https://cdm.unfccc.int/methodologies/DB/8W400U6E7LFHHYH2C4JR1RJWWO4PVN  
+6
+  https://cdm.unfccc.int/methodologies/PAmethodologies/tools/am-­tool-­07-­v6.pdf  
+8
+  PLN  Sumatra  or  South  Sumatra  Generation  (Pembangkitan  Sumatera  Bagian  Selatan)  is  under  Sumatra  Regional  Business  
+Director  (Direktur  Bisnis  Regional  Sumatera).  Ref.:  Annual  Report  2016  (Laporan  Tahunan  2016),  p.  92.  (2017).  PT.  PLN  (Persero).  
+http://www.pln.co.id/statics/uploads/2017/06/PLN_AR2016_HIRES.pdf  (accessed,  2018).  
+9
+  Decree   of   Ministry   of   Energy   and   Mineral   Resources   No.   55   K/30/MEM/2003   dated   on   7   February   2003   concerning   National  
+Transmission   Grid   (Jaringan   Transmisi   Nasional  /   JTN),   p.  12,14.   http://prokum.esdm.go.id/kepmen/2003/kepmen-­55-­2003.pdf  
+(accessed,  2018).  
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+12  
+Applicability  Condition  Project  Compliance  Information  Source  
+energy  power  generation  project  
+activities  that:  
+(a)  Install   a   Greenfield   power  
+plant;;  
+(b)  Involve  a  capacity  addition  to  
+(an)  existing  plant(s);;  
+(c)  Involve   a   retrofit   of   (an)  
+existing  operating  
+plants/units;;  
+(d)  Involve  a  rehabilitation  of  (an)  
+existing  plant(s)/unit(s);;  or  
+(e)  (d)  Involve  a  replacement  of  
+(an)  existing  plant(s)/unit(s).  
+regional  power  grid,  the  Sumatra  
+grid;;  the  Sumatra  grid  is  clearly  
+identified  and  information  on  the  
+characteristics   of   this   grid   is  
+publicly   available   from   PLN  
+Sumatra
+7
+.  
+The  methodology   is   applicable  
+under  the  following  conditions:  
+(a)  The   project   activity   may  
+include   renewable   energy  
+power  plant/unit  of  one  of  the  
+following  types:  hydro  power  
+plant/unit   with   or   without  
+reservoir,     wind     power  
+plant/unit,  geothermal  power  
+plant/unit,     solar     power  
+plant/unit,     wave     power  
+plant/unit    or    tidal    power  
+plant/unit;;  
+(b)  In   the   case   of   capacity  
+additions,  retrofits,  
+rehabilitations  or  
+replacements    (except    for  
+wind,   solar,   wave   or   tidal  
+power    capacity    addition  
+projects      the      existing  
+plant/unit  started  commercial  
+operation  prior  to  the  start  of  
+a  minimum     historical  
+reference    period    of    five  
+years,     used     for     the  
+calculation     of     baseline  
+emissions  and  defined  in  the  
+baseline   emission   section,  
+(a)  The   project   activity   is   the  
+installation   of   a   new   run-­of-­
+the  river   hydro   power   plant  
+with   an  installed   capacity   of  
+210  MW.  
+(b)  Not   applicable.   This   is   a  
+Greenfield  project.  
+  
+(a)  PLN  
+(b)  PLN  
+  
+                                                
+7
+  PLN  Sumatra  is  a  regional  state  owned  electricity  company  in  Sumatra  
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+13  
+Applicability  Condition  Project  Compliance  Information  Source  
+and   no   capacity   expansion,  
+retrofit,  or  rehabilitation  of  the  
+plant/unit  has  been  
+undertaken  between  the  start  
+of   this   minimum   historical  
+reference   period   and   the  
+implementation  of  the  project  
+activity.  
+In   case   of   hydro   power   plants,  
+one   of   the   following   conditions  
+shall  apply:  
+(a)  The    project    activity    is  
+implemented    in    existing  
+single  or  multiple  reservoirs,  
+with  no  change  in  the  volume  
+of  any  of  the  reservoirs;;  or  
+(b)  The    project    activity    is  
+implemented    in    existing  
+single  or  multiple  reservoirs,  
+where   the   volume   of   the  
+reservoir(s)  is  increased  and  
+the  power  density  calculated  
+using    equation  (3)  of  
+ACM0002   version  17.0,   is  
+greater  than  4  W/m
+2
+;;  or  
+(c)  The  project  activity  results  in  
+new    single    or    multiple  
+reservoirs   and   the   power  
+density,    calculated    using  
+equation  (3)   of   ACM0002  
+version  17.0,  is  greater  than  4  
+W/m
+2
+;;  or  
+(d)  The   project   activity   is   an  
+integrated    hydro    power  
+project    involving    multiple  
+reservoirs,   where   the   power  
+density    for    any    of    the  
+reservoirs,   calculated   using  
+(a)  Not   applicable.   This   is   a  
+Greenfield  project.  
+(b)  Not   applicable.   This   is   a  
+Greenfield  project.  
+(c)  The    project    activity  is  
+constructed  as  a  run-­of-­river  
+hydropower   project   with   a  
+design  for  temporary  storage  
+called  daily  regulating  
+storage  (a  run-­of-­river  
+reservoir)  having   a   power  
+density  of  184.211  W/m
+2
+.  The  
+area    of    the  run-­of-­river  
+reservoir  (reservoir   surface  
+area)  is  1.14   km
+2  10
+.   It   is   a  
+new  run-­of-­river  reservoir
+11
+.  
+(d)  Not   applicable.  The   project  
+activity   is   a  run-­of-­river  type  
+hydro  power  plant.  
+  
+(a)  PLN  
+(b)  PLN  
+(c)  PLN  
+(d)  PLN  
+                                                
+10
+  Copy  of  Project  Report  (Completion  Report)  on  Engineering  Services  for  Detailed  Design  prepared  by  PT.  Indra  Karya  in  association  
+with  Nippon  Koei  Co.  Ltd.  in  June  1993,  p.II-­3.  
+11
+  Refers  to  methodology  ACM0002  (Large-­scale  Consolidated  Methodology:  Grid-­connected  electricity  generation  from  renewable  
+sources  Version  17.0),  the  definition  of  reservoir  is  a  water  body  created  in  valleys  to  store  water  generally  made  by  the  construction  
+of  a  dam.  And,  according  to  methodology  AM0103  (Renewable  energy  power  generation  in  isolated  grids  Version  02.0.0),  the  definition  
+of  Renewable  energy  sources  is  “This  includes:  hydro  power  plants  (either  with  a  run-­of-­river  reservoir  or  an  accumulation  reservoir),  
+wind  power  plants,  geothermal  power  plants,  solar  power  plants,  wave  power  plants  or  tidal  power  plants”.  
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+14  
+Applicability  Condition  Project  Compliance  Information  Source  
+equation  (3)   of   ACM0002  
+version  17.0,  is  lower  than  or  
+equal   to   4   W/m
+2
+,   all  of   the  
+following    conditions    shall  
+apply:  
+(i)  The    power    density  
+calculated  using  the  total  
+installed  capacity  of  the  
+integrated   project,   as  
+per    equation    (4)  of  
+ACM0002   version  17.0,  
+is  greater  than  4  W/m
+2
+;;  
+(ii)  Water    flow    between  
+reservoirs  is  not  used  by  
+any   other   hydropower  
+unit  which  is  not  a  part  of  
+the  project  activity;;  
+(iii)  Installed  capacity  of  the  
+power    plant(s)    with  
+power  density    lower  
+than  or  equal  to  4  W/m
+2
+  
+shall  be:  
+a.  Lower  than  or  equal  
+to  15  MW;;  and  
+b.  Less   than   10   per  
+cent    of    the    total  
+installed   capacity   of  
+integrated      hydro  
+power  project.  
+In   the   case   of   integrated   hydro  
+power  projects:  
+(a)  Demonstrate  that  water  flow  
+from     upstream     power  
+plants/units   spill   directly   to  
+the    downstream    reservoir  
+and      that      collectively  
+constitute   to   the   generation  
+capacity   of   the   integrated  
+hydro  power  project;;  or  
+(b)  Provide   an   analysis   of   the  
+water   balance   covering   the  
+water  fed  to  power  units,  with  
+all   possible   combinations   of  
+Not    applicable.    The    project  
+activity   is   a  run-­of-­river   type  
+hydro  power  plant.  
+PLN  
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+15  
+Applicability  Condition  Project  Compliance  Information  Source  
+reservoirs   and   without   the  
+construction   of   reservoirs.  
+The    purpose    of    water  
+balance  is  to  demonstrate  the  
+requirement     of     specific  
+combination    of    reservoirs  
+constructed    under    CDM  
+project    activity    for    the  
+optimization  of  power  output.  
+This  demonstration  has  to  be  
+carried   out   in   the   specific  
+scenario  of  water  availability  
+in    different    seasons    to  
+optimize  the  water  flow  at  the  
+inlet     of     power     units.  
+Therefore  this  water  balance  
+will    take    into    account  
+seasonal   flows   from   river,  
+tributaries  (if  any),  and  rainfall  
+for  minimum  five  years  prior  
+to   implementation   of   CDM  
+project  activity.  
+  
+The    methodology    is    not  
+applicable  to:  
+(a)  Project  activities  that  involve  
+switching  from  fossil  fuels  to  
+renewable  energy  sources  at  
+the  site  of  the  project  activity,  
+since    in    this    case    the  
+baseline    may    be    the  
+continued  use  of  fossil  fuels  
+at  the  site;;  
+(b)  Biomass      fired      power  
+plants/units.  
+(a)  Not   applicable.   This   is   a  
+Greenfield  project.  
+(b)  Not   applicable.   This   is   a  
+Greenfield  project.  
+  
+(a)  PLN  
+(b)  PLN  
+  
+In    the    case    of    retrofits,  
+rehabilitations,   replacements,   or  
+capacity  additions,  this  
+methodology  is  only  applicable  if  
+the   most   plausible   baseline  
+scenario,   as   a  result   of   the  
+identification      of      baseline  
+scenario,   is   “the   continuation   of  
+Not    applicable.    This    is  a  
+Greenfield  project.  
+PLN  
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+16  
+Applicability  Condition  Project  Compliance  Information  Source  
+the   current   situation,   that   is   to  
+use    the    power    generation  
+equipment   that   was   already   in  
+use  prior  to  the  implementation  of  
+the     project     activity     and  
+undertaking   business   as   usual  
+maintenance”.  
+  
+The  applicability  criteria  stated  in  methodology  ACM0002  (Version  17.0)  are  met  on  the  basis  of  
+the  reasons  above.  
+  
+The  power  density  of  the  project,  given  as  the  total  capacity  of  210,000,000  (in  W)  divided  by  the  
+flooded  surface  area  resulted  from  the  widening  of  the  river  (reservoir  surface  area)  of  1,140,000  
+m
+2
+  (1.14  km
+2
+),  is  shown  to  be  184.211  W/m
+2
+.  According  to  ACM0002  (Version  17.0),  hydroelectric  
+power  plants  with  a  power  density  greater  than  10  W/m
+2
+  can  use  current  approved  methodology  
+and  may  neglect  project  emissions  from  the  reservoir.  
+2.3  Project  Boundary  
+Table  2  -­  Summary  of  Gases  and  Sources  included  in  project  boundary  
+Source  Gas  Included?  Justification/Explanation  
+Baseline
+  
+CO
+2
+  emission    from  
+electricity  generation  in  
+fossil  fuel-­  fired  power  
+plants      that      are  
+displaced   due   to   the  
+project  activity.  
+CO
+2
+  Yes  
+Main  emission  source.  CO
+2
+  emissions  from  
+grid  electricity  production.  
+CH
+4
+  No  Minor  emission  source  
+N
+2
+O  No  Minor  emission  source  
+Project
+  
+For     hydro     power  
+plants,  emissions   of  
+CH
+4
+  from  the  reservoir  
+CO
+2
+  No  Minor  emission  source  
+CH
+4
+  No  Minor  emission  source  
+(Power  density  is  greater  than  10  W/m
+2
+)  
+N
+2
+O  No  Minor  emission  source  
+2.4  Baseline  Scenario  
+As  per  the  approved  consolidated  methodology  ACM0002  version  17.0,  since  the  project  activity  
+involves  the  installation  of  a  new  grid-­connected  hydro  power  plant  (Greenfield  power  plant),  the  
+baseline  scenario  is  the  following:  
+If  the  project  activity  is  the  installation  of  a  Greenfield  power  plant,  the  baseline  scenario  is  electricity  
+delivered  to  the  grid  by  the  project  activity  would  have  otherwise  been  generated  by  the  operation  
+of  grid-­connected  power  plants  and  by  the  addition  of  new  generation  sources,  as  reflected  in  the  
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+17  
+combined  margin  (CM)  calculations  described  in  the  “Tool  to  calculate  the  emission  factor  for  an  
+electricity  system”.  
+For  the  second  crediting  period,  the  continued  validity  of  the  original  baseline  should  be  assessed.  
+According  to  the  tool  “Assessment  of  the  validity  of  the  original/current  baseline  and  update  of  the  
+baseline  at  the  renewal  of  the  crediting  period  (Version  03.0.1)”,  following  steps  should  be  adopted:  
+Step  1:  Assess  the  validity  of  the  current  baseline  for  the  next  crediting  period  
+Step  1.1:  Assess  compliance  of  the  current  baseline  with  relevant  mandatory  national  and/or  
+sectoral  policies  
+There  is  no  mandatory  law  or  regulation,  which  forced  the  project  proponent  to  install  a  new  hydro  
+power  plant  (greenfield  plant).  Also,  there  are  no  new  national  and/or  sectoral  policies  that  could  
+affect  the  baseline  scenario  during  the  renewal  of  the  crediting  period.  According  to  PLN's  Electricity  
+Supply  Business  Plan  (RUPTL  PT.  PLN  (Persero))  year  2017-­2026  there  is  no  mandatory  for  PT.  
+PLN  (Persero)  to  install  a  new  hydro  power  plant  (greenfield  plant).
+12
+  
+Step  1.2:  Assess  the  impact  of  circumstances  
+This  step  requires  assessment  of  impact  of  circumstance  existing  at  the  time  of  requesting  renewal  
+of   the   crediting   period   on   the   current   baseline   emissions,   without   reassessing   the   baseline  
+scenario.    It   needs   to   be   evaluated   whether   the   conditions   used   to   determine   the   baseline  
+emissions  in  the  previous  crediting  period  are  still  valid  including  assessment  of  availability  of  new  
+fuels  or  raw  materials  and  the  impact  of  electricity  or  fuel  prices.  
+The  impact  on  current  baseline  emissions  can  be  directly  assessed  based  on  reviewing  current  mix  
+of  the  grid  to  which  the  project  is  connected  and  exporting  electricity.  
+The  project  activity  delivers  electricity  to  the  Sumatra  Grid  in  Indonesia.  As  per  latest  Sumatra  grid  
+data  (until  year  2016)  from  the  government  of  Directorate  General  of  Electricity  –  Ministry  of  Energy  
+and  Mineral  Resources  (MEMR),  the  proportions  of  the  total  installed  capacity  of  all  power  plants  
+(MW)  versus  total  installed  capacity  of  hydropower  plants  with  similar  hydro  installed  capacity  (as  
+range  of  105  MW  to  315  MW)  is  only  8.84%.  The  market  is  still  dominated  by  coal  power  plant  and  
+in  the  last  four  years,  more  than  1,700  MW  of  new  coal  based  power  plants  have  been  established.    
+Other  projects/fuel  types  of  fossil  fuel  have  been  implemented.    Hence  the  hydroelectric  plants  with  
+similar  hydro  installed  capacity  in  the  Sumatra  grid  is  very  limited.  The  grid  emission  factor  of  the  
+grid  has  also  been  updated  to  reflect  the  most  recent  GHG  intensity  and  applied  for  the  calculation  
+of  baseline  emissions.  
+Step   1.3:   Assess   whether   the   continuation   of   use   of   current   baseline   equipment(s)   or   an  
+investment   is   the   most   likely   scenario   for   the   crediting   period   for   which   renewal   is  
+requested.  
+                                                
+12
+  Decree  of  Ministry  of  Energy  and  Mineral  Resources  No.  1415/K/20/MEM2017  dated  on  29  March  2017  concerning  Ratification  of  
+PT.  PLN  (Persero)'s  Electricity  Supply  Business  Plan  Year  2017  –  2026.  
+https://djk.esdm.go.id/pdf/RUPTL/RUPTL%20PLN%202017-­2026.pdf  (accessed,  2018).  
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+18  
+This  sub-­step  is  applicable  to  the  project  activity  since  the  baseline  is  the  continuation  of  the  current  
+practice,  i.e.  the  electricity  would  be  supplied  by  the  power  grid  in  the  absence  of  the  project  activity.  
+It  is  clear  that  the  power  grid  as  an  electricity  system  would  maintain  its  technical  possibility  for  a  
+much  longer  time  than  the  crediting  period  of  the  project  activity.  
+Step  1.4:  Assessment  of  the  validity  of  the  data  and  parameters  
+There  are  some  parameters,  which  are  determined  at  the  start  of  the  first  crediting  period  and  not  
+monitored  during  the  first  crediting  period,  are  not  valid  anymore.  So,  the  current  baseline  needs  to  
+be  updated  for  the  second  crediting  period  according  to  the  tool.  This  update  includes  grid  emission  
+factor  and  emissions  from  fossil  fuel  combustion  (PE
+FF,y
+)  as  per  methodology  version  17.0.    
+Hence,  the  data  and  parameters  need  to  be  updated.  Therefore  step  2  is  used.  
+Step  2:  Update  the  current  baseline  and  the  data  and  parameters  
+Step  2.1:  Update  the  current  baseline  
+The  baseline  emissions  for  the  second  crediting  period  have  been  updated,  without  reassessing  
+the  baseline  scenario,  based  on  the  latest  approved  version  of  the  methodology.  This  update  was  
+applied  in  the  context  of  the  sectoral  policies  and  circumstances  that  is  applicable  at  the  time  of  
+requesting  for  renewal  of  the  crediting  period.  
+Step  2.2:  Update  the  data  and  parameters  
+As  mentioned  in  step  1.4,  all  parameters  regarding  the  grid  emission  factor,  and  emissions  from  
+fossil  fuel  combustion  (PE
+FF,y
+)  calculation  are  updated  in  the  second  crediting  period.  
+As  per  methodology  version  17.0,  for  all  renewable  energy  power  generation  project  activities,  
+emissions  due  to  the  use  of  fossil  fuels  for  the  backup  generator  can  be  neglected.  Hence  the  
+PE
+FF,y
+  has  been  updated  using  mentioned  rule.  
+2.5  Additionality  
+According  to  the  section  3.8.5  of  VCS  Standard  version  3.7,  a  full  reassessment  of  additionality  is  
+not   required   when   renewing   the   project   crediting   period.   However,   regulatory   surplus  shall   be  
+demonstrated  in  accordance  with  Section  4.6.3  of  VCS  Standard  version  3.7.  
+It  is  confirmed  that  the  proposed  project  is  not  mandated  by  any  law,  statute  or  other  regulatory  
+framework.  There  is  no  mandatory  law  or  regulation,  which  forced  the  project  proponent  to  install  
+a  new  hydro  power  plant  (greenfield  plant)
+13
+.  
+                                                
+13
+  According  to  PLN's  Electricity  Supply  Business  Plan  (RUPTL  PT.  PLN  (Persero))  year  2017-­2026  there  is  no  mandatory  for  PT.  
+PLN  (Persero)  to  install  a  new  hydro  power  plant  (greenfield  plant).  
+Decree  of  Ministry  of  Energy  and  Mineral  Resources  No.  1415  K/20/MEM/2017  dated  on  29  March  2017  concerning  Ratification  of  
+PT.  PLN  (Persero)'s  Electricity  Supply  Business  Plan  Year  2017  –  2026.    
+https://djk.esdm.go.id/pdf/RUPTL/RUPTL%20PLN%202017-­2026.pdf  (accessed,  2018).  
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+19  
+There  is  no  any  mandatory  program  from  the  Government  of  Indonesia  that  forces  private  or  public  
+entities  to  install  a  new  hydro  power  plant  (greenfield  plant).    
+2.6  Methodology  Deviations  
+There  are  no  methodology  deviations.  
+3  QUANTIFICATION  OF  GHG  EMISSION  REDUCTIONS  AND  REMOVALS  
+3.1  Baseline  Emissions  
+Based  on  ACM0002  version  17.0,  the  baseline  emission  (BE
+y
+  in  tCO
+2
+)  is  the  product  of  the  baseline  
+emission  factor  (EF
+grid,CM,y
+  in  tCO
+2
+/MWh)  times  the  electricity  supplied  by  the  project  activity  to  the  
+grid  (EG
+PJ,y
+  in  MWh).  EG
+PJ,y
+  is  calculated  as  a  quantity  of  net  electricity  generation  supplied  by  the  
+project  plants/units  to  the  grid  (EG
+facility,y
+  in  MWh),  as  follows:  
+BE
+y
+  =  EG
+PJ,y
+  x  EF
+grid,CM,y
+                                  (1)  
+where:  
+BE
+y
+  =  Baseline  emissions  in  year  y  (t  CO
+2
+/yr)  
+EG
+PJ,y
+  =  
+Quantity  of  net  electricity  generation  that  is  produced  and  fed  into  the  grid  as  
+a  result  of  the  implementation  of  the  VCS  project  activity  in  year  y  (MWh/yr)  
+EF
+grid,CM,y
+  =  
+Combined  margin  CO
+2
+  emission  factor  for  grid  connected  power  generation  
+in  year  y  calculated  using  the  latest  version  of  the  “Tool  to  calculate  the  
+emission  factor  for  an  electricity  system”  (t  CO
+2
+/MWh)  
+EG
+PJ,y
+  for  the  installation  of  a  Greenfield  power  plant  is  calculated  as  follows:  
+EG
+PJ,y
+  =  EG
+facility,y
+  
+where:  
+EG
+PJ,y
+  =  
+Quantity  of  net  electricity  generation  that  is  produced  and  fed  into  the  
+grid  as  a  result  of  the  implementation  of  the  VCS  project  activity  in  year  
+y  (MWh/yr)  
+EG
+facility,y
+  =  
+Quantity   of   net   electricity   generation   supplied   by   the   project  
+plants/units  to  the  grid  in  year  y  (MWh/yr)  
+Calculation  of  EF
+grid,CM,y
+  
+The   latest   of  weighted  average  of  the  Operating  Margin  emission  factor  (EF
+grid,OMsimple,y
+),  Build  
+Margin  emission  factor  (EF
+grid,BM,y
+),  and  Combined  Margin  emission  factor  (EF
+grid,CM,y
+)  of  Sumatera  
+grid  of  year  2016  already  determined  and  calculated
+14
+  according  to  the  procedures  prescribed  in  
+the  “Tool  to  calculate  the  emission  factor  for  an  electricity  system,  version  04.0  by  the  Indonesian  
+government  under  the  Directorate  General  of  Electricity  -­  Ministry  of  Energy  and  Mineral  Resources  
+                                                
+14
+  Based  on  notification  letter  number  364/04/DLT.3/2018  dated  on  February  13
+th
+,  2018  from  the  MEMR.  
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+20  
+(MEMR).
+  
+Even  though  the  “Tool  to  calculate  the  emission  factor  for  an  electricity  system”  (Version  
+06.0)  has  been  issued  at  the  time  of  renewal  of  the  project  crediting  period  there  is  not  affected  to  
+the  result  of  EF
+grid,CM,y
+.  
+Step  1:  Identify  the  relevant  electricity  systems  
+According   to   the   latest   version   of   the   tool,   the   Sumatra   power   grid   is   selected   as   the   project  
+boundary,  as  the  regional  interconnected  grid  covering  all  provinces  in  Sumatra  Island.  The  project  
+is  located  in  North  Sumatra  province,  and  is  connected  to  the  existing  Sumatra  power  transmission  
+line.  The  Sumatra  power  grid  is  therefore  determined  as  the  project  boundary.  Both  the  OM  and  
+the  BM  will  be  calculated  ex-­ante.  
+Step  2:  Choose  whether  to  include  off-­grid  power  plants  in  the  project  electricity  system  (optional)  
+Project   participants   may   choose   between   the   following   two   options   to   calculate   the   operating  
+margin  and  build  margin  emission  factor:  
+Option  I:  Only  grid  power  plants  are  included  in  the  calculation.  
+Option  II:  Both  grid  power  plants  and  off-­grid  power  plants  are  included  in  the  calculation.  
+The  MEMR  chooses  only  to  include  the  grid  power  plants  in  the  calculation  (Option  I),  as  information  
+of  the  off-­grid  power  plants  are  not  completely  publicly  accessible.  
+Step  3:  Select  a  method  to  determine  the  operating  margin  (OM)  
+The  “Tool  to  calculate  the  emission  factor  for  an  electricity  system”  (version  06.0,  EB97)  offers  four  
+methods  to  calculate  the  OM  and  any  of  the  four  methods  can  be  used:  
+(a)  Simple  OM;;  or  
+(b)  Simple  adjusted  OM;;  or  
+(c)  Dispatch  data  analysis  OM;;  or  
+(d)  Average  OM.  
+The  MEMR  has  been  considered  the  methods  to  determine  the  operating  margin  (OM)  as  following:  
+(a)  Simple  OM:  The  Low  Cost/Must  Run  (LC/MR)  of  the  power  plants  cannot  be  determined.  
+(b)  Simple  adjusted  OM:  The  required  of  hourly  LC/MR  operation  data  of  the  power  plants  are  not  
+available.  
+(c)  Dispatch  data  analysis  OM:  The  required  of  hourly  actual  operation  data  of  the  power  plants  
+are  not  available.  
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+21  
+(d)  Average  OM:  Annual  aggregated  data  from  the  grid  on  power  generation,  fuel  type  and  fuel  
+consumption  of  the  power  plants  are  available,  which  is  calculated  as  Simple  OM.  
+The  Operating  Margin  Emission  Coefficient  (EF
+grid,OM,y
+)  can  be  calculated  based  on    Simple  OM  or  
+Average  OM,  with  consideration  of  the  restrictions  to  use  each  approach.  The  selection  of  the  most  
+suitable  method  is  based  on  the  analysis  of  the  proportion  of  low-­cost/must-­run  generation  sources  
+in  the  concerning  grid.  The  OM  will  be  calculated  ex-­ante.  
+Step  4:  Calculate  the  operating  margin  emission  factor  according  to  the  selected  method  
+The  operating  margin  emission  factor  for  each  year  ‘y’  was  calculated  using  equation  3  (preferred  
+option)  of  the  ‘Tool  to  calculate  the  emission  factor  for  an  electricity  system’,  adapted  to  data  
+available   from   PLN,   which   has   grouped  the   power   plants   according   to   type   as   shown   in   the  
+notification  letter  number  364/04/DLT.3/2018  dated  on  February  13
+th
+,  2018  from  the  MEMR.  
+                              (2)  
+where:  
+EF
+grid,OMsimple,y
+  =  Simple  operating  margin  CO
+2
+  emission  factor  in  year  y  (t  CO
+2
+/MWh)  
+EG
+m,y
+  =  
+Net  quantity  of  electricity  generated  and  delivered  to  the  grid  by  power  
+unit  m  in  year  y  (MWh)  
+EF
+EL,m,y
+  =  CO
+2
+  emission  factor  of  power  unit  m  in  year  y  (t  CO
+2
+/MWh)  
+m  =  
+All  power  units  serving  the  grid  in  year  y  except  low-­cost/must-­run  
+power  units  
+y  =  The  relevant  year  as  per  the  data  vintage  chosen  in  Step  3  
+The  Operating  Margin  will  be  calculated  ex-­ante,  therefore  the  factor  is  calculated  based  on  3  
+recent  years  available  data,  which  are  2014,  2015,  and  2016  data.  
+The  Operating  Margin  emission  factors  for  2014,  2015,  and  2016  are  calculated  separately  and  
+then  the  three-­  year  average  is  calculated  as  a  full-­generation  weighted  average  of  the  emission  
+factors.  
+The  result  of  the  Operation  Margin  Emission  Factor  of  Sumatra,  in  the  notification  letter  number  
+364/04/DLT.3/2018  dated   on  February   13
+th
+,   2018  from  the   MEMR,   is   calculated   to   be  0.735  
+tCO
+2
+e/MWh.  
+The  operating  margin  emission  factor  of  the  baseline  is  calculated  as  a  fixed  ex-­ante  value  and  will  
+not  be  renewed  within  the  second  crediting  period  of  the  project  activity.  
+Step  5:  Calculate  the  build  margin  (BM)  emission  factor  
+Once  the  sample  group  ‘m’  is  defined,  the  build  margin  is  calculated  ex-­ante  using  the  following  
+equation:  
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+22  
+                                (3)  
+where:  
+EF
+grid,BM,y
+  =  Build  margin  CO
+2
+  emission  factor  in  year  y  (t  CO
+2
+/MWh)  
+EG
+m,y
+  =  
+Net  quantity  of  electricity  generated  and  delivered  to  the  grid  by  power  
+unit  m  in  year  y  (MWh)  
+EF
+EL,m,y
+  =  CO
+2
+  emission  factor  of  power  unit  m  in  year  y  (t  CO
+2
+/MWh)  
+m  =  Power  units  included  in  the  build  margin  
+y  =  
+Most   recent   historical   year   for   which   electricity   generation   data   is  
+available  
+Based  on  sample  group  ‘m’  identified  in  the  notification  letter  number  364/04/DLT.3/2018  dated  on  
+February  13
+th
+,  2018  from  the  MEMR,  the  ex-­ante  Build  Margin  Emission  Factor  is  calculated  to  be  
+0.898  tCO
+2
+e/MWh  by  dividing  total  CO
+2
+  emissions  by  the  total  annual  generation  data.  
+Step  6:  Calculate  the  combined  margin  (CM)  emission  factor  
+The  Baseline  Emission  Factor  is  calculated  as  a  Combined  Margin,  using  the  weighted  average  
+(preferred  option)  of  the  Operating  Margin  and  Build  Margin.  
+EF
+grid,CM,y
+  =  EF
+grid,OM,y
+  x  w
+OM
+  +  EF
+grid,BM,y
+  x  w
+BM
+                              (4)  
+where:  
+EF
+grid,BM,y
+  =  Build  margin  CO
+2
+  emission  factor  in  year  y  (t  CO
+2
+/MWh)  
+EF
+grid,OM,y
+  =  Operating  margin  CO
+2
+  emission  factor  in  year  y  (t  CO
+2
+/MWh)  
+w
+OM
+  =  Weighting  of  operating  margin  emissions  factor  (per  cent)  
+w
+BM
+  =  Weighting  of  build  margin  emissions  factor  (per  cent)  
+As  per  UNFCCC  Methodological  tool:  Tool  to  calculate  the  emission  factor  for  an  electricity  system  
+v06.0,  the  following  default  values  should  be  used  for  w
+OM
+  and  w
+BM
+  (for  all  projects  except  for  wind  
+and  solar  power  generation  project  activities):  w
+OM
+  =  0.5  and  w
+BM
+  =  0.5  for  the  first  crediting  period,  
+and  w
+OM
+  =  0.25  and  w
+BM
+  =  0.75  for  the  second  and  third  crediting  period,  unless  otherwise  specified  
+in  the  approved  methodology  which  refers  to  this  tool.  
+Therefore  using  the  approach  above,  the  ex-­ante  emission  factor  (EF
+grid,CM,y
+)  for  Sumatra  Grid  will  
+be:  
+EF
+grid,CM,y
+  =  (EF
+grid,OM,y
+  x  w
+OM
+)  +  (EF
+grid,BM,y
+  x  w
+BM
+)  
+      =  (0.735  x  0.25)  +  (0.898  x  0.75)  
+      =  0.857  tCO
+2
+/MWh  
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+23  
+3.2  Project  Emissions  
+PE
+y
+  =  PE
+FF,y  
++  PE
+GP,y  
++  PE
+HP,y
+                                  (5)  
+where:  
+PE
+y
+  =  Project  emissions  in  year  y  (t  CO
+2
+e/yr)  
+PE
+FF,y
+  =  Project  emissions  from  fossil  fuel  consumption  in  year  y  (t  CO
+2
+/yr)  
+PE
+GP,y
+  =  
+Project   emissions   from   the   operation   of   dry,   flash   steam   or   binary  
+geothermal  power  plants  in  year  y  (t  CO
+2
+e/yr)  
+PE
+HP,y
+  =  
+Project  emissions  from  water  reservoirs  of  hydro  power  plants  in  year  
+y  (t  CO
+2
+e/yr)  
+The  project  does  not  involve  the  fossil  fuel  consumption  (as  per  para  38  of  ACM0002  version  17.0,  
+for  all  renewable  energy  power  generation  project  activities,  emissions  due  to  the  use  of  fossil  fuels  
+for  the  backup  generator  can  be  neglected),  so  PE
+FF,y
+  =  0.  
+The  PE
+GP,y
+  does  not  applicable  as  well  as  the  project  activity  is  a  hydro  power.  
+The  project  activity  is  a  run-­of-­river  type  hydropower  project  with  a  daily  regulating  dam  (run-­of-­
+river  reservoir).  According  to  the  methodology  (For  hydro  power  project  activities  that  result  in  new  
+single  or  multiple  reservoirs  and  hydro  power  project  activities  that  result  in  the  increase  of  single  
+or  multiple  existing  reservoirs),  project  proponents  shall  account  for  CH
+4
+  and  CO
+2
+  emissions  from  
+the  reservoirs.  If  the  power  density  of  the  project  activity  (PD)  is  greater  than  10  W/m
+2
+,  the  PE
+HP,y
+  
+=0  as  per  para  43  (c)  of  ACM0002  version  17.0.  
+The  power  density  of  the  project  activity  needs  to  be  considered
+15
+  using  the  following  equation  as  
+per  para  42  of  ACM0002  version  17.0:  
+                                  (6)  
+where:  
+PD  =  Power  density  of  the  project  activity  (W/m
+2
+)  
+Cap
+PJ
+  =  Installed  capacity  of  the  hydro  power  plant  after  the  implementation  of  the  
+project  activity  (W)    
+  
+Cap
+BL
+  =  Installed  capacity  of  the  hydro  power  plant  before  the  implementation  of  the  
+project  activity  (W).  For  new  hydro  power  plants,  this  value  is  zero  
+  
+A
+PJ
+  =  Area  of  the  single  or  multiple  reservoirs  measured  in  the  surface  of  the  water,  
+after  the  implementation  of  the  project  activity,  when  the  reservoir  is  full  (m
+2
+)  
+                                                
+15
+  According  to  the  clarification  on  UNFCCC  CDM  approved  large  scale  methodologies  ACM0002,  the  Meth  Panel  clarified  that  
+“Therefore,  as  long  as  the  power  plant  involves  a  new  reservoir  or  the  increase  of  an  existing  reservoir,  be  it  run-­of-­river  or  not,  
+greenhouse  gases  emissions  from  the  reservoir  must  be  considered  and,  hence,  the  assessment  of  the  power  density  is  required  as  
+a     necessary     applicability     condition  of     ACM0002;;”     (AM_CLA_0049:     Calculation     of     power     density  
+https://cdm.unfccc.int/methodologies/PAmethodologies/clarifications/11717).  
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+24  
+A
+BL
+  =  Area  of  the  single  or  multiple  reservoirs  measured  in  the  surface  of  the  water,  
+before  the  implementation  of  the  project  activity,  when  the  reservoir  is  full  
+(m
+2
+).  For  new  reservoirs,  this  value  is  zero    
+  
+Power  density  calculation  referred  to  in  Section  3.4  below.  
+3.3  Leakage  
+According   to   the   methodology,   leakage   from   related   emission   sources   do   not   need   to   be  
+considered,  thus  leakage  is  zero.  
+LE
+y
+  =  0    
+3.4  Net  GHG  Emission  Reductions  and  Removals  
+According  to  the  latest  version  of  ACM0002  version  17,  the  procedure  of  determining  baseline  
+emission,  project  emission,  leakage,  and  emission  reduction  for  the  project  activity  are  as  follows:  
+Baseline  Emissions  
+BE
+y
+  =  EG
+PJ,y
+  x  EF
+grid,CM,y  
+  
+Parameter  Description  Unit  Value  Source  
+BE
+y
+  Baseline  emissions  in  year  y  t  CO
+2
+e/yr  976,980  Calculated  
+equation  (1)  
+EG
+PJ,y
+  Quantity  of  net  electricity  generation  that  
+is   produced   and   fed   into   the   grid   as  a  
+result  of  the  implementation  of  the  VCS  
+project  activity  in  year  y  
+MWh/yr  1,140,000  Planned  
+electricity  
+production  
+as  per  
+feasibility  
+study  
+EF
+grid,CM,y
+  Combined  margin  CO
+2
+  emission  factor  for  
+grid  connected  power  generation  in  year  
+y  calculated  using  the  latest  version  of  the  
+“Tool  to  calculate  the  emission  factor  for  
+an  electricity  system”  
+t  CO
+2
+e/MWh  0.857  See  
+explanation  
+below  
+Calculation  of  EF
+grid,CM,y
+  
+As  per  newest  “Tool  to  calculate  the  emission  factor  for  an  electricity  system”  for  each  crediting  
+period  the  most  recent  data  available  at  time  of  submission  of  the  PD  to  the  DOE  for  validation  
+shall  be  used.  The  latest  available  data  at  the  time  is  the  official  emission  factor  published  by  the  
+Indonesian  MEMR  using   data   from   the   year  2014  concluding   an   emission   factor   of  0.857  
+tCO
+2
+e/MWh.  
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+25  
+Summary  of  Baseline  Emissions  (BE
+y
+)  
+Year  Vintage  Year  BEy  (tCO
+2
+e)  
+2016  -­  2017  1  August  2016  -­  31  July  2017    738,461    
+2017  -­  2018  1  August  2017  
+-­  
+31  July  2018    976,980    
+2018  -­  2019  1  August  2018  
+-­  
+31  July  2019    976,980    
+2019  -­  2020  1  August  2019  
+-­  
+31  July  2020    976,980    
+2020  -­  2021  1  August  2020  
+-­  
+31  July  2021    976,980    
+2021  -­  2022  1  August  2021  
+-­  
+31  July  2022    976,980    
+2022  -­  2023  1  August  2022  
+-­  
+31  July  2023    976,980    
+2023  -­  2024  1  August  2023  
+-­  
+31  July  2024    976,980    
+2024  -­  2025  1  August  2024  
+-­  
+31  July  2025    976,980    
+2025  -­  2026  1  August  2025  
+-­  
+31  July  2026    976,980    
+  
+Power  Density  
+  
+=  
+210,000,000  -­  0
+1,140,000  -­  0
+  
+=  184.211  W/m
+2
+  
+According  to  ACM0002  version  17,  no  project  emissions  have  to  be  taken  into  consideration  as  the  
+power  density  exceeds  10  W/m
+2
+.  Therefore  there  are  no  emissions  to  consider  that  may  have  
+arisen  from  such  a  flooded  area.  Thus,  PE
+HP,y
+  =  0.  
+  
+Project  Emissions  
+PE
+y
+  =  PE
+FF,y  
++  PE
+GP,y  
++  PE
+HP,y
+        
+Parameter  Description  Unit  Value  Source  
+PE
+y
+  Project  emissions  in  year  y  t  CO
+2
+e/yr  0  Calculated  
+equation  (5)  
+PE
+FF,y
+  Project    emissions    from    fossil    fuel  
+consumption  in  year  y  
+t  CO
+2
+e/yr  0  Tool  to  
+calculate  
+project     or  
+leakage  
+CO2  
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+26  
+Parameter  Description  Unit  Value  Source  
+emissions  
+from    fossil  
+fuel  
+combustion    
+PE
+GP,y
+  Project   emissions   from   the   operation   of  
+dry,   flash   steam   or   binary   geothermal  
+power  plants  in  year  y  
+t  CO
+2
+e/yr  0  Project  
+activity     is  
+not  a  
+geothermal  
+power  plant  
+PE
+HP,y
+  Project  emissions  from  water  reservoirs  of  
+hydro  power  plants  in  year  y  
+t  CO
+2
+e/yr  0  Calculated  
+equation  (6)  
+  
+Leakage  Emissions  
+According  to  ACM0002,  the  leakage  of  the  proposed  project  is  not  considered.  No  leakage  is  
+expected.  Therefore,  LE
+y
+  =  0  
+  
+The  ex-­ante  emission  reductions  calculations  are  as  follows:  
+ER
+y
+  =  BE
+y
+  -­  PE
+y
+  
+Using  the  calculation  above  the  total  baseline  emission  for  the  10-­year  crediting  period  is                  
+9,531,281  tCO
+2
+e  or  953,128  tCO
+2
+e/year,  as  shown  in  the  summary  below:  
+  
+Year  Vintage  Estimated  
+baseline  
+emissions  
+or  
+removals  
+(tCO
+2
+e)  
+Estimated  
+project  
+emissions  
+or  removals  
+(tCO
+2
+e)  
+Estimated  
+leakage  
+emissions  
+(tCO
+2
+e)  
+Estimated  net  
+GHG  emission  
+reductions  or  
+removals  
+(tCO
+2
+e)  
+2016  1  August  2016  –  
+31  July  2017  
+  738,461    
+0  0  
+  738,461    
+2017  1  August  2017  –  
+31  July  2018  
+  976,980    
+0  0  
+  976,980    
+2018  1  August  2018  –  
+31  July  2019  
+  976,980    
+0  0  
+  976,980    
+2019  1  August  2019  –  
+31  July  2020  
+  976,980    
+0  0  
+  976,980    
+2020  1  August  2020  –  
+31  July  2021  
+  976,980    
+0  0  
+  976,980    
+2021  1  August  2021  –  
+31  July  2022  
+  976,980    
+0  0  
+  976,980    
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+27  
+Year  Vintage  Estimated  
+baseline  
+emissions  
+or  
+removals  
+(tCO
+2
+e)  
+Estimated  
+project  
+emissions  
+or  removals  
+(tCO
+2
+e)  
+Estimated  
+leakage  
+emissions  
+(tCO
+2
+e)  
+Estimated  net  
+GHG  emission  
+reductions  or  
+removals  
+(tCO
+2
+e)  
+2022  1  August  2022  –  
+31  July  2023  
+  976,980    0  0    976,980    
+2023  1  August  2023  –  
+31  July  2024  
+  976,980    0  0    976,980    
+2024  1  August  2024  –  
+31  July  2025  
+  976,980    0  0    976,980    
+2025  1  August  2025  –  
+31  July  2026  
+  976,980    0  0    976,980    
+Total      9,531,281    0    0      9,531,281    
+  
+4  MONITORING  
+4.1  Data  and  Parameters  Available  at  Validation  
+Data  /  Parameter  EF
+grid,CM,y
+  
+Data  unit  tCO
+2
+e/MWh  
+Description  
+Combined  margin  CO
+2
+  emission  factor  for  grid  connected  power  
+generation  in  year  y  calculated  using  the  latest  version  of  the  “Tool  
+to  calculate  the  emission  factor  for  an  electricity  system”  
+As  per  UNFCCC  Methodological  tool:  Tool  to  calculate  the  emission  
+factor  for  an  electricity  system  v06.0,  the  following  default  values  
+should  be  used  for  w
+OM
+  and  w
+BM
+  (for  all  projects  except  for  wind  and  
+solar  power  generation  project  activities):  w
+OM
+  =  0.5  and  w
+BM
+  =  0.5  
+for  the  first  crediting  period,  and  w
+OM
+  =  0.25  and  w
+BM
+  =  0.75  for  the  
+second  and  third  crediting  period,  unless  otherwise  specified  in  the  
+approved  methodology  which  refers  to  this  tool.  
+Source  of  data  Calculation
+16
+  
+Value  applied  0.857  
+Justification  of  choice  of  
+data  or  description  of  
+No  measurement  required.  Data  is  obtained  based  on  analysis  of  
+MEMR  published  information  following  the  “Tool  to  calculate  the  
+emission  factor  for  an  electricity  system”  (EB  75  Annex  15).  
+                                                
+16
+  Source  of  data  for  EF
+grid,OM,y
+  (0.735  tCO
+2
+e/MWh)  and  EF
+grid,BM,y
+  (0.898  tCO
+2
+e/MWh)  are  from  Indonesian  government  under  the  
+Directorate   General   of   Electricity  -­  Ministry   of   Energy   and   Mineral   Resources   (MEMR),   based   on   notification   letter   number  
+364/04/DLT.3/2018  dated  on  February  13
+th
+,  2018.  
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+28  
+measurement  methods  
+and  procedures  applied  
+Purpose  of  Data  Calculation  of  baseline  emissions  
+Comments  -­  
+ 
+4.2  Data  and  Parameters  Monitored    
+Data  /  Parameter  EG
+PJ,y
+  
+Data  unit  MWh/yr  
+Description  
+Quantity  of  net  electricity  generation  that  is  produced  and  fed  into  
+the  grid  as  a  result  of  the  implementation  of  the  VCS  project  activity  
+in  year  y  
+Source  of  data  kWh  meter  at  project  activity  site  (switchyard)  
+Electricity  Generation  (EG)  data  used  for  monitoring  is  the  monthly  
+electricity   generation   delivered   to   grid   summarized   in   Electricity  
+Transfer  Protocol   Report   signed   by   both   parties   of   Generation  
+department  and  Transmission  department.  
+For   ex-­ante   calculation,   EG   value   uses  the   designed   annual  
+electricity  generation  provided  by  Musi  FS  Project  Report  1993.  
+Description  of  
+measurement  methods  
+and  procedures  to  be  
+applied  
+Electricity   produced   will   be   measured   by   a  watt-­hour   meter  
+(connected  to  a  digital  control  system  and  recorded  continuously),  
+which  can  measure  export  and  import  electricity  data  separately.  
+Therefore   net   electricity  delivered   to   the   grid   would   be   the  
+difference  of  export  and  import  energy.  
+The  Electricity  Transfer  Protocol  Report  form  will  be  the  basis  for  
+calculation   of   the   emission   reductions.   The   joint   meter   reading  
+taken  at  the  transaction  point  is  witnessed  by  the  presence  of  P3B  
+officials  as  transmission  department  and  the  PP  representative  as  
+generation  department.  
+The  measurement  of  electricity  generation  will  be  conducted  on  a  
+continuous  basis,  where  monthly  data  is  recorded  and  continuous  
+total  electricity  measurement  will  be  available.  The  measurement  
+results  will  be  summarised  in  regular  production  reports.  
+The  accuracy  class  of  main  and  back  up  meter  is  0.2.  
+Frequency  of  
+monitoring/recording  
+Monitoring  is  continuous  with  monthly  recording  of  data.  
+Value  applied  1,140,000  
+Monitoring  equipment    
+  kWH  meter  
+  Type  Accuracy  Serial  
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+29  
+Class  Number  
+Unit  1  
+Digital   Watt-­hour   meter  
+type   ACTARIS   SL7000  
+(Main  Meter)  
+0.2  36027156  
+Unit  2  
+Digital   Watt-­hour   meter  
+type   ACTARIS   SL7000  
+(Main  Meter)  
+0.2  36027159  
+Unit  3  
+Digital   Watt-­hour   meter  
+type   ACTARIS   SL7000  
+(Main  Meter)  
+0.2  36027158  
+.  
+QA/QC  procedures  to  be  
+applied  
+The   QA/QC   will   be   conducted  through   cross-­checking   the  main  
+meter   reading   report  (Monthly   Electricity   Protocol  report)   at   the  
+transaction   point  with  the  Water  Tax  payment  receipt  issued  by  
+Bengkulu  Province  Tax  Office  (local  government).  
+The  main  meters  at  the  transaction  point  will  be  read  regularly  and  
+jointly  by  the  person  in  charge  from  PLN  Musi  HEPP  Generation  
+unit  and  PLN  Transmission  unit.  
+Meters  will  be  calibrated  on  every  5  yearly  basis  according  to  the  
+national  standard  or  other  documents.  
+Purpose  of  data  Calculation  of  baseline  emissions  
+Calculation  method  
+-­  
+Comments  -­  
+ 
+4.3  Monitoring  Plan  
+This  section  details  the  steps  taken  to  monitor  on  a  regular  basis  the  GHG  emissions  reductions  
+from  the  Musi  Hydroelectric  Power  Plant  Project  in  Indonesia  in  accordance  with  ACM0002  version  
+17.0.  
+The  Monitoring  Plan  for  this  project  has  been  developed  to  ensure  that  the  project  collects  and  
+archives  complete  data  from  the  very  start.  
+1.  Monitoring  organization  
+The   monitoring   team   has   been  established   and   integrated   within   the   existing   organization  
+structure  of  the  Musi  hydropower  plant  prior  to  the  start  of  the  verification.  Clear  roles  and  
+responsibilities  is  assigned  to  all  staff  involved  in  the  VCS  project  and  the  prospect  of  nominating  
+a  VCS  manager  have  been  considered.  The  VCS  manager  has  the  overall  responsibility  for  the  
+monitoring  system  on  this  project.  
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+30  
+All  other  VCS  monitoring  staff  have  clearly  defined  roles  and  responsibilities.  The  VCS  Manager  
+manages  the  process  of  training  new  staff,  ensuring  trained  staff  performs  the  monitoring  duties  
+properly,   and   ensuring   that   where   trained   monitoring   staff   are   absent,   the   integrity   of   the  
+monitoring  system  is  maintained  by  other  trained  staff.  
+A  formal  set  of  monitoring  procedures  is  established  prior  to  the  start  of  the  project.  These  
+procedures  will  detail  the  organization,  control  and  steps  required  for  certain  key  monitoring  
+system  features,  including:  
+a)  VCS  staff  training  
+b)  VCS  data  and  record  keeping  arrangements  
+c)  Data  collection  
+d)  VCS  data  quality  control  and  quality  assurance  
+e)  Equipment  maintenance  
+f)  Equipment  calibration  
+g)  Equipment  failure  
+  
+The  procedures  will  be  agreed  and  signed  off  by  PT  PLN  (Persero)  and  South  Pole  Carbon  
+Asset  Management  Ltd.  Any  changes  to  procedures  will  need  to  be  agreed  by  both  parties.  The  
+VCS  Manager  will  be  responsible  for  ensuring  that  the  procedures  are  followed  on  site  and  for  
+continuously  improving  the  procedures  to  ensure  a  reliable  monitoring  system  is  established.  
+2.  Monitoring  equipment  and  installation  
+Given  the  emission  factor  is  calculated  ex-­ante  and  according  to  the  Monitoring  Methodology  
+ACM0002  version  17.0,  the  only  data  to  be  monitored  is  electricity  supplied  to  the  grid  by  the  
+project  (detailed  in  section  4.2).  
+Metering  of  electricity  supplied  to  the  grid  
+The  main  electricity  meter  of  each  power  generation  unit  for  establishing  the  electricity  delivered  
+to  the  grid  (detailed  in  section  3.3)  is  installed  at  the  transaction  point  in  Musi  power  plant.  This  
+electricity  meter  will  be  the  main  meter  (revenue  meter)  that  measures  the  quantity  of  electricity  
+supplied   to   the   grid   that   will   be   paid   by   the   PLN.   As   this   meter   provides   the   main   VCS  
+measurement,  it  will  play  a  key  role  in  the  verification  process.  
+The  project  developer  owns  the  meter  and  is  responsible  for  its  maintenance  and  calibration,  as  
+stated  in  the  SOPs  agreed  upon  with  the  PLN.  PLN  and  its  representative  are  entitled  to  be  
+present  during  any  test,  inspection,  maintenance,  and  replacement  of  any  part  of  the  metering  
+system,  which  will  be  performed  by  the  meter  manufacturer  on  request  of  the  project  developer.  
+To  ensure  maximum  data  availability  and  to  introduce  data  quality  controls,  two  cross-­check  
+meters  are  installed  in  addition  to  the  revenue  meter  for  each  power  generation  unit.  Those  
+meters  are  located  at  the  Musi  power  station,  measuring  electricity  production  from  the  project  
+and  own  consumption.  
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+31  
+Electricity  meters  should  meet  the  relevant  local  standards  at  the  time  of  installation.  Before  the  
+installation  of  the  meters,  they  should  be  calibrated  by  the  manufacturer.  The  meters  will  be  
+installed   by   the   project   developer   according   to   the   following   national   Indonesian   standard  
+“Standard  Electricity  Meter  Equipment”.  Records  of  the  meter  (type,  make,  model  and  calibration  
+documentation)  is  shown  in  the  table  below.  
+Below  are  the  characteristics  of  the  kWh  main-­meters  at  Musi  HEPP  
+No.  Description  
+1.  Electricity   Meter   Transfer   1  from   power  
+generation  unit  1,  Musi  hydropower  plant  
+Type:  Actaris  type  SL  7000  
+Serial  Number:  36027156  
+Class:  0.2  
+Date   of   Calibration:  06/07/2012,  valid  
+until  06/07/2017  
+2.  Electricity   Meter   Transfer   2  from   power  
+generation  unit  2,  Musi  hydropower  plant  
+Type:  Actaris  type  SL  7000  
+Serial  Number:  36027159  
+Class:  0.2  
+Date  of  Calibration:  06/07/2012,  valid  
+until  06/07/2017  
+3.  Electricity   Meter   Transfer   3  from   power  
+generation  unit  3,  Musi  hydropower  plant  
+Type:  Actaris  type  SL  7000  
+Serial  Number:  36027158  
+Class:  0.2  
+Date  of  Calibration:  08/07/2012,  valid  
+until  08/07/2017  
+Equipment   will   be   calibrated   by   the   manufacturer  or   any   accredited   institution  according   to  
+relevant   local   standards   at   the   time  of   installation   and   maintained   in   accordance   with   the  
+manufacturer’s  recommendations  to  ensure  accuracy  of  measurements.  Records  of  the  meter  
+(type,  make,  model,  calibration,  and  maintenance  documentation)  will  be  retained  as  part  of  the  
+VCS  monitoring  system.  
+Quality  Control  
+The  main  meter  of  each  power  generation  unit  is  owned  by  the  project  developer  and  installed  
+at  the   transaction   point   of   PLN   grid.   The   project   developer   specifies   the   QC   procedure   for  
+measurement  and  calibration  to  ensure  the  measurement  accuracy  of  the  main  meter.  Periodic  
+checks  should  be  conducted  according  to  the  relevant  national  standard
+17
+.  In  the  event  of:  any  
+seal  securing  the  metering  system  is  broken,  the  system  fails  to  register,  or  the  measurement  
+result  is  found  (upon  testing)  to  vary  more  than  the  allowable  error  from  the  standard  meter  used  
+                                                
+17
+The  Ministry  of  Energy  and  Mineral  Resource’s  regulation  number  37  year  2008  dated  November  27,  2008  on  the  Grid  Code  Sumatra  
+Electricity  Power  System,  the  calibration  of  kWh  meter  must  be  done  every  5  (five)  years,  as  stated  in  the  Metering  Code  section,  MC  
+4.1.1  (Test  after  metering  code  commissioning,  page  138),  available  from:  
+http://jdih.esdm.go.id/peraturan/Permen%20ESDM%2037%202008.pdf  [Accessed  28  February  2018]  
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+32  
+in  the  test,  then  an  adjustment  shall  be  made  correcting  all  measurements  of  energy  made  by  
+the  metering  system,  as  described  in  the  PPA.  
+In  case  of  failure  of  the  main  meter,  production  meter  and  own  consumption  meter  which  also  
+located  at  generation  site  of  each  power  generation  unit  will  be  used  as  cross-­check  meters,  
+measuring  the  quantity  of  electricity  exported  from  the  project.  The  difference  between  electricity  
+produced  and  consumed  on-­site  shall  be  valid  for  claiming  carbon  credits.  In  the  special  case  
+of  total  failure  of  all  meters  no  credits  will  be  claimed  during  such  period.  
+During  monthly  monitoring  of  electricity  delivered,  the  main  meter  and  check-­meters  will  be  read  
+and   if   the   difference   between   the   respective   main   meter   and   check-­meters   exceeds   the  
+maximum  error  for  such  meters  then  all  meters  shall  be  tested  in  turn.  The  main  meter  shall  be  
+used  as  transfer  data  and  provide  a  letter  of  agreement.  
+During  testing,  if  all  meters  are  found  to  be  working  beyond  the  permissible  limits  of  error,  then  
+the  electricity  delivered  for  the  previous  billing  month  shall  be  corrected  to  account  for  this  error.  
+The   meters   shall   be   calibrated   and   data   will   be   calculated   manually.   However,   manually  
+calculated  electricity  production  will  not  be  used  to  claim  carbon  credits.  
+If  the  main  meter  is  found  to  be  within  the  permissible  limits  of  errors,  and  the  check-­meters  are  
+found  to  be  beyond  the  permissible  limits  of  errors,  the  main  meter  shall  be  used  for  electricity  
+delivered.  
+In  case,  the  main  meter  is  found  to  be  beyond  the  permissible  limit  of  error  but  check-­meters  
+are  found  to  be  within  the  permissible  limit  of  error,  then  check-­meters  reading  shall  be  used  for  
+electricity  delivered.  
+In  case,  both,  the  main  meter  and  the  check-­meters  are  found  to  be  beyond  the  permissible  limit  
+of  error,  then  the  meters  shall  be  replaced  with  spare  set  of  calibrated  meters.  
+The  electricity  delivered  for  this  period  (from  the  date  of  last  calibration)  shall  be  corrected  for  
+the  maximum  error  in  meters.  
+3.  Data  recording  procedure  
+The  procedures  for  collecting  the  electricity  meter  data  will  be  outlined  in  the  Standard  Operating  
+Procedure  signed  between  the  Generating  Unit  and  the  Transmission  Unit,  which  both  are  under  
+PLN.  
+All  relevant  data  will  be  archived  electronically  and  backed  up  regularly.  Uncertainty  will  be  
+considered  to  achieve  conservative  results.  Moreover,  it  will  be  kept  for  the  full  crediting  period,  
+plus  two  years  after  the  end  of  the  crediting  period  or  the  last  issuance  of  VCUs  for  this  project  
+activity  (whichever  occurs  later).  The  Monitoring  Plan  has  been  developed  to  ensure  that  the  
+project  has  robust  data  collection,  processing,  and  archiving  procedures.  
+Other  data  for  VER  procedures  will  be  managed  by  the  dedicated  VCS  Manager.  
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+33  
+EG  recording  procedure  and  Monthly  Electricity  Protocol  Report  (Berita  Acara):  
+•  Operating   and   maintenance   supervisor   (O&M   supervisor)   responsible   for   recording   the  
+amount  of  EG  exported  by  Generating  unit  as  the  result  from  kWh  meter  downloading.  
+•  Operating  and  maintenance  supervisor  responsible  for  constructing  the  electricity  generating  
+protocol  report  which  includes  calculation  of  net  electricity  delivered  to  PLN  transmission  unit.  
+This  report  has  to  be  reported  and  signed  by  Unit  Manager,  which  will  then  be  further  reported  
+to  the  Sector  Manager.  VCS  manager  will  have  the  copy  of  such  report  and  be  notified  as  
+well.  
+•  O&M  supervisor  with  other  authorized  staff  from  Generating  unit  will  attract  the  data  by  
+downloading  via  computer  from  the  kWh  electronic  meter  and  then  record  it  in  the  form  of  
+Monthly  Electricity  Protocol  (MEP)  which  shall  be  signed  by  both  Generating  unit  (PLN  Musi  
+Generating  Unit)   and   PT.   PLN   (transmission   unit).   The   joint   meter   reading   taken   at  the  
+transaction  point  is  witnessed  by  the  presence  of  P3B  officials  as  transmission  department  
+and  the  PP  representative  as  generation  department.  
+•  The  MEP  will  be  then  rechecked  by  authorized  person  from  transmission  unit  for  Bandar  
+Lampung  sector.  
+  
+After  all  such  information  is  rechecked  and  agreed  by  all  related  parties,  the  MEP  will  be  signed  
+by  all  authorized  parties  from  Generating  unit  and  Transmission  unit.  The  report  will  thus  be  sent  
+to  PLN  Palembang  as  headquarter  for  all  power  plant  units  in  Southern  Sumatra.  
+  
+Main  meter  failure  –  use  of  cross-­check  meter  data  
+If  the  main  electricity  meter  is  found  to  be  faulty  during  its  reading,  data  from  the  production  and  
+own  consumption  meter  will  be  used  in  its  place.  In  this  circumstance,  the  electricity  exported  to  
+the  grid  should  be  calculated  as  follows:  
+a)  The  data  from  the  production  and  own  consumption  meter  will  be  used  for  the  period  of  the  
+main  meter  failure  with  a  minor  adjustment  to  allow  for  transmission  losses.  
+b)  The   electricity   used   and   measured   for   own   consumption   should   be   deducted   from   the  
+produced  electricity  measured.  The  difference  will  be  equal  to  the  net  electricity  produced.  
+  
+Cross-­check  meter  failure  
+A  failing  cross-­check  meter  will  be  repaired  or  replaced  by  an  accredited  equipment  testing  
+organization  appointed  by  PLN.  Maintenance  records  and  any  calibration  documents  will  be  
+retained   by   the   project   and   ensured   by   the   operation   and   maintenance   supervisor   that   the  
+calibration  documents  comply  with  calibration  requirements.  In  case  of  a  cross-­check  meter  
+failure  simultaneously  to  a  main  meter  failure  no  electricity  produced  can  be  measured  and  
+therefore  no  credits  can  be  claimed.  
+  
+Possible  fault  with  either  meter  
+During  the  process  of  cross-­checking  the  electricity  data  from  the  meters,  a  difference  may  be  
+established  that  is  considerably  larger  than  the  historic  difference  (allowing  for  transmission  
+losses).  In  this  unlikely  event,  it  could  be  either  electricity  meter  at  fault.  The  data  recording  
+procedures  for  this  circumstance  will  be  specified  in  a  separate  procedure.  
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+34  
+  
+4.  Data  and  records  management  
+At  the  end  of  each  month  the  monitoring  data  needs  to  be  filed  electronically.  The  electronic  
+files  need  to  have  CD  back-­up  and/or  print-­out.  The  project  developer  needs  to  keep  electricity  
+sale  and  purchase  invoices.  All  written  documentation  such  as  maps,  drawings,  the  EIA  and  the  
+Feasibility  study,  should  be  stored  for  the  crediting  period  and  two  years  afterwards,  and  be  
+made  available  to  the  verifier  so  that  the  reliability  of  the  information  may  be  checked.  
+In  order  to  make  it  easy  for  the  verifier  to  retrieve  the  documentation  and  information  in  relation  
+to  the  project  emission  reduction  verification,  the  project  developer  should  provide  a  document  
+register.  The  document  management  system  will  be  developed  to  ensure  adequate  document  
+control  for  VCS  purposes.  
+The   dedicated   VCS   Manager   of   the   project   developer   is   responsible   for   checking   the   data  
+(according  to  a  formal  procedure)  and  the  VCS  Manager  will  be  responsible  for  managing  the  
+collection,  storage  and  archive  of  all  data  and  records.  A  procedure  will  be  developed  to  manage  
+the  VCS  record  keeping  arrangements.  All  the  data  shall  be  kept  until  two  years  after  the  end  of  
+credit  period.  
+5  SAFEGUARDS  
+5.1  No  Net  Harm  
+Based  on  approved  Environmental  Impact  Assessment  (EIA),  where  impacts  of  the  project  were  
+identified,  mitigation   measures   were   suggested   and   defined.   The   EIA   highlights   the   following  
+impacts  in  connection  with  the  project,  as  shown  in  the  table  below.  
+Table  3  -­  Summary  of  EIA  findings  
+Identified  Environmental  impacts  Measures  taken  
+Pre-­Construction  phase  
+Social  responsibility    
+Community   perception   related   to  
+project  consultation,   publicizing  and  
+resettlement.  
+Perform   discussion   with   local   community,  monitor  
+the  issues  that  develop  in  the  community.  
+Construction  phase    
+Air  and  noise  pollution    
+Increase   of  air   and   noise   pollution  
+due   to  increased   transportation   and  
+operation  of  heavy  equipment.  
+Restrict  the  use  of  heavy  equipment  operation  during  
+the  day,  build  project  fence  to  reduce  noise  pollution,  
+spray  water  to  avoid  dust  from  construction,  control  
+vehicle  emission  and  noise,  use  protective  masks  for  
+employees.  
+Water  pollution    
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+35  
+Identified  Environmental  impacts  Measures  taken  
+Change  in  surface  water  flow  due  to  
+land  clearing  and  covering.  
+Create  a  drainage  system  to  the  nearest  water  body,  
+perform   a   gradual   land   covering   based   on   project  
+phase,  and  execute  land  clearing  only  on  the  project  
+site.  
+Solid  waste    
+Construction    waste    from    the  
+transportation  of  soil  material.  
+Perform  continuous  cleaning  during  the  construction  
+period   to  remove   debris   and   deposit   them  
+appropriately.  
+Biodiversity  and  ecosystems    
+Change    in    biodiversity    due    to  
+alteration  in   land   and   water   body  
+conditions.  
+Reforest   and   restore   the   green   lands   after   the  
+construction,   maintain   the   minimum   river   flow   to  
+preserve  the  natural  biodiversity  within  the  river.  
+Employment  impacts    
+Utilisation  of  local  human  resources  
+Give  priority  to  local  employment  and  hold  special  
+training  to  enhance  the  local  community’s  skills.  
+Operation  phase    
+Water  pollution    
+Decrease  in  the  quality  and  quantity  
+of  water  due  to  the  wastewater  from  
+plant’s  activity  and  land  erosion.  
+Operate   wastewater   treatment   plant,   reforest   the  
+watershed  area.  
+Environmental    
+Related  to  the  project  operation  and  
+its  supporting  facility,  solid  waste  and  
+wastewater   from   the   surrounding  
+settlement.  
+Build  a  wastewater  treatment  facility,  execute  a  solid  
+waste   temporary   disposal   system,   create   a   waste  
+transportation  system.  
+Spatial  planning    
+Changing  in  spatial  planning  structure  
+due  to  project  activity.  
+Control  the  development  around  project  activity  by  
+enforcing  the  appropriate  planning  regulations.  
+Regional  image    
+Changing   in   regional   image   due   to  
+the  development  in  the  region.  
+Planning  controls  will  ensure  sensitive  development  
+of  the  region.  
+Traffic    
+Increase   traffic   activity   due   to   the  
+project’s  operational  activity.  
+Restore   the   trans-­Sumatra   main   road   and   set-­up  
+traffic  signs.  
+Health  and  Safety    
+Human  resources  needed  to  operate  
+the  project  and  its  facilities.  
+Provide   employment   opportunities   to   local   human  
+resources   following   high   Health   and   Safety  
+standards.  
+
+  PROJECT  DESCRIPTION:  VCS  Version  3 
+ 
+ 
+v3.3  
+ 
+36  
+Identified  Environmental  impacts  Measures  taken  
+Working  opportunity  and  income    
+Related  to  utilisation  of  local  human  
+resources.  
+Give   priority  to   the   admission   of  local   human  
+resources,  hold  special  training  to  enhance  the  local  
+community’s  skills.  
+Comfort    
+Uncomfortable   conditions   due   to  
+vehicle’s  activity  on  the  access  road  
+from  and/or  to  the  project.  
+Maintain  the  road  condition  by  setting-­up  traffic  signs  
+and  planting  trees  on  the  road  side.  
+Social  responsibility    
+Community   perception   related   to  
+project  operation  
+Contribution   to   the   surrounding   environment   by  
+building  school  and  local  health  service.  
+  
+With   mitigation   controls   planned   as   part   of   the   project   construction   and   EIA   process,   and   the  
+contribution  made  by  the  project  to  sustainable  development  for  the  local  and  national  area,  the  
+project  is  expected  to  have  an  overall  positive  impact  on  the  local  and  global  environment.  All  
+negative  environmental  impacts  are  subject  to  mitigation  measures  as  described  above.  
+5.2  Environmental  Impact  
+According  to  the  decree  of  the  Ministry  of  Environment  No.  17/2001,  all  hydroelectric  power  plants  
+with  a  dam  height  of  ≥  15  meters,  or  flooded  area  of  ≥  200  ha  or  installed  capacity  of  ≥  50  MW  need  
+to  undertake  an  Environmental  Impact  Assessment  (EIA).  The  Musi  Hydroelectric  Power  Plant  
+project  has  an  installed  capacity  of  total  210  MW  electricity  in  total  and  requires  an  EIA.  
+An  EIA  has  been  developed  for  this  project  and  approved  by  the  Department  of  Energy  and  Mining  
+in  1993.  
+5.3  Local  Stakeholder  Consultation  
+  
+A  meeting  with  relevant  stakeholders  which  was  held  on  6  May  2003,  including  the  village  chief  
+and  people  who  live  nearby,  within  the  project  boundary  of  Musi  hydro  power  plant  was  conducted  
+for  the  purpose  of  the  EIA.  As  documented  in  the  EIA,  the  local  stakeholders  have  perceived  that  
+the   construction   of   Musi   Hydro   has   increased   their   social   and   economical   life   due  to   road  
+construction,  additional  earning  from  temporary  jobs,  and  especially  due  to  the  additional  supply  of  
+electricity.  
+Outcome:  No  negative  comments  were  received  from  the  local  stakeholders  during  the  meeting.  
+They   did   not   object   to   the   project   activity   because   the   project   will   not   negatively   impact   the  
+surrounding  environment  or  people.  
+5.4  Public  Comments  
+N/A  

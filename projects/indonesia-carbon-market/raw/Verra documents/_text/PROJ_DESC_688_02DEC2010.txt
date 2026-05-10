@@ -1,0 +1,5444 @@
+
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 1 
+
+CLEANDEVELOPMENTMECHANISM
+PROJECTDESIGNDOCUMENTFORM(CDMPDD)
+Version03ineffectasof:28July2006
+
+CONTENTS
+
+A.    Generaldescriptionofprojectactivity
+
+
+B.    Applicationofabaselineandmonitoringmethodology
+
+C.    Durationoftheprojectactivity/creditingperiod
+
+D.    Environmentalimpacts
+
+E.    Stakeholders’comments
+
+Annexes
+
+Annex1:Contactinformationonparticipantsintheprojectactivity
+
+Annex2:Informationregardingpublicfunding
+
+Annex3:Baseline
+information
+
+Annex4:Monitoringplan
+
+
+
+
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 2 
+
+
+SECTIONA. Generaldescriptionofprojectactivity
+
+A.1.   Titleoftheprojectactivity:
+>>
+WayangWinduPhase2GeothermalPowerProject
+Version/03
+Dated02/12/2010
+
+VersionHistory:
+
+
+
+A.2.    Descriptionoftheprojectactivity
+:
+>>
+Theproposedprojectactivity,WayangWinduPhase2GeothermalPowerProject,istheconstructionand
+operationofa117MWgeothermalpowerstation,whichisanadditionalpowerunittoanexistinggrid/
+connectedrenewablepowerplant.
+
+TheWayangWinduPhase2geothermalpowergenerationproject,locatedattheWayangWindu
+allotmentat40kmsouthBandunginWestJava,Indonesia,willbeconstructedandoperatedbythesame
+Version
+number
+Datecompleted
+109January2009PDDversiontostartvalidation
+209March2009Revisionreflectingvalidationfindings
+2.131March2009Revisionreflectingvalidationfindings
+2.210July2009Revisionreflectingchangedaddressesofproject
+participantsandimprovementsinmonitoringsection
+2.322July2009Revisionreflectingimprovementsinthetimelinesection
+2.411Sept2009Revisionreflectingimprovementsinthecommonpractice
+section
+2.527Oct2009RevisionreflectingMethodologychangesfromACM0002
+ver8toACM0002ver9
+2.624Nov2009Revisionreflectingfurtherimprovementsinthetimeline
+section
+2.726Apr2010Revisionreflectingamendmentsintheinvestmentanalysis
+sectionandsometypoerrors
+302Dec2010ChangesaccordingtoEB58decisiontoregistertheproject
+withcorrections
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 3 
+
+operatorasWayangWinduPhase1,StarEnergyGeothermal(WayangWindu)Limited(“MNL”),a
+whollyownedsubsidiaryofStarEnergyHoldings.
+
+TheprojectisdevelopedunderanEnergySalesAgreementbetweenMNL,PTPertaminaGeothermal
+Energy(Persero),theIndonesianstategeothermalexplorationcompany,andPTPembangkitListrik
+Negara(“PLN”),thestateownedutilitycompany,thatgivesMNLtheexclusiverighttodevelopupto
+400MWofelectricitygeneratingcapacityontheWayangWinduallotment.
+
+WayangWinduPhase1hasbeenproducingpowersinceJune2000,delivering110MWofelectricity
+intothenationalgridthroughasinglebuyer,PLN.
+
+Theprojectactivityinvolvestheinstallationoftheadditionalmain117MWsteamturbineandperipheral
+equipmenttoenabletheturbinetobedrivenbythesteamproducedbytheWayangWindugeothermal
+fields.TheturbineisconnectedtoageneratorwhichwouldproducetheelectricitytotheJAMALIgrid,
+andhenceaddingtheelectricitycapacityoftheexistingWayangWinduPhase1.
+
+Thebaselinescenarioforthisprojectisthegenerationofelectricitybytheoperationofgrid/connected
+powerplantsandbytheadditionofnewgenerationsources.Intheabsenceoftheprojectactivity
+electricitywillcontinuetobegeneratedbytheexistinggenerationunitsintheJAMALIgrid.
+
+ThepurposeoftheProjectactivityisthegenerationofpowerusingareliableandrenewableresourcein
+placeofpowergenerationbyamoregreenhousegasintensivefuel/source.Theprojectwillreduce
+greenhousegasemissionsthroughthedisplacementoffossilfuelelectricitygenerationwithaclean,
+renewableenergysource.
+
+TheprojectiscurrentlyunderconstructionandtheexpectedcommercialoperationdateisMarch2009.
+Therearenoequipmentandsysteminoperationattheprojectsitepriortothecommencementofthe
+projectactivity.
+
+Project’scontributiontosustainabledevelopment
+
+Abrief description of the contribution of the project activity towardssustainabledevelopmentofthe
+localcommunityandthehostcountryisdiscussedhereunder.
+
+HostcountryDNArequiresSustainableDevelopmentCriteria
+1
+toaccomplishbyeveryCDMproject.
+Thecriteriaisdescribedasfollows:
+
+1. EnvironmentalSustainability–Practisingnaturalresourceconservationordiversification.
+Assuringandmaintaininglevelsoflocalcommunityhealthandsafety.
+2. EconomicSustainability–Assuringandmaintaininglocalcommunitywelfare.
+3. SocialSustainability–Assuringandmaintaininglocalcommunityparticipationintheproject
+andlocalcommunitysocialintegrity.
+4. TechnologicalSustainability–Technologytransferandenhancingthecapacityandutilisationof
+localtechnology.
+
+
+
+1
+Source:http://dna/cdm.menlh.go.id/.AccessedonJan9
+th
+2009.
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 4 
+
+Inadditiontotheabovecriteriaandindicatorsforsustainabledevelopment,theMinistryofEnergyand
+MineralResources(MEMR),throughitsResearchandDevelopmentCentreforEnergyandElectrical
+Technologyhasestablishedsustainabledevelopmentcriteriaspecificallyforenergy/relatedCDM
+projects(MinisterialDecreeNo.953.K/502003)
+2
+.
+
+Theenergysector’ssustainabledevelopmentprogramhasestablishedthefollowingsevencriteriawith
+whichCDMenergy/relatedprojectsneedtocomply:
+1. Providesupporttoimplementenergydiversificationandconservationprograms–increase
+utilizationofnon/oilresourcesorreduceenergyutilizationperproductionunit.
+ ImplementingWayangWinduPhase2willprovidesupporttoimplementenergy
+diversificationandconservationprogramsbyusinggeothermalenergy,anon/oil
+resource,toproduceelectricity.
+2. Providesupportforthedevelopmentofcleanenergyalternativesandtechnologies–lower
+concentrationsofNO
+x
+,SO
+x
+andGHGemissions.
+ Geothermalenergyisarenewableresource.Theexploitationofgeothermalenergy
+doesnotproduceNO
+x
+orSO
+x
+,andwillproducesubstantiallylessGHGemissions
+comparedtofossilfuelgeneratedelectricity.
+3. Providesupportforenvironmentalconservation–compliancewithenvironmentalregulations.
+ Indonesianlawrequiresthatenvironmentalimpactstudiesareundertakenforthe
+ProjectandpermitsissuedfortheconstructionandoperationoftheProject.The
+Projectwilladheretoalllocal,regionalandfederalrulesandregulations.
+4. Providesupportforlocaleconomicgrowth–increaseincomeofthelocalcommunityand/or
+localeconomicactivitiesinthevicinityoftheproject.
+ ThevastmajorityoftheemployeesatWayangWinduPhase2willbeIndonesianand
+thiswillprovidesupportforlocaleconomicgrowthbyincreasingincomeforthelocal
+communityintheformofincreasedbusinessactivities.Also,mostprocurementforthe
+ongoingoperationoftheplantwillbesourcedlocally.
+5. Maintaincurrentemploymentrateswithoutcessationofemployees–nolayoffsasresultof
+project.
+ TheProjectwillresultinthecreationofjobsaswellasmaintainingcurrent
+employmentrateswithoutcessationofemployees.
+6. Providesupportfortechnologytransfer–increaseutilizationoflocalhumanresourcesin
+qualityandquantity,providenewrolesforlocalworkforce,providecareerdevelopmentplans
+foremployees.
+ TheContractorwilltrainthelocalstafffortheProject,providingthemwithnewskill
+setsandenablingthemtochooseacareerintheirchosenfield.
+7. Provide‘communitydevelopment’programs–projectsshouldprovideclearandcertain
+communitydevelopmentplans.
+ TheProjectwillsupportcommunitydevelopmentbyprovidingimprovementstothe
+infrastructureinsurroundingcommunitiessuchaswatersuppliesandroads,and
+supportbasicandadvancededucationforthelocalschoolchildren.
+
+
+2
+Source:CDMCountryGuideforIndonesia,editedbytheInstituteforGlobalEnvironmentalStrategies2
+nd
+edition,
+2006.
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 5 
+
+
+A.3.   Projectparticipants:
+>>
+NameofPartyInvolved
+(*)((host)indicatesa
+hostParty)
+Privateand/orpublicentity(ies)project
+participants(asapplicable)
+IndicateiftheParty
+involvedwishestobe
+consideredasproject
+participant(Yes/No)
+RepublicofIndonesia
+(host)
+Private:StarEnergyGeothermal
+(WayangWindu)Limited(MNL)
+No
+UnitedKingdomofGreat
+BritainandNorthern
+Ireland
+
+Private:SindicatumCarbonCapitalLtdNo
+(*)InaccordancewiththeCDMmodalitiesandprocedures,atthetimeofmakingtheCDM/
+PDDpublicatthestageofvalidation,aPartyinvolvedmayormaynothaveprovidedits
+approval.Atthetimeofrequestingregistration,theapprovalbytheParty(ies)involvedis
+required.
+
+A.4.   Technicaldescriptionoftheprojectactivity:
+
+A.4.1.Locationoftheprojectactivity:
+>>
+A.4.1.1.HostParty(ies):
+>>
+RepublicofIndonesia
+A.4.1.2.Region/State/Provinceetc.:
+>>
+WestJava
+A.4.1.3.City/Town/Communityetc.:
+>>
+KecamatanPangalengan,40kmsouthofBandung
+
+
+A.4.1.4.Detailsofphysicallocation,includinginformationallowingthe
+uniqueidentificationofthisprojectactivity(maximumonepage):
+>>
+40kmsouthofBandung
+7°12′26.79′′S,107°37′44.12′′E
+
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 6 
+
+
+Figure1LocationofBandung
+
+Figure2LocationofWayangWindu
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 7 
+
+
+Figure3LocationoftheWayangWinduWellsandPlant
+
+
+Figure4WayangWinduGeothermalPlant(unit1)
+
+
+Figure5AirplaneImageofWayangWinduPlant
+(unit1+unit2atconstruction)
+
+
+A.4.2.Category(ies)ofprojectactivity
+:
+>>
+TheprojectactivityfallsunderCategoryI:EnergyIndustries(Renewable/Non/renewableSources).
+
+
+
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 8 
+
+A.4.3.Technologytobeemployedbytheprojectactivity:
+>>
+GeothermalenergyinWayangWinduisstoredinasteamreservoirwithintheearth’scrust.Dry
+saturatedsteamathighpressureisproducedatthesurfacefromwellsdrilledintothisreservoir.The
+steamisdeliveredtothepowergenerationfacilitiesthroughasteamgatheringsystem,tomovethe
+turbinebladesanddriveageneratorhencegeneratingelectricity.Exhauststeamfromtheturbineis
+condensedinadirectcontactcondenserandpartofthecondensedexhauststeamisre/injectedintothe
+geothermalreservoir,withtheremainingbeingevaporatedinthecoolingtowers.Theelectricity
+producedistransferredbytheloaddispatcherattheadjacentpowerswitchyardtothetransmissionlines
+locatedoutsidethepowerplant.
+
+Thepowerplantwillconsistofaconventionalgeothermalcondensingsteamturbinegeneratorwitha
+capacityof117MW.Energyofcondensationwillbetransferredtothecirculatingcoolingwatersystem
+inthesteamexhaustcondenserandwillsubsequentlyberejectedtoatmosphereinaconventional
+mechanicaldraughtcoolingtower.
+
+ListofMainEquipmentandSystems:
+ 117MWsteamturbine
+ 17,900m
+3
+/hourcondenser
+ Coolingtower
+ 137.5MVAMainGenerator
+ 150kV/13.8kVGeneratorTransformer
+ Scrubbers
+ Separator
+ PlantDCS(DistributedControlSystem)
+ SAGS(SteamfieldAboveGroundSystem)
+
+Thistechnologyistechnicallysoundandenvironmentallysafeasisdemonstratedbyhundredsofsimilar
+installationsaroundtheworld,includingIndonesia
+3
+.SumitomoCorporation,aJapanesecorporation,that
+wasselectedtoprovidetechnicalequipment,andtoperformallengineering,procurementand
+constructionservicesoftheProject.Knowledgetransferisensuredthroughacomprehensivetrainingfor
+StarEnergyGeothermal(WayangWindu)Limited,theOwner’soperationandmaintenancepersonnel.
+ThetrainingshallcovertheconfigurationandmaintenanceofallEquipmentandsystemsoftheProject
+designedandsuppliedbytheContractor.
+
+A.4.4.Estimatedamountofemissionreductionsoverthechosencreditingperiod
+:
+>>
+Years
+4
+
+Annualestimationofemissionreductionsintonnes
+ofCO2e
+1
+794,832
+2794,832
+3794,832
+
+3
+Pleaseseestep2undersectionB.5.ofthisPDDforlistofgeothermalplantsinIndonesia.
+4
+Basedon12/monthperiod
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 9 
+
+4794,832
+5794,832
+6794,832
+7794,832
+Totalestimatedreductions
+(tonnesofCO2e)
+5,563,824
+
+Totalnumberofcrediting
+years
+7
+Annualaverageoverthe
+creditingperiodofestimated
+reductions(tonnesofCO2e)
+794,832
+
+A.4.5.Publicfundingoftheprojectactivity
+:
+>>
+ThereisnopublicfundingfortheWayangWinduPhase2GeothermalPowerProject.
+TheprojectfinancingportioncomesfromStandardCharteredBankSingaporeandtheequityportion
+comesfromtheprojectowner’sshareholders.Thereforetheprojectactivityisnotusinganypublicfund.
+
+FundingoftheprojectwillbedisclosedtotheDOEduringvalidation.
+
+SECTIONB. Applicationofabaselineandmonitoringmethodology
+
+B.1.Titleandreferenceoftheapprovedbaselineandmonitoringmethodologyappliedtothe
+projectactivity:
+>>
+Title:Consolidatedmethodologyforgrid/connectedelectricitygenerationfromrenewablesources–
+Version9(ACM0002)
+Reference:Thismethodologyalsousesthebuildmargin(BM)andoperatingmargin(OM)approachas
+specifiedin“Tooltocalculatetheemissionfactorforanelectricitysystem”(Version01.1)andalso
+referencesthe
+“Toolforthedemonstrationofadditionality”(Version5.2)
+”TooltocalculateprojectorleakageCO2emissionsfromfossilfuelcombustion”(Version02)
+
+B.2.Justificationofthechoiceofthemethodologyandwhyitisapplicabletotheproject
+activity:
+>>
+ACM0002(Version9)–“Consolidatedmethodologyforgrid/connectedelectricitygenerationfrom
+renewablesources”isapplicabletotheProjectasallconditionsweresatisfiedbytheProject.Detailed
+analysisasfollows:
+
+ApplicabilityConditionApplicabilitytotheprojectactivity
+Theprojectactivityistheinstallationor
+modification/retrofit  of  a  power
+plant/unitofoneofthefollowingtypes:
+hydropowerplant/unit(eitherwithrun/
+Theprojectactivityistheinstallationofanadditionalpower
+unitatanexistinggrid/connectedgeothermalpowerplant.
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 10 
+
+of/river reservoir or an accumulation
+reservoir),  wind  power  plant/unit,
+geothermal  power  plant/unit,  solar
+powerplant/unit,wavepowerplant/unit
+ortidalpowerplant/unit.
+The geographic and systemboundaries
+for the relevant electricity grid can be
+clearly identified and information on
+the characteristics of the grid is
+available.
+ThegeographicandsystemboundaryfortheJAMALIgridis
+clearlyidentifiedandinformationonthecharacteristicsofthe
+gridispubliclyavailable.
+Project activities that do not involve
+switchingfromfossilfuelstorenewable
+energysourcesatthesiteoftheproject
+activity, since in this case the baseline
+may be continued use of fossil fuel at
+thesite.
+The project does not involve switching from fossilfuels to
+renewable energy sources at the site of the project activity
+since the project activity is the installation of an additional
+power unit at an existing grid/connected geothermal power
+plant.
+
+Onthebasisoftheaboveallapplicabilitycriteriaaremet.
+
+B.3.Descriptionofthesourcesandgasesincludedintheprojectboundary:
+>>
+
+Figure6SimplifiedProcessFlowDiagram
+Monitoring
+points
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 11 
+
+
+CH
+4
+andCO
+2
+willbeemittedfromthenon/condensablegasescontainedinthegeothermalsteam.CO
+2
+willalsobe
+emitted from combustion of fossil fuels in the emergency diesel power generation set and diesel fire pump.
+MonitoringpointsandmonitoringvariablesaredescribedinSectionB.7.1.
+
+SourceGas   Included?Justification/Explanation
+Baseline
+CO
+2
+emissionsfrom
+electricitygeneration
+infossilfuelfired
+powerplants
+displacedduetothe
+projectactivity.
+CO
+2
+YesMainemissionsource.
+CH
+4
+NoMinoremissionsource.
+N
+2
+O  No
+Minoremissionsource.
+Project
+Activity
+Forgeothermal
+powerplants,fugitive
+emissionsofCH
+4
+and
+CO
+2
+fromnon/
+condensablegases
+containedin
+geothermalsteam.
+CO
+2
+  YesMainemissionsource.
+CH
+4
+  YesMinoremissionsource.
+N
+2
+O  No
+Minoremissionsource.
+Forgeothermal
+powerplants,CO
+2
+
+emissionsfrom
+combustionoffossil
+fuelsrequiredto
+operatethe
+geothermalpower
+plant
+CO
+2
+  Yes
+Mainemissionsource
+CH
+4
+  No
+Minoremissionsource
+N
+2
+O  No
+Minoremissionsource
+
+B.4.Descriptionofhowthebaselinescenarioisidentifiedanddescriptionoftheidentified
+baselinescenario:
+
+>>
+BasedonACM0002version09,astheprojectactivityistheinstallationofanadditionalpowerunitatan
+existinggrid/connectedrenewablepowerplant/unit,thebaselinescenarioisthefollowing:
+
+IntheabsenceoftheCDMprojectactivity,theexistingfacilitywouldcontinuetoprovideelectricityto
+thegridathistoricalaveragelevels,untilthetimeatwhichthegenerationfacilitywouldlikelybe
+replacedorretrofitted.Fromthatpointoftimeonwards,thebaselinescenarioisassumedtocorrespond
+totheprojectactivity,andbaselineelectricityproductionisassumedtoequalprojectelectricity
+production,andnoemissionreductionsareassumedtooccur.
+
+Electricitydeliveredtothegridbytheprojectwouldhaveotherwisebeengeneratedbytheoperationof
+grid/connectedpowerplantsandbyadditionofnewgenerationsources,asreflectedinthecombined
+margin(CM)calculationsinsectionB.6.1.baseduponthe“Tooltocalculatetheemissionfactorforan
+electricitysystem.”(Version01.1)
+
+
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 12 
+
+B.5.DescriptionofhowtheanthropogenicemissionsofGHGbysourcesarereducedbelow
+thosethatwouldhaveoccurredintheabsenceoftheregisteredCDMprojectactivity(assessment
+anddemonstrationofadditionality):
+>>
+Thefollowingstepsareusedtodemonstratetheadditionalityoftheprojectaccordingtothelatest
+versionofthe“Toolforthedemonstrationandassessmentofadditionality”(version05.2).
+
+TimelineofEventsandActionsforCDMConsiderationandProjectImplementation
+
+DateCDMActivitiesProjectImplementation
+2/Dec/1994
+
+WWJOCbetweenPerusahaan
+PertambanganMinyakdanGasBumi
+Negara(called“Pertamina”)and
+MandalaMagmaNusantara,B.V
+(MNL)
+2/Dec/1994
+
+WWGeothermalESCamongPT
+PLN(Persero)andPertambangan
+MinyakdanGasBumiNegara(called
+“Pertamina”)andMandalaMagma
+Nusantara,B.V(MNL).
+May/1997
+
+EPCcontractwithSumitomofor
+WayangWinduUnit1and2.The
+contractwasstructuredin“phases”to
+allowfinancialcommitmenttothe
+projecttobeconfirmedinsteps,as
+thegeothermalsteamwasproven.
+
+FirstPlant(orCombined)Phaseof
+theEPCcontractincludedbasic
+infrastructureforbothUnits1and2;
+SecondPlant(orCombined)Phaseof
+theEPCcontractincludedtheUnit1
+turbinegeneratorfacilities;
+ThirdPlant(orCombined)Phaseof
+theEPCcontractincludedtheUnit2
+turbinegeneratorfacilities.
+
+June/1997
+
+IssueofNoticetoProceedforFirst
+CombinedPhaseoftheEPC
+Contract.
+FirstPhaseisthebasicinfrastructure
+inclroads,office,powerstation
+building.
+Aug/1997
+
+IssueofNoticetoProceedforSecond
+CombinedPhaseoftheEPC
+Contract.
+SecondCombinedPhaseincludes
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 13 
+
+Unit1equipment.Sufficientsteam
+wasobtainedtoconfirmtoproceed
+withUnit1.
+Sept/1997
+
+DecreefromIndonesianGovernment
+formallyadvisedallIPPdevelopers
+toceasethedevelopmentofnew
+facilitiesduetotheAsianEconomic
+CrisiswiththeexceptionofWayang
+WinduUnit1andDarajatUnit2.
+TheAsianEconomicCrisisleadsto
+theCrashofRupiahcurrencyagainst
+USDollar.SincePLN’smain
+contractswereinUSDollarsbut
+incomewasinRupiah,thecurrency
+crashcausedseveretraumaforPLN
+andtheGovernmentofIndonesia.
+Mar/1998
+
+FormalDeletionoftheThird
+CombinedPhaseoftheEPC
+Contract.
+ThirdCombinedPhaseincludesUnit
+2equipment
+5
+.
+Nov/1999
+
+DeemedPerformanceTest
+CompletionofUnit1.Transmission
+linehadnotbeencompletedbyPLN,
+hencecontractrequiredtheOwnerto
+issuea“deemedcompletion”.
+6
+
+Mar/2000
+
+FormalSettlementAgreementto
+closetheUnit1EPCContract
+May/2000
+
+CompletionofTransmissionlinesby
+PLN.
+June/2000
+
+CommercialOperationofUnit1
+2000
+
+GovernmentofIndonesiainsistedon
+there/negotiationdownwardsofthe
+electricitytariffs
+7
+
+2001
+
+CreditSuisseFirstBoston(CSFB)
+andDeutscheBank(DB)tookover
+MNLasdebtsettlement
+31/Jan/02
+EvidencethatWayangWinduUnit2
+participatedintheCERUPTtenderand
+subsequentcorrespondenceshowingthe
+substantialamountoftimeandeffortputto
+meettherequirementsoftheCERUPT
+
+
+5
+RefertoSettlementAgreement,page3,item2(a).
+6
+RefertoSettlementAgreement,page1,secondparagraph.
+7
+3.5c/kWhoftheinterimtariffbasedonthe“InterimAgreement”betweenPLN&MNL 
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 14 
+
+program.
+24/Jun/02
+SignedConsultingServicesAgreement
+betweenUnocalGeothermalofIndonesiaand
+ICFResourcestocarryoutthebaselinestudy
+inordertomeetthecriteriaforCDMproject
+validationsetforthbytheUNFCCC.
+
+12/Jul/02
+SignedConsultingServicesAgreement
+betweenUnocalGeothermalofIndonesiaand
+PTDames&MooreIndonesiatoprovide
+UnocalwithservicesasaUNFCCCaccredited
+validatorinordertomeetthecriteriaforCDM
+projectvalidationsetforthbytheUNFCCC.
+
+22/Aug/02and
+subsequent
+correspondence
+CorrespondencewithIndonesianMinistryof
+EnvironmentandIndonesianMinistryof
+EnergyandMineralresources:
+/RequestingtheapprovalfromGovernmentof
+IndonesiafortheapprovalofWayangWindu
+Unit2ProjectProposal
+/MentioningthattheCDMbaselinestudyfor
+WayangWindu2isbeingauditedbya
+validator(thatisseekingaccreditationbythe
+CDMExecutiveBoard)
+/SubsequentcorrespondencetoPLN,
+Pertamina,CDMNationalTeamEnergy
+Sectoraboutthevalidatedbaselinereportfor
+WayangWinduUnit2
+/ReplyfromIndonesianMinistryof
+EnvironmentthatGOIapprovalcouldnotbe
+issuedyetasIndonesiahasnotyetratifiedthe
+KyotoProtocol
+
+09/Sep/02
+PreliminaryValidation/independent
+assessmentofWayangWindu2asaCDM
+projectfromURS(Environmentaland
+EngineeringProfessionalServicesProvider)
+mentionedthatthebaselinestudyforthe
+WayangWindu2projectmeetstheCDM
+requirementsassetforthbytheUNFCCCand
+CERUPTguidelines
+
+14/Sep/02
+LetterfromIndonesianEnergy&Mineral
+ResourcesR&DCentretoEnergyandMineral
+ResourcesResearchandDevelopmentAgency
+(IndonesianDepartmentofEnergyand
+MineralResources)concludingthatWW2is
+eligibletobeprocessedasCDM/CERUPT
+Project
+
+23/Sep/02
+SubmissionofCERoffertoTenderAuthority
+ofSenter,DutchGovernmentAgency.
+
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 15 
+
+Contractualandfinancinguncertaintieswere
+mentioned,andCERvalueisviewedasthe
+keytoovercomethebarriers.
+01/Oct/02
+SignedCDMAgreementbetweenMNLand
+YBUL(CDMDeveloper)
+
+16/Dec/03
+WithdrawalofCERUPTofferasagreementon
+thecontentsofthecontractcannotbe
+reached
+
+Nov/04StarEnergyacquired100%ofthe
+ownershipofMNLfromCSFB,DB,
+andUnocal
+17/Jun/05
+DraftProposedTermsofReferencefromPT
+PranataEnergyNusantara(PENConsulting)
+
+04/July/05
+OffertodevelopCDMprojectforWayang
+WinduUnit2ProjectundertheConsortiumof
+PTPranataEnergyNusantara(PEN
+Consulting),YayasanPelangiIndonesiaand
+EcoSecuritiesandthesubsequent
+correspondence
+
+04/Jul/05
+SenterReaplicationLetterfromMagma
+NusantaraLtdafterthecompanyhasbeen
+purchasedbyStarEnergy.
+
+11/Jul/05
+PurchasecontractforTubular
+componentsforgeothermaldrilling
+21/Nov/06
+AmendmenttotheWayangWindu
+EnergySalesContract(ESC)and
+AmendmenttotheWayangWindu
+JointOperationContract(JOC)
+UntilDec06
+ConsolidationofoperationsofWayangWindu
+bythenewowner(StarEnergy)and
+discussionoffurtherdevelopmentpotential
+accordingtoexistingutilisationrightsfor
+geothermalenergy
+
+Dec/06EnvironmentalduediligencereportfromERM
+30/Jan/07
+EPCContractforpowerplantand
+steampipeline(consideredasthe
+startingdateoftheprojectactivity)
+04/Apr/07
+WayangWindu2EquityandCarbon
+CreditDiscussionwithStandard
+CharteredBank
+03/May/07
+AccountsAgreementbetweenthe
+projectownerandStandard
+CharteredBank.Carboncreditis
+mentionedaspartsofthereceiptsof
+themoneytobereceivedbythe
+projectowner
+31/May/07and  LetterfromEcosecuritiesaboutthepossibility  
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 16 
+
+subsequent
+correspondence
+ofofferadjustmenttowardsMNL’scarbon
+assetsfromWayangWindu2&subsequent
+correspondence/meetings
+13/Jun/07
+FinancialclosurewithStandard
+CharteredBank
+14/Jun/07
+FinalnoticetoproceedtotheEPC
+Contractor
+18/July/07
+InternaldocumentregardingPositionpaperon
+CarbonCredits,mentioningthatoverthepast
+12monthsMNLhasformallyandinformally
+beenapproachedbyupto10companies
+relatedtothetradingoffuturecarboncredits.
+Seriousconsiderationshavebeengivento
+EcosecuritiesandClimateChange
+Capital/StandardCharteredBank,andthe
+paperrecommendingtosignanagreement
+withClimateChangeCapital/Standard
+CharteredBank
+7/Aug/07
+UtilizationRequestCreditFacility
+Arrangement
+8/Aug/07and
+subsequent
+follow/up
+DraftLetterofExclusivityfromClimate
+ChangeCapital
+Oct07
+PresentationregardingCarbonFinance
+SupportforGeothermalDevelopmentby
+WorldBank
+UntilSept08
+Projectownerwasindiscussionwithafew
+CDMConsultantsbeforefinallyworkingwith
+SindicatumCarbonCapitalforthePDD
+preparationandvalidation.
+9Jan09Startofvalidationprocess
+Mar/09CommercialOperationDate
+
+Evidencefortheaboveeventsandactionswillbeavailableduringvalidation.
+
+BasedonthelatestGlossaryofCDMterms(Version05),startingdateofaCDMProjectactivityisthe
+earliestdateatwhicheithertheimplementationorconstructionorrealactionofaprojectactivitybegins.
+
+ThedevelopmentofWayangWinduUnit1wasundertakenonthebasisofthedevelopmentofUnits1
+and2asanintegratedEngineer,Procure,Construct(EPC)ContractwithSumitomoCorporationofJapan
+in1997.Thecontractwasstructuredin“phases”toallowfinancialcommitmenttotheprojecttobe
+confirmedinsteps,asthegeothermalsteamwasproven.
+
+FirstPlant(orCombined)PhaseoftheEPCcontractincludedbasicinfrastructureforbothUnits1and2;
+SecondPlant(orCombined)PhaseoftheEPCcontractincludedtheUnit1turbinegeneratorfacilities;
+ThirdPlant(orCombined)PhaseoftheEPCcontractincludedtheUnit2turbinegeneratorfacilities.
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 17 
+
+InpracticePhases1and2werecompletedbutPhase3wasneverawardedduetotheimpactoftheAsian
+economiccrisisof1997/98/99.
+8
+
+
+ThebasicinfrastructureconductedforUnit2intheperiodof2000UnitincludestheUnit2turbine/
+generatorfoundationwork(14meterdepth),foundationsfortheUnit2CoolingTowersteelmaterialsfor
+theUnit2rotorandCondenser.Thesefoundationswereintegralwiththepowerhousewhichwasneeded
+fortheUnit1project,anddidnotimplyanycommitmenttothedevelopmentofasecondUnit.Unit1
+startedoperationasstand/alonepowerplantwithanoverdimensionedpower/houseandsomefewunused
+materials,afactthatincreasedcostswithoutanyreturnfortheoriginalowners.
+
+Toreinforcethis,in1997theGovernmentofIndonesiaformallyadvisedallIPPdeveloperstoceasethe
+developmentofnewfacilitiesduetotheAsianEconomicCrisiswiththeexceptionofWayangWindu
+Unit1andDarajatUnit2
+9
+.ThisalsoresultedintheGovernmentinsistingonthere/negotiation
+downwardsoftheelectricitytariffs.Hence,whenStarEnergytookovertheownershipofMNLin
+November2004,thefirstactivitywhichhadtobeundertakenwastheformalrenegotiationofthe
+electricitytariff.Oncecompleted,inNovember2006,MNLwastheninapositiontomakeadecision
+abouttheeconomicsofthedevelopmentofUnit2.Itisshownwithinthefinancialanalysisbelowthat/
+althoughbasicinfrastructurewasalreadyinplace–theremainingcostsforcompletionofunit2would
+nothaveenabledaprofitableoperationoftheprojectactivitywithouttheconsiderationofCDM.All
+costsforjointinfrastructureandpreparatoryworkshavebeenexcludedfromthisanalysistherefore
+ensuringitsconservativeness.Hencetheprojectactivityisconsideredascapacityadditiontoanexisting
+powerplant.
+
+Theearliestdateatwhichtheimplementation,construction,andrealactionoftheprogrammeactivity
+beganwason30January2007,whenthecontractfortheEngineering,Procurement,andConstructionof
+theprojectwassigned.Thisistakenasthestartingdateoftheprojectactivity.Financialclosureofthe
+projectactivitywasevenachievedinJune2007only,afterconvincingStandardCharteredBankofthe
+suitabilityofaconceptincludingcarbonrevenues,andfinalnoticetoproceedtotheEPCcontractorwas
+issuedafterthefinancialclosureinJune2007.
+
+Step1:IdentificationofAlternativestotheProjectActivityConsistentwithCurrentLawsand
+Regulations
+
+Definerealisticandcrediblealternativestotheprojectactivity(s)throughthefollowingSub/steps:
+
+Substep1a:DefineAlternativestotheProjectActivity:
+
+Inthisstep,allrealisticandcrediblealternativescenariostotheprojectactivitywillbeidentified.The
+alternativesavailabletotheprojectparticipants
+
+Belowarethedescriptionsofallrealisticandcrediblealternativesthatareavailabletotheproject
+participants.
+
+
+
+8
+RefertoSettlementAgreementdated8March2000,page3,item2(a).
+9
+PresidentialDecree/KEPPRESNo39/1997aboutcessation/reevaluationofprojectsbythegovernment,state/
+ownedcompanies,andrelatedprivatecompanies
+ 
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 18 
+
+AlternativePlausibility
+Theproposedprojectactivityimplementedwithout
+CDMfinancing,i.e.theconstructionofan
+additionalgeothermalpowerunitwithaninstalled
+capacityof117MWconnectedtothelocalgrid,
+implementedwithoutCDMrevenues.
+Notplausibleduetotheuneconomicreturns.
+Constructionofathermalpowerplantwiththe
+sameinstalledcapacityorthesameannualpower
+output.
+
+Notplausible.Projectownerhasnocompetencies
+inconstructionandoperationofthermalpower
+plants.Hence,thisisnotaplausiblealternativeto
+theprojectowner.
+Continuationofthecurrentsituation,i.e.electricity
+willcontinuetobegeneratedbyexisting
+generationmixoperatingintheJAMALIgrid,with
+capacityadditionsasplanned.
+Plausible,consideredasthebaselinescenariofor
+theproject.
+
+Fromtheaboveanalysis,theonlyrealisticandcrediblealternativetotheprojectactivityisthe
+continuationofthecurrentsituation,i.e.electricitywillcontinuetobegeneratedbyexistinggeneration
+mixoperatingintheJAMALIgrid,withcapacityadditionsasplanned.
+
+Substep1b:ConsistencywithMandatoryLawsandRegulations
+
+Thealternatives,i.e.constructionofanadditionalgeothermalpowerunitconnectedtothelocalgrid,
+constructionofathermalpowerplantandcontinuationofthecurrentsituation(electricitywillcontinue
+tobegeneratedbyexistinggenerationmixoperatingintheJAMALIgrid,withcapacityadditionsas
+planned)areincompliancewithallmandatoryapplicablelegalandregulatoryrequirements.
+
+Step2:InvestmentAnalysis
+
+ThisstepwilldemonstratethattheproposedCDMprojectactivityisunlikelytobefinanciallyattractive
+by applying sub/step 2b (Option III: Apply Benchmark Analysis), sub/step 2c (Calculation and
+Comparison of Financial Indicators), and sub/step 2d (Sensitivity Analysis) of theTool for the
+DemonstrationandAssessmentofAdditionality(Version05.2)approvedbytheCDMExecutiveBoard.
+
+Substep2a:DetermineAppropriateAnalysisMethod
+
+Benchmarkanalysis(OptionIII)ischosen.
+
+Substep2b:OptionIII.ApplyBenchmarkAnalysis
+
+ToestimateaRequiredRateofReturn(“RRR”),asspecifiedinSub/step2b,intheCDM
+MethodologicalTool(Version05.2),arelevantweightedaveragecostofcapital(“WACC”)wasselected
+asanappropriatebenchmark.WACCisacalculationofthefirm’scostofcapitalbyproportionally
+weighingeachsourceofcapital(debtandequityinthiscase),asperstartingdateoftheprojectactivity,
+i.e.whensigningtheEPCcontract.Thecostofcapital(ke)wascalculatedusingtheCapitalAsset
+PricingModel(“CAPM”),whichisinlinewiththemethodexplainedinthe“InvestmentValuation”
+bookbyA.Damodaran(“Damodaran”).
+ TheCAPMdescribesthecostofequityforacompany’sstockas
+equaltotherisk/freerateplusapremiumthatinvestorsexpectforbearingthesystematicriskinherentin
+thestock.Systematicriskemanatesfromexternal,macroeconomicfactors,whichaffectallassetsina
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 19 
+
+particularwayalbeitwithdifferentmagnitudes.Thesizeofthepremiumisproportionatetothedegreeof
+volatilityofthecompany’sstockversusthemarketportfolio.
+
+Althoughtheprojectactivityisacapacityaddition,andthereforecanonlybeimplementedbyStar
+EnergyGeothermal(WayangWindu)Limited(orMagmaNusantaraLimited),thecompanyinternal
+benchmark(WACCoftheprojectcompany)isnotusedinthisproject.Thisisbecausetherewereno
+projectactivitiesundersimilarconditionsdevelopedbytheprojectownerbytheinvestmentdecision
+period.Thus,nocompany/specificbenchmarkcanbeapplied.
+
+WACCandCAPMareexpressedarithmeticallybythefollowingequation:
+
+
+Value Description 
+r
+f
+4.84%
+10
+Risk/freerateofreturn
+βlevered3.36β=βu*(1+(1/t)*(d/e))
+βunlevered1.69
+11
+
+Beta;investmentorsector/specificriskfor
+correlationtothemarket
+R
+P
+/λ4.79%EquityRiskpremium
+Λ4.50%
+12
+CountryRiskPremium
+TotalRisk
+Premium
+9.29%
+13
+
+
+Equity Risk  Premium + Country Risk
+Premium
+CostofEquity36.02%K
+e
+=r
+f
++β
+L
+x(RiskPremium)
+Costofdebt7.59%Unit1BondInterest–TaxRate
+Debt60%
+Equity40%
+D/Eratio1.50Debt:Equity
+T34%
+14
+AgreedTaxRate
+WACC
+18.96%
+(CostofDebt*Debt)+(CostofEquity*
+Equity)
+
+TheapplicationoftheaboveassumptionstotheWACCresultinginasufficientinvestmentdecisionfora
+powerbusinessinIndonesiaof18.96%.ThedetailcalculationoftheWACCwillbeavailableduring
+validation.
+
+Explanationtotheassumptionsusedinthecalculationsabove:
+
+Costofdebt
+:
+Calculatedbasedonthepre/taxcostofdebtof11.5%whichhasbeenderivedfromtheBankIndonesia
+(BI) rate in January 2007 of 9.5% (http://www.bi.go.id/web/id/Moneter/BI+Rate/Data+BI+Rate/)
+increasedby2%(200basispoints)correspondingtothemarginchargedbythecommercialbanks.
+
+Debttoequityratio:
+
+
+10
+Source:BloombergUS30/yeartreasurybondforJanuary2007
+11
+Source:Damodaran2007
+12
+Source:DamodaranCountryRiskPremiumValuesfor2007http://pages.stern.nyu.edu/~adamodar/
+13
+Source:DamodaranDatasets/RiskPremiumsforOtherMarketsfor2007http://pages.stern.nyu.edu/~adamodar/
+14
+Source:WayangWinduJointOperationContractbetweenPerusahaanPertambanganMinyakdanGasBumi
+NegaraandMandalaMagmaNusantara,B.V,article9.1andtheIndonesianGovernmentDecreeNo.49/1991
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 20 
+
+Inaccordancewiththeadditionalitytool,thefinancial/economicanalysisshallbebasedonparameters
+thatarestandardinthemarket,consideringthespecificcharacteristicsoftheprojecttype,butnotlinked
+tothesubjectiveprofitabilityexpectationorriskprofileofaparticularprojectdeveloper.Thus,thedebt
+toequityratioconsideredas60:40whichisalsostandarddebttoequityratioindevelopingcountriesis
+used
+
+Costofequity:
+ThecostofequityhasbeendeterminedusingtheCapitalAssetPricingModel(CAPM).TheCAPM
+approachtoriskanalysiscalculatestheriskpremiumassociatedwiththespecificriskinvolvedina
+particularproject.Theriskinessiscalculatedbymeansofthebetaandthisbetameasurestherelative
+riskinessoftheproposedprojectactivity.TheCAPMassessesrisksatamarketlevelandnotbylooking
+atanindividual’sriskpreferencesandthereforeissufficienttoanalyzetheappropriaterateofreturn
+necessarytocompensateinvestorsfortheriskfacedintheproposedprojectactivity.
+
+Riskfreerate:
+
+Theriskfreeratehasbeentakenastheaverageofthe30yearsUSTreasurybondratesforJanuary
+2007correspondingtothestartdateoftheprojectactivityandtheexpectedlifetimeoftheproposed
+projectactivity.WhiletheproposedprojectactivityisbasedinIndonesia,theUSriskfreerateis
+appropriatebecausetheprojectactivityisalmostexclusivelyexposedtoUSDollar(“USD”)transactions;
+bothforitscostsandrevenues,andtheforecastedcashflowsusedinthecomputationarealsoinnominal
+USDterms.TheapproachofusingaUSDdenominatedriskfreerateisconsistentwiththecitationin
+Damodaranpage156thatstates“Therisk#freerateusedtocomeupwithexpectedreturnsshouldbe
+measuredconsistentlywithhowthecashflowsaremeasured.Thus,ifcashflowsareestimatedin
+nominalUSdollarterms,therisk#freeratewillbetheUSTreasurybondrate.Thisalsoimpliesthatitis
+notwhereafirmisdomiciledthatdeterminesthechoiceofarisk#freerate,butthecurrencyinwhichthe
+cashflowsonthefirmareestimated.”
+  
+Thequotedsourceinthismatteristhemostrelevant,consideringthatseveralothercomponentsofthe
+calculationsusedarederivedfromDamodaran’sbooksandresearch.
+Furthermore,whencalculatingthecostofequityintheproposedprojectactivity,thecountryrisk
+premiumisalreadyincludedintheapplicableequityriskpremiumandthereforeUSTreasuryBondrate
+wouldbethemostappropriatefiguretobeappliedinthiscontext.UsingtheIndonesiangovernment
+bondrate,whichalsoincludesthecountryrisk,wouldleadtodoublecountingofthecountryrisk.This
+conceptisfurtherexplainedinDamodaranonPage167.
+
+Beta:
+
+ThebetavalueforthepowersectorreferringtothevaluesprovidedbyDamodaranOnline
+(http://www.stern.nyu.edu/~adamodar/pc/archives/betas07.xls)referenceIndexforyear2007.The
+quotedsourceinthismatteristhemostrelevant,consideringthatformuladerivedwasquotedfromhis
+booksandresearch.Tobeconservative,thebetavalueisreferencedfromtheyear2007(insteadofthe
+published2006datainJan2007);asthevalueselectedislowerthanthebetavalueinyear2006of2.05
+(http://www.stern.nyu.edu/~adamodar/pc/archives/betas06.xls).
+TheappropriatenessofusingtheUSbetaratherthanusinganyemergingmarketspecificbetabasedon
+followingreasoning(explainedinDamodaranpage189):
+1. Indonesiaisconsideredtobeanemergingmarket,wheretheequitymarketsrepresentasmall
+proportionoftheoveralleconomyandthehistoricalreturnsinthemarketareavailableonlyfora
+shortperiod.
+2. TheannualstockreturnsfromtheIndonesianStockExchangehaveverylargestandard
+deviations;
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 21 
+
+3. ThecompositionoftheindicesfortheIndonesianStockExchangethatmeasuremarketreturns
+aredominatedbyafewlargecompanies.
+
+Furthermore,theUSpowersectorbetahasbeentakenasthemostappropriatereferenceforthepower
+sectorbetainthecostofequitycalculationastheUSmarketoffersthemostrobustdatasetavailable.It
+shouldalsobenotedthatbetasfromthecomparablecompaniesinIndonesiaarenotavailable.Jakarta
+CompositeIndex(JCI)andLQ45(astockmarketindexfortheIndonesianStockExchange)haveonlya
+singleenergycompanynamelyPerusahaanGasNegaraintheircomposition.
+Ascitedonpage201ofDamodaran,itisappropriatetouseUSpowersectorbetaforthepowersectorin
+smalloremergingmarkets,suchasIndonesia.Thisisbecausethecountryriskpremiumhasbeen
+includedintheapplicableequityriskpremiuminthecalculation,andthereforehasbeentakeninto
+accountinthecalculationofthecostofequityinIndonesia.
+TheusageofUSbetainsteadofusinglocalaccountingbetasbypractitionershasalsobeencitedinother
+financialbooks(page129of"ValuationofCompaniesinEmergingMarkets:aPracticalApproach"by
+LuisE.Pereiro).  
+Further,itcouldbenotedthattheunleveredbetahasbeenleveredapplyingthetaxrateanddebt:equity
+ratio.
+ItisalsotobenotedthattheapproachandinputparametersareconsistentwithanotherCDMprojectin
+Indonesiaref.no2346(KabilII11.4MWGasFiredProject)whichwasregisteredfollowingarequest
+forreviewwhichincludedquestionsonthesuitabilityoftheWACCcalculation
+
+EquityRiskpremiumandCountryRiskpremium:
+
+TheequityriskpremiumandthecountryriskpremiumforIndonesiahavebeensourcedfromA.
+Damodaran,NewYorkUniversity(
+http://www.stern.nyu.edu/~adamodar/pc/archives/ctryprem07.xls)
+referenceIndexsubtitle/DiscountRateEstimation,RiskPremiumsforOthermarketsforyear2007.The
+quotedsourceinthismatteristhemostrelevant,consideringthatformuladerivedwasquotedfromA.
+Damodaran’sbooksandresearch.Thesehavebeenusedtoformthebasisofthetotalriskpremium
+(9.29%).Theriskpremiumvalueisreferencedfromtheyear2007(insteadofthepublished2006datain
+Jan2007)asithasalowervaluethantheriskpremiuminyear2006of10.16%
+(http://www.stern.nyu.edu/~adamodar/pc/archives/ctryprem06.xls).Thereforetheuseddataismore
+conservative.Theriskpremiumvaluecanbedisaggregatedinto2separateelements:
+1. GlobalEquityRiskPremiumof4.79%whichisconservativetothe5%thatiscommonlyusedby
+financialpractitioners
+2. SpecificCountryRiskPremiumof4.5%whichisappropriatetoIndonesia.
+ThistotalEquityRiskPremiumisconsideredreasonableasitmeasurestherateofreturninvestorsseek
+tocompensatethemforinvestinginhigherriskequitybasedassetsratherthanriskfreesecurities.
+
+Sub-step 2c: Calculation and comparison of financial indicators 
+
+The table below exhibits the financial analysis for the project activity without CDM related income.
+CalculationoftheIRRisestablishedontheannualcashflow(annualrevenue)ofproducedelectricity,
+annual operational expenditure, and capital expenditure (initial investment cost). Following the EB
+Guidancethefinancialanalysisexcludescosts(drillingof4wells)whichoccurredpriortothestarting
+dateoftheprojectactivity.ThisapproachisconservativeasalowerCAPEXhastobeconsidered.
+
+
+
+
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 22 
+
+ItemProjectActivity
+Installedcapacity(MW)117
+AnnualProduction953GWh/yr
+CapacityFactor93%
+CapitalExpenditure(CAPEX)(US$/MW)US$1,550,000/MW
+OperationalExpenditure(OPEX)(USCent/kWh)USCent2.04/kWh
+OperationalExpenditure(OPEX)(US$/year)US$18,506,000/year/avg
+ProjectLifetime(yr)30
+OperatingHours(h/yr)(24hoursaday,365daysayear,
+93%capacityfactor)8,147
+IncomeTax/basedontheJOC34%
+TariffforPLN(USCent/kWh)–
+Levelizedfor30yearsincludinginflation8.20
+TerminalValueafter30years40%ofCAPEX
+CERprice(US$/CER)12.00–1.18ExchangeRatein‘05
+ResultingProjectIRR
+17.62%
+ResultingprojectactivityIRRwithCERs
+20.48%
+Table1DataUsedtoCalculateIRR
+
+Furtherdetailsandexplanationoftheassumptionsusedintheinvestmentanalysis:
+
+TotalInvestmentCost:
+
+TheestimatedTotalInvestmentCostofUSD181.38millionconsistsoftheEPCCost,theDrilling,Total
+Infrastructure,andOtherCostsestimatedtooccurafterthestartingdateoftheprojectactivity.Itisalso
+tobenotedthattotalinvestmentcostisrevisedreflectingthechangeinthestartdate.Inaccordancewith
+the“GuidanceontheAssessmentofInvestmentAnalysis”,alltheexpensesthathavebeenincurredprior
+tothestartdatehavenotbeenusedintheinvestmentanalysis.Thedrillingandothercostsincurred
+duringtheyear2006i.e.,beforethestartdateoftheprojectactivityhavebeenconsideredassunkcosts
+andthereforeexcludedintheIRRcalculation.
+ThetotalinvestmentcostisconsistentwiththeInformationMemorandumforRefinancingofWayang
+WinduGeothermalProject(unit1)andFinancingoftheWayangWinduGeothermalExpansionProject.
+ThefinancingwhichhasbeenagreedandapprovedbytheLendersisinaccordancewiththeUnit2
+CreditFacilityAgreementdated3May2007.
+
+Makeupwells:
+
+Make/upwellsarerequiredtocompensateforthenaturaldeclineinoutputfromthewells.Itisalsotobe
+notedthatfromaccountingpointofview,make/upwellsareadditionalwellsbeingdrilledforthe
+project,andthereforearetakenalongwiththetotalinvestmentcostintheIRRcalculationspreadsheets.
+
+Numberofwellsneededtoreplacedepletedwell:
+
+2wellsareneededtoreplacethedepletedwellsevery3years/werecalculatedbasedontheestimation
+ofthesteamneededforthepowerplant,electricitygenerationpotentialfromeachwell,andthesteam
+depletionrate.Theaverage2make/upwellsrequiredevery3yearsisbasedonthefollowing
+assumptionsandcalculations:
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 23 
+
+Assumption
+ParameterValueSource
+Amountof
+steam
+neededfor
+thepower
+plant
+120%ofthe
+generation
+capacity,i.e.
+120%*
+113.5
+15
+=
+136.2MW
+BasedontheCommonTermsintheLoanAgreeementfortheproject
+activity.
+Electricity
+generation
+perwell
+15MW/
+well
+CalculatedbasedonthehistoricaldataofthesteamoftheWayang
+Windu1andtheguaranteedsteamratedesignoftheturbine.
+Steam
+depletion
+rate
+5%ConservativevaluebasedonWayangWinduwellandresource
+performanceanalysisstudyconductedbyMauroParini,advisor
+reservoirengineerforUnocalGeothermaland“ReviewofWayang
+WinduFieldSteamDecline/WayangWinduProductionDataReview”
+preparedbySinclairKnightMerz("SKM")
+Calculation
+Depletionperyear136.2MW*5%=6.81MW
+Depletionfor3year6.81*3=20.43MW
+Noofwellsneededtoreplacedepletedwell(every
+3years)
+20.43/15=1.362(Roundedto2.00)
+
+Withnootherfactorsbeingtakenintoaccount,thenumberofwellstobereplacedannuallywouldequal
+0.45or1welltobereplacedeverytwoyears.However,areplacementrateof2wellsevery3yearshas
+beenassumedforthefollowingreasons:
+- AsmentionedintheWayangWinduwellandresourceperformanceanalysisstudyconductedby
+MauroParini,theaveragedeclineratesofWayangWindu1wellsin2004werereportedtobeat
+5.2%.Thereporthoweveralsomentionedthatthedeclinerateissomewhatuncertain,withone
+ofthewellsinWayangWindu1reportedwithadeclinerateof45%.
+- Basedonthereport“ReviewofWayangWinduFieldSteamDecline/WayangWindu
+ProductionDataReview”preparedbySinclairKnightMerzdated24Nov2009("SKM");Page1
+ofthereportindicatesthattheoveralldepletionrateofallUnit1wellshasincreasedto8.1%and
+theaveragedeclinerateforWayangWindu2wellsareforecastedtobeintherangeof5.2to
+7.8%.Alsoistobeconsideredisthattheanalysisofthereporthasbeenconductedwithsome
+uncertaintyintheactualsteamcountandsomeassumptioninthebehaviorofthewellsduetothe
+veryshortflowhistoryoftheWayangWindu2wells(SKMpage21).Alsohastobenotedis
+thatthereportedaveragedeclineratehasbeenanalyzedbyexcludingthewellswith“abnormal”
+wellbehavior,i.e.wellMBA/4withwellboreproblemsinWayangWindu2withadeclinerate
+of546.3%(SKMpage21).Inreality,wellsareboundtohaveproblemsduringtheirlifetime
+whichwouldincreasethedeclinerate.Thereforetheactualdeclinerateshouldbehigherthan
+reportedwhenactualconditionsarebeingtakenintotheanalysis.
+- ThedeclinerateofbothWayangWindu1and2wellswillbehigherwhenWayangWindu3is
+built.Thisisbecauseoftheadditionalmassextractionandthereinjectionrateduetoan
+additionalpowerplant(SKMpage1).
+
+
+15
+Netcapacitycalculatedfromtheturbinegeneratorcapacity(117MW)minusthehouseload(3.5MW)
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 24 
+
+- Furthermoremake/upwellswouldberequiredwhentherequiredwellrepairisnotsuccessful
+whichwasevidencedbyabandonmentofoneofthewells
+16
+whichhadalreadybeenrepairedbut
+therepairhadbeeninsufficienttoresolvetheissue.
+
+Thereforetheassumptionof2newmake/upwellsevery3yearscalculatedwiththeaboveapproach(a
+loweraveragedeclinerateof5%androundingupthefigureinthefinalstepofthecalculation)is
+consideredappropriateandconservative.
+
+Alsotobenotedarethefollowingpoints:
+- Drillingofmake/upwellsrequiresmobilizationandusageofadrillingrig,withtheestimated
+costofUSD1,500,000toUSD2,000,000ontherigmobilization,excludingtheusageoftherig
+andthedrillingcost.Thereforeitismorereasonabletodrill2wellsin3yearsinsteadof1well
+every2years,andthedrillingcostsestimatedintheinvestmentanalysisisderivedbasedonthis
+assumption.
+- Regardlessofresourcestudies,itcantakeseveralyearsofproductionfromafieldbeforethe
+reservoirperformancecanbegaugedandthereisalwaysariskofanunexpecteddeclineinthe
+capacityoftherespectivegeothermalwells
+17
+.
+- Oftenafterwellsaredrilled,geothermalsteamproductionisnotguaranteed.Forexample,forthe
+KamojangGeothermalproject,16wellshavebeendrilled,yetonly11wellsareuseableinthe
+productionstage
+18
+forLahendong/Ionly7outof9wellsdrilledwereproductive
+19
+
+
+Make/upwellcost:
+Thevalueofdrillingamake/upwellwasdeterminedfromthemake/upwellcostsconductedin2006for
+WayangWindu1ofUSD3.7millionasalsoreportedintheauditedfinancialstatementin2007.
+Thereby,leadingtoanestimationofUSD4.2millionin2010withescalationof3%basedonthe
+historicalaverageoftheUSCPIindex.
+
+Wellrepair:
+
+Wellrepairofexistingwellsisrequiredduetocorrosionorotherdamage.Geothermalfluidsare
+corrosive,withtheH2Sformingsulfuricacid,plusinflowofpotentiallyacidicaquifersatdepth
+(
+http://www.repp.org/geothermal/geothermal_brief_geothermal_resources.html).Hence,checksaremade
+forcorrosionineachwelleachyearandrepairsareconductedasrequiredtoavoidriskofawellblow/
+outwhichcanbecatastrophic.Itisalsotobenotedthatfromaccountingpointofview,wellrepaircosts
+aretakenastheoperatingexpenditureintheIRRcalculationspreadsheets.Thetotalrepairwellcostis
+basedonthe‘schedulerepairwells’andthe‘repairwellcostperwell’.
+
+Schedulerepairwells:
+
+ThisisbasedonthepreviousexperiencefromWayangWinduunit1.Theinvestmentanalysisestimated
+that3wellsarerepairedevery3yearsbasedontheestimationthateachwellwillberepairedonceevery
+10years.
+
+
+
+16
+MBE/2plugandabandonreportdated24Aug2009
+17
+RefertoregisteredCDMgeothermalprojectno.2022:http://cdm.unfccc.int/Projects/DB/DNV/
+CUK1218173149.57/view
+18
+RefertoCDMgeothermalprojectno.3028:http://cdm.unfccc.int/Projects/DB/RWTUV1255101629.04/view
+19
+RefertoregisteredCDMgeothermalprojectno.2876:http://cdm.unfccc.int/Projects/DB/TUEV/
+SUED1249404911.81/view
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 25 
+
+Repairwellcostperwell:
+Thevalueforwellrepaircostwasderivedfromtheworkoverprogramtofixwellsin2003forWayang
+Winduunit1ofUSD1.5million.Thereby,leadingtoanestimationofUSD1.7millionin2009with
+escalationof3%basedonthehistoricalaverageoftheUSCPIindex.
+
+Itistobenotedthattheequipmentusedtorepairawellwilldependontherepairsolutionselected.If
+casingistobereplaced,itisessentialtouseamediumtolargedrillingrig.Ifthewellistobetreated
+withacidinjection,itmaybepossibletouseasimple“coiledtubingunit”whichismuchlessexpensive
+thanmobilizingarig.Hencethecostofwellrepairwillvaryaccordingtothesolutionselected.
+Typically,anoperatingcompanywillnotrepaireachwellimmediatelyasaproblemoccursunlessit
+resultsinthewellbeingunsafe.Normally,arigwillbemobilizedonlywhenthereareseveraljobstobe
+performedsincethemobilizationcostisamajorcomponentofthecharges
+20
+
+Sincethecostofthedrillingrigisdirectlyrelatedtothesizeoftherig,itisimportanttoselectthe
+correctrigforthejob.Ifarepairjobiscommencedwithasmallrigorcoiledtubingunit,anditisfound
+thatthejobactuallyrequiresacasingreplacement,itwillincuradditionalcosttomobilizealargerrig
+capableofhandlingthecasingmaterial.
+
+Withthisbackground,thewellrepaircostbasedon2003costsofrepairingwellsofWayangWinduunit
+1takingintoaccountescalationwasusedinsteadoftakingtheaveragewellrepaircostsofWayang
+Windu1from2003to2010ofUSD1millionforthereasonsof:
+- Wellrepairsin2003involvedmajorwork,settingnewcasingintoseveralwells.Hencea
+relativelylargedrillingrigwasusedforthis(approximately$50,000perdaycostsfortherig).
+Theserepairsweresuccessfulandallowedoperationtocontinueuntilthemakeupwellswere
+drilledduringthe2006/07drillingprogramwhichalsodrilledwellsfortheUnit2development.
+- Wellrepairsin2008wererelativelysimple,requiringonlyinjectionofwaterandinspectionof
+thewells,andasimpleCoiledTubingUnit(CTU)wasmobilized(approximately$5000perday
+costsfortheCTU).Theserepairswereunsuccessfulandresultedinthedecisiontoabandona
+wellinthenextprogram.
+- Wellrepairsin2010requiredmorecapabilitythanacoiledtubingunitbutlessthanafullrig,so
+aSnubbingUnitwasmobilized(approximately$10,000perdaycostsfortheSnubbingUnit),
+andthisallowedthesuccessfulabandonmentofonewell(MBE2)andsomeotherminorroutine
+workoverstoincreasesteamsupply.
+- StarEnergyGeothermal(WayangWindu)Ltd(“SEG”)asaprudentoperator,budgetsto
+undertakewellrepaironaregularbasisasreflectedintheinvestmentanalysis.Theestimated
+costwhichisusedintheinvestmentanalysisisbasedonthecosttomobilizeasmalltomedium
+drillingrig.
+
+Furthertobenotedthatbudgetingintheinvestmentanalysisisexpectedforlongtermrepairofwellsand
+takesaccountofseveralfactors:
+- Thenumberandcomplexityofwellrepairswillincreasewiththeageofthewells.
+- Thebasisoftheestimateshouldallowforwellabandonmentofthedeepestwellsincethisisthe
+safestsolution,henceasaminimumamedium/largesizedrigisrequired.Similartothatusedin
+2003.
+
+
+20
+Referto“GeothermalWellDesign,ConstructionandFailures”paperbyJamesN.A.Southon,SKMfor
+ProceedingsWorldGeothermalCongress2005and“GeothermalWellOperationandMaintenance”paperbySverrir
+ThorhallssonforGeothermalTrainingProgrammeoftheUnitedNationsUniversity,Sept2003
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 26 
+
+- 1millionUSDwasfoundtobetheaveragewellrepaircostfortheWayangWinduunit1from
+2003/2010.Thisvalueislowerthanthatestimatedfortheproposedprojectactivitybecauseof
+therelativesimplicityofthewellrepairsconductedinsomeofthem,whichledtosome
+unsuccessfulrepairsandabandonmentofawell.Therefore,theaveragewellrepaircostofWW1
+duringtheperiod2003/2010arenotagoodreflectionofthelongtermwellrepaircostsfor
+WayangWindu2.  
+ 
+TheIRRoftheprojectwithoutCDMrevenuesis17.62%whichisbelowthemarketbenchmarkrequired
+rateofreturnof18.96%.TheIRRoftheprojectwithCDMrevenuesis20.48%.Theadditionalrevenues
+fromthesaleofCERsincreasetheproject’sIRRtotherequiredreturnforanaverageinvestorinthis
+typeofpowerproject.
+
+Theperceptionofthecarbonmarketwasthatthecarbonpricewillincreaseoverthetime,andhencethis
+wasconsideredtobalancetheremainingrisks.Inadditiontotheimprovementtotheproject’sIRR,the
+additionalCERrevenuegivesasecondarystreamofrevenuesinEUROorUSD.
+
+Thereforetheprojectactivityonlybecomesfinanciallyviableiftheprojectactivitygeneratedadditional
+revenuefromtheCDMthroughthesaleoftheemissionreductions.
+
+ThedetailsofthecalculationspreadsheetwillbeavailabletotheDOEduringvalidation.
+
+Substep2d:Sensitivityanalysis:
+
+Sensitivity analyses described below are performedusing assumptions which are considered
+conservative. The ‘best/case’ conditions for the project IRR were assumed by altering the CAPEX,
+OPEX,electricitytariff,andelectricityoutputparameters.
+
+Deviationsof+
+10%havebeentakenintoaccountintheabovedecisiveassumptions.Thesummarytable
+isshownbelow.
+
+Sensitivity
+w/oCER
+10%0%10%
+Tariff17.085%17.620%18.150%
+CapacityFactor17.191%17.620%18.046%
+O&MandG&A18.086%17.620%17.149%
+CapEx(sensitizedall)19.081%17.620%16.356%
+CapEx(sensitizedw/outEPC)18.144%17.620%17.130%
+TerminalValue17.615%17.620%17.624%
+Table2SensitivityAnalysis
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 27 
+
+
+Figure6DiagramoftheSensitivityAnalysis
+
+
+Asillustratedinthetableabove,theIRRrangesfrom17.085%to19.081%atwhentheeconomic
+parametersabovearevariedwithintherangeof/10%to+10%.ThebestcasescenariogeneratedIRR
+(withoutCDMrelatedincome)of19.081%andwillonlytakeplacewhentheTotalCAPEXisdecreased
+by10%.TotalCAPEXconsistsofEPCcostandtheDrilling,TotalInfrastructure,andOtherCost.The
+variationintheEPCcostwouldnotbepossibleastheEPCcontractwasagreedatthetimeofinvestment
+andisaresultofacompetitivebiddingconductedbyMNL.Hencethiscostfactorhasbeenfixedandis
+notvariableinthepresentedrange.Thereforesensitivityanalysisfortheremainingoftheconstruction
+cost(withouttheEPCcost)wouldbemorerelevant.
+Otheraspectstobeconsidered:
+
+• LowerOPEXishighlyunlikelyastheOPEXisbasedonthejointOPEXofunit1andunit2,
+discountedtheoriginalOPEXofunit1.
+
+• Fortariff,sensitivityisappliedtotheescalationindexinsteadofthetotalescalatedtarifftoavoid
+doublecounting.Achangeinthebasetariffwouldbehighlyunlikelyconsideringthattheproject
+owner has already received an amendment of the Energy Sales Contract with the escalation
+factor included in the amendment. The escalation for each index is estimated based on the
+historicalgrowthrateofeachindexfrom1985to2005
+21
+.
+
+• Pleasenotethatthecapacityfactorchangesare91%,93%,and95%consideringachangeof
+10%isnotapplicable),i.e.thecapacityfactorestimatedfortheprojectisalreadyat93%,and
+cannot go above 100% and also there will be required and scheduled maintenance requiring
+operationdown/time.
+ 
+Itcanbeobservedthattheprojectactivityisfinanciallyunattractivenotonlyinthetypicalsituationbut
+alsointhevaryingscenariosasdescribedaboveandhencetheprojectactivityisadditional.
+
+
+
+21
+Thedataaretakenupto2005asthisisthelatestannualdataavailableduringtheinvestmentdate
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 28 
+
+Allfinancialdatausedtoarriveattheinternalrateofreturnoftheprojectactivitywithandwithout
+CDMrevenueswillbeavailabletotheDOEduringvalidation.
+
+Step3:BarrierAnalysis
+
+Thisstepisnotbeingused.
+
+Step4:CommonPracticeAnalysis
+
+Substep4a:Analyzeotheractivitiessimilartotheproposedprojectactivity:
+
+GeothermalpowerdevelopmentisnotthefirstofitskindinIndonesia.However,accordingtothe
+statistic,inearly2005,geothermalpowergenerationinIndonesiaprovidedannualenergyof6,085
+GWh/yearorabout2.2%ofnationalpowercapacity
+22
+.
+
+Basedonthestatisticin2006,thecurrentutilizationofthegeothermalenergysourcesisonlyabout4.5%
+ofthepotential,withtheinstalledcapacityof886.90MWtothepotentialof19,658MW
+23
+.
+
+Theoperationalgeothermalpowerplants,notconsideredasCDMactivity,werebuiltbetween1982and
+2000,andtheplanningoftheseplantsthereforepredatestheAsianandIndonesianeconomiccrisisof
+1998andthesubsequenteconomicdownturn.
+
+Thedevelopmentinthe1990swasstimulatedbyelectricitypricesbetweenUSD0.069andUSD0.085,
+whichmadeprojectsviable,andatthattimetherewasnocarbonfinanceorCDMavailable.PLNisnow
+seekingtopaypricesonlyunderUSD0.05/kWh
+24
+.Hence,itishardforprivatedeveloperstomove
+forwardwithgeothermalpowerprojectwithoutconfidencethroughtherevenuesfromtheCER.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22
+Source:Article“WorldGeothermalPowerGeneration2001/2005”byInternationalGeothermalDevelopment
+http://www.geothermal.org/articles/worldpower05.pdfaccessedon28November2008
+23
+Source:CDMCountryGuideforIndonesia,editedbytheInstituteforGlobalEnvironmentalStrategies2
+nd
+edition,
+2006.
+24
+Source:ReportproducedfortheUnitedStatesAgencyforInternationalDevelopment(USAIDASIA)Annex3
+IndonesiaCountryReport,FromIdeastoAction:CleanEnergySolutions,ForAsiatoAddressClimateChange,
+preparedbyInternationalResourcesGroup,datedJune2007
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 29 
+
+Indonesiageothermalprovenreservesandpowerplantsconstructedstatusareasfollowed
+25
+:
+
+Power 
+Plant
+26
+ 
+Locat
+ion 
+Capacity 
+(MW) 
+Develop
+ment or 
+Construc
+tion Date 
+Comm
+encem
+ent 
+Date 
+Policy 
+Regime (Prior 
+to/ Post the 
+Financial 
+Crisis) 
+Steam 
+Field 
+Operator 
+Power 
+Plant 
+Operator 
+With or 
+Without 
+CDM 
+Activity 
+Similar to 
+the 
+Project 
+Activity  
+(yes/no) 
+ 
+Remarks 
+Kamojang 
+Unit I, II, 
+III
+27
+,
+28
+ 
+Jawa     140 MW 1980s 
+Unit 1: 
+1982 
+Unit 
+2,3: 
+1987 
+Prior to the 
+financial crisis 
+Pertamin
+a (State-
+owned 
+company) 
+PLN (State-
+owned 
+company) 
+Without 
+CDM 
+Activity 
+No 
+ 
+This project 
+was built 
+during the 
+higher 
+electricity tariff 
+regime, 
+developed & 
+operated by 
+state-owned 
+company with 
+funding from 
+World Bank 
+(for unit 2 and 
+3) 
+ 
+Kamojang 
+Unit IV
+29
+ 
+Jawa 
+1 x 60 
+MW 
+Feb 2006 
+Dec 
+2007 
+Post the 
+financial crisis 
+Pertamin
+a (State-
+owned 
+company) 
+Pertamina 
+(State-
+owned 
+company) 
+CDM 
+Activity 
+No 
+ 
+This project 
+was 
+developed & 
+operated by 
+state-owned 
+companies 
+and is a CDM 
+Activity 
+ 
+Salak 
+Phase 1
+30
+ 
+Jawa 
+3 x 55 
+MW 
+ 
+1994 (2 
+units) 
+and 
+1997 (1 
+unit) 
+Prior to the 
+financial crisis 
+Unocal / 
+Chevron 
+from 
+2005 
+(IPP) 
+PLN (State-
+owned 
+company) 
+Without 
+CDM 
+Activity 
+No 
+ 
+This project 
+was built 
+during the 
+higher 
+electricity tariff 
+regime, 
+developed & 
+operated by 
+state-owned 
+company 
+ 
+ 
+
+25
+Source:Article“Indonesia’sGeothermalDevelopment”http://jakarta.usembassy.gov/download/geo2002.pdf
+Accessedon28November2008
+26
+Source:Article“Indonesia’sGeothermalDevelopment”http://jakarta.usembassy.gov/download/geo2002.pdf
+Accessedon28November2008.Coverstory“IndoRenergy,PositioningGeothermal”fromPetrominermagazine
+No.07/July20,2009.BasedonPLN’sRUPTL(PLN’sElectricityProvisionPlan)2009–2018page53/54
+(http://www.pln.co.id/InfoKorporat/ChangeofRUPTL20062015/tabid/175/Default.aspx),thereareafewothernon/
+PLNgeothermalpowerplantstobebuiltinthefuture,howeverthosearenotmentionedinthislistastheyareof
+differentscaleand/orofexpectedoperationdateofyear2011onwards(i.e.currentlyattheplanning
+stage/constructionhasnotbeenstarted)
+27
+Source:Article“Indonesia’sGeothermalDevelopment”http://jakarta.usembassy.gov/download/geo2002.pdf
+Accessedon28November2008 
+28
+ Source:KamojangGeothermalPDD,version01,dated29February2008 
+29
+Source:KamojangGeothermalPDD,version01,dated29February2008
+30
+Source:Article“Indonesia’sGeothermalDevelopment”http://jakarta.usembassy.gov/download/geo2002.pdf
+Accessedon28November2008 
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 30 
+
+Salak 
+Phase 2
+31
+ 
+Jawa 
+3 x 55 
+MW 
+1994 1997 
+Prior to the 
+financial crisis 
+Unocal / 
+Chevron 
+from 
+2005 
+(IPP) 
+ 
+Unocal built 
+and 
+operated for 
+15 years 
+and transfer 
+operatorshi
+p to PLN 
+under BOT 
+(IPP 
+transferred  
+to State-
+owned 
+company) 
+ 
+Without 
+CDM 
+Activity 
+No 
+This project 
+was built 
+during the 
+higher 
+electricity tariff 
+regime, and 
+transferred to 
+state-owned 
+company 
+under BOT 
+Darajat 
+Phase 1
+32
+ 
+Jawa 55 MW 1994 1994 
+Prior to the 
+financial crisis 
+ 
+Indonesia 
+Power – 
+subsidiary 
+of PLN 
+(State-
+owned 
+company) 
+ 
+Chevron 
+(IPP) 
+Without 
+CDM 
+Activity 
+No 
+This project 
+was built 
+during the 
+higher 
+electricity tariff 
+regime 
+Darajat 
+Phase 2
+33
+ 
+Jawa 90 MW 1997 2000 
+Prior to the 
+financial crisis 
+Chevron 
+(IPP) 
+Chevron 
+(IPP) 
+Without 
+CDM 
+Activity 
+No 
+ 
+This project 
+was built 
+during the 
+higher 
+electricity tariff 
+regime 
+ 
+Darajat 
+Phase 3
+34
+ 
+Jawa     117 MW  
+4
+th
+ 
+quarter 
+of 2006 
+Post the 
+financial crisis 
+Chevron 
+(IPP) 
+Chevron 
+(IPP) 
+CDM 
+Activity 
+Yes 
+ 
+This project is 
+an CDM 
+Activity 
+ 
+Dieng Unit 
+1
+35
+ 
+Jawa 
+1 x 60 
+MW 
+1994 
+July 
+1998 
+Prior to the 
+financial crisis 
+ 
+California 
+Energy 
+develope
+d the 
+project 
+and then 
+transferre
+d to PT 
+Geo Dipa 
+Energi, a 
+joint 
+venture of 
+Pertamin
+a and 
+PLN, in 
+2001 (IPP 
+transferre
+d  to 
+State-
+owned 
+company) 
+ 
+California 
+Energy 
+developed 
+the project 
+and then 
+transferred 
+to PT Geo 
+Dipa Energi, 
+a joint 
+venture of 
+Pertamina 
+and PLN, in 
+2001 (IPP 
+transferred  
+to State-
+owned 
+company) 
+Without 
+CDM 
+Activity 
+No 
+This project 
+was built 
+during the 
+higher 
+electricity tariff 
+regime, and 
+transferred to 
+state-owned 
+company 
+
+31
+Source:Article“Indonesia’sGeothermalDevelopment”http://jakarta.usembassy.gov/download/geo2002.pdf
+Accessedon28November2008
+ 
+32
+Source:RegisteredCDMProject:DarajatUnitIIIGeothermalProjectPDD,version3,dated14September2006
+33
+Source:RegisteredCDMProject:DarajatUnitIIIGeothermalProjectPDD,version3,dated14September2006
+34
+Source:RegisteredCDMProject:DarajatUnitIIIGeothermalProjectPDD,version3,dated14September2006
+35
+Source:Article“Indonesia’sGeothermalDevelopment”http://jakarta.usembassy.gov/download/geo2002.pdf
+Accessedon28November2008
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 31 
+
+Dieng Unit 
+2
+36
+ 
+Jawa 60 MW 
+Planning 
+stage 
+Expect
+ed 
+2012-
+2014 
+Post the 
+financial crisis 
+ 
+PT Geo 
+Dipa 
+Energi, a 
+joint 
+venture of 
+Pertamin
+a and 
+PLN 
+(State-
+owned 
+company) 
+ 
+PT Geo 
+Dipa Energi, 
+a joint 
+venture of 
+Pertamina 
+and PLN 
+(State-
+owned 
+company) 
+ No 
+This project 
+was 
+developed & 
+operated by 
+state-owned 
+company and 
+is not 
+operational 
+yet 
+Wayang 
+Windu 
+Phase 1
+37
+ 
+Jawa 
+1 x 110 
+MW 
+1997 2000 
+Prior to the 
+financial crisis 
+Mandala 
+Magma 
+Nusantar
+a BV 
+(IPP) 
+Mandala 
+Magma 
+Nusantara 
+BV (IPP) 
+Without 
+CDM 
+Activity 
+No 
+ 
+This project 
+was built 
+during the 
+higher 
+electricity tariff 
+regime 
+ 
+Patuha
+38
+ Jawa     180 MW 
+Planning 
+stage 
+Expect
+ed 
+2013 
+Post the 
+financial crisis 
+ 
+PT Geo 
+Dipa 
+Energi, a 
+joint 
+venture of 
+Pertamin
+a and 
+PLN 
+(State-
+owned 
+company) 
+ 
+PT Geo 
+Dipa Energi, 
+a joint 
+venture of 
+Pertamina 
+and PLN 
+(State-
+owned 
+company) 
+ No 
+This project 
+was 
+developed & 
+operated by 
+state-owned 
+company and 
+is not 
+operational 
+yet 
+Karaha 
+Bodas
+39
+ 
+Jawa 
+1x30 
+MW, 
+1x110 
+MW, 
+1x110 
+MW 
+Planning 
+stage 
+Expect
+ed 
+2012, 
+2014, 
+2018 
+Post the 
+financial crisis 
+Pertamin
+a (State-
+owned 
+company) 
+Pertamina 
+(State-
+owned 
+company) 
+ No 
+This project 
+was 
+developed & 
+operated by 
+state-owned 
+company and 
+is not 
+operational 
+Cibuni
+40
+ Jawa 
+1 x 10 
+MW 
+Planning 
+stage 
+Expect
+ed 
+2013 
+Post the 
+financial crisis 
+PT Yala 
+Tekno 
+Geotherm
+al (IPP) 
+ 
+PT Yala 
+Tekno 
+Geothermal 
+(IPP) 
+ 
+ No 
+This project is 
+of different 
+scale and is 
+not 
+operational 
+yet 
+
+36
+Source:BasedonPLN’sRUPTL(PLN’sElectricityProvisionPlan)2009–2018,Dieng2isexpectedtobe
+operationalin2014(page53)andiscurrentlyatplanningstage(page116).Industrialexpertsconfirmthatatthe
+currentstage,thepowerplanthasnotbeenconstructed.
+37
+Source:Article“Indonesia’sGeothermalDevelopment”http://jakarta.usembassy.gov/download/geo2002.pdf
+Accessedon28November2008
+38
+Source:BasedonPLN’sRUPTL(PLN’sElectricityProvisionPlan)2009–2018,Patuhaisexpectedtobe
+operationalin2013(page53)andiscurrentlyatplanningstage(page116).Industrialexpertsconfirmthatatthe
+currentstage,thepowerplanthasnotbeenconstructed.
+39
+Source:BasedonPLN’sRUPTL(PLN’sElectricityProvisionPlan)2009–2018page53,thefirstunitofKaraha
+Bodasisexpectedtobeoperationalin2012.Basedonconsultationwithindustrialexperts,Patuhaiscurrentlyatthe
+FinancingStage.TheprojectwillbefundedbyPertamina,whichisthegovernment/ownedcompany–inaccordance
+toarticle
+http://www.thejakartapost.com/news/2009/04/03/govt/resume/karaha/bodas/power/project.htmldated04
+March2009
+40
+Source:BasedonPLN’sRUPTL(PLN’sElectricityProvisionPlan)2009–2018,Cibuniisexpectedtobe
+operationalin2013(page53)andiscurrentlyatplanningstage(page116).TheprojectwillbedevelopedbyPT
+YalaTeknoGeothermal–inaccordancetoarticle“Indonesia’sGeothermalDevelopment”
+http://jakarta.usembassy.gov/download/geo2002.pdfAccessedon28November2008
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 32 
+
+Bedugul
+41
+ Bali 10 MW 
+Planning 
+stage 
+Expect
+ed 
+2012 
+Post the 
+financial crisis 
+Pertamin
+a (State-
+owned 
+company) 
+Bali Energy 
+(IPP) 
+ No 
+This project is 
+of different 
+scale and is 
+not 
+operational 
+Sibayak
+42
+ 
+Suma
+tra 
+11.3 MW    Late 2005 
+July 
+2008 
+Post the 
+financial crisis 
+Pertamin
+a (State-
+owned 
+company) 
+PT 
+Dizamatara 
+Powerindo 
+(IPP) 
+CDM 
+activity 
+No 
+This project is 
+of different 
+scale and is a 
+CDM activity 
+Sarulla
+43
+ 
+Suma
+tra 
+3 x 110 
+MW 
+Planning 
+stage 
+Expect
+ed 
+2011 
+Post the 
+financial crisis 
+Consortiu
+m of 
+Medco, 
+Ormat 
+Technolo
+gies, 
+Itochu 
+Corp, 
+Kyushu 
+Electric 
+(IPP) 
+Consortium 
+of Medco, 
+Ormat 
+Technologie
+s, Itochu 
+Corp, 
+Kyushu 
+Electric 
+(IPP) 
+ No 
+This project 
+has not 
+reached 
+financial 
+closure and 
+has not been 
+built 
+Ulubelu
+44
+ 
+Suma
+tra 
+1x55 
+MW, 
+1x55 MW 
+Planning 
+stage 
+Expect
+ed 
+2011, 
+2012 
+Post the 
+financial crisis 
+PLN 
+(State-
+owned 
+company) 
+PLN (State-
+owned 
+company) 
+ No 
+This project 
+was 
+developed & 
+operated by 
+state-owned 
+company with 
+Government-
+to-
+Government 
+development 
+funding (ODA) 
+Kerinci
+45
+ 
+Suma
+tra 
+20 MW 
+Planning 
+stage. 
+Expect
+ed 
+2011 
+Post the 
+financial crisis 
+Pertamin
+a (State-
+owned 
+company) 
+Pertamina 
+(State-
+owned 
+company) 
+ No 
+This project is 
+of different 
+scale 
+Lahendon
+Unit 1
+46
+ 
+Sulaw
+esi 
+20 MW  
+2000/2
+001 
+Prior to the 
+financial crisis 
+Pertamin
+a (State-
+owned 
+company) 
+PLN (State-
+owned 
+company) 
+Without 
+CDM 
+Activity 
+No 
+This project is 
+of different 
+scale and was 
+developed & 
+operated by 
+state-owned 
+company 
+ 
+Lahendon
+Unit 2
+47
+ 
+Sulaw
+esi 
+20 MW 
+Planning 
+stage 
+2007 
+Post the 
+financial crisis 
+Pertamin
+(State-
+PLN (State-
+owned 
+CDM 
+Activity 
+No 
+This project is 
+of different 
+
+41
+Source:BasedonPLN’sRUPTL(PLN’sElectricityProvisionPlan)2009–2018page116,Bedugulisexpected
+tobeoperationalin2012(expectedtobeoperationalin2010basedonpage53)andiscurrentlyatplanningstage.
+Basedontheconsultationwiththeindustrialexperts,Bedugulhasnotstarteditsconstruction.BasedonArticle
+“BedugulGeothermalProjectStillinLimbo”
+http://www.rasabali.com/bali/news/bedugul/geothermal/project/still/
+in/limbo/182.shtmlaccessedon28November2008,theprojectisstillwaitingforpermitsandlicenses.
+42
+Source:SibayakGeothermalPowerPlantPDD,version01,dated26August2008
+43
+Source:Medcoinvestorupdatepresentationslidesmentionedthatfinancingisstillbeingnegotiatedduringthe1
+st
+
+quarterof2009http://www.medcoenergi.com/userfiles%5Cfile/1H09_Investor_Update.pdf.BasedonPLN’s
+RUPTL(PLN’sElectricityProvisionPlan)2009–2018page53,Sarullaisexpectedtobeoperationalin2011.
+44
+Source:BasedonPLN’sRUPTL(PLN’sElectricityProvisionPlan)2009–2018page311,Ulubeluisexpected
+tobeoperationalin2011/2012.Government–governmentloadisincludedintheprojectaspercitedin
+http://www.id.emb/japan.go.jp/oda/en/projects/loan/odaprojects_loan_2004_5.htmaccessedon28November2008
+45
+Source:BasedonPLN’sRUPTL(PLN’sElectricityProvisionPlan)2009–2018,Kerinciisexpectedtobe
+operationalin2011andiscurrentlyatplanningstage(page311)
+http://www.vsi.esdm.go.id/gunungapiIndonesia/kerinci/umum.html,http://www.jambiekspres.co.id/index.php/radar/
+jambi/radar/barat/294/panas/bumi/kerinci/akan/dijadikan/energi/listrikaccessedon28November2008 
+46
+Source:LahendongII/20MWGeothermalProject,version11,dated1July2007
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 33 
+
+owned 
+company) 
+company) scale, 
+developed & 
+operated by 
+state-owned 
+company, and 
+a CDM 
+Lahendon
+Unit 3
+48
+ 
+Sulaw
+esi 
+20 MW 
+Planning 
+stage 
+2008 
+Post the 
+financial crisis 
+Pertamin
+a (State-
+owned 
+company) 
+PLN (State-
+owned 
+company) 
+Without 
+CDM 
+Activity 
+No 
+This project is 
+of different 
+scale, 
+developed & 
+operated by 
+state-owned 
+company 
+Ulumbu
+49
+ 
+NTT / 
+Flores 
+2 x 3 MW 
+Planning 
+stage 
+Expect
+ed 
+2011, 
+2012 
+Post the 
+financial crisis 
+PLN 
+(State-
+owned 
+company) 
+PLN (State-
+owned 
+company) 
+ No 
+This project is 
+of different 
+scale, 
+developed & 
+operated by 
+state-owned 
+company with 
+loan from the 
+Asian 
+Development 
+Bank (ADB) 
+Table3IndonesiaGeothermalProvenReservesandPowerPlants
+
+Theabovetableshowsthattheonlyactivitythatisoperationalandissimilartotheprojectactivity(in
+thesamedefinedregion,relyonabroadlysimilartechnology,areofasimilarscale,andtakeplaceina
+comparableenvironmentwithrespecttoregulatoryframeworkandinvestmentclimate)isDarajatPhase
+3GeothermalProject,whichisaregisteredCDMproject,andthereforeisexcludedfromtheanalysis.
+
+Onthisbasis,thereisnoactivitysimilartotheproposedprojectactivityinthedefinedregion.
+
+Substep4b:DiscussanysimilarOptionsthatareoccurring:
+
+Basedontheabovestep,thereisnoactivitysimilartotheproposedprojectactivityinthedefinedregion.
+
+Thisisreinforcedwiththemovementtocoal/basedgenerationofpowerplantsinIndonesiaduringthe
+startdateoftheprojectactivity
+50
+.Thecoal/basedpowerplantswerethensupportedbytheFastTrack
+Programthatmandatesthebuildingof40coal/firedpowerplants
+51
+.Withthegovernmentsupport,coal/
+firedpowerplantsbecomethemorepopularoptioninIndonesiatogetherwiththebettereconomic
+consideration(lowcostofgenerationandeasyavailability)incomparisontootherpotentialenergy
+sources,i.e.geothermal.
+
+
+
+47
+Source:LahendongII/20MWGeothermalProject,version11,dated1July2007
+48
+Source:Coverstory“IndoRenergy,PositioningGeothermal”fromPetrominermagazineNo.07/July20,2009.
+49
+Source:BasedonPLN’sRUPTL(PLN’sElectricityProvisionPlan)2009–2018page54,Ulumbuisexpectedto
+beoperationalin2011,2012.http://www.adb.org/Business/Opportunities/not/archive/jul/sep05/ino1982d.asp.
+GovernmentreceivedtheloanfromAsianDevelopmentbank
+http://www.adb.org/Business/Opportunities/not/archive/jul/sep05/ino1982d.asp
+50
+Source:“RencanaUsahaPenyediaanTenagaListrik(RUPTL)year2006/2015”byPTPLN(Persero)
+http://www.pln.co.id/ruptl/070219_perubahan_ruptl_06_10_web_.pdfaccessedon28November2008
+51
+InpursuanttoPresidentialregulationNo.71/2006
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 34 
+
+Withtheabovearguments,itisconcludedthatgeothermalpowerdevelopmentisthereforenotacommon
+practice.
+
+B.6.Emissionreductions:
+B.6.1.Explanationofmethodologicalchoices:
+
+Baselineemission(BE
+y
+)
+
+BaselineemissionsincludeonlyCO
+2
+emissionsfromelectricitygenerationinfossilfuelfiredpower
+plantsthataredisplacedduetotheprojectactivity,calculatedasfollows:
+
+BE
+y
+=(EG
+y
+#EG
+baseline
+).EF
+grid,CM,y
+
+Where:
+
+BE
+y
+=Baselineemissioninyeary(tCO
+2
+/yr)
+EG
+y
+=Electricitysuppliedbytheprojectactivitytothegrid(MWh)
+EG
+baseline
+=Baselineelectricitysuppliedtothegridinthecaseofmodifiedorretrofitfacilities
+(MWh).Fornewpowerplantsthisvalueistakenaszero
+
+EF
+grid,CM,y
+=CombinedmarginCO
+2
+emissionfactorforgridconnectedpowergenerationinyeary
+(calculatedbyusing“tooltocalculatetheemissionfactorforanelectricitysystem
+version01.1”)
+
+Themethodologyassumesthatallprojectelectricitygenerationabovebaselinelevels(EG
+baseline
+)would
+haveotherwisebeengeneratedbytheoperationofgrid/connectedpowerplantsandbytheadditionof
+newgenerationsources,asreflectedinEF
+,y
+
+
+ForcalculationinthisPDD,theelectricitysuppliedbytheprojectactivitytothegridisdeterminedby
+theconservativeloadfactorof93%ofthepowerplantoutputcapacity.Duringthecreditingperiod,the
+electricity supplied to the grid by the project activity will be measured and cross/checked by the
+electricitysalesrecord.Auxiliaryuseisassumedtobe3.5MWforcalculationinthisPDD.
+
+CalculationofEG
+baseline
+
+
+Theprojectactivityistheinstallationofadditionalpowerunitsatanexistinggrid/connectedrenewable
+powerplant:
+
+EG
+baseline
+=MAX(EG
+historical
+,EG
+existing,y
+),untilDATE
+BaselineRetrofit
+
+EG
+baseline
+=EG
+y
+,on/afterDATE
+BaselineRetrofit
+
+
+Where:
+
+EG
+baseline
+=Baselineelectricitysuppliedtothegridinthecaseofmodifiedorretrofitfacilities
+(MWh)
+EG
+historical
+=Averageofhistoricalelectricitydeliveredbytheexistingfacilitytothegrid(MWh)
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 35 
+
+EG
+existing,y
+=Electricitysuppliedbytheexistinggrid/connectedpowerplant(MWh)
+DATE
+BaselineRetrofit
+=Pointintimewhentheexistingequipmentwouldneedtobereplacedintheabsence
+oftheprojectactivity(date)
+
+CalculationofEG
+historical
+
+EG
+historical
+istheaverageofhistoricalelectricitydeliveredbytheexistingfacilitytothegrid,spanningall
+datafromthemostrecentavailableyear(ormonth,weekorothertimeperiod)tothetimeatwhichthe
+facilitywasconstructed,retrofit,ormodifiedinamannerthatsignificantlyaffectedoutput(i.e.by5%or
+more)expressedinMWhperyear.Aminimumof3yearsdataisrequired.Dataforperiodsaffectedby
+unusualcircumstancessuchasnaturaldisasters,conflicts,transmissionconstraintsshallbeexcluded.
+
+HistoricalelectricitydeliveredbyWayangWinduPhase1fromthestartofitsoperationinJune2000up
+toFebruary2009willbeusedtocalculateEG
+historical.
+
+CalculationofDATE
+BaselineRetrofit
+
+Thetechnicallifetimeoftheexistingfacility,i.e.WayangWinduPhase1,intheabsenceoftheproject
+activityistakentobe30years.Thisisaconservativenumber,consideringmanyofthepowerplantsin
+Indonesiaareoperatedevenafteritstechnicallifetime.
+
+WayangWindu1startedoperationinJune2000,hencetheDATE
+BaselineRetrofit
+is01June2030.
+
+
+CalculationofEF
+grid,CM,y
+
+
+
+Step1.Identifytherelevantelectricpowersystem
+
+ReferringtoACM0002version09,thespatialextentoftheprojectboundaryincludestheprojectpower
+plantandallpowerplantsconnectedphysicallytothegrid.JAMALI(Jawa/Madura/Bali)gridapplies
+fortheprojectactivity.
+
+Electricityimportemissionfactor
+
+
+Electricityimportemissionfactorisdeterminedas0(zero)tCO
+2
+/MWhbecausecurrentlytheJAMALI
+gridisnotinter/connectedwithotherprovincialgridswithinIndonesiawithnointermediateplantodo
+so.
+
+Step2.SelectanOperatingMargin(OM)Method
+
+Thelow/cost/must/runresourcesconstitutemorethan50%oftotalgridgeneration(presentedattable4).
+HencesimpleOMisnotanavailableoptionandaverageOMmethodisused.
+
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 36 
+
+
+
+Table4PowerGenerationofJAMALIgrid
+52
+
+
+OWNER     
+operation 
+year 
+2002 2003 2004 2005         2,006  
+IP 
+  
+  fuel GWh 
+  
+Hydro 
+  3,482 2,938 3,223 3,834 2,720 
+  
+Diesel 
+Oil 87 60 66 128 101 
+  
+Gas Turbine  
+Gas 62 - 102 89 102 
+  
+  
+Oil 960 1,581 1,812 1,855 1,655 
+  
+Geothermal 
+  2,888 2,646 2,825 2,717 2,820 
+  
+Steam 
+Coal 20,205 22,220 21,482 23,248 23,875 
+  
+  
+Oil 1,717 2,105 2,017 1,806 1,502 
+  
+Combined Cycle 
+Gas 6,672 7,133 6,677 6,830 5,622 
+  
+  
+Oil 3,976 3,860 4,337 5,879 5,855 
+  
+TOTAL NET 
+PRODUCTION 
+  
+40,049 42,543 42,541 46,385 44,253 
+
+ 
+  
+ year 
+2002 2003 2004 2005         2,006  
+PT PJB 
+  
+  fuel GWh 
+  
+Hydro 
+  2,380 1,832 2,098 2,339 1,896 
+  
+Gas Turbine 
+Oil 53 41 32 91 47 
+  
+ Muara Tawar 
+  298 35 170 601 385 
+  
+Steam 
+Coal 4,112 4,722 5,101 4,567 4,929 
+  
+  
+Oil 4,928 5,121 5,275 4,862 5,660 
+  
+  
+Gas 1,324 1,177 1,030 646 669 
+    Oil/HSD 15 7 7 5 9 
+  
+Combined Cycle 
+GT/Gas 7,283 6,228 5,235 4,716 4,824 
+  
+  
+Oil 481 1,359 2,229 3,101 2,589 
+  
+  
+ST 3,944 3,456 2,714 2,112 2,422 
+  
+Muara Tawar 
+ST 1,117 1,281 2,860 2,901 2,614 
+  
+TOTAL NET 
+PRODUCTION 
+  
+25,935 25,259 26,751 25,941 26,044 
+
+   year 
+2002 2003 2004 2005         2,006  
+  
+fuel GWh 
+Muara Tawar   
+  
+          
+  
+Gas 
+Turbine 
+Gas 0 0 900 2,064 1,618 
+Tanjung Jati B   
+      
+  
+Steam 
+Coal 0 0 0 0 3,869 
+Cilegon 
+        
+
+52
+Source:datareportedbyDepartmentofEnergyandMineralResourcesofIndonesia/DirectorateGeneralof
+ElectricityandEnergyUtilizationon13February2009
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 37 
+
+  
+Combin
+ed 
+Cycle 
+Gas 0 0 0 0 742 
+  
+TOTAL 
+GROSS 
+PRODU
+CTION 
+ 
+0 0 900 2064 6229 
+  
+TOTAL 
+NET 
+PRODU
+CTION 
+ 
+- - 862 1,981 5,966 
+
+
+ 
+2002 2003 2004 2005         2,006  
+ 
+GWh 
+TOTAL NET PRODUCTION  IN JAVA BALI 
+SYSTEM (including LCMR)  
+82,976 86,815 91,497 96,805 100,015 
+Low Cost/Must Run 50,806 53,753 56,415 59,587 60,639 
+ratio of LCMR 61.2% 61.9% 61.7% 61.6% 60.6% 
+
+TheaverageOMcanbecalculatedusingeitherofthetwofollowingdatavintages:
+/ Exanteoption:A3/yeargenerationweightedaverage,basedonthemostrecentdataavailableat
+the time of submission of the CDM/PDD to the DOE for validation, without requirement to
+monitorandrecalculatetheemissionsfactorduringthecreditingperiod,or
+/ Expostoption:Theyearinwhichtheprojectactivitydisplacesgridelectricity,requiringthe
+emissionsfactortobeupdatedannuallyduringmonitoring.Ifthedatarequiredtocalculatethe
+emissionfactorforyearyisusuallyonlyavailablelaterthansixmonthsaftertheendofyeary,
+alternativelytheemissionfactorofthepreviousyear(y/1)maybeused.ifthedataisusually
+onlyavailable18monthsaftertheendofyeary,theemissionfactoroftheyearproceedingthe
+previous year (y/2) may be used. The same data vintage (y, y/1, or y/2) should be used
+throughoutallcreditingperiods.
+
+Thedatavintagechoseninthisprojectisexanteoption.
+
+Step 3. Calculate the operating margin emission factor (EF
+grid OM,y
+) according to the selected
+method
+
+AverageOMiscalculatedastheaverageemissionrateofallpowerplantsservingthegrid,includingthe
+low/cost/must/runpowerplants.
+
+Itmaybecalculatedbasedonthese3followingoptions:
+• OptionA:fuelconsumptionandnetelectricitygenerationofeachpowerplant
+• OptionB:netelectricitygeneration,theaverageefficiencyofeachpowerplantandthefuelused
+ineachpowerplant
+• OptionC:totalnetelectricitygenerationofallpowerplantsservingthesystemandthefueltype
+andtotalfuelconsumptionoftheprojectelectricitysystem.
+
+OptionAischosensincethefuelconsumptionandnetelectricitygenerationofeachpowerplantunit/not
+includinglow/cost/must/run/isavailable.Therefore,theformulaappliedfor(
+EF
+gridOM,y
+)isasfollows:
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 38 
+
+
+∑
+∑
+••
+=
+m
+ym
+mi
+yiCOyiymi
+yOMgrid
+EG
+EFNCVFC
+EF
+,
+,
+,,2,,,
+,,
+
+
+Where:
+
+EF
+grid,OM,
+
+=OperatingmarginCO
+2
+emissionfactorinyeary(tCO
+2
+/MWh)
+FC
+i,m,y
+=Amountoffossilfueltypeiconsumedbypowerplant/unitminyeary(massorvolume
+unit)
+NCV
+i,y
+=Netcalorificvalue(energycontent)offossilfueltypeiinyeary(GJ/massorvolume
+unit)
+EF
+CO2,i,y
+=CO
+2
+emissionfactoroffossilfueltypeiinyeary(tCO
+2
+/GJ)
+EG
+m,y
+=Netelectricitygeneratedanddeliveredtothegridbypowerplant/unitminyeary
+(MWh)
+m=Allpowerplants/unitsservingthegridinyearyexceptlow/cost/must/runpower
+plants/units
+i=Allfossilfueltypescombustedinpowerplant/unitminyeary
+y=Thethreemostrecentyearsforwhichdataisavailableatthetimeofsubmissionofthe
+CDM/PDDtotheDOEforvalidation
+EF
+grid,OM,,2004#2006
+=0.844tCO
+2
+/MWh(RefertoSection6.3,table10)
+
+Step4.IdentifythecohortofpowerunitstobeincludedintheBuildMargin(BM)
+
+Thesamplegroupidentifiedofthecohortofpowerplantunittobeincludedinthebuildmarginconsists
+ofeither:
+• Thesetoffivepowerplantsthathavebeenbuiltmostrecently
+• Thesetofpowercapacityadditionsintheelectricitysystemthatcomprise20%ofthesystem
+generation(inMWh)andthathavebeenbuiltmostrecently
+
+The tool mandates the use of whichever option thatcomprises the larger annual generation. The
+identifiedfivemostrecentpowerplants,howevercompriseofonly8.17%oftotalpowergenerationand
+thereforesamplegroupmwasexpandedtoincludepowerplantsuptocapacityadditionsthatcomprise
+20% of system generations. These power plants and their corresponding generation and fuel
+consumptionsarepresentedinthefollowingTable5
+53
+.
+
+
+
+
+
+53
+DataiscomposedbasedoninterviewandcorrespondencewithPTPLNP3B(Persero).Source:PDDforRegistered
+Project1313:MEN/Tangerang13.6MWNaturalGasCo/generationProject
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 39 
+
+Table5samplegroupm forBuildMargin
+Sample Group m power plant and its 
+commissioning year 
+Fuel type 
+Operation 
+year 
+Generated 
+Power 
+(GWh) 
+Cumulative 
+generation per 
+total 
+generations of 
+all power plants 
+in the Jamali 
+Grid (%) 
+Owner Power Plant     
+Cilegon Cilegon CCGT-Gas 2006 
+742.0 0.74 
+Tanjung Jati B Tanjung Jati B Steam-Coal 2006 
+3,869.0 4.61 
+PT Sumberenergi Sakti 
+Prima Cilacap Steam-Coal 2006 
+1,937.0 6.55 
+Muara Tawar Block 3 GT-Oil 2004 
+1,618.0 8.16 
+ Block 4 GT-Oil 2004 
+ 8.16 
+PT Krakatau Daya Listrik Krakatau Steam-Coal 2003 
+2.2 8.17 
+PT Cikarang Listrindo 
+Power Cikarang GT-Gas 2003 
+403.0 8.57 
+PT Indonesia Power Pemaron GT-Oil 2003 
+201.3 8.77 
+PT Geo Dipa Energi Dieng Geothermal 2002 
+319.0 9.09 
+Chevron Texaco Energi 
+Indonesia Ltd. Darajad Geothermal 2001 
+735.0 9.83 
+PT Magma Nusantara 
+Listrindo Wayangwindu Geothermal 2001 
+922.0 10.75 
+PT Java Power Paiton II Steam-Coal Nov, 2000 
+9,109.0 19.85 
+PT Paiton Energi Paiton I Steam-Coal 1999 
+9,116.0 28.97 
+
+Thetoolallowsprojectparticipanttochoosebetweenoneofthefollowingoptions:
+• Option1:ex–anteforthefirstcreditingperiod&updatedforthesecondcreditingperiod.Forthe
+thirdcreditingperiod,buildmarginemissionfactorcalculatedforthesecondcreditingperiod
+willbeused.
+• Option 2:ex#post. Calculated annually for the firstcrediting period. For the secondcrediting
+period,itwillbecalculatedex#ante.Forthethirdcreditingperiod,thecalculatedforthesecond
+creditingperiodwillbeused.
+
+Option1ex/anteischosenfortheproject.
+
+Step5.Calculatethebuildmarginemissionfactor(EF
+grid,BM,y
+)
+
+Thebuildmarginiscalculatedusingthefollowingequation:
+
+
+
+
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 40 
+
+Where:
+
+EF
+grid,BM,
+y
+
+=BuildmarginCO
+2
+emissionfactorinyeary(tCO
+2
+/MWh)
+EG
+m,y
+=Netquantityofelectricitygeneratedanddeliveredtothegridbypowerunitminyeary
+(MWh)
+EF
+EL,m,y
+=CO
+2
+emissionfactorofpowerunitminyeary(tCO
+2
+/MWh)
+m=Powerunitsincludedinthebuildmargin
+y=Mostrecenthistoricalyearforwhichpowergenerationdataisavailable
+
+TheCO2emissionsfromthesepowerplantsarecalculatedusingdatapresentedintable6andtable7.
+
+EF
+grid,BM,2006
+=0.937tCO
+2
+/MWh(RefertoSection6.3,table11)
+
+Step6.Calculatethecombinedmarginemissionfactor(EF
+grid,CM,y
+)
+
+JAMALIgridbaselineemissionsfactor(EFy)asthecombinedmarginemissionsfactor(EF
+grid CM,y
+)is
+calculated using the “tool to calculate the emission factor for an electricity system version 01.1”. It
+consists of the combination of operating margin (EF
+grid OM,y
+) and build margin (EF
+grid BM,y
+) emission
+factorscalculatedex#anteusingfollowingequation:
+
+EF
+gridCM,y
+=w
+OM
+.EF
+gridOM,y
++w
+BM
+.EF
+gridBM,y
+
+
+Where:
+
+EF
+gridCM,y
+=CombinedmarginCO
+2
+emissionfactorforJAMALIgridconnectedpower
+generationforinyeary(tCO
+2
+/MWh)
+EF
+gridOM,y
+=OperatingmarginCO
+2
+emissionfactorforJAMALIgridconnectedpowergeneration
+inyeary(tCO
+2
+/MWh)
+EF
+gridBM,y
+=BuildmarginCO
+2
+emissionfactorforJAMALIgridconnectedpowergenerationin
+yeary(tCO
+2
+/MWh)
+w
+OM
+   =weightingforoperatingemissionfactor(50%)
+w
+BM
+    =weightingforbuildmarginemissionfactor(50%)
+
+Leakage(L
+y
+)
+
+Since ACM0002 version 9 does not consider the emission due to power plant construction and fuel
+handlings,noleakageisconsidered(L
+y
+=0).
+
+ProjectEmission(PE
+y
+)
+
+Theprojectemissionsthatshallbeaccountedare:
+• fugitiveCH
+4
+andCO
+2
+inthenon/condensablegasesoftheproducedsteam.
+• CO
+2
+ emission resulting from combustion of fossil fuelrelated totheoperation ofthe
+powerplant.
+
+PE
+y
+=PES
+y
++PEFF
+y
+
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 41 
+
+
+Where:
+PE
+y
+= Projectemissioninyeary(tCO
+2
+/yr)
+PES
+y
+= ProjectemissionofCH
+4
+andCO
+2
+duetothereleaseofnon/condensablegases
+   fromthestreamproducedingeothermalpowerplantinyeary(tCO
+2
+/yr)
+PEFF
+y
+  = Projectemissionfromcombustionoffossilfuelsrelatedtotheoperationofthe
+geothermalpowerplantinyeary(tCO
+2
+/yr)
+
+ProjectemissionofCO
+2
+andCH
+4
+duetothereleaseofnon/condensablegasesfromthesteamproducedin
+thegeothermalpowerplantiscalculatedas:
+
+PES
+y
+=(ω
+main,CO2
++ω
+main,CH4
+.GWP
+CH4
+).M
+S,y
+
+
+Where:
+PES
+y
+   = ProjectemissionofCH
+4
+andCO
+2
+duetothereleaseofnon/condensablegasesfrom
+   thestreamproducedingeothermalpowerplantinyeary(tCO
+2
+/yr)
+ω
+main,CO2
+  =averagemassfractionofCO
+2
+intheproducedsteam(non/dimensional)
+ω
+main,CH4
+  =averagemassfractionofCH
+4
+intheproducedsteam(non/dimensional)
+GWP
+CH4
+ =globalwarmingpotentialofCH
+4
+validfortherelevantcommitmentperiod
+   (tCO
+2
+/tCH
+4
+)
+M
+S,y
+  =Quantityofsteamproducedduringtheyeary(tonnes)
+
+ForthecalculationinthisPDD,ω
+main,CO2
+and ω
+main,CH4
+areassumedtohavethesamefigurefromthe
+previousWayangWindu1project.Theseassumptionsaretakenduetothepredictedsamecharacteristic
+ofgeothermalsteam.ThesteamreservoirforWayangWindu1and2arelocatedatthesamegeological
+formation/bed.Bothparameterswillbemonitoredduringthecreditingperiod.
+
+M
+s,y
+fortheemissionreductionestimationinthisPDDisavailablefromthewelltestdoneforfeasibility
+study.Theparameterwillbemonitoredduringthecreditingperiod.
+
+Furtherprojectemissionsfromcombustionoffossilfuelrelatedtotheoperationofgeothermalpower
+plantiscalculatedas:
+
+PEFF
+y
+=PE
+FC,j,y
+
+
+Where:
+PEFF
+y
+=projectemissionsfromcombustionoffossilfuelsrelatedtotheoperationofthe
+geothermalpowerplantinyeary(/yr)
+PE
+FC,j,y
+=CO
+2
+emissionsfromfossilfuelcombustioninprocessjduringtheyeary(tCO
+2
+/yr).
+This parameter will be calculated by the “tool to calculate project or leakage CO
+2
+
+emissionsfromfossilfuelcombustionversion02”
+
+Fossilfuelconsumptioncomesonlyfromtheemergencygeneratorsetandemergencyfirepump.Regular
+maintenance that consumes diesel fuel will be performed. The consumption of diesel fuel and its
+characteristicwillberecordedduringthecreditingperiod.Tobeconservative,forthecalculationinthis
+PDD, the amount of diesel fuel will be taken by doubling the volume of the diesel consumption in
+WayangWindu1.
+
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 42 
+
+EmissionReduction(ER
+y
+)
+
+The emission reduction ER
+y
+(tCO
+2
+/yr) by the project activity during a given year yis the difference
+between the baseline emission (BE
+y
+), project emission (PE
+y
+) and emissions due to leakage (L
+y
+), as
+follows:
+
+ER
+y
+=BE
+y
+–PE
+y
+#L
+y
+
+B.6.2.Dataandparametersthatareavailableatvalidation:
+
+Data/Parameter:
+GWP
+CH4
+
+Dataunit:tCO
+2
+/tCH
+4
+
+Description:Globalwarmingpotentialofmethanevalidfortherelevantcommitmentperiod
+Sourceofdataused:IPCC
+Valueapplied:Defaultvalueforthefirstcommitmentperiod=21tCO
+2
+/tCH
+4
+
+Justificationofthe
+choiceofdataor
+descriptionof
+measurementmethods
+andprocedures
+actuallyapplied:
+//
+Anycomment://
+
+Data/Parameter:
+EG
+historical
+
+Dataunit:MWh
+Description:Averageofhistoricalelectricitydeliveredbytheexistingfacilitytothegrid
+Sourceofdataused:Projectactivitysite
+Valueapplied:912,476
+Justificationofthe
+choiceofdataor
+descriptionof
+measurementmethods
+andprocedures
+actuallyapplied:
+Theaverageofhistoricalelectricitydeliveredbytheexistingfacility(Wayang
+WinduPhase1)tothegrid,spanningalldatafromthemostrecentavailable
+month(February2009)tothetimeatwhichthefacilitywasoperated(June
+2000)expressedinMWhperyear.
+Dataisbasedoninvoicesfromnetelectricitysalestothegridoperator.
+Anycomment://
+
+Data/Parameter:
+DATE
+BaselineRetrofit
+
+Dataunit:Date
+Description:Pointintimewhentheexistingequipmentwouldneedtobereplacedinthe
+absenceoftheprojectactivity
+Sourceofdataused:Projectactivitysite
+Valueapplied:01June2030
+Justificationofthe
+choiceofdataor
+descriptionof
+measurementmethods
+andprocedures
+Thetechnicallifetimeoftheexistingfacility,i.e.WayangWinduPhase1,in
+theabsenceoftheprojectactivityistakentobe30years.Thisisaconservative
+number,consideringmanyofthepowerplantsinIndonesiaareoperatedeven
+afteritstechnicallifetime.
+
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 43 
+
+actuallyapplied:WayangWindu1startedoperationinJune2000,hencetheDATE
+BaselineRetrofit
+is
+01June2030.
+
+Anycomment://
+
+Data/Parameter:
+EF
+grid,CM,y
+
+Dataunit:tCO
+2
+/MWh
+Description:GridemissionfactorforJAMALI
+Sourceofdataused:GridcalculationpublishedbyDepartmentofEnergyandMineralResourcesof
+Indonesia/DirectorateGeneralofElectricityandEnergyUtilizationand
+endorsedbyIndonesiaDNAon19January2009.
+Valueapplied:0.891
+Justificationofthe
+choiceofdataor
+descriptionof
+measurementmethods
+andprocedures
+actuallyapplied:
+Calculatedwith“tooltocalculatetheemissionfactorforanelectricitysystem
+version01.1”.
+Anycomment:Calculatedonceex/anteatthestartofthecreditingperiod,usingthemost
+recentthreehistoricalyearsforwhichdataisavailableatthetimeof
+submissionoftheCDM/PDDtotheDOEforvalidation
+
+B.6.3. Exantecalculationofemissionreductions:
+
+Baselineemission(BE
+y
+)
+
+BE
+y
+=(EG
+y
+#EG
+baseline
+).EF
+grid,CM,y
+
+Where:
+
+BE
+y
+=Baselineemissioninyeary(tCO
+2
+/yr)
+EG
+y
+=Electricitysuppliedbytheprojectactivitytothegrid(MWh)
+EG
+baseline
+=Baselineelectricitysuppliedtothegridinthecaseofmodifiedorretrofitfacilities
+(MWh).Fornewpowerplantsthisvalueistakenaszero
+EF
+grid,CM,y
+=CombinedmarginCO
+2
+emissionfactorforgridconnectedpowergenerationinyeary
+(calculatedbyusing“tooltocalculatetheemissionfactorforanelectricitysystem
+version01.1”)
+
+As described at section B.6.1, JAMALI grid baseline emissions factor (EFy) is calculated as the
+combinedmarginemissionsfactorusingtooltocalculatetheemissionfactorforanelectricitysystem
+version01.1.Theresultappliedis0.891tCO
+2
+/MWhbasedontheex/anteapproachforbothOMand
+BM.
+
+
+
+
+
+Operatingmarginemissionfactor
+
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 44 
+
+
+The Operating Margin Emission Factor has been calculated by Department of Energy and Mineral
+Resources of Indonesia / Directorate General of Electricity and Energy Utilization and endorsed by
+IndonesianDNAusingvaluesasperfollowingtables.
+
+Table6NCV
+
+Type of fuel 
+NCVi,y 
+GJ/kt fuel GJ/kltr fuel 
+IDO(Industrial Diesel Oil) 41,961.1 36.93 
+HSD(High Speed Diesel) 42,728.6 36.11 
+MFO(Marine Fuel Oil) 41,019.0 40.61 
+Natural Gas  48,000.0  
+Coal 24,030.8  
+
+Table7DensityofFuel
+
+Type of fuel Density kg/m3=(kt x 10
+-6
+/kltr) 
+IDO(Industrial Diesel Oil) 880 
+HSD(High Speed Diesel) 845 
+MFO(Marine Fuel Oil) 990 
+
+Table8EffectiveCO
+2
+EmissionFactor
+
+Fuel type 
+Default Carbon Content 
+Default Carbon 
+Oxidation factor 
+Effective CO2 emission 
+factor 
+A B 
+C (EF
+CO2,I,y) 
+(tC/TJ) - (t- CO
+2
+/GJ) 
+Residual Fuel Oil 
+21.1                 1  0.0774  
+MFO(Marine Fuel Oil) 
+                                             
+Gas/Diesel Oil 
+20.2                 1  0.0741  
+IDO(Industrial Diesel Oil) 
+                          
+  
+HSD(High Speed Diesel) 
+                          
+  
+Natural Gas 15.3                 1  0.0561  
+Coal 26.2                 1  0.0961  
+
+
+
+
+
+
+
+Table9FuelConsumption
+
+OWNER  
+year 
+2002 2003 2004 2005 2006 
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 45 
+
+IP   unit           
+  HSD kilo litre 
+      
+1,519,777    1,632,380      2,125,397      2,700,109  
+     
+2,170,653  
+  
+MFO 
+kilo litre 
+         
+553,762       624,350         702,330         546,934         461,319  
+  
+IDO 
+kilo litre             4,028           3,989            3,502            4,074             2,343  
+  
+Gas 
+MMBTU 
+    
+51,652,593   59,063,442    46,531,163    43,019,888  
+   
+48,298,358  
+  
+Coal 
+ton 
+      
+9,711,476   10,856,426    10,636,155    12,508,407  
+   
+13,164,773  
+Source :Indonesia Power Statistic's 2002,2003,2004,2005 and 2006    
+        
+ 
+ 
+year 
+2002 2003 2004 2005 2006 
+PT PJB   unit           
+  
+HSD 
+kilo litre 
+         
+535,778       698,757      1,303,071      1,706,774  
+     
+1,450,468  
+  
+MFO 
+kilo litre 
+      
+1,403,673    1,468,915      1,532,591      1,397,208  
+     
+1,593,046  
+  
+Gas 
+MMBTU 
+  
+112,139,072   95,849,384  82949203   71,106,206  
+   
+71,160,078  
+  
+Coal 
+ton 
+      
+2,121,797    2,370,264      2,767,434      2,506,026  
+     
+2,752,759  
+Source :Statistik Perusahaan 2002-2006, PT PJB 
+ 
+   
+ 
+    
+   
+ 
+ year 
+2002 2003 2004 2005 2006 
+ 
+ 
+unit           
+Muara Tawar               
+  
+Gas 
+MMBTU 0 0 
+    9,063,717    20,786,124    16,294,549  
+Tanjung Jati B               
+  
+Coal 
+ton 0 0 0 0 
+    1,525,279  
+Cilegon 
+    
+          
+  
+Gas 
+MMBTU 0 0 0 0 
+    4,420,921  
+calculation data 
+      
+  
+year 
+2002 2003 2004 2005 2006 
+IPP  unit           
+Gas Cikarang MMBTU     5,130,800      6,130,700      5,585,300      4,070,300  
+  
+TOTAL 
+    
+  5,130,800      6,130,700      5,585,300  
+     
+4,070,300  
+Coal 
+Paiton I ton 
+      
+8,300,753  
+  9,060,889  
+    4,207,456      5,113,446  
+     
+4,437,332  
+  Paiton II ton     3,560,659      4,395,998  
+     
+4,273,017  
+  Krakatau ton 0  
+     5,995.7         5,620.9            374.7            835.6  
+  Cilacap ton 0  0  0  0  
+    764,054.0  
+  
+TOTAL 
+ton 
+      
+8,300,753    9,066,885      7,773,736      9,509,819  
+     
+9,475,239  
+Source : Indonesia Mineral and Coal Statistics, 2004, 2006, 2007, Ministry of Energy and Mineral Resources 
+
+
+
+
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 46 
+
+
+
+
+Table10OM
+
+EMISSION REDUCTION (t-CO2)
+OWNER20022003200420052006
+1IP
+HSD
+4,064,232           4,365,358        5,683,799        7,220,710        5,804,824         
+MFO
+1,739,793           1,961,565        2,206,560        1,718,341        1,449,359         
+IDO
+11,016                10,910             9,578               11,142             6,408                
+Gas
+6,637,470           3,495,943        2,754,162        2,546,331        2,858,762         
+Coal
+22,419,514         25,062,698      24,554,190      28,876,394      30,391,653       
+TOTAL GHG REDUCTION
+34,872,026         34,896,474      35,208,288      40,372,919      40,511,005       
+20022003200420052006
+2PT PJB
+HSD
+1,432,793           1,868,636        3,484,710        4,564,305        3,878,884         
+MFO
+4,410,019           4,614,994        4,815,050        4,389,707        5,004,985         
+Gas
+6,637,470           5,673,289        4,909,733        4,208,750        4,211,939         
+Coal
+4,898,293           5,471,894        6,388,784        5,785,309        6,354,906         
+TOTAL GHG REDUCTION
+17,378,575         17,628,814      19,598,277      18,948,071      19,450,714       
+20022003200420052006
+3Muara Tawar
+Gas
+00
+536,478          1,230,323        964,468           
+4Tanjung Jati B
+Coal
+0000
+3,521,197        
+5Cilegon
+Gas
+0000
+261,673           
+TOTAL GHG REDUCTION
+-                         -                       536,478           1,230,323        4,747,338         
+6IPP20022003200420052006
+JatiluhurHydro00000
+DiengGeothermal00000
+Salak 4,5,6
+Geothermal00000
+Wayang WinduGeothermal00000
+0
+0
+000
+Drajat IIGeothermal00000
+Cikaranggas
+-                         303,690             362,874          330,592           240,920           
+-                         303,690           362,874          330,592          240,920           
+Paiton ICoal9,713,160        11,804,691      10,243,842       
+Paiton IICoal8,219,991        10,148,420      9,864,511         
+KrakatauCoal0
+13,841             12,976            865                  1,929               
+CilacapCoal0000
+1,763,864        
+19,162,777         20,931,437      17,946,127      21,953,976      21,874,146       
+20022003200420052006
+71,413,378         73,760,415      73,652,044      82,835,880      86,824,124       
+82,976,188         86,815,336      91,496,978      96,805,270      100,014,611     
+0.8606                0.8496             0.8050             0.8557             0.8681              
+TOTAL GHG REDUCTION in 2004, 2005, 2006243,312,048    t-CO2
+TOTAL NET PRODUCTION in 2004, 2005, 2006288,316,859    MWh
+OPERATING MARGIN0.844               tCO2/MWh
+t-CO2
+t-CO2
+t-CO2
+t-CO2
+TOTAL GHG REDUCTION
+TOTAL GHG REDUCTION
+19,162,777         20,917,596      
+TOTAL GHG REDUCTION
+TOTAL GHG REDUCTION  (t-CO2)
+TOTAL NET PRODUCTION  (MWh)
+COEFFICIENT EMISSION REDUCTION (t-CO2/MWh)
+
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 47 
+
+Electricityimportemissionfactor
+
+Electricityimportemissionfactorisdeterminedto0(zero)tCO
+2
+/MWhbecausecurrentlytheJAMALI
+gridisnotinter/connectedwithotherprovincialgridswithinIndonesiawithnointermediateplantodo
+so.
+
+Buildmarginemissionfactor
+
+TheBuildMarginEmissionFactorhasbeencalculatedbyDepartmentofEnergyandMineralResources
+of Indonesia / Directorate General of Electricity and Energy Utilization and endorsed by Indonesian
+DNA.TheCO
+2
+emissionsfromthesepowerplantsarecalculatedusingthesamedatapresentedintable
+5,table6,table7andtable8.Theresultcanbefoundintable10below.
+
+Table11BMcalculation
+
+ Actual 
+Data     Actual data 
+ (t- CO2/GJ)   (GJ/MMBTU) 
+Owner
+ C 
+F
+ G= CxD/I 
+ G= 1000x 
+CxD/E HIG=(ExF)xH/1000   G=ExGxH
+PT Paiton Energi
+Steam-Coal
+    9,116.0       4,437,332 ton0.0961           10,243,842 
+PT Java Power
+Steam-Coal
+    9,109.0       4,273,017 ton0.0961             9,864,511 
+PT Magma Nusantara 
+Listrindo
+Geothermal
+       922.0 00
+Chevron Texaco Energi 
+Indonesia Ltd.
+Geothermal
+       735.0 00
+PT Geo Dipa Energi
+Geothermal
+       319.0 00
+PT Indonesia Power
+GT-Oil
+       201.3              61,422 kltr0.0741         164,255.5 
+PT Cikarang Listrindo 
+Power 
+GT-Gas
+       403.0      4,070,300.0 MMBTU0.0561 1.0551         240,919.5 
+PT Krakatau Daya Listrik
+Steam-Coal
+           2.2              835.6  ton0.0961                 1,929.1 
+Muara Tawar
+GT-Oil
+    1,618.0    16,294,548.7 MMBTU0.0561 1.0551         964,468.3 
+GT-Oil
+PT Sumberenergi Sakti 
+Prima
+Steam-Coal
+    1,937.0       764,054.0  ton0.0961          1,763,863.7 
+Tanjung Jati B
+Steam-Coal
+    3,869.0    1,526,135.8  ton0.0961          3,523,174.3 
+Cilegon
+CCGT-Gas
+       742.0      6,666,284.2 MMBTU0.0561 1.0551         394,574.9 
+TOTAL   27,161,539.0 
+P ow er P lant
+P ow er P lantP ow er P lant
+P ow er P lant
+fuel type
+fuel typefuel type
+fuel type
+Generate
+d Power
+ GWh net 
+ Fuel Consumption 
+ unit 
+ t-CO2 
+Effective CO2 
+emission factor
+convert value
+Emission Reductioncalculation data
+
+TOTAL GHG REDUCTION in 2006  27,161,539 t-CO2 
+TOTAL NET PRODUCTION in 2006  28,973,555 MWh 
+BUILD MARGIN   0.937 tCO2/MWh 
+
+Combinedmarginemissionfactor
+
+
+EF
+gridCM,y
+=w
+OM
+.EF
+gridOM,y
++w
+BM
+.EF
+gridBM,y
+
+
+
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 48 
+
+ItemUnitEF
+EF
+OM,average,y
+(tCO
+2
+e/MWh)0.844
+EF
+BM,y
+(tCO
+2
+e/MWh)0.937
+EF
+y
+(tCO
+2
+e/MWh)
+0.891
+
+ThecombinedmarginemissionfactoroftheJAMALIgridfor2004/2006is0.891tCO
+2
+/yr
+
+Baselineemission
+
+BE
+y
+=(EG
+y
+#EG
+baseline
+).EF
+grid,CM,y
+
+Takenintoaccounttheloadfactorof93%and8760operationalhours/yr,theelectricitysuppliedtothe
+JAMALIgridbytheadditionalpowerunit(WayangWinduPhase2):
+
+EG
+capacityaddition
+=loadfactor.(installedcapacity#auxiliaryuse).operationalhours
+=0.93.(117–3.5)MW.8760hours/yr
+=924,661.8MWh/yr
+
+Takenintoaccounttheaverageofhistoricalelectricitydeliveredbytheexistingfacility(WayangWindu
+Phase1)tothegrid,spanningalldatafromthemostrecentavailablemonth(February2009)tothetime
+atwhichthefacilitywasoperated(June2000):
+
+EG
+baseline
+=EG
+historical
+=912,476MWh
+
+EG
+y
+#EG
+baseline
+=(912,476+924,661.8)/912,476
+ =924,661.8MWh
+
+BE
+y
+    =(EG
+y
+#EG
+baseline
+).EF
+grid,CM,y
+=924,661.8MWh/yr.0.891tCO
+2
+/MWh
+=823,873.66tCO
+2
+/yr
+
+Leakage(L
+y
+)
+
+Since ACM0002 version 9 does not consider the emission due to power plant construction and fuel
+handlings,noleakageisconsidered(Ly=0).
+
+ProjectEmission(PE
+y
+)
+
+PE
+y
+=PES
+y
++PEFF
+y
+
+
+Where:
+PE
+y
+=Projectemissioninyeary(tCO
+2
+/yr)
+PES
+y
+=ProjectemissionofCH
+4
+andCO
+2
+duetothereleaseofnon/condensablegasesfrom
+thestreamproducedingeothermalpowerplantinyeary(tCO
+2
+/yr)
+PEFF
+y
+           = Project emission from combustion of fossil fuels related to the operation of the
+geothermalpowerplantinyeary(tCO
+2
+/yr)
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 49 
+
+
+ProjectemissionofCO
+2
+andCH
+4
+duetothereleaseofnon/condensablegasesfromthesteamproducedin
+thegeothermalpowerplantiscalculatedas:
+
+PES
+y
+=(ω
+main,CO2
++ω
+main,CH4
+.GWP
+CH4
+).M
+S,y
+
+
+Where:
+PES
+y
+=ProjectemissionofCH
+4
+andCO
+2
+duetothereleaseofnon/condensablegasesfrom
+thestreamproducedingeothermalpowerplantinyeary(tCO
+2
+/yr)
+ω
+main,CO2
+=averagemassfractionofCO
+2
+intheproducedsteam(non/dimensional)
+ω
+main,CH4
+=averagemassfractionofCH
+4
+intheproducedsteam(non/dimensional)
+GWP
+CH4
+=globalwarmingpotentialofCH
+4
+validfortherelevantcommitmentperiod
+(tCO
+2
+/tCH
+4
+)
+M
+S,y
+=Quantityofsteamproducedduringtheyeary(tonnes)
+
+PES
+y
+=(ω
+main,CO2
++ω
+main,CH4
+.GWP
+CH4
+).M
+S,y
+=(4.1.10
+/3
++1.96.10
+/6
+.21).7,007,299.2
+=29,018.35tCO
+2
+/yr
+                        
+Projectemissionfromcombustionoffossilfuelrelatedtotheoperationofgeothermalpowerplantis
+calculatedas:
+
+PEFF
+y
+=PE
+FC,j,y
+
+
+Where:
+PEFF
+y
+=projectemissionsfromcombustionoffossilfuelsrelatedtotheoperationofthe
+geothermalpowerplantinyeary(/yr)
+PE
+FC,j,y
+=CO
+2
+emissionsfromfossilfuelcombustioninprocessjduringtheyeary(tCO
+2
+/yr).
+Thisparameterwillbecalculatedbythe“tooltocalculateprojectorleakageCO
+2
+
+emissionsfromfossilfuelcombustionversion02”
+
+PE
+FC,j,y
+=∑FC
+diesel,j,y
+.COEF
+i,y
+
+
+Where:
+FC
+diesel,j,y
+=quantityofdieselcombustedinemergencygensetandfirepumpduringthehistorical
+yearofWayangWindu1operation(ton)
+COEF
+i,y
+=CO
+2
+emissioncoefficientofdieselfuel(tCO2/ton)
+
+COEF
+i,y
+iscalculatedbasedonnetcalorificvalueandCO
+2
+emissionfactorofdieselfuel,asfollows:
+
+COEF
+i,y
+=NCV
+diesel,y
+.EF
+CO2,diesel,y
+
+Where:
+NCV
+diesel,y
+=weightedaveragenetcalorificvalueofdieselfuel(IPCCdefaultvaluesattheupper
+limitoftheuncertaintyata95%confidenceintervalasprovidedinTable1.2of
+Chapter1ofVol.2(Energy)ofthe2006IPCCGuidelinesonNationalGHG
+Inventories)(GJ/ton)
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 50 
+
+EF
+CO2,diesel,y
+=weightedaverageCO
+2
+emissionfactorofdieselfuelhistorical(IPCCdefaultvaluesat
+theupperlimitoftheuncertaintyata95%confidenceintervalasprovidedinTable1.2
+ofChapter1ofVol.2(Energy)ofthe2006IPCCGuidelinesonNationalGHG
+Inventories(tCO
+2
+/GJ)
+
+COEF
+i,y
+=43.3.0.0204.44/12
+=3.24(tCO
+2
+/ton)
+
+PE
+FC,j,y
+=7.06.3.24
+=22.87(tCO
+2
+/yr)
+
+PE
+y
+=PES
+y
++PEFF
+y
+
+=29,018.35+22.87
+=29,041.22(tCO
+2
+/yr)
+
+EmissionReduction(ER
+y
+)
+
+ER
+y
+=BE
+y
+–PE
+y
+–L
+y
+= 823,873.66–29,041.22–0
+=794,832.46tCO
+2
+/yr
+=794,832tCO
+2
+/yr
+
+B.6.4   Summaryoftheexanteestimationofemissionreductions:
+
+Renewablecreditingperiod(7yearsx3)isadoptedbytheProject.Itisexpectedthattheproject
+activitieswillgenerateemissionreductionsofabout794,832tCO
+2
+eperyearoverthefirst7/year
+creditingperiod.
+
+yearEstimateof
+projectactivity
+emission(tCO
+2
+)
+Estimateof
+baselineemission
+(tCO
+2
+)
+Estimateof
+leakage(tCO
+2
+)
+Estimateof
+overallemission
+reduction(tCO
+2
+)
+129,041823,8740794,832
+229,041823,8740794,832
+329,041823,8740794,832
+429,041823,8740794,832
+529,041823,8740794,832
+629,041823,8740794,832
+729,041823,8740794,832
+Total(tCO
+2
+)
+
+
+5,563,824
+
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 51 
+
+
+B.7.Applicationofthemonitoringmethodologyanddescriptionofthemonitoringplan:
+
+B.7.1Dataandparametersmonitored:
+
+WayangWinduUnit1deliverselectricitythroughits110MWsteamturbineandperipheralequipment
+drivenbythesteamproducedbytheexistingproductionwellsallocatedforWayangWinduUnit1.
+
+Theprojectactivity,WayangWinduUnit2/anadditionalgenerationcapacity,deliverselectricity
+throughits117MWsteamturbineandperipheralequipmentdrivenbythesteamproducedbythe7
+productionwellsallocatedforWayangWinduUnit2.
+
+ThesteampipelinefromWayangWinduUnit1andUnit2areinterconnected,allowingsteamtoflow
+fromproductionwellsofWayangWinduUnit1tosteamturbineofWayangWinduUnit2,andvice
+versa.
+
+Inregardstothis,monitoringofthesteamparametersfortheprojectactivitywillbeconductedinthe
+conservativematter.
+
+
+
+Figure7SimplifiedProcessFlowDiagramforCDMMonitoring
+
+Monitoring
+points
+M
+so
+ω
+main,CO2
+ω
+main,CH4
+
+M
+sv
+ω
+main,CO2
+ω
+main,CH4
+
+EG
+existing,v
+EG
+v
+M
+sb
+
+Possibilityforsteamexchangeunit1andunit2
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 52 
+
+
+
+Data/Parameter:
+M
+S,y
+
+Dataunit:Tonnes
+Description:Quantityofsteamproducedduringtheyeary
+Sourceofdatatobe
+used:
+Measurementatprojectactivitysite
+Valueofdataapplied
+forthepurposeof
+calculatingexpected
+emissionreductionsin
+sectionB.5
+7,007,299.2
+Measurement
+procedures:
+ThequantityofsteamproducedisrecordeddailybymeansofaVenturiflow
+meter(M
+sv,y
+)locatedattheupstreamoftheWayangWinduUnit2turbineand
+whichisadjustedforlossesofbrineatthesteamseparator(M
+sb,y
+)aswellas
+OrificePlates(M
+so,i,y
+)locatedattheWayangWinduUnit2wellheads.
+
+Inordertobeconservative,theprimarydatawillbetakenfromthehigher
+valuesfromeitherfromtheupstreammeteringpointsorthedownstream
+metering.Incasesteamistransferredfromunit1steamfieldsforpower
+generationatunit2theupstreamfigurewillhigher.Incasesteamfromthe
+newsteamfieldsatunit2willbetransferredtothepowergeneratorofunit1
+thedownfieldfigurewillbehigher.Usingthehigheroneofthetwovalues
+ensuresthatprojectemissionswhichareattributabletothecapacityaddition
+byunit2areclearlyidentifiedandaccounted.Thus,thequantityofsteam
+(M
+S,y
+)isgivenby:
+
+∑
++=
+i
+ysoysbysvyS
+MMMM)),max((
+,,,,
+
+
+Monitoringfrequency:  Dataismonitoredcontinuously(pollingofatleasteverysecond)and
+condensedtohalfhourvalues.Dailyfigureswillbebuiltaccordingtothe
+methodologybyaccumulationofdata.
+QA/QCproceduresto
+beapplied:
+Calibration:followingthetechnicalspecification/requirementofthe
+manufacturerbutaleasteverythreeyears
+Anycomment:DCSrecordsthedatacontinuouslyattheresolutionof2milliseconds.
+
+Data/Parameter:
+ω
+main,CO2
+
+Dataunit:tCO
+2
+/tsteam
+Description:AveragemassfractionofCO
+2
+intheproducedsteam
+Sourceofdatatobe
+used:
+Fieldsampling&measurement
+Valueofdataapplied
+forthepurposeof
+calculatingexpected
+emissionreductionsin
+sectionB.5
+4.1]10
+/3
+
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 53 
+
+Descriptionof
+measurementmethods
+andprocedurestobe
+applied:
+Non/condensablegasessamplingwillbecarriedoutinproductionwellsandat
+thesteamfield/powerplantinterfaceusingASTMStandardPracticeE1675for
+Sampling2/PhaseGeothermalFluidforPurposesofChemicalAnalysis(as
+applicabletosamplingsinglephasesteamonly).TheCO
+2
+andCH
+4
+sampling
+andanalysisprocedureconsistsofcollectingnon/condensablegasessamples
+fromthemainsteamlinewithglassflasks,filledwithsodiumhydroxide
+solutionandadditionalchemicalstopreventoxidation.Hydrogensulphide
+(H
+2
+S)andcarbondioxide(CO
+2
+)dissolveinthesolventwhiletheresidual
+compoundsremainintheirgaseousphase.Thegasportionisthenanalyzed
+usinggaschromatographytodeterminethecontentoftheresidualsincluding
+CH
+4
+.Allalkanesconcentrationsarereportedintermsofmethane.Thenon/
+condensablegasessamplingandanalysisshouldbeperformedatleastevery
+threemonthsandmorefrequently,ifnecessary.
+
+Theprimarydatawillbetakenfromeithertheanalysisfromthegassampling
+carriedoutintheproductionwellsoratthesteamfield/powerplantinterface
+dependingonthevaluesusedfortheM
+S,y
+(Quantityofsteamproducedduring
+theyeary)
+Monitoringfrequency:  SampleswillbetakeneverythreemonthsatthemonitoringpointsofM
+so,i,y
+and
+M
+sv,y
+
+QA/QCproceduresto
+beapplied:
+FollowingASTMStandardPracticeE1675
+Anycomment:Samplingofgasesinbrineisnotrequiredasthispathofgasflowisnegligible.
+
+Data/Parameter:
+ω
+main,CH4
+
+Dataunit:tCH
+4
+/tsteam
+Description:AveragemassfractionofCH
+4
+intheproducedsteam
+Sourceofdatatobe
+used:
+Fieldsampling&measurement
+Valueofdataapplied
+forthepurposeof
+calculatingexpected
+emissionreductionsin
+sectionB.5
+1.96]10
+/6
+
+Descriptionof
+measurementmethods
+andprocedurestobe
+applied:
+Non/condensablegasessamplingwillbecarriedoutinproductionwellsandat
+thesteamfield/powerplantinterfaceusingASTMStandardPracticeE1675for
+Sampling2/PhaseGeothermalFluidforPurposesofChemicalAnalysis(as
+applicabletosamplingsinglephasesteamonly).TheCO
+2
+andCH
+4
+sampling
+andanalysisprocedureconsistsofcollectingnon/condensablegasessamples
+fromthemainsteamlinewithglassflasks,filledwithsodiumhydroxide
+solutionandadditionalchemicalstopreventoxidation.Hydrogensulphide
+(H
+2
+S)andcarbondioxide(CO
+2
+)dissolveinthesolventwhiletheresidual
+compoundsremainintheirgaseousphase.Thegasportionisthenanalyzed
+usinggaschromatographytodeterminethecontentoftheresidualsincluding
+CH
+4
+.Allalkanesconcentrationsarereportedintermsofmethane.Thenon/
+condensablegasessamplingandanalysisshouldbeperformedatleastevery
+threemonthsandmorefrequently,ifnecessary.
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 54 
+
+
+Theprimarydatawillbetakenfromeithertheanalysisfromthegassampling
+carriedoutintheproductionwellsoratthesteamfield/powerplantinterface
+dependingonthevaluesusedfortheM
+S,y
+(Quantityofsteamproducedduring
+theyeary)
+Monitoringfrequency:  SampleswillbetakeneverythreemonthsatthemonitoringpointsofM
+so,i,y
+and
+M
+sv,y
+
+QA/QCproceduresto
+beapplied:
+FollowingASTMStandardPracticeE1675
+Anycomment:Samplingofgasesinbrineisnotrequiredasthispathofgasflowisnegligible.
+
+Data/Parameter:
+EG
+y
+Dataunit:MWh
+Description:Electricitysuppliedtothegrid(sumoftheelectricitysuppliedbytheexisting
+powergenerationunitandtheadditionalcapacitygeneration)
+Sourceofdatatobe
+used:
+Measurementresultatthemeteringsystem
+Valueofdataapplied
+forthepurposeof
+calculatingexpected
+emissionreductionsin
+sectionB.5
+1,837,138
+Descriptionof
+measurementmethods
+andprocedurestobe
+applied:
+Tworedundantmetersofaccurancyasrequiredaccordingtonational
+regulationsforelectricitysales(recently0.2class).
+”MeterUtama”transactionkWhmeter(mainmeter)
+”MeterPembanding”transactionkWhmeter(checkmeter)
+
+Monitoringfrequency:DataismonitoredcontinuouslywithintheDCS.
+Thedatafromthe“MeterUtama”andthe“MeterPembanding”are
+downloadedmonthlyandbackedupregularlyattheserver.
+Thedatafromthe“MeterPembanding”iscollectedweekly.
+QA/QCproceduresto
+beapplied:
+Calibration:followingthetechnicalspecification/requirementofthemeterand
+thegridoperator(atleasteverythreeyears).Itwillbedoublecheckedwith
+thereceiptofelectricitysale.
+Anycomment:/
+
+Data/Parameter:
+EG
+existing,y
+Dataunit:MWh
+Description:Electricitysuppliedbytheexistingpowergenerationunittothegrid
+Sourceofdatatobe
+used:
+Measurementresultatthemeteringsystem
+Valueofdataapplied
+forthepurposeof
+calculatingexpected
+emissionreductionsin
+sectionB.5
+912,476
+DescriptionofTworedundantmetersofaccurancyasrequiredaccordingtonational
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 55 
+
+measurementmethods
+andprocedurestobe
+applied:
+regulationsforelectricitysales(recently0.2class).
+”MeterUtama”transactionkWhmeter(mainmeter)
+”MeterPembanding”transactionkWhmeter(checkmeter)
+
+Monitoringfrequency:DataismonitoredcontinuouslywithintheDCS.
+Thedatafromthe“MeterUtama”andthe“MeterPembanding”are
+downloadedmonthlyandbackedupregularlyattheserver.
+Thedatafromthe“MeterPembanding”iscollectedweekly.
+QA/QCproceduresto
+beapplied:
+Calibration:followingthetechnicalspecification/requirementofthemeterand
+thegridoperator(atleasteverythreeyears).Itwillbedoublecheckedwiththe
+receiptofelectricitysale.
+Anycomment:/
+
+Data/Parameter:
+PE
+,FC,j,y
+Dataunit:tCO
+2
+/yr
+Description:CO
+2
+emissionfromfossilfuelcombustioninoperationofpowerplant
+(emergencygensetanddieselpump)inyeary.Thisparameteriscalculatedas
+perthe“tooltocalculateprojectorleakageCO
+2
+emissionfromfossilfuel
+combustionversion02”.
+Sourceofdatatobe
+used:
+Asperthe“tooltocalculateprojectorleakageCO
+2
+emissionfromfossilfuel
+combustionversion02”.
+Valueofdataapplied
+forthepurposeof
+calculatingexpected
+emissionreductionsin
+sectionB.5
+22.85
+Descriptionof
+measurementmethods
+andprocedurestobe
+applied:
+Asperthe“tooltocalculateprojectorleakageCO
+2
+emissionfromfossilfuel
+combustionversion02”.
+Monitoringfrequency:Calculated
+QA/QCproceduresto
+beapplied:
+Asperthe“tooltocalculateprojectorleakageCO
+2
+emissionfromfossilfuel
+combustionversion02”.
+Anycomment:Asperthe“tooltocalculateprojectorleakageCO
+2
+emissionfromfossilfuel
+combustionversion02”.
+
+Data/Parameter:
+FC
+i,j,y
+Dataunit:Ton/yearorm
+3
+/year
+Description:Quantityofdieselfuelcombustedinpowerplantoperationduringtheyeary
+Sourceofdatatobe
+used:
+Onsitemeasurement&recordofdieselfuelconsumptionforemergencygenset
+andfirepump
+Valueofdataapplied
+forthepurposeof
+calculatingexpected
+emissionreductionsin
+sectionB.5
+7.06ton/yr
+DescriptionofFlowmeterwillbeused/,conversiontomassbyusingnationalstandardsfor
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 56 
+
+measurementmethods
+andprocedurestobe
+applied:
+fueldensity
+Monitoringfrequency:  Continuously
+QA/QCproceduresto
+beapplied:
+Theconsistencyofmetereddieselfuelconsumptionquantitieswillbecross/
+checkedbyanannualenergybalancethatisbasedonenginespecificationfuel
+consumptionandtheworkinghour
+Anycomment:/
+
+Data/Parameter:
+NCV
+i,y
+Dataunit:GJpermassorvolumeunit(GJ/ton,GJ/m
+3
+)
+Description:Weightedaveragenetcalorificvalueofdieselfuelinyeary
+Sourceofdatatobe
+used:
+Regionalornationalaveragedefaultvalues
+Valueofdataapplied
+forthepurposeof
+calculatingexpected
+emissionreductionsin
+sectionB.5
+43.3GJ/ton(IPCC)
+Measurement
+procedures:
+n/a
+Monitoringfrequency:  Reviewsonchangesofstandardswillbedoneduringpreparationofmonitoring
+reports.
+QA/QCproceduresto
+beapplied:
+ItwillbecheckedifthevaluesarewithintheuncertaintyrangeoftheIPCC
+defaultvaluesasprovidedinTable1.2,Vol.2ofthe2006IPCCGuidelines.
+Anycomment:
+
+Data/Parameter:
+EF
+CO2,i,y
+Dataunit:tCO
+2
+/GJ
+Description:WeightedaverageCO
+2
+emissionfactorofdieselfuelinyeary
+Sourceofdatatobe
+used:
+Valuesprovidedbynationalaveragedefaultvalues,orIPCCdefaultvaluesat
+theupperlimitoftheuncertaintyata95%confidenceintervalasprovidedin
+theIPCCGuidelines
+Valueofdataapplied
+forthepurposeof
+calculatingexpected
+emissionreductionsin
+sectionB.5
+0.0748
+Measurement
+procedures:
+n/a
+Monitoringfrequency:  Reviewsonchangesofstandardswillbedoneduringpreparationofmonitoring
+reports.
+QA/QCproceduresto
+beapplied:
+Itwillbecheckedifnationalvaluesarewithintheuncertaintyrangeofthe
+IPCCdefaultvaluesasprovidedinTable1.2,Vol.2ofthe2006IPCC
+Guidelines.
+Anycomment:
+
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 57 
+
+B.7.2.Descriptionofthemonitoringplan:
+
+Purpose:To ensure that the approved monitoring methodologyis correctly implemented in order to
+enabletheaccurateandtransparentdeterminationofavoidedemissions.
+
+Scope:ThisprocedurecoverstheprojectactivitydescribedintheCDMprojectentitledWayangWindu
+Phase2GeothermalPowerProject.
+
+Responsibility:The CDM Project Manager is responsible for overseeing the implementation of this
+procedure.CompetencyrequirementsforthepositionofProjectManagerwillbedefinedandappliedto
+ensurethattheProjectManagerisabletoimplementthisprocedure.Additionalcompetenciese.g.forthe
+maintenanceandcalibrationofthemetersandonlinereportingsystemwillbesourcedexternallywhere
+necessary.Theorganizationalstructurewillbeasfollows:
+
+
+
+
+Calculationofemissionsreduction:
+The data required to calculate baseline emissions and project emissions will be fed into a protected
+spreadsheet which will calculate the emission reductions according to the formulae described above,
+usingthedefineddefaultvalues.Accesstothespreadsheetwillbecontrolled.Thespreadsheetwillbe
+regularlyauditedtoensureitisoperatingcorrectly.
+
+Qualitycontrol
+Data will be compared from month to month using trend analysis to show where parameters have
+deviatedsignificantlyfromprecedingorfollowingvalues.Anyvaluesidentifiedasbeingunusualinthis
+mannerwillberechecked.Whereprecedingorfollowingvaluesarenotavailable,referencesvaluesmay
+betakenfrompublisheddataasappropriatesuchas2006IPCCguideline.
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 58 
+
+Accuracyandcalibrationofinstruments
+Allmeterswillbepurchasedandmaintainedtoensureahighlevelofaccuracy.Theexactspecifications
+of each meter will be determined during the detailed design of the project. Thereafter the meter
+accuracieswillbeincludedinthisprocedureandstepstakentomaintainthoselevelsofaccuracy.
+
+All key meters will be subject to a quality control regime that will include regular maintenance and
+calibration.Arecordwillbemaintainedshowingthelocationanduniqueidentificationnumberofeach
+meter,thecalibrationstatusofthatmeter(whenlastcalibrated,whennextdueforcalibration)andwho
+performsthecalibrationservice.Calibrationcertificateswillberetainedforallmetersuntiltwoyears
+aftertheendofthecreditingperiod.
+
+Archivingofdata
+The monitoring team will periodically archive datato a secure and retrievable storage format on a
+periodice.g.weeklybasis.Calibrationrecordsmaybearchivedbyscanningandstorageinanaccessible
+electronicformat.Thesedatawillbestoreduntil2yearsaftertheendofthecreditingperiod.
+
+DocumentControl
+TheProjectManagerwillimplementadocumentcontrolsystemthatensuresthatthecurrentversionsof
+necessarydocumentsareavailableatthepointofuse.AlldocumentsmustbemaintainedinEnglishwith
+localtranslationsbecauseEnglishistheformallanguageoftheCDM.
+
+Preparationofmonitoringreport
+Thearchived/livedatawillbeusedtoprepareaperiodicmonitoringreporttobesubmittedtotheCDM
+EBforverificationandissuanceofCERs.Astandardformatforthemonitoringreportwillbeprepared
+andpriortothesubmissionofthefirstmonitoringreport.Aninternaltechnicalreviewprocesswillbe
+conductedanddocumentedbeforesuchareportwillbesubmittedforverification.
+
+Manualdatarecordingsystem
+TheCDMProjectManagerwillimplementamanualdatarecordingsystemtoactasaback/upforthe
+onlinesystem.Thiswillinvolvecompletionofadailylogsheetthatrecordsmeterreadingsatthestartof
+the day (which is also the end of the previous day). Spot readings of other values (temperature and
+pressure)willalsoberecordedperiodicallyandatthetimeswhenmeterreadingsaretaken.Atleastone
+setofmanualreadingswillbetakendirectlyfromthemeterseachday,andusedtochecktheread/outsin
+thecontrolroom.
+These log sheets will act as a back/up for total volume combusted and a means of estimating other
+essentialdataintheeventofaprolongedfailureoftheon/linesystem(prolongedfailurewillconstitute
+morethan24hours(uninterrupted)withouton/linemonitoring).
+
+Treatmentofmissingorcorrupteddata
+Wheredataintheon/linesystemarecorruptedormissingwhilsttheplantisoperating,themissingdata
+canbeestimatedbytakingtheloweroftheaveragevaluefortheparameterinquestioninthehourbefore
+the error arose or the hour immediately after the system came on/line again. If there is evidence to
+suggestthatbothofthesevaluesareun/representative,theaveragefromtheprevious24hourswillbe
+used.
+
+Theerrorwillberecordedinthedailylogsheetandtheoccurrenceoftheerrorwillbeinvestigatedand
+rectifiedassoonaspossible.Iftheon/linesystemiscompromisedformorethan24hours,datawillbe
+manuallyrecorded.
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 59 
+
+
+Auditfunctionandmanagementreview
+TheProjectManagerwillarrangeforanauditofthemanagementsystemperiodicallyandatleastonce
+peryear.Theauditorwillnotbeinvolvedinthedailyoperationofthemineandifnecessary,maybe
+sourcedfromathirdparty.Theauditorwillassesstheimplementationofthemonitoringprocedureand
+the preparation of the monitoring report. Audit findings, and steps taken to address findings will be
+recordedandreviewedinaManagementReviewmeeting(convenedatleastannually)atwhichtimethe
+effectivenessoftheseprocedureswillbereviewedandnecessarychangesimplemented.
+
+B.8.Dateofcompletionoftheapplicationofthebaselinestudyandmonitoringmethodology
+andthenameoftheresponsibleperson(s)/entity(ies):
+>>
+BaselinestudyisreportedbytheDepartmentofEnergyandMineralResourcesofIndonesia/Directorate
+GeneralofElectricityandEnergyUtilizationon13February2009totheIndonesian
+DNA/EnvironmentalMinistry,whichwereendorsedbyIndonesiaDNA/EnvironmentalMinistryon19
+January2009.
+
+Thecalculationisbasedonthe“Tooltocalculatetheemissionfactorforanelectricitysystem”(Version
+01.1)
+
+ResponsiblepersonshavebeenMr.WernerBetzenbichler,SeniorClimateChangeOfficer,Sindicatum
+Carbon Capital: Werner.Betzenbichler@carbon/capital.com
+ and Ms. Melanie Tantri, CDM Project
+Officer,SindicatumCarbonCapital:Melanie.Tantri@carbon/capital.com
+
+SECTIONC. Durationoftheprojectactivity/creditingperiod
+
+C.1.    Durationoftheprojectactivity:
+
+C.1.1.  Startingdateoftheprojectactivity:  
+>>30January2007(basedonthedateoftheEngineer,ProcureandConstructAgreementforthe
+SteamfieldAboveGroundSystemandPowerPlantProject)
+
+C.1.2.  Expectedoperationallifetimeoftheprojectactivity:
+
+>>30years
+
+C.2.    Choiceofthecreditingperiodandrelatedinformation:
+
+C.2.1.  Renewablecreditingperiod: 
+
+C.2.1.1.Startingdateofthefirstcreditingperiod:
+>>3
+th
+December2010orthedateofregistrationwhicheverislatest.
+
+C.2.1.2.Lengthofthefirstcreditingperiod
+:
+>>7years
+
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 60 
+
+ C.2.2.  Fixedcreditingperiod:
+
+ C.2.2.1.Startingdate:
+>>NA
+
+C.2.2.2.Length: 
+>>NA
+
+SECTIOND. Environmentalimpacts
+>>
+D.1.Documentationontheanalysisoftheenvironmentalimpacts,includingtransboundary
+impacts:
+>>
+The project owner has implemented an EnvironmentalImpact Study, which consists of ANDAL
+(Environmental Impact Analysis), RKL (Environmental Management Plan), and RPL (Environmental
+Monitoring Plan) in March 2006 to ensure that the project activity complied with the environmental
+regulations, e.g. Indonesian Law No. 4 of 1982, Government Regulation no 51 of 1993, Decree of
+EnvironmentalMinisterNo.17of2001.
+
+The complete copy of the Environmental Impact Studywill be available to DOE upon request. The
+impact evaluation includes various phases of pre/construction, construction, operational, and post/
+operational phases. Pre/construction phase is mainly the land clearing activities while construction
+phases consist of the mobilization and construction of the power plant, equipment, work forces, and
+materialmobilization.Operationalphaseconsistsofutilizationofpersonnelmobilizationandoperation,
+power plant operation, and power plant maintenance. Post operational phase consists of dismantling,
+regeneration,andpersonneldemobilization.
+
+Theenvironmentalkeyparametersaresummarizedasthefollowing:
+
+HigherFrequencyofTraffic&InfrastructureDamage
+Duringconstructionandoperation,higherfrequencyoftrafficwasduetomobilizationofequipmentthat
+maycauselocaltraffic.Infrastructuredamagemightbedoneduetothetrafficofheavydutyvehiclesand
+itsloads.Inordertomanagesuchissue,itwillbeneededtolimitthesize,amount,andfrequencyof
+vehiclespassingaswellasprovideanalternateroute.
+
+AirQuality
+During the construction phase, the air quality decreases due to pollutants. The parameters that are
+increasedareasfollowing:
+• Particulates   0.03%
+• SO2  7.25%
+• NOx  10.13%
+• CO   3.03%
+Despite the decline of air quality that is inevitable, the impact from the abovementioned aspect is
+consideredminor,basedontheGovernmentRegulationno41/1999.Duringtheoperationalphase,gases
+from the cooling tower could reduce the air quality. Hence, the gases will be channeled back to the
+coolingtower.
+Workersattheprojectsitewillbewearingmaskstoreducethehealthimpact.
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 61 
+
+
+NoiseIntensity
+Duringtheconstructionphase,thenoisequalityoftheareaisreducedfrom59dBAto65/75dBAdueto
+the higher frequency of traffic. To manage this, afew programs will be put in place during the
+mobilizationperiod,i.e.vehiclemaintenance,speedlimit,andtruckscheduling.
+Duringtheoperationalphase,thenoisewillcomefromthesteamventvalve,turbine,generator,cooling
+towerandtransformer.Noisereductionmeasureswillbeplacedsurroundingthelocationandtreeswill
+beplantedtoreducethenoise.
+
+JobOpportunities
+Theprojectactivitywillincreasethejobopportunitiesatthelocalarea.Thejobopportunitiesduringthe
+drilling of the new wells and the construction of the power plant include the new business for
+accommodationfortheforeignworkersandcateringforthestaff.
+
+WaterQuality
+Duringtheconstructionperiod,itisestimatedthat250personnelwillbeemployed.Agoodsanitation
+systemwillberequiredtomanagethedomesticwastewaterdisposaltoavoidthedegradationofthe
+qualityofthesurfacewateraswellastoreducetheriskstowardsthecommunityhealth.Treeswillbe
+planted at the open area to minimize the impact ofthe surface waterquality.During the operational
+period,thesaltwaterfromtheseparator,condensate,andwaterseparatedfromthemudwillbeputback
+intotheinjectionwell.Inthecaseofthefailureoftheinjectionsystem,theliquidwillbekeptatthe
+temporaryreservoir.Ifthecapacityisexceedingthereservoir,thepowerplantoperationwillbestopped.
+
+Insummary,noadverseenvironmentalimpactsoccurredduringconstructionandoperationalphaseofthe
+projectactivity.Allrelatedenvironmentalimpactsbyimplementingarobustenvironmentalmanagement
+andmonitoringplan.Theprojectactivityisincludedasoneofthecleanrenewableenergyprojectsthat
+can reduce the dependency on fossil fuel. The project activity would have long term environmental
+benefitforlocalvillagersandthesurroundings.
+
+D.2.    Ifenvironmentalimpactsareconsideredsignificantbytheprojectparticipantsorthehost
+Party,pleaseprovideconclusionsandallreferencestosupportdocumentationofanenvironmental
+impactassessmentundertakeninaccordancewiththeproceduresasrequiredbythehostParty:
+>>
+Therearenosignificantenvironmentalimpactsoftheproject
+
+SECTIONE. Stakeholders’comments
+>>
+E.1.Briefdescriptionhowcommentsbylocalstakeholdershavebeeninvitedandcompiled:
+>>
+Accordingtotherequirementsforlocalstakeholders’involvementintheCDMProject,astakeholder
+meetingwasconductedonDecember5
+th
+,2008,atArionSwiss/Belhotel,startingat10am.The
+stakeholdersparticipatedintheeventincludelocalresidents,localvillagerepresentatives,interestednon/
+governmentalorganizations,PTPertaminaGeothermalEnergy,PTPerusahaanListrikNegara.In
+addition,apublicnoticeofthemeetingwaspostedinthelocalnewspaper.
+
+Themeetingstartedwithanintroductiontotheprojectbyprojectowner,followedbyquestionsand
+commentsfromparticipantsandendedat3.30pm.
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 62 
+
+
+E.2.Summaryofthecommentsreceived:
+>>
+Presentedbelowarethebriefcommentsraisedbythestakeholdersregardingtheprojectactivity:
+I.Ms.Bintari,EnvironmentalConsultantfromBandung
+Q.Howsustainablearetheactivitiesthatyouaredoingforthereforestationandthesustainabilityof
+theenvironment?
+A.    Theactivitiesforthesustainableenvironmentarestillgoingon.Thefundavailableiseven
+increasingyearbyyear,althoughtheelectricitycapacityisfixedyearly.
+
+II.Mr.DeniMuhammadAbdullah,PresidiumOKPPengalengan
+Q.1.Doyouhavetheestimationontheamountofemissionthatwillbereducedfromthis
+project?
+2.OncetheCERisobtainedbyMNL,wherewillthisfundbechanneledto?
+A.1.Yes.Thecurrentestimationisabout700,000CER.However,theactualemissionreduction
+couldbedifferentfromthecurrentestimation.Theactualemissionreductionwillbemeasured
+duringthemonitoringperiodoftheprojectactivity.
+2.Thisprojectwasnotattractivefinancially.CERrevenuehelpstomakethisprojectbecoming
+attractive.HencetheCERobtainedwillbeusedasoneoftherevenuesourcestopaybackthe
+projectloanandtomakesurethesustainabilityoftheproject.
+
+III.MrUbadudin,RekananLokalPengalengan.
+Q.Whyalotofthegoodspurchasingareorderedfromoutsidethearea?MNLissupposedtobe
+committedtohelpinthesustainabilityofthelocalbusinesses.
+A.PurchasingisdonebasedonthetenderregulationsetbytheIndonesiangovernment.Hencethe
+processisfairandjust.Thegoodswillbeboughtfromthemostsuitablesupplierbestonthe
+tenderterms.
+
+IV.MrOskar,NGOGempita
+Q.    Howsafeisthisprojectandarethereanysafetyguaranteeforthelocalssurroundingtheareaof
+theprojects?Whysincethestartingofthisproject,therearesomegeographicalchanges,i.e.
+landcracksatCibolang.
+A.Ingeneral,geothermalprojectsareverysafe.Thereareafewgeothermalprojectsthathavebeen
+runningforyearsinIndonesia,andmanyaroundtheworldthathavebeenrunningsafelyfor
+years.MNLalsoappliesthehighestsafetystandardinouroperation,inaccordancetolocaland
+internationalapplicablesafetystandardsandregulations.
+
+V.MrGunyanMaksus,VillageHeadAssociation,aroundPangalengan,WestJava
+
+Q.    WhatarethebenefitsthattheCDMwillbringtothelowincomecommunity,thecommunitythat
+isaffectedbytheproject,andthecommunitythatsupporttheproject?
+A.ThebenefitsforthecommunitiesmentionedwillbefeltthroughtheCSRprogramimplemented
+byMNL.
+
+VI.Mr.MuhammadIhsan,memberofDPRDKomisiCBandung
+Q.WhereareyoucurrentlyattheCDMprocess?
+A.WearecurrentlypreparingthePDD.Stakeholderconsultationispartoftherequirementofthe
+PDD.
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 63 
+
+
+VII.Mr.RegaUsmana,PangalenganOutdoorCommunity
+Q.   1.Howdoyouinvitethestakeholdersthatattendthemeetingtoday?
+2.ThefundsreceivedbytheCommunityDevelopmentaredifferentfromfundsgiventothe
+CommunityDevelopment.MNLshouldwatchmoreonthisissue.
+A.    1.Someofthestakeholderswereinvitedthroughinvitationletter.Thisincludesthelocal
+representatives,headofvillages,localgovernmentbodies,andPLN.Wehavealsoinvitedthe
+publicthroughthePikiranRakyat,localnewspaper.
+2.Ouraccountingisauditedregularlyinternallyandbythethirdparty.Hencethereshallnotbe
+anyfundsmissinginthesystem.
+
+VIII.Mr.IsmanKosmantara,GapuraCommunity(LocalFellowsCommunity)
+Q.    Goingforward,willtherebeanyjobopportunitiesforthelocalfellows?
+A.Yes.Therewillbejobopportunitiesforthelocalcommunity.
+
+E.3.Reportonhowdueaccountwastakenofanycommentsreceived:
+>>
+Thecommentsreceivedwereeitherquestionsconcerningtheprojectactivityand/orgeneralstatementsin
+supportoftheprojectactivity.Noneofthecommentsrequiredanyspecificactionsfromtheproject
+developer.Theparticipantsatthemeetingweresatisfiedwiththeresponsesreceivedandshowedtheir
+supportfortheproject.MinutesofthemeetingareavailabletotheDOEinBahasaIndonesia,alongwith
+alistofattendees.
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 64 
+
+
+Annex1
+CONTACTINFORMATIONONPARTICIPANTSINTHEPROJECTACTIVITY
+ 
+Organization:StarEnergyGeothermal(WayangWindu)Limited 
+Street/P.O.Box:Jl.Let.Jend.S.ParmanKav62/63,8th/11thfloor
+Building:WismaBaritoPacific,StarEnergyTower
+City:Jakarta
+State/Region:DKI/Jakarta
+Postcode/ZIP:12710
+Country:Indonesia
+Telephone:+62215325828
+FAX:+622153660558
+E/Mail:hendra.tan@starenergy.co.id
+URL:www.starenergy.co.id
+Representedby:HendraTan
+Title:Director–Treasury&FinancialPlanning
+Salutation:Mr.
+Lastname:Tan
+Middlename:
+Firstname:Hendra
+Department:
+Mobile:
+DirectFAX:
+Directtel:
+Street/P.O.Box:
+
+Organization:SindicatumCarbonCapitalLimited
+Street/P.O.Box:DukeStreet
+Building:33
+City:London
+State/Region:
+Postfix/ZIP:W1U1JY
+Country:UK
+Telephone:+442030084759
+FAX:+442030084752
+E/Mail:ccregistration@carbon/capital.com
+URL:
+Representedby:GarethPhillips
+Title:ChiefClimateChangeOfficer
+Salutation:Mr
+LastName:Phillips
+MiddleName:
+FirstName:Gareth
+Department:
+Mobile:
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 65 
+
+DirectFAX:
+Directtel:
+PersonalE/Mail:ccsecretariat@carbon/capital.com
+
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 66 
+
+Annex2
+
+INFORMATIONREGARDINGPUBLICFUNDING
+
+ThereisnopublicfundingfortheWayangWinduPhase2GeothermalPowerProject.
+TheprojectfinancingportioncomesfromStandardCharteredBankSingaporeandtheequityportion
+comesfromtheprojectowner’sshareholders.Thereforetheprojectactivityisnotusinganypublicfund.
+
+FundingoftheprojectwillbedisclosedtotheDOEduringvalidation.
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 67 
+
+Annex3
+
+BASELINEINFORMATION
+
+BasedondatareportedbytheDepartmentofEnergyandMineralResourcesofIndonesia/Directorate
+GeneralofElectricityandEnergyUtilizationon13February2009and24December2008tothe
+IndonesianDNA/EnvironmentalMinistry,whichwereendorsedbyIndonesiaDNAon19January2009
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 68 
+
+
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 69 
+
+Translationofthepreviouspage:
+Department of Energy and Mineral Resources of Indonesia 
+Directorate General of Electricity and Energy Utilization 
+Jl. H.R. Rasuna Said Blok X 2, Kav. 07 and 08 Kuningan Jakarta 12950 
+ 
+Tromol Pos 3043/Jkt 10002         Phone: (021)-5225180 (hunting)       Fax:5256044-5256066        Web:www.djlpe.esdm.go.id 
+ 
+ 
+No    :494/21/650.1/2009   13February2009
+Attachment   :/
+Subject:BaselineEmissionFactorforSumatraGridandUpdatingBaselineEmissionFactorof
+JAMALIGrid
+
+Attentionto
+HeadofCDMDesignatedNationalAuthority
+OfficeofEnvironmentalMinistry
+Jl.DIPanjaitan,Kav24,KebonNanas
+EastJakarta13410
+Fax/Tel:85904923
+
+IncontinuationtotheletterfromDirectorateGeneralofElectricityandEnergyUtilizationNo.
+3783/21/600.5/2008dated24December2008regardingthementionedsubjectandquestionsthatwe
+havereceivedfromCDMprojectdevelopersaboutthecalculationoftheemissionfactor,ourfurther
+explanationisasfollowing:
+
+1. BaselineemissionfactorforSumatraGridandJava/Madura/Bali(JAMALI)gridin2008which
+wasreportedbyDirectorateGeneralofElectricityandEnergywascalculatedbasedontoolto
+calculatetheemissionfactorforanelectricitysystemversion01.1whichwasissuedbyCDM
+ExecutiveBoardon19October2007.
+2. BaselineemissionfactorforSumatraGridin2008is0.743tCO
+2
+e/MWhbasedondatainyear
+2005until2007.
+3. BaselineemissionfactorofJAMALIgridwas0.754tCO
+2
+e/MWhin2006,andhasbeenupdated
+to0.891tCO
+2
+e/MWhin2007.Theupdatedfigurewascalculatedusingthe2004to2006data.
+
+Thankyouforyourkindattention.
+
+DirectorofRenewableEnergyandEnergy
+Conservation
+
+
+
+RatnaAriati
+NIP.100002746
+
+CC:
+DirectorateGeneralElectricityandEnergyUtilization
+
+
+
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 70 
+
+
+
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 71 
+
+Translationofthepreviouspage:
+
+ENVIRONMENTAL MINISTRY OF INDONESIA 
+Jl. D.I. Panjaitan, Kebon Nanas     Tel: 021-8580067-69, 8517148 
+JAKARTA 13410     Fax: 021-8518135, 8517147  
+ PO Box 7777 JAT 13000    Website: http://www.menlh.go.id 
+ 
+ 
+No    :B/277/Dep.III/LJ/02/2009   Jakarta,19January2009
+Attachment   :/
+Subject:LatestinformationofbaselineemissionfactorforCDMprojectsatSumatraand
+JAMALIgrid
+
+Attentionto
+()
+
+IncontinuationtotheletterfromDirectorateGeneralofElectricityandEnergyUtilization,Department
+ofEnergyandMineralResources(No.37833/21/600.5/2008)dated24December2008regarding
+BaselineEmissionFactorforSumatraGridandtheupdatedfigurefortheBaselineEmissionFactorfor
+JAMALIGrid,henceweconveythatthelatestinformationforbaselineemissionfactorforSumatragrid
+andJAMALIgridareasfollowing:
+a.SumatraGrid   :0.743tCO
+2
+eq/MWh
+b.JAMALIGrid  :0.891tCO
+2
+eq/MWh
+
+ThisinformationcanbeusedastheofficialdataforthestakeholdersindevelopingtheCDMprojectsin
+Indonesia.
+
+Thankyouforyourkindattention.
+
+DeputyMinisterofEnvironmentforResource
+ConservationandEnvironmentalImpact
+Management/theHeadofIndonesianDNA
+
+
+
+
+Dra.MasnellyartiHilman,MSc.
+
+CC:
+MinisterofEnvironment(asareport)
+
+PROJECT DESIGN DOCUMENT FORM (CDM PDD) - Version 03 
+
+CDM – Executive Board        
+       
+       page 72 
+
+
+Annex4
+
+MONITORINGINFORMATION
+
+

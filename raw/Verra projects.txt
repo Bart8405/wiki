@@ -1,0 +1,694 @@
+
+
+IDNameProponentProject TypeAFOLU ActivitiesMethodologyStatusCountry/
+Area
+Estimated 
+Annual 
+Emission 
+Reductions
+RegionProject 
+Registration 
+Date
+Crediting 
+Period Start 
+Date
+NOTES
+5962Recovery and Avoidance of methane from 
+Industrial wastewater treatment  project at Agro 
+Muara Rupit mill, Indonesia.
+KNOWLEDGE 
+INTEGRATION 
+SERVICES 
+SINGAPORE PTE. 
+LTD.
+Waste handling and disposalAMS-III.H.Under validationIndonesi
+a
+56,373Asia
+5956AgriCapture Southeast Asia Rice Methane ProjectAgriCapture, Inc.Agriculture 
+Forestry and 
+Other Land Use
+ALMVM0051Under 
+development
+Indonesi
+a
+53,142Asia################
+5930Charged EV Project in IndonesiaPT Charged Tech 
+Indonesia
+TransportVMR0014Under validationIndonesi
+a
+23,740Asia################
+5891Forest Landscape Restoration in North Sulawesi 
+Province
+Multiple ProponentsAgriculture 
+Forestry and 
+Other Land Use
+ARRVM0047Under 
+development
+Indonesi
+a
+158,764Asia########Disappeared from Verra
+5873Gunung Lumut Landscape ProjectPT Telaga Mas 
+Kalimantan
+Agriculture 
+Forestry and 
+Other Land Use
+ARR; IFM; 
+REDD
+VM0007; 
+VM0010; 
+VM0048
+Under 
+development
+Indonesi
+a
+941,061Asia################
+5845Nunukan Mangrove & Peatland ProjectPT. Bumi Hijau 
+Konservasi
+Agriculture 
+Forestry and 
+Other Land Use
+ARR; REDD; 
+WRC
+VM0007; 
+VM0033; 
+VM0047
+Under validationIndonesi
+a
+355,275Asia################
+5834Delta Kapuas ProjectPT Belantara 
+Sejahtera Mandiri
+Agriculture 
+Forestry and 
+Other Land Use
+ARR; REDD; 
+WRC
+VM0007; 
+VM0033; 
+VM0047; 
+VM0048
+Under 
+development
+Indonesi
+a
+2,438,716Asia################
+5798KALTIM HUTAMA IFM PROJECTMultiple ProponentsAgriculture 
+Forestry and 
+Other Land Use
+IFMVM0010Under 
+development
+Indonesi
+a
+517,003Asia################
+5799Gerbang Barito REDD+ ProjectMultiple ProponentsAgriculture 
+Forestry and 
+Other Land Use
+REDD; WRCVM0007Under 
+development
+Indonesi
+a
+275,000################
+5736Kapuas Pisau Conservation ProjectPT. Indo Hutan 
+Ekosistem
+Agriculture 
+Forestry and 
+Other Land Use
+ARR; REDD; 
+WRC
+VM0007; 
+VM0047
+Under validationIndonesi
+a
+83,123Asia################
+5722JATI DHARMA INDAH PLYWOOD INDUSTRIES 
+IFM PROJECT 1
+Multiple ProponentsAgriculture 
+Forestry and 
+Other Land Use
+IFMVM0010Under 
+development
+Indonesi
+a
+366,498Asia################
+5695Siluk Peatlands Conservation Project (SPCP)PT. Annisa Surya 
+Kencana
+Agriculture 
+Forestry and 
+Other Land Use
+REDD; WRCVM0007Under validationIndonesi
+a
+1,147,943Asia################
+5631Enviro RisePT Rimbun SeruyanAgriculture 
+Forestry and 
+Other Land Use
+ARR; REDD; 
+WRC
+VM0007; 
+VM0047
+Under 
+development
+Indonesi
+a
+1,316,941Asia################
+5620CARBON AGROFORESTRY IN CIMANUK, 
+PROGO AND BRANTAS WATERSHED -
+INDONESIA
+Multiple ProponentsAgriculture 
+Forestry and 
+Other Land Use
+ARRVM0047Under validationIndonesi
+a
+826Asia################
+5585PROJECT LESTARIPT. AGRA INTI 
+INVESTAMA
+Agriculture 
+Forestry and 
+Other Land Use
+REDDVM0007; 
+VM0048
+Under 
+development
+Indonesi
+a
+2,351,492Asia################
+5545YAKOPI Mangrove Restoration ProjectYayasan Konservasi 
+Pesisir Indonesia 
+(YAKOPI)
+Agriculture 
+Forestry and 
+Other Land Use
+ARR; WRCVM0033Under 
+development
+Indonesi
+a
+38,870Asia################
+5524Central Seram IFM RestorationWISE ProjectMultiple ProponentsAgriculture 
+Forestry and 
+Other Land Use
+IFMVM0010Under validationIndonesi
+a
+1,000,000Asia################
+5520The Pekanbaru Suntara Peatland Project (PSPP)Multiple ProponentsAgriculture 
+Forestry and 
+Other Land Use
+ARR; REDD; 
+WRC
+VM0007; 
+VM0047
+Under validationIndonesi
+a
+665,596Asia################
+5475KUBURAYA MANGROVE: CONCESSION TO 
+CONSERVATION PROJECT
+Multiple ProponentsAgriculture 
+Forestry and 
+Other Land Use
+IFM; REDD; 
+WRC
+VM0007; 
+VM0011
+Under validationIndonesi
+a
+2,081,242Asia################
+5458Sanggala Corridor ProjectMultiple ProponentsAgriculture 
+Forestry and 
+Other Land Use
+ARR; REDDVM0007; 
+VM0047
+Registration 
+requested
+Indonesi
+a
+177,514Asia################
+5448BLUERIZON PROJECT: BLUE CARBON 
+PROJECT ON TIDAL WETLAND OF 
+MANGROVES IN JAVA-1, INDONESIA
+Multiple ProponentsAgriculture 
+Forestry and 
+Other Land Use
+ARR; WRCVM0033Under validationIndonesi
+a
+101,974Asia################
+5371Kubu Peatland ProjectMenggala Rambu 
+Utama
+Agriculture 
+Forestry and 
+Other Land Use
+REDD; WRCVM0007Registration and 
+verification 
+approval 
+requested
+Indonesi
+a
+601,277Asia################
+5323Biogas Project PT Rohul Sawit IndustriPT Rohul Sawit 
+Industri
+Energy industries (renewable/non-
+renewable sources); Waste 
+handling and disposal
+AMS-I.D.; 
+AMS-III.H.
+Registration and 
+verification 
+approval 
+requested
+Indonesi
+a
+67,546Asia################
+5292Monsoon Methane Avoidance from Industrial 
+Wastewater in Indonesia Grouped Project
+Monsoon Carbon Pte 
+Ltd
+Waste handling and disposalAMS-III.H.Registration 
+requested
+Indonesi
+a
+36,893Asia################
+5283Seram Climate and Conservation (SERCOVA)PT Strata PacificAgriculture 
+Forestry and 
+Other Land Use
+IFMVM0010Registration 
+requested
+Indonesi
+a
+1,164,474Asia################
+5032Kupu-Kupu Project -Enhancing Livelihoods 
+through Mangrove Restoration and Silvofishery in 
+South Sulawesi
+Vlinder Austria GmbHAgriculture 
+Forestry and 
+Other Land Use
+ARR; WRCVM0033Under 
+development
+Indonesi
+a
+1,045,496Asia################
+4967PLUM Peat and Mangrove Conservation and 
+Restoration Project (PLUM Project)
+PT. Pagatan Usaha 
+Makmur
+Agriculture 
+Forestry and 
+Other Land Use
+ARR; REDD; 
+WRC
+VM0007Registration 
+requested
+Indonesi
+a
+703,575Asia################
+4792RECOVERY AND AVOIDANCE OF METHANE 
+FROM INDUSTRIAL WASTEWATER 
+TREATMENT PROJECT AT TSE GROUP, 
+INDONESIA
+KNOWLEDGE 
+INTEGRATION 
+SERVICES 
+SINGAPORE PTE. 
+LTD.
+Energy industries (renewable/non-
+renewable sources); Waste 
+handling and disposal
+AMS-III.H.Registration 
+requested
+Indonesi
+a
+56,448Asia################
+4782South Barito Kapuas ProjectPT Nusantara Raya 
+Solusi
+Agriculture 
+Forestry and 
+Other Land Use
+REDD; WRCVM0007Registration 
+requested
+Indonesi
+a
+1,113,970Asia################
+4705KIS BIOFUELS-UKINDO PROJECTKNOWLEDGE 
+INTEGRATION 
+SERVICES 
+SINGAPORE PTE. 
+LTD.
+Waste handling and disposalAMS-III.H.RegisteredIndonesi
+a
+54,911Asia########################
+4611Halmahera Zero-Waste Renewable Energy and 
+Biochar Project
+Multiple ProponentsEnergy industries (renewable/non-
+renewable sources); Waste 
+handling and disposal
+AMS-I.F.; 
+AMS-III.E.; 
+VM0044
+Registration 
+requested
+Indonesi
+a
+32,614Asia################
+4520Muara Teweh Conservation ProjectFairatmos International 
+Pte. Ltd.
+Agriculture 
+Forestry and 
+Other Land Use
+IFMVM0010Under 
+development
+Indonesi
+a
+756,925################
+4467TSH GROUPED BIOGAS RECOVERY PROJECTTSH Resources 
+Berhad
+Waste handling and disposalAMS-I.D.; 
+AMS-I.F.; 
+AMS-III.H.
+Under 
+development
+Indonesi
+a
+103,174Asia################
+4445RePL Recycling plastic projectH201 Co., LtdWaste handling and disposalAMS-III.AJ.InactiveIndonesi
+a
+42,551Asia################
+4381WEST SERAM REDD+ and AGARWOOD 
+ForestWise PROJECT
+Multiple ProponentsAgriculture 
+Forestry and 
+Other Land Use
+ARRVM0047Under validationIndonesi
+a
+1,005,710Asia################
+4186REDUCING EMISSIONS FROM 
+DEFORESTATION DUE TO SLASH-AND-BURN 
+CORN BY INTRODUCING CACAO FARMING IN 
+GORONTALO PROVINCE, INDONESIA
+Multiple ProponentsAgriculture 
+Forestry and 
+Other Land Use
+REDDVM0007Rejected by 
+Administrator
+Indonesi
+a
+198,510Asia################
+4103Water Purification System for Safe Drinking Water 
+(SDW) in Indonesia
+Synopex Inc.Energy demandAMS-III.AV.Registration and 
+verification 
+approval 
+requested
+Indonesi
+a
+12,329Asia########################
+3587KOPI LESTARI AGROFORESTRY AND LAND 
+REHABILITATION WITH SMALLHOLDER 
+FARMERS IN INDONESIA
+The PURE PROJECT 
+SAS
+Agriculture 
+Forestry and 
+Other Land Use
+ARRAR-AMS0007InactiveIndonesi
+a
+5,613Asia################
+3591The Mayas ProjectPT Mohairson Pawan 
+Khatulistiwa
+Agriculture 
+Forestry and 
+Other Land Use
+REDD; WRCVM0007Registration and 
+verification 
+approval 
+requested
+Indonesi
+a
+2,319,471Asia################
+3327Installation of high efficiency wood burning 
+cookstoves in Indonesia 1
+C-Quest Capital 
+Stoves Asia Limited
+Energy demandVMR0006Under 
+development
+Indonesi
+a
+3,263,178Asia################
+3328Installation of high efficiency wood burning 
+cookstoves in Indonesia 2
+C-Quest Capital 
+Stoves Asia Limited
+Energy demandVMR0006Under 
+development
+Indonesi
+a
+3,263,178Asia################
+3297Hamparan biogas projectMultiple ProponentsEnergy industries (renewable/non-
+renewable sources); Waste 
+handling and disposal
+AMS-I.D.; 
+AMS-III.H.
+Registration 
+requested
+Indonesi
+a
+30,327Asia########################
+3226Padang Tikar LandscapeMultiple ProponentsAgriculture 
+Forestry and 
+Other Land Use
+REDD; WRCVM0007WithdrawnIndonesi
+a
+590,557Asia################
+3012Agroforestry and Reforestation for Carbon 
+Sequestration in Indonesia
+The PURE PROJECT 
+SAS
+Agriculture 
+Forestry and 
+Other Land Use
+ARRAR-AMS0007Registration 
+requested
+Indonesi
+a
+1,888Asia################
+2403Riau Ecosystem Restoration Carbon ProjectMultiple ProponentsAgriculture 
+Forestry and 
+Other Land Use
+REDD; WRCVM0007Verification 
+approval 
+requested
+Indonesi
+a
+6,870,411Asia########################
+2395OKI REDD+ ProjectMultiple ProponentsAgriculture 
+Forestry and 
+Other Land Use
+ARRAM0014; 
+VM0007; AR-
+ACM0003
+Registration 
+requested
+Indonesi
+a
+379,466Asia################
+238Mobuya Mini Hydro Power Plant 3 x 1000 kW North 
+Sulawesi, Indonesia
+PT. Cipta Daya 
+Nusantara
+Energy industries (renewable/non-
+renewable sources)
+AMS-I.D.Late to verifyIndonesi
+a
+11,637########
+24355.5 MW Natural Gas Power Generation Project at 
+Batu Aji Village, Riau Island, Indonesia, by PT 
+Dalle Energy Batam.
+PT Dalle Energy 
+Batam
+Energy industries (renewable/non-
+renewable sources)
+AM0029Late to verifyIndonesi
+a
+50,786########
+409MedcoEnergi Associated Gas Recovery and 
+Utilization Project 
+PT. Medco LPG Kaji 
+(MLK)
+Fugitive emissions from fuels 
+(solid, oil and gas)
+AM0009Late to verifyIndonesi
+a
+86,022Asia########
+NOT MUCH TO BE FOUND -LEAVING FOR LATER
+1899Sumatra Merang Peatland Project (SMPP)Multiple ProponentsAgriculture 
+Forestry and 
+Other Land Use
+ARR; WRCVM0007Verification 
+approval 
+requested
+Indonesi
+a
+1,338,569Asia########################
+1778Lahendong Unit 5 & Unit 6 Geothermal ProjectMultiple ProponentsEnergy industries (renewable/non-
+renewable sources)
+ACM0002WithdrawnIndonesi
+a
+181,030Asia########################
+1750PFC Emission Reductions at PT. Indonesia Asahan 
+Aluminium (PT. INALUM) Kuala Tanjung -CER 
+Conversion
+Credits transferred 
+from approved GHG 
+program
+Metal productionAM0030Units Transferred 
+from Approved 
+GHG Program
+Indonesi
+a
+78,041Asia
+48650 MW Sipansihaporas Hydro Power Plant, North 
+Sumatra
+PT. PLN (Persero)Energy industries (renewable/non-
+renewable sources)
+ACM0002RegisteredIndonesi
+a
+185,392Asia########
+State company
+866METHANE RECOVERY IN WASTEWATER 
+TREATMENT, PROJECT AIN07-W-05, 
+SUMATERA UTARA, INDONESIA
+AES AgriVerde Ltd.Waste handling and disposalAMS-II.H.Late to verifyIndonesi
+a
+31,757Asia########
+967Bantargebang Landfill Gas Management & Power 
+Generation
+PT Navigat Organic 
+Energy Indonesia
+Energy industries (renewable/non-
+renewable sources); Waste 
+handling and disposal
+ACM0001Late to verifyIndonesi
+a
+708,300Asia########################
+48882 MW Lau Renun Hydro Power Plant, North 
+Sumatra
+PT. PLN (Persero)Energy industries (renewable/non-
+renewable sources)
+ACM0002RegisteredIndonesi
+a
+270,019Asia################State company
+487210 MW Musi Hydro Power Plant, BengkuluPT. PLN (Persero)Energy industries (renewable/non-
+renewable sources)
+ACM0002RegisteredIndonesi
+a
+953,128Asia################
+State company
+688Wayang Windu Phase 2 Geothermal Power ProjectStar Energy 
+Geothermal (Wayang 
+Windu) Limited
+Energy industries (renewable/non-
+renewable sources)
+ACM0002Late to verifyIndonesi
+a
+794,832Oceani
+a
+########
+144Capacity Upgrade of Gunung Salak Geothermal 
+Power Plant Project, Indonesia
+PT Indonesia PowerEnergy industries (renewable/non-
+renewable sources)
+ACM0002Late to verifyIndonesi
+a
+104,620Asia########
+State company
+1498Preserving Peat Swamp Forest Ecosystem 
+Through Redd+ Activity In Kampar Peninsula Riau-
+Indonesia
+KPHP Tasik Besar 
+Serkap (KPHP TBS), 
+Riau Province-
+Indonesia
+Agriculture 
+Forestry and 
+Other Land Use
+REDDVM0007Under validationIndonesi
+a
+1,624,961Asia########
+Additionally, KPHP Tasik Besar Serkapis a governmental management unit (Forest 
+Management Unit) under the Ministry of Environment and Forestry, but it is technically a 
+technical implementation unit rather than a "state company" in the corporate sense.
+1493Mangrove restoration and coastal greenbelt Livelihoods Fund Agriculture ARRAR-AM0014Verification Indonesi124,706Asia########################
+5962Recovery and Avoidance of methane from Industrial wastewater treatment  project at Agro Muara Rupit mill, Indonesia.
+5956AgriCapture Southeast Asia Rice Methane Project
+5930Charged EV Project in Indonesia
+5798KALTIM HUTAMA IFM PROJECT
+5722JATI DHARMA INDAH PLYWOOD INDUSTRIES IFM PROJECT 1
+5620CARBON AGROFORESTRY IN CIMANUK, PROGO AND BRANTAS WATERSHED -INDONESIA
+5545YAKOPI Mangrove Restoration Project
+5458Sanggala Corridor Project
+5448BLUERIZON PROJECT: BLUE CARBON PROJECT ON TIDAL WETLAND OF MANGROVES IN JAVA-1, INDONESIA
+5371Kubu Peatland Project
+5323Biogas Project PT Rohul Sawit Industri
+5292Monsoon Methane Avoidance from Industrial Wastewater in Indonesia Grouped Project
+4792RECOVERY AND AVOIDANCE OF METHANE FROM INDUSTRIAL WASTEWATER TREATMENT PROJECT AT TSE GROUP, INDONESIA
+4705KIS BIOFUELS-UKINDO PROJECT
+4611Halmahera Zero-Waste Renewable Energy and Biochar Project
+4467TSH GROUPED BIOGAS RECOVERY PROJECT
+4445RePL Recycling plastic project
+4186REDUCING EMISSIONS FROM DEFORESTATION DUE TO SLASH-AND-BURN CORN BY INTRODUCING CACAO FARMING IN 
+GORONTALO PROVINCE, INDONESIA
+4103Water Purification System for Safe Drinking Water (SDW) in Indonesia
+3587KOPI LESTARI AGROFORESTRY AND LAND REHABILITATION WITH SMALLHOLDER FARMERS IN INDONESIA
+3297Hamparan biogas project
+3226Padang Tikar Landscape
+3012Agroforestry and Reforestation for Carbon Sequestration in Indonesia
+2395OKI REDD+ Project
+238Mobuya Mini Hydro Power Plant 3 x 1000 kW North Sulawesi, Indonesia
+24355.5 MW Natural Gas Power Generation Project at Batu Aji Village, Riau Island, Indonesia, by PT Dalle Energy Batam.
+1778Lahendong Unit 5 & Unit 6 Geothermal Project
+1750PFC Emission Reductions at PT. Indonesia Asahan Aluminium (PT. INALUM) Kuala Tanjung -CER Conversion
+866METHANE RECOVERY IN WASTEWATER TREATMENT, PROJECT AIN07-W-05, SUMATERA UTARA, INDONESIA
+1,164,474 $tCO_2e$: This appears to be the Gross reduction (the raw difference between the baseline 
+and the project).1,017,349 $tCO_2e$: This is the Net reduction (the amount after subtracting "leakage" 
+and the "risk buffer").
+Database
+10 April 202612:38
+   Carbon market Page 1   
+
+RECOVERY AND AVOIDANCE OF METHANE FROM INDUSTRIAL WASTEWATER TREATMENT PROJECT AT TSE GROUP, INDONESIA
+REDUCING EMISSIONS FROM DEFORESTATION DUE TO SLASH-AND-BURN CORN BY INTRODUCING CACAO FARMING IN 
+GORONTALO PROVINCE, INDONESIA
+   Carbon market Page 2   
+
+1493Mangrove restoration and coastal greenbelt 
+protection in the East coast of Aceh and North 
+Sumatra Province, Indonesia
+Livelihoods Fund 
+SICAV SIF
+Agriculture 
+Forestry and 
+Other Land Use
+ARRAR-AM0014Verification 
+approval 
+requested
+Indonesi
+a
+124,706Asia########################
+674Rimba Raya Biodiversity Reserve ProjectInfiniteEARTHAgriculture 
+Forestry and 
+Other Land Use
+REDDVM0004Late to verifyIndonesi
+a
+3,527,171Oceani
+a
+########################
+1477Katingan Peatland Restoration and Conservation 
+Project
+PT. Rimba Makmur 
+Utama (PT. RMU)
+Agriculture 
+Forestry and 
+Other Land Use
+REDD; WRCVM0007Verification 
+approval 
+requested
+Indonesi
+a
+7,125,679Asia########################
+   Carbon market Page 3   
+
+   Carbon market Page 4   

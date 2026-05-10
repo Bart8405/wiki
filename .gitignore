@@ -1,0 +1,11 @@
+# Big datasets (>50MB) — track separately
+raw/Berkeley_dataset.csv
+raw/Berkeley_dataset.csv.cleaned
+
+# Backups
+*.bak
+raw/DATASET.csv.before-verra-fill.bak
+
+# OS artifacts
+.DS_Store
+Thumbs.db

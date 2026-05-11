@@ -2,6 +2,10 @@
 **/Berkeley_dataset.csv
 **/Berkeley_dataset.csv.cleaned
 
+# Verra API auto-downloaded PDFs (~467 MB) — reproducible from registry, not worth tracking
+projects/indonesia-carbon-market/raw/Verra documents/_api_downloads/**/*.pdf
+projects/indonesia-carbon-market/raw/Verra documents/_api_downloads/**/*.txt
+
 # Backups
 *.bak
 **/DATASET.csv.before-verra-fill.bak

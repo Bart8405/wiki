@@ -47,3 +47,33 @@ PDD second pass: extracted narrative-style bios from PDD Section 2.4.3 "Manageme
 New parent companies broken out as separate rows: Sipef Group (13 BOD), PT Tolan Tiga Indonesia (10 SIPEF Indonesia operating managers), Triputra Group (10 board+chief members, parent of PT Belantara Sejahtera Mandiri), Wildlife Works (11 leaders incl. Asia VP Brian Williams).
 
 End state: 347 verified people, 474 total rows, ~50 companies with verified leadership. Trust levels: 242 direct_website, 67 recent_pdd, 30 older_pdd, 127 placeholder, 7 other, 1 linkedin.
+
+## [2026-05-11] task | Full Verra API sweep — DATASET_people.csv v4
+
+Discovered Verra's underlying API and automated the full pipeline:
+1. `POST /uiapi/resource/resource/search` with `{country: ["ID"]}` → list of all 66 Indonesia VCS projects
+2. `GET /uiapi/resource/resourceSummary/{id}` for each → document groups
+3. For each project: pick the latest PDD, latest validation/verification report, latest representation deed, latest monitoring report
+4. Download all picks from the document URIs → 145 new PDFs (~528 MB), saved to `raw/Verra documents/_api_downloads/<projectId>/`
+5. Extract text via pdf-parse → 143 .txt files
+6. Parse for contact info with dual-format regex (formal tables + cover pages + signing officers) → 103 contact rows
+7. Dedup against existing 343 entries → 40 new candidates
+8. Hand-curate the 40 candidates → 19 added to RESEARCH array (skipped duplicates, garbled extractions, junk parses)
+
+End state: 366 verified people across ~55 companies, 484 total rows, 118 placeholders.
+
+Notable new finds (politically significant):
+- **Bushh Pangestu** confirmed as Director of PT. Menggala Rambu Utama (Kubu Peatland VCS5371, per 2024 monitoring report) — same person witnessed PT Rimbun Seruyan Listing Rep. Pangestu family already on Star Energy Geothermal board. Strong cross-board interlock signal.
+- **Rio Christiawan** updated to CEO of PT Pagatan Usaha Makmur per 2026 monitoring report (previously HR/Legal Director per 2024 PDD) — may indicate succession from Handoko Limaho or parallel role.
+- Verra-only firsts (no leadership found before): **Angus McEwin** (MD Monsoon Carbon), **Bagus Sulaiman Wahyuningrat** (Director PT Rohul Sawit), **Jatin Kapoor** (Head of Transactions EVI Green Markets), **Muhammad Jasin** (Legal Director PT KALTIM HUTAMA), **Hairol Azizi Tajudin** (Director PT Gree Energy Hamparan), **Ian Paratama Ahadi** (Chief of Staff PT Charged Tech Indonesia).
+- Historical PT Pertamina Geothermal CEO **Ali Mundakir** (2018) recorded for succession-tracking purposes.
+
+Scripts created this session (all in `pdf-tool/`):
+- `verra-sweep.js` — search + manifest + download orchestration
+- `verra-extract-api.js` — batch pdf-parse text extraction
+- `parse-api-pdds.js` — dual-format contact extractor (formal tables + cover page + signing officers)
+- `merge-api-contacts.js` — dedup against existing build-people.js + emit candidate JS snippets
+
+Pipeline is now repeatable: re-running `verra-sweep.js` will pull any newer/changed Verra documents and the cascade of extract → parse → merge will surface new candidates incrementally.
+
+The 145 downloaded PDFs (528 MB) live in `raw/Verra documents/_api_downloads/` and are gitignored — reproducible from Verra so no need to track in git.

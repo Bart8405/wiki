@@ -152,6 +152,15 @@ He is a textbook example of a serial executive moving from plantation conglomera
 
 ---
 
+### Galih Prasetya — VCS5032 (Vlinder ↔ Manggala Karbon Indonesia)
+- Same person sits at the head of two entities on the same project: he's **Implementation Lead - Indonesia** at Vlinder Austria GmbH (project proponent of VCS5032 Kupu-Kupu Project) AND **CEO of PT Manggala Karbon Indonesia** (the in-country implementation partner). Source: https://www.cifor-icraf.org/event/mangrove-and-blue-carbon-business-model-for-climate-benefits-and-empowering-communities/.
+- This is a single-person bridge between the European proponent and the Indonesian operating entity — useful to know when reading VCS5032 documentation: any "Vlinder ↔ Manggala Karbon" hand-off is really one person on both sides.
+
+### RER concession structure — VCS2403
+- The 2023 PT AJA Sertifikasi Indonesia IFCC audit notice (https://ajaindonesia.com/PA/IFCC/57.PT%20Gemilang%20Cipta%20Nusantara/2023Web-PT%20GCN-surv2.pdf) formally lists **PT Gemilang Cipta Nusantara (GCN)**, **PT Global Alam Nusantara (GAN)**, and **PT Sinar Mutiara Nusantara (SMN)** as operating subsidiaries of **Restorasi Ekosistem Riau (RER)**, all sharing RER's registered address at Pangkalan Kerinci, Riau.
+- Total IFCC-audited area: **150,693.37 hectares**. So the three "operating subsidiaries" share one concession footprint under one RER (i.e. APRIL / RGE / Tanoto) umbrella.
+- This explains the dataset gap: GCN, GAN, and SMN don't independently publish directors because they're private RER subsidiaries — only RER and APRIL leadership is publicly disclosed.
+
 ## 6. Worth investigating later
 
 - **Megain Widjaja's other ICDX-Group roles** and how ICDX has positioned itself in the Indonesian carbon-exchange rollout (IDX Carbon vs ICDX). Vertical-integration question.
@@ -159,6 +168,7 @@ He is a textbook example of a serial executive moving from plantation conglomera
 - **Why is Eri Budiono listed as PD of PT Terrathrive Bakti Indonesia in VCS4967 PDD (2024) when Yudha Permana Jayadikarta is the CEO on the company's dealls.com job page?** Either succession or a private-vs-public title split.
 - **The Diplomat 2026-03** article "How an Indonesian Pulp Giant Built a Carbon Project to Save a Forest From Itself" — almost certainly about APRIL/RER/VCS2403. Currently rate-limited; worth fetching when WebFetch is available.
 - **Kartini Sjahrir** (RER Advisory Board) — her husband or family ties to Indonesian government — needs checking (the Sjahrir surname has political weight in Indonesia).
+- **Indonesian government participation in the Manggala Karbon panel:** the CIFOR-ICRAF blue-carbon event lists **Raja Juli Antoni** (Minister of Forestry) and his deputy **Inge Retnowati** (Director of Inland Waters and Mangrove Rehabilitation, Ministry of Forestry) alongside **Agus Justianto** (Chairman of FOLU Net Sink 2030 — Indonesia's official forestry climate-policy framework). The same panel features Galih Prasetya as Manggala Karbon CEO. **Direct minister-level engagement with a small project developer** — worth tracking whether this pattern recurs (private-sector forest-carbon developers getting platforms alongside ministry policy leads).
 
 ---
 

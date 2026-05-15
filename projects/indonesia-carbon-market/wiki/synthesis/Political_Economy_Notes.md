@@ -161,6 +161,67 @@ He is a textbook example of a serial executive moving from plantation conglomera
 - Total IFCC-audited area: **150,693.37 hectares**. So the three "operating subsidiaries" share one concession footprint under one RER (i.e. APRIL / RGE / Tanoto) umbrella.
 - This explains the dataset gap: GCN, GAN, and SMN don't independently publish directors because they're private RER subsidiaries — only RER and APRIL leadership is publicly disclosed.
 
+### Bushh Pangestu — cross-project peatland operator
+- **Three Indonesian REDD+ peatland projects** connect through one person:
+  - **VCS5371** Kubu Peatland Project (West Kalimantan) — Project Lead at PT Menggala Rambu Utama. Source: https://id.linkedin.com/in/bushhpangestu and Verra 2024 MR.
+  - **VCS5631** Enviro Rise — Director at Neusa Global Pte Ltd. Source: PDD VCS5631 dated 2025 + named witness on the listing-representation deed.
+  - **VCS1899** Sumatra Merang Peatland — Managing Director at PT Global Alam Lestari. Source: https://id.linkedin.com/in/bushh-pangestu-56806678.
+- His LinkedIn lists him as a peatland-carbon project specialist (planning, budgeting, staffing, contracting, procurement, project logistics, consultant management, MRV). So he's effectively a peatland-carbon programme manager working across multiple project-owner entities — three different proponent companies for three different projects.
+- **The "Pangestu" surname** keeps appearing across forest carbon (Barito Pacific / Prajogo Pangestu has been Indonesia's wealthiest individual for years; Agus Salim Pangestu and Nancy Prajogo Pangestu Tabardel sit on Star Energy Geothermal's board — VCS144/VCS688). Whether Bushh Pangestu is family-related is still a hunch, not confirmed — but the cross-project pattern is real and worth tracking on its own merits.
+
+## Family conglomerate / dynastic ties (continued — Oli's set)
+
+### Korindo Group (Seung family) — VCS4792 (TSE Group / PT Berkat Cipta Abadi)
+- PT Berkat Cipta Abadi (mill owner on VCS4792) and PT Tunas Sawa Erma (the project proponent) **were historically part of Korindo Group** until April 1, 2021, when they were formally separated under the "TSE Group" name. PT Gelora Mandiri Membangun and PT Papua Agro Lestari similarly separated October 1, 2022. Source: https://korindonews.com/separation-of-tunas-sawa-erma-group-from-korindo-group/.
+- **Seung Eun Ho** (Korindo founder, South Korean) and his son **Robert Seung** (CEO; sometimes Senior Vice Chairman) controlled Korindo, which has been the subject of major deforestation investigations:
+  - Mongabay (June 2020): Korindo paid **$22 million to an unnamed "expert" in Papua**, with offshore structures comprising **62 shell companies in BVI, Hong Kong, Panama, Seychelles, and Singapore** holding Korindo's Indonesian assets through circular shareholdings.
+  - Mighty Earth, Greenpeace, and Chain Reaction Research have all documented illegal burning of forestland in Papua for oil palm conversion.
+- Although Korindo is now legally separated from TSE Group, VCS4792 is structurally one of the carbon projects spun off from the most controversial Korean palm-oil group operating in Indonesia. **TSE Group's current Director is Luwy Leunufna** (Sawit Indonesia, sawitindonesia.com). The group employs ~8,400 people, 2,400 of whom are indigenous Papuans.
+
+### Kapal Api Group (Soedomo Mergonoto family) — VCS3297 (Hamparan biogas)
+- PT Hamparan Bumi Mas Abadi, the tapioca-starch mill owner whose biogas plant supplies VCS3297, is part of the **Kapal Api Group**.
+- **Soedomo Mergonoto** (born Go Tek Hwie, 3 June 1950, Surabaya) is the founder/CEO of Kapal Api Group. The family business was started by his father **Go Soe Loet in 1927** as "Hap Ho Tjan" (Hokkien for "Kapal Api"). Indra Boedijono, Soedomo Mergonoto, and Ahmad Rivai established PT Santos Jaya Abadi (the flagship Kapal Api operating company) in 1979. Source: https://grokipedia.com/page/Soedomo_Mergonoto + https://voi.id/en/economy/521768 + https://www.scmp.com/presented/business/companies/topics/indonesia-country-report-2016/article/1980009/kapal-api-expands.
+- Indonesian-Chinese conglomerate (Surabaya origin); 5,000+ staff; exports since 1985.
+- **Why this matters:** Kapal Api is a household-name Indonesian coffee brand, controlled by a single family. Their entry into the voluntary carbon market via VCS3297 ties a major consumer-goods family into the carbon supply side.
+
+### Mahkota Group / Sarsi family — VCS5292 (PT Intan Sejati Andalan)
+- PT Intan Sejati Andalan (the mill operator on VCS5292 Monsoon methane project) is a subsidiary of **PT Mahkota Group Tbk (MGRO)**, an IDX-listed palm-oil group based in Medan, founded 2011.
+- Mahkota Group's board (https://www.mahkotagroup.com/en/profil/profil-manajemen):
+  - **Usli Sarsi** — President Director
+  - **Usman Sarsi** — Director (likely Usli's sibling; Sarsi family)
+  - Fuad Halimoen, Nagian Toni — Directors
+  - **Mily** — President Commissioner
+  - Lily — Commissioner
+  - Harry Kurniawan — Independent Commissioner
+- Listed parent: PT Mahkota Global Investama.
+- 6 palm-oil mills (2 in North Sumatra, 4 in Riau) + Dumai bulking station.
+
+### JHL Group / Jerry Hermawan Lo — VCS4611 (PT Dewa Agricoco)
+- PT Dewa Agricoco Indonesia (the Halmahera coconut-processing project proponent on VCS4611) is owned by **Jerry Hermawan Lo**, an Indonesian businessman with a portfolio in hotels, F&B, and real estate under **JHL Group**. Source: https://www.jhlgroup.co.id/dn/founder-dewa-agricoco-indonesia-akan-berikan-bea-siswa-s2-untuk-mahasiswa-stpk-banau/.
+- CEO Arthur Pelupessy; CFO Steven Lim.
+- VCS4611 is a smaller-scale project but the JHL link diversifies which Indonesian family-conglomerate types are showing up in carbon — JHL is hospitality-real-estate, not the usual palm/forest crowd.
+
+### KIS Group ↔ PT SMART Tbk (Sinar Mas) BioCNG partnership — VCS5962 / VCS4705
+- KIS Group (the Singapore-headquartered project proponent on VCS5962 and VCS4705) has a **commercial BioCNG plant groundbreaking** with PT SMART Tbk (Sinar Mas Agro Resources and Technology) in North Sumatra. Source: https://www.smart-tbk.com/en/kis-group-dan-pt-smart-tbk-resmi-lakukan-groundbreaking-pabrik-biocng-komersial-di-sumatra-utara/.
+- PT SMART Tbk is a Sinar Mas (Widjaja family) subsidiary. So even though VCS5962 and VCS4705 don't formally list Sinar Mas as a project participant, the methane-recovery infrastructure those projects depend on is being built jointly with Sinar Mas.
+- **Another Widjaja-family thread** alongside the [[Megain Widjaja]] ICDX/NRS line and [[Rio Christiawan]]'s career path.
+
+## 2.a Carbon-exchange / clearing-house personnel adjacency
+
+### Pedro Moura Costa (EcoSecurities board, VCS5458)
+- Pedro Moura Costa sits on the board of EcoSecurities Group Limited (the carbon technical-services provider on VCS5458) and is **founder/CEO of Sustainable Investment Management (SIM)** and **founder of BVRio Environmental Exchange** in Brazil. Source: https://ecosecurities.com/about/.
+- BVRio is to Brazil what ICDX/IDX Carbon is to Indonesia — a regulated venue for carbon and environmental commodity trading. Pedro Moura Costa is therefore another example (alongside Megain Widjaja) of an individual operating across the supply side (project advisory) and the demand-side trading infrastructure for carbon credits.
+- His other affiliations are notable for tracking the global VCM-governance scene: Steering Committee at **VCMI (Voluntary Carbon Markets Integrity Initiative)** and **PREVENT Waste Alliance**, plus Oxford honorary research associate. Influence over methodology rules he may also be benefiting from commercially.
+
+## 4.a Distressed / bankrupt carbon developers
+
+### Form International B.V. (Hattem, NL) — VCS5371 technical support
+- Dutch forest-carbon developer, declared **bankrupt** in 2025. The trustee is exploring continuation/sale of individual projects. Sources:
+  - https://carbon-pulse.com/506152/ — "Dutch developer files for bankruptcy, trustee explores continuation of tropical forest carbon projects"
+  - https://www.qcintel.com/carbon/article/dutch-carbon-investment-fund-treevive-declares-bankruptcy-63594.html — related Dutch carbon investment fund Treevive also bankrupt
+- Form International is listed in DATASET_companies.csv as the VCS5371 "Technical support on PD Development" partner. With the bankruptcy, that role is effectively in limbo.
+- **Two Dutch carbon developers bankrupt in close succession (Form + Treevive)** is a meaningful market-consolidation signal — the post-2024 VCM crisis is shaking out smaller developers. Indonesia projects that relied on them face PD-update risk.
+
 ## 6. Worth investigating later
 
 - **Megain Widjaja's other ICDX-Group roles** and how ICDX has positioned itself in the Indonesian carbon-exchange rollout (IDX Carbon vs ICDX). Vertical-integration question.

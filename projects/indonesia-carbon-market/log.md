@@ -77,3 +77,18 @@ Scripts created this session (all in `pdf-tool/`):
 Pipeline is now repeatable: re-running `verra-sweep.js` will pull any newer/changed Verra documents and the cascade of extract → parse → merge will surface new candidates incrementally.
 
 The 145 downloaded PDFs (528 MB) live in `raw/Verra documents/_api_downloads/` and are gitignored — reproducible from Verra so no need to track in git.
+
+## [2026-05-15] query | Differences with Berkeley — v2 (status-verified)
+
+Refreshed the Berkeley-vs-ours comparison. Counts unchanged from 2026-05-09 (82 ours, 89 Berkeley Indonesia, 71 in both, 11 ours-only, 18 Berkeley-only), but every divergent project's status was verified live against the Verra public API (`registry.verra.org/uiapi/resource/resourceSummary/<id>`) rather than inferred from the registry HTML.
+
+All 29 divergences classify into three patterns:
+- **A (pre-issuance pipeline)** — 7 ours-only VCS projects all in "Under development" or "Under validation" with 0 credits. Berkeley's inclusion floor (issued credits) explains the omission. Documents dated 2025–2026.
+- **B (GS PoA/VPA numbering mismatch)** — 4 ours-only GS + 11 Berkeley-only GS. Same real-world projects, sibling IDs in the Gold Standard PoA family tree. E.g. Liki Pinangawan: Berkeley indexes GS12112 (parent, 1.14M issued); we index GS12113 (VPA). Real distinct GS programmes after deduping by family ≈ 12, not 15.
+- **C (status-filtered exclusion)** — 7 Berkeley-only VCS projects all with "Late to verify" / "Inactive" / "Rejected by Administrator" / "Units Transferred" status. Our dataset deliberately excludes; these belong in a future `DATASET_projects_excluded.csv` if you want to track the failed/dormant set.
+
+Notable single finding: **GS12112 is the only Berkeley-only GS project with non-zero issuance** (1.14M credits). Recommended adding it (or replacing our GS12113 entry) since it's the credit-issuing parent.
+
+Notable political-economy hook: **VCS4186 (cacao REDD in Gorontalo)** is "Rejected by Administrator" with no public reason. Worth a focused write-up if Verra later publishes documentation. Verra's October-2025 MRA with Indonesia (Pres. Reg. 110/2025) may shift status of other administratively-stuck projects — recommend re-running this comparison quarterly.
+
+Detailed report at `wiki/synthesis/Differences_with_Berkeley_v2.md`.

@@ -23,6 +23,7 @@ A catalog of all pages in this wiki. Updated by Claude on every ingest.
 | Page | Summary |
 |------|---------|
 | [Differences_with_Berkeley](wiki/synthesis/Differences_with_Berkeley.md) | Comparison of DATASET_projects.csv vs Berkeley Voluntary Registry Offsets Database — 71 in both, 11 ours-only, 18 Berkeley-only |
+| [Differences_with_Berkeley_v2](wiki/synthesis/Differences_with_Berkeley_v2.md) | Refreshed Berkeley comparison with status verified via Verra API; explains every divergence under three patterns (pre-issuance / PoA-VPA / status-filtered) |
 | [Task_Report_People_Dataset](wiki/synthesis/Task_Report_People_Dataset.md) | Methodology report for building DATASET_people.csv — verified people, blockers, and suggested next steps |
 
 ## Datasets (raw/)

@@ -48,29 +48,29 @@ Files in `raw/` are tagged by the user's reading status: **`DONE_`** = already i
 
 ### Comparative / developing-country carbon pricing
 
-| File | Summary |
-|------|---------|
-| `raw/DONE_van den Bergh & Drews 2026 - A review of carbon-pricing studies for developing countries.pdf` | **Review of carbon pricing in developing countries** — explicit on design choices for LMIC contexts |
-| `raw/MENTIONED_Andriansyah & Hong 2022 - Carbon pricing in ASEAN+3 economies - progress and challenges (AMRO).pdf` | Region-wide comparison; useful for placing Indonesia next to peers |
-| `raw/DONE_ADB 2024 - Asia-Pacific Climate Report.pdf` | ADB flagship development-bank framing |
-| `raw/DONE_UNCTAD 2022 - Carbon pricing - a development and trade reality check.pdf` | UNCTAD revenue-recycling templates |
-| `raw/DONE_Best, Burke & Jotzo 2020 - Carbon pricing efficacy - cross-country evidence.pdf` | 31-country efficacy evidence |
-| `raw/DONE_Calderon et al 2016 - Achieving CO2 reductions in Colombia - effects of carbon taxes and abatement targets.pdf` | Colombia case — good LMIC tax comparator |
-| `raw/DONE_Jia & Lin 2020 - Rethinking the choice of carbon tax and carbon trading in China.pdf` | China — argues tax outperforms trading on emissions reduction |
-| `raw/LOOK_Lin & Jia 2020 - Can carbon tax complement emission trading scheme - impact in China.pdf` | But combining tax + ETS gets the best result — the "cap-tax-and-trade" template Indonesia is aiming at |
-| `raw/LOOK_Finon 2019 - Carbon policy in developing countries - giving priority to non-price instruments.pdf` | Opposing-view anchor: pricing is *not* adequate for developing economies |
-| `raw/LOOK_Jakob et al 2016 - Carbon pricing revenues could close infrastructure access gaps.pdf` | Carbon-pricing revenues directed to infrastructure access |
-| `raw/LOOK_Jakob & Steckel 2014 - How climate change mitigation could harm development in poor countries.pdf` | "Climate finance curse" parallel to resource curse |
-| `raw/LOOK_Dorband, Jakob, Kalkuhl & Steckel 2019 - Poverty and distributional effects of carbon pricing in low- and middle-income countries.pdf` | 87-country analysis — pricing is progressive below ~$15k income/capita |
-| `raw/LOOK_Steckel et al 2021 - Distributional impacts of carbon pricing in developing Asia.pdf` | Nat Sustain — 8 developing-Asia countries including Indonesia |
-| `raw/LOOK_Fay et al 2015 - Decarbonizing development - three steps to a zero-carbon future (World Bank).pdf` | World Bank — "carbon pricing is necessary but not sufficient" framing |
-| `raw/expert/LOOK_Fay et al 2015 - Decarbonizing development (duplicate of raw copy).pdf` | _Duplicate copy in expert/_ |
-| `raw/LOOK_World Bank 2012 - Inclusive green growth - the pathway to sustainable development.pdf` | World Bank inclusive green growth |
-| `raw/LOOK_Ojha, Pohit & Ghosh 2020 - Recycling carbon tax for inclusive green growth - CGE analysis of India.pdf` | India CGE — revenue-recycling template |
-| `raw/expert/Fursman, Dace & Macgeoch 2025 - International carbon markets - climate action at a lower price (Tony Blair Institute).pdf` | **Tony Blair Institute 2025** — international carbon-markets policy roadmap; cites Indonesia coal-retirement at $12–13/tCO2 |
-| `raw/expert/Agnolucci et al 2024 - Measuring total carbon pricing (World Bank Research Observer).pdf` | "Total Carbon Pricing" methodology — captures implicit pricing (fuel taxes, subsidies) across 142 countries |
-| `raw/expert/GREAT_Battocletti, Enriques & Romano 2024 - The voluntary carbon market - market failures and policy implications.pdf` | U Colo L Rev — legal/economic analysis of VCM market failures |
-| `raw/expert/Kochar, Kalsie & Deka 2025 - Voluntary carbon markets in a nutshell - systematic review.pdf` | J. Cleaner Prod. — VCM systematic review with Global N/S split |
+| File                                                                                                                                             | Summary                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
+| `raw/DONE_van den Bergh & Drews 2026 - A review of carbon-pricing studies for developing countries.pdf`                                          | **Review of carbon pricing in developing countries** — explicit on design choices for LMIC contexts                         |
+| `raw/MENTIONED_Andriansyah & Hong 2022 - Carbon pricing in ASEAN+3 economies - progress and challenges (AMRO).pdf`                               | Region-wide comparison; useful for placing Indonesia next to peers                                                          |
+| `raw/DONE_ADB 2024 - Asia-Pacific Climate Report.pdf`                                                                                            | ADB flagship development-bank framing                                                                                       |
+| `raw/DONE_UNCTAD 2022 - Carbon pricing - a development and trade reality check.pdf`                                                              | UNCTAD revenue-recycling templates                                                                                          |
+| `raw/DONE_Best, Burke & Jotzo 2020 - Carbon pricing efficacy - cross-country evidence.pdf`                                                       | 31-country efficacy evidence                                                                                                |
+| `raw/DONE_Calderon et al 2016 - Achieving CO2 reductions in Colombia - effects of carbon taxes and abatement targets.pdf`                        | Colombia case — good LMIC tax comparator                                                                                    |
+| `raw/DONE_Jia & Lin 2020 - Rethinking the choice of carbon tax and carbon trading in China.pdf`                                                  | China — argues tax outperforms trading on emissions reduction                                                               |
+| `raw/LOOK_Lin & Jia 2020 - Can carbon tax complement emission trading scheme - impact in China.pdf`                                              | But combining tax + ETS gets the best result — the "cap-tax-and-trade" template Indonesia is aiming at                      |
+| `raw/LOOK_Finon 2019 - Carbon policy in developing countries - giving priority to non-price instruments.pdf`                                     | Opposing-view anchor: pricing is *not* adequate for developing economies                                                    |
+| `raw/LOOK_Jakob et al 2016 - Carbon pricing revenues could close infrastructure access gaps.pdf`                                                 | Carbon-pricing revenues directed to infrastructure access                                                                   |
+| `raw/LOOK_Jakob & Steckel 2014 - How climate change mitigation could harm development in poor countries.pdf`                                     | "Climate finance curse" parallel to resource curse                                                                          |
+| `raw/LOOK_Dorband, Jakob, Kalkuhl & Steckel 2019 - Poverty and distributional effects of carbon pricing in low- and middle-income countries.pdf` | 87-country analysis — pricing is progressive below ~$15k income/capita                                                      |
+| `raw/LOOK_Steckel et al 2021 - Distributional impacts of carbon pricing in developing Asia.pdf`                                                  | Nat Sustain — 8 developing-Asia countries including Indonesia                                                               |
+| `raw/LOOK_Fay et al 2015 - Decarbonizing development - three steps to a zero-carbon future (World Bank).pdf`                                     | World Bank — "carbon pricing is necessary but not sufficient" framing                                                       |
+| `raw/expert/LOOK_Fay et al 2015 - Decarbonizing development (duplicate of raw copy).pdf`                                                         | _Duplicate copy in expert/_                                                                                                 |
+| `raw/LOOK_World Bank 2012 - Inclusive green growth - the pathway to sustainable development.pdf`                                                 | World Bank inclusive green growth                                                                                           |
+| `raw/LOOK_Ojha, Pohit & Ghosh 2020 - Recycling carbon tax for inclusive green growth - CGE analysis of India.pdf`                                | India CGE — revenue-recycling template                                                                                      |
+| `raw/expert/Fursman, Dace & Macgeoch 2025 - International carbon markets - climate action at a lower price (Tony Blair Institute).pdf`           | **Tony Blair Institute 2025** — international carbon-markets policy roadmap; cites Indonesia coal-retirement at $12–13/tCO2 |
+| `raw/expert/Agnolucci et al 2024 - Measuring total carbon pricing (World Bank Research Observer).pdf`                                            | "Total Carbon Pricing" methodology — captures implicit pricing (fuel taxes, subsidies) across 142 countries                 |
+| `raw/expert/GREAT_Battocletti, Enriques & Romano 2024 - The voluntary carbon market - market failures and policy implications.pdf`               | U Colo L Rev — legal/economic analysis of VCM market failures                                                               |
+| `raw/expert/Kochar, Kalsie & Deka 2025 - Voluntary carbon markets in a nutshell - systematic review.pdf`                                         | J. Cleaner Prod. — VCM systematic review with Global N/S split                                                              |
 
 ### Theory / fundamentals
 

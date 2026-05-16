@@ -1,0 +1,256 @@
+Literature review
+
+Bartolomj Sastný
+
+S4352181
+
+Do we price carbon?
+
+In the discussion about climate change mitigation with possible economic gains, one approach
+countries can use is putting price on carbon through an Emissions Trading Scheme (ETS) or a
+Carbon tax. A crucial question arises, is carbon pricing even effective for emission reductions?
+On one hand, there are scholars demonstrating the positive environmental effects of carbon
+pricing, such as by Best et al. 2020, in the cross-country analysis including 31 countries, with
+growth rates of emissions in countries pricing carbon being around 2% lower than countries not
+doing so, with all else staying equal (Best et al. 2020, 91). Similar positive results of carbon
+taxes and carbon trading mechanisms have been discovered in other studies or reviews (Jia and
+Lin 2020; Metcalf 2021). With this being the case, authors also emphasize that for successful
+mitigation of climate change-related disasters, carbon pricing is only one method that should
+be present together with other policies (Fay et al. 2015, 2; Metcalf 2021). These additional
+requirements include additional investment into green technology innovation (Tvinnereim and
+Mehling 2018), clean energy research (Metcalf 2021, 260) or establishing labels and
+performance standards (Fay et al. 2015, 20). Another argument in favour of carbon pricing as a
+good environmental tool is based on international cooperation, if done correctly (Roberts and
+Parks 2009). This is supported by the fact that further offsets in already largely decarbonized
+countries are much costlier in comparison to investment in developing countries, where the
+same decarbonization effect can be achieved much cheaper (Fursman et al. 2025, 49).
+Furthermore, this flow of finance can also be obtained from private actors, which are often able
+to amass far greater capital in comparison to bilateral or multilateral state-level cooperation
+(Kerr and Hu 2025).
+
+On the other side of this argument are the scholars pointing at inherent issues of the carbon
+pricing mechanism. First line of arguments against carbon pricing is the essential
+incompatibility of our environmental goals and our gain-oriented monetary system (Leonardi
+2017, 81). The second critique points out the non-urgent nature of carbon pricing mechanisms,
+emphasizing the necessity of quick action against climate change, with carbon pricing not only
+being ineffective but also counterproductive, as it creates the illusion of the climate being
+adequately addressed (Ball 2018, 146). Another critique falls on the unauthentic carbon price
+present across all the carbon markets due to the advertised price (supposed to advocate for
+legitimacy of the trading) being often disturbingly higher than the average price of the credits
+sold in the trading schemes (Finch and van den Bergh 2022). Another critique comes from Finon
+2019, who suggests that carbon pricing specifically for developing economies is not adequate,
+as more political economy constraints are present in comparison to developed economies.
+Either way, carbon pricing measures have become key policy for many countries and are being
+promoted by the largest multilateral organizations, such as the United Nations 2022, World
+Bank 2015 or Asian Development Bank 2024. As this is the case, it is crucial to examine what
+are the economic effects of carbon pricing measures.
+
+Certain studies show potential GDP decreases in the case of implementation of carbon taxes
+without additional policies aiming to neutralize these effects (Calderón et al., 2016; United
+Nations 2022, 30). Due to this fact, it is, similarly to the environmental effects, crucial to
+implement carbon pricing measures in smart ways and accompany them by additional
+measures. By doing this, the negative economic effects are either annulled or even shifted into
+positive economic benefits. Perhaps the most crucial factor for the economic outcome of
+carbon pricing is smart usage of the new carbon-related revenue ­ revenue recycling (United
+Nations 2022). Multiple ways of using this new revenue have been tested and suggested,
+including broad reinvestment into all sectors (Ojha, Pohit, and Ghosh 2020), targeted cash
+
+transfers to households (Andriansyah and Hong 2022; Shapiro Finkelstein and Metcalf 2021) or
+
+targeted investment into infrastructure (Goulder 1995, 176). Another positive influence that carbon
+pricing may have is triggering innovation trough achieving the "Porter effect," as companies are
+incentivized to look for and invest in new, climate-friendly solutions (Dong et al. 2019).
+
+How to price carbon?
+
+Given the fragmented nature of the debate above, it is logical that the discussion regarding
+different carbon-pricing methods will be similarly polarized. ETSs have been criticized for
+multiple reasons. Besides the fact that an ETS only punishes emissions above a certain, often
+lenient, threshold, they have been critiqued for their, by other scholars praised, ability to
+generate mobilization of finance for developing economies as there is a danger of triggering a
+so-called "climate finance curse," being compared to the resource curse (Jakob and Steckel
+2014). Another argument against is the clear imbalance between carbon exports of developing
+countries and the revenue they receive for their emissions reductions, showcased by Pierucci
+et al. 2025 in the case of Brazil.
+
+On the other hand, carbon tax has been praised for multiple things. Firstly, better results have
+been shown in the emission reduction capability when compared to ETS (Jia and Lin 2020).
+Secondly, they pose a better ability to recycle the newly obtained revenue (Advani et al. 2021;
+Ohja et al. 2020; Sunanda et al. 2025, 12). The third discussed advantage is the ease of
+implementation of the carbon tax, as it can be easily built upon existing energy and fuel taxes in
+developing countries (van den Bergh and Drews 2026). Furthermore, Metcalf 2021 praises its
+implementation, administration and compliance costs being significantly lower than in other
+measures. Lastly, scholars prefer the carbon tax due to its strong incentive for investment into
+low-carbon technologies, which is not necessarily present in the ETS with most projects
+focusing reducing deforestation and forest degradation (Advani et al. 2021). Despite the
+preference for carbon taxes, combination of the tax with an ETS may lead to the best results, as
+shown by Lin and Jia 2020.
+
+Carbon pricing in Indonesia
+
+As in other regions, carbon pricing is also the recommended measure capable of providing
+significant environmental and economic benefits, as it acts as immediate mitigation and
+provides a new revenue stream for green investments (Andriansyah and Hong 2022). Other
+studies argue for carbon pricing measures because of benefits for the environment (Chang and
+Phoumin 2022; Hasegawa et al. 2016; Kamandika and Dhakal 2023; Sujarwo 2016; Tan et al.
+2022), the energy network (Chang and Phoumin 2022; Dutu 2016; Edianto et al. 2022),
+renewable technologies (Chang and Phoumin 2022; Ordonez et al. 2022) or fiscal benefits
+through smart revenue reinvestment (Ordonez et al. 2022)
+
+Surprisingly, more studies focus on the potential implementation of a carbon tax in Indonesia,
+although an ETS system has already been established and is expected to become fully
+functional this year. This may be related to the fact that an ETS has been discussed as less
+suitable for implementation in Indonesia due to unfavourable market conditions and political
+challenges, primarily in the energy and transportation sectors (Yusuf and Resosudarmo 2015;
+Kaneko and Kawanishi 2016) As this is the case, the main discussion about Indonesian carbon
+pricing revolves around establishing a carbon tax. One such option would be establishing a
+uniform carbon tax across ASEAN, which showed potential economic and environmental gains
+for Indonesia due to its heavy energy subsidies (Nurdianto and Resosudarmo 2016). Assessing
+carbon tax only in Indonesia, Yusuf and Resosudarmo 2015 suggest that in contrast to most
+industrialized country studies, carbon tax in Indonesia is not necessarily regressive as lower
+income households are less sensitive to price of energy-related commodities. More precisely,
+regressivity is projected to be present in urban areas but in rural ones, the effect is progressive
+at lower income levels and regressive at higher ones (Rahma et al. 2025) This theory is further
+supported by a case study of African countries, where higher-income households are, similarly
+to Indonesia, more likely to use fossil fuels and electricity, making the tax progressive at lower
+income rural areas (Advani et al. 2021).
+
+Besides microeconomic effects on households and individuals, the macroeconomic picture for
+Indonesian implementation of carbon tax has also been debated. Hartono et al. 2023 argue that
+carbon tax revenue recycling combined with household transfer and investment resulted in
+higher GDP and employment. The relative progressivity of carbon tax in Indonesia together with
+potential GDP and employment gains suggest that it might be an adequate way of achieving
+decarbonisation while also achieving economic benefits. That said, the 2021 proposed
+Indonesian carbon tax is only around 2 USD per ton of CO2, which is significantly below the
+international recommendations for developing countries of around 30-100 USD (Parry et al.
+2021) Despite this being the case, there is still big potential for the carbon tax to develop into a
+successful tool for reducing emissions (Sunanda et al. 2025, 11). As showcased multiple times,
+this instrument is the preferred way of pricing carbon in the international and Indonesian
+context. To better understand the possibilities of this policy, the following section will provide
+an analysis of the proposed carbon tax with recommended adjustments to ensure the best
+environmental and economic benefits.
+Bibliography
+Advani, Arun, David Prinz, Alessandro Smurra, and Ross Warwick. 2021. What Is the Case for
+Carbon Taxes in Developing Countries? London: Institute for Fiscal Studies.
+https://ifs.org.uk/publications/15817.
+Andriansyah, and Sang-Hyun Hong. 2022. "Carbon Pricing in ASEAN+3 Economies: Progress
+and Challenges." AMRO Analytical Note. https://amro-asia.org/wp-
+content/uploads/dlm_uploads/2022/11/AMRO-Analytical-Note_Carbon-Pricing-in-ASEAN3-
+Economies_final.pdf.
+Asian Development Bank. 2024. Asia-Pacific Climate Report 2024: Catalyzing Finance and
+Policy Solutions. Manila: Asian Development Bank. https://www.adb.org/publications/asia-
+pacific-climate-report-2024.
+Ball, Jeffrey. 2018. "Why Carbon Pricing Isn't Working: Good Idea in Theory, Failing in Practice."
+Foreign Affairs (New York, N.Y.), July 1, 2018.
+Best, Rohan, Paul J Burke, and Frank Jotzo. 2020. "Carbon Pricing Efficacy: Cross-Country
+Evidence." Environmental & Resource Economics (Dordrecht) 77 (1): 69­94.
+https://doi.org/10.1007/s10640-020-00436-x.
+Calderón, Silvia, Andrés Camilo Alvarez, Ana María Loboguerrero, Santiago Arango, Katherine
+Calvin, Tom Kober, Kathryn Daenzer, and Karen Fisher-Vanden. 2016. "Achieving CO2
+Reductions in Colombia: Effects of Carbon Taxes and Abatement Targets." Energy Economics
+(Kidlington) 56 (May): 575­86. https://doi.org/10.1016/j.eneco.2015.05.010.
+Chang, Youngho, and Han Phoumin. 2022. "Curtailed Electricity and Hydrogen in Association of
+Southeast Asian Nations and East Asia Summit: Perspectives Form an Economic and
+Environmental Analysis." International Journal of Hydrogen Energy 47 (58): 24548­57.
+https://doi.org/10.1016/j.ijhydene.2021.10.194.
+Dong, Feng, Yuanju Dai, Shengnan Zhang, Xiaoyun Zhang, and Ruyin Long. 2019. "Can a Carbon
+Emission Trading Scheme Generate the Porter Effect? Evidence from Pilot Areas in China." The
+Science of the Total Environment (Netherlands) 653 (February): 565­77.
+https://doi.org/10.1016/j.scitotenv.2018.10.395.
+Dutu, Richard. 2016. "Challenges and Policies in Indonesia's Energy Sector." Energy Policy
+(Kidlington) 98 (November): 513­19. https://doi.org/10.1016/j.enpol.2016.09.009.
+Edianto, Achmed, Gregory Trencher, and Kazuyo Matsubae. 2022. "Why Do Some Countries
+Receive More International Financing for Coal-Fired Power Plants than Renewables?
+Influencing Factors in 23 Countries." Energy for Sustainable Development 66 (February): 177­
+88. https://doi.org/10.1016/j.esd.2021.12.004.
+Fay, Marianne, Stephane Hallegatte, Adrien Vogt-Schilb, Julie Rozenberg, Ulf Narloch, and Tom
+Kerr. 2015. Decarbonizing Development: Three Steps to a Zero-Carbon Future. Climate Change
+and Development. Washington, DC: World Bank.
+https://www.worldbank.org/content/dam/Worldbank/document/Climate/dd/decarbonizing-
+development-overview.pdf.
+Finch, Adam, and Jeroen van den Bergh. 2022. "Assessing the Authenticity of National Carbon
+Prices: A Comparison of 31 Countries." Global Environmental Change (Oxford) 74 (May):
+102525. https://doi.org/10.1016/j.gloenvcha.2022.102525.
+Finon, Dominique. 2019. "Carbon Policy in Developing Countries: Giving Priority to Non-Price
+Instruments." Energy Policy (Kidlington) 132 (September): 38­43.
+https://doi.org/10.1016/j.enpol.2019.04.046.
+Fursman, Lindy, Hermione Dace, and Matthew Macgeoch. 2025. International Carbon Markets:
+Climate Action at a Lower Price. London: Tony Blair Institute for Global Change.
+https://institute.global/insights/climate-and-energy/international-carbon-markets-climate-action-at-
+a-lower-price.
+Goulder, Lawrence H. 1995. "Environmental Taxation and the Double Dividend: A Reader's
+Guide." International Tax and Public Finance 2 (2): 157­83. https://doi.org/10.1007/BF00877495.
+Hartono, Djoni, Witri Indriyani, Beta Septi Iryani, Ahmad Komarulzaman, Anda Nugroho, and
+Robi Kurniawan. 2023. "Carbon Tax, Energy Policy, and Sustainable Development in
+Indonesia." Sustainable Development (Bradford, West Yorkshire, England) (Chichester, UK) 31
+(4): 2332­46. https://doi.org/10.1002/sd.2511.
+Hasegawa, T., S. Fujimori, R. Boer, G. S. Immanuel, and T. Masui. 2016. "Land-Based Mitigation
+Strategies under the Mid-Term Carbon Reduction Targets in Indonesia." Sustainability 8 (12):
+1283. https://doi.org/10.3390/su8121283.
+Jakob, Michael, and Jan Christoph Steckel. 2014. "How Climate Change Mitigation Could Harm
+Development in Poor Countries." Wiley Interdisciplinary Reviews. Climate Change (Hoboken,
+USA) 5 (2): 161­68. https://doi.org/10.1002/wcc.260.
+Jia, Zhijie, and Boqiang Lin. 2020. "Rethinking the Choice of Carbon Tax and Carbon Trading in
+China." Technological Forecasting & Social Change (New York) 159 (October): 120187.
+https://doi.org/10.1016/j.techfore.2020.120187.
+Kamandika, Fardhan A., and Shobhakar Dhakal. 2023. "Impact of Carbon Price on Indonesia's
+Power Sector up to 2050." Carbon Neutrality 2, no. 1: 27. https://doi.org/10.1007/s43979-023-
+00066-4.
+Kaneko, Shinji, and Masato Kawanishi, eds. 2016. Climate Change Policies and Challenges in
+Indonesia. Cham: Springer.
+Kerr, Suzi, and Xian Hu. 2025. "Filling the Climate Finance Gap: Holistic Approaches to Mobilise
+Private Finance in Developing Economies." Npj Climate Action (London) 4 (1): 16.
+https://doi.org/10.1038/s44168-025-00220-x.
+Leonardi, Emanuele. 2017. "Carbon Trading Dogma: Theoretical Assumptions and Practical
+Implications of Global Carbon Markets." Ephemera 17 (1): 61­87.
+Lin, Boqiang, and Zhijie Jia. 2020. "Can Carbon Tax Complement Emission Trading Scheme?
+The Impact of Carbon Tax on Economy, Energy and Environment in China." Climate Change
+Economics 11 (3): 1­29.
+Metcalf, Gilbert E. 2021. "Carbon Taxes in Theory and Practice." Annual Review of Resource
+Economics (Palo Alto) 13 (1): 245­65. https://doi.org/10.1146/annurev-resource-102519-
+113630.
+Nurdianto, Ditya A., and Budy P. Resosudarmo. 2016. "The Economy-Wide Impact of a Uniform
+Carbon Tax in ASEAN." Journal of Southeast Asian Economies 33 (1): 1­22.
+https://doi.org/10.1355/ae33-1a.
+Ojha, Vijay P, Sanjib Pohit, and Joydeep Ghosh. 2020. "Recycling Carbon Tax for Inclusive Green
+Growth: A CGE Analysis of India." Energy Policy 144 (September): 111708.
+https://doi.org/10.1016/j.enpol.2020.111708.
+Ordonez, Jose Antonio, Marek Fritz, and Johannes Eckstein. 2022. "Coal vs. Renewables: Least-
+Cost Optimization of the Indonesian Power Sector." Energy for Sustainable Development 68
+(June): 350­63. https://doi.org/10.1016/j.esd.2022.04.017.
+Parry, Ian W. H., Simon Black, and James Roaf. 2021. "Proposal for an International Carbon
+Price Floor Among Large Emitters." Staff Climate Notes 2021 (001).
+Pierucci, Pedro, Feni Agostinho, Federico Sulis, Cecília M.V.B Almeida, and Biagio F Giannetti.
+2025. "Modern Colonialism in Carbon Markets? Insights from Emergy Accounting." Ecological
+Modelling 510 (December): 111327. https://doi.org/10.1016/j.ecolmodel.2025.111327.
+Rahma, Luthfiana, Djoni Hartono, and Sasmita Hastri Hastuti. 2025. "Carbon-Tax
+Implementation in Indonesia: A Social Accounting Matrix Analysis." Sustainability: Science,
+Practice, & Policy (Philadelphia) 21 (1). https://doi.org/10.1080/15487733.2025.2454061.
+Roberts, J Timmons, and Bradley C Parks. 2009. "Ecologically Unequal Exchange, Ecological
+Debt, and Climate Justice." International Journal of Comparative Sociology 50 (3­4): 385­409.
+https://doi.org/10.1177/0020715209105147.
+Shapiro Finkelstein, Alan, and Gilbert E Metcalf. 2021. The Macroeconomic Effects of a Carbon
+Tax to Meet the U.S. Paris Agreement Target: The Role of Firm Creation and Technology
+Adoption. 2395th ed. May 26, 2021. https://doi.org/10.22004/ag.econ.311095.
+Sujarwo, Wawan. 2016. "Stand Biomass and Carbon Storage of Bamboo Forest in Penglipuran
+Traditional Village, Bali (Indonesia)." Journal of Forestry Research (Berlin/Heidelberg) 27 (4):
+913­17. https://doi.org/10.1007/s11676-016-0227-0.
+Sunanda, Wahri, M. Isnaeni Bambang Setyonegoro, Sasongko Pramono Hadi, and Sarjiya. 2025.
+"Advancing the Carbon Pricing Framework in Indonesia: A Systematic Review of Policies,
+Challenges, and Global Lessons." Results in Engineering 28 (December): 107155.
+https://doi.org/10.1016/j.rineng.2025.107155.
+Tan, Z D, L R Carrasco, S Sutikno, and D Taylor. 2022. "Peatland Restoration as an Affordable
+Nature-Based Climate Solution with Fire Reduction and Conservation Co-Benefits in
+Indonesia." Environmental Research Letters (Bristol) 17 (6): 64028.
+https://doi.org/10.1088/1748-9326/ac6f6e.
+Tvinnereim, E., and M. Mehling. 2018. "Carbon Pricing and Deep Decarbonisation." Energy
+Policy 121: 185­189. doi:10.1016/j.enpol.2018.06.020.
+United Nations. 2022. Carbon Pricing: A Development and Trade Reality Check. Geneva: United
+Nations. https://unctad.org/publication/carbon-pricing-development-and-trade-reality-check.
+van den Bergh, Jeroen, and Stefan Drews. 2026. "A Review of Carbon-Pricing Studies for
+Developing Countries." Climate and Development (London) 18 (2): 121­40.
+https://doi.org/10.1080/17565529.2025.2506758.
+Yusuf, Arief A, and Budy P Resosudarmo. 2015. "On the Distributional Impact of a Carbon Tax in
+Developing Countries: The Case of Indonesia." Environmental Economics and Policy Studies
+(Tokyo) 17 (1): 131­56. https://doi.org/10.1007/s10018-014-0093-y.
+

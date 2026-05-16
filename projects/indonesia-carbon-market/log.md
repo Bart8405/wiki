@@ -92,3 +92,11 @@ Notable single finding: **GS12112 is the only Berkeley-only GS project with non-
 Notable political-economy hook: **VCS4186 (cacao REDD in Gorontalo)** is "Rejected by Administrator" with no public reason. Worth a focused write-up if Verra later publishes documentation. Verra's October-2025 MRA with Indonesia (Pres. Reg. 110/2025) may shift status of other administratively-stuck projects — recommend re-running this comparison quarterly.
 
 Detailed report at `wiki/synthesis/Differences_with_Berkeley_v2.md`.
+
+## [2026-05-16] query | Hashim Djojohadikusumo — deep research on links to specific projects/names
+
+Deep search across DATASET_people.csv, DATASET_companies.csv, DATASET_projects.csv, Verra documents corpus, and web sources (Pulitzer/Tempo, Mongabay, Arsari Group site, Antara, Indonesia Business Post, Baru Gold Corp, JATAM). **Headline finding: Hashim's businesses (Arsari Group, PT ITCI Kartika Utama, PT ITCI Kayan Hutani, Arsari Tambang, Arsari Tirta Pradana) are NOT in any registry-level entry of our dataset.** No employee, no proponent, no PDD contact. His leverage is upstream — Presidential Special Envoy for Climate & Energy, architect of Pres. Reg. 110/2025, signer of Verra/Gold Standard MRAs, COP29 + COP30 delegation lead. The dataset records the projects; he writes the rules around them.
+
+Cross-references mapped: Riza Suarga (Carbon Trade Association chair, in our dataset at VCS5475 + VCS1899) as the human bridge; APRIL/RGE/Tanoto (VCS2403) as a historical commercial counterparty (Hashim sold him ITCI Hutani Manunggal in 2006); TBS/Fairatmos as the parallel financial-engineering operation. Four "phantom" PTs (Bumi Carbon Nusantara, Karbonesia Global Artha, Infinite Earth Indonesia, Carbon Vebra Gemilang) flagged as **unverified** — pending corporate-registry confirmation.
+
+Saved as `wiki/synthesis/Hashim_Djojohadikusumo_Deep_Research.md`.

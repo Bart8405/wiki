@@ -222,15 +222,111 @@ He is a textbook example of a serial executive moving from plantation conglomera
 - Form International is listed in DATASET_companies.csv as the VCS5371 "Technical support on PD Development" partner. With the bankruptcy, that role is effectively in limbo.
 - **Two Dutch carbon developers bankrupt in close succession (Form + Treevive)** is a meaningful market-consolidation signal — the post-2024 VCM crisis is shaking out smaller developers. Indonesia projects that relied on them face PD-update risk.
 
+---
+
+## 7. ⚠️ POLITICAL CONNECTIONS — Prabowo administration & carbon market (HIGHEST PRIORITY)
+
+*Source for all entries in this section: Pulitzer Center / Tempo "Forest for Tycoons" series, June 2025. https://pulitzercenter.org/projects/forest-tycoons*
+
+### Hashim Djojohadikusumo — Special Presidential Envoy + carbon market beneficiary
+
+**⚠️ DIRECT CONFLICT OF INTEREST AT THE HIGHEST LEVEL**
+
+- **Hashim Djojohadikusumo** is President Prabowo Subianto's **younger brother** and was appointed **Special Presidential Envoy for Climate and Energy** to COP29 in Baku, Azerbaijan (November 2024). He publicly stated that Indonesia has 557 million tons of CO2e verified and ready for trade, and that the government wants to earn up to **US$65 billion** from carbon projects by 2028.
+- Hashim has been **personally overseeing** the opening of the voluntary carbon market for the forestry sector, according to Environment Minister Hanif Faisol Nurofiq (interview April 16, 2025).
+- Hashim enlisted former **World Bank Managing Director Mari Elka Pangestu** to design the carbon trading mechanism. The MRA with Verra, Gold Standard, Plan Vivo, and ART (Architecture for REDD+ Transactions) was being finalized by end of May 2025.
+- **His own family conglomerate is preparing to benefit:** A subsidiary of **Arsari Group** (owned by Hashim Djojohadikusumo) — **ITCI Kartika Utama** — is listed in government documents as a participant in the carbon trading rollout. Through its subsidiary **ITCI Kayan Hutani**, it plans to engage in carbon trading within its forest concession in **Bulungan Regency, North Kalimantan**. Source: Tempo interviews, May 2025.
+- Tempo sought comment from Hashim's son **Aryo Puspito Setiaki Djojohadikusumo** and Arsari Group's Public Affairs Head **Nicholay Aprilindo** — neither responded.
+- **Why this is the most politically significant finding in the dataset:** The same person who is (a) drafting Indonesia's voluntary carbon market rules and (b) promoting it internationally to investors is (c) positioned to personally profit through his family's forestry concession. This is not a distant conglomerate relationship — it is the Prabowo family itself.
+
+### Fairatmos — Son of ex-Foreign Minister + Luhut's money
+
+**⚠️ TWO POWER NETWORKS CONVERGE IN ONE CARBON STARTUP**
+
+- **Fairatmos International Pte Ltd** was founded in 2022 by **Dyota M. Marsudi** and his wife **Natalia Rialucky Marsudi**. Dyota is the son of **Retno Marsudi**, Indonesia's Foreign Minister for the entire Jokowi era (2014–2024) and now the highest-profile Indonesian diplomat globally.
+- In December 2022, Fairatmos raised US$4.5 million from a consortium led by Go-Ventures and **Kreasi Terbarukan TBS**, a subsidiary of **TBS Energi Utama (TOBA)** — the company publicly associated with **Luhut Binsar Pandjaitan** (National Economic Council Chair, the most powerful informal power-broker in Prabowo's Indonesia). Luhut remains a beneficial owner of Toba Sejahtra, which owns 8.60% of TOBA. TOBA's stake in Fairatmos is minority and through the Kreasi Terbarukan TBS subsidiary.
+- Fairatmos serves as the **project developer / consultant** for **Austral Byna's Muara Teweh Conservation Project** (171,700 hectares, 30.27 million tons CO2e projected over 39 years, North Barito, Central Kalimantan). Fairatmos is listed as the project proponent on Verra Carbon.
+- **Pandu Patria Sjahrir** — at the time of the Fairatmos investment was a Director at TOBA. He has since **resigned from TOBA to become Chief Investment Officer of Danantara** (Daya Anagata Nusantara), the newly established state sovereign wealth fund. This is a direct revolving door from private carbon-market investor to state capital allocator.
+- **Kartini Sjahrir** (RER Advisory Board, see section 1) — the Sjahrir surname. **Pandu Patria Sjahrir** is the son of **Purnomo Yusgiantoro** (former Energy Minister) and is the nephew by marriage of **Chatib Basri** (former Finance Minister). He is also the grandson-in-law of the Widjaja family (Sinar Mas). The "Sjahrir" part of his name comes from his mother's family — the Sutan Sjahrir political dynasty. **Hunch:** Kartini Sjahrir on the RER Advisory Board and Pandu Patria Sjahrir at TOBA/Danantara may be from the same extended political-intellectual family. Needs confirmation.
+
+### Rennier Abdul Rachman Latief — convicted corruptor in the carbon market
+
+- **Rennier Abdul Rachman Latief** was convicted in the **Asabri corruption scandal** (ASABRI is Indonesia's military pension fund; the scandal involved losses of at least Rp23 trillion through fraudulent investments). Despite this conviction, through **Limas Surya Makmur**, he is the majority owner of **Austral Byna**, the oldest timber company in North Barito (founded 1957, 255,569 ha active concession). Austral Byna is developing a carbon trading project via Fairatmos.
+- Austral Byna was **included in government-organized carbon market launch meetings** (April 9, 2025 meeting at The Alana Hotel, Sentul City, organized by the Environment Ministry's Deputy for Climate Change Mitigation, signed by **Hari Wibowo**, Director of GHG Inventory and MRV).
+- **Why this matters:** A corruption convict's company is being shepherded by the government into the carbon market, with official ministry guidance and meetings. This suggests either insufficient background screening or deliberate inclusion.
+
+### Misran — revolving door: Ministry of Forestry → carbon concession company
+
+- **Misran** served as **Secretary of the Directorate-General of Sustainable Forest Management** at the Ministry of Forestry (known informally as "Manggala" after its building) until his **retirement in 2022**.
+- He is now **Director of both Salawati Hijau Lestari (SHL)** and **Sorong Hijau Ekosistem (SHE)** — two companies that received PBPH (Forest Utilization Business License) permits on January 17 and 21, 2025, covering 78,390 ha and 62,130 ha respectively in **South Sorong Regency, Southwest Papua**.
+- Both SHL and SHE are ultimately controlled by **Angelia Bonaventure Sudirman**, granddaughter of **Martias Fangiono** (founder of Surya Dumai Group and later First Resources; ranked 24th on Forbes Indonesia's richest list). First Resources was recently (May 6, 2025) acquired ANJT for Rp5.54 trillion under Ciliandra Fangiono (Martias's son).
+- **The revolving door is structurally explicit:** Misran previously spent his career issuing and overseeing forest permits at the very ministry that just issued permits to companies he now directs. Source: Tempo field visit, May 23, 2025 (Tempo found the SHL office in Grand ITC Permata Hijau, South Jakarta — a nearly empty unit with no signage; a staffer said "if Mr. Misran isn't here, he's usually at Manggala").
+
+### Peter Frans Gontha (Melchor Group) — NasDem politician + carbon land grab in Papua
+
+- **Peter Frans Gontha** is described as a "businessman and politician, Partai NasDem" (one of Indonesia's major political parties). He is the founder of **Melchor Group**.
+- Under Melchor, three companies have applied for **345,430 hectares** of PBPH concessions in the Aru Islands, Maluku: PT Alam Subur Indonesia, PT Amanah Bumi Arukita, PT Bumi Lestari Internasional.
+- Two additional affiliated companies are targeting another **196,620 hectares** in Asmat and Mappi, South Papua: PT Artha Hijau Lestari (Peter is commissioner; shareholders PT Melchor Tiara Pratama + PT Agrotech Utama) and PT Media Enviro Utama (majority owned by PT Bumi Langit Biru, linked to PT Muller Karbon Kapital Indonesia, part of Melchor).
+- **Total footprint sought: ~542,050 hectares**. The government is reportedly pushing **Wana Sejahtera Abadi** (Melchor's Aru Islands company) to begin trading in the first wave (June 2025).
+- The #SaveAru coalition (which previously blocked Menara Group's 500,000 ha sugarcane proposal in the same islands) is now facing Melchor as the new entrant.
+- Peter has not responded to multiple Tempo interview requests since December 2024.
+
+### Harita Group (Lim Gunawan Hariyanto) — nickel tycoon into forest carbon, North Kalimantan
+
+- **Harry Kesuma Tanoto** — Direktur Utama of PT Cita Mineral Investindo Tbk (CITA, Harita Group) — holds 50% of **PT Budhi Inti Alam (BIA)**, which received a **29,770 ha PBPH permit in North Kalimantan** on September 25, 2024.
+- **Roy Arman Arfandy** — Direktur Utama of PT Trimegah Bangun Persada Tbk (NCKL, Harita Group) — holds 50% of **PT Kemakmuran Alam Sejahtera (KAS)**, which received a **42,380 ha PBPH permit in North Kalimantan** on the same date.
+- Harita Group (owner: **Lim Gunawan Hariyanto**) is Indonesia's major palm oil / nickel downstream group (Bumitama Agri for palm; CITA and NCKL for nickel). Forest carbon is their latest diversification.
+
+### RGE Group shadow companies — four new PBPH applicants
+
+- Greenpeace's **"Under the Eagle's Shadow"** report (May 20, 2025) identifies 257 entities affiliated with RGE Group (Sukanto Tanoto). Four appear in the leaked PBPH application queue: **PT Mitra Foresta Lestari**, **PT Hutani Cipta Bersama**, **PT Hutani Bumi Sejahtera**, **PT Global Tanaman Lestari** — seeking 121,600 hectares across North Sulawesi, Gorontalo, and East Kalimantan.
+- Shareholders of these entities include Malaysian holding companies: Prosper Season Sdn Bhd, Prosper Grow Sdn Bhd, BCL Industrial Sdn Bhd, Great Mahakam Sdn Bhd — all identified by Greenpeace as RGE-affiliated.
+- RGE's Indonesian communications office denied knowledge of these entities. This connects to the existing [[Tanoto family / RGE / APRIL]] note on VCS2403 RER.
+
+### Adaro Group — ASL and HAL forest concessions
+
+- **Alam Sukses Lestari (ASL)** and **Hutan Amanah Lestari (HAL)** are Adaro subsidiaries holding PBPH permits. Neither has started trading carbon credits yet. ASL is "still finalizing its Climate Change Mitigation Action Plan" per Corporate Secretary Ray Aryaputra.
+- Adaro is one of Indonesia's largest coal mining groups. Like Indika (see section 1), it is simultaneously a major carbon emitter (coal) and positioning itself as a carbon credit supplier. Classic greenwashing risk.
+
+### Government structure of the carbon market rollout (Prabowo era)
+
+- **Three-wave rollout plan:**
+  - Wave 1 (June 2025): 8 consortiums — Austral Byna (Muara Teweh), Mayas Project, RER Carbon Project (APRIL/Tanoto), **OKI REDD+ Project (VCS2395)**, **Kubu Peatland Project (VCS5371)**, Seram Climate and Conservation (Sercova), PLUM Peat and Mangrove Conservation and Restoration Project, **South Barito Kapuas Project (NRS/Widjaja, VCS4782)**
+  - Wave 2: 17 companies in year 1
+  - Wave 3: 35+ companies from year 2
+  - Revenue target: Rp19 trillion (~US$1.1 billion) in year 1
+- **Transparency suppression:** Since May 2024, Ministry of Environment and Forestry Secretary-General Decree No. 31/2024 classifies ALL PBPH licensing processes as confidential ("to ensure the smooth completion of PBPH applications"). Previously only business work plans were confidential. This made the leaked data Tempo obtained the only public record.
+- **Minister Raja Juli Antoni** (Forestry) refused to comment on the opaque permit process. When asked about favoritism toward corporations over Indigenous communities at the State Palace (May 28, 2025), he said only: *"Everything's just fine."*
+- **Riza Suarga** — General Chair of the Indonesia Carbon Trade Association — confirmed government meetings in Sentul City to guide companies through PDD preparation and Verra registration. (This is the same Riza Suarga who appears in our dataset as founder of Agraus Resources on VCS5475 and former APHI Carbon Team Chair — he is simultaneously the industry association head, a market participant, and a government facilitator.)
+
+---
+
+## 8. New conglomerates — summary table (Pulitzer/Tempo series, June 2025)
+
+| Group | Key owner | New carbon entities | Forest area sought |
+|---|---|---|---|
+| Arsari Group | Hashim Djojohadikusumo (Prabowo's brother) | ITCI Kartika Utama → ITCI Kayan Hutani | Bulungan, N. Kalimantan |
+| Melchor Group | Peter Frans Gontha (NasDem politician) | PT Alam Subur Indonesia, PT Amanah Bumi Arukita, PT Bumi Lestari Internasional, PT Artha Hijau Lestari, PT Media Enviro Utama | ~542,050 ha (Aru Islands, Asmat, Mappi) |
+| Harita Group | Lim Gunawan Hariyanto | PT Budhi Inti Alam (BIA), PT Kemakmuran Alam Sejahtera (KAS) | ~72,150 ha (N. Kalimantan) |
+| Adaro Group | Garibaldi Thohir family | Alam Sukses Lestari (ASL), Hutan Amanah Lestari (HAL) | PBPH permits (area TBC) |
+| RGE Group | Sukanto Tanoto | PT Mitra Foresta Lestari, PT Hutani Cipta Bersama, PT Hutani Bumi Sejahtera, PT Global Tanaman Lestari | ~121,600 ha (N. Sulawesi, Gorontalo, E. Kalimantan) |
+| Integra Group | Halim Rusli | Indika Ekosistem Khatulistiwa, Permata Wana Lestari, Persada Hutan Mandiri | ~150,000 ha (C. Kalimantan) |
+| Fangiono family | Martias Fangiono / Angelia Sudirman | Salawati Hijau Lestari, Sorong Hijau Ekosistem | ~140,520 ha (SW Papua) |
+| Triputra Group | Theodore Rachmat | (PBPH applicants, specific entities TBC) | Kalimantan (area TBC) |
+
+---
+
 ## 6. Worth investigating later
 
 - **Megain Widjaja's other ICDX-Group roles** and how ICDX has positioned itself in the Indonesian carbon-exchange rollout (IDX Carbon vs ICDX). Vertical-integration question.
 - **PT Mohairson Pawan Khatulistiwa (VCS3591)** — two named direktur utama appear in different sources: Wim Ikbal (PDD 2022) and Syamsul Budiman (mopakha.id event, ≈ 2024-2025). Succession or different roles? Worth chasing.
 - **Why is Eri Budiono listed as PD of PT Terrathrive Bakti Indonesia in VCS4967 PDD (2024) when Yudha Permana Jayadikarta is the CEO on the company's dealls.com job page?** Either succession or a private-vs-public title split.
 - **The Diplomat 2026-03** article "How an Indonesian Pulp Giant Built a Carbon Project to Save a Forest From Itself" — almost certainly about APRIL/RER/VCS2403. Currently rate-limited; worth fetching when WebFetch is available.
-- **Kartini Sjahrir** (RER Advisory Board) — her husband or family ties to Indonesian government — needs checking (the Sjahrir surname has political weight in Indonesia).
-- **Indonesian government participation in the Manggala Karbon panel:** the CIFOR-ICRAF blue-carbon event lists **Raja Juli Antoni** (Minister of Forestry) and his deputy **Inge Retnowati** (Director of Inland Waters and Mangrove Rehabilitation, Ministry of Forestry) alongside **Agus Justianto** (Chairman of FOLU Net Sink 2030 — Indonesia's official forestry climate-policy framework). The same panel features Galih Prasetya as Manggala Karbon CEO. **Direct minister-level engagement with a small project developer** — worth tracking whether this pattern recurs (private-sector forest-carbon developers getting platforms alongside ministry policy leads).
+- **Kartini Sjahrir** (RER Advisory Board) — check whether she is connected to Pandu Patria Sjahrir (TOBA/Danantara). The Sjahrir surname has political weight (Sutan Sjahrir dynasty). If they're from the same family network, it would link RER's Advisory Board to both TOBA and Danantara.
+- **Pandu Patria Sjahrir at Danantara** — he moved from TOBA Director (invested in Fairatmos) to CIO of the state sovereign wealth fund Danantara. Does Danantara intend to invest in carbon market projects? If so, this is the most complete revolving door in the dataset.
+- **Triputra Group** (Theodore Rachmat) — linked to Kalimantan PBPH applications in the Tempo/Pulitzer series but no specific entity names were given. Worth tracing exact corporate names.
+- **Indonesian government participation in the Manggala Karbon panel:** the CIFOR-ICRAF blue-carbon event lists **Raja Juli Antoni** (Minister of Forestry) and his deputy **Inge Retnowati** alongside **Agus Justianto** (FOLU Net Sink 2030 Chair) and Galih Prasetya (Manggala Karbon CEO). Now that we know Hashim + Raja Juli Antoni are both personally involved in the market rollout, this minister-developer co-paneling takes on additional significance.
 
 ---
 
-*Last updated: 2026-05-15. Updates batched whenever a new project/person finding surfaces.*
+*Last updated: 2026-05-16. Updates from Pulitzer Center / Tempo "Forest for Tycoons" series (June 2025).*

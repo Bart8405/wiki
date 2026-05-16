@@ -371,7 +371,7 @@ The way out (or at least the way to **finesse** the paradox):
 
 - Mass migration of unskilled workers meets greater political resistance (even where there is high demand in sectors like construction or healthcare).
 - Tendency: go back to **guest worker models** with strict contracts limiting stay and prohibiting settlement/family reunification.
-- **Alternative**: illegal immigration and a growing black market for labour — *"a Hobson's choice."*
+- **Alternative**: illegal immigration and a growing black market for labour — *"a ==Hobson's choice==."*
 
 ### 4.13 Regional integration as midwife to the migration state
 
@@ -381,7 +381,7 @@ The way out (or at least the way to **finesse** the paradox):
 - In Asia, more divided, often authoritarian, little prospect of rights-granting to migrants. The exceptions (Japan, Taiwan, South Korea) are only beginning. In Africa and the Middle East — high migration but unstable, fluid states with little institutional capacity.
 
 > **Explained easily — what Hollifield is doing:**
-> A liberal country can't fully control migration without abandoning its own values. To stay rich, it needs trade, investment, and workers — that means letting people in. But it's also a *liberal* state, meaning courts protect migrants once they're inside (you can't just deport everyone), and the public expects the government to police the borders. So Germany invites Turkish guest workers in the 1960s, tries to send them home in the 1970s, fails because courts protect family reunification, and ends up with a permanent immigrant population. Repeat for every liberal democracy. Max Frisch's line nails it: **"We asked for workers, but human beings came."** Hollifield's contribution is naming this trap — the **liberal paradox** — and saying it's now a *third function* of the state (alongside security and trade): managing the contradiction. The EU is the only experiment so far at doing this regionally.
+> A liberal country can't fully control migration without abandoning its own values. To stay rich, it needs trade, investment, and workers — that means letting people in. But it's also a *liberal* state, meaning courts protect migrants once they're inside (you can't just deport everyone), and the public expects the government to police the borders. So Germany invites Turkish guest workers in the 1960s, tries to send them home in the 1970s, fails because courts protect family reunification, and ends up with a permanent immigrant population. Repeat for every liberal democracy. Max Frisch's line nails it: **"We asked for workers, but human beings came."** Hollifield's contribution is naming this trap — the ==**liberal paradox**== — and saying it's now a *third function* of the state (alongside security and trade): managing the contradiction. The EU is the only experiment so far at doing this regionally.
 
 ### 4.14 Conclusion — Hollifield's bottom line
 

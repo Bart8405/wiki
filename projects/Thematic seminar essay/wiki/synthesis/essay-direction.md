@@ -6,12 +6,12 @@ metadata:
 tags: [indonesia, carbon-pricing, ets, carbon-tax, essay, political-economy]
 sources:
   - raw/Literature review - Stastny.pdf
-  - raw/icap-etsmap-factsheet-104.pdf
-  - raw/expert/GREAT_Advancing the carbon market framework in Indonesia.pdf
-  - raw/DONE_Sustainable Development - 2023 - Hartono - Carbon tax  energy policy  and sustainable development in Indonesia.pdf
-  - raw/DONE_A review of carbon-pricing studies for developing countries.pdf
-  - raw/MENTIONED-Analytical-Note_Carbon-Pricing-in-ASEAN3-Economies_final.pdf
-  - raw/expert/International_Carbon_Markets_Climate_Action_at_a_Lower_Price_-_Tony_Blair_Institute_-_September_2025.pdf
+  - raw/ICAP 2025 - Indonesia NEK Trading Scheme factsheet 104.pdf
+  - raw/expert/GREAT_Sunanda et al 2025 - Advancing the carbon pricing framework in Indonesia - systematic review.pdf
+  - raw/DONE_Hartono et al 2023 - Carbon tax, energy policy and sustainable development in Indonesia.pdf
+  - raw/DONE_van den Bergh & Drews 2026 - A review of carbon-pricing studies for developing countries.pdf
+  - raw/MENTIONED_Andriansyah & Hong 2022 - Carbon pricing in ASEAN+3 economies - progress and challenges (AMRO).pdf
+  - raw/expert/Fursman, Dace & Macgeoch 2025 - International carbon markets - climate action at a lower price (Tony Blair Institute).pdf
 updated: 2026-05-16
 ---
 
@@ -27,7 +27,7 @@ updated: 2026-05-16
 
 The user's instinct from reading the literature: most scholars prefer **carbon tax** over ETS, yet Indonesia launched an **ETS first**. Why?
 
-**Important refinement before writing:** Indonesia did not "skip" the tax. Law 7/2021 ("Harmonization of Tax Regulations") legislated a carbon tax in tandem with the ETS, and Presidential Regulation 110/2025 reaffirms a hybrid **"cap-tax-and-trade"** design. The carbon tax was originally scheduled for April 2022, then postponed to July 2022, then 2025, and **as of January 2026 has not been enforced.** Meanwhile the NEK ETS launched in early 2023 (coal-fired power, Phase 1) and expanded in 2025 (Phase 2 — captive coal + gas) [raw/icap-etsmap-factsheet-104.pdf](../../raw/icap-etsmap-factsheet-104.pdf).
+**Important refinement before writing:** Indonesia did not "skip" the tax. Law 7/2021 ("Harmonization of Tax Regulations") legislated a carbon tax in tandem with the ETS, and Presidential Regulation 110/2025 reaffirms a hybrid **"cap-tax-and-trade"** design. The carbon tax was originally scheduled for April 2022, then postponed to July 2022, then 2025, and **as of January 2026 has not been enforced.** Meanwhile the NEK ETS launched in early 2023 (coal-fired power, Phase 1) and expanded in 2025 (Phase 2 — captive coal + gas) [ICAP 2025 factsheet](../../raw/ICAP%202025%20-%20Indonesia%20NEK%20Trading%20Scheme%20factsheet%20104.pdf).
 
 So the real puzzle is sharper and more interesting:
 
@@ -45,11 +45,11 @@ The user's hypothesis, paraphrased:
 
 This holds up in the literature. Specifically:
 
-- **Burden visibility.** A tax visibly raises fuel and electricity prices for households; an ETS imposes costs on ~563 covered facilities (mostly the state-owned utility PLN and a small set of energy-intensive industries) [raw/icap-etsmap-factsheet-104.pdf](../../raw/icap-etsmap-factsheet-104.pdf). The political cost is concentrated and easier to manage.
+- **Burden visibility.** A tax visibly raises fuel and electricity prices for households; an ETS imposes costs on ~563 covered facilities (mostly the state-owned utility PLN and a small set of energy-intensive industries) [ICAP 2025 factsheet](../../raw/ICAP%202025%20-%20Indonesia%20NEK%20Trading%20Scheme%20factsheet%20104.pdf). The political cost is concentrated and easier to manage.
 - **Free allocation as soft launch.** Indonesia's ETS gives **100% free allocation in year one**, then 75–85% free, with the discount tied to compliance. This subsidises the transition for politically connected industries — nickel processing, steel, cement, captive coal — exactly the sectors the ICAP factsheet says the government wants to protect as "energy-intensive and trade-exposed."
 - **Captive revenue, no new tax.** The ETS plus Article 6 international transfers (re-opened January 2025 after a four-year moratorium) bring in revenue *without* a visible new tax on the population.
 - **Stevens [87] in Sunanda et al. 2025:** "Political resistance and lack of coordination hinder carbon tax implementation in Indonesia, despite its potential to reduce emissions and fund climate programs." This is a direct, citable validation of the hypothesis.
-- **Finon 2019** (in [raw/LOOK_Finon - anti carbon pricing in developing countries.pdf](../../raw/LOOK_Finon%20-%20anti%20carbon%20pricing%20in%20developing%20countries.pdf)): developing economies face political-economy constraints that make standard carbon-pricing prescriptions a poor fit — useful theoretical anchor for the political-cost argument.
+- **Finon 2019** (in [Finon 2019](../../raw/LOOK_Finon%202019%20-%20Carbon%20policy%20in%20developing%20countries%20-%20giving%20priority%20to%20non-price%20instruments.pdf)): developing economies face political-economy constraints that make standard carbon-pricing prescriptions a poor fit — useful theoretical anchor for the political-cost argument.
 
 **Counter-pressure the user should engage with:** the literature also suggests that carbon tax in Indonesia is **not as politically costly as assumed** because (Yusuf & Resosudarmo 2015; Rahma, Hartono & Hastuti 2025) the tax is **not regressive at the national level** — it is regressive only in urban areas and *progressive* among lower-income rural households, who use less fossil energy. So the "tax-as-political-poison" framing is partly a perception problem, not a hard distributional fact. That tension is worth foregrounding in the essay.
 
@@ -65,7 +65,7 @@ A skeleton to fill in. Three sections, plus intro/conclusion. Tight enough for a
 - Position: the essay argues that the ETS-first sequencing is best explained by **political economy** (concentrated burden, free allocation, captive-revenue logic), not by economic-design optimality — and that the developing-country recommendation literature now points to a clear next move (graduated tax + ETS expansion + revenue recycling) that Indonesia is on paper committed to but has stalled on.
 
 ### Section 1 — Why an ETS first? (≈1000 words)
-- **1a. Document the sequencing.** Law 7/2021 → ETS launch 2023 → repeated tax postponements → Presidential Reg 110/2025 reaffirming hybrid design. Use [raw/icap-etsmap-factsheet-104.pdf](../../raw/icap-etsmap-factsheet-104.pdf) as primary source; cross-check with [raw/expert/GREAT_Advancing the carbon market framework in Indonesia.pdf](../../raw/expert/GREAT_Advancing%20the%20carbon%20market%20framework%20in%20Indonesia.pdf) (Sunanda et al. 2025).
+- **1a. Document the sequencing.** Law 7/2021 → ETS launch 2023 → repeated tax postponements → Presidential Reg 110/2025 reaffirming hybrid design. Use [ICAP 2025 factsheet](../../raw/ICAP%202025%20-%20Indonesia%20NEK%20Trading%20Scheme%20factsheet%20104.pdf) as primary source; cross-check with [Sunanda et al. 2025](../../raw/expert/GREAT_Sunanda%20et%20al%202025%20-%20Advancing%20the%20carbon%20pricing%20framework%20in%20Indonesia%20-%20systematic%20review.pdf) (Sunanda et al. 2025).
 - **1b. The economic-design case for a tax.** Brief: tax has lower admin cost (Metcalf 2021), simpler to layer onto existing fuel taxes (van den Bergh & Drews 2026), stronger incentive for low-carbon investment, easier revenue recycling, better emissions outcome in Jia & Lin 2020. This is the "weird because…" the user noted.
 - **1c. The political-economy case for an ETS first.** Concentrated burden (~563 facilities vs. ~270M people); free allocation softens cost to nickel/steel/cement (the very sectors driving Indonesia's industrial-policy ambitions — downstreaming, EV battery supply chain); ETS administered by financial-markets infrastructure (IDXCarbon, OJK) rather than tax authority; Article 6 export revenue. Anchor with Finon 2019, Stevens [87] (in Sunanda), Jakob & Steckel 2014 ("climate finance curse" parallel — useful for the *risk* of relying too heavily on credit-export revenue).
 - **1d. The conflicting fact: the tax may not actually be that regressive.** Yusuf & Resosudarmo 2015; Rahma et al. 2025. Conclude this section by noting the gap between *perceived* political cost and *measured* distributional impact — which sets up the recommendation in Section 3 that the tax can be unblocked with the right communications and revenue-recycling design.

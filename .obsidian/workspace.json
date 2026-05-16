@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "12dbcf5fe32d2aa5",
+        "id": "35887f895da7caca",
         "type": "tabs",
         "children": [
           {
-            "id": "c93cba1d49c8a034",
+            "id": "78e68af4fa51657e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Box for Claude.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Box for Claude"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "projects/indonesia-carbon-market/wiki/synthesis/Task_Report_People_Dataset_v2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Task_Report_People_Dataset_v2"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "projects/indonesia-carbon-market/wiki/synthesis/Task_Report_People_Dataset_v2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Task_Report_People_Dataset_v2"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "projects/indonesia-carbon-market/wiki/synthesis/Task_Report_People_Dataset_v2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Task_Report_People_Dataset_v2"
             }
           }
         ]
@@ -180,13 +180,48 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c93cba1d49c8a034",
+  "active": "78e68af4fa51657e",
   "lastOpenFiles": [
-    "llm-wiki.md",
+    "CLAUDE.md",
+    "Box for Claude.md",
+    "Clippings/1999 Seattle WTO protests.md",
+    "Task reports/2026-05-16 - Project Index Political Economy.md",
+    "projects/indonesia-carbon-market/wiki/synthesis/Project_Index_Political_Economy.md",
+    "projects/finals-y2-s2/IRO/Summaries/Week 4 - Non-Western IR Theory.md",
+    "Clippings",
+    "projects/finals-y2-s2/IRO/Summaries/Week 6 - Global Migration - Mobility and Security.md",
+    "projects/finals-y2-s2/IRO/Summaries/Week 5 - Critical and Decentring Perspectives.md",
+    "Task reports/2026-05-16 - Workflow recommendations.md",
+    "Task reports/Task reports.md",
+    "projects/finals-y2-s2/IRO/Summaries/~$ek 6 - Global Migration - Mobility and Security.md",
+    "projects/indonesia-carbon-market/wiki/synthesis/Differences_with_Berkeley.md",
+    "projects/indonesia-carbon-market/wiki/synthesis/Differences_with_Berkeley_v2.md",
+    "projects/indonesia-carbon-market/wiki/synthesis/Hashim_Djojohadikusumo_Deep_Research.md",
+    "projects/indonesia-carbon-market/wiki/synthesis/Political_Economy_Notes.md",
+    "projects/indonesia-carbon-market/wiki/synthesis/Task_Report_People_Dataset.md",
+    "projects/indonesia-carbon-market/wiki/synthesis/Task_Report_People_Dataset_v2.md",
+    "projects/indonesia-carbon-market/wiki/synthesis/Task_Report_People_Subset_Round2.md",
+    "Untitled.md",
+    "Task reports",
+    "projects/indonesia-carbon-market/indonesia-carbon-market.md",
+    "projects/finals-y2-s2/finals-y2-s2.md",
+    "projects/finals-y2-s2.md",
+    "projects/finals-y2-s2/PoS/notes.md",
+    "projects/finals-y2-s2/log.md",
+    "projects/finals-y2-s2/index.md",
     "index.md",
-    "CLAUDE.md"
+    "Untitled.canvas",
+    "projects/finals-y2-s2/IRO/raw/~$llabus.docx",
+    "projects/finals-y2-s2/IRO/raw/Syllabus.docx",
+    "projects/finals-y2-s2/IRO/raw/Unconfirmed 305513.crdownload",
+    "projects/finals-y2-s2/IRO/Summaries",
+    "projects/finals-y2-s2/IRO/New folder",
+    "projects/finals-y2-s2/IRO/raw/Self-reflection.pdf",
+    "projects/finals-y2-s2/IRO/raw/LEC7.pdf",
+    "projects/finals-y2-s2/IRO/raw/IRO_my notes.docx"
   ]
 }

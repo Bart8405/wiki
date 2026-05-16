@@ -63,15 +63,15 @@ These are not "missing" projects on either side — they are the **same real-wor
 
 Our dataset deliberately excludes Verra projects with the following statuses, since they are not part of the active Indonesian voluntary market:
 
-| ID | Project | Verra status | Why excluded |
-|----|---------|--------------|--------------|
-| VCS238 | Mobuya Mini Hydro Power Plant 3×1000 kW, North Sulawesi | Late to verify | Registered 2020-04-06, monitoring report overdue |
-| VCS243 | 55.5 MW Natural Gas Power Generation, Batu Aji, Riau | Late to verify | Registered 2020-04-06, monitoring report overdue |
-| VCS866 | Methane Recovery in Wastewater Treatment, North Sumatra | Late to verify | Crediting period **expired 2023-11-11** |
-| VCS1750 | PFC Emission Reductions at PT. INALUM (Kuala Tanjung) | Units Transferred from Approved GHG Program | Legacy CER conversion from CDM (project ID 3019), crediting period ended 2020 |
-| VCS3587 | Kopi Lestari (PURE PROJECT SAS, coffee agroforestry) | Inactive | Project documents in registry but no validation completed; PUR continues the agroforestry work but the carbon component is paused |
-| VCS4186 | Cacao REDD, Gorontalo Province (anti-slash-and-burn) | Rejected by Administrator | Verra administrative rejection; specific reason not publicly documented |
-| VCS4445 | RePL Recycling Plastic Project, Banten (H201 Co. Korea) | Inactive | Project documents on file but no progress toward validation |
+| ID      | Project                                                 | Verra status                                | Why excluded                                                                                                                      |
+| ------- | ------------------------------------------------------- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| VCS238  | Mobuya Mini Hydro Power Plant 3×1000 kW, North Sulawesi | Late to verify                              | Registered 2020-04-06, monitoring report overdue                                                                                  |
+| VCS243  | 55.5 MW Natural Gas Power Generation, Batu Aji, Riau    | Late to verify                              | Registered 2020-04-06, monitoring report overdue                                                                                  |
+| VCS866  | Methane Recovery in Wastewater Treatment, North Sumatra | Late to verify                              | Crediting period **expired 2023-11-11**                                                                                           |
+| VCS1750 | PFC Emission Reductions at PT. INALUM (Kuala Tanjung)   | Units Transferred from Approved GHG Program | Legacy CER conversion from CDM (project ID 3019), crediting period ended 2020                                                     |
+| VCS3587 | Kopi Lestari (PURE PROJECT SAS, coffee agroforestry)    | Inactive                                    | Project documents in registry but no validation completed; PUR continues the agroforestry work but the carbon component is paused |
+| VCS4186 | Cacao REDD, Gorontalo Province (anti-slash-and-burn)    | Rejected by Administrator                   | Verra administrative rejection; specific reason not publicly documented                                                           |
+| VCS4445 | RePL Recycling Plastic Project, Banten (H201 Co. Korea) | Inactive                                    | Project documents on file but no progress toward validation                                                                       |
 
 Berkeley includes these because its inclusion rule is registry presence, not active status. The user's research focus on the political economy of the *operating* market means these belong in a separate "withdrawn / failed projects" set, not in `DATASET_projects.csv`.
 
@@ -81,15 +81,15 @@ Berkeley includes these because its inclusion rule is registry presence, not act
 
 **VCS (7) — all Pattern A (pre-issuance pipeline):**
 
-| ID | Project | Verra status (verified 2026-05-15) | Methodology | Est. annual reductions (tCO₂e) | First credit doc |
-|----|---------|---|-------|---:|---|
-| VCS5798 | KALTIM HUTAMA IFM | Under development | VM0010 | 517,003 | 2025-11-13 |
-| VCS5799 | Gerbang Barito REDD+ | Under development | (REDD/WRC) | 275,000 | 2025-12-03 |
-| VCS5873 | Gunung Lumut Landscape (East Kalimantan) | Under development | (ARR/IFM/REDD) | 941,061 | 2026-01-27 |
-| VCS5891 | Forest Landscape Restoration, North Sulawesi | Under validation | VM0047 | 158,764 | 2026-05-05 |
-| VCS5930 | Charged EV (electric two-wheelers, nationwide) | Under validation | VMR0014 | 23,740 (VCS figure) | 2026-04-17 |
-| VCS5956 | AgriCapture Southeast Asia Rice Methane | Under development | VM0051 | 53,142 | 2026-03-24 |
-| VCS5962 | Methane recovery, Agro Muara Rupit mill | Under validation | AMS-III.H. | 56,373 | 2026-05-06 |
+| ID      | Project                                        | Verra status (verified 2026-05-15) | Methodology    | Est. annual reductions (tCO₂e) | First credit doc |
+| ------- | ---------------------------------------------- | ---------------------------------- | -------------- | -----------------------------: | ---------------- |
+| VCS5798 | KALTIM HUTAMA IFM                              | Under development                  | VM0010         |                        517,003 | 2025-11-13       |
+| VCS5799 | Gerbang Barito REDD+                           | Under development                  | (REDD/WRC)     |                        275,000 | 2025-12-03       |
+| VCS5873 | Gunung Lumut Landscape (East Kalimantan)       | Under development                  | (ARR/IFM/REDD) |                        941,061 | 2026-01-27       |
+| VCS5891 | Forest Landscape Restoration, North Sulawesi   | Under validation                   | VM0047         |                        158,764 | 2026-05-05       |
+| VCS5930 | Charged EV (electric two-wheelers, nationwide) | Under validation                   | VMR0014        |            23,740 (VCS figure) | 2026-04-17       |
+| VCS5956 | AgriCapture Southeast Asia Rice Methane        | Under development                  | VM0051         |                         53,142 | 2026-03-24       |
+| VCS5962 | Methane recovery, Agro Muara Rupit mill        | Under validation                   | AMS-III.H.     |                         56,373 | 2026-05-06       |
 
 These are real, plausible projects with named proponents — they simply haven't passed validation yet. Berkeley should pick most of them up in a future quarterly refresh, conditional on validation completing.
 

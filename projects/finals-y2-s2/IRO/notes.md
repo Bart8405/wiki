@@ -12,17 +12,17 @@ Strong short answers do three things: **(i) define core concepts → (ii) apply 
 
 These 9 MCQs were given to your class in Week 2 with the *correct answer* marked. They are by far the most likely template for actual exam MCQs. Memorise these answers verbatim:
 
-| # | Question | Correct answer | Class hit rate |
-|---|----------|----------------|----------------|
-| Q6.2 | Realism: international politics is fundamentally driven by… | **Power and the pursuit of national interest** | 85% |
-| Q6.3 | Classical realists (Morgenthau) — drive for power stems from… | **Human nature** | 55% ⚠️ |
-| Q6.4 | Neorealists (Waltz) — state behaviour shaped by… | **The anarchic structure of the international system** | 62% ⚠️ |
-| Q6.5 | Key difference between realism and liberalism… | **Realists see cooperation under anarchy as very difficult; liberals argue that institutions and interdependence make it possible** | 83% |
-| Q6.6 | Positivist epistemology means… | **The world can be studied objectively and patterns in state behaviour can be observed and measured** | 61% ⚠️ |
-| Q6.7 | Core concern of liberalism in IR… | **The role of institutions and economic interdependence in promoting cooperation** | 78% |
-| Q6.8 | Core concern of constructivism in IR… | **How ideas, identities, and norms shape state behaviour and interests** | 72% |
-| Q6.9 | Wendt's "anarchy is what states make of it" means… | **The consequences of anarchy depend on how states interact with and perceive each other** | 78% |
-| Q6.9b | Mearsheimer (2019) — the liberal international order… | **Was destined to fail because it required liberal hegemony, which provoked nationalist backlash and great-power resistance** | 74% |
+| #     | Question                                                      | Correct answer                                                                                                                      | Class hit rate |
+| ----- | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| Q6.2  | Realism: international politics is fundamentally driven by…   | **Power and the pursuit of national interest**                                                                                      | 85%            |
+| Q6.3  | Classical realists (Morgenthau) — drive for power stems from… | **Human nature**                                                                                                                    | 55% ⚠️         |
+| Q6.4  | Neorealists (Waltz) — state behaviour shaped by…              | **The anarchic structure of the international system**                                                                              | 62% ⚠️         |
+| Q6.5  | Key difference between realism and liberalism…                | **Realists see cooperation under anarchy as very difficult; liberals argue that institutions and interdependence make it possible** | 83%            |
+| Q6.6  | Positivist epistemology means…                                | **The world can be studied objectively and patterns in state behaviour can be observed and measured**                               | 61% ⚠️         |
+| Q6.7  | Core concern of liberalism in IR…                             | **The role of institutions and economic interdependence in promoting cooperation**                                                  | 78%            |
+| Q6.8  | Core concern of constructivism in IR…                         | **How ideas, identities, and norms shape state behaviour and interests**                                                            | 72%            |
+| Q6.9  | Wendt's "anarchy is what states make of it" means…            | **The consequences of anarchy depend on how states interact with and perceive each other**                                          | 78%            |
+| Q6.9b | Mearsheimer (2019) — the liberal international order…         | **Was destined to fail because it required liberal hegemony, which provoked nationalist backlash and great-power resistance**       | 74%            |
 
 ⚠️ = lower class hit rate → these are the ones Denney saw students struggle with → **most likely to reappear** because they discriminate well between students who really know the material vs. those who guessed.
 
@@ -68,6 +68,8 @@ After the Cold War ended in 1991, three thinkers tried to predict the trajectory
 - **Theoretical affinity:** Liberalism / Hegelian idealism.
 - **Main critique:** Underestimates nationalism, religion, and power. Also: the 2008 financial crisis, the rise of China, and the 2016 populist wave (Brexit, Trump) all challenge the convergence thesis.
 
+soo, all counties are bound to become liberal democracies as autocratic regimes have been defeated
+
 #### 2. Huntington — *The Clash of Civilizations?* (1993)
 
 - **Thesis:** Future conflict will be driven not by ideology or economics but by **culture and civilization**. Identity becomes the main fault line.
@@ -80,6 +82,8 @@ After the Cold War ended in 1991, three thinkers tried to predict the trajectory
   - **Self-fulfilling prophecy** — if Western policymakers act as if Islam is the enemy, they help create that enemy
   - Counter-example: strong US–India strategic ties despite different civilizational labels (Acharya 2025: 360)
 
+conflict might occur due to clash of civilizations not due to economic and ideological reasons
+
 #### 3. Kagan — *The End of Dreams, Return of History* (2007, Policy Review)
 
 - **Thesis:** The post-Cold War "end of history" optimism was an illusion. **Traditional great-power competition is back.** Ideology is back too — but as **liberalism vs. autocracy** (US/EU vs. China/Russia), not as Huntington's culture clash.
@@ -91,6 +95,9 @@ After the Cold War ended in 1991, three thinkers tried to predict the trajectory
 - **Theoretical affinity:** Realism / Neoconservatism.
 - **Role of the West:** Order-enforcer, especially the US.
 - **Main critique:** Normalizes militarism; underplays norms; risks self-fulfilling prophecy about US–China rivalry.
+
+
+critique of end of history and clash of civilization, soo liberalists vs autocracies and multifaceted reasoning behind conflict 
 
 #### Comparison table (memorise this — perfect MCQ material)
 

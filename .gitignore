@@ -13,3 +13,11 @@ projects/indonesia-carbon-market/raw/Verra documents/_api_downloads/**/*.txt
 # OS artifacts
 .DS_Store
 Thumbs.db
+
+# Obsidian — personal/volatile state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/
+
+# Finals study materials — large copyrighted PDFs (textbooks, lectures); kept locally only
+projects/finals-y2-s2/**/raw/

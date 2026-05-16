@@ -1,0 +1,870 @@
+Received: 1 July 2022  Revised: 8 January 2023  Accepted: 24 January 2023
+DOI: 10.1002/sd.2511
+
+RESEARCH ARTICLE
+
+Carbon tax, energy policy, and sustainable development
+in Indonesia
+
+Djoni Hartono 1,2 | Witri Indriyani 1 | Beta Septi Iryani 3,4 |
+Ahmad Komarulzaman 5 | Anda Nugroho 6 | Robi Kurniawan 7
+
+1Department of Economics, Faculty of            Abstract
+Economics and Business, Universitas
+Indonesia, Depok, Indonesia                     The effectiveness of carbon taxes has been subject to important debates on the sus-
+2Research Cluster on Energy Modeling and        tainable development pathway. As an archipelagic country that is vulnerable to cli-
+Regional Economic Analysis, Department of       mate change, the impact of implementing this policy instrument is still understudied
+Economics, Faculty of Economics and             in the literature. This study examines the effect of carbon tax and recycling scenarios
+Business, Universitas Indonesia, Depok,         on the Indonesian economy by employing a dynamic computable general equilibrium
+Indonesia                                       (CGE). The result revealed that carbon tax revenue recycling combined with house-
+3Graduate Program in Economics, Faculty of      hold transfer and investment yielded better GDP and employment rate than a house-
+Economics and Business, Universitas             hold transfer only in the medium and long terms. Furthermore, the carbon tax
+Indonesia, Depok, Indonesia                     revenue recycling on household transfer and renewable energy investment created
+4Directorate of Finance, Information            energy intensity reductions. This study recommends implementing the tax by priori-
+Technology and Tourism Statistics,              tizing specific sectors, setting appropriate tax levels, applying a transitional policy,
+BPS-Statistics Indonesia, Jakarta, Indonesia    and diversifying the investment strategy to align with the sustainable development
+5Department of Economics, Faculty of            pathway.
+Economics and Business, Universitas
+Padjadjaran, Depok, Indonesia                   KEYWORDS
+6Fiscal Policy Agency, Ministry of Finance,     carbon tax, CGE model, emission mitigation, energy intensity, revenue recycling, sustainable
+Depok, Indonesia                                development
+7Ministry of Energy and Mineral Resources,
+Depok, Indonesia
+
+Correspondence
+Robi Kurniawan, Ministry of Energy and
+Mineral Resources, Republic of Indonesia.
+Email: kurniawan.tohoku@gmail.com
+
+1 | INTRODUCTION                                                           Determined Contributions (NDCs), to meet the targets. Several coun-
+                                                                           tries set emission and energy consumption reduction and increased
+The 2030 United Nations Agenda for Sustainable Development and             renewable energy utilization targets to achieve the SDG's goals and
+the Paris Agreement have a strong relationship in providing a global       comply with the Paris Agreement. Each country also sets strategies to
+blueprint for sustainable development related to clean energy and          boost renewable energy utilization by increasing renewable energy
+sustainable life. It manifests both issues through the 7th and 13th sus-   investment, improving energy efficiency, and reducing greenhouse
+tainable development goals (SDGs), namely affordable and clean             gas emissions, directly affecting climate change. Hence, achieving
+energy and climate action. Thus, the Paris Agreement aims to combat        SDG targets on energy will enhance compliance with the Paris
+climate change, keeping a global temperature rise below 2C (3.6 F)         Agreement.
+and pursuing efforts to limit temperature rise to 1.5C (2.7 F). It also
+aims to strengthen the countries' ability to deal with the impacts of           Several years after the Paris Agreement, global carbon emissions
+climate change (United Nations, 2018). A sustainability pathway that       increased by 2.4% and 0.9% in 2018 and 2019, respectively (Olivier &
+poses the least climate change challenges is more conducive to             Peters, 2020). Under current policies, the world is predicted to warm
+increasing well-being from an inclusive wealth framework                   by 3.0C at the end of the century (Climate Action Tracker, 2019).
+(Kurniawan & Managi, 2018). The Paris Agreement requires each              The number is twice that of the Paris agreement target. Also, invest-
+member country to submit its national climate plan, called Nationally      ment in renewable energy declined by 11% in 2018 and slightly
+                                                                           increased by 2% in 2019. Those investments were $325 billion,
+
+2332 © 2023 ERP Environment and John Wiley & Sons Ltd.  wileyonlinelibrary.com/journal/sd  Sustainable Development. 2023;31:2332­2346.
+HARTONO ET AL.                                                              2333                                                                        10991719, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sd.2511 by Leiden University Library, Wiley Online Library on [25/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+$288.3 billion, and $301.7 billion in 2017, 2018, and 2019, respec-         to its influence on productivity and competitiveness (Dyarto &
+tively (Ajadi et al., 2020). Though the global progress of the Paris        Setyawan, 2021). The previous study focuses on the impact of the
+Agreement is lagging, there might be some variation in the individual       carbon tax on the economy and pollution reduction (Baranzini
+countries' achievement that needs to be further assessed.                   et al., 2000; Yusuf & Resosudarmo, 2015), but a few studies debating
+                                                                            the impact of the carbon tax on energy consumption, particularly in
+     Considered one of the growing emitters, Indonesia is also one of       developing countries. Theoretically, the higher price of energy due to
+the most vulnerable countries to climate change. As an archipelagic         carbon tax could induce energy demand saving on energy, especially
+country, a significant proportion of 250 million people spread across       for brown energy, and create energy efficiency. Suppose RE is avail-
+thousands of islands and low-lying coastal areas. Having such a condi-      able at a more affordable price. In that case, the demand for RE could
+tion, Indonesia provides a good case study. The country has commit-         increase, and the total energy consumption might be stable or slightly
+ted to achieving SDG's target by increasing the renewable energy mix        increase compared to the non-existing RE. The economic impact of
+supply and doubling its primary energy efficiency. The Government of        energy consumption is not necessarily different, but the impact on
+Indonesia (GoI) has established the General Plan of National Energy--       emission reduction could be substantial. Hence, our study comple-
+Rencana Umum Energi Nasional (RUEN)--by reducing energy intensity           ments the existing literature discussing the impact of the carbon tax
+by up to 1% annually and achieving 23% of renewable energy                  on energy consumption. Furthermore, our study also examines the
+(RE) mix by 2025 (RUEN, 2017). Responding to the Paris Agreement,           impact of the carbon tax on economic aspects, such as GDP, real con-
+the GoI, coordinated by the Ministry of Environment and Forestry,           sumption, employment rate, and sectoral output, and environmental
+issued law 16/2016 of Indonesia national determined contribution            indicators, such as emission and energy intensity, to make it more
+(INDC) targets of national emission reduction per sector. According to      comprehensive. The previous study still did not answer the impact of
+the NDC targets, Indonesia commits to reducing emissions by up to           implementing this policy instrument on the NDC target of Indonesia
+29% in 2030 and up to 41% under the conditional scheme. It needs            and the policy roadmap in the energy sector.
+to reduce CO2 emissions by about 18.8% (Direktorat Jenderal Pen-
+gendalian Perubahan Iklim, 2019). The policy is also in line with the            Against the backdrop, this paper attempts to investigate the
+government's efforts in preparing an NDC update and a Long-Term             impact of a carbon tax on achieving the SDGs and Paris Agreement
+Strategy for Low Carbon and Climate Resilience in 2050 (Ministry of         targets manifested in the RUEN's and INDC's targets. Besides, it also
+Environment and Forestry, 2021). Furthermore, the Ministry of Plan-         estimates the effect of a carbon tax on environmental and macroeco-
+ning, through the Medium-term National Development Plan (RPJMN)             nomic indicators using a recursive dynamic CGE model. The CGE
+2020­2024, targets greenhouse gas emissions of around 27.3%,                model has been widely used as the primary method in assessing the
+lower than business-as-usual (Climate Action Tracker, 2020). The GoI        economy-wide impact of the energy-fiscal instrument, including car-
+needs to act ambitiously by setting up more inclusive and tighter pol-      bon tax (Hartono, Hastuti, et al., 2020, Hartono, Komarulzaman,
+icy strategies to meet the RUEN's and INDC's targets.                       et al., 2020; Holmøy, 2016; Yusuf & Resosudarmo, 2015). Four carbon
+                                                                            tax implementation (with different recycling combinations) scenarios
+     Among the options available in the literature to promote clean         were simulated in a quest for a better policy option. These simulations
+energy and energy mix improvement, fiscal policy, including removal         included (1) levy carbon tax only, (2) levy carbon tax and distribute all
+of subsidy or fuel tax, carbon tax, government spending, and or invest-     the carbon tax revenue to households, and lastly, levy carbon tax and
+ment, is widely used around the globe. The carbon tax is expected can       distribute half of the revenue to households and half for infrastructure
+reduce carbon emissions by enhancing innovation and energy effi-            (3a) or renewable energy investment (3b).
+ciency (Ulucak & Kassouri, 2020). Moreover, a carbon tax is consid-
+ered superior to other fiscal instruments, given its impact on emission          This article may contribute to three aspects. Firstly, it adds to the
+reduction and its easiness of implementation (Zhou et al., 2018). The       existing literature on the impact of a carbon tax by employing a
+rational aspect is that people will change their consumption behavior       dynamic CGE model with detailed energy sectors, in contrast to the
+toward more efficient and greener energy by imposing a carbon tax.          aggregated data on energy in the standard input­output (IO) table.
+Then, the tax revenue could be invested in green energy or infrastruc-      Also, the detailed energy sectors differentiate this study from previ-
+ture development. Carbon taxes are also considered essential drivers        ous ones (Antimiani et al., 2014; Ojha et al., 2020; Tvinnereim &
+for improving ecological quality (Ullah et al., 2022). Thus, a carbon tax   Mehling, 2018), allowing a better analysis of the environmental impact
+could reduce emissions, potentially increase the RE mix, or even            of a carbon tax, primarily the carbon emission, energy intensity, and
+improve the economy and environment.                                        energy mix. Furthermore, the dynamic CGE model could capture mar-
+                                                                            ket reactions and structural adjustments more comprehensively, for
+     Having such importance, only a few studies examine the impact          instance, by allowing endogenous adjustment in the supply of factors
+of the carbon tax policy in Indonesia. A carbon tax policy is predicted     and technology (Anderson, 2020). Secondly, the study provides a
+could reduce CO2 emissions in the country (Ayu, 2018). Focusing on          comprehensive simulation of emission and energy intensity by levying
+the distributional impact of a carbon tax, it is estimated that the inter-  and recycling the carbon tax on households' lump-sum transfer, infra-
+vention in Indonesia is not necessarily regressive (Yusuf &                 structure, and renewable energy investment. In contrast to other
+Resosudarmo, 2015). There are different perspectives concerning the         studies focusing more on macroeconomics and household consump-
+implementation of the policy. Policymakers tend to be open to policy        tion changes (see Yusuf & Resosudarmo, 2015; Li et al., 2020).
+intervention, while the business community opposes a carbon tax due
+2334                                                                       HARTONO ET AL.                                                               10991719, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sd.2511 by Leiden University Library, Wiley Online Library on [25/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+The present research is essential as Indonesia is listed as the top        the carbon tax as the most efficient instrument to reduce carbon emis-
+10 largest emitter countries. Hence, its energy mix changes may sig-       sions (Baranzini et al., 2000; Cuervo & Gandhi, 1998; Ojha et al., 2020;
+nificantly affect the global environmental condition, including the        Timilsina, 2018; Tvinnereim & Mehling, 2018). The carbon tax can raise
+achievement of SDGs and the Paris Agreement.                               revenue while keeping the carbon at a certain threshold. Also, the
+                                                                           implementation of a carbon tax could contribute to achieving market
+     The rest of this article is organized as follows. Section 2 provides  efficiency, minimizing environmental impact, and raising domestic
+the concept and evidence of fiscal instruments in promoting RE and         resources to fund public goods. When implementing a carbon tax, it is
+energy efficiency, and Section 3 presents Indonesian government poli-      necessary to consider revenue use, tax rates, and adverse effects, such
+cies and strategies to achieve RUEN's and NDC's targets. Section 4         as consumption and employment changes. Carbon tax revenue may be
+covers the method and data sources, followed by Section 5, describing      allocated to finance government spending or recycled through subsi-
+the result and discussion. The last section, Section 6, contains the       dies, household transfers, investment, or other tax reductions. Both
+conclusion and policy implications.                                        actions will affect economic activities at the micro and macro levels.
+                                                                           When levying the tax, the government may start with gradual increases
+2 | THE FISCAL INSTRUMENT IN                                               or a one-shot increase in tax rates, both of which have positive and
+ENVIRONMENTAL AND ENERGY POLICY:                                           negative aspects. Lower tax may be more politically acceptable, but
+CONCEPT AND EVIDENCE                                                       lower revenue to spend or recycle. In contrast, a one-shot tax may not
+                                                                           be favorable but can socially optimize and cut unwanted activities via
+2.1 | Carbon tax as a fiscal instrument                                    price signaling. Furthermore, a carbon tax without other affirmative pol-
+                                                                           icies, such as household transfer or labor tax reduction, may hamper
+Environmental tax, such as carbon tax, could play a vital role in achiev-  household consumption and employment rate (World Bank, 2019a).
+ing SDG goals related to clean energy and sustainable life. This policy
+has been considered an effective tool for developing a low-carbon               However, the carbon tax policy risks economic growth by raising
+economy (Zhang & Zhang, 2019). Earnings for environmental and              energy prices. The increase in energy prices could hamper energy con-
+social purposes could be brought about, moving behavior toward low-        sumption and welfare. The effect is apparent in countries that rely on
+carbon activities. Also, green investment through pricing environmen-      fossil fuels, like Indonesia. Lower-income households who use fossil
+tal externalities could be triggered (Carraro et al., 2015). The tools     fuels excessively might suffer more from the carbon tax policy. On the
+mentioned earlier may shape energy prices by foisting a tax to reduce      other hand, higher energy prices might encourage households to use
+energy consumption or financial support (when first cost-related bar-      energy efficiently or substitute alternative energies.
+riers are addressed). Consequently, taxes are considered to be the
+best tools for environmental economists, as they can provide a uni-             Until now, Indonesia has not implemented a carbon tax policy, but
+form signal to the whole economy and equalize compliance costs             previous research has simulated the carbon tax implementation in
+(Koeppel & Ürge-Vorsatz, 2007).                                            Indonesia. For instance, Dissanayake et al. (2020) evaluated carbon tax,
+                                                                           fuel tax, and ETS for Indonesia. They find that fuel tax increased economic
+     Putting a price on carbon is crucial for reducing carbon emissions,   growth by 0.29% by 2030, but carbon tax and ETS reduced economic
+decreasing carbon intensity, and stimulating green growth (Antimiani       growth by about 0.11%. But the distraction could be minimized by apply-
+et al., 2014; OECD, 2013), so any plan for low-carbon growth should        ing revenue-recycling from carbon tax via a uniform reduction in the com-
+be based on it. There are several ways to determine carbon price           modity tax rate (Yusuf & Resosudarmo, 2015). Nevertheless, Indonesia
+emissions: carbon pricing, internal carbon pricing, and implicit carbon    implemented an implicit carbon tax policy, that is, fossil-fuel energy sub-
+pricing. Carbon pricing is an energy policy tool that captures GHG         sidy removal, in 2015. At the same time, the policy reduces energy con-
+emissions' external costs and expresses it in a monetary unit per          sumption, generates output contraction, especially in the transportation
+tCO2e. The carbon price provides an economic signal to emitters,           and manufacturing sectors, and generates demand-side savings in annual
+allowing them to reduce their emissions or continue to emit by paying      electricity use (Burke & Kurniawati, 2018; Yusuf et al., 2017).
+for them. Carbon pricing includes an emissions trading system (ETS),
+carbon tax, offset mechanism, and Results-based climate financing               There have been many studies examining various policies related
+(RBCF) (World Bank, 2019b). Meanwhile, internal carbon pricing             to the environment. Among the quantitative analysis, CGE modeling is
+refers to a company's value voluntarily for internalizing its green econ-  the primary method employed in carbon tax research. For example,
+omy cost of GHG, that is, shadow price and internal carbon tax             Antimiani et al. (2014) used the CGE model GDynE to examine the
+(Institute for Climate Economics, 2016). At last, implicit carbon          options between economic growth and low carbon targets in develop-
+includes removing fossil fuel subsidies, energy taxation, fuel taxation,   ing and developed countries up to 2035 through the green climate
+support for renewable energy, energy efficiency certificate trading,       fund. They estimate by simulating two main scenarios, i.e., a scenario
+and regulatory standards (OECD, 2013; World Bank, 2019b).                  for meeting the 450 PPM target (quota) with national sub-targets
+                                                                           (meet the domestic target) without international trading and a similar
+     Experts and international organizations, for example, United          scenario with global carbon market trading. The second scenario
+Nations (UN), Organization for Economic Co-operation and Develop-          seems more efficient and could reduce the cost by around 1% of GDP
+ment (OECD), and European Union (EU), have strongly recommended            compared with the first one. With international global trading, a coun-
+                                                                           try could have more funding and reinvest the fund in renewable
+HARTONO ET AL.                                                              2335                                                                      10991719, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sd.2511 by Leiden University Library, Wiley Online Library on [25/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+energy and more energy-saving sectors. Next, Landa Rivera                   which are together responsible for more than 90% of Global Green-
+et al., 2016 simulated the medium and long-term impacts of the pro-         house Gas (GHG) emissions. Compared to the CCPI 2020, Indonesia
+posed and expected energy policy on the environment and the Mexi-           remains the medium performer in climate protection (Burck, 2021).
+can economy using the Multi-sector Macroeconomic Model for the              World Resources Institute (Wijaya et al., 2017) stated that Indonesia
+Evaluation of Environmental and Energy Policy (Three-ME) (Landa             is the world's eighth-largest emitter of greenhouse gases and the most
+Rivera et al., 2016). The result showed that under total redistribution     significant contributor to forest-based emissions (Wijaya et al., 2017).
+of carbon tax revenues, a double dividend arises: the policy appears        According to The MEF, in 2018, Indonesia produced 1637 million
+beneficial in GDP and CO2 emissions reduction. Afterwards, Timilsina        metric tons of carbon dioxide equivalent (MtCO2e) emissions for the
+(2018) summarized various carbon tax studies for 30 years. The paper        three leading greenhouse gases: carbon dioxide (CO2), methane (CH4),
+presents the economic impacts, revenue recycling choices, distribu-         and nitrogen dioxide (NO2) (Kementerian Lingkungan Hidup dan
+tional implications and competitiveness, and border tax adjustment          Kehutanan, 2020). Indonesia's greenhouse emissions have risen by
+related to the carbon tax.                                                  450,9 MtCO2e compared to 2000 and are predicted to increase even
+                                                                            faster over the next 15 years under a business-as-usual (BAU) sce-
+     In Indonesia, several studies are focusing on the CGE to investigate   nario. Increased emissions from the energy and land-use sectors drove
+the possibility of emission reduction in various ways. Syaifudin et al.     this increase. In 2018, 36,4% or 595.7 MtCo2e emissions were pro-
+(2015) analyzed the impact of financial support on the sub-national         duced from energy-related activities, comprising fuel combustion and
+region to implement an energy efficiency policy in Indonesia (Syaifudin     fugitive emissions from fuel production. Most (94.1%) of the energy-
+et al., 2015). They used CGE Model (IRSA Indonesia 5) and segregated        related emission was in the form of carbon gas (CO2) (Boer
+Indonesia into five regions, that is, Sumatera (R1), Java-Bali (R2), Kali-  et al., 2018).
+mantan (R3), Sulawesi (R4), and East Indonesia (R5). By implementing
+several scenarios, they suggested that the transfer should be distrib-           According to the INDCs, Indonesia voluntarily pledged to reduce
+uted lump-sum to be more effective in the emission reduction efforts.       emissions by 26% and 29% in 2020 and 2030 under the BAU scenario
+Furthermore, Hartono, Hastuti, et al. (2020), Hartono, Komarulzaman,        (up to 41% conditional on international support). Indonesia is on track
+et al. (2020) examined the effect of the current subsidy reform on          to meet its 2020 target but needs more effort to meet the 2030 tar-
+energy mix targets and energy intensity using the recursive dynamic         get as the energy sector heavily relies on fossil fuels. The GHG emis-
+CGE model. They showed that eliminating the energy subsidies is insuf-      sions from this sector are projected to more than double by 2030
+ficient to achieve the energy mix and intensity target. Another research    (OECD, 2019). Besides, Indonesia's 2014 National Energy Policy pre-
+conducted by Dissanayake et al. (2020) evaluated carbon tax, fuel tax,      dicts the use of coal nearly double by 2025 (compared to 2015 levels)
+and ETS for Indonesia. The results showed that fuel tax increased eco-      to achieve adequate supply for all. In contrast, Indonesia's total
+nomic growth by 0.29% by 2030, but the carbon tax and ETS reduced           renewable energy in primary energy supply (excluding biomass) was
+economic growth by about 0.11%. Then, the research suggested that           only 9.18% in 2019 (Ministry of Energy and Mineral Resources
+the GoI needs to levy a carbon tax of around US$36/ton CO2 to meet          Republic of Indonesia, 2020), still far from the target (23%) of energy
+the emissions targets. However, Yusuf & Resosudarmo (2015) revealed         supply in 2025.
+that compared to the lump-sum transfer, revenue-recycling from car-
+bon tax via a uniform reduction in the commodity tax rate might reduce           The accumulation of GHG will have an impact on climate change.
+the contraction of aggregate output due to carbon tax implementation.       Indonesia's geographical and socioeconomic conditions make it vul-
+Also, Malahayati and Masui (2019) explored the impact of mitigation         nerable to natural disasters, including extreme weather and climate
+policy in the Land Use Change and Forestry (LUCF) sector on the econ-       change (Kementerian Lingkungan Hidup dan Kehutanan/Ministry of
+omy and environment. They found that increasing the crop yield and          Environment and Forestry, 2019). The USAID (2016) stated that the
+conserving the land together could reduce emissions from LUCF and           potential economic loss could reach IDR 132 trillion by 2050
+protect forest areas (Malahayati & Masui, 2019). Siagian et al. (2017)      (USAID, 2016). The OECD (2019) also projected that overall climate
+employed The Asia-Pacific Integrated Model/CGE (AIM/CGE) to simu-           change damage would reach about 2.3% of GDP by 2060. Realizing
+late GHG emission through low-carbon energy technologies. They              this damage, Indonesia ratified Paris Agreement in 2016. In response
+revealed that RE and natural gas utilization in the power and transport     to the agreement, the GoI, coordinated by MEF, issued law 16/2016
+sectors could achieve a low-carbon energy system. Also, the electrifica-    as a guide to achieving Indonesia's National Determined Contribution
+tion of end-user consumption supplied by renewable power generation         (INDC) targets of national emission reduction per sector. Previously,
+supports the system (Siagian et al., 2017).                                 the GoI issued an action plan to reduce GHG in 2011 (Rencana Aksi
+                                                                            Nasional Penurunan Emisi Gas Rumah Kaca, RAN GRK). In 2014, the
+3 | OVERVIEW OF INDONESIA'S ACTIONS                                         GoI produced GoI Regulation 79/2014 on National Energy Policy
+ON ENERGY POLICY                                                            (Kebijakan Energi Nasional, KEN). The three main objectives in KEN
+                                                                            are to increase energy access and security, increase energy efficiency,
+Based on the Climate Change Performance Index (Burck) 2021, Indo-           and reduce energy elasticity so that the value is less than 1 (Patunru &
+nesia ranks 24 among 57 countries and the European Union (EU),              Rakhmah, 2017). Then, based on the KEN's objectives, the GoI issued
+                                                                            the General Plan of National Energy (RUEN) through Presidential Reg-
+                                                                            ulation 22/2017. Simultaneously, the Ministry of Energy and Mineral
+2336                                                                        HARTONO ET AL.                                                                10991719, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sd.2511 by Leiden University Library, Wiley Online Library on [25/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Resources (MEMR) prepared the General Plan of National Electricity          income distribution among household groups and industry-specific
+(RUKN). RUEN provides policy on the national energy management              impacts. Therefore, the CGE model is a compelling tool to simulate
+plan and acts as an elaboration and implementation plan of KEN until        the effects of fiscal or economic policy changes (Quatrebarbes et al.,
+2050, while RUKN offers a general plan for developing the electricity       2016; Lemelin and Savard, 2022).
+supply system (DEN, 2019).
+                                                                                 This analysis employed a dynamic CGE model of a small open econ-
+     Efforts to decarbonize the energy sector need to accelerate. The       omy based on the ORANIG-RD (Horridge, 2002). Computable or
+mitigation focus has been on fuel switching, energy efficiency, and         applied general equilibrium models are founded on Walrasian general
+public transport (Kementerian Lingkungan Hidup dan Kehutanan/               equilibrium theory (Walras, 1874; Wald, 1936; Arrow and Debreu,
+Ministry of Environment and Forestry, 2019). The GoI has carried out        1954; Arrow and Hahn, 1971) and, frequently--in an intertemporal
+several mitigations to address climate change issues from energy sec-       context--the theory of overlapping generations (Allais, 1947; Samuel-
+tors, including taxes, charges, and prices, Feed-in Tariff (FiT), and pro-  son, 1958; Diamond, 1965; Modigliani, 1966). CGE is an economic
+motion of Renewable Energy (RE) power plants. Revenue from motor            model that represents the entire national economy but aggregates
+vehicle fuel tax and a local street lighting tax amounted to 0.2% of        microeconomic behavior in great detail. The model is represented by a
+Indonesia's GDP (OECD, 2019). The GoI is still working on increasing        system of n nonlinear equations containing n endogenous variables and
+the fuel tax rate and reducing fuel subsidies. As many studies have         a large number of exogenous variables. The system of equations deter-
+shown that energy subsidy in Indonesia was misplaced, regressive,           mines commodity prices and input quantities (including primary inputs
+mistargeted, and unproductive, hindering the promotion of energy-           such as labor, capital, and land, as well as intermediate inputs). In a com-
+saving and countering attempts to reduce GHG emissions (Burke &             petitive market economy, optimizing rational economic agents, in this
+Resosudarmo, 2012; Patunru & Basri, 2012; Yusuf & Resosudarmo,              case producers and consumers, are represented by the CGE model's
+2011; Yusuf & Sumner, 2015).                                                specified equations. These make up the market-clearing demand and
+                                                                            supply for commodities, represented in the model as the market-
+     The MEMR introduced the FiT agreement in July 2016, Regula-            clearing conditions or equilibrium. Compared to the static model, the
+tion 19/2016. Under the FiT scheme, the GoI compensated indepen-            primary advantages of this newer generation of CGE models are their
+dent power producers (IPPs) a fixed and above-market price to buy           capacity to account for lifecycle behavior, intergenerational issues,
+RE. The agreement applies from around 20 until 30 years. In 2017,           intertemporal investment and consumption decisions, and government
+the GoI replaced the FiT with a new tariff mechanism and set the            deficits. The dynamic general equilibrium dynamic model is character-
+maximum rate based on the regional electricity cost. The GoI also           ized by three significant mechanisms: (1) the stock-flow relation
+tried accelerating biofuel energy by issuing Presidential Regulation        between investment and capital stock (assuming a one-year gestation
+61/2015. Furthermore, the MEMR Regulation 53/2018 is supported              lag), (2) the positive relation between investment and profit rate, and
+by adding liquid biofuels as part of RE's source for electricity            (3) the relationship between wage growth and employment.1
+generation.
+                                                                                 This study adjusted the standard ORANIG-RD model2 to accom-
+     Although there have been many studies in various countries on          modate energy policy analysis. The adjustment involved the energy
+the effectiveness of carbon tax in reducing emissions, the Indonesian       substitution probabilities and the inclusion of carbon emissions.
+government has not yet issued a carbon tax law. However, the GoI            Energy materials are considered intermediate inputs with the Leontief
+has issued Presidential Regulation No. 77/2018 as a legal framework         production function in the standard model; consequently, the model
+regulating carbon trading and receiving international grants or funds       does not permit price-induced substitution, leading to the adjustment
+for emission reduction.                                                     in the energy substitution probability and the inclusion of carbon
+                                                                            emission. Firstly, the study altered the model to allow substitutions
+4 | METHODOLOGY                                                             among commodities (inter-energy substitution) and substitution
+                                                                            between capital and energy (capital-energy substitution), following
+Several methods are frequently used to determine the effects of the         (Wianwiwat & Asafu-Adjaye, 2013). Secondly, the carbon tax equa-
+carbon tax, including microsimulation (Saelim, 2019), input­output          tion was added following MMRF-Green by (Adams et al., 2002). The
+analysis (Renner, 2018), and CGE (Saelim, 2019; Yusuf &                     production function is regarded as separable, following the nested
+Resosudarmo, 2015; Zhou et al., 2018). Among the tools accessible           structure (see Figure 1). The intermediate inputs, a composite of pri-
+for energy policy analyses, the CGE model was comprehensively               mary factor and energy, were combined in a fixed proportion of the
+accepted as a proper empirical tool (Holmøy, 2016). The CGE models          Leontief production function to produce commodities at the top level.
+(Taylor, 2016) can pinpoint the economic system's responses deriving        The constant elasticity of substitution (CES) production function, at
+from changes in energy policies such as carbon taxes, which are             the lower level, provides the aggregation of domestic and imported
+market-based actions. In the dynamic version, CGE can simulate the          intermediate inputs, following the Armington assumption in which the
+effects on the long-term growth of variations in the rate of capital        producer minimizes the costs through the cheapest inputs from
+accumulation that might result from changes in investment due to            domestic or imported sources (Armington, 1969). The cost of primary
+modified saving behaviors (Jorgenson & Yun, 2013). Moreover, the            input (labor, land, and capital-energy) composite demand is minimized
+CGE model is highly disaggregated, which allows for examining               using a CES function.
+HARTONO ET AL.                                                         2337                                                                      10991719, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sd.2511 by Leiden University Library, Wiley Online Library on [25/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+F I G U R E 1 Production structure of
+energy sectors. Source: Horridge (2002),
+modified by authors
+
+     The inter-substitution between capital and energy was deter-      commodities satisfying the budget constraint. This utility function dis-
+mined using a method by Wianwiwat and Asafu-Adjaye (2013) in           tinguishes subsistence from the household demand's luxury
+the following stage. In the long run, the inter-substitution between   component.
+capital and energy was accommodated by utilizing the CES func-
+tion. The present study established the energy composite at the        4.1 | Database
+lower stage by combining energy inputs (using the CES function)
+at two nesting stages to reduce production costs. In the initial       The latest available 2010 Indonesian Input­Output (IO) Table and the
+phase, energy input was nested based on types, that is, (i) Fuel,      updated 2008 Social Accounting Matrix (SAM) from Statistics
+(ii) Electricity, (iii) LPG, and (iv) Gas. In the following phase of   Indonesia (Badan Pusat Statistik/BPS) were consolidated to form the
+energy nesting, fuel was a composite of Diesel and Gasoline-type       database. In allowing more details on the energy and electricity sec-
+fuel. Meanwhile, a composite of generator-type energy was elec-        tors, the 2010 standard I-O from BPS (comprising 185 sectors and
+tricity, encompassing coal, gas, eeothermal, hydro, and diesel         commodities) was extended into 191 sectors and commodities. Diesel
+power plants. The energy nesting appealed to the households'           fuel, gasoline fuel, coal, gas, and LPG were inserted in the energy sec-
+demand for energy.                                                     tors. In contrast, the study disaggregated the electricity sector by the
+                                                                       generator's type, involving coal, Gas, Geothermal, Hydro, and Diesel
+     Meanwhile, the household commodities demand was seized in a       power plants. Next, the mentioned sectors were disentangled into
+linear expenditure system (LES) following Yusuf (2015). This function  63 sectors following the objectives of the study.
+is a popular option for modelling consumer preferences in CGE (Boer
+et al., 2021). The mentioned function was purposively used in the           Meanwhile, the present study used Indonesia SAM information to
+composite of both imported and domestic commodities. Meanwhile,        capture the income transfer from/to various economic agents to gov-
+the combination of domestic and imported goods was designed utiliz-    ern the inter-energy substitution. It employed parameters value esti-
+ing the Armington aggregation, similar to the construction of a com-   mated by Adams et al. (2002) and Benavente (2016). The model will
+posite of intermediate input (Yusuf, 2015). For each commodity, the    first run a baseline simulation followed by policy simulations to per-
+household was assumed to determine the optimal combination             form a scenario using a dynamic model. The baseline simulation illus-
+between domestic and imported goods while keeping down the total       trates the business as usual, while the policy simulations demonstrate
+expenses for a given amount of the composite. Next, each household     the economy's different path if policy changes are applied. The
+augments the Stone-Geary utility function to reach the optimum
+2338                                                                        HARTONO ET AL.                                                            10991719, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sd.2511 by Leiden University Library, Wiley Online Library on [25/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+T A B L E 1 Scenarios mapping.                                              firms will reduce labor input to deal with decreasing product demand.
+                                                                            However, Simulation 2 demonstrates a better result than Simulation
+Simulation  Shock                                                           1 in terms of overall macroeconomic indicators. Transferring the
+SIM1                                                                        entire carbon tax yield to households will encourage consumption.
+SIM2        Carbon Tax USD 28.8/Ton of CO2                                  Hence, real consumption and GDP will be pushed back up. The long-
+SIM3a       SIM1 + lump sum transfer (100%)                                 term adverse effect on GDP and real consumption shown by Simula-
+            SIM1 + lump sum transfer (50%) + infrastructure                 tions 1 and 2 are getting worse, though with different magnitudes.
+SIM3b                                                                       With the tax recycling policy shown in Simulation 2, the negative
+               investments (50%)                                            effect of imposing a carbon tax could be lessened since the tax reve-
+            SIM1 + lump sum transfer (50%) + renewable energy               nue is allocated to replace the household burden with the lump-sum
+                                                                            transfer. In terms of employment, Simulations 1 and 2 show different
+               investments (50%)                                            patterns than GDP or real consumption. Firms will undergo negative
+                                                                            impacts from higher energy prices in the short term, indicated by a rel-
+baseline simulation needs historical macroeconomic data between             atively large fall in employment compared to the baseline. However,
+(base year) 2010 and 2019 and economic projection data from 2020            employment will start to recover in the medium term as the model
+to 2030. The study employed historical and projected population and         assumes full employment in the long run.
+labor supply from the (UN DESA, 2019) and historical and projected
+GDP data from the IIASA (2020). The impact of a particular simulation            Compared to Simulation 2, Simulations 3a and 3b show a rela-
+is measured by comparing the baseline and policy simulations. It is         tively better effect on GDP. When half of the tax revenue is reallo-
+important to note that the study only included CO2 emissions from           cated to investment, the multiplier effects of investment will lessen
+fossil fuel combustion. Other sources of CO2 emissions, such as land-       the carbon tax burden, as it boosts production activity starting in the
+use change or deforestation, were taken out.                                medium term. In terms of real consumption, Simulations 3a and 3b
+                                                                            have worse results compared to Simulation 2 at the beginning of the
+5 | RESULTS AND DISCUSSION                                                  period. It may happen as in Simulations 3a and 3b; the recycling funds
+                                                                            are not fully transferred to households, resulting in a more massive
+According to the NDC and National Strategy, Indonesia needs to              decrease in real consumption. Next, Simulation 3a shows positive
+reduce CO2 emissions from the energy sector by 18.8% under BAU as           effects on GDP and employment in the medium-long run since invest-
+part of a bigger plan to reduce the total CO2 emission by 37.7% in          ment in infrastructure will yield a more significant multiplier effect
+2030 with international support. Utilizing our dynamic CGE model by         than the other simulations, considerably increasing economic produc-
+simulating the CO2 emission reduction from the energy sector by             tion activity. In terms of real consumption, Simulation 3a shows a
+18.8%, we found that the appropriate tax rate scenario amounted to          decrease in the short run but recovers and gain a higher rate than the
+28.8 USD/ton CO2 to achieve this CO2 emission reduction target.             baseline in the long run. This condition is also positively impacting
+This rate is comparable to that of previous work by Yusuf and Resosu-       employment. Compared to Simulation 3a, Simulation 3b has the worse
+darmo (2015), applying a 30 USD/ton CO2 carbon tax rate and Dissa-          macroeconomic impact. Although investment in renewable energy
+nayake et al. (2020), about 36 USD/ton CO2.                                 could stimulate economic growth, the effect might be less significant
+                                                                            and yields smaller benefits to the household than investment in infra-
+     The study uses the CGE model and estimates four simulations to         structure. Thus, investing part of carbon tax revenue in infrastructure
+determine the impact of the carbon tax implementation on macroeco-          could have a better impact than all the other scenarios.
+nomic indicators and sectoral implications, including the power plant
+types' usage, environmental indicators, and energy mix. These four               Several factors could explain the unprogressive impact on real
+simulations are summarized in Table 1. Simulation 1 assumes that car-       household consumption in Simulations 2 and 3a. Firstly, the higher
+bon tax yield is kept as government saving instead of distributed to        price of energy due to carbon tax led to the higher saving demand of
+the economy. The last three simulations present different types of          energy consumption, as revealed by the research of Burke and Kurnia-
+recycling scenarios. Simulation 2 assumes that the carbon tax yield is      wati (2018) when the GoI implemented electricity subsidy removal.
+fully transferred to households. Simulations 3a and 3b assume that          Secondly, it is also supported by a small proportion of household
+only half of the carbon tax yield went into a lump-sum household            energy expenditure. A study by Hartono, Hastuti, et al. (2020), Har-
+transfer. In contrast, the other half is spent on investments, infrastruc-  tono, Komarulzaman, et al. (2020) found that nationally, energy
+ture, and renewable energy, respectively.                                   expenditure was around 5% in 2018 compared to 7% in 2008. Specifi-
+                                                                            cally, on electricity expenditure when the GoI implemented subsidy
+     Table 2 shows the impact of levying carbon tax on selected mac-        removal during 2013­2015, the total electricity expenditure was sta-
+roeconomic indicators. Simulations 1 and 2 show a negative effect on        ble from 2008 (before subsidy removal) to 2018 (after subsidy
+GDP and real consumption compared to the BAU since carbon tax will          removal), 2.6% and 2.8%, respectively, thereby the carbon tax might
+increase fossil energy costs and later production costs, impacting pro-     drive energy saving and efficiency.
+ducers and consumers. Subsequently, demand for products will
+decrease in response to rising product prices. This condition also               Table 3 shows that imposing carbon tax impacts varies across sec-
+explains the negative impact on employment in both scenarios since          tors, even though most sectors will be negatively affected by the
+HARTONO ET AL.                                                                                                            2339                               10991719, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sd.2511 by Leiden University Library, Wiley Online Library on [25/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+T A B L E 2 Impacts of imposing a carbon tax on macroeconomic indicators (cumulative percentage change).
+
+SIM1                 2021                     2022   2023   2024                2025    2026    2027      2028    2029    2030
+   GDP
+   Real consumption  À0.72                    À0.72  À0.76  À0.83               À0.93   À1.05   À1.19     À1.33   À1.47   À1.60
+   Employment        À2.56                    À2.93  À3.08  À3.19               À3.29   À3.40   À3.53     À3.68   À3.84   À4.00
+                     À1.02                    À0.84  À0.65  À0.50               À0.40   À0.34   À0.31     À0.30   À0.30   À0.30
+SIM2                 2021                     2022   2023   2024                2025    2026    2027      2028    2029    2030
+   GDP
+   Real consumption  À0.64                    À0.61  À0.62  À0.66               À0.73   À0.82   À0.91     À1.02   À1.12   À1.21
+   Employment          0.17                   À0.18  À0.25  À0.29               À0.32   À0.36   À0.43     À0.52   À0.61   À0.71
+                                              À0.73  À0.54  À0.40               À0.30   À0.24   À0.22     À0.21   À0.20   À0.20
+SIM3a                À0.91                    2022   2023   2024                2025    2026    2027      2028    2029    2030
+   GDP               2021
+   Real consumption                           À0.23  À0.05    0.16                0.41    0.68    0.96      1.26    1.56    1.79
+   Employment        À0.43                    À1.59  À1.79  À1.70               À1.43   À1.13   À0.91     À0.76   À0.58   À0.64
+                     À1.34                    À0.91  À0.66  À0.37               À0.10
+SIM3b                À1.30                    2022   2023   2024                2025      0.11    0.23      0.29    0.33    0.20
+   GDP               2021                                                               2026    2027      2028    2029    2030
+   Real consumption                           À0.44  À0.45  À0.52               À0.60
+   Employment        À0.58                    À0.89  À1.12  À1.27               À1.38   À0.69   À0.78     À0.86   À0.94   À1.00
+                     À0.74                    À0.48  À0.47  À0.42               À0.36   À1.48   À1.59     À1.69   À1.77   À1.84
+                     À0.71                                                              À0.31   À0.27     À0.24   À0.21   À0.19
+
+Source: Hartono et al.'s calculation (2020).
+
+policy. As expected, the negative sectoral effects are more significant in           In terms of energy intensity, all the simulations imply that carbon
+Simulation 1 compared to the other three simulations. The most nota-            tax implementation will significantly reduce energy intensity. Energy
+ble finding in Table 3 is that the carbon tax implementation will severely      intensity is expected to be 16.4% lower than BAU conditions in 2021
+affect the utility sector in all simulations. Electricity is a crucial part of  when the government reallocates the carbon tax revenue to a mix of
+the utility sector and the highest contributor to emissions, so the car-        household transfer and renewable energy investment (SIM3b). This
+bon tax will increase the price of energy. There are at least three more        effect will improve further up to 27.1% in 2030. These results show
+notable findings from these results. Firstly, the total allocation of carbon    that Simulation 3b is superior to all other simulations regarding envi-
+tax revenue to the household will have a lower impact on the utility            ronmental indicators. Since energy intensity is derived by dividing
+sector, but the rate is not significantly different from other simulations.     energy consumption by GDP, energy intensity could decrease if the
+Secondly, a carbon tax only without a recycling policy has the highest          GDP growth rate is faster than the energy consumption. Simulation
+negative impact at almost all simulation times. Third, although Simula-         3b, based on the additional calculation, shows that GDP grows at
+tion 3 has a relatively high contracting effect on the utility sector, the      5.98% while energy consumption is at 0.6%.
+impact on the other sectors is minimal and tends to be positive in the
+medium and long term. Thus, considering the overall effect, the alloca-              Table 5 shows the impact of imposing a carbon tax on energy
+tion of carbon tax revenue on infrastructure investment might be a bet-         use. Generally, in all simulations, a carbon tax increases renewable
+ter option to press the negative impact of a carbon tax, following              energy-based consumption and decreases non-renewable energy con-
+Simulation 3a compared to all other simulation results.                         sumption, that is, coal and oil. Having 62.4 trillion cubic feet of natural
+                                                                                gas reserves, with 43.6 trillion cubic feet being proven, the country's
+     Through expectations, in Table 4, carbon tax implementation                natural gas reserves will last for the next 20 years (MEMR, 2021). This
+could favor environmental indicators, namely CO2 emission and                   estimation is based on the assumption of no discovery and the pro-
+energy intensity. All simulations generally have lower CO2 emissions            duction level of 6 billion standard cubic feet per day (BSCFD). The
+(ranging from 23% to 43%) than the BAU condition, implying signifi-             country needs to attract substantive investment for natural gas infra-
+cantly less environmental pressure. Also, all simulations result above          structure as well as upstream gas exploration and exploitation of new
+the government's 18.8% target sets. Simulation 3b shows the best                gas fields to fulfill future demand (Purwanto et al., 2016).
+result as expected, and Simulation 2 has a relatively less CO2 emission
+reduction. The rebound effect from household consumption in Simu-                    Coal energy-based is highly impacted with a considerable reduc-
+lation 2 seems to encourage energy-intensive sectors to increase their          tion, 77%­89%, followed by oil-based energy, 3%­7%. Meanwhile,
+production.                                                                     renewable energy could increase substantially from 38% to 190%.
+                                                                                Without renewable energy investment, a carbon tax still reduces coal
+2340                                                                                                                      HARTONO ET AL.          10991719, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sd.2511 by Leiden University Library, Wiley Online Library on [25/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+T A B L E 3 The sectoral impacts of levying carbon tax (cumulative percentage change).
+
+SIM1                2021      2022      2023      2024                    2025              2026      2027      2028      2029      2030
+   Agriculture
+   Mining            À0.22     À0.13     À0.11     À0.13                   À0.18             À0.26     À0.36     À0.47     À0.59     À0.71
+   Manufacture       À0.13        0.01      0.08      0.11                    0.12              0.10      0.05   À0.02     À0.10     À0.19
+   Utility           À0.97                                                                                       À1.29     À1.42     À1.54
+   Construction     À20.88     À0.81     À0.78     À0.81                   À0.90             À1.02     À1.16    À21.37    À21.32    À21.27
+   Trade transport   À1.16    À22.06    À21.84    À21.66                  À21.54            À21.47    À21.42     À3.29     À3.42     À3.51
+   Other services    À1.35                                                                                       À2.56     À2.71     À2.83
+                     À0.82     À1.88     À2.30     À2.57                   À2.77             À2.96     À3.14     À2.32     À2.54     À2.73
+SIM2                2021       À1.41     À1.54     À1.72                   À1.93             À2.16     À2.37    2028      2029      2030
+   Agriculture                 À0.89     À1.04     À1.26                   À1.52             À1.80     À2.07
+   Mining             À0.31   2022      2023      2024                    2025              2026      2027       À0.24     À0.27     À0.31
+   Manufacture        À0.51                                                                                      À1.15     À1.28     À1.40
+   Utility            À1.26     À0.21     À0.17     À0.16                   À0.16             À0.18    À0.20     À1.89     À2.01     À2.12
+   Construction     À18.71      À0.44     À0.50     À0.60                   À0.73             À0.87    À1.02    À19.14    À19.05    À18.97
+   Trade Transport    À0.77     À1.16     À1.19     À1.29                   À1.43             À1.59    À1.75     À2.29     À2.40     À2.49
+   Other services     À0.84   À20.26    À19.95    À19.69                  À19.49            À19.35    À19.24     À1.55     À1.66     À1.76
+                      À0.50     À1.27     À1.55     À1.73                   À1.87             À2.01    À2.16     À0.90     À1.00     À1.09
+SIM3a               2021        À0.86     À0.91     À1.00                   À1.13             À1.28    À1.42    2028      2029      2030
+   Agriculture                  À0.48     À0.48     À0.53                   À0.60             À0.70    À0.80
+   Mining             À0.11   2022      2023      2024                    2025              2026      2027          1.61      1.92      2.21
+   Manufacture        À0.25                                                                                         1.16      1.46      1.82
+   Utility            À1.03       0.10      0.30      0.51                    0.75              1.01      1.30      0.49      0.81      1.20
+   Construction     À19.81      À0.09       0.05      0.21                    0.39              0.61      0.87  À20.88    À20.57    À20.40
+   Trade Transport              À0.84     À0.66     À0.49                   À0.30             À0.07       0.19      5.23      5.60      4.87
+   Other services       0.68  À21.03    À21.65    À21.78                  À21.65            À21.40    À21.14        0.47      0.74      0.93
+                      À0.95                 1.65      2.37                    3.21              4.04      4.72      0.07      0.30      0.55
+SIM3b                 À0.61       1.20    À0.73     À0.55                   À0.32             À0.06       0.21  2028      2029      2030
+   Agriculture      2021        À0.84     À0.54     À0.50                   À0.42             À0.29    À0.13
+   Mining                       À0.56   2023      2024                    2025              2026      2027       À0.56     À0.59     À0.63
+   Manufacture        À0.27   2022                                                                               À1.16     À1.24     À1.32
+   Utility            À0.43               À0.26     À0.33                   À0.40             À0.46    À0.51     À1.80     À1.86     À1.92
+   Construction       À1.20     À0.22     À0.53     À0.66                   À0.81             À0.94    À1.06    À21.41    À21.36    À21.29
+   Trade Transport  À19.70      À0.44     À1.20     À1.32                   À1.46             À1.60    À1.71     À1.09     À1.20     À1.29
+   Other services               À1.15   À21.29    À21.27                  À21.32            À21.38    À21.42     À1.79     À1.87     À1.93
+                        0.34  À21.33      À0.20     À0.54                   À0.74             À0.87    À0.99     À1.46     À1.56     À1.64
+                      À0.96               À1.08     À1.24                   À1.40             À1.55    À1.69
+                      À0.63       0.39    À0.75     À0.90                   À1.05             À1.20    À1.34
+                                À0.95
+                                À0.65
+
+Source: Author's (2020) calculation.
+Note: The study aggregates the 63 sectors into seven sectors for straightforward analysis.
+
+and oil-based energy since it will increase the cost of producing fossil  doubling the current capacity of the renewable energy power plant by
+energy. With a carbon tax, the price of new and renewable energy can      2028. Research examining the socioeconomic impacts of levying a
+compete with fossil energy and carbon-based fuels. Industry, business,    carbon tax in China using a similar approach found that a higher tax
+household, and electricity reduce their consumption of non-renewable      on coal-related fuels is more efficient than a conventional carbon tax
+energy by consuming more energy-efficient products and technolo-          policy (Fu et al., 2021).
+gies or shifting their consumption to relatively cheaper energy. The
+significant decrease in coal consumption followed by a substantial             Among the simulations, Simulation 3b shows an enormous posi-
+increase in renewable energy usage is in line with the current GoI plan   tive impact on renewable energy use, that is, up to 190%, and the
+that intends to decommission the coal power plant in addition to          largest negative impact on non-renewable energy. Investing part of
+                                                                          carbon tax revenue in renewable energy could decrease the price due
+HARTONO ET AL.                                                                                                             2341                           10991719, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sd.2511 by Leiden University Library, Wiley Online Library on [25/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+T A B L E 4 The impacts of imposing a carbon tax on environmental indicators (cumulative percentage change).
+
+CO2 Emission      2021                2022      2023     2024                 2025     2026     2027     2028     2029     2030
+SIM1              À26.5               À28.4     À27.9    À27.5                À27.2    À27.0    À26.8    À26.7    À26.6    À26.6
+SIM2              À24.4               À26.6     À25.8    À25.1                À24.5    À24.1    À23.7    À23.4    À23.3    À23.2
+SIM3a             À25.5               À27.4     À28.9    À30.0                À30.7    À31.3    À31.8    À32.3    À32.8    À33.5
+SIM3b             À25.5               À31.7     À36.0    À38.3                À39.7    À40.6    À41.4    À42.0    À42.5    À43.0
+Energy intensity                                                                        2026     2027    2028     2029     2030
+SIM1                 2021               2022      2023     2024                2025     À14.0    À13.0   À12.1    À11.3    À10.7
+SIM2                 À17.5              À19.7     À18.2    À16.7               À15.2    À10.2
+SIM3a                À14.9              À17.6     À15.5    À13.5               À11.7    À23.4     À8.8     À7.7     À6.8    À6.2
+SIM3b                À16.5              À18.9     À20.8    À22.0               À22.8    À26.8    À24.0   À24.5    À25.0    À25.6
+                     À16.4              À22.4     À25.3    À26.2               À26.7             À27.0   À27.0    À27.1    À27.1
+
+Source: Author's (2020) calculation.
+
+T A B L E 5 Long-run impacts of imposing a carbon tax on energy use.
+
+SIM-1             2021                2022      2023     2024                 2025     2026     2027     2028     2029     2030
+   Coal
+   Oil            À78.92              À80.08    À80.83   À81.58               À82.28   À82.89   À83.40   À83.80   À84.12   À84.37
+   Gas             À4.89               À5.21     À5.54    À5.88                À6.21    À6.52    À6.79    À7.01    À7.17    À7.27
+   Renewable        38.52               31.03     40.90    50.50                59.30    67.06    73.74    79.45    84.25    88.16
+                    38.67               40.96     42.83    44.91                46.89    48.64    50.16    51.50    52.69    53.74
+SIM-2
+   Coal           2021                2022      2023     2024                 2025     2026     2027     2028     2029     2030
+   OIL
+   Gas            À77.43              À78.89    À79.71   À80.52               À81.26   À81.90   À82.43   À82.86   À83.20   À83.48
+   Renewable       À3.79               À4.11     À4.41    À4.72                À5.02    À5.30    À5.53    À5.72    À5.85    À5.94
+                    46.50               37.60     50.10    62.13                73.13    82.82    91.11    98.08  103.80   108.34
+SIM-3a              40.33               42.45     44.10    45.98                47.80    49.44    50.90    52.20    53.37    54.41
+   Coal
+   OIL            2021                2022      2023     2024                 2025     2026     2027     2028     2029     2030
+   Gas
+   Renewable      À78.19              À79.43    À80.38   À81.00               À81.42   À81.72   À81.98   À82.19   À82.35   À82.57
+                   À4.34               À4.51     À4.70    À4.64                À4.44    À4.22    À4.06    À3.98    À3.93    À4.22
+SIM-3b              42.37               34.64     28.18    23.68                20.52    18.13    16.08    14.30    12.92    11.14
+   Coal             39.50               41.86     45.80    50.57                55.63    60.64    65.37    69.75    73.78    77.32
+   OIL
+   Gas            2021                2022      2023     2024                 2025     2026     2027     2028     2029     2030
+   Renewable
+                  À78.44              À83.02    À85.99   À87.45               À88.28   À88.81   À89.17   À89.46   À89.68   À89.87
+                   À3.81               À4.03     À4.45    À4.71                À4.85    À4.94    À5.00    À5.05    À5.09    À5.12
+                    41.03                 8.66
+                    40.73               77.54   À13.29   À23.91               À29.92   À33.67   À36.29   À38.33   À40.00   À41.33
+                                                118.10   142.76               158.37   168.71   176.13   181.93   186.68   190.51
+
+Source: Author's (2020) calculation.
+
+to economies of scale, making renewable energy relatively cheaper             capital-energy elasticities; (ii) E1 (SIGMAE1), the CES substitution among
+than non-renewable energy. Thus, people are eager to shift their              energy types; (iii) E2 (SIGMAE2); the CES substitution among fuel
+energy consumption from non-renewable to renewable ones. Hence,               energy types; and (iv) E3 (SIGMAE3); the CES substitution among diesel
+in Simulation 3b, renewable (non-renewable) energy consumption dra-           energy types to examine the changes in the endogenous variables. The
+matically increases (decreases).                                              standard parameter from each elasticity value used in this study are CE
+                                                                              (SIGMACE) = 0.5, E1 (SIGMAE1) = 0.3, E2 (SIGMAE2) = 3, and E3
+     In this study, the sensitivity analysis will refer to Yusuf and Resosu-  (SIGMAE3) = 0.3. Specifically for the sensitivity analysis, changes are
+darmo (2015) and Warr and Yusuf (2011). The present study applies             applied to 4 parameters, following the value changes in Table 6.
+changes in 4 parameter values, including (i) CE (SIGMACE), the CES
+2342                                                                                                                   HARTONO ET AL.      10991719, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sd.2511 by Leiden University Library, Wiley Online Library on [25/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Type of parameter                                Bottom value Standard value Top value             T A B L E 6 Changes parameters for
+                                                                                                   sensitivity analysis.
+
+CES capital-energy elasticities (CE)             0.375     0.50                0.625
+                                                                               0.375
+CES substitution among energy types (E1)         0.225     0.30                3.750
+                                                                               0.375
+CES substitution among fuel energy types (E2)    2.250     3.00
+
+CES substitution among diesel energy types (E3) 0.225      0.30
+
+Note: The bottom value represents 75% of the standard value, the top value represents 125% of the
+standard value, and the lower limit of the parameter CE for Sim2 and Sim3b is 0.4.
+
+T A B L E 7 Value changes in macroeconomic variables.
+
+Variable                              Parameter
+GDP
+Real consumption          SIM1        Standard   CE        Top       E1        Top                 E2        Top       E3        Top
+Employment                SIM2         À1.60                À1.63               À1.59                         À1.60               À1.60
+Sectoral--agriculture     SIM3a        À1.21     Bottom     À1.24    Bottom     À1.20              Bottom     À1.21    Bottom     À1.20
+Sectoral--mining          SIM3b           1.79    À1.60        1.73   À1.62        1.80             À1.60        1.79   À1.61        1.79
+Sectoral--manufacture     SIM1         À1.00      À1.21     À0.98     À1.23     À0.97               À1.21     À1.00     À1.22     À0.99
+Sectoral--utility         SIM2         À4.00         1.83   À4.07        1.80   À3.98                  1.79   À4.00        1.79   À3.98
+Sectoral--construction    SIM3a        À0.71      À0.99     À0.77     À1.04     À0.69               À1.00     À0.71     À1.01     À0.69
+Sectoral-trade transport  SIM3b        À0.64      À4.06     À0.62     À4.09     À0.58               À4.00     À0.64     À4.02     À0.63
+                          SIM1         À1.84      À0.80     À1.90     À0.80     À1.77               À0.71     À1.85     À0.74     À1.82
+                          SIM2         À0.30      À0.72     À0.30     À0.69     À0.30               À0.64     À0.30     À0.64     À0.30
+                          SIM3a        À0.20      À1.77     À0.21     À1.94     À0.20               À1.84     À0.20     À1.87     À0.20
+                          SIM3b           0.20    À0.30        0.19   À0.31        0.20             À0.30        0.20   À0.30        0.20
+                          SIM1         À0.19      À0.21     À0.20     À0.21     À0.18               À0.20     À0.19     À0.21     À0.18
+                          SIM2         À0.71         0.21   À0.79        0.20   À0.67                  0.20   À0.71        0.20   À0.70
+                          SIM3a        À0.31      À0.17     À0.40     À0.20     À0.27               À0.18     À0.31     À0.19     À0.30
+                          SIM3b           2.21    À0.59        2.07   À0.74        2.25             À0.70        2.21   À0.71        2.21
+                          SIM1         À0.63      À0.22     À0.70     À0.35     À0.61               À0.31     À0.63     À0.32     À0.62
+                          SIM2         À0.19         2.34   À0.40        2.17   À0.21                  2.21   À0.19        2.21   À0.18
+                          SIM3a        À1.40      À0.56     À1.60     À0.66     À1.42               À0.62     À1.40     À0.63     À1.39
+                          SIM3b           1.82       0.08      1.59   À0.16        1.79             À0.19        1.82   À0.20        1.82
+                          SIM1         À1.32      À1.19     À1.49     À1.37     À1.35               À1.40     À1.32     À1.40     À1.32
+                          SIM2         À1.54         2.04   À1.79        1.86   À1.49                  1.82   À1.54        1.82   À1.52
+                          SIM3a        À2.12      À1.19     À2.36     À1.30     À2.08               À1.32     À2.12     À1.33     À2.10
+                          SIM3b           1.20    À1.24        0.95   À1.58        1.24             À1.54        1.20   À1.55        1.21
+                          SIM1         À1.92      À1.89     À2.13     À2.16     À1.86               À2.12     À1.92     À2.14     À1.90
+                          SIM2                       1.44                1.16                          1.20                1.18
+                          SIM3a       À21.27      À1.73    À23.27     À1.98    À21.45               À1.92    À21.28     À1.93    À21.56
+                          SIM3b       À18.97               À20.73              À19.12                        À18.98              À19.26
+                          SIM1        À20.40     À20.27    À22.23    À22.00    À20.18              À21.27    À20.40    À21.01    À20.85
+                          SIM2        À21.29     À18.63    À24.51    À19.66    À18.79              À18.97    À21.29    À18.71    À21.41
+                          SIM3a                  À17.74              À20.81                        À20.40              À19.94
+                          SIM3b        À3.51     À18.45     À3.41    À22.78     À3.50              À21.28     À3.51    À21.17     À3.49
+                          SIM1         À2.49                À2.39               À2.48                         À2.49               À2.47
+                          SIM2                    À3.76               À3.59                         À3.51               À3.53
+                          SIM3a           4.87    À2.71        4.73   À2.56        4.90             À2.49        4.87   À2.52        4.88
+                          SIM3b        À1.29                À1.24               À1.25                         À1.29               À1.27
+                                       À2.83         5.02   À2.98        4.85   À2.80                  4.88   À2.84        4.87   À2.82
+                                       À1.76      À1.25     À1.90     À1.36     À1.73               À1.29     À1.76     À1.31     À1.74
+                                                  À2.73               À2.90                         À2.83               À2.85
+                                          0.93    À1.69        0.80   À1.82        0.98             À1.76        0.93   À1.78        0.94
+                                       À1.93                À2.06               À1.88                         À1.94               À1.91
+                                                     1.04                0.89                          0.93                0.93
+                                                  À1.81               À2.01                         À1.93               À1.95
+HARTONO ET AL.                                                                                                               2343                    10991719, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sd.2511 by Leiden University Library, Wiley Online Library on [25/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+T A B L E 7 (Continued)          Parameter
+  Variable
+
+Sectoral--other services  SIM1   Standard   CE        Top                  E1        Top       E2        Top       E3        Top
+CO2 Emission              SIM2    À2.73                À2.84                          À2.72               À2.74               À2.72
+Energy intensity          SIM3a   À1.09     Bottom     À1.19               Bottom     À1.07    Bottom     À1.09    Bottom     À1.07
+Energy mix--coal          SIM3b      0.55    À2.68        0.47              À2.78        0.58   À2.73        0.55   À2.75        0.55
+Energy mix--oil           SIM1    À1.64      À1.06     À1.72                À1.14     À1.60     À1.09     À1.64     À1.11     À1.63
+Energy mix--gas           SIM2                  0.60                           0.52                0.55                0.54
+Energy mix--renewable     SIM3a  À26.57      À1.55    À28.89                À1.70    À29.01     À1.64    À26.46     À1.66    À27.00
+                          SIM3b  À23.18               À25.15                         À25.36              À23.08              À23.58
+                          SIM1   À33.46     À27.85    À34.47               À25.71    À35.82    À26.67    À33.44    À26.15    À33.63
+                          SIM2   À42.99     À24.62    À44.30               À22.43    À45.33    À23.28    À42.84    À22.80    À43.05
+                          SIM3a  À10.73     À32.32    À13.96               À31.03    À13.14    À33.49    À10.64    À33.30    À11.45
+                          SIM3b             À42.00                         À39.87              À43.13              À42.93
+                          SIM1    À6.16     À13.57     À8.81               À11.33     À8.11    À10.81     À6.08    À10.02     À6.84
+                          SIM2   À25.61               À26.78                         À27.68              À25.59              À25.89
+                          SIM3a  À27.14      À9.11    À29.66                À6.98    À28.77     À6.24    À27.02     À5.52    À27.23
+                          SIM3b             À24.24                         À23.98              À25.63              À25.33
+                          SIM1       5.78   À25.13        5.57             À25.08        4.16  À27.26        5.78  À27.05        5.77
+                          SIM2       5.81                 5.58                           4.22                5.80                5.79
+                          SIM3a      7.39       6.55      7.19                 7.95      5.40      5.79      7.38      5.80      7.29
+                          SIM3b      4.60       6.43      4.37                 7.93      2.87      5.81      4.59      5.83      4.55
+                          SIM1     42.29        7.64    43.24                  9.90    43.34       7.39    42.36       7.48    42.67
+                          SIM2     40.74        4.72    41.36                  7.17    41.50       4.60    40.80       4.64    41.07
+                          SIM3a    50.00      44.12     50.28                42.64     51.21     42.23     50.02     41.93     50.26
+                          SIM3b    53.03      42.36     54.30                41.15     54.20     40.68     53.10     40.43     53.12
+                          SIM1     40.27      49.66     39.35                49.16     40.10     49.99     40.22     49.75     39.80
+                          SIM2     42.34      52.09     41.85                51.66     42.55     52.96     42.29     52.95     41.94
+                          SIM3a    27.23      36.73     27.28                38.18     27.01     40.32     27.22     40.72     27.10
+                          SIM3b    15.39      39.33     14.92                40.19     13.84     42.39     15.37     42.71     15.31
+                                   11.65      27.17     11.84                26.68     12.40     27.23     11.64     27.35     11.76
+                                   11.11      15.75     11.21                16.66     11.74     15.40     11.10     15.45     11.20
+                                   15.38      12.59     15.25                11.22     16.38     11.67     15.38     11.55     15.35
+                                   26.99      11.88     26.41                10.74     29.09     11.12     26.93     11.04     27.01
+                                              15.53                          14.27               15.39               15.42
+                                              27.45                          24.51               27.04               26.97
+
+     The results from the four parameter value changes on macroeco-        targets. As Indonesia's commitment to participate in ratifying the Paris
+nomic variables (GDP, real consumption, and employment), sectoral          Agreement, INDC has been in line with the targets for achieving pillars
+analysis, and energy indicators (CO2 emission, energy intensity, and       7 and 13 of the SDGs. Specifically, this study analyzes the impact of
+energy mix) are reported in Table 7. In general, the sensitivity analysis  carbon taxes on environmental and macroeconomic indicators. The
+results show that the changes in endogenous variables (macroeco-           model utilizes a recursive dynamic CGE model with detailed energy
+nomic variables, sectoral analysis, and energy indicators) are not sensi-  sectors and sets up four different scenarios in the simulation. In com-
+tive to parameter value changes (variation in parameter values)            parison, many other studies rely on energy aggregate data.
+related to energy elasticity. Therefore, the results of the simulations
+conducted in this paper are relatively robust.                                  The study highlights some important results that the GoI should
+                                                                           address. Firstly, the simulation shows that to achieve the CO2 emis-
+6 | CONCLUSION                                                             sion reduction target from the energy sector by 18.8% under BAU,
+                                                                           the GoI needs to impose a tax rate of up to 28.8 USD/ton of CO2.
+This article examines the simulation of the role of carbon taxes in        But, levying the carbon tax contracts the economy. It reduces GDP,
+Indonesia. The carbon tax is a tool to achieve the RUEN and INDC           real consumption, employment rate, and sectoral output, particularly
+                                                                           for the utility sector, which heavily depends on electricity. Secondly,
+                                                                           carbon tax revenue recycling could reduce the contracting impact of
+2344                                                                             HARTONO ET AL.                                                                   10991719, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sd.2511 by Leiden University Library, Wiley Online Library on [25/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+the carbon tax application. The results have shown that carbon tax               ACKNOWLEDGEMENTS
+revenue recycling on a combination of household transfer and invest-             The authors acknowledge partially financial support from research grant ­
+ments (Simulations 3a and 3b) yields better results than carbon tax              Hibah Penelitian Dasar, Ministry of Research, Technology and Higher
+revenue recycling only on household transfer (Simulation 2) or alone             Education, Republic of Indonesia (NKB-2619/UN2.RST/HKP.05.00/
+without transfer to the household (Simulation 1). Carbon tax revenue             2020) and PPKI program research grant from the Indonesian World Class
+recycling on a mix of household transfer and infrastructure investment           University Research Scheme (NKB-458/UN2.RST/HKP.05.00/2021).
+generates a higher GDP, higher employment rate, and less negative
+impact on household consumption. Thirdly, a carbon tax revenue                   ORCID
+recycling on household transfer and RE investment is a better recy-              Djoni Hartono https://orcid.org/0000-0002-9413-1903
+cling option for greener energies with more considerable CO2 emis-               Witri Indriyani https://orcid.org/0000-0002-9230-9667
+sion reduction, 20.9% or slightly above the target in 2030 (18.8%).              Beta Septi Iryani https://orcid.org/0000-0002-4916-0537
+Four, the carbon tax policy could boost a higher energy mix by induc-            Ahmad Komarulzaman https://orcid.org/0000-0002-1458-6490
+ing RE consumption and reducing coal and oil (non-RE) consumption                Anda Nugroho https://orcid.org/0000-0002-7549-7619
+in all simulations. Among the simulations, Simulation 3b provides the            Robi Kurniawan https://orcid.org/0000-0002-8825-8123
+best RE used with the possibility of up to 190% increase in RE. Albeit
+Simulation 3a and Simulation 3b reflect different priorities that                ENDNOTES
+seemed like trade-offs for each other, investment diversifications               1 see Horridge (2002) for mathematical expressions and illustrations.
+between infrastructure and RE could aim at emission reduction and                2 Capital-energy nesting and energy aggregate nesting from standard
+economic enhancement. If the non-RE consumption proportion does
+not change but the RE investment increase, followed by the increase                ORANIG-RD is modified to perform the analysis.
+in RE consumption, then the RE mix will potentially increase.
+                                                                                 REFERENCES
+     Given that many countries growingly adopt a carbon tax, the study           Adams, P., Madden, J., Horridge, J. M., & Wittwer, G. (2002). Drought,
+recommends several policy options to implement the tax in a better
+way, that is, (i) the GoI should prioritize a carbon tax on fossil fuel-based         regions and the Australian Economy between 2001-02 and 2004-05.
+energy, mainly on electricity generators and large industrial firms since        Ajadi, T., Cuming, V., Boyle, R., Strahan, D., Kimmel, M., & Logan, M.
+both sources have more significant emissions compared to other
+sources as it is more efficient (Ministry of Finance, 2009); (ii) it is crucial       (2020). Global Trends in Renewable Energy Investment 2020. Frankfurt
+to set a tax price at a level that will not cause shocks in production                School of Finance & Management gGmbH.
+costs for firms and price shocks for households as carbon tax might              Anderson, E. (2020). The impact of trade liberalization on poverty and
+draw setbacks on macroeconomic indicators, such as GDP, employ-                       inequality: Evidence from CGE models. Journal of Policy Modeling,
+ment, household consumption, and output sectoral; (iii) the GoI should                42(6), 1208­1227. https://doi.org/10.1016/j.jpolmod.2020.05.006
+apply a transitional policy to promote energy reform, such as levying            Antimiani, A., Costantini, V., Markandya, A., Martini, C., Palma, A., &
+the tax gradually and reinvest the revenue on RE immediately. In this                 Tommasino, M. C. (2014). A dynamic CGE modelling approach for ana-
+way, fossil fuel-based energy dependency could be reduced, and the                    lyzing trade-offs in climate change policy options: The case of Green Cli-
+RE supply could be increased; (iv) to reduce emissions while still main-              mate Fund (Vol. 16). The Sustainability Environmental Economics and
+taining macroeconomic indicators, the GoI should diversify the invest-                Dynamics Studies (SEEDS).
+ment strategy on infrastructure and renewable energy.                            Armington, P. S. (1969). A Theory of Demand for Products Distinguished
+                                                                                      by Place of Production. IMF Staff Papers, 16(1), 159­178.
+     Our simulations show that imposing a carbon tax could simulta-              Ayu, P. (2018). The impact of carbon tax application on the economy and
+neously contribute to achieving the Paris Agreement and several SDG                   environment of Indonesia. European Journal of Economics and Business
+indicators. The reduction of CO2 emission is in line with SDG indicator               Studies, 4(1), 110­120.
+13.2.2. Meanwhile, the considerable shift from coal and oil to renew-            Baranzini, A., Goldemberg, J., & Speck, S. (2000). A future for carbon taxes.
+able energy could contribute to the achievement of SDGs indicator                     Ecological Economics, 32(3), 395­412. https://doi.org/10.1016/S0921-
+7.2.1. Lastly, the reduction in energy intensity is in accordance with                8009(99)00122-6
+SDG indicator 7.3.1.                                                             Benavente, J. M. G. (2016). Impact of a carbon tax on the Chilean economy: A
+                                                                                      computable general equilibrium analysis. Energy Economics, 57, 106­127.
+     However, this study has potential limitations. Even though the              Boer, P., Daal, J., & Rodrigues, J. (2021). Consumer preferences in CGE
+result could explain the comparable carbon tax rate, it cannot show                   models when data are scarce: comparing the linear expenditure and
+the impact of a carbon tax on RE mix achievement, which is also tar-                  the indirect addilog systems. Economic Systems Research. https://doi.
+geted in the RUEN. Then, the research does not provide the detail of                  org/10.1080/09535314.2021.1964440
+RE that significantly impacts the reduction of emissions with little             Boer, R., Dewi, R. G., Ardiansyah, M., & Siagian, U. W. (2018). Indonesia
+adverse impact on the economy. Thus, future research simulating the                   Second Biennial Update Report: Under the United Framework Convention
+effect of a carbon tax on the RE mix target and the detailed RE is                    on Climate Change. Directorate General of Climate Change, Ministry of
+essential for more information and recommendation on achieving the                    Environment and Forestry.
+RE mix target and increasing the RE supply.                                      Burck, J., Uhlich, T., Bals, C., Höhne, N., Nascimento, L., & Wong, J. (2021).
+                                                                                      2022 RESULTS Monitoring Climate Mitigation Efforts of 60 Countries
+                                                                                      plus the EU-covering 92% of the Global Greenhouse Gas Emissions.
+                                                                                      www.germanwatch.org
+                                                                                 Burke, P. J., & Kurniawati, S. (2018). Electricity subsidy reform in
+                                                                                      Indonesia: Demand-side effects on electricity use. Energy Policy,
+                                                                                      116(3), 410­421. https://doi.org/10.1016/j.enpol.2018.02.018
+HARTONO ET AL.                                                                 2345                                                                               10991719, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sd.2511 by Leiden University Library, Wiley Online Library on [25/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Burke, P. J., & Resosudarmo, B. P. (2012). Survey of recent developments.      Li, F., Chen, J., Hu, X., He, F., Bean, E., Tsang, D. C. W., Ok, Y. S., & Gao, B.
+     Bulletin of Indonesian Economic Studies, 48(3), 299­324.                       (2020). Applications of carbonaceous adsorbents in the remediation of
+                                                                                    polycyclic aromatic hydrocarbon-contaminated sediments: A review.
+Carraro, C., Pandey, S., & Stone, S. (2015). Why Fiscal Policy Matters for a        Journal of Cleaner Production, 255. https://doi.org/10.1016/j.jclepro.
+     Green Economy Transition. Review of Environment, Energy and Econom-            2020.120263
+     ics (Re3), (January 29).
+                                                                               Malahayati, M., & Masui, T. (2019). The impact of green house gas miti-
+Climate Action Tracker. (2019). Warming Projections Global Update (Issue            gation policy for land use and the forestry sector in Indonesia:
+     December). Climate Action Tracker.                                             Applying the computable general equilibrium model. Forest Policy
+                                                                                    and Economics, 109(4), 102003. https://doi.org/10.1016/j.forpol.
+Climate Action Tracker. (2020). Indonesia j Climate Action Tracker. Climate         2019.102003
+     Action Tracker.
+                                                                               MEMR. (2021). Indonesia's oil reserves to last 9.5 years and gas
+Cuervo, J., & Gandhi, V. P. (1998). Carbon taxes: Their macroeconomic effects       19.9 years, says energy minister. https://www.esdm.go.id/en/media-
+     and prospects for global adoption-a survey of the literature (No. 73).         center/news-archives/indonesias-oil-reserves-to-last-95-years-and-gas-
+                                                                                    199-years-says-energy-minister
+DEN. (2019). Indonesian Energy Outlook 2019. Secretariat General National
+     Energy Council.                                                           Ministry of Energy and Mineral Resources Republic of Indonesia. (2020).
+                                                                                    Handbook of Energy & Economics Statistics of Indonesia 2019.
+Dissanayake, S., Mahadevan, R., & Asafu-Adjaye, J. (2020). Evaluating the
+     efficiency of carbon emissions policies in a large emitting developing    Ministry of Environment and Forestry. (2021). Long-term Strategy on Low
+     country. Energy Policy, 136(December 2018), 1­15. https://doi.org/10.          Carbon and Climate Resilience 2050 (LTS-LCCR 2050).
+     1016/j.enpol.2019.111080
+                                                                               Ministry of Finance. (2009). Economic and fiscal policy strategies for climate
+Dyarto, R., & Setyawan, D. (2021). Understanding the political challenges           change mitigation in Indonesia.
+     of introducing a carbon tax in Indonesia. International Journal of Envi-
+     ronmental Science and Technology, 18(6), 1479­1488.                       OECD. (2013). Climate and carbon: Aligning prices and policies (pp. 1­57).
+                                                                                    OECD Publishing.
+Fu, Y., Huang, G., Liu, L., & Zhai, M. (2021). A factorial CGE model for
+     analyzing the impacts of stepped carbon tax on Chinese economy and        OECD. (2019). OECD Green growth policy review of Indonesia 2019,
+     carbon emission. Science of the Total Environment, 759, 143512.                OECD Environmental Performance Reviews.
+
+Hartono, D., Hastuti, S. H., Balya, A. A., & Pramono, W. (2020). Modern        Ojha, V. P., Pohit, S., & Ghosh, J. (2020). Recycling carbon tax for inclusive
+     energy consumption in Indonesia: Assessment for accessibility and              green growth: A CGE analysis of India. Energy Policy, 144(6), 1­12.
+     affordability. Energy for Sustainable Development, 57, 57­68. https://         https://doi.org/10.1016/j.enpol.2020.111708
+     doi.org/10.1016/j.esd.2020.05.002
+                                                                               Olivier, J. G. J., & Peters, J. A. H. (2020). Trends in Global CO2 and Total
+Hartono, D., Komarulzaman, A., Irawan, T., & Nugroho, A. (2020). Phasing            Greenhouse Gas Emissions: 2020 Report (Vol. 2020, December). PBL
+     out energy subsidies to improve energy mix: A dead end. Energies, 13           Netherlands Environmental Assessment Agency.
+     (9), 1­15. https://doi.org/10.3390/en13092281
+                                                                               Patunru, A. A., & Basri, M. C. (2012). The political economy of rice and fuel
+Holmøy, E. (2016). The development and use of CGE models in Norway.                 pricing in Indonesia. In A. Ananta & R. Barichello (Eds.), The political
+     Journal of Policy Modeling, 38(3), 448­474. https://doi.org/10.1016/j.         economy of rice and fuel pricing in Indonesia. In Poverty and Global
+     jpolmod.2016.02.006                                                            Recession in Southeast Asia (pp. 203­228). ISEAS.
+
+Horridge, J. (2002). ORANIGRD: A recursive dynamic version of                  Patunru, A. A., & Rakhmah, T. F. (2017). INDC and Low-carbon techno-
+     ORANIG. Monash University.                                                     logy deployment scenarios: Indonesia. Globalization of Low-Carbon
+                                                                                    Technologies, 83­113. https://doi.org/10.1007/978-981-10-4901-
+IIASA. (2020). The Shared Socioeconomic Pathways (SSP) Database.                    9_4
+     https://tntcat.iiasa.ac.at/SspDb
+                                                                               Purwanto, W. W., Muharam, Y., Pratama, Y. W., Hartono, D.,
+Direktorat Jenderal Pengendalian Perubahan Iklim. (2019). Buku Road Map             Soedirman, H., & Anindhito, R. (2016). Status and outlook of natural
+     NDC Mitigasi. Direktorat Jenderal Pengendalian Perubahan Iklim                 gas industry development in Indonesia. Journal of Natural Gas Science
+     Kementerian Lingkungan Hidup dan Kehutanan.                                    and Engineering, 29, 55­65.
+
+Institute for Climate Economics. (2016). Internal carbon pricing: A growing    Quatrebarbes, C., Boccanfuso, D., & Savard, L. (2016). Beyond representa-
+     corporate practice (Issue November). Institute for Climate Economics -         tive households: The macro­micro impact analysis of VAT designs
+     I4CE.                                                                          applied to Niger. Economic Modelling. Volume, 57, 76­92.
+
+Jorgenson, D. W., & Yun, K. Y. (2013). Taxation, efficiency and economic       Renner, S. (2018). Poverty and distributional effects of a carbon tax in
+     growth. In P. Dixon & D. Jorgenson (Eds.), Handbook of computable              Mexico. Energy Policy, 112(October 2017), 98­110. https://doi.org/
+     general equilibrium modeling (Vol. 1a). Elsevie B.V.                           10.1016/j.enpol.2017.10.011
+
+Kementerian Lingkungan Hidup dan Kehutanan. (2020). Inventarisasi Gas          RUEN. (2017). Perpres 22/2017_RUEN. 6.
+     Rumah Kaca (GRK) dan Monitoring (p. 2019). Pelaporan.                     Saelim, S. (2019). Carbon tax incidence on household demand: Effects on
+
+Kementerian Lingkungan Hidup dan Kehutanan/Ministry of Environment                  welfare, income inequality and poverty incidence in Thailand. Journal
+     and Forestry. (2019). Laporan Inventarisasi Gas Rumah Kaca dan Mon-            of Cleaner Production, 234, 521­533. https://doi.org/10.1016/j.
+     itoring. Pelaporan Verifikasi Tahun, 2018, 1­128.                              jclepro.2019.06.218
+                                                                               Siagian, U. W. R., Yuwono, B. B., Fujimori, S., & Masui, T. (2017). Low-
+Koeppel, S., & Ürge-Vorsatz, D. (2007). Assessment of policy instruments            carbon energy development in Indonesia in alignment with Intended
+     for reducing greenhouse gas emissions from buildings. In United                Nationally Determined Contribution (INDC) by 2030. Energies, 10
+     Nations Environment Programme (UNEP) Central European University               (1), 1­15. https://doi.org/10.3390/en10010052
+     (CEU) January 2007. Central European University, United Nations           Syaifudin, N., Sutrisno, A., & Setiawan, A. D. (2015). The Impact of Fiscal
+     Environment Programme.                                                         Transfer on Energy Efficiency in Indonesia. Energy Procedia, 65, 239­
+                                                                                    247. https://doi.org/10.1016/j.egypro.2015.01.037
+Kurniawan, R., & Managi, S. (2018). Measuring long-term sustainability         Taylor, L. (2016). CGE applications in development economics. Journal of
+     with shared socioeconomic pathways using an inclusive wealth frame-            Policy Modeling, 38(3), 495­514. https://doi.org/10.1016/j.jpolmod.
+     work. Sustainable Development, 26(6), 596­605.                                 2016.02.010
+                                                                               Timilsina, G. (2018). Where is the carbon tax after thirty years of research?
+Landa Rivera, G., Reynès, F., Islas Cortes, I., Bellocq, F. X., & Grazi, F.         World Bank Policy Research Working Paper No. 8493.
+     (2016). Towards a low carbon growth in Mexico: Is a double dividend
+     possible? A dynamic general equilibrium assessment. Energy Policy, 96,
+     314­327. https://doi.org/10.1016/j.enpol.2016.06.012
+
+Lemelin, A., & Savard, L. (2022). What do CGE models have to say about
+     fiscal reform? Economic Analysis and Policy, 74, 758­774.
+2346                                                                              HARTONO ET AL.                                                                         10991719, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sd.2511 by Leiden University Library, Wiley Online Library on [25/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Tvinnereim, E., & Mehling, M. (2018). Carbon pricing and deep decarboni-          World Bank. (2019b). State and trends of carbon pricing 2019. In World
+     zation. Energy Policy, 121(October), 185­189. https://doi.org/10.                 Bank (June). https://doi.org/10.1596/978-1-4648-1435-8
+     1016/j.enpol.2018.06.020
+                                                                                  Yusuf, A. A., Patunru, A. A., & Resosudarmo, B. P. (2017). Reducing petro-
+Ullah, S., Luo, R., Adebayo, T. S., & Kartal, M. T. (2022). Dynamics between           leum subsidy in indonesia: An interregional general equilibrium analy-
+     environmental taxes and ecological sustainability: Evidence from top-             sis. In Regional growth and sustainable development in Asia. New
+     seven green economies by novel quantile approaches. Sustainable                   frontiers in regional science: Asian perspectives (Vol. 7). Springer.
+     Development. https://doi.org/10.1002/sd.2423
+                                                                                  Yusuf, A. A., & Resosudarmo, B. P. (2011). In T. Sterner (Ed.), In fuel taxes and
+Ulucak, R., & Kassouri, Y. (2020). An assessment of the environmental sus-             the poor: The distributional effects of gasoline taxation and their implications
+     tainability corridor: Investigating the non-linear effects of environmental       for climate policy (pp. 171­180). Taylor & Francis Group.
+     taxation on CO2 emissions. Sustainable Development, 28(4), 1010­1018.
+                                                                                  Yusuf, A. A., & Resosudarmo, B. P. (2015). On the distributional impact of
+UN DESA. (2019). World population prospects 2019. In Department of                     a carbon tax in developing countries: The case of Indonesia. Environ-
+     Economic and Social Affairs. World Population Prospects 2019 Issue                mental Economics and Policy Studies, 17(1), 131­156. https://doi.org/
+     141. United Nations.                                                              10.1007/s10018-014-0093-y
+
+United Nations. (2018). Climate Action--United Nations Sustainable Devel-         Yusuf, A. A., & Sumner, A. (2015). Survey of recent developments. Bulletin
+     opment. United Nations Sustainabel Development.                                   of Indonesian Economic Studies, 51(3), 323­348.
+
+USAID. (2016). Indonesia: Costs of climate change in 2050. United States          Zhang, J., & Zhang, Y. (2019). Exploring the impacts of carbon tax on
+     Agency for International Development Climate Change Adaptation                    tourism-related energy consumption in China. Sustainable Develop-
+     Thought Leadership, and Assessments (ATLAS). www.Climatelinks.Org                 ment, 27(3), 296­303.
+     (Issue May).
+                                                                                  Zhou, Y., Fang, W., Li, M., & Liu, W. (2018). Exploring the impacts of a low-
+Warr, P., & Yusuf, A. A. (2011). Reducing Indonesia's deforestation-based              carbon policy instrument: A case of carbon tax on transportation in
+     greenhouse gas emissions*. Australian Journal of Agricultural and                 China. Resources, Conservation and Recycling, 139(8), 307­314.
+     Resource Economics, 55(3), 297­321. https://doi.org/10.1111/j.1467-               https://doi.org/10.1016/j.resconrec.2018.08.015
+     8489.2011.00540.x
+                                                                                      How to cite this article: Hartono, D., Indriyani, W., Iryani, B. S.,
+Wianwiwat, S., & Asafu-Adjaye, J. (2013). Is there a role for biofuels in pro-        Komarulzaman, A., Nugroho, A., & Kurniawan, R. (2023).
+     moting energy self sufficiency and security? A CGE analysis of biofuel           Carbon tax, energy policy, and sustainable development in
+     policy in Thailand. Energy Policy, 55, 543­555. https://doi.org/10.              Indonesia. Sustainable Development, 31(4), 2332­2346.
+     1016/j.enpol.2012.12.054                                                         https://doi.org/10.1002/sd.2511
+
+Wijaya, A., Chrysolite, H., Ge, M., Wibowo, C. K., & Pradana, A. (2017).
+     Executive summary. In World Resources Institute. World Resources
+     Institute. (Issue September).
+
+World Bank. (2019a). Fiscal policies for development and climate action. In
+     M. A. Pigato (Ed.), International development in focus. World Bank
+     Group.
+

@@ -1,0 +1,923 @@
+                                                                Analytical Note
+
+Carbon Pricing in ASEAN+3 Economies: Progress and Challenges1
+
+                                                 November 7, 2022
+
+                                ____________
+
+                                              I. Introduction
+
+1. The Paris Agreement requests all countries to voluntarily define their own
+commitments to reduce greenhouse gas (GHG) emissions under the so-called
+Nationally Determined Contributions (NDCs).2 Effectively replacing the Kyoto Protocol, the
+Paris Agreement came into force in 2016 and is the principal framework for international
+negotiations on climate change, especially by introducing binding agreements for countries
+that have signed it to make necessary mitigation and adaptation efforts. Unlike the Kyoto
+Protocol, which sets the maximum emissions targets (assigned amounts) for certain
+developed countries and economies, 3 the Paris Agreement applies to all countries, but
+countries can set their own emission targets and decide what policies and instruments are
+used to achieve them, including carbon pricing, in their NDCs.
+
+2. Carbon pricing is one of the key mitigation measures to cut GHG emissions by
+putting prices on carbon. Climate change has a far-ranging impact on the environment and
+public health, with a high cost on the public and on future generations. Given the negative
+externality of GHG emissions, economic theory prescribes internalizing the social cost of
+emissions by setting the carbon price equal to the social cost of carbon emissions and
+charging all parties that produce emissions. With proper price signals from the carbon pricing
+system, GHG emitters are expected to reduce their emissions by reducing energy
+consumption, shifting to cleaner fuels, and redirecting new investment to clean technologies.
+
+3. This note aims to review progress in carbon pricing implementation in the
+ASEAN+3 region, and discusses the challenges in the adoption and implementation of
+carbon pricing. The structure of this note is as follows. Section II reviews key concepts in
+carbon pricing instruments. Section III presents the progress in adopting emission trading
+systems, carbon taxes, and carbon crediting mechanisms in ASEAN+3 economies. Section
+IV is about fuel and commodity taxes and subsidies in the region. Section V discusses various
+issues and challenges related to carbon pricing, while Section VI offers some key policy
+recommendations to address the challenges.
+
+1 Prepared by Andriansyah (andriansyah@amro-asia.org, Fiscal Surveillance) and Seung Hyun (Luke) Hong
+(Luke.Hong@amro-asia.org, Fiscal Surveillance) and authorized by Hoe Ee Khor, Chief Economist. The authors would like to
+thank Diana Del Rosario for useful comments. The views expressed in this note are the authors' and do not necessarily
+represent those of AMRO or AMRO management.
+2 NDCs are national climate action commitments that a country must prepare, communicate, and maintain in order to reduce its
+GHG emissions and to adapt to the impacts of climate change. NDCs must be updated and submitted every five years to the
+United Nations Framework Convention on Climate Change (UNFCCC) secretariat.
+3 36 countries participated in the first emission reduction commitment period (2008-2012), and the current emission allowances
+for the second reduction period (2013-2020) are based the Doha Amendment that set for the target for 37 developed countries
+and economies in transition over the period 2013-2020. None of the ASEAN+3 economies are among the 37 countries in the
+second commitment period. Japan was one of the countries in the first commitment period, but has no obligations in the second
+commitment period of the Kyoto Protocol after 2012.
+                                                                2
+
+                                       II. Carbon Pricing Instruments
+
+4. Various carbon pricing instruments have been developed. Some instruments try
+to establish a direct linkage between the price and the level of GHG emissions, while others
+are based on indirect linkages (World Bank, 2022). Currently, 68 carbon pricing instruments
+(both direct and indirect) have been fully implemented globally in 35 countries (including the
+E.U. as one), and 14 of them are in operation in four economies of the region. Other member
+countries have not adopted any instrument yet, but most of them have explicitly mentioned
+carbon pricing in the NDCs as part their future efforts on climate action (Table 1).
+
+                               Table 1. Carbon Pricing in ASEAN+3 Economies
+
+                   Mentioned           Type of Carbon           Sector Coverage1              Carbon          Revenue
+                    in NDCs                  Pricing                                        Price (USD        Collected
+                                                                                            per tCO2e)2
+                                        ETS Carbon                                                        (2021, USD mn)
+                                                       Tax
+
+BN                 O                                               Industry                 NA            NA
+
+KH                 O                                               Transport                NA            NA
+
+CN                 O                                            Transport, Buildings,
+
+                                                                Industry, Domestic          6.37          40.243
+
+                                                                Aviation, and Power
+
+HK                 NA                                              NA                       NA            NA
+
+ID                 O                                               Coal-fired power              2.1          NA
+                                                                       generation           4.13 (ETS)    1,800.334
+JP                 X                                                                        2.36 (Tax)
+                                                                Buildings and Industry                     243.50
+KR                                                                                             18.75          NA
+                            O                                      Waste, Domestic
+                                                                  Aviation, Buildings,           NA
+LA                 X                                             Industry, and Power
+
+                                                                            NA
+
+MM                 X                                               NA                       NA            NA
+
+MY                 X                                               NA                       NA            NA
+
+PH                 X                                               NA                       NA            NA
+
+SG                                                              All facilities that emit a
+                            O
+                                                                  minimum of 25,000         3.69          152.98
+                                                                tCO2e GHG emissions                         NA
+
+                                                                   per annum
+
+TH                 X                                               NA                       NA
+
+VN                 X                                               NA                       NA            NA
+
+Source: NDC Registry (https://unfccc.int/NDCREG); International Carbon Action Partnership (ICAP) ETS Map
+
+(https://icapcarbonaction.com/en/ets); World Bank Carbon Pricing Dashboard (https://carbonpricingdashboard.worldbank.org/); national
+
+authorities; AMRO staff compilations.
+
+Note: Fully implemented; Under development;  Under Consideration; Undecided; NA= Not Available. BN = Brunei; CN = China;
+
+HK = Hong Kong, China; ID = Indonesia; JP = Japan; KH = Cambodia; KR = Korea; LA = Lao PDR; MY = Malaysia; PH = Philippines; SG =
+
+Singapore; TH = Thailand; and VN = Vietnam; CO2e stands for carbon oxide equivalent, a metric measure that is used to compare the emission
+
+from various GHG that equivalent amount to carbon dioxide with the same global warming potential (https://ec.europa.eu/eurostat/statistics-
+
+explained/index.php?title=Glossary:Carbon_dioxide_equivalent).
+1 Sectors mentioned in NCDs or covered in the current/planned ETS/Carbon Taxes; 2 Average prices as of April 1, 2022; 3 Chongqing pilot ETS; 4
+
+Japan Carbon Tax.
+
+5. Direct carbon pricing instruments include an emission trading system (ETS), a
+carbon tax, and a carbon crediting mechanism. In an ETS, a government sets a ceiling
+(cap) on the GHG emissions of each emitter,4 and the allowances are distributed to each
+emitter freely or by auctions. An ETS creates a marketplace for low emitters to trade their extra
+allowances to large emitters to ensure that all emitters follow their pre-allocated GHG emission
+
+4 The national level total cap for all emitters is generally set according to the national emission target set in the NDCs (see
+Appendix).
+                                3
+
+targets (Figure 1). With the allocated cap on emissions and the trade mechanism, an ETS is
+also known as a cap-and-trade system. Meanwhile, a carbon tax is the emitter's compulsory
+contribution levied by the government on GHG emissions. The carbon tax rate is a price that
+emitters must pay for each tonne of GHG they emit (Figure 2). Taxing emissions directly as a
+source of externality, the carbon tax is a Pigouvian tax affecting the behavior of emitters, but
+it cannot guarantee a minimum level of GHG reduction. Therefore, an ETS can be combined
+with a carbon tax to result in a cap-and-tax scheme (Figure 3), where an emitter can both buy
+emission allowances and pay a carbon tax to offset its excess emission. Lastly, unlike an ETS
+and a carbon tax that are based on the polluter-pay-principle, a carbon crediting mechanism
+allows an emitter to invest in a voluntary emission reduction project and get credit from the
+emission reduction if the post-project emission is below the pre-project emission baseline
+(Figure 4). The carbon credit can also be used to offset an emission excess from the emitter's
+other projects.
+
+Figure 1. An ETS Scheme                                                 Figure 2. A Carbon Tax Scheme
+
+Source: AMRO staff illustration.                                        Source: AMRO staff illustration.
+Note: Emitter A produces more emissions than its allowance, while       Note: Emitter A and Emitter B pay carbon taxes according to their
+Emitter B produces less than its allowance. Both parties can trade the  emissions.
+allowances where Emitter A buys Emitter B's unused allowances to
+compensate for its higher-than-allowed emissions.
+
+Figure 3. A Cap-and-Tax Scheme                                          Figure 4. A Carbon Crediting Mechanism
+
+Source: AMRO staff illustration.                                        Source: AMRO staff illustration.
+Note: Emitter A purchases Emitter B's unused allowances and pays a      Note: Emitter A invests in a carbon reduction project. When the post-
+carbon tax to compensate for its higher-than-allowed emissions.         project emission is lower than the pre-project emission, Emitter A
+                                                                        can claim carbon credit equal to the emission reduction.
+
+6. Indirect carbon pricing instruments include fuel and commodity taxes, and
+subsidies. Fuel taxes are levied on fuel, the source of GHG emissions, rather than directly
+on the emissions. Meanwhile, a fuel subsidy is a negative carbon pricing instrument that
+
+encourages, rather than discourages, GHG emissions. OECD (2021) has developed an
+
+effective carbon rate (ECR) measure that values how countries price carbon emissions by
+                                             4
+
+combining fuel excise taxes, carbon taxes, and ETS.5 Only four ASEAN+3 member countries,
+i.e., Japan, Korea, China, and Indonesia, are included in the ECR database of OECD. All four
+countries are still below the benchmark value of EUR60 per tonne of CO2, and only Korea is
+above the OECD average as of 2018 (Figure 5).
+
+Figure 5. Carbon Pricing Scores of Selected                                      Figure 6. Share of Global GHG Emission
+                 ASEAN+3 countries                                          Covered by ETS and Carbon Taxes in ASEAN+3
+
+                                                                                                      Economies
+
+Source: OECD (2021).                                                        Source: World Bank Carbon Pricing                 Dashboard
+Note: CN = China; ID = Indonesia; JP = Japan; and KR = Korea. The           (https://carbonpricingdashboard.worldbank.org/).
+score covers six economic sectors: road, off-road, industry, agriculture &
+fisheries, residential & commercial, and electricity, Including emissions
+from biomass combustion.
+
+                            III. ETS and Carbon Taxes in the Region
+
+7. The European Union established the world's first ETS in 2005, and Finland
+introduced the first carbon tax in 1990. The participants of the EU ETS include the 27 EU
+member states and three European Free Trade Association (EEA-EFTA) states (Iceland,
+Liechtenstein, and Norway).6 The EU ETS covers electricity and heat generation, energy-
+intensive industries, and commercial aviation within the European Economic Area. There are
+currently 9,628 stationary installations and 349 aircraft operators participating in the EU ETS,7
+and the carbon price stood at EUR88.16 (USD91.53) per tonne of CO2e emissions as of May
+12, 2022.8 Finland, meanwhile, was the world's first country to introduce a carbon tax in 1990,
+initially imposed on the carbon content of the fossil fuel at the rate of USD1.41 per tonne of
+CO2e. The tax rate has since risen to USD73 per tonne for transport fuels and USD59 for other
+fossil fuels.
+
+8. Only four countries in the ASEAN+3 region have fully implemented either an ETS
+or a carbon tax (Table 2). Among ASEAN+3 economies, China and Korea have implemented
+an ETS, Singapore has adopted a carbon tax, and Japan has in place both an ETS and a
+carbon tax. These four countries with carbon pricing instruments together account for 13.2
+percent of the global GHG emissions in 2022 (Figure 6). In the case of Indonesia, a law to
+introduce a cap­and­tax system in 2022 was enacted in 2021, but its implementation has
+been postponed due to the current high inflationary environment.
+
+5 OECD (2021) denoted this the Carbon Pricing Score (CPS), measuring the extent to which countries have attained the goal of
+
+pricing all energy related carbon emissions at certain benchmark values for carbon costs or more.
+6 The UK left the EU ETS as the Brexit transition period ended on December 31, 2020. The UK then launched its own ETS on
+
+May 19, 2021.
+7 The EU ETS factsheet (https://icapcarbonaction.com/en/ets/eu-emissions-trading-system-eu-ets).
+8 Live Carbon Price Today (https://carboncredits.com/carbon-prices-today/).
+                                                             5
+
+9. An ETS has been fully implemented in China, Japan, and Korea, while it is still
+under development in Indonesia, Malaysia, Thailand, and Vietnam. Other member
+economies are still considering the implementation of ETS.
+
+Fully implemented ETS:
+
+    · China has fully implemented eight regional ETSs and one national ETS. The regional
+         ETSs are established in Beijing (2013), Chongqing (2014), Fujian (2016), Guangdong
+         (2013), Hubei (2014), Shanghai (2013), Shenzhen (2013), and Tianjin (2013). The
+         sectoral coverage of regional ETSs is not fully harmonized but mainly comprises
+         transport, buildings, industry, domestic aviation, and power. The ETS carbon price
+         varies widely, ranging from USD0.64 in Shenzhen to USD12.51 in Guangdong, with
+         an average of USD6.37 per tonne of CO2e emissions as of April 1, 2022. Meanwhile,
+         the national ETS came into operation in 2021 and currently covers only the power
+         sector, with an average secondary market price of USD9.20 per tonne of CO2e
+         emissions as of April 1, 2022. The allowance allocation is mostly free, but auctioning
+         is also used in Chongqing, Fujian, Guangdong, Hubei, Shanghai, and Tianjin ETSs.
+
+    · Japan has fully implemented two regional ETSs: the Saitama Target Emission Trading
+         System (2011) and the Tokyo Cap-and-Trade Program (2010). Both ETSs cover fuels,
+         heat, and electricity consumption in commercial and industrial buildings. The average
+         secondary carbon prices at the Saitama ETS and the Tokyo Cap-and-Trade Program
+         were USD3.84 and USD4.42 per tonne of CO2e emissions as of April 1, 2022,
+         respectively. Japan is considering implementing either ETS or carbon tax at a national
+         level.9 The free allowance allocation method is currently used in both regional ETSs.
+
+    · Korea fully implemented a national ETS in 2015 that covers the waste, domestic
+         aviation, buildings, industry, and power sectors, which together account for 74 percent
+         of domestic emissions. The ETS carbon price in April 2022 stood at USD18.75 per
+         tonne of CO2e emissions. Korea plans to combine two allocation methods (free
+         allocation and auctioning) with at least 10 percent of allocation through auctions in
+         2021-2025.
+
+ETSs under development:
+
+    · Indonesia. The Ministry of Energy and Mineral Resources ran a voluntary ETS trial for
+         the power sector from March 2021 to August 2021. Thirty-two coal-fired power plants--
+         14 plants as buyers and 18 plants as sellers--participated in the trial to familiarize
+         themselves with compliance procedures and offset mechanisms (Wanhar 2021). The
+         average price in the trial was USD2 per tonne of CO2e emissions. Carbon pricing in
+         Indonesia will be voluntarily implemented in 2021-2024 and is scheduled to turn into a
+         mandatory implementation by 2025 (IMEMR 2021). The Indonesia Commodities &
+         Derivatives Exchange (ICDX) is also preparing a platform for mandatory and voluntary
+         ETS markets to facilitate carbon allowance auctions.10
+
+    · Malaysia. The Ministry of Environment and Water published a National Guide on
+         Voluntary Carbon Market Mechanism in 2021 as the primary reference and guidance
+         for domestic voluntary carbon market mechanisms, including the roles and functions
+         of various parties in the carbon market mechanisms.11 The Ministry also proposed to
+         develop the policy and framework of the domestic emissions trading mechanism. The
+         Ministry of Finance and Bursa Malaysia are now following up on the proposal by
+
+9 Japan PM Suga eyes study on carbon pricing to cut emissions, Kyodo News
+(https://english.kyodonews.net/news/2020/12/88171766deba-japan-pm-suga-eyes-study-on-carbon-pricing-to-cut-
+emissions.html).
+10 ICDX: Organizing Carbon Markets in Indonesia (https://www.icdx.co.id/our-market/carbon).
+11 https://www.kasa.gov.my/resources/alam-sekitar/National-Guidance-on-Voluntary-Carbon-Market-Mechanisms.pdf.
+                                                             6
+
+         developing a single transaction platform for domestic ETSs12 and planning to launch a
+         voluntary carbon market by the end of 2022.13 The 12th Malaysia Plan (12MP) also
+         highlighted a plan to develop enabling instruments for climate action, including carbon
+         pricing.
+
+    · Thailand. The Greenhouse Gas Management Organization is drafting the Emission
+         Trading System Law and is developing an ETS in the Eastern Economic Corridor
+         region.14 With the Climate Change Act under review for cabinet approval, Thailand
+         is preparing climate change work plans comprising the climate change master plan,
+         the GHG mitigation action plan, and the climate change adaptation plan.15
+
+    · Vietnam. The Ministry of Natural Resources and Environment and the Ministry of
+         Finance have been mandated by the revised Law on Environmental Protection to
+         establish an ETS. A pilot system will start by 2025 and will be fully implemented by
+         2027.16
+
+ETSs under consideration:
+
+    · Brunei Darussalam. The National Carbon Climate Policy states that Brunei will
+         introduce carbon pricing--either an ETS or a carbon tax--applicable to all industrial
+         facilities and power utilities by 2025.17
+
+    · Hong Kong, China. In its Climate Action Plan 2050, Hong Kong assesses establishing
+         a unified carbon market in the Guangdong-Hong Kong-Macao Greater Bay Area
+         (GBA).18
+
+    · Lao PDR. As mandated by its National Green Growth Strategy, Lao PDR will utilize
+         carbon pricing--either an ETS or carbon tax--to stimulate efficient and economical
+         energy usage.19
+
+    · The Philippines. As mandated by the Low Carbon Economy Act, the Philippines will
+         establish a cap-and-trade system for the industrial and commercial sectors.
+
+10. Carbon taxes have been fully implemented in Japan and Singapore and will be
+implemented in Indonesia soon.
+
+    · Japan was the first Asian country to implement a carbon tax, in 2012. The carbon
+         tax at a rate of USD2.36 per tonne of CO2e emissions in 2022 is levied on petroleum,
+         oil products, natural gas, and coal. Designed to be revenue neutral, the revenue
+         generated by the carbon tax is used to finance renewable energy projects (Gokhale
+         2021).
+
+    · Singapore was the first to implement a carbon tax in Southeast Asia in 2019.
+         From the current rate at USD3.69 (SGD5.00) per tonne of CO2e emissions, the carbon
+
+12 Govt agrees for Voluntary Carbon Markets development, The Malaysian Reserve
+(https://themalaysianreserve.com/2021/09/20/govt-agrees-for-voluntary-carbon-markets-development/).
+13 Malaysia's bourse to launch voluntary carbon market by year-end (https://www.businesstimes.com.sg/asean-
+business/malaysias-bourse-to-launch-voluntary-carbon-market-by-year-end).
+14 Supporting Thailand's Climate Goals through the World Bank Partnership for Market Readiness
+(https://www.worldbank.org/en/results/2021/11/15/supporting-thailand-s-climate-goals-through-the-world-bank-partnership-for-
+market-readiness).
+15 Thailand's First Climate Change Bill to be Submitted for Approval (https://www.lexology.com/library/detail.aspx?g=07c23552-
+5798-47d4-b986-0dbc96690c9f).
+16 PM gives nod to carbon trading, VietNamNet Online Newspaper (http://english.vietnamnet.vn/fms/environment/53429/pm-
+gives-nod-to-carbon-trading.html).
+17 Brunei Darussalam National Climate Policy, Brunei Darussalam Secretariat 2020
+(http://www.climatechange.gov.bn/SitePages/BNCCP/index.html#page=1).
+18 Hong Kong's Climate Change Action Plan 2050, October 2021
+(https://www.climateready.gov.hk/files/pdf/CAP2050_booklet_en.pdf).
+19 National Green Growth Strategy of the Lao PDR till 2030, Secretariat for Formulation of National Green Growth Strategy of
+the Lao PDR (https://www.greengrowthknowledge.org/sites/default/files/downloads/policy-
+database//national_green_growth_strategy_of%20the_Lao_PDR_till_2030_government_of_Lao.pdf).
+                                         7
+
+    tax rate is scheduled to gradually increase to USD17.97 (SGD25.00) in 2024-2025 and
+    USD32.35 (SGD45.00) in 2026-2027. Singapore is targeting to increase the tax rate
+    further to USD36-50 (SGD50-80) by 2030.20 The sectors subject to the carbon tax
+    include all facilities that directly emit at least 25,000 tCO2e GHG emissions annually.
+
+· Indonesia is the second country in Southeast Asia to implement a carbon tax.
+    Initially, a minimum carbon tax rate of USD2.10 per tonne of CO2e emissions was
+    proposed to be introduced by April 1, 2022. However, it was first postponed to July 1,
+    2022, and then postponed again due to the inflationary pressure from higher fuel and
+    food prices. Despite delays, the Indonesian government is still committed to
+    implementing it by the end of 2022. The carbon tax will first be imposed on coal-fired
+    power generation plants exceeding a stipulated cap under a cap-and-tax scheme and
+    will be expanded to cover other sectors according to the carbon tax roadmap (AMRO,
+    2021).
+
+11. Meanwhile, Malaysia, Thailand, and the Philippines are considering the adoption
+of carbon taxes. The 12th Malaysia Master Plan 2021-2025 mentions a carbon tax. In the
+
+Budget 2023 speech, the Ministry of Finance stated its plan to introduce a carbon tax and to
+study the feasibility of a carbon pricing mechanism. 21 Meanwhile, Thailand's Excise
+Department is currently studying imposing a carbon tax on industrial sectors. 22 The
+
+Philippines' Department of Finance also announced in July 2022 that it is studying carbon tax
+or carbon pricing instruments, especially based on Indonesia's experience.23
+
+12. Four countries in the ASEAN+3 region have fully implemented carbon crediting
+mechanisms (Table 3). China and Japan have multiple crediting mechanisms at the national
+and sub-national levels. China has five sub-national (Beijing, Fujian, and Guangdong) and one
+national crediting mechanism. Japan has one national, one regional, and one sub-national
+
+mechanisms, alongside two ETSs (the Saitama Target Emission Trading System and the
+Tokyo Cap-and-Trade Program).24 Meanwhile, Korea and Thailand have only single national
+
+carbon crediting mechanisms. Sectors covered by the carbon crediting mechanisms in this
+region are mostly forestry and renewable energy. In countries with multiple ETSs, the carbon
+credits of one mechanism are often accepted in another ETS. For instance, the China GHG
+
+Voluntary Emission Reduction Program accepts credits from other regional China ETSs, while
+the J-credit scheme and Saitama Forest Absorption Certification System accept credits from
+
+the Saitama ETS.
+
+Table 3. Carbon Crediting Mechanisms in ASEAN+3 Economies
+
+Name of Scheme Country Crediting Scheme     Sector Coverage   2020 Price
+                                                  Forestry   Range (USD
+Beijing Forestry      Beijing Forestry           Transport    per tCO2e)
+Offset Mechanism                                     NA
+                  CN  Certified Emission                        2.1-9.28
+Beijing Parking
+Offset Crediting      Reductions                                   7-9
+Mechanism
+Chongqing carbon      Parking Certified                            NA
+offset mechanism
+                  CN  Emission
+
+                      Reductions
+
+                  CN  NA
+
+20 Carbon Tax, Strategy Group Prime Minister's Office (https://www.nccs.gov.sg/singapores-climate-action/carbon-tax/).
+21 Speech Budget 2023 (https://budget.mof.gov.my/pdf/2023/ucapan/ub23.pdf).
+22 Excise Considers Carbon Tax, Bangkok Post (https://www.bangkokpost.com/business/2191891/excise-considers-carbon-
+
+tax).
+23 DoF studies Indonesia's carbon tax system, Manila Times
+
+(https://www.manilatimes.net/2022/08/01/news/national/dof-studies-indonesias-carbon-tax-system/1852978).
+24 The Japan's national scheme is the J-Credit Scheme and the regional scheme is the Joint Crediting Mechanism. Meanwhile,
+
+the sub-national scheme is called the Saitama Forest Absorption Certification System.
+                                               8
+
+ Name of Scheme       Country  Crediting Scheme             Sector Coverage                        2020 Price
+                         CN                                                                     Range (USD per
+Fujian Forestry          CN      Fujian Forestry                  Forestry
+Offset Crediting         CN    Certified Emission                                                     tCO2e)
+Mechanism                                            Forestry, renewable energy                          1-3
+Guangdong Pu Hui         JP         Reduction
+Offset Crediting         JP     Pu Hui Certified   Energy efficiency, forestry, fuel                     21)
+Mechanism                JP                           switch, renewable energy,
+China GHG                JP         Emissions                      waste                               1.5-3
+Voluntary Emission                 Reductions        Forestry, energy efficiency,
+Reduction Program              Chinese Certified      waste, renewable energy,                   20 (renewable
+                                     Emission       industrial gases, agriculture,                energy) 13.5
+J-Credit Scheme                    Reductions                                                    (energy saving
+                                                   fuel switch, fugitive emissions,                and others)
+Join Crediting                       J-credits         transport, manufacturing
+Mechanism                                                                                                NA
+Saitama Forest                     JCM credits      Energy efficiency, renewable
+Absorption                                                  energy, transport                            NA
+Certification System           Forest Absorption
+Saitama Target                        Credits                     Forestry                                4
+Setting Emissions                                                                                   1.62-8.12
+Trading System                    Offset credits           Renewable energy                          (excess
+                                                                                                     emission
+Tokyo Cap-and-        JP       Offset credits      Energy efficiency, renewable                  reductions) 43-
+Trade Program                                                    energy                          58 (renewable
+                                                                                                 energy credits)
+Republic of Korea              Korean Offset       Energy efficiency, industrial
+                                   Credits             gases, manufacturing,                           20-36
+Offset Credit         KR
+                                                   renewable energy, transport,                     0.64-9.46
+Mechanism and                                                     waste
+
+Thailand Voluntary                                 Energy efficiency, renewable
+                                                     energy, waste, transport,
+Emission Reduction    TH       TVER                      forestry, agriculture
+
+Program
+
+Source: World Bank Carbon Pricing Dashboard (https://carbonpricingdashboard.worldbank.org/).
+Note CN = China; JP = Japan; KR = Korea; and TH = Thailand. NA = Not Available. 1) As of 2019.
+
+                           IV. Indirect Carbon Pricing in the Region
+
+13. Environmental taxes and subsidies have also been implemented in the region.
+In addition to direct carbon pricing mechanisms, environmental taxes and tax exemptions can
+be used (Table 4). Environmental taxes include taxes on energy, pollution, waste, plastic, and
+packaging. Tax exemptions include the exclusion of income or transactions from tax to
+promote activities that positively impact the environment, such as reducing water use and
+using renewable energy. The revenue collected from environmental taxes is substantial in
+Korea, Japan, and China (Figure 7), while revenue forgone from environmental tax
+exemptions is still not measured.
+
+14. Negative carbon pricing instruments still exist in the region in the form of
+subsidies and are still significant in some countries. Parry, Black, and Vernon (2021)
+estimated that the average fossil fuel subsidy cost in the ASEAN+3 countries in 2021 was 7.5
+percent of GDP, with China, Indonesia, Malaysia, and Vietnam spending more than 10 percent
+on fossil fuel subsidies (Figure 8). However, the fossil fuel subsidies were primarily in the form
+of implicit subsidies, i.e., environmental costs and foregone consumption taxes, rather than
+explicit subsidies such as producer subsidies.
+                                                               9
+
+         Table 4. Environmental Taxes and Tax Exemptions in ASEAN+3 Economies
+
+                      Taxes                                                           Tax Exemptions
+
+         Energy1)  Pollution2)  Waste3)   Plastic &            Waste    Energy &      Renewable   Generation8)   Plastic &
+                                         packaging4)                                    energy7)                packaging9)
+                                                                  &         fuel
+                                                               water5)  efficiency6)
+
+CN       O         O            O        X                     O        O             O               O         X
+
+HK       O         O            O        O                     X        O             X               X         X
+
+ID       X         X            X        X                     X        O             X               X         X
+
+JP       O         O            O        X                     O        O             X               O         X
+
+KR       O         O            O        X                     O        O             X               X         X
+
+MY       O         X            O        O                     X        X             X               X         X
+
+PH       X         O            O        X                     O        O             O               X         X
+
+SG       X         X            X        X                     X        X             X               X         X
+
+TH       O         O            O        X                     O        O             O               X         X
+
+VN       O         O            O        O                     O        O             O               X         X
+
+Source: EY Green Tax Tracker (2022).
+Note: Data are unavailable for Brunei Darussalam; Cambodia; Laos, and Myanmar. CN = China; HK = Hong Kong, China; ID = Indonesia; JP =
+Japan; KR = Korea; MY = Malaysia; PH = Philippines; SG = Singapore; TH = Thailand; and VN = Vietnam. O: the tax/exemption is applicable. X:
+the tax/exemption is not applicable. 1) Energy taxes include gasoline, coal, natural gas, other fuel taxes, aviation taxes, and electricity fees. 2)
+Pollution taxes include water, pollution, and effluent charges; emissions and air pollution charges. 3) Waste taxes include recycling, waste, and
+landfill fees; electronic waste disposal fees.4) Plastics and packaging taxes include single-use plastics and other product taxes. 5) Waste and water
+tax incentives include water use reduction and thermal energy production, waste reduction/recycling, and electronic waste. 6) Energy and fuel
+efficiency tax incentives include emission reduction, conventional and alternative fuel vehicles and equipment, efficiency in energy use in industrial
+and manufacturing processes, 7) Renewable energy tax incentives include solar, wind, and geothermal. 8) Generation tax invectives include on-site
+generation (cogeneration/waste heat/fuel cells/microturbines and conventional generation. 9) Plastics and packaging tax incentives.
+
+    Figure 7. Environmental Taxes Revenue in                            Figure 8. Fossil Fuel Subsidies in ASEAN+3
+                  ASEAN+3 Economies                                                        Economies, 2021
+
+Source:                                                        OECD     Source: IMF Climate Change Indicator Dashboard
+                                                                        (https://climatedata.imf.org/).
+(https://stats.oecd.org/Index.aspx?DataSetCode=ERTR).                   Note: BN = Brunei; CN = China; HK = Hong Kong, China; ID =
+
+Note: CN = China; JP = Japan; KR = Korea; MY = Malaysia; PH =           Indonesia; JP = Japan; KH = Cambodia; KR = Korea; LA = Lao PDR;
+                                                                        MY = Malaysia; PH = Philippines; SG = Singapore; TH = Thailand;
+Philippines; SG = Singapore; TH = Thailand; and VN = Vietnam.           and VN = Vietnam
+
+                            V. Controversies around Carbon Pricing
+
+15. Carbon pricing can provide several environmental and economic benefits. In
+addition to reducing emissions by internalizing the social cost of climate change, various
+benefits of carbon pricing have been discussed widely. For example, Baranzini et al. (2017)
+pointed out that carbon pricing can promote carbon-efficient technologies, reduce carbon
+rebound, and lower abatement costs, while reducing the information needs by the regulators.
+Given its wide-ranging benefits, the World Bank (2022) argued that carbon pricing is one of
+                                                            10
+
+the most effective instruments to steer economies on low-emission trajectories. Similarly, ADB
+(2021) stressed that carbon pricing is crucial in achieving longer-term goals toward net-zero
+emissions. It encourages countries to take action to achieve short-term climate mitigation
+targets, while it creates another critical benefit--a new revenue stream that can be used to
+support green recovery and growth.
+
+16. On the other hand, carbon pricing policy can increase energy and consumer
+prices, and affect economic activities. Once implemented, carbon pricing will raise the
+marginal production cost of those affected, which will pass through to the prices of the products
+and services produced by the emitters, and eventually to the general consumer price level.
+For instance, Fabra and Reguant (2014) reported that the EU ETS resulted in higher electricity
+prices in Spain, and Erutku (2019) found that carbon prices imposed in Ontario and Quebec
+raised wholesale gasoline prices in both Canadian provinces. In the ASEAN+3 regional
+context, carbon pricing in Japan was found to impact electricity prices (Ding, 2022) as well as
+various consumer products, such as rice, wheat, and beef (Nakano and Yamagishi, 2021).
+Given the change in relative prices, carbon pricing will also affect economic activities by
+adjusting resource allocations. Kanzi (2021) claimed that carbon pricing disproportionately
+affects poorer households' consumption and income, causing a temporary decline in
+economic activities.25 On the other hand, Metcalf and Stock (2020) argued that carbon pricing
+would have a modestly positive or potentially no impact on GDP and total employment growth
+rates. In addition, investment in carbon-intensive economies will decline, while investment and
+employment in renewable and cleaner energy sectors will increase, shifting resources from
+carbon-intensive to cleaner industries, which will affect the country's international
+competitiveness (Bems and Juvenal, 2022). 26 For instance, fossil fuel exporters will see
+demand for their products falling, and different carbon prices across countries can affect
+relative competitiveness among trading partners.
+
+17. Empirical evidence for the impact of carbon pricing on emission reduction is
+mixed. Sen and Vollebergh (2018) reported a sizeable long-run impact--7.3 percent long-run
+emission reduction from an increase in effective carbon rate by EUR10 per tonne of CO2.
+Meanwhile, Green (2021) conducted a meta-review of ex-post quantitative impacts of carbon
+pricing on emission reduction and concluded that the impacts of existing carbon pricing
+schemes were generally limited, with only a 0-2 percent emission reduction per annum, and
+the carbon tax tended to be more impactful than ETS.27 While Green's conclusion is in line
+with the argument of Tvinnereim and Mehling (2018) that there is little evidence that carbon
+pricing alone, even at high prices, has led to effective emission reductions, some blamed the
+current carbon pricing systems' incomplete carbon cost pass-through, which may constrain
+the full internalization of the social cost of GHG emissions. 28 Neuhoff and Ritz (2019)
+presented a set of assumptions for a complete carbon cost pass-through, which current
+carbon pricing systems fail to meet:
+
+    (1) Carbon prices must be set based on the social cost of carbon.
+    (2) Carbon prices must apply to all companies competing in the same product market.
+    (3) Each company must face a full carbon price for their emissions without any dilution,
+
+         such as free allowance allocation.
+    (4) All emitters must incorporate carbon pricing into their internal production and
+
+         investment decision-making processes.
+
+25 With a higher energy share in their expenditure, higher energy prices tend to have more negative impact on the purchasing
+power of low-income households. Danzig (2021) also argued that targeted fiscal policies could be adopted to overcome the
+distributional impact of carbon pricing.
+26 For instance, Susantono et. al. (2021) estimated that USD290 billion is needed to reach regional renewable energy targets by
+2025.
+27 Few empirical studies on ASEAN+3 economies are available and their results are mixed as well. Arimura and Abe (2021)
+estimated that Tokyo ETS reduced emissions by 6.9 percent, while Wakabayashi and Kimura (2018) found that energy savings
+triggered by the Great East Japan Earthquake had a greater impact on emission reduction than the ETS.
+28 For instance, Neuhoff et al. (2006) argued that free allowance fails to internalize emission externality into the EU electricity
+prices and creates disincentives for investment in energy efficiency, resulting in higher electricity consumption.
+                                                            11
+
+    (5) Product markets must be perfectly competitive, where market prices must equal
+         marginal producers' production and carbon costs.
+
+18. In this high inflationary pressure context, introducing carbon pricing
+instruments or increasing carbon tax rates could be a big challenge for policymakers.
+The current average carbon price in ASEAN+3 economies of USD6.45 per tonne (Table 2) is
+still far below the average global price of USD31.18 (World Bank, 2022), as well as the
+recommended global carbon price of USD75, which is required to reduce emissions enough
+to keep the temperature increase below 2°C (Perry, Black, and Roaf, 2021).29 Given the
+current low carbon prices, increasing the carbon tax rate, or introducing a carbon pricing if
+there is none, will become inevitable for all member economies to reach their net zero goals
+amid fast-rising global pressure on climate action. However, such a policy change in the midst
+of the current global economic uncertainty and high inflation is a difficult decision requiring
+wide public support, and must be calibrated carefully.
+
+19. Lower carbon prices may create carbon leakages and lead to the cross-border
+carbon price adjustment system. The difference in carbon prices can lead to the strategic
+relocation of GHG emitters, seeking lower marginal production costs.30 Aiming to create a
+level playing field for its manufacturers that are subject to higher carbon pricing, and to prevent
+carbon leakage by imposing an import levy on specific products, the EU has decided to
+introduce the carbon border adjustment mechanism (CBAM). The CBAM will impose a levy
+on EU importers starting in January 2026, requiring them to buy CBAM certificates on imports
+of non-EU products. The levy reflects the emissions from production and is calculated by
+deducting from the EU ETS any free allowances EU producers still receive31 and any carbon
+price paid during production in the exporting country. 32 Countries with carbon pricing
+mechanisms equivalent to the EU ETS could be exempted from the CBAM, such as the EFTA
+member countries.
+
+                   VI. Policy Considerations to Address the Challenges
+
+20. Policymakers need to provide a clear signal for emitters by adopting and
+announcing a credible carbon pricing policy as part of their post-pandemic fiscal
+adjustment plan. Large-scale resource rebalancing in the post-pandemic era provides an
+excellent opportunity for policy intervention to maximize the positive impact of carbon pricing
+while curbing the impacts of adverse shocks resulting from it (Andriansyah and Hong, 2022).
+Despite mixed empirical evidence, the GHG emission reduction target in NDC should be
+followed by a rigorously assessed carbon pricing adoption plan with detailed design features.33
+Countries without carbon pricing can start by introducing environmental taxes and reducing
+fossil fuel subsidies. For those that already have established carbon pricing mechanisms,
+carbon prices need to be gradually increased until they reach the social cost of carbon, or at
+least, the globally suggested level. 34 The coverage of carbon pricing also needs to be
+expanded to economy-wide policies. In addition, it is also essential to have standardized
+
+29 The recommended global carbon price of USD75 is even below the theoretical carbon price that equals the social cost of
+carbon, i.e., USD80 to USD100 (Pindyck 2019).
+30 In case of Japan, Nakano and Yamagishi (2021) found that the introduction of carbon pricing led to carbon leakage in
+aluminum production and no price impact.
+31 Currently, 94 percent of industrial emissions are covered by free allowances (European Commission 2019).
+32 This means that those who are importing products from countries that already implement carbon pricing--either through an
+ETS or a carbon tax--can buy fewer CBAM certificates than those imported from countries with no carbon pricing mechanisms
+in place. Still, these importers may bear higher costs on top of the import levy due to administrative burden such as the cost of
+abiding the rules of origin in trade arrangement and the cost of emission verification by a third party.
+33 OECD and IMF (2015) listed the essential characteristics of carbon pricing design as fairness, alignment of policies and
+objectives, stability and predictability, transparency, efficiency and cost-effectiveness, and reliability and environmental integrity.
+34 For example, Gollier (2022) suggested that the prices can be increased gradually by about 3.75 percent per year, plus the
+inflation rate.
+                                                            12
+
+measurement, reporting, and verification to ensure that carbon pricing achieves its objective
+of reducing GHG emissions.
+
+21. Sectoral policies must supplement carbon pricing. Given the limitations of current
+carbon pricing instruments, Tvinnereim and Mehling (2018) argued that other sectoral policy
+instruments must accompany higher carbon prices to effectively reduce emissions and also
+offset the aggregate losses from stranded assets in negatively affected sectors. Sectoral
+policies, especially those implemented in the power, manufacturing, transportation, and
+agriculture sectors, are essential to address sector-specific factors such as financing
+constraints and incomplete markets. Tax incentives presented in Table 4 are some examples
+of sectoral policies that can accelerate resource rebalancing across different sectors by
+affecting relative prices. Other non-tax sectoral policies are also commonly used, such as
+shifting from fuel fossil subsidies toward electronic vehicle subsidies and introducing feebate
+programs that provide rebates for more efficient vehicles and impose fees for less-efficient
+ones.
+
+22. Comprehensive growth and redistribution policy packages must accompany
+any carbon pricing policy. As the imposition of carbon pricing will disproportionately affect
+specific economic segments more negatively than others, policymakers need to establish a
+comprehensive policy package to mitigate side effects on other policy priorities such as
+economic growth, sustainable development, and poverty. For example, the negative impact of
+higher energy prices on poorer households' consumption and income requires strengthening
+social safety nets to address rising poverty while effectively changing emitters' behavior.35
+Additional fiscal resources for such mitigating policy measures could be financed by
+earmarked revenues generated from carbon pricing instruments. For example, in addition to
+carbon tax revenue, the allowance auction can raise revenues while promoting fair distribution
+across different sectors.36 Even though it is not the primary purpose, these revenues can also
+be used to reduce distortionary taxes and support other climate change actions, such as
+providing subsidies for clean technology and financing the green transition.
+
+23. Strengthening international cooperation in implementing carbon pricing could
+help minimize carbon leakages and impact on global competitiveness. Due to the fear of
+losing their international competitiveness, countries tend to be reluctant to introduce carbon
+pricing policies or/and increase carbon prices ahead of other countries. These cross-country
+differences in carbon pricing implementation, including carbon prices, could lead to carbon
+leakages, by creating incentives for some polluters to relocate their production facilities. These
+issues could be solved through international climate change cooperation (Chateau et al.
+2022). Nachtigall et al. (2021) highlighted the benefits of international coordination in carbon
+pricing and presented various types of potential coordination, such as carbon price
+harmonization, pricing schemes coverage extension, fossil fuel subsidy reduction,
+international sectoral agreements, and carbon leakage mitigation mechanisms. Among others,
+introducing a floor for international carbon prices is one of the most widely discussed forms of
+international cooperation that could speed up the global green transition. Perry, Black, and
+Roaf (2021) proposed an international carbon price floor (ICPF) where a small number of key
+large-emitting countries are subject to different price floors set according to the level of
+development. 37 Further developing the ICPF idea, Chateau et al. (2022) showed that a
+simultaneous ICPF could reduce emissions more effectively with limited impact on global
+economic growth and competitiveness, eliminating the need for a border carbon adjustment
+mechanism like the CBAM.
+
+35 This policy package could be strengthened by a rigorous incidence analysis to identify who bears the greatest burden of
+higher energy prices resulting from carbon pricing implementation.
+36 Selling allowances by auctions, either sealed bid or ascending clock, reflects the actual emission needs and gives emitters
+equal opportunity to buy allowances.
+37 This is to recognize that some countries with higher development needs and a heavier reliance on fossil fuels may set carbon
+prices low, and some countries may use alternative carbon pricing policies to reduce GHG emissions.
+                                                            13
+
+                                                     References
+
+Asian Development Bank (ADB).2021. Carbon Pricing for Green Recovery and Growth.
+   ADB, Manila. https://dx.doi.org/10.22617/TCS210403-2.
+
+Andriansyah, and S. H. Hong. 20222. "Rebuilding Fiscal Buffers in the Post-Pandemic Era:
+   Fiscal Normalization, Consolidation, and Structural Reform." AMRO's Policy Perspectives
+   Paper, AMRO, Singapore. https://www.amro-asia.org/rebuilding-fiscal-buffers-in-the-post-
+   pandemic-era-fiscal-normalization-consolidation-and-structural-reform/.
+
+AMRO. 2021. The 2021 Annual Consultation Report on Indonesia. https://www.amro-
+   asia.org/download/20382/.
+
+Arimura, T.H., and Abe, T. 2021. "The impact of the Tokyo emissions trading scheme on
+   office buildings: what factor contributed to the emission reduction?" Environmental
+   Economics and Policy Studies 23, 517­533. https://doi.org/10.1007/s10018-020-00271-
+   w.
+
+Baranzini, A., van den Bergh, J.C.J.M., Carattini, S., Howarth, R.B., Padilla, E. and Roca, J.
+   2017, "Carbon pricing in climate policy: seven reasons, complementary instruments, and
+   political economy considerations." WIREs Climate Change, 8:e462,
+   https://doi.org/10.1002/wcc.462.
+
+Bems, R., and L. Juvenal. 2022. "Climate Policies and External Adjustment." Chapter 2 of
+   the External Sector Report: Pandemic, War, and Global Imbalances. International
+   Monetary Fund, Washington, DC.
+   https://www.imf.org/en/Publications/ESR/Issues/2022/08/04/2022-external-sector-report.
+
+Chateau, J., F. Jaumotte, and G. Schwerhoff. 2022. "Economic and Environmental Benefits
+   from International Cooperation on Climate Policies." IMF Research Department Paper
+   DP/2022/007, International Monetary Fund, Washington, DC.
+   https://www.imf.org/en/Publications/Departmental-Papers-Policy-
+   Papers/Issues/2022/03/16/Economic-and-Environmental-Benefits-from-International-
+   Cooperation-on-Climate-Policies-511562
+
+Diana del Rosario, 2022. Box B. Malaysia's Climate Change Initiatives. The 2022 Annual
+   Consultation Report on Malaysia. ASEAN+3 Macroeconomic Research Office.
+   https://www.amro-asia.org/amros-2022-annual-consultation-report-on-malaysia/.
+
+Ding, D., 2022, "The impacts of carbon pricing on the electricity market in
+   Japan." Humanities and Social Science Communications 9, 353.
+   https://doi.org/10.1057/s41599-022-01360-9.
+
+European Commission. 2019. Adoption of the Delegated Decision on the Carbon Leakage
+   List for 2021-2030. Directorate-General for Climate Action.
+   https://ec.europa.eu/clima/news-your-voice/news/adoption-delegated-decision-carbon-
+   leakage-list-2021-2030-2019-02-15_en).
+
+EY. 2022. EY Green Tax Tracker. https://www.ey.com/en_gl/tax-guides/keeping-pace-with-
+   sustainability-incentives-carbon-regimes-and-environmental-taxes.
+
+Erutku, C. 2019. "Carbon pricing pass-through: Evidence from Ontario and Quebec
+   wholesale gasoline markets." Energy Policy 132, 106-112.
+   https://www.sciencedirect.com/science/article/abs/pii/S0301421519303301.
+                                                            14
+
+Fabra, N., and M. Reguant. 2014. "Pass-Through of Emissions Costs in Electricity
+   Markets." American Economic Review, 104 (9): 2872-99.
+   https://www.aeaweb.org/articles?id=10.1257/aer.104.9.2872.
+
+Ganapati, S., J. S. Shapiro, and R. Walker. 2020. "Energy Cost Pass-Through in US
+   Manufacturing: Estimates and Implications for Carbon Taxes." American Economic
+   Journal: Applied Economics, 12 (2): 303-42.
+   https://www.aeaweb.org/articles?id=10.1257/app.20180474.
+
+Gokhale, H. 2021. "Japan's carbon tax policy: Limitations and policy suggestions." Current
+   Research in Environmental Sustainability, Vol. 3, pp. 1-15.
+   https://doi.org/10.1016/j.crsust.2021.100082.
+
+Gollier, C. 2021, "The Cost-Efficiency Carbon Pricing Puzzle." CEPR Discussion Paper No.
+   DP15919, Available at SSRN: https://ssrn.com/abstract=3805342.
+
+Green, J. F. 2021. "Does carbon pricing reduce emissions? A review of e-post analyses."
+   Environmental Research Letters, Vol. 16, No. 4.
+   https://iopscience.iop.org/article/10.1088/1748-9326/abdae9.
+
+Indonesia Ministry of Energy and Mineral Resources (IMEMR). 2021. Press Release on
+   Socialization of Carbon Tax and Trading Implementation in Power Sector. December 2,
+   2021.https://www.esdm.go.id/id/media-center/arsip-berita/kementerian-esdm-
+   sosialisasikan-penerapan-pajak-karbon-dan-perdagangan-karbon-bidang-
+   ketenagalistrikan.
+
+Känzig, D. R. 2021. The Unequal Economic Consequences of Carbon Pricing (February 15,
+   2021). Available at SSRN: https://ssrn.com/abstract=3786030.
+
+Masayo, W., and O. Kimura. 2018. "The impact of the Tokyo Metropolitan Emissions Trading
+   Scheme on reducing greenhouse gas emissions: findings from a facility-based study,"
+   Climate Policy, Vol. 18, Issue 8, pp. 1028-1043,
+   https://doi.org/10.1080/14693062.2018.1437018.
+
+Metcalf, G. E., and J. H. Stock. 2020. "Measuring the Macroeconomic Impact of Carbon
+   Taxes." AEA Papers and Proceedings,110 (May): 101­6.
+   https://doi.org/10.1257/pandp.20201081.
+
+Nachtigall, D., J. Ellis, S. Peterson, and S. Thube. 2021. The economic and environmental
+   benefits from international coordination on carbon pricing: Insights from economic
+   modelling studies. OECD Publishing, Paris, https://dx.doi.org/10.1787/d4d3e59e-en.
+
+Nakano, K., and K. Yamagishi. 2021. "Impact of Carbon Tax Increase on Product Prices in
+   Japan." Energies. 14(7):1986. https://doi.org/10.3390/en14071986.
+
+Neuhoff, K., and Ritz, R. A. 2019. Carbon cost pass-through in industrial sectors. Energy Policy
+   Research Group, University of Cambridge. http://www.jstor.org/stable/resrep30282.
+
+Neuhoff, K., and M. Sato. 2006. "Allocation, incentives, and distortions: the impact of EU
+   ETS emissions allowance allocations to the electricity sector." Climate Policy 6:1, 73-91.
+   https://www.tandfonline.com/doi/abs/10.1080/14693062.2006.9685589.
+
+OECD. 2021. Effective Carbon Rates 2021: Pricing Carbon Emissions through Taxes and
+   Emissions Trading, OECD Publishing, Paris, https://doi.org/10.1787/0e8e24f5-en.
+                                                            15
+
+OECD and IMF. 2015. The FASTER Principles for Successful Carbon Pricing: An Approach
+   Based on Initial Experience. https://documents.worldbank.org/en/publication/documents-
+   reports/documentdetail/901041467995665361/the-faster-principles-for-successful-
+   carbon-pricing-an-approach-based-on-initial-experience.
+
+Parry, I.W.H, S. Black, and N. Vernon. 2021. "Still Not Getting Energy Prices Right: A Global
+   and Country Update of Fossil Fuel Subsidies." IMF Working Paper No. 2021/236,
+   International Monetary Fund, Washington, DC.
+   https://www.imf.org/en/Publications/WP/Issues/2021/09/23/Still-Not-Getting-Energy-
+   Prices-Right-A-Global-and-Country-Update-of-Fossil-Fuel-Subsidies-466004.
+
+Parry, I.W.H., S. Black, and J. Roaf. 2021. "Proposal for an International Carbon Price Floor
+   among Large Emitters." IMF Staff Climate Notes 2021/001, International Monetary Fund,
+   Washington, DC. https://www.imf.org/en/Publications/staff-climate-
+   notes/Issues/2021/06/15/Proposal-for-an-International-Carbon-Price-Floor-Among-Large-
+   Emitters-460468.
+
+Pindyck, R.S. 2019. "The social cost of carbon revisited," Journal of Environmental
+   Economics and Management, Vol. 94, pp. 140-160,
+   https://doi.org/10.1016/j.jeem.2019.02.003.
+
+Sen, S., and H. Vollebergh. 2018. "The effectiveness of taxing the carbon content of energy
+   consumption." Journal of Environmental Economics and Management, 92, 74-99.
+   https://doi.org/10.1016/j.jeem.2018.08.017.
+
+Susantono, B., Y. Zhai, R. M. Shrestha, and L. Mo. 2021. Financing Clean Energy in
+   Developing Asia. Volume 1. Asian Development Bank, Manila, Philippines.
+   https://dx.doi.org/10.22617/TCS210206-2.
+
+Tvinnereim, E., and M. Mehling. 2018. "Carbon pricing and deep decarbonisation," Energy
+   Policy, Vol. 121, pp. 185-189, https://doi.org/10.1016/j.enpol.2018.06.020.
+
+Wakabayashi, M., and O. Kimura. 2018. "The impact of the Tokyo Metropolitan Emissions
+   Trading Scheme on reducing greenhouse gas emissions: findings from a facility-based
+   study," Climate Policy,
+   https://www.tandfonline.com/doi/abs/10.1080/14693062.2018.1437018.
+
+Wanhar. 2021. Uji Coba Perdagangan Karbon Pada PLTU Batubara. Presented at the
+   Webinar on Implementation of Carbon Economic Value at the Power Subsector.
+   December 2, 2021. https://gatrik.esdm.go.id/assets/uploads/download_index/files/b334f-
+   bahan-ditjen-ketenagalistrikan.pdf.
+
+World Bank. 2022. State and Trends of Carbon Pricing 2022. Washington DC,
+   https://openknowledge.worldbank.org/handle/10986/37455.
+                                               16
+
+      Appendix: Emission Reduction Targets of ASEAN+3 Economies
+
+          Baseline          Emission as of     Reduction target      Emission        NDCs
+      year/scenario1)  baseline year/scenario  (from baseline)2)  target in 2030  document
+
+                                (MtCO2e)                            (MtCO2e)5)     version
+
+BN    BAU              29.50                       20%            23.60              2020
+
+KH    BAU              155.00                      42%            90.37           2020
+
+CN    2005             20,307.69                   35%            13,200.00       2021
+
+ID    BAU              2,869.00                    31.89%         1,954.08        2022
+
+JP    2013             1,408.00                    46%            760.32          2021
+
+KR    2018             727.60                      40%            436.56          2021
+
+LA    BAU              104.00                      60%            41.60           2021
+
+MM    NA               NA                          244.523)       NA              2021
+
+MY4)  2005             245.80                      45%            531.62          2021
+
+PH    BAU              3,340.30                    2.71%          3,249.78        2021
+
+SG    2005             101.56                      36%            65.00           2020
+
+TH    BAU              555.00                      20%            444.00          2020
+
+VN    BAU              927.90                      9%             844.39          2020
+
+Source: NDC Registry (https://unfccc.int/NDCREG).
+Note: BN = Brunei; CN = China; ID = Indonesia; JP = Japan; KH = Cambodia; KR = Korea; LA = Lao PDR; MY = Malaysia; PH = Philippines; SG
+= Singapore; TH = Thailand; and VN = Vietnam. No NDC is available for Hong Kong, China. 1) BAU is a business-as-usual scenario 2) it only
+covers the unconditional target. A conditional reduction target is higher than the unconditional one but requires international support for finance,
+technology transfer and development, and capacity building. 3) Myanmar sets its reduction target in terms of the absolute value of 244.52 million
+tCO2e. 4) Malaysia sets the reduction target in terms of economy-wide carbon intensity against GDP. The absolute emission in 2030 is based on
+Diana (2022). 5) Emission target is the remaining emission in 2030 after the emissions in the baseline are adjusted by the reduction target. The
+emission is considered in the form of million tonnes of carbon dioxide equivalent (MtCO2e).
+

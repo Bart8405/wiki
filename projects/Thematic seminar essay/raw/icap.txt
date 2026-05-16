@@ -1,0 +1,353 @@
+     Indonesian Economic Value of Carbon (Nilai Ekonomi Karbon) Trading
+                                              Scheme
+
+General Information
+
+ETS Description
+Indonesias Economic Value of Carbon, or Nilai Ekonomi Karbon (NEK), Trading Scheme is a mandatory, intensity-based ETS for the
+power sector that was launched in early 2023. In its first phase spanning from 2023 to 2024, it exclusively targeted coal-fired power plants
+(CFPPs) connected to the Perusahaan Listrik Negara (PLN) grid with a capacity of 25 MW or greater. In 2025, 563 installations ­ both
+connected to and not connected to the PLN grid ­ were covered under the ETS, consisting of CFPPs with a capacity above 25 MW,
+combined-cycle power plants, gas engine power plants, and gas-fired power plants. The majority of the plants covered by the NEK are
+operated by the state-owned electricity company PLN.
+
+The Indonesian government has established intensity targets, known as Technical Emissions Ceiling Approvals, or Persetujuan Teknis
+Batas Atas Emisi (PTBAE). These targets determine the number of allowances that installations receive for each MWh of electricity
+generated. Covered entities must surrender allowances for all their covered emissions, with allocation based on PTBAE, emission
+intensity, and emission average. Additionally, entities have the option to purchase allowances via auctions.
+
+Eventually, the Indonesia ETS is expected to function as a hybrid "cap-tax-and-trade" system, operating concurrently with a carbon tax.
+Facilities failing to meet their obligations under the ETS will be subject to this tax, the rate of which will be aligned with the domestic
+carbon markets price.
+
+While the system currently regulates the power sector, the government is actively preparing to extend coverage to the industrial sector.
+The Ministry of Industry is coordinating the development of sectoral emissions reporting systems for energy-intensive industries,
+including cement and fertilizers, which are intended to be integrated into the national MRV framework and the national registry to
+support a future extension of ETS coverage to industrial sectors.
+
+The Indonesian Carbon Exchange (IDXCarbon) was officially launched in September 2023, under the supervision of the Financial Services
+Authority of Indonesia (Otoritas Jasa Keuangan, OJK).
+
+"Presidential Regulation No.110/2025" on carbon pricing established the national legal framework for a domestic trading system, a
+carbon levy that functions as a compliance backstop, and a results-based payment mechanism tied to Article 6 of the Paris Agreement.
+ETS Status
+in force
+Jurisdictions
+Indonesia
+Year in Review
+In 2025, the scope of the ETS was expanded to cover captive CFPPs that are not connected to the electricity grid and gas power plants
+(gas fired power plants, gas engine power plants and combined cycled power plants). As a result, the total number of covered
+installations rose from 146 in 2024 to 563 in 2025.
+Due to regulatory changes and revisions of legislation, the allocation of allowances for 2025 has been postponed, no allowances were
+issued and no trading operations took place as of January 2026. Reporting obligations for covered installations still apply.
+
+In 2025, OJK and the Ministry of Environment (MoE) operationalized IDXCarbon as the national carbon exchange, recording participation
+from more than 130 entities and transactions totaling ~0.6 MtCO2e.
+Sectoral coverage
+Power
+
+Emissions & Targets
+
+Overall GHG Emissions excl. LULUCF (MtCO2e)
+1,053.4 MtCO2e (2023)
+GHG reduction targets
+By 2030: Absolute national emissions cap of ~1.35 GtCOe (unconditional) and ~1.49 GtCOe (conditional on international support),
+replacing previous BAU-based targets (NDC 2.0).
+
+By 2060: Climate neutrality (NDC 2.0; Long-Term Strategy, 2021).
+
+Size & Phases
+
+Covered emissions (2024)
+21.00%
+Verified ETS Emissions
+225.30MtCO2e
+GHGs covered
+CO2, CH4 and N2O
+Phases
+PHASE 1: Two years (2023 and 2024)
+
+PHASE 2: Three years (2025 to 2027)
+
+PHASE 3: Three years (2028 to 2030)
+
+Cap or total emissions limit
+The total emissions limit under the Indonesian ETS is the sum of the bottom-up output-based emissions limits for all individual covered
+entities.
+
+The Ministry of Energy and Mineral Resources (MEMR) establishes the PTBAE, or the emissions limit, for the power sector. This is based
+on: (i) actual emissions, which must be below the emissions reduction target set for the sector, and (ii) the carbon trading roadmap for
+the power sector.
+
+PHASE 1:
+
+The ETS was applicable only to coal-fired power plants connected to PLNs grid. The total emissions limit was approximately 256.8
+MtCO2e.
+
+The emissions limit for the power subsector for Phase 1 was as follows:
+
+   non-mine mouth coal-fired power plants with a capacity of 25 MW to <100 MW: 1.3 tCO 2e/MWh
+   mine mouth coal-fired power plants with a capacity of 100 MW: 1.1 tCO2e/MWh
+   non-mine mouth coal-fired power plants with a capacity of 100 MW to 400 MW: 1 tCO2e/MWh
+   non-mine mouth coal-fired power plants with a capacity of >400 MW: 0.9 tCO2e/MWh
+
+PHASE 2 and PHASE 3:
+
+The emissions limits for the second and third phases have not yet been determined, but they are expected to be more stringent than in
+the first.
+
+Indonesias October 2025 NDC introduces an absolute national emissions cap (1.35 GtCO2e in 2030, unconditional), which the
+government describes as the carbon budget that future ETS phases will align with as coverage expands beyond the power sector.
+Sectors and thresholds
+PHASE 1: Coverage was limited to coal-fired power generators connected to PLNs grid only. Details on thresholds are provided below.
+Phase 1 covered about 37% of national power generation capacity via 99 PLN-connected coal units. With Phase 2 (2025 to 2027)
+expanding to captive coal and gas-fired plants supplying energy-intensive industries, the system is expected to regulate roughly 55­60%
+of power-sector emissions.
+
+PHASE 2: The government expanded the scheme to include coal-fired power plants with capacity above 25 MW and not connected to
+PLNs grid (captive CFPPs), gas-fired power plants, gas engine power plants and combined cycled power plants connected to PLNs grid.
+
+PHASE 3: The expansion will encompass all fossil fuel power plants, including diesel power plants with a capacity of 2 MW or greater and
+coal-fired power plants with capacity below 25 MW regardless of their connection to PLNs grid.
+
+INCLUSION THRESHOLDS: In 2024, coal-fired power generation facilities with installed capacity exceeding 25 MW are included. Smaller
+coal and fossil fuel plants will be incorporated at a later point (see above).
+
+The MoE has indicated that the government plans to implement emission caps for four additional sectors in the future: forestry,
+industrial processes and product use, agriculture, and waste management.
+
+Beyond the power sector, the government has indicated its intention to gradually expand ETS coverage to major emitting industrial
+subsectors, supported by ongoing development of MRV frameworks in the industrial sector under the Ministry of Industry.
+
+The government has stated that future ETS phases are expected to align sectoral caps with the national absolute carbon budget defined
+in the 2025 NDC, moving the ETS from a purely intensity-based instrument in the power sector toward a broader economy-wide system.
+Point of regulation
+Point source
+Type of entities
+Installations/facilities
+Number of entities
+In 2023: 42 entities covering 99 installations
+
+In 2024: 63 entities covering 146 installations
+
+In 2025: 563 installations
+
+Note: The number of entities and installations is expected to continue increasing as new installations commence operations and
+additional categories are included, in line with the roadmap's expansions.
+
+Allowance Allocation & Revenue
+
+Allowance allocation
+In Indonesia, allowances are referred to as Persetujuan Teknis Batas Atas Emisi Pelaku Usaha (PTBAE-PU).
+
+PHASE 1 and 2:
+
+Auctioning: In the NEK, auctioning is conducted through a system managed by IDXCarbon, where bid and offer instructions are matched
+based on a time and price priority scheme (refer to the Market Design section).
+   Auction share: 0% (2025)
+   Auction volume: None
+
+To date, no auction has taken place. Details regarding auction shares and related requirements or provisions are yet to be determined.
+
+Benchmarking: MEMR sets intensity targets based on cap/PTBAE, installations average emissions of the previous year, and installations
+average emissions intensity of the previous year. These targets dictate the number of PTBAE-PU allowances allocated for every MWh of
+electricity generated. If the necessary data is unavailable, allocation is based on comparison with similar plants of equivalent installed
+capacity. In the first year, allowances will be given 100% for free. For the second year or the following year, installations will receive either
+75% or up to 85% of their allowances for free. The gradual reduction from 100% free allocation toward 75-85% is framed by the
+government as transitional support for energy-intensive and trade-exposed industries such as nickel processing, steel, and cement that
+currently rely on captive coal and gas power. The deduction percentage depends on the installations compliance with the ETS.
+
+Covered entities that receive allowances must participate in trading. If they do not, they receive a written warning and free allocation for
+the next compliance period is reduced to 75%.
+
+Presidential Regulation No.110/2025 positions a future "carbon levy" as a compliance backstop alongside free allocation and future
+auctions. The regulation empowers the government to introduce an administratively managed reserve and results-based payment
+channels so that ETS-covered entities can access additional compliance units or face a financial charge aligned with prevailing market
+prices.
+Auctioning share
+0%
+Use of Revenues
+Not defined
+
+The Ministry of Finance has indicated that future ETS auction proceeds and carbon levy revenues will be channeled through Indonesias
+Environment Fund to support power sector decarbonization, MRV infrastructure, and the financing of the energy transition.
+
+Flexibility & Linking
+
+Offset credits
+The use of domestic offset credits ­ known as carbon reduction units, or Sertifikat Pengurangan Emisi Gas Rumah Kaca (SPE-GRK) ­ is
+allowed. Credits equivalent to SPE-GRKs may also be used.
+
+QUALITATIVE LIMITS: Offset credits must stem from mitigation activities from:
+
+1. New and renewable energy power plants;
+2. Transportation, construction, and industry including energy efficiency activities; or
+3. Other activities in the energy sector.
+
+They must also be issued on the national registry.
+
+QUANTATIVE LIMITS: None
+
+In 2023, 6,260 tCO2 in offset credits were retired, all from the Lahendong geothermal project.
+
+Since January 2025, Indonesia has authorized selected projects (including ~1.78 MtCO2e from PLN-affiliated power projects) for
+international transfer under Article 6, following the lifting of a four-year moratorium on cross-border carbon credit exports. These credits,
+issued under national MRV and registered in the national registry, can generate revenue to help meet Indonesias 2030 cap under the
+updated NDC.
+Banking and borrowing
+Banking is allowed within phases, though PTBAE-PUs are valid for a maximum of two years from the end of the previous compliance
+period. Banking is not allowed across phases.
+
+Borrowing is not allowed.
+Links with other Systems
+The NEK Trading Scheme is not linked with any other system.
+Other carbon pricing instruments in the jurisdiction
+Carbon tax: Indonesia carbon tax (upcoming)
+
+Domestic crediting mechanism: Indonesia Emissions Reduction Certification
+
+Compliance
+
+Compliance mechanism
+Covered entities must surrender one compliance unit (allowance or offset credit) per tCO2e emitted for all their covered emissions
+Compliance Period
+The compliance period for the Indonesian ETS is one year, with trading occurring from January 1 to April 20 of the following year. Surplus
+allowances at the end of the trading period may be traded in the following period, provided it is within the same phase.
+Monitoring, Reporting, Verification (MRV)
+FRAMEWORK: The national MRV system is stipulated in the Presidential Regulation 110/2025 and in the "Ministry of Environment and
+Forestry Regulation 21/2022". For the power subsector, the MRV system is stipulated in the "Ministry of Energy and Mineral Resources
+Regulation 16/2022".
+
+MONITORING: An MRV system is currently in operation in the industrial sector and the power generation sub-sector. Pilot MRV programs
+are also being conducted in the cement and fertilizer sectors.
+
+REPORTING: Reports are submitted to the MEMR through the Directorate General of Electricity via an online platform, the APPLE-Gatrik.
+These reports must be submitted by the end of January of the year following the reporting year. Installations must report CO2, CH4, and
+N2O emissions, expressed in units of CO2e.
+
+VERIFICATION: Emissions must be verified by a third-party verifier that is accredited by the Komite Akreditasi Nasional (KAN), Indonesias
+national accreditation body. This verification should be completed by the end of March, following the January reporting deadline.
+Verifiers are required to adhere to the guidelines for GHG emission verification in the power subsector.
+Penalties and enforcement
+The plan was to concurrently implement carbon trading and a carbon tax, with the latter serving as a penalty mechanism. However, as
+discussions on carbon tax regulations continue and their implementation is postponed, an alternative enforcement approach was
+introduced:
+
+1. Should verified emissions exceed the allocated PTBAE-PU by the end of the period, allocations will be given according to the results of
+   carbon trading transactions in the previous carbon trading period up to a maximum of 85% and the PTBAE-PU will be reduced by up to
+   15%.
+
+2. Entities which fail to report their GHG emissions or participate in carbon trading by the end of the period will see a 25% reduction in
+   their PTBAE-PU.
+
+Presidential Regulation No.110/2025 clarifies that, going forward, entities that do not surrender sufficient units will face a carbon levy set
+in line with prevailing market prices. This embeds the "cap­tax­and­trade" model in national law by tying the financial penalty directly to
+the ETS price signal.
+
+Market Regulation
+
+Market Stability Provisions
+EVALUATION BY MEMR
+
+Instrument type: Quantity-based instrument
+Functioning: The MEMR evaluates on a regular basis the implementation of the ETS. If the evaluation reveals a shortage of allowances,
+the Minister and Director General may conduct additional auctions of PTBAE-PUs.
+Market Design
+MARKET PARTICIPATION:
+
+Compliance entities, specifically those holding an "Electricity Supply Business License for Public Purpose" or "Electricity Supply Business
+License for Own-Use," are eligible to engage in carbon trading. The government has positioned IDXCarbon as the central infrastructure
+not only for domestic allowance and offset trading but also for Article 6-authorized international transactions, following the October
+2025 presidential decree lifting the export moratorium.
+
+MARKET TYPES
+
+Primary:
+
+In the primary market, allowances and offset credits are traded through a mechanism that may be activated upon request by the relevant
+ministry. This platform facilitates offset selling, with a potential reserve price set as low as IDR 1 (less than USD 0.01), and bids
+commencing from this figure or higher. As of January 2026, there have been no auctions conducted under this system, and specific details
+about auction shares, along with associated requirements and provisions, remain to be defined.
+
+Secondary:
+
+Operated by IDXCarbon, launched at the Indonesia Stock Exchange (IDX) in September 2023 and licensed by the Financial Services
+Authority (OJK), the secondary market encompasses:
+
+   Regular Market or Continuous Auction: Matching of bids and offers based on time and price priority, with minimum prices set at IDR
+   200 (USD 0.01) and governed by fraction price rules and an auto rejection rule.
+   Negotiated Market: Facilitates the settlement of pre-agreed trades through the exchange, requiring details of counterpart, carbon
+   units, price, and volume.
+   Marketplace: Enables project developers to list their projects and set prices.
+
+IDXCarbon is integrated with the new centralized registry for carbon units and trading, Sistem Registri Unit Karbon (SRUK). Introduced by
+Presidential Regulation No. 110/2025, it replaces the SRN-PPI (Sistem Registri Nasional Pengendalian Perubahan Iklim) system for trading
+purposes; SRN-PPI will now be used solely for reporting mitigation and adaptation actions.
+
+OJK has begun integrating IDXCarbon with the national registry to enable automated tracking of issuance, transfer, and surrender,
+including for internationally transferred mitigation outcomes under Article 6.
+
+LEGAL STATUS OF ALLOWANCES: PTBAE-PUs and SPE-GRKs are classified as securities, allowing their transfer and trade in the capital
+market.
+
+Other Information
+
+Institutions involved
+Coordinating Ministry of Food Affairs: Chair of the National Steering Committee for Carbon Pricing Implementation; coordinates
+ministries/agencies in developing the national carbon pricing framework.
+
+Coordinating Ministry for Economic Affairs (CMEA): Vice Chair of the National Steering Committee for Carbon Pricing Implementation.
+
+Ministry of Environment (MoE): National focal point for UNFCCC; leads NDC development and implementation, including national
+mitigation and adaptation and implementation of carbon pricing (including providing authorization for national and international
+emission trading, and overseeing offsetting; oversees MRV; operates the national registry, SRUK).
+
+Ministry of Energy and Mineral Resources (MEMR): Coordinates ETS implementation in the power subsector, including oversight of an
+integrated MRV system with the SRUK; responsible for preparing and implementing the 2021 voluntary pilot carbon market.
+
+Ministry of Industry: Coordinates implementation of CPIs on the Industrial Processes and Product Use sector, including an emissions
+reporting system to be integrated with the SRUK.
+Ministry of Finance: Leads the development and implementation of the carbon tax.
+
+Indonesian Environment Fund: Handles climate funding; manages ETS revenues, including any international carbon credit trading.
+
+Financial Services Authority (OJK): Oversees IDXCarbon, which is hosted on the Indonesia Stock Exchange.
+
+Presidential Regulation No.110/2025 designates a national carbon pricing steering structure that coordinates the ETS, the carbon levy,
+and Article 6 results-based payments across the Ministry of Environment and Ministry of Forestry, the Ministry of Finance, the Ministry of
+Energy and Mineral Resources, and the Financial Services Authority (OJK) and other related ministries.
+Regulatory Framework
+Regulation 46/2017 on Environmental Economic Instruments
+
+Law 7/2021 Concerning Harmonization of Tax Regulations
+
+Presidential Regulation 98/2021 on the Instrument for the Economic Value of Carbon for Achievement of the NDC and Control of Carbon
+Emissions in Development
+
+MoEF Regulation 21/2022 on Guidelines for Carbon Economic Value Implementation
+
+MEMR Regulation 16/2022 on Guidelines for Carbon Economic Value Implementation for the Power Generation Sub-sector
+
+OJK Regulation 14/2023 concerning Carbon Trading Through the Carbon Exchange
+Evaluation / ETS review
+The Minister of Energy and Mineral Resources,
+through the Directorate General of Electricity, evaluates the Indonesian ETS every six months. Results of this evaluation may lead to
+adjustments in the policy.
+
+The Ministerial Regulation of Energy and Mineral Resources 16/2022 is currently being revised to align with the Presidential Regulation
+110/2025.
+
+Disclaimer
+
+Copyright © 2022 by International Carbon Action Partnership (ICAP). All rights reserved. The content provided by the ICAP ETS map is
+protected by copyright. You are authorized to view, download, print and distribute the copyrighted content from this website subject to
+the following condition: Any reproduction, in full or in part, must credit the International Carbon Action Partnership (ICAP) must include a
+copyright notice. If you have any questions please contact infoicapcarbonaction [dot] com (info[at]icapcarbonaction[dot]com).
+
+In line with ICAPs mandate, the ICAP ETS map exclusively covers cap-and-trade systems for greenhouse gas emissions. Information
+displayed on the map is regularly updated by ICAP Secretariat staff based on official and public information as far as possible and subject
+to annual peer review by government representatives from the covered systems. Although the information contained in the map is
+assembled with utmost care, ICAP cannot be held liable for the timeliness, correctness and completeness of the information provided.
+Please refer to the imprint on the website of the International Carbon Action Partnership regarding links to external websites, liability
+and privacy policy.
+

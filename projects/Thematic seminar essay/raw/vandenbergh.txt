@@ -1,0 +1,1476 @@
+      Climate and Development
+
+           ISSN: 1756-5529 (Print) 1756-5537 (Online) Journal homepage: www.tandfonline.com/journals/tcld20
+
+A review of carbon-pricing studies for developing
+countries
+
+Jeroen van den Bergh & Stefan Drews
+
+To cite this article: Jeroen van den Bergh & Stefan Drews (2026) A review of carbon-
+pricing studies for developing countries, Climate and Development, 18:2, 121-140, DOI:
+10.1080/17565529.2025.2506758
+To link to this article: https://doi.org/10.1080/17565529.2025.2506758
+
+           Published online: 18 May 2025.
+           Submit your article to this journal
+           Article views: 639
+           View related articles
+           View Crossmark data
+           Citing articles: 2 View citing articles
+
+                                 Full Terms & Conditions of access and use can be found at
+                    https://www.tandfonline.com/action/journalInformation?journalCode=tcld20
+CLIMATE AND DEVELOPMENT
+2026, VOL. 18, NO. 2, 121­140
+https://doi.org/10.1080/17565529.2025.2506758
+
+REVIEW ARTICLE
+
+A review of carbon-pricing studies for developing countries
+
+Jeroen van den Bergha,b,c and Stefan Drewsa,d
+
+aInstitute of Environmental Science and Technology, Universitat Autònoma de Barcelona, Barcelona, Spain; bICREA, Barcelona, Spain; cSchool of
+Business and Economics & Institute of Environmental Studies, Vrije Universiteit, Amsterdam, The Netherlands; dDepartment of Applied Economics,
+University of Málaga, Málaga, Spain
+
+ABSTRACT                                                                                                   ARTICLE HISTORY
+                                                                                                           Received 7 February 2024
+We review studies that assess hypothetical and actual carbon-pricing schemes in developing countries,      Accepted 9 May 2025
+focused on policy effectiveness in terms of emissions reduction. The article opens with gathering general
+reasons for employing this instrument and inspecting if these reasons apply to developing countries. In    KEYWORDS
+addition, we consider the implications of unique features of such countries for the design of carbon       Carbon taxation; carbon
+pricing, notably the choice between carbon taxation and market. Next, results from carbon-pricing          market; cap-and-trade;
+studies undertaken for specific low- and middle-income countries are summarized, with an extended          policy effectiveness; poverty
+appendix providing detailed information per country, organized by main world regions. We find that,
+since the instrument has seen little application so far, most assessment studies take the form of ex-
+ante assessment, except for China. The review ends with an assessment of the role of international
+context and coordination, focusing on carbon markets and climate finance.
+
+1. Introduction                                                   proportional to their carbon content. In effect, through carbon
+                                                                  pricing the external cost of carbon emissions over the lifecycle
+Compared to the Kyoto Protocol, The Paris Climate                 of goods and services is, depending on the price rate, partly or
+Agreement means a more serious involvement of developing          wholly internalized in prices. This creates an incentive for
+countries in reducing greenhouse gas emissions. One motiv-        agents to reduce carbon emissions as long as the carbon
+ation for this is that without serious climate policy, emissions  price exceeds their marginal abatement costs. Unlike other
+growth in coming decades will predominantly come from             instruments, the non-abated emissions carry a cost that is
+low- and especially medium-income countries (GCA, 2022),          passed on in derived products and services. This assures that
+even if the current Paris pledges are implemented through         all economic agents will be incentivized to make different
+consistent and effective climate policies (King & van den         choices, namely away from options with high-carbon emis-
+Bergh, 2019; Roelfsema et al., 2020). The share of these          sions over their production and life cycle.
+countries is already beyond 60% of global carbon emissions
+(Ritchie, 2023). Hence, it is important to be ambitious in           The goal of this article is to provide an overview of studies
+steering development and growth in a low-carbon direction         of hypothetical and implemented carbon pricing schemes in
+through adequate policies. This is not to deny the historical     developing countries, covering (mainly) ex-ante and some
+responsibility and critical role of developed countries in        ex-post studies of impacts on carbon emissions and welfare.
+mitigating climate change. They will need to assure signifi-      Our assessment focuses on policy effectiveness in terms of
+cant financial transfers to support for loss and damage,          emissions reduction but will also pay some attention to distri-
+adaptation and mitigation in developing nations. Only             butional issues and political support. As the framework for
+then can we hope for achieving implementation of effective        evaluating the role of carbon pricing we use the traditional
+climate policies in all countries. This is needed to limit        set of criteria, namely effectiveness (of emissions reduction),
+serious carbon leakage as that would hamper the overall,          efficiency (cost or welfare effects) and equity (impacts on
+global effectiveness of national climate strategies. Hence,       income/welfare distribution and poverty), but also pay atten-
+policy stringency should not differentiate too much between       tion to issues of particular importance to developing countries,
+developed and developing countries.                               such as supra-national harmonization (to allow for stringent
+                                                                  policies without harming competitiveness), impact on infor-
+   There is a large and expanding literature on climate mitiga-   mal economy, institutional capability and acceptability. In
+tion policy. The present paper focuses its attention on carbon    addition, we will discuss how unique features of developing
+pricing (including taxes and markets) as it is widely regarded    countries ­ interpreted here as covering both low- and
+as a key element of an effective and affordable climate policy    middle-income countries ­ may affect policy design. Studies
+and the best candidate for international harmonization of pol-    reviewed are varied, and cover methods such as price elastici-
+icies (Aldy & Stavins, 2012; Baranzini et al., 2017; Cramton      ties, econometric-statistical analysis, quasi-experimental and
+et al., 2017; Timilsina, 2022). Carbon pricing assures that       experimental evaluations, and microsimulations using
+energy sources and fuels will have a price component
+
+CONTACT Jeroen van den Bergh jeroen.bergh@uab.es              Institute of Environmental Science and Technology, Universitat Autònoma de Barcelona, Barcelona,
+Spain
+
+© 2025 Informa UK Limited, trading as Taylor & Francis Group
+122  J. VAN DEN BERGH AND S. DREWS
+
+equilibrium, agent-based or other modelling techniques.             taxes. The main advantages of using carbon pricing in climate
+Results are organized by world regions.                             policy have been well documented (Aldy et al., 2010; Aldy &
+                                                                    Stavins, 2012; Baranzini et al., 2017; Cramton et al., 2017;
+   A relevant question is whether climate policy will affect        Edenhofer et al., 2015; Goulder & Parry, 2008; Metcalf, 2021;
+growth and development of countries, or whether poverty alle-       Weitzman, 2014, 2017):
+viation and climate mitigation are conflicting goals (Barbier,
+2014; Hallegatte & Rozenberg, 2017). As suggested by Fan-           1. It is effective because of its systemic nature and particularly
+khauser and Jotzo (2018) and Taconet et al. (2020), the costs          if implemented upstream, permeating through all agents
+of climate solutions could slow down the economic catch-up             (producers, investors, innovators and consumers) and all
+of poor countries. As low-carbon energy sources are more               prices in the economy. Empirical evidence reviewed in
+expensive, this could complicate and delay investment in phys-         Köppl and Schratzenstaller (2022) and van den Bergh and
+ical infrastructure, negatively affecting development (Jakob &         Savin (2021) underpins its effectiveness.
+Steckel, 2014). Pricing has a unique advantage of not requiring
+central planning but leaving some freedom to households and         2. It will limit indirect carbon emissions, and hence rebound
+firms, in turn selecting the least-cost or least welfare-harming       effects, in complex production chains and lifecycles, which
+solutions. This will allow arguably for the smoothest transition       tend to weaken the effectiveness of other strategies and
+and offering the best opportunities for countries' further devel-      instruments.
+opment.1 This has also been recognized by a majority of
+countries participating in the Paris Agreement, reflected by        3. It accounts for the fact that most consumers, when making
+its revised Article 6 during COP26 that aims to establish a glo-       purchasing decisions, are more influenced by prices than by
+bal carbon pricing mechanism. The latter seeks to intensify            environmental concerns.
+reduction of emissions as well as associated costs, and pro-
+motes international linkage between carbon trading schemes          4. It is cost-effective as it decentralizes policy, thus giving free-
+(Di Leva & Vaughan, 2021).                                             dom to polluters to select the most affordable ways to
+                                                                       reduce emissions, thus also being congruent with a liberal
+   To undertake the review, the approach followed in collect-          society.
+ing the relevant literature was manual search through refer-
+ences in identified studies, i.e. a snowball approach. We did       5. It overcomes information limits and associated costs of
+not opt for a systemic review approach based on keyword                centralized regulation such as through performance or
+search as we felt this was complicated given that we found rel-        technical standards. The latter require considerable infor-
+evant publications to often not refer in the title and abstract to     mation from regulators about technical options and costs
+the low-income or development nature of the country studied.           in all relevant industries.
+Instead, many studies simply referred to the country name. As
+a result, our approach has to be judged as having an explora-       6. It provides a continuous incentive for adoption and inno-
+tory nature. Nevertheless, we tried to be complete in coverage         vation of low-carbon technologies as the carbon price
+of relevant literature mentioned in each study collected, so we        means any remaining emissions have a cost. As opposed,
+feel the snowball effect worked out well. Moreover, various            with standards, once they are met, there is no such
+expert reviewers who evaluated the study ­ including those             incentive.
+invited by UNDP (see the acknowledgements) ­ did not find
+important omissions. In other words, the review seems quite         7. While on its own, carbon pricing can be regressive for most
+complete.                                                              developed and progressive for many developing countries
+                                                                       (because rich households consume relatively much energy),
+   The remainder of the paper is organized as follows. Section         it becomes more equitable (or even neutral, i.e. undoing the
+2 discusses general insights from the literature about the             regressive effect) if the revenues of carbon taxes or permit
+implementation, advantages, consequences and forms of car-             sales in cap-and-trade are (partially) used to compensate
+bon pricing in developing countries. Section 3 provides an             inequitable outcomes. Revenues can be especially used to
+overview of carbon-pricing implementations, plans and                  assure poor households are compensated for higher costs
+studies for specific countries, with an appendix presenting            of meeting basic needs. Assuring equitable outcomes
+more details organized by main world regions. Section 4                through revenue use in turn can positively contribute to
+addresses the international context of carbon pricing in devel-        political feasibility.
+oping countries, with particular attention given to inter-
+national climate finance and carbon markets. A final section        8. It is transparent and hence relatively easy to compare,
+5 draws conclusions.                                                   negotiate and harmonize among jurisdictions.
+
+2. General insights about carbon pricing in                            Given the aim of this review, a relevant question is whether
+developing countries                                                these arguments apply equally to low- and middle-income
+                                                                    countries. We think most of them do. Argument 1 and 2 are
+Carbon pricing is regulatory in nature, in the sense that it        particularly relevant as it will steer the development of these
+changes behaviours or carbon-relevant choices of people and         countries, which will go through fundamental changes in com-
+organizations. In other words, its main purpose is to create        ing decades anyway, to a low-carbon economy. Argument 3 is
+an appropriate price gap between high- and low-carbon               also highly relevant as purchasing power of most households
+alternatives, not to generate public funds as many other            in these countries is limited, and hence minimizing costs
+                                                                    (argument 4) for society is of crucial importance. Since gov-
+                                                                    ernments of developing countries already often struggle with
+                                                                    managing the complex economy, argument 5 also carries a
+                                                                    lot of weight. Only argument 6 is possibly less relevant to
+                                                                  CLIMATE AND DEVELOPMENT  123
+
+low/medium-income countries than to high-income countries.        in 39 countries. Progressive distributional outcomes are
+Argument 7 is highly relevant as it may help to get public sup-   found for lower income countries and transport sector pol-
+port, and thus contribute to political feasibility of implement-  icies, and when study designs account for indirect effects or
+ing carbon pricing, in poorer countries. Finally, argument 8 is   demand-side adjustments of consumers. To show more
+by definition relevant to all countries, including low- and       illustrative detail, Dorband et al. (2019) assess expected inci-
+middle-income ones. So altogether, we think the case for car-     dence of a moderate carbon price of US$30/tCO2 for different
+bon pricing in low- and middle-income countries is equally        income groups in 87 mostly low- and middle-income
+strong as in high-income countries.                               countries. They undertake microsimulation using a demand
+                                                                  side model with fixed consumption patterns, and a carbon
+   In line with the above arguments, around the world over 60     price applied to domestic as well as imported goods and ser-
+jurisdictions have already implemented carbon taxation or         vices. The results indicate that for countries with per capita
+cap-and-trade, among which are several low- and middle-           incomes of below USD 15,000 per year (at PPP-adjusted
+income countries, namely China, Colombia, Kazakhstan, Mex-        2011 USD) carbon pricing has, on average, progressive distri-
+ico, South Africa and Ukraine (World Bank, 2023). Others cur-     butional effects. This holds for most countries in Africa and
+rently consider introducing some form of carbon pricing,          Latin America, as well as the majority of Asian countries con-
+notably Brazil, Indonesia, Pakistan, Turkey, Vietnam, Thai-       sidered. Decomposition of impacts shows that outcomes are
+land, Senegal, and Côte d'Ivoire (Steckel et al., 2021b) . The    mainly due to differences among income groups in terms of
+major success among carbon pricing initiatives is the EU-         consumption patterns of energy, and less of food, other
+ETS, covering 30 countries (until recently, before Brexit,        goods or services, which seems to confirm that the assumption
+even 31). In July 2021, moreover, the European Commission         of fixed consumption patterns was reasonable for this purpose.
+proposed to extend emissions trading to the construction          Their results suggest that climate solutions via carbon pricing
+and transport sectors. In the same month, China implemented       are not inconsistent with reducing economic inequality. How-
+their carbon market (Nogrady, 2021) ­ although it should be       ever, the carbon price may reduce effective income or purchas-
+noted that this is far removed from the textbook proposal         ing power of low-income households, which is estimated to be
+(Goulder et al., 2022).                                           around 2.5% of income for the considered carbon price.
+
+   One may wonder if climate policies in low- and medium-            Additional studies of distributional effects of carbon pricing
+income countries ­ irrespective of whether they focus on car-     focus on Asia (Steckel et al., 2021a) and Latin America (Feng
+bon pricing or other instruments ­ should be (very) different     et al., 2018). The first examines eight Asian countries, namely
+from those in developed countries? Given the global commons       Bangladesh, India, Indonesia, Pakistan, Philippines, Thailand,
+nature of climate change and to avoid competitiveness, trade      Turkey and Vietnam, combining national household surveys
+and relocation ­ notably of energy-intensive exporting sectors    with input­output data. They compare four carbon pricing
+­ and resulting carbon leakage effects, regulator pressure of     design options: a globally harmonized carbon price, a national
+national policies should not differ much and ideally be identi-   carbon price, and sectoral carbon prices in the power and
+cal (Fischer & Fox, 2012; Fowlie, 2009; King & van den Bergh,     transport sectors. Findings show considerable variation.
+2021). Carbon pricing is an instrument of climate policy that     Under national carbon pricing distributional outcomes are
+allows to compare and harmonize policies, in turn moderating      generally more pronounced within than across income groups,
+leakage. Perhaps it should not come as a surprise then that few   driven by households' energy use patterns. The study by Feng
+studies question the relevance of carbon pricing in developing    et al. considers subsidy removal and energy taxation by asses-
+countries. An exception is Finon (2019), who suggests carbon      sing the impact of energy price hikes on income groups using
+pricing might not be appropriate as the main element of a cli-    energy-extended input-output analysis. Higher-income groups
+mate policy package in emerging and developing countries          are found to benefit more from low energy prices than low-
+because of political economy constraints being greater than       income groups when tracing both direct and indirect supply-
+in developed countries. He instead suggests the use of non-       chain effects of energy price variations. The reason is that
+price instruments and policies such as efficiency standards,      such households have more energy-intensive lifestyles and
+regulation, subsidies for clean technologies and public pro-      buy more products and services that generate relatively
+grammes for low-carbon infrastructure. While some of these        much energy use in their production chain. The authors
+instruments are potential complements rather than substitutes     argue that energy subsidies are a very expensive option to
+in terms of mechanism and effect, none of them is systemic        transfer income to poor households, suggesting that in Latin
+and able to sufficiently reduce indirect emissions and contain    America and the Caribbean transferring $1 of income through
+rebound (van den Bergh et al., 2021). However, although scep-     energy subsidies to households in the poorest quintile would
+tical, Finon concludes that non-pricing instruments serve a       cost society then about $12 (arguably, the largest part of the
+useful role in a temporary phase, noting that `developing a car-  subsidy ends up with companies). Instead, recycling a small
+bon policy that emphasizes non-price instruments and              fraction of fiscal revenues from energy subsidy removal or
+measures will pave the way to leverage carbon pricing as the      energy taxation through lower income taxes could compensate
+main pillar of their future carbon policy in long term'.          poor households at a much lower cost. In other words, sup-
+                                                                  porting poor households directly through lower income
+   A widespread concern about carbon pricing is that it will      taxes has a lower social cost than doing it through energy sub-
+have inequitable impacts. A relevant study in this regard is      sidies. This is consistent with the findings of the wider litera-
+Ohlendorf et al. (2021), who examine the distributional           ture on energy subsidies (Couharde & Mouhoud, 2020).
+impacts of carbon pricing and fossil fuel subsidy through a
+meta-analysis of 53 empirical studies containing 183 effects
+124  J. VAN DEN BERGH AND S. DREWS
+
+Table 1. Comparing carbon taxation and emissions trading.
+
+Advantages carbon tax                                        Advantages emissions trading                               Relevance of arguments for developing
+                                                            (cap-and-trade or carbon market)                                              countries
+
+Certainty about price as the carbon tax is fixed            Although the price is variable, price stability can be      High as poor people are heavily affected
+                                                              arranged through a price floor & ceiling (safety valve)     by price changes
+No initial distribution of permits and associated windfall
+  profits for those who have cheap options to reduce        Endogenous price responding to changes in the               High as economies of developing
+  emissions                                                   economy, preferences and technology                         countries are becoming gradually more
+                                                                                                                          complex and roundabout
+Carbon taxes can replace existing energy/fuel taxes so      The ceiling/cap guarantees effectiveness of emission
+  maintain revenues and do not necessarily increase the       reduction                                                 Medium as otherwise policy will be easily
+  tax burden                                                                                                              ineffective
+                                                            A carbon markets represents a permanent institution that
+Carbon taxation can be part of environmental tax              is stable against political winds and opportunism         High as political stability is low in many
+  revision (replacing labour by carbon taxes), which can      (especially when international in scope). This explains     developing countries
+  generate a double dividend (employment and                  also why carbon prices are generally higher in carbon
+  environmental benefits). Moreover, this reduces tax         markets than with carbon taxation                         Less relevant as the golden standard is
+  evasion and can be designed to compensates inequity                                                                     now auctioning or charging a cost for
+  effects                                                   Using revenues of permit sales or auction can also be         initial permits to avoid windfall profits
+                                                              used for compensation of inequity effects
+Tax can be gradually increased over time to assure                                                                      High as tax revenues important for
+  economy has time to adapt                                 Ceiling to emissions (cap) can be gradually tightened over    development
+                                                              time to assure economy has time to adapt
+                                                                                                                        High as revenues are important for a
+                                                            Easy to internationally extend and harmonize, and thus        stable government in developing
+                                                              strengthen (through tightening the ceiling) as              countries
+                                                              competitiveness effects are more limited than with a
+                                                              domestic carbon tax                                       Medium as a policy shock on the
+                                                                                                                          economy is best avoided
+
+                                                                                                                        High as unilateral policy is limited for
+                                                                                                                          developing countries
+
+Note: Several of the arguments are discussed and supported with references in the text; for more discussion, see van den Bergh and Botzen (2024).
+
+Alternatively, cash transfers and targeted subsidies for public    emissions as well as the carbon intensity of tourism and
+transportation or food are found to compensate households          suggest that these effects will strengthen over time.
+well. Of course, the political economy of removing energy sub-
+sidies is such that most citizens/households (and thus voters)        A unique advantage of carbon pricing, notably taxes, for
+have the perception they benefit from them. This, as well as       developing countries is illustrated by Liu (2013). He argues
+the fact that many people in developing countries lack an          that carbon taxes are more difficult to evade than income
+official income, complicates substituting energy subsidies for     taxes as they apply to observable and thus easily traceable fossil
+everyone by lower income taxes for poor households.                fuels while income can be more easily hidden from tax offices.
+                                                                   As a result, shifting taxes from the latter to the former ­ i.e.
+   Highly relevant to developing countries that depend on          `environmental tax revision' ­ can help to reduce tax evasion.
+international trade or tourism is how carbon pricing will          Empirical analysis indicates this may decrease social welfare
+affect emissions as well as the cost of international passenger    costs of tax evasion up to 28% in the United States, 89% in
+and freight transport. A few studies have devoted attention        China, and 97% in India. The latter figures illustrate well
+to this. They find that carbon pricing is likely to be effective   that this feature of carbon pricing is particularly relevant to
+in reducing emissions from international transport. Using          developing countries, also given that such countries tend to
+changes in bunker prices for maritime trade, which depend          have relatively high tax avoidance as a percentage of GDP
+on fuel costs, Mundaca et al. (2021) derive relationships of car-  (Cobham & Janský, 2018). Moreover, any revenue raised
+bon pricing with international product trade and associated        from a carbon tax would overwhelmingly come from richer
+emissions. They find that introducing a carbon tax of $40          households in these countries, so be equitable within the
+would reduce emissions from maritime trade by 7.65%. In            country. Advani et al. (2021) illustrate this with data for Ethio-
+addition, their study indicates that a gradual tax increase        pia and Ghana, adding that even if carbon pricing is in prin-
+would allow the International Maritime Organization to             ciple progressive in such countries, this does not preclude
+reach its emission targets by 2050. A study by Rojon et al.        that certain poor households might turn out worse of.
+(2021) suggests that while a carbon price will have a limited      Hence, compensation is needed, which could be financed by
+impact on total maritime transport costs, the average country,     the carbon-pricing revenues. Another risk of carbon pricing
+Small Island Developing States and Least Developed Countries       in developing countries is that it may encourage the ­ already
+are likely to be negatively affected. Finally, Zhang and Zhang     widespread ­ use of firewood, as this can be informally
+(2020) examine the impacts of the ETS on tourism-related           obtained and therefore is insensitive to a price on carbon.
+CO2 emissions and carbon intensity using a difference-in-          Levying a carbon price on cooking fuels might thus push
+differences model. They find that the ETS reduced such             people back into using charcoal or firewood, with negative
+                                                                   CLIMATE AND DEVELOPMENT  125
+
+consequences not only for climate mitigation but also for          shows that carbon pricing receives attention in all world
+human health and gender equality ­ given that women play           regions and a wide diversity of countries, namely both low-
+a crucial role in collecting firewood. In view also of goals of    and middle-income ones. There are, however, few ex-post
+poverty alleviation, it is not surprising then that many develop-  policy assessments for carbon pricing in low- and middle-
+ing countries continue subsidizing fossil fuels (Greve & Lay,      income countries. The main exception is a quickly growing
+2023; Rose et al., 2022).                                          number of studies of regional carbon-market pilots in China.
+                                                                   However, most other studies pertain to hypothetical or
+   The context of certain medium- and low-income countries         planned carbon taxes or markets and use ex-ante assessment
+invites for specific climate strategies. For instance, Brazil and  approaches based on ad hoc models which complicates com-
+Indonesia possess enormous areas of tropical rainforest,           parison among countries, also as the carbon-pricing designs
+which suggest the importance of specific climate strategies,       differ considerably. This is even the case for countries where
+such as `Reducing emissions from deforestation and forest          carbon pricing was implemented. Studies assessing socio-
+degradation' (REDD+). The relevance of this is clear as defor-     economic impacts generally do not examine the actually
+estation may contribute up to 7% of worldwide carbon emis-         implemented carbon price. In some cases, this is because pre-
+sions. In view of this, Barbier et al. (2020) propose that         paratory studies experimented with other prices than
+countries with considerable tropical forest areas adopt what       implemented (e.g. Mexico); in other cases it is due to late
+they call `a tropical carbon tax' on fossil fuels, the proceeds    implementation (e.g. Colombia), and in again others (e.g.
+of which are earmarked for investment in `natural climate sol-     Chile) studies focus on deriving optimal carbon prices.
+utions' ­ meaning ecosystem conservation, restoration and
+management which contribute to carbon sequestration.                  Regarding the specific implications of carbon pricing in
+Another motivation is that such mitigation options are rela-       developing countries, one cannot generalize too much as
+tively cheap in a global context and compared to technological     these countries tend to differ in many regards, in terms of
+solutions like renewable energy ­ e.g. one-third less costs per    energy and carbon intensity of production, import or export
+ton CO2e emissions avoided. Costa Rica and Colombia illus-         dependence on fossil fuels, importance of international trade
+trate potential success, while 12 other main countries with        for the economy, or trade relationships with other countries.
+rainforests are suggested as having to follow suit. Barbier        To illustrate, Mattoo et al. (2012) consider impacts of achiev-
+et al. advice that governments, development banks, financial       ing climate goals on manufacturing output and exports. To
+investors and non-governmental organizations help these            this end they study a scenario of a modest agreement on emis-
+countries to implement such a policy in a correct way.             sions reductions, i.e. 17% by 2020 relative to 2005 for industrial
+                                                                   countries and 17% relative to business-as-usual increase for
+   Finally, given that carbon pricing comes in different forms,    developing countries. They find that manufacturing output
+namely carbon taxation and emissions trading, an inevitable        and exports in low-carbon intensity countries, such as Brazil,
+question is which of these is most suitable for developing         are less affected, but that high-carbon intensity countries,
+countries. While both have seen a wide application worldwide,      such as China and India, face considerable decreases in output
+the most successful implementation in terms of current high        (3­3.5%) and manufacturing exports (5.5­7%). Evidently, fos-
+carbon prices and international harmonization has been the         sil fuel importers will look very differently at climate policies
+European Emissions Trading System (EU-ETS): it covers 30           and carbon pricing than fossil fuel exporters, and further
+countries and over the past three years its price has most of      differences in attitudes may arise from differences in average
+the time exceeded 80/tCO2. An empirical review of average          income level.
+carbon prices, accounting for emissions coverage and exemp-
+tions, finds that carbon markets have generated higher average        Initially we aimed at deriving emission-reduction elastici-
+carbon prices than taxation (Finch & van den Bergh, 2022).         ties of carbon pricing for distinct developing countries and
+Especially the EU-ETS has turned out to be a stable institution    then comparing these. However, this turned out to be imposs-
+that has been gradually improved in terms of design over var-      ible as few studies derive such elasticities and most provide
+ious phases, and virtually untouchable by national govern-         insufficient information to derive them ex post, or present dis-
+ments (even with recent high electricity prices in Europe),        tinct conditional impact estimates, or focus on a carbon price
+which has contributed to its stability. Table 1 summarizes         path. Moreover, such elasticities are easily misinterpreted as
+arguments in favour of each of the two types of carbon pricing     reflecting an absolute truth; but they are not constant along
+(Baranzini et al., 2017; Goulder & Schein, 2013; UN Tax Com-       the abatement cost curve, and hence depend uniquely on
+mittee, 2021, Chapter 2). It also indicates which arguments are    initial emission and price values that differ among countries
+especially relevant to the context of developing countries.        and studies. In other words, they give a partial picture and
+While each approach has its own advantages and disadvan-           are incomparable among countries/studies.3 As a result, our
+tages, the balance in our view weighs in favour of emissions       assessment here is descriptive and selective, while specific
+trading. This contrasts with emission trading generally meet-      details for the various world regions and associated countries
+ing more resistance.2                                              are provided in the appendix.
+
+3. National studies of carbon pricing in developing                   Most studies relate to national carbon taxes rather than
+countries                                                          national markets, and in line with this a recent UN report
+                                                                   emphasizes the role of taxes (UN Tax Committee, 2021). Lim-
+Here we review studies of carbon pricing for distinct world        ited institutional capability affects the instrumental choice
+regions and countries. Table 2 summarizes the findings. It         regarding carbon pricing in low- and middle-income
+                                                                   countries. For instance, one might argue that an emissions
+126     J. VAN DEN BERGH AND S. DREWS
+
+Table 2. Overview of carbon-pricing impacts per country/region (details for each row are in associated sub-sections of the Appendix).
+
+World region          Country         Carbon pricing     Emissions reduction (versus      Other economic impacts             Methods used            Sources
+                                       implemented      benchmark or initial emissions                                                             and details
+                                      (year: nominal/                                                                                              Appendix
+                                      average prices*)    level) and associated GDP
+                                                                      losses                                                                         A1
+
+Asia          China                   2021: N.A./N.A.    4.3% CO2 emissions reduction     Cost-effectiveness 34% higher      Econometrics          Appendix
+                                                           for a carbon price of 117RM      than for conventional cap-         (mostly               A2
+              Other: India,           None                 (18US$), up to -24.2%            and-trade system                   difference-in-
+                Indonesia, Turkey,                                                                                             differences), also  Appendix
+                ASEAN members,                           0.8­8.7% of GDP loss until       Production losses in fossil fuel-    CGE and Energy        A3
+                Malaysia, Sri Lanka,                       2030 for 21% emissions           intensive sectors (Turkey).        modelling
+                Middle East and                            reduction ($70/t CO2 tax);
+                North Africa (MENA)                        5% reduction without           Income distribution becomes        CGE and IAM
+                                                           significant loss in GDP          slightly more inequitable,         modelling
+Africa        South Africa            2019: 7.40/N.A.      (Turkey)                         namely rises with 0.06 points
+                                                                                            until 2040 (India).              CGE modelling
+              Countries connected to  No information    0.1% GDP loss for 3.6%
+                the Zambezi river       provided           emissions reduction (India)    No macroeconomic effects           Integrated
+                basin: Malawi,                                                              assessed for the other             assessment
+                Mozambique, and                         24% GHG emissions reduction         countries.                         modelling
+                Zambia                                     2050 (Sri Lanka)
+                                                                                          Economic impacts                   CGE modelling
+Latin America Mexico                  2014: 2.11/1.01   Optimal carbon price path 33­       (employment, poverty) are
+                                                           68US$/tCO2 in 2020 to 101­       largely neutral under            Input-output
+              Brazil                  None                 225 in 2050 (Malaysia)           appropriate revenue recycling      modelling
+                                                                                            or carbon border adjustments
+              Colombia                2016: 4.40/1.69    Carbon price path $5(R48)/                                          CGE and IAM
+                                                           tCO2 in 2016, increasing to    Economic costs more serious          modelling
+                                                           $12(R120)/tCO2 in 2025,          above carbon price US$20,
+                                                           would reduce in 2040             reducing welfare and
+                                                           emissions in the power           employment up to 1.2 and
+                                                           sector with 5% and GDP with      2.6%
+                                                           0.7%.
+                                                           Emissions tipping point        Carbon pricing, generate two
+                                                           between $10 and $20: at $10      sources of benefit: more
+                                                           emissions reductions 5% by       favourable and less variable
+                                                           2040, at $20 it is 50%, and      economic outcomes; and,
+                                                           $50 62%, with GDP loss in        surprisingly, lower fossil fuel
+                                                           range 0.7 to 6.1% (by 2040).     prices. These gains exceed
+                                                                                            mitigation costs
+                                                         No quantitative results for
+                                                           emissions provided, despite    Investment and employment
+                                                           the paper mentioning a           drop by more than 4% by
+                                                           model for `Emissions             2040. If the policy is
+                                                           Prediction and Policy            unilateral, exports decrease
+                                                           Analysis' and a `scenario        by 8% by 2040.
+                                                           characterized by successful
+                                                           global mitigation policy that  Unemployment reduces with
+                                                           stabilizes atmospheric           -1.1 to -3.8% (-3.9­6.7%).
+                                                           concentrations to about          Inequality falls or increases
+                                                           560 ppm CO2eq'.                  depending on revenue
+                                                                                            recycling.
+                                                         A rising carbon tax from 2030
+                                                           to 2050 of 1500 MX$2015        Production in the regulated
+                                                           (US$100) to 10,500 MX$2015       sectors falls. Higher-income
+                                                           (US$700) results in national     households are the most
+                                                           goals of 40 and 75%              affected and middle-class
+                                                           emissions reduction from         ones the least
+                                                           energy consumption. With
+                                                           no compensation, this
+                                                           reduces GDP by more than
+                                                           4% after 2040. With
+                                                           redistribution of tax
+                                                           revenues, a double dividend
+                                                           in terms of GDP and
+                                                           emissions reduction results.
+
+                                                         Carbon taxes of R$25­50 per
+                                                           ton of CO2e reduce
+                                                           emissions with
+                                                           approximately 3­6% (7.5­
+                                                           10.5%), while GDP increases
+                                                           slightly with 0.29% or drops
+                                                           up to 3% (-2.1 to -5.4%).
+
+                                                         ETS with complete sectoral
+                                                           coverage to achieve 20%
+                                                           emissions reduction versus
+                                                           BAU, resulting in 37 and 41.4
+                                                           US$/tCO2e. This reduces
+
+                                                                                                                                                   (Continued )
+                                                                                       CLIMATE AND DEVELOPMENT                                127
+
+Table 2. Continued.
+
+World region         Country     Carbon pricing       Emissions reduction (versus      Other economic impacts           Methods used           Sources
+                                  implemented        benchmark or initial emissions                                                           and details
+                                 (year: nominal/
+                                 average prices*)      level) and associated GDP
+                                                                   losses
+
+Eastern       Chile              2014: 4.40/1.35       annual GDP growth with          Most affected sectors are oil    CGE modelling         Appendix
+  Europe                                               0.8%.                             refinery, transport, and                               A4
+              Hungary,           Hungary 2005:       A 20% emission reduction            electricity, showing           Mostly
+                Slovakia,          14.96/4.24          causes a loss in GDP of 2%        contraction of 7­9%.             econometrics
+                Czech Republic,    Slovakia 2005:      (and 2.3% if the tax is           Electricity prices for           (panel data), also
+                Poland,            14.96/5.38          extended to consumers), and       consumers increase by 8%.        CGE
+                Estonia            Czech Republic      requires an effective tax rate
+                                   2005: 14.96/6.66    of about 26 US$ per ton of      Double dividend from
+                                   Poland 2005:        CO2e                              substituting carbon taxes for
+                                   14.96/7.95          20 US$/tCO2e would                labour taxes (Ukraine).
+                                   Estonia 2005:       decrease annual GDP growth        Firms participating in EU-ETS
+                                   14.96/8.31          by 0.13%                          have retired some inefficient
+                                                     1% increase in energy tax           capital stock and made
+                                                       decreases CO2 emissions           modest additional
+                                                       between 0.112 and 0.140%          investments without negative
+                                                       (7 emerging economies,            effects on profitability
+                                                       including Czech Republic,         (Lithuania).
+                                                       Hungary and Poland).
+                                                       ETS participation caused
+                                                       slight improvement in CO2
+                                                       intensity but not reduction
+                                                       in emissions. (Lithuania)
+
+Note: The table summarizes each world region based on the details as reported in the appendix (which contains all references to relevant studies); *Based on Finch and
+  van den Bergh (2022), prices converted to .
+
+trading system might be more complicated to monitor and               2022). Other important factors to garner public support
+control and a carbon tax easier to administer as countries            include targeted transfers ­ potentially building on previous
+have experiences with energy taxes they can build upon. On            poverty-eradication programmes (Cameron & Shah, 2014) ­
+the other hand, experiences with carbon markets show that             and investing pricing revenues in infrastructure (Dorband
+this may not be true, and the reviewed studies do not give a          et al., 2022; Jakob et al., 2016). Regarding distributional
+clear indication either. Tougher political-economy issues that        effects, it matters how the relation is between those affected
+get attention in some of the reviewed studies relate to time          and those with power in political processes. Other political-
+consistency of policies and pressure by interest groups,              economy issues that could be given attention to garner more
+which may result in carbon pricing not delivering the prom-           support for carbon pricing are co-benefits and compliance.
+ised results (Kalkuhl et al., 2020).                                  Co-benefits such as more diverse local renewable energy
+                                                                      sources may carry some political weight. It is not evident
+   Of course, there are various barriers to the full or actual        that compliance is easier with taxes than permits, or reverse.
+implementation of carbon prices, even in the countries in the         Probably there is not much of a difference as in both cases reg-
+table. One fundamental issue is how a carbon price works in           ulators would have to check the (invisible) emissions. How-
+the context of highly regulated energy markets in developing          ever, if the permits are on inputs like fossil fuels ­ the ideal
+countries, aimed at keeping electricity prices low and not            approach ­ then compliance is guaranteed, either way.
+being passed through (Borenstein & Kellogg, 2022). Another
+is that developing countries' production sectors tend to have            Finally, a note is in order about fossil-fuel subsidies, which
+high carbon intensities (Ward et al., 2019). What matters too         are in effect negative carbon prices. While many studies have
+is how carbon pricing will affect the relatively large informal sec-  been done on this, there is still debate on the relative impor-
+tor in developing countries. A study by Bento et al. (2018) shows     tance versus positive carbon pricing and the political barriers
+that under certain circumstances a carbon price can contribute        against removing these, van den Bergh et al. (2024) argue
+to reducing the informal sector, namely if the revenues are used      that subsidies contribute to a relatively small portion of climate
+to lower specific consumption taxes. In addition, carbon taxes        change and local externality problems, likely around 1%, and
+could help raise the low average level of taxation (and thus          that reform of fossil-fuel subsidies is hampered by various pol-
+public revenues for health, education and infrastructure) in          itical and social factors, more so than the implementation of
+developing countries (e.g. Besley & Persson, 2014).                   carbon pricing (see also Skovgaard & van Asselt, 2019). This
+                                                                      may also be the case in developing countries as here fossil-
+   While we paid attention, in line with the reviewed studies,        fuel subsidies to consumers are common to support especially
+to the political acceptability of carbon pricing in terms of dis-     poor rural households. A study by Jewell et al. (2018) con-
+tributional effects, other factors play a role as well (Carattini     cludes anyway that subsidy removal would be most effective
+et al., 2018; Drews & van den Bergh, 2016). For example,              in high-income oil- and gas-exporting regions ­ notably `Rus-
+one of the few studies of public support for climate policies         sia+' (covering several economies that were part of the Soviet
+conducted in various middle-income countries shows that               Union, such as Ukraine, Kazakhstan and Azerbaijan), Middle
+communicating how policies work and who benefits from                 East and North Africa (MENA) and Latin America.
+them can improve citizens' attitudes (Dechezleprêtre et al.,
+128  J. VAN DEN BERGH AND S. DREWS
+
+4. The international context of carbon pricing in                  telecommunications and transport. External finance is needed
+developing countries                                               as most countries will be unable to generate sufficient revenues
+                                                                   through carbon pricing, notably countries in Sub-Saharan
+To understand the potential of climate policy in developing        Africa (Jakob et al., 2016). Against this background, various
+countries, one must consider it in an international or even glo-   authors consider which design of climate finance is needed ­
+bal context, for various reasons (van den Bergh et al., 2020):     e.g. Bowen (2011) does this from a public-finance angle.
+                                                                   Financial support to developing countries, however, risks
+. Developing countries are part of an international trading        inducing a `climate finance curse' similar to the `resource
+   network, which makes them economically sensitive to             curse', i.e. adverse effects on the economy and its development
+   increases in production costs due to climate policy, both       due to a country relying heavily on natural resource exports
+   in domestic and export markets.                                 (Jakob & Steckel, 2014). This involves mechanisms such as
+                                                                   excessive growth of the public sector, negative effects on econ-
+. Global effectiveness of national climate policies requires       omic diversity and education, easy resource revenues trigger-
+   limited international carbon leakage due to trade effects       ing corruption and nepotism among those in power, and
+   and relocation of industries (Ing & Nicolai, 2019; King         appreciation of the nation's currency hampering (potential)
+   and van den Bergh, 2021).                                       other export sectors (known as the `Dutch disease'). In this
+                                                                   respect, it is worthwhile noting that traditional project-based
+. National climate policies often exempt export sectors,           development financing, by NGOs, is often supplemented by
+   which make up a large part of the economy in many devel-        macro-economic and sector-wide assistance by international
+   oping countries. To avoid this, some degree of international    organizations like IMF and World Bank, conditional upon pol-
+   policy harmonization is needed.                                 icy reforms. This is confirmed by a study of Tirpak and Adams
+                                                                   (2008) examining trends in development assistance funding
+. Harmonization of national climate policies will reduce wor-      for energy from bilateral and multilateral donors during
+   ries about loss of competitive position, in turn allowing       1997­2005. During this period, aid for energy was 6­10% of
+   such policies to become more stringent over time.               all development assistance, with a slight shift away from fossil
+                                                                   fuel to lower greenhouse-gas-emitting projects. The authors
+. Additionally, financial support from rich countries may be       suggest increasing funding for multilateral development
+   needed to foster harmonized and ambitious climate pol-          banks, to `green' private sector funds, and to standardize col-
+   icies. Doing this on the basis of automatic revenues from       lection and reporting of data on energy investment.
+   carbon pricing would create a stable foundation for climate
+   finance, shielding it against political changes in funding         Most of the previous authors agree that reconciling the glo-
+   countries.                                                      bal goal of cost-efficient mitigation with national policy priori-
+                                                                   ties, climate finance for carbon pricing could become a central
+. Last but not least, carbon pricing is a wise option in case of   pillar of sustainable development and promote international
+   considerable heterogeneity among polluters in terms of          cooperation to achieve the climate targets laid down in the
+   abatement options and costs, as both national and global        Paris Agreement. A study by Budolfson et al. (2021) finds
+   costs of emissions reduction will be much lower than with       that that if all countries adopt a sufficiently high uniform glo-
+   other instruments. Such heterogeneity is high between           bal carbon tax and then return the revenues to their citizens on
+   groups of developing and developed countries, with the lat-     an equal per capita basis, it will be possible to meet a 2°C target
+   ter having generally relatively cheap emissions abatement       while also increasing wellbeing, reducing inequality and alle-
+   options compared to the first.                                  viating poverty. As shown in their Figure 1, the carbon tax
+                                                                   level for this case is for a very long period slightly above 100
+   According to the report of the UN Tax Committee (2021),         (2005) US$. This study uses a global climate policy model
+in developing countries carbon pricing an serve the dual pur-      using cost­benefit analysis (NICE ­ nested inequalities cli-
+pose of regulation of greenhouse gas emissions and generating      mate­economy model), dividing the world into 12 regions
+revenues for public investment during a green transition, such     and each region into 5 income groups. They also derive a
+as for R&D. This explains why it is on the agenda of many          so-called carbon Laffer curve (bell-shaped), which plots total
+developing countries as well as broader initiatives, such as       global revenue versus global decarbonization %, indicating a
+the Addis Ababa Action Agenda of 2015. The latter created a        maximum around 70%. Along with this, the positive effect of
+global framework for aligning financial flows and policies         the carbon tax through progressive redistribution is initially
+with economic, social, and environmental goals, closely linked     strong but diminishes once the economy decarbonizes as
+to the Sustainable Development Goals. Another relevant con-        then revenues for inequity compensation decline. A related
+text was created by the Paris Climate Agreement under the UN       study by Leimbach and Giannousakis (2019) quantifies mitiga-
+Framework Convention on Climate Change. It involved the            tion costs for several major world regions, considering scen-
+international community promising to mobilize at least             arios with and without climate finance. They show that
+USD100 billion per year for mitigation and adaption in devel-      sustainable development as represented by the SSP1 scenario
+oping countries (Steckel et al., 2017). However, until now these   reduces the challenges of burden sharing and makes it easier
+promises have not been fully met while also confusion remains      to achieve equitable climate policies. In contrast, in a scenario
+about the definition and scope of `climate finance' ­ in terms of  with fossil-fuel intensive development (SSP5), mitigation costs
+compensation for loss and damage or funding of mitigation or       across regions and required international transfers to increase
+adaptation (Timperley, 2021).
+
+   International finance could supplement national pricing of
+carbon generating public revenues, for investing in infrastruc-
+ture providing access to water, sanitation, electricity,
+                                                                     CLIMATE AND DEVELOPMENT  129
+
+under most burden-sharing regimes. They conclude that the               A theoretical analysis of a development-compatible refund-
+first scenario is politically less risky and therefore more likely.  ing system to mitigate climate change is offered by Gersbach
+A related study by Soergel et al. (2021) finds that, without pro-    and Hummel (2016). They propose industrial countries pay
+gressive redistribution, climate policies would push an              an initial fee to a global fund and each country chooses its
+additional 50 million people into poverty. However, redistri-        own national carbon tax. The global fund is then redistributed
+buting the national carbon pricing revenues domestically as          among developing and industrial countries in proportion to
+an equal-per-capita climate dividend reverses this to a small        relative emissions reductions, with refunds being net of
+net reduction of global poverty (6 million people less). An          national tax revenues. This accomplishes efficient emissions
+additional international climate finance scheme achieves             reductions and equity, as developing countries do not have
+more substantial poverty reduction globally and particularly         to pay an initial fee and are net receivers of funds, hence are
+in Sub-Saharan Africa.                                               overall net beneficiaries, and abate voluntarily ­ hence will
+                                                                     compare all costs and benefits.
+   A similarly ambitious study by Bauer et al. (2020) is motiv-
+ated by the challenge that international cap-and-trade with a           International carbon markets can come about in several
+uniform carbon price imposes potentially excessive abatement         ways. One of these is linking existing carbon markets. A
+costs on developing countries.4 In view of this, international       study by Gavard et al. (2016) examines this approach, focusing
+financial transfers are needed as a complement. These can be         on trade in carbon permits between Europe or the US and
+designed to achieve equal sharing of effort, i.e. distribution       China. In line with policy discussions indicating that permits
+of mitigation costs as a share of income. The authors study          imported by developed from developing countries should be
+which financial transfers would be needed instead if moderate        limited, their analysis poses a limit on purchasing carbon
+deviations from uniform carbon pricing are allowed for devel-        from Chinese electricity and energy intensive sectors. Using
+oping countries as this is more realistic, economically precau-      a global economy-wide model, this limit drives a wedge
+tionary, and politically feasible as a first step in trajectory      between the carbon prices in China and Europe/ US. Still, glo-
+towards uniform pricing globally. They use the integrated            bal emission reductions come out higher due to emission
+assessment model REMIND­MAgPIE to this end, and find                 trading reducing carbon leakage. Moreover, if China captures
+that under uniform carbon prices, a present value of inter-          the rents associated with limited permit trading, it is possible
+national financial transfers of 4.4 trillion US dollars over the     to find a limit threshold that makes both regions better off rela-
+next 80 years to 2100 would be required to equalize effort.          tive to independent carbon markets.
+At the other extreme, achieving equal effort without any com-
+pensating international financial support, would require car-           In the context of international carbon markets, it is worth-
+bon prices in advanced countries to be up to 130 times               while mentioning the idea of climate clubs and carbon duties.
+higher than in developing countries, leading to efficiency losses    The idea of an expansive climate club of ambitious nations
+of 2.6 trillion US dollars. The hybrid solution of moderate          with a uniform carbon price and protecting its border through
+deviations from uniform carbon prices strongly reduces finan-        a carbon tariff was first analysed by Nordhaus (2015, 2021).
+cial transfers while suffering from relatively small efficiency      This would mean both economic and diplomatic pressure
+losses. Since distinct hybrid solutions (in fact, a continuum        (including at UN COP meetings) to make other countries
+of them) are feasible, the authors derive a trade-off curve by       join the club (van den Bergh et al., 2020). This likely will
+identifying the cost for different combinations of regional          work best with a carbon market as we suggested (Table 1),
+prices (Figure 2 in Bauer et al., 2020). The inefficiency (and       also as the emissions trading system of the European Union
+effectiveness) sacrifice of non-uniform carbon prices seems,         (kind of a club of EU members itself) could best serve as the
+however, to be underestimated as international carbon leakage        pragmatic starting point for a broader club. If the USA and
+is not accounted for.                                                China could get aboard, the rest of the world would be strongly
+                                                                     motivated to join as well (Tagliapietra & Wolff, 2021). Not an
+   A study by Wang et al. (2018) explores the scale and benefit      easy scenario, but the number of negotiation partners in the
+of a global carbon market under different effort-sharing prin-       initial stage would in any case be very limited. It would likely
+ciples to achieve the 2°C goal, using an integrated assessment       also involve that either carbon prices differ during some tran-
+model and an effort-sharing platform. They find that global          sition period between rich and poor nations, or that a global
+trading volumes would change from 1.8 to over 12 GtCO2               climate fund would compensate the poor nations for high car-
+per year and largely peak between 2030 and 2040 under differ-        bon costs.
+ent kinds of effort-sharing principles. Correspondingly, annual
+global finance flows would increase gradually and reach the             One could consider the countries participating in the
+scale of hundreds of billions United States (US) dollars.            EU-ETS already a kind of a climate club. In fact, it has started
+Much of these revenues would go to developing countries,             the initial testing phase of implementing a border tariff,
+helping to accelerate their domestic low-carbon energy trans-        namely the carbon border adjustment mechanism (CBAM).
+formation under good economic conditions (e.g. job creation).        This will partially protect the EU-ETS against competition
+A global carbon market would lower the abatement costs of            from exporters to the EU area and will avoid negative trade
+developing countries during 2011­2050. For example, for              and relocation effects. A recent study by Magacho et al.
+countries in the Middle East and Africa, the study finds             (2024) examines the impacts of the CBAM on low- and
+benefits of 4.6 to 14.8% of GDP, depending on the effort-shar-       middle-income countries. Using trade data and multi-regional
+ing principle used. The overall global abatement costs would         input-output matrices, it finds that products coming from
+drop by 0.4­2.6%.                                                    Russia, China, Turkey and Ukraine, and to a lesser extent
+                                                                     from Balkan (East European) countries, Mozambique,
+130  J. VAN DEN BERGH AND S. DREWS
+
+Zimbabwe, Cameroon, Morocco and Tajikistan, will be the             and fuel prices will be proportional with their carbon content.
+most sensitive to CBAM. The authors suggest strategies to           This provides the most precise and direct incentive for consu-
+ameliorate adverse socio-economic impacts on these countries,       mers, producers, investors and innovators to consider direct
+such as transfer of technologies, climate subsidies or conces-      and indirect emission effects of all their decisions. In turn,
+sional lending by the EU to reduce the countries' dependence        this will guarantee both minimal lifecycle emissions and mini-
+on highly emitting industries.5 The authors further point at the    mal cost of emissions reduction, or maximum reduction for a
+risk for developing countries of richer countries ­ such as         given cost. In addition, pricing generates revenues for com-
+Japan, North America or even China ­ in the near future             pensating any inequity effects or investing in meeting sustain-
+also adopting CBAM-like measures.                                   able development goals. We argued that most of the reasons
+                                                                    for carbon pricing apply also, and in some cases very strongly,
+   An interesting view on the challenge of creating a global        to developing countries.
+low-carbon economy is proposed by a study of Bataille et al.
+(2008). It develops a model covering responses to an exponen-          Our review finds that carbon pricing is experimented with,
+tially rising carbon price (from US$10/tCO2e in 2013 to 100 in      or planned for, in various low- and middle-income countries,
+2050) by a slow-growing but highly developed economy                with a concentration in the latter and with examples in all
+(Canada) and a fast-growing developing economy (China).             world regions. Most of the covered studies provide ex-ante
+The model (CIMS) is hybrid, technologically explicit (energy        analyses of hypothetical carbon taxes. There are very few ex-
+efficiency, fuel switching, carbon capture and storage, and         post policy assessments, apart from China. But the latter all
+accelerated development of renewables), behaviourally realis-       address the same emissions-trading system and thus tend to
+tic and includes macroeconomic feedbacks. The results indi-         use overlapping data, mostly covering the same regional pilots
+cate that a global low-carbon economy is feasible if long-          in China. Together, the reviewed studies give a rather partial
+term policy packages are accepted with carbon pricing policy        picture, also as findings are not easy to compare between
+as the core, coupled with supplementary regulations. China          countries or studies. Indeed, few studies present, or allow
+could reduce emissions by 50% in 2050, with permits                 deriving, general indicators such as emission-reduction elasti-
+flowing from Canada to China as abatement costs of the for-         cities of carbon pricing which would allow comparison. Before
+mer country are lower. This goes a bit against general findings     drawing final conclusions, one would need to experiment
+about abatement costs differences which suggest that high-          more with higher carbon prices in developing countries and
+income countries tend to possess the most expensive abate-          collect evidence on its impacts on emissions and welfare.
+ment options (Stern, 2012).                                         The more so, as it is highly uncertain how economies charac-
+                                                                    terized by considerable unsatisfied demand (for goods, services
+   Similarly, focusing on China in an international setting,        and energy) ­ which invites for the rebound effect ­ or with a
+Huang and Bailis (2015) explore its attitude towards the possi-     large share of informal activity ­ which might well grow under
+bility of global carbon market integration, notably for civil       regulatory pressure ­ will respond to a carbon price. For
+aviation. It is evident that, given China being the largest annual  instance, the model studies reviewed generally do not pay
+emitter at the country level, its participation would be crucial    attention to either effect. The largely model-based or ex-ante
+to the success of any global market-based efforts to reduce         evidence, based on single and multi-country studies, of the
+GHG emissions. The study argues that China tends to prefer          effectiveness and efficiency of carbon pricing is considerable,
+gradually establishing and strengthening international govern-      despite low prices thus far.
+ance mechanisms, as this maintains its sovereignty and policy
+flexibility. This explains China's resistance to join carbon-          Regarding empirical or ex-post evidence on the efficacy of
+trading initiatives of Australia, the EU, the International         carbon pricing, it is good to note that it mainly pertains to
+Civil Aviation Organization (ICAO), and the World Bank.             developed countries. The evidence for developing countries
+                                                                    is meagre, and as indicated above mainly based on ex-ante
+   Finally, a study by Bryan et al. (2010) considers the poten-     analysis of hypothetical or planned rather than ex-post analysis
+tial participation of sub-Saharan African (SSA) countries in a      of implemented policies. One might argue that insights can be
+global carbon market, notably related to agriculture and for-       drawn from the broader literature on experiences with energy
+estry. The economic potential for mitigation through agricul-       levies and taxes. However, a disclaimer is that the effect of car-
+ture (forestry) in the African region is estimated at 17 (23)%      bon taxes might be higher due to a so-called `salience effect'.
+of the total global mitigation potential for the sector. Carbon     For example, using a natural experiment for the Canadian pro-
+markets should be expanded to include projects related to agri-     vince of Alberta, Ahundjanov and Noel (2021) find that inci-
+culture, forestry and other land uses (AFOLU). Difficulties         dence is higher for an increase in a carbon levy than a
+arise, though, as smallholder farmers and herders are note          generic excise tax. They suggest that `benefit-side transpar-
+easily reached, so that carbon markets should create clear          ency', notably using the tax to alter behaviour for climate pur-
+benefits directed at these actors and domestic policies in SSA      poses, matters. Other studies find similar effects, such as Rivers
+be reformed to increase both profitability and sustainable prac-    and Schaufele (2015) for another Canadian province, British
+tices for rural communities.                                        Columbia. It is yet unclear that such findings for a developed
+                                                                    country can be transferred to a developing-country context.
+5. Conclusions
+                                                                       In terms of the choice between carbon taxation and markets
+Carbon pricing means putting a price on the carbon content of       (cap-and-trade) more generally, a main advantage of a carbon
+fossil fuels, and so effectively on the emission of greenhouse      tax is that it can easily build upon existing energy and fuel taxes
+gases due to combusting the fossil fuels. As a result, energy       in developing countries, which means users are accustomed to
+                                                                             CLIMATE AND DEVELOPMENT  131
+
+them and the relevant administrative structure to implement a                    5. In fact, the EU is giving attention to this. See EU (2024).
+carbon tax is already in place. Hence, the best these countries                  6. Some refer to it as an `absolute or mass-based emissions cap', to
+can aim for is at short notice replacing current energy taxes by
+genuine carbon taxes, and in the longer run strive for incor-                        distinguish it from China's rate-based approach.
+poration in an international carbon market or cap-and-trade                      7. In addition, 40 large Indian businesses with a total revenue exceed-
+system. The latter has the important advantage of limiting
+competitiveness losses when such markets include key trade                           ing $7 trillion have priced or are planning to price carbon. They
+partners in the region. This is highly relevant in view of the                       include companies from cement and oil industries. https://www.
+large component of imports and exports in modern econom-                             climatescorecard.org/2020/03/indian-businesses-take-the-lead-
+ies, even of large countries, higher carbon prices ­ or more                         on-carbon-pricing/. For recent arguments in favour of carbon pri-
+generally stringent national climate policies ­ necessitate inter-                   cing in India see these two essays: https://www.orfonline.org/
+national cooperation and ideally harmonization. An illus-                            expert-speak/pricing-carbon-trade-offs-opportunities-india/ and
+tration of the relevance of carbon markets in this regard is                         https://cadmus.eui.eu/handle/1814/69676.
+the success of the EU-ETS, the only instrument that has man-                     8. For technical details, see https://www.sars.gov.za/customs-and-
+aged to harmonize national climate policies among multiple                           excise/excise/environmental-levy-products/carbon-tax/. The tax
+(in fact 30) countries, resulting in a price fluctuating around                      had a rate of R120/t CO2 emissions and since January 2020
+70­80/tCO2, since 2022, and even exceeding 100/tCO2 in                               R127/t CO2. According to the World Bank Carbon Pricing Dash-
+March 2023. Considering a range of additional features, we                           board: `South Africa's 2021 carbon tax rate is R134/tCO2e (US$7/
+argued that while carbon taxes and markets have both advan-                          tCO2e) and will increase until 2022 by the amount of consumer
+tages and disadvantages, in our view these balance in favour of                      price inflation plus 2% annually. After 2022, only inflationary
+carbon markets (as summarized in Table 1). Of course, it is                          adjustments are envisioned.'
+likely that both types of carbon pricing will be present for                     9. Other relevant general info about carbon markets in Africa
+the foreseeable future.                                                              includes: https://energycapitalpower.com/african-carbon-markets-
+                                                                                     challenges-and-opportunities, https://gga.org/can-carbon-trading-
+   Although one might have liked a more synthetic review                             work-in-africa, https://www.uclga.org/news-caro/carbon-pricing-
+aggregating individual studies, this can only be done if more                        in-africa-opportunities-for-action-at-the-territorial-level, Bryan,
+ex-post studies using comparable statistical-econometric                             E. et al. 2008. Global Carbon Markets: Are There Opportunities
+analysis become available for a wider set of countries (beyond                       for Sub-Saharan Africa? IFPRI Discussion Paper 00832, Konrad-
+China), which requires that first more countries implement                           Adenauer-Stiftung (2020). Carbon Pricing in Sub-Saharan Africa.
+carbon pricing. Nevertheless, we feel the descriptive character                      February 2020. https://www.kas.de/en/web/climate-energy-africa/
+of our review here (and in the appendix) and the combination                         home, and Carbon pricing approaches in Eastern and Southern
+of ex-ante and ex-post studies is informative and will help                          Africa, African Development Bank Group, https://www.afdb.org/
+other researchers ­ particularly in low- and middle-income                           fileadmin/uploads/afdb/Documents/Generic-Documents/Carbon%
+countries ­ to quickly get an overview of, and learn about,                          20Market%20Quick%20Facts%20%20ACF%202012.pdf.
+methods and results for (hypothetical) carbon pricing in                       10. https://www.climatescorecard.org/2020/03/mexicos-well-
+these countries.                                                                     established-carbon-tax-and-pilot-emissions-trading-system-with-
+                                                                                     california-and-quebec/.
+
+                                                                             Acknowledgements
+
+                                                                             We thank Ivan Savin and various anonymous reviewers for useful
+                                                                             comments.
+
+Notes                                                                        Disclosure statement
+
+    1. Incidentally, it is good to separate between GDP growth and devel-    No potential conflict of interest was reported by the author(s).
+        opment, as for instance captured by the Human Development
+        Index (HDI), since they can lead to different empirical insights     Funding
+        and policy suggestions (van den Bergh & Botzen, 2018; Borou-
+        mand et al., 2022). Shifting the narrative of climate policy evalu-  This study was requested and funded by the UNDP.
+        ation from one of GDP growth to a message of improving social
+        welfare, as captured by the HDI, might facilitate political leaders  Notes on contributors
+        and climate negotiators to publicly commit themselves to ambi-
+        tious climate goals and policies, including carbon pricing.          Jeroen van den Bergh is ICREA Research Professor and head of the
+                                                                             research group "Environmental and Climate Economics" in the Institute
+    2. For another view, see Muhammad (2022) who pleas in favour of          of Environmental Science & Technology of Universitat Autònoma de Bar-
+        carbon taxation in developing countries. He offers an informative    celona in Spain. He is also Professor of Environmental & Resource Econ-
+        table of revenues collection from carbon taxes in 31 countries and   omics at Vrije Universiteit Amsterdam in the Netherlands.
+        provinces between 2016 and 2020.                                     Stefan Drews is assistant professor in the Department of Applied Econ-
+                                                                             omics of the University of Málaga in Spain. His research lies at the inter-
+    3. Elasticity estimates obtained by two multi-country studies are as     section of climate, behavioral and ecological economics.
+        follows: a recent analysis of 142 countries over two decades by
+        Best et al. (2020) finds that a 1 price per ton CO2 reduces annual   References
+        emission growth by 0.3%; and for a more limited sample of OECD
+        countries Sen and Vollebergh (2018) finds a higher value of 0.73%.   Acar, S., Aici, A. A., Balaban, O., Özgür Berke, M., Çakmak, I., Mazlum,
+                                                                                S. C., Demirer, G. N., pek, P., Kat, B., Kulaçolu, V., Kurnaz, L., ahin,
+    4. According to Dietz et al. (2018), a range of models suggest that the     Ü., Sari, R., Soyta, U., Takin, F., Turhan, E., Ünüvar, B., Voyvoda, E.,
+        median global carbon price under 1.5°C scenarios is more than US        Özenç, B. V., ... Yücel, . (2016). Addressing climate change from an
+        $100/tCO2 in 2020. They note that carbon pricing is needed to
+        reduce mitigation costs substantially compared with ramping up
+        the current patchwork of regulatory instruments. In addition,
+        innovation policies and mitigation finance to developing countries
+        are required.
+132  J. VAN DEN BERGH AND S. DREWS
+
+   economic policy perspective (TÜSAD Publication No: T/2016,12­583).          Boroumand, R.-H., Goutte, S., Porcher, T., & Stocker, T. F. (2022). A fair
+   TUSIAD.                                                                        and progressive carbon price for a sustainable economy. Journal of
+Acar, S., & Yeldan, A. E. (2016). Environmental impacts of coal subsidies         Environmental Management, 303, Article 113935. https://doi.org/10.
+   in Turkey: A general equilibrium analysis. Energy Policy, 90, 1­15.            1016/j.jenvman.2021.113935
+   https://doi.org/10.1016/j.enpol.2015.12.003
+Advani, A., Prinz, D., Smurra, A., & Warwick, R. (2021). What is the case      Bowen, A. (2011). Raising climate finance to support developing
+   for carbon taxes in developing countries? Institute for Fiscal Studies.        country action: Some economic considerations. Climate
+   https://ifs.org.uk/publications/15817                                          Policy, 11(3), 1020­1036. https://doi.org/10.1080/14693062.2011.
+Ahundjanov, B. B., & Noel, M. D. (2021). What's in a name? The inci-              582388
+   dence of gasoline excise taxes versus gasoline carbon levies.
+   International Journal of Industrial Organization, 76, Article 102733.       Brockway, P. E., Sorrell, S. R., Semieniuk, G., Heun, M. K., & Court, V.
+   https://doi.org/10.1016/j.ijindorg.2021.102733                                 (2021). Energy efficiency and economy-wide rebound effects: A review
+Al-Attiyah Foundation. (2020). Carbon pricing: Lessons for the Middle             of the evidence and its implications. Renewable and Sustainable Energy
+   East. The Abdullah Bin Hamad Al-Attiyah International Foundation               Reviews, 141, Article 110781. https://doi.org/10.1016/j.rser.2021.
+   for Energy & Sustainable Development.                                          110781
+Aldy, J. E., Krupnick, A. J., Newell, R. G., Parry, I. W. H., & Pizer, W. A.
+   (2010). Designing climate mitigation policy. Journal of Economic            Bryan, E., Akpalu, W., Yesuf, M., & Ringler, C. (2010). Global carbon
+   Literature, 48(4), 903­934. https://doi.org/10.1257/jel.48.4.903               markets: Opportunities for sub-Saharan Africa in agriculture and for-
+Aldy, J. E., & Stavins, R. N. (2012). The promise and problems of pricing         estry. Climate and Development, 2(4), 309­331. https://doi.org/10.
+   carbon: Theory and experience. Journal of Environment &                        3763/cdev.2010.0057
+   Development, 21(2), 152­180. https://doi.org/10.1177/
+   1070496512442508                                                            Budolfson, M., Dennig, F., Errickson, F., Feindt, S., Ferranna, M.,
+Alton, T., Arndt, C., Davies, R., Hartley, F., Makrelov, K., Thurlow, J., &       Fleurbaey, M., Klenert, D., Kornek, U., Kuruc, K., Méjean, A., Peng,
+   Ubogu, D. (2014). Introducing carbon taxes in South Africa. Applied            W., Scovronick, N., Spears, D., Wagner, F., & Zuber, S. (2021).
+   Energy, 116, 344­354. https://doi.org/10.1016/j.apenergy.2013.11.034           Protecting the poor with a carbon tax and equal per capita dividend.
+Arndt, C., Chinowsky, P., Fant, C., Paltsev, S., Schlosser, C. A., Strzepek,      Nature Climate Change, 11(12), 1025­1026. https://doi.org/10.1038/
+   K., Tarp, F., & Thurlow, J. (2019). Climate change and developing              s41558-021-01228-x
+   country growth: The cases of Malawi, Mozambique, and Zambia.
+   Climatic Change, 154(3­4), 335­349. https://doi.org/10.1007/s10584-         Calderón, S., Camilo Alvarez, A., Loboguerrero, A. M., Arango, S., Calvin,
+   019-02428-3                                                                    K., Kober, T., Daenzer, K., & Fisher-Vanden, K. (2016). Achieving CO2
+Baranzini, A., van den Bergh, J., Carattini, S., Howard, R., Padilla, E., &       reductions in Colombia: Effects of carbon taxes and abatement targets.
+   Roca, J. (2017). Carbon pricing in climate policy: Seven reasons, comp-        Energy Economics, 56, 575­586. https://doi.org/10.1016/j.eneco.2015.
+   lementary instruments, and political-economy considerations. WIRES             05.010
+   Climate Change, 8(4), e462. https://doi.org/10.1002/wcc.462
+Barbier, E. B. (2014). Climate change mitigation policies and poverty.         Cameron, L., & Shah, M. (2014). Can mistargeting destroy social capital
+   WIRES Climate Change, 5(4), 483­491. https://doi.org/10.1002/wcc.281           and stimulate crime? Evidence from a cash transfer program in
+Barbier, E. B., Lozano, R., Manuel Rodríguez, C., & Troëng, S. (2020).            Indonesia. Economic Development and Cultural Change, 62(2), 381­
+   Adopt a carbon tax to protect tropical forests. Nature, 578(7794),             415. https://doi.org/10.1086/674102
+   213­216. https://doi.org/10.1038/d41586-020-00324-w
+Bariss, U., Avenitis, E., Junghans, G., & Blumberg, D. (2016). CO2 emis-       Carattini, S., Carvalho, M., & Fankhauser, S. (2018). Overcoming public
+   sion trading effect on Baltic electricity market. Energy Procedia, 95, 58­     resistance to carbon taxes. Wiley Interdisciplinary Reviews: Climate
+   65. https://doi.org/10.1016/j.egypro.2016.09.016                               Change, 9(5), e531. https://doi.org/10.1002/wcc.531
+Bataille, C., Tu, J., & Jaccard, M. (2008). Permit sellers, permit buyers:
+   China and Canada's roles in a global low-carbon society. Climate            Chandrashekeran, S., Morgan, B., Coetzee, K., & Christoff, P. (2017).
+   Policy, 8(S1), S93­S107. https://doi.org/10.3763/cpol.2007.0494                Rethinking the green state beyond the Global North: A South
+Bauer, N., Bertram, C., Schultes, A., Klein, D., Luderer, G., Kriegler, E.,       African climate change case study. WIREs Climate Change, 8(6),
+   Popp, A., & Edenhofer, O. (2020). Quantification of an efficiency­             e473. https://doi.org/10.1002/wcc.473
+   sovereignty trade-off in climate policy. Nature, 588(7837), 261­266.
+   https://doi.org/10.1038/s41586-020-2982-5                                   Cobham, A., & Janský, P. (2018). Global distribution of revenue loss from
+BEE. (2023). Detailed procedure for compliance mechanism under CCTS.              corporate tax avoidance: Re-estimation and country results. Journal of
+   Draft Report. Bureau of Energy Efficiency, Indian Ministries of Power          International Development, 30(2), 206­232. https://doi.org/10.1002/
+   and of Environment, Forest and Climate Change. https://beeindia.gov.           jid.3348
+   in/sites/default/files/Draft_Compliance_Procedure_October_2023.pdf
+Benavides, C., Gonzales, L., Diaz, M., Fuentes, R., García, G., Palma-         Couharde, C., & Mouhoud, S. (2020). Fossil fuel subsidies, income
+   Behnke, R., & Ravizza, C. (2015). The impact of a carbon tax on the            inequality, and poverty: Evidence from developing countries. Journal
+   Chilean electricity generation sector. Energies, 8(4), 2674­2700.              of Economic Surveys, 34(5), 981­1006. https://doi.org/10.1111/joes.
+   https://doi.org/10.3390/en8042674                                              12384
+Bento, A. M., Jacobsen, M. R., & Liu, A. A. (2018). Environmental policy
+   in the presence of an informal sector. Journal of Environmental             Cramton, P., MacKay, D. J. C., Ockenfels, A., & Stoft, S. (2017). Global
+   Economics and Management, 90, 61­77. https://doi.org/10.1016/j.                carbon pricing: The path to climate cooperation. The MIT Press.
+   jeem.2018.03.011
+Besley, T., & Persson, T. (2014). Why do developing countries tax so little?   Dechezleprêtre, A., Fabre, A., Kruse, T., Planterose, B., Chico, A. S., &
+   Journal of Economic Perspectives, 28(4), 99­120. https://doi.org/10.           Stantcheva, S. (2022). Fighting climate change: International attitudes
+   1257/jep.28.4.99                                                               toward climate policies (Working Paper w30265). National Bureau of
+Best, R., Burke, P. J., & Jotzo, F. (2020). Carbon pricing efficacy: Cross-       Economic Research.
+   country evidence. Environmental and Resource Economics, 77(1), 69­
+   94. https://doi.org/10.1007/s10640-020-00436-x                              Devarajan, S., Go, D. S., Robinson, S., & Thierfelder, K. (2009). Tax policy
+Borenstein, S., & Kellogg, R. (2022). Carbon pricing, clean electricity stan-     to reduce carbon emissions in South Africa (World Bank Working
+   dards, and clean electricity subsidies on the path to zero emissions           Paper 4933). http://elibrary.worldbank.org/content/workingpaper/10.
+   (Working paper w30263). National Bureau of Economic Research.                  15961813-9450-4933
+
+                                                                               Devi, S., & Wong, E. S. K. (2010). Greenhouse emission reduction and
+                                                                                  sustainable development in South East Asia. Transformations in
+                                                                                  Business and Economics, 9(2), 64­85.
+
+                                                                               Dietz, S., Bowen, A., Doda, B., Gambhir, A., & Warren, R. (2018). The
+                                                                                  economics of 1.5°C climate change. Annual Review of Environment
+                                                                                  and Resources, 43(1), 455­480. https://doi.org/10.1146/annurev-
+                                                                                  environ-102017-025817
+
+                                                                               Di Leva, C. E., & Vaughan, S. (2021, December 13). The Paris Agreement's
+                                                                                  New Article 6 rules. IISD. https://www.iisd.org/articles/paris-
+                                                                                  agreement-article-6-rules
+
+                                                                               Diniz Oliveira, T., Costa Gurgel, A., & Tonry, S. (2019). The effects of a
+                                                                                  linked carbon emissions trading scheme for Latin America. Climate
+                                                                                  Policy, 20(1), 1­17. https://doi.org/10.1080/14693062.2019.1670610
+                                                                              CLIMATE AND DEVELOPMENT  133
+
+Diniz Oliveira, T., Costa Gurgel, A., & Tonry, S. (2021). Potential trading   Gao, Y., Li, M., Xue, J., & Liu, Y. (2020). Evaluation of effectiveness of
+   partners of a Brazilian emissions trading scheme: The effects of linking      China's carbon emissions trading scheme in carbon mitigation.
+   with a developed region (Europe) and two developing regions (Latin            Energy Economics, 90, Article 104872. https://doi.org/10.1016/j.eneco.
+   America and China). Technological Forecasting and Social Change,              2020.104872
+   171, Article 120947. https://doi.org/10.1016/j.techfore.2021.120947
+                                                                              García Benavente, J. M. (2016). Impact of a carbon tax on the Chilean
+Dong, F., Dai, Y., Zhang, S., Zhang, X., & Long, R. (2019). Can a carbon         economy: A computable general equilibrium analysis. Energy
+   emission trading scheme generate the Porter effect? Evidence from             Economics, 57, 106­127. https://doi.org/10.1016/j.eneco.2016.04.014
+   pilot areas in China. Science of the Total Environment, 653, 565­577.
+   https://doi.org/10.1016/j.scitotenv.2018.10.395                            Gavard, C., Winchester, N., & Paltsev, S. (2016). Limited trading of emis-
+                                                                                 sions permits as a climate cooperation mechanism? US­China and
+Dorband, I., Jakob, M., Kalkuhl, M., & Steckel, J. (2019). Poverty and dis-      EU­China examples. Energy Economics, 58, 95­104. https://doi.org/
+   tributional effects of carbon pricing in low-and middle-income                10.1016/j.eneco.2016.06.012
+   countries ­ a global comparative analysis. World Development, 115,
+   246­257. https://doi.org/10.1016/j.worlddev.2018.11.015                    GCA. (2022). Global carbon atlas project. http://www.globalcarbonatlas.
+                                                                                 org/en/CO2-emissions
+Dorband, I. I., Jakob, M., Steckel, J. C., & Ward, H. (2022). Double pro-
+   gressivity of infrastructure financing through carbon pricing ­ insights   Gersbach, H., & Hummel, N. (2016). A development-compatible refund-
+   from Nigeria. World Development Sustainability, 1, Article 100011.            ing scheme for a climate treaty. Resource and Energy Economics, 44,
+   https://doi.org/10.1016/j.wds.2022.100011                                     139­168. https://doi.org/10.1016/j.reseneeco.2016.02.002
+
+Drews, S., & van den Bergh, J. C. J. M. (2016). What explains public sup-     Gevrek, Z. E., & Uyduranoglu, A. (2015). Public preferences for carbon
+   port for climate policies? A review of empirical studies. Climate Policy,     tax attributes. Ecological Economics, 118, 186­197. https://doi.org/10.
+   16(7), 855­876.                                                               1016/j.ecolecon.2015.07.020
+
+Edenhofer, O., Jakob, M., Creutzig, F., Flachsland, C., Fuss, S., Kowarsch,   Goldblatt, M. (2010). Comparison of emissions trading and carbon taxa-
+   M., Lessmann, K., Mattauch, L., Siegmeier, J., & Steckel, J. C. (2015).       tion in South Africa. Climate Policy, 10(5), 511­526. https://doi.org/10.
+   Closing the emission price gap. Global Environmental Change, 31,              3763/cpol.2010.0111
+   132­143. https://doi.org/10.1016/j.gloenvcha.2015.01.003
+                                                                              Golosov, M., Hassler, J., Krusell, P., & Tsyvinski, A. (2014). Optimal taxes
+Espinosa, C., & Fornero, J. (2014). Welfare analysis of an optimal carbon        on fossil fuel in general equilibrium. Econometrica, 82(1), 41­88.
+   tax in Chile. Revista de Análisis Económico, 29(2), 75­111. https://doi.      https://doi.org/10.3982/ECTA10217
+   org/10.4067/S0718-88702014000200004
+                                                                              Goulder, L. H., Long, X., Lu, J., & Morgenstern, R. D. (2022). China's
+EU. (2024). CBAM and developing countries/LDCS. EU Taxation and                  unconventional nationwide CO2 emissions trading system: Cost-effec-
+   Customs Union. https://taxation-customs.ec.europa.eu/document/                tiveness and distributional impacts. Journal of Environmental
+   download/7abe56cc-4af0-490d-90e1-0a0825aabe37_en?filename =                   Economics and Management, 111, Article 102561. https://doi.org/10.
+   CBAM%20and%20developing%20countries.pdf                                       1016/j.jeem.2021.102561
+
+Ezenagu, A. (2021). Carbon taxation as a tool for sustainable development     Goulder, L. H., & Parry, I. (2008). Instrument choice in environmental
+   in the MENA region: Potentials and future directions. In D. S. Olawuyi        policy. Review of Environmental Economics and Policy, 2(2), 152­
+   (Ed.), Climate change law and policy in the Middle East and North             174. https://doi.org/10.1093/reep/ren005
+   Africa region (pp. 1­17). Routledge.
+                                                                              Goulder, L. H., & Schein, A. R. (2013). Carbon taxes versus cap and trade:
+Fankhauser, S., & Jotzo, F. (2018). Economic growth and development              A critical review. Climate Change Economics, 4(3), 1350010. https://
+   with low-carbon energy. WIREs Climate Change, 9(1), e495.                     doi.org/10.1142/S2010007813500103
+
+Feng, K., Hubacek, K., Liu, Y., Marchán, E., & Vogt-Schilb, A. (2018).        Greve, H., & Lay, J. (2023). `Stepping down the ladder': The impacts of
+   Managing the distributional effects of energy taxes and subsidy               fossil fuel subsidy removal in a developing country. Journal of the
+   removal in Latin America and the Caribbean. Applied Energy, 225,              Association of Environmental and Resource Economists, 10(1), 121­
+   424­436. https://doi.org/10.1016/j.apenergy.2018.04.116                       158. https://doi.org/10.1086/721375
+
+Fernando, G. L., & Liyanage, M. H. (2020). The potential role of carbon       Grottera, C., Olimpio Pereira, A., Jr., & Lèbre La Rovere, E. (2017).
+   tax in achieving the Paris Agreement targets for a developing country:        Impacts of carbon pricing on income inequality in Brazil. Climate
+   A case study of Sri Lanka. In International Conference and Utility            and Development, 9(1), 80­93. https://doi.org/10.1080/17565529.
+   Exhibition on Energy, Environment and Climate Change (ICUE) (pp.              2015.1067183
+   1­8). https://doi.org/10.1109/ICUE49301.2020.9306968
+                                                                              Gutierrez González, A. (2022). The international influence of the emis-
+Finch, A., & van den Bergh, J. (2022). Assessing the authenticity of             sions trading system in Mexico. In S. Lucatello (Ed.), Towards an emis-
+   national carbon prices: A comparison of 31 countries. Global                  sions trading system in Mexico: Rationale, design and connections with
+   Environmental Change, 74, Article 102525. https://doi.org/10.1016/j.          the global climate agenda (pp. 91­107). Springer.
+   gloenvcha.2022.102525
+                                                                              Gutman, V. (2018). Roadmap to carbon pricing: international review and
+Finon, D. (2019). Carbon policy in developing countries: Giving priority         a case study of the Argentinean carbon tax.
+   to non-price instruments. Energy Policy, 132(C), 38­43. https://doi.
+   org/10.1016/j.enpol.2019.04.046                                            Hallegatte, S., & Rozenberg, J. (2017). Climate change through a poverty
+                                                                                 lens. Nature Climate Change, 7(4), 250­256. https://doi.org/10.1038/
+Fischer, C. (2001). Rebating environmental policy revenues: Output-based         nclimate3253
+   allocations and tradable performance standards. Resources for the
+   Future.                                                                    Hu, Y., Ren, S., Wang, Y., & Chen, X. (2020). Can carbon emission trading
+                                                                                 scheme achieve energy conservation and emission reduction? Evidence
+Fischer, C., & Fox, A. K. (2012). Comparing policies to combat emissions         from the industrial sector in China. Energy Economics, 85, Article
+   leakage: Border carbon adjustments versus rebates. Journal of                 104590. https://doi.org/10.1016/j.eneco.2019.104590
+   Environmental Economics and Management, 64(2), 199­216. https://
+   doi.org/10.1016/j.jeem.2012.01.005                                         Huang, Y., & Bailis, R. (2015). Foreign policy `trilemmas': Understanding
+                                                                                 China's stance on international cap-and-trade. Climate Policy, 15(4),
+Fowlie, M. (2009). Incomplete environmental regulation, imperfect com-           494­516. https://doi.org/10.1080/14693062.2014.941319
+   petition, and emissions leakage. American Economic Journal: Economic
+   Policy, 1(2), 72­112. https://doi.org/10.1257/pol.1.2.72                   IKI. (2022). West African alliance on carbon markets and climate finance.
+                                                                                 International Climate Initiative (IKI). https://www.international-
+Freitas, L., Ribeiro, L., de Souza, K., & Hewings, G. (2016). The distribu-      climate-initiative.com/en/details/project/west-african-alliance-on-
+   tional effects of emissions taxation in Brazil and their implications for     carbon-markets-and-climate-finance-20_I_404-3134
+   climate policy. Energy Economics, 59, 37­44. https://doi.org/10.1016/j.
+   eneco.2016.07.021                                                          Ing, J., & Nicolai, J.-P. (2019). North-south diffusion of climate-mitigation
+                                                                                 technologies: The crowding-out effect on relocation. Environment and
+Frey, M. (2017). Assessing the impact of a carbon tax in Ukraine. Climate        Development Economics, 25(1), 21­43. https://doi.org/10.1017/
+   Policy, 17(3), 378­396. https://doi.org/10.1080/14693062.2015.                S1355770X19000445
+   1096230
+                                                                              Jakob, M., Chen, C., Fuss, S., Marxen, A., Rao, N. D., & Edenhofer, O.
+                                                                                 (2016). Carbon pricing revenues could close infrastructure access
+134  J. VAN DEN BERGH AND S. DREWS
+
+   gaps. World Development, 84, 254­265. https://doi.org/10.1016/j.              Economics, 183, Article 106945. https://doi.org/10.1016/j.ecolecon.
+   worlddev.2016.03.001                                                          2021.106945
+Jakob, M., & Steckel, J. C. (2014). How climate change mitigation could       Muhammad, I. (2022). Carbon tax as the most appropriate carbon pricing
+   harm development in poor countries. WIREs Climate Change, 5(2),               mechanism for developing countries and strategies to design an effec-
+   161­168. https://doi.org/10.1002/wcc.260                                      tive policy. AIMS Environmental Science, 9(2), 145­168. https://doi.
+Jarait, J., & Di Maria, C. (2016). Did the EU ETS make a difference? An          org/10.3934/environsci.2022012
+   empirical assessment using Lithuanian firm-level data. The Energy          Mundaca, G., Strand, J., & Young, I. R. (2021). Carbon pricing of inter-
+   Journal, 37(1), 1­23.                                                         national transport fuels: Impacts on carbon emissions and trade
+Jewell, J., McCollum, D., Emmerling, J., Bertram, C., Gernaat, D. E., Krey,      activity. Journal of Environmental Economics and Management, 110,
+   V., Paroussos, L., Berger, L., Fragkiadakis, K., Keppo, I., Saadi, N.,        Article 102517. https://doi.org/10.1016/j.jeem.2021.102517
+   Tavoni, M., van Vuuren, D., Vinichenko, V., & Riahi, K. (2018).            Narassimhan, E., Gallagher, K. S., Koester, S., & Alejo, J. R. (2018).
+   Limited emission reductions from fuel subsidy removal except in               Carbon pricing in practice: A review of existing emissions trading sys-
+   energy-exporting regions. Nature, 554(7691), 229­233. https://doi.            tems. Climate Policy, 18(8), 967­991. https://doi.org/10.1080/
+   org/10.1038/nature25467                                                       14693062.2018.1467827
+Kalkuhl, M., Steckel, J. C., & Edenhofer, O. (2020). All or nothing: Climate  Nekrasenko, L. A., Prokopenko, O. V., & Aranchiy, V. I. (2015). Carbon
+   policy when assets can become stranded. Journal of Environmental              tax as an instrument of environmental management in Ukraine.
+   Economics and Management, 100, 102214. https://doi.org/10.1016/j.                (Actual Problems of Economics),
+   jeem.2019.01.012                                                              3(165), 196­202.
+Karapinar, B., Dudu, H., Geyik, O., & Mert Yakut, A. (2019). How to           Nogrady, B. (2021, July 20). China launches world's largest carbon mar-
+   reach an elusive INDC target: Macro-economic implications of carbon           ket. Nature.
+   taxation and emissions trading in Turkey. Climate Policy, 19(9), 1157­     Nordhaus, W. D. (2015). Climate clubs: Overcoming free-riding in inter-
+   1172. https://doi.org/10.1080/14693062.2019.1635875                           national climate policy. American Economic Review, 105(4), 1339­
+Kat, B., Paltsev, S., & Yuan, M. (2018). Turkish energy sector development       1370. https://doi.org/10.1257/aer.15000001
+   and the Paris Agreement goals : A CGE model assessment. Energy             Nordhaus, W. D. (2021). Dynamic climate clubs: On the effectiveness of
+   Policy, 122, 84­96. https://doi.org/10.1016/j.enpol.2018.07.030               incentives in global climate agreements. PNAS, 118(45), e2109988118.
+Kearney, M. (2008). Modeling the impact of CO2 taxes in combination with         https://doi.org/10.1073/pnas.2109988118
+   the long-term mitigation scenarios on emissions in South Africa using a    Nurdianto, D. A., & Resosudarmo, B. P. (2016). The economy-wide
+   dynamic computable general equilibrium model. University of Cape              impact of a uniform carbon tax in ASEAN. Journal of Southeast
+   Town: Energy Research Centre (ERC). http://www.erc.uct.ac.za/                 Asian Economies, 33(1), 1­22. https://doi.org/10.1353/ase.2016.0009
+   Research/publications/08Kearney-Dynamic_CGE_on_LTMS.pdf                    Ohlendorf, N., Jakob, M., Minx, J. C., Schröder, C., & Steckel, J. C. (2021).
+King, L., & van den Bergh, J. (2019). Normalisation of Paris Agreement           Distributional impacts of carbon pricing: A meta-analysis.
+   NDCs to enhance transparency and ambition. Environmental                      Environmental and Resource Economics, 78(1), 1­42. https://doi.org/
+   Research Letters, 14(8), 084008. https://doi.org/10.1088/1748-9326/           10.1007/s10640-020-00521-1
+   ab1146                                                                     Ojha, V. P., Pohit, S., & Ghosh, J. (2020). Recycling carbon tax for inclus-
+King, L., & van den Bergh, J. (2021). Potential carbon leakage under the         ive green growth: A CGE analysis of India. Energy Policy, 144, Article
+   Paris Agreement. Climatic Change, 165(3­4), 52. https://doi.org/10.           111708. https://doi.org/10.1016/j.enpol.2020.111708
+   1007/s10584-021-03082-4                                                    Orlov, A., Grethe, H., & McDonald, S. (2013). Carbon taxation in Russia:
+Köppl, A., & Schratzenstaller, M. (2022). Carbon taxation: A review of the       Prospects for a double dividend and improved energy efficiency.
+   empirical literature. Journal of Economic Surveys, 37(4), 1353­1388.          Energy Economics, 37, 128­140. https://doi.org/10.1016/j.eneco.2013.
+Landa Rivera, G., Reynès, F., Islas Cortes, I., Bellocq, F.-X., & Grazi, F.      01.008
+   (2016). Towards a low carbon growth in Mexico: Is a double dividend        Pauw, K. (2007). Economy-wide modeling: An input into the long
+   possible? A dynamic general equilibrium assessment. Energy Policy, 96,        term mitigation scenarios process (LTMS Input Report 4). Energy
+   314­327. https://doi.org/10.1016/j.enpol.2016.06.012                          Research Centre. http://www.erc.uct.ac.za/Research/publications/07-
+Leimbach, M., & Giannousakis, A. (2019). Burden sharing of climate               Pauw-LTMSEconomywide_modelling.pdf
+   change mitigation: Global and regional challenges under shared             Ritchie. (2023). Global inequalities in CO2 emissions. https://
+   socio-economic pathways. Climatic Change, 155(2), 273­291. https://           ourworldindata.org/inequality-co2
+   doi.org/10.1007/s10584-019-02469-8                                         Rivers, N., & Schaufele, B. (2015). Salience of carbon taxes in the gasoline
+Liu, A. A. (2013). Tax evasion and optimal environmental taxes. Journal of       market. Journal of Environmental Economics and Management, 74, 23­
+   Environmental Economics and Management, 66(3), 656­670.                       36. https://doi.org/10.1016/j.jeem.2015.07.002
+Magacho, G., Espagne, E., & Godin, A. (2024). Impacts of the CBAM on          Roelfsema, M., van Soest, H. L., Harmsen, M., van Vuuren, D. P.,
+   EU trade partners: Consequences for developing countries. Climate             Bertram, C., den Elzen, M., Höhne, N., Iacobuta, G., Krey, V.,
+   Policy, 24(2), 243­259. https://doi.org/10.1080/14693062.2023.2200758         Kriegler, E., Luderer, G., Riahi, K., Ueckerdt, F., Després, J., Drouet,
+Mardones, C., & Flores, B. (2017). Evaluation of a CO2 tax in Chile:             L., Emmerling, J., Frank, S., Fricko, O., Gidden, M., ...
+   Emissions reduction or design problems? Latin American Research               Vishwanathan, S. S. (2020). Taking stock of national climate policies
+   Review, 52(3), 334­343. https://doi.org/10.25222/larr.33                      to evaluate implementation of the Paris Agreement. Nature
+Mardones, C., & Lipski, M. (2020). A carbon tax on agriculture? A CGE            Communications, 11(1), 2096. https://doi.org/10.1038/s41467-020-
+   analysis for Chile. Economic Systems Research, 32(2), 262­277. https://       15414-6
+   doi.org/10.1080/09535314.2019.1676701                                      Rojon, I., Lazarou, N.-J., Rehmatulla, N., & Smith, T. (2021). The impacts
+Mattoo, A., Subramanian, A., van der Mensbrugghe, D., & He, J. (2012).           of carbon pricing on maritime transport costs and their implications
+   Can global de-carbonization inhibit developing country industrializ-          for developing economies. Marine Policy, 132, Article 104653.
+   ation? World Bank Economic Review, 26(2), 296­319. https://doi.org/           https://doi.org/10.1016/j.marpol.2021.104653
+   10.1093/wber/lhr047                                                        Romero, G., Alvarez-Espinosa, A., Calderon, S., & Ordonez, A. (2018).
+Merven, B., Moyo, A., Stone, A., Dane, A., & Winkler, H. (2014). The             Redistributive impacts of a carbon tax in Colombia: The link
+   socio-economic implications of mitigation in the power sector including       between models of microsimulations and general equilibrium.
+   carbon taxes in South Africa (Working Paper). http://www.erc.uct.ac.za        Lecturas de Economía, 89(89), 163­198. https://doi.org/10.17533/
+Metcalf, G. E. (2021). Carbon taxes in theory and practice. Annual Review        udea.le.n89a06
+   of Resource Economics, 13(1), 245­265. https://doi.org/10.1146/            Rose, J., Bensch, G., Munyehirwe, A., & Peters, J. (2022). The forgotten
+   annurev-resource-102519-113630                                                coal: Charcoal demand in sub-Saharan Africa. World Development
+Moz-Christofoletti, M. A., & Pereda, P. C. (2021). Winners and losers:           Perspectives, 25, Article 100401. https://doi.org/10.1016/j.wdp.2022.
+   The distributional impacts of a carbon tax in Brazil. Ecological              100401
+                                                                                  CLIMATE AND DEVELOPMENT  135
+
+Sen, S., & Vollebergh, H. (2018). The effectiveness of taxing the carbon          van den Bergh, J., & Savin, I. (2021). Impact of carbon pricing on low-car-
+   content of energy consumption. Journal of Environmental Economics                 bon innovation and deep decarbonisation: Controversies and path for-
+   and Management, 92, 74­99. https://doi.org/10.1016/j.jeem.2018.08.                ward. Environmental and Resource Economics, 80, 705­715.
+   017
+                                                                                  van den Bergh, J., van Beers, C., & King, L. (2024). Prioritise carbon pri-
+Skovgaard, J., & van Asselt, H. (2019). The politics of fossil fuel subsidies        cing over fossil-fuel subsidy reform. iScience, 27(1), Article 108584.
+   and their reform: Implications for climate change mitigation. WIREs               https://doi.org/10.1016/j.isci.2023.108584
+   Climate Change, 10(4), e581. https://doi.org/10.1002/wcc.581
+                                                                                  Van Heerden, J., Gerlagh, R., Blignaut, J., Horridge, M., Hess, S., Mabugu,
+Soergel, B., Kriegler, E., Bodirsky, B. L., Bauer, N., Leimbach, M., & Popp,         R., & Mabugu, M. (2006). Searching for triple dividends in South
+   A. (2021). Combining ambitious climate policies with efforts to eradi-            Africa: Fighting CO2 pollution and poverty while promoting growth.
+   cate poverty. Nature Communications, 12(1), 2342. https://doi.org/10.             The Energy Journal, 27(2), 113­142. https://doi.org/10.5547/
+   1038/s41467-021-22315-9                                                           ISSN0195-6574-EJ-Vol27-No2-7
+
+Sousa, R., Álvarez-Espinosa, A. C., Rojas Pardo, N., Melo Leon, S. F.,            Vera, S., & Sauma, E. (2015). Does a carbon tax make sense in countries
+   Romero Otalora, G., Calderon Diaz, S., Vazão, C., Martins Barata,                 with still a high potential for energy efficiency? Comparison between
+   P., & Riveros Salcedo, L. (2020). Emissions trading in the development            the reducing-emissions effects of carbon tax and energy efficiency
+   model of Colombia. Climate Policy, 20(9), 1161­1174. https://doi.org/             measures in the Chilean case. Energy, 88, 478­488. https://doi.org/10.
+   10.1080/14693062.2020.1808436                                                     1016/j.energy.2015.05.067
+
+Steckel, J. C., Dorband, I. I., Montrone, L., Ward, H., Missbach, L.,             Vorster, S., Winkler, H., & Jooste, M. (2011). Mitigating climate change
+   Hafner, F., ... Renneret, S. (2021a). Distributional impacts of carbon            through carbon pricing: An emerging policy debate in South Africa.
+   pricing in developing Asia. Nature Sustainability, 4(11), 1005­1014.              Climate and Development, 3(3), 242­258. https://doi.org/10.1080/
+   https://doi.org/10.1038/s41893-021-00758-8                                        17565529.2011.598367
+
+Steckel, J. C., Jakob, M., Flachsland, C., Kornek, U., Lessmann, K., &            Wang, L., Chen, W., Pan, X.-Z., Li, N., Wang, H., Li, D., & Chen, H.
+   Edenhofer, O. (2017). From climate finance toward sustainable devel-              (2018). Scale and benefit of global carbon markets under the 2°C
+   opment finance. WIREs Climate Change, 8(1), e437. https://doi.org/10.             goal: Integrated modeling and an effort-sharing platform. Mitigation
+   1002/wcc.437                                                                      and Adaptation Strategies for Global Change, 23(8), 1207­1223.
+                                                                                     https://doi.org/10.1007/s11027-018-9781-4
+Steckel, J. C., Renner, S., & Missbach, L. (2021b). Distributional impacts of
+   carbon pricing in low- and middle-income countries. CESifoFOrmum,              Ward, H., Steckel, J. C., & Jakob, M. (2019). How global climate policy
+   22(5), 26­32.                                                                     could affect competitiveness. Energy Economics, 84, Article 104549.
+                                                                                     https://doi.org/10.1016/j.eneco.2019.104549
+Stern, D. (2012, September 3). Where is it cheapest to cut carbon emis-
+   sions? The Conversation. https://theconversation.com/where-is-it-              Weitzman, M. L. (2014). Can negotiating a uniform carbon price help to
+   cheapest-to-cut-carbon-emissions-9229                                             internalize the global warming externality? Journal of the Association of
+                                                                                     Environmental and Resource Economists, 1(1/2), 29­49. https://doi.
+Stoerk, T., Dudek, D. J., & Yang, J. (2019). China's national carbon emis-           org/10.1086/676039
+   sions trading scheme: Lessons from the pilot emission trading
+   schemes, academic literature, and known policy details. Climate                Weitzman, M. L. (2017). On a world climate assembly and the social cost
+   Policy, 19(4), 472­486. https://doi.org/10.1080/14693062.2019.                    of carbon. Economica, 84(336), 559­586. https://doi.org/10.1111/ecca.
+   1568959                                                                           12248
+
+Taconet, N., Méjean, A., & Guivarch, C. (2020). Influence of climate              Weng, Y., Zhang, D., Lu, L., & Zhang, X. (2018). A general equilibrium
+   change impacts and mitigation costs on inequality between countries.              analysis of floor prices for China's national carbon emissions trading
+   Climatic Change, 160(1), 15­34. https://doi.org/10.1007/s10584-019-               system. Climate Policy, 18(sup1), 60­70. https://doi.org/10.1080/
+   02637-w                                                                           14693062.2018.1464895
+
+Tagliapietra, S., & Wolff, G. B. (2021). Form a climate club: United States,      Winkler, H. (Ed.). (2007). Long term mitigation scenarios: technical report
+   European Union and China. Nature, 591(7851), 526­528. https://doi.                (with Alison Hughes, Mary Haw, Andrew Marquard, Bruno Merven,
+   org/10.1038/d41586-021-00736-2                                                    Rina Taviv, Bob Scholes, Marna van der Merwe, Gill Collet, Gerrit
+                                                                                     Kornelius, Kalie Pauw, Guy Midgley, Pierre Mukheibir). Prepared by
+Timilsina, G. R. (2022). Carbon taxes. Journal of Economic Literature,               the Energy Research Centre for Department of Environment Affairs
+   60(4), 1456­1502. https://doi.org/10.1257/jel.20211560                            and Tourism. http://www.erc.uct.ac.za/Research/LTMS/LTMS-intro.
+                                                                                     htm
+Timperley, J. (2021). The broken $100-billion promise of climate finance
+   ­ and how to fix it. Nature, 598(7881), 400­402. https://doi.org/10.           Winkler, H., & Marquard, A. (2010). Putting a price on carbon in the con-
+   1038/d41586-021-02846-3                                                           text of development. Climate Policy, 10(5), 489­493. https://doi.org/10.
+                                                                                     3763/cpol.2010.0690
+Tirpak, D., & Adams, H. (2008). Bilateral and multilateral financial assist-
+   ance for the energy sector of developing countries. Climate Policy, 8(2),      Wolde-Rufael, Y., & Mulat-Weldemeskel, E. (2021). Do environmental
+   135­151. https://doi.org/10.3763/cpol.2007.0443                                   taxes and environmental stringency policies reduce CO2 emissions?
+                                                                                     Evidence from 7 emerging economies. Environmental Science and
+UN Tax Committee. (2021). UN handbook on carbon taxation for devel-                  Pollution Research, 28(18), 22392­22408. https://doi.org/10.1007/
+   oping countries (2021). United Nations Committee of Experts on                    s11356-020-11475-8
+   International Cooperation in Tax Matters, United Nations. https://
+   www.un.org/development/desa/financing/sites/www.un.org.                        Wong, K. Y., Chuah, J. H., & Hope, C. (2016). Carbon taxation in
+   development.desa.financing/files/2021-10/Carbon%20Taxation.pdf                    Malaysia: Insights from the enhanced PAGE09 integrated assessment
+                                                                                     model. Carbon Management, 7(5­6), 301­312. https://doi.org/10.
+van den Bergh, J. C. J. M., Angelsen, A., Baranzini, A., Botzen, W. J. W.,           1080/17583004.2016.1237179
+   Carattini, S., Drews, S., Dunlop, T., Galbraith, E., Gsottbauer, E.,
+   Howarth, R. B., Padilla, E., Roca, J., & Schmidt, R. C. (2020). A dual-        Wong, K. Y., Chuah, J. H., & Hope, C. (2019). As an emerging economy,
+   track transition to global carbon pricing. Climate Policy, 20(9),                 should Malaysia adopt carbon taxation? Energy and Environment,
+   1057­1069. https://doi.org/10.1080/14693062.2020.1797618                          30(1), 91­108. https://doi.org/10.1177/0958305X18787273
+
+van den Bergh, J., & Botzen, W. (2018). Impact of a climate treaty if             World Bank Group. (2023). State and trends of carbon pricing 2023.
+   the Human Development Index replaces GDP as welfare proxy. Climate                World Bank. https://openknowledge.worldbank.org/entities/
+   Policy, 18(1), 76­85. https://doi.org/10.1080/14693062.2016.1227954               publication/58f2a409-9bb7-4ee6-899d-be47835c838f
+
+van den Bergh, J., & Botzen, W. (2024). Assessing criticisms of carbon pri-       Yahoo, M., & Othman, J. (2017). Carbon and energy taxation for CO2
+   cing. International Review of Environmental and Resource Economics,               mitigation: A CGE model of the Malaysia. Environment,
+   18(3), 315­384. https://doi.org/10.1561/101.00000172                              Development and Sustainability, 19(1), 239­262. https://doi.org/10.
+                                                                                     1007/s10668-015-9725-z
+van den Bergh, J., Castro, J., Drews, S., Exadaktylos, F., Foramitti, J., Klein,
+   F., Konc, T., & Savin, I. (2021). Designing an effective climate-policy        Yusuf, A. A., & Resosudarmo, B. P. (2015). On the distributional impact
+   mix: Accounting for instrument synergy. Climate Policy, 21(6), 745­               of a carbon tax in developing countries: The case of Indonesia.
+   764. https://doi.org/10.1080/14693062.2021.1907276
+136  J. VAN DEN BERGH AND S. DREWS
+
+   Environmental Economics and Policy Studies, 17(1), 131­156. https://       it serves regional distributional objectives, an essential part of centralized
+   doi.org/10.1007/s10018-014-0093-y                                          Chinese governance. In addition, electricity producers bear a larger share
+Zhang, W., Li, J., Li, G., & Guo, S. (2020). Emission reduction effect and    of the overall economic burden under the TPS than under C&T and con-
+   carbon market efficiency of carbon emissions trading policy in China.      sumers a smaller share. Whether this is good for the economy and devel-
+   Energy, 196, Article 117117. https://doi.org/10.1016/j.energy.2020.        opment, and consumers in the long run, is questionable. Finally, the
+   117117                                                                     approach results in less intersectoral leakage (to sectors not part of the
+Zhang, Y., Liu, Z., & Xu, Y. (2018). Carbon price volatility: The case of     TPS system) as well as international leakage as electricity prices do not
+   China. PLoS One, 13(10), e0205317.                                         go up as much as under C&T. This might be useful for other countries
+Zhang, J., & Zhang, Y. (2020). Could the ETS reduce tourism-related CO2       who consider implementing a carbon market with partial coverage, i.e.
+   emissions and carbon intensity? A quasi-natural experiment. Asia           not all sectors included. In other words, the shortcomings of the TPS sys-
+   Pacific Journal of Tourism Research, 25(9), 1029­1041. https://doi.        tem to the ideal C&T become an advantage if not ideally implemented, i.e.
+   org/10.1080/10941665.2020.1819837                                          with incomplete coverage. The overall conclusion of the study by Goulder
+Zhou, K., & Li, Y. (2019). Carbon finance and carbon market in China:         is that `China's nationwide CO2 emissions trading system, a tradable per-
+   Progress and challenges. Journal of Cleaner Production, 214, 536­          formance standard, has the potential to make a very substantial contri-
+   549. https://doi.org/10.1016/j.jclepro.2018.12.298                         bution to the world's efforts to confront global climate change'. This is
+                                                                              an impressive study which clarifies TPS, its diverse impacts, and its differ-
+Appendix. Studies of carbon-pricing per region/                               ences with C&T. The results may help both Chinese planners to improve
+country                                                                       the system and other countries to decide which type of carbon market to
+                                                                              implement, given political and economic features.
+Note: if a region or country is missing, it means we did not find any
+relevant study.                                                                   The innovative and comprehensiveness of Goulder et al.'s study ren-
+                                                                              ders obsolete most of the earlier research, based on data generated by Chi-
+A.1. Asia                                                                     na's seven pilot ETSs launched from 2013 on. Nevertheless, to give a
+                                                                              flavour of that, a few studies are worth mentioning. Zhou and Li (2019)
+China                                                                         provide more background to China's carbon market, with informative
+                                                                              discussions of different types of carbon markets and of carbon trading
+In mid-2021, actual implementation of the long-awaited carbon market in       pilots in China. Generally, these studies find that China's emission trading
+China was realized. First designed in 2011, already in 2013, the Chinese      system (ETS) has been effective in reducing CO2 emissions. Based on
+government initiated seven pilot ETS programmes in the regions of Beij-       panel data of the two-digit industry at province level from 2005 to
+ing, Tianjin, Shanghai, Chongqing, Shenzhen, Guangdong, and Hubei.            2015, Hu et al. (2020) adopt a difference-in-differences (DID) econo-
+Not only did this allow China to learn from pilot experience and improve      metric model to examine the effects of China's ETS on energy conserva-
+its final market design, but it also provided an empirical basis to under-    tion and emission reduction. It finds that energy consumption of the
+take academic studies. The features of China's carbon market are              regulated industries in pilot areas decreased by 22.8% and CO2 emissions
+described in detail by Stoerk et al. (2019), and compared with other sys-     by 15.5%, compared to those in nonpilot areas. These effects are mainly
+tems in operation, by Narassimhan et al. (2018), and formally-numeri-         driven by improved technical efficiency and changed industrial structure.
+cally analysed in a recent study by Goulder et al. (2022). It concerns a      ETS performs better in areas with high levels of environmental enforce-
+nationwide CO2 emissions trading system which is unconventional, i.e.         ment and marketization. Numerous studies examine the impact of Chi-
+deviates from the proposed textbook system as well as from other carbon       na's ETS on carbon emissions and economic growth. Using the
+markets in the world. The first phase of the system limits itself to China's  common DID method and Data envelopment analysis (DEA), Zhang
+electricity power sector, covering more than 2000 coal-fired power plants     et al. (2020) find for the period 2014­2016 an economic dividend of
+and accounting for over 40% of China's total CO2 emissions. Electricity       13.6% higher gross industrial output value and a reduction of 24.2% in
+prices historically had been set by the government, but continual reform      industrial CO2 emissions in the seven pilot regions. Similarly, a study
+since 1985 has resulted in a third of electricity output now being sold at    by Dong et al. (2019) examines the two dividends ­ economic and
+competitive market prices. The system employs a tradable performance          environmental (what they refer to as the Porter hypothesis) as a conse-
+standard (TPS), an instrument with a rate-based cap. i.e. applying to         quence of the pilot ETS of China since 2013. Also analysing data using
+the ratio of emissions to output. As shown by Fischer (2001), this instru-    the DID method they find no (short-term) Porter effect. However,
+ment implicitly subsidizes output while it taxes emissions. The number of     using a nonparametric mathematical programming technology model
+emissions allowances granted to a facility in each compliance period is the   they find the Porter effect as a potential long-term outcome if the ETS
+product of its assigned `benchmark' (maximum allowable emissions              is applied to the whole of China.
+intensity, which differ between emitters for distributional goals) and its
+level of output. The latter means, as opposed to a conventional cap-              Since China and its economy are so large, one can find studies for
+and-trade (C&T) system6 that an emitter can influence its allowance allo-     China on topics that when studied for other parts of the world usually
+cation through its choice of output during the compliance period, in turn     employ data from multiple countries. An example is a study by Gao
+affecting firms' production decisions, emission levels and indirectly cost-   et al. (2020) on how China's ETS affects carbon emissions and carbon
+effectiveness and distributional impacts. Implicitly the approach subsi-      leakage. The study covers 28 industries in 30 provinces during 2005­
+dizes electricity output, as it effectively avoids using output-reduction as  2015, using provincial environmentally extended input­output tables
+a mechanism channel for emissions reducing. This encourages electricity       and difference-in-differences econometric models. Findings are that
+power plants with relatively low emissions-output ratios to expand out-       ETS contributes to emissions mitigation, has greater effect on the mitiga-
+put, which is more compatible with economic growth than C&T.                  tion of production-based emissions than consumption-based emissions,
+                                                                              encourages outsourcing of emissions from pilot areas to non-pilot areas
+    The mentioned study by Goulder et al. develops a simplified theoreti-     (carbon leakage). Other questions have been addressed in the multitude
+cal and a more disaggregated empirical partial-equilibrium model to com-      of studies addressing China's ETS. Zhang et al. (2018) examine carbon
+pare numerical simulations of the TPS's impacts with those of a C&T           price volatility in China using data on carbon spot prices from November
+system with similar coverage and achieving the same national emissions        2013 to May 2017 in the seven carbon pilots. They find that the Chinese
+reduction. The central estimate of achieved emissions reduction equals        carbon market fluctuated severely at the beginning of carbon trading but
+4.3% of initial emissions (equivalent with 116.8 million tons CO2) for        has stabilized subsequently. They also note that volatility reacts more
+an allowance price of 117 RMB (±18US$). Cost-effectiveness is found           severely to good than bad news. They provide lessons for other developing
+to be 34% higher than when China would have used a conventional               countries. Finally, Weng et al. (2018) argue that to guarantee that China's
+C&T system of emissions permits. The advantage of the system is that          carbon price signal is strong enough to support the achievement of Chi-
+                                                                              na's climate change targets given uncertainties about long term economic
+                                                                              growth, its carbon market needs a carbon price floor. The authors simu-
+                                                                              late the China-in-Global Energy Model (C-GEM) and find that a price
+                                                                               CLIMATE AND DEVELOPMENT  137
+
+floor path of $4 before 2020, $8 between 2021 and 2025 and $12 between         reduction in CO2 emissions compared to a reference scenario and a tax
+2026 and 2030 (2011 constant price) is able to guarantee China's climate       burden of 4.62% of national income by 2030. A carbon tax levied on
+pledges with a 90% chance.                                                     energy use would raise production losses in fossil fuel-intensive sectors,
+                                                                               amounting to an 8.7% decrease in total national income by 2030. Acar
+Other Asian countries                                                          and Yeldan (2016) also examine the impacts of coal subsidies in Turkey,
+                                                                               using a general equilibrium analysis. They find that through eliminating
+Although India is a large emitter, it only recently is considering             coal subsidies, Turkey can reduce its emissions by as much as 5% without
+implementation of pricing.7 In July 2024, the Indian government adopted        a significant loss in its GDP. Finally, Gevrek and Uyduranoglu (2015)
+a detailed plan for a Carbon Credit Trading Scheme (CCTS), as explained        undertakes a study of public preferences regarding carbon tax design in
+in a draft report of The Bureau of Energy Efficiency (BEE, 2023). The          Turkey. It finds that people dislike personal costs and prefer a progressive
+scheme intends to cover sectors like aluminium, cement, fertilizer, iron       impact, earmarking tax revenues (possibly reflecting distrust in the gov-
+and steel, pulp and paper, textile, thermal power plant, petroleum refin-      ernment), and information provision about carbon tax effectiveness,
+ery, and hotels. Given the recent nature of this plan, few studies have        with earmarking having the largest weight.
+examined carbon pricing and its potential impacts for India. Ojha et al.
+(2020) argue that India's disinterest in a carbon tax is because of supposed       A study by Nurdianto and Resosudarmo (2016) analyses the benefits
+detrimental effects on economic growth and the income distribution.            and losses associated with cooperation among ASEAN members (Brunei,
+They suggest that this conflict can be partially overcome through a double     Myanmar, Cambodia, Timor-Leste, Indonesia, Laos, Malaysia, the Philip-
+dividend from a carbon tax, which depends upon how the tax revenue is          pines, Singapore, Thailand and Vietnam) in mitigating their CO2 emis-
+recycled. To study this, the authors study a carbon tax for `inclusive green   sions, particularly by implementing a uniform carbon tax. To this end a
+growth' by exploring use of tax revenue for investment to build capacity in    multi-country computable general equilibrium model, the Inter-Regional
+either all sectors or exclusively in clean energy sectors, and through trans-  System of Analysis for ASEAN (IRSA-ASEAN) model is used. The results
+fers to poor households. Their analysis is based on a recursively dynamic      indicate that the implementation of a uniform carbon tax will effectively
+CGE model for India with disaggregated energy sectors and an endogen-          reduce carbon emissions in the whole region, but also give rise to GDP
+ous income distribution module. The findings are that a carbon tax, no         contraction and reduction in household income. Indonesia and Malaysia
+matter how it is recycled, cannot promote inclusive green growth, in           can potentially gain as they have already significant energy subsidies.
+spite of some double dividend effect; investment in clean energy sectors
+is beneficial only in terms of climate change mitigation, but not in               Using the well-known PAGE09 integrated assessment model (IAM),
+terms of GDP or income distribution; fears of major GDP losses due to          Wong et al. (2016) identify an optimal carbon price path for Malaysia.
+carbon taxes are unwarranted: GDP losses are less than 0.1% for emissions      They find an initial carbon tax in 2020 of about US$68.40/tCO2 in con-
+reduction of a little more than 3.6%. Employment effects cannot be esti-       stant 2005 US$ prices under the A1B Business-as-Usual (BAU) scenario,
+mated as the model assumes full employment. Income distribution                rising steadily to around US$225.14/tCO2 in 2050. However, this study
+becomes slightly more inequitable, namely rises with 0.06 points until 2040.   does not examine emissions reduction by Malaysia itself as it derives
+                                                                               the optimal carbon price path from a world model through applying a
+    Indonesia, is one of the largest carbon emitters among developing          country-specific (relatively low) social cost of carbon for Malaysia.
+countries. Yusuf and Resosudarmo (2015) analyse the distributional             Under a low-emissions scenario, it would be a lower tax at around US
+impact of a carbon tax in Indonesia using a computable general equili-         $33.31/tCO2 in 2020 rising to US$100.93/tCO2 in 2050. For a related
+brium model with highly disaggregated household groups. They find              broader discussion of the pros and cons of Malaysia implementing a car-
+that a carbon tax is not necessarily regressive, affecting relatively much     bon tax, see Wong et al. (2019), while for business managers' opinions in
+urban (versus rural) and higher-income households. The study also              this respect see Devi and Wong (2010). Another quantitative study by
+shows that revenue-recycling through a uniform reduction in the com-           Yahoo and Othman (2017) used a computable general equilibrium
+modity tax rate may reduce the adverse aggregate output effect, whereas        model with explicit energy-emission linkages to assess the economy-
+uniform lump-sum transfers may enhance progressivity. See further              wide and welfare impacts of carbon and energy tax policies in Malaysia.
+Steckel et al. (2021a ) who study distributional aspects of carbon pricing     They find that carbon taxation gives the best welfare outcome if its reven-
+in eight key countries in developing Asia, namely Bangladesh, India,           ues are used for consumer subsidies on household purchases. Carbon
+Indonesia, Pakistan, Philippines, Thailand, Turkey and Vietnam,                taxation is further found to reduce emission more than energy taxation.
+finding also regressive outcomes.
+                                                                                   A study for Sri Lanka by Fernando and Liyanage (2020) assesses
+    Another large emitter is Turkey. Employing a computable general            alternative carbon price trajectories based on the fifth Shared Socioeco-
+equilibrium model, Karapinar et al. (2019) examine how carbon pricing,         nomic Pathway (SSP5) to achieve the 2°C Paris target for Asia, proposed
+either through a carbon tax or a national ETS would affect Turkey's econ-      by three IAM models: AIM/CGA, REMIND-MAgPIE and GCAM. The
+omy and emissions. The modelling reflects the three main policy options        energy-economic-environmental system of Sri Lanka was modelled
+for the government by 2030, in the context of Turkey's Intended Nation-        using the AIM/Enduse model. It considered both energy supply and
+ally Determined Contribution (INDC) under the Paris Agreement. This            demand sectors. The results show that in the BAU scenario the GHG
+comes down to reducing GHG emissions by up to 21% from its                     emissions are expected to increase from 19.8MtCO2e in 2015 to
+business-as-usual (BAU) scenario in 2030. This is aimed to be achieved         106.2MtCO2e in 2050. Out of three carbon tax scenarios (price path start-
+through: (i) improving the productivity of renewable energy by 1% per          ing in 2020 or 2030, and rising up to 200, more than 250 or more than 450
+annum, (ii) introducing a tax of 15% per ton of CO2 originating from car-      US$/tCO2 in 2050). The prices proposed by AIM/CGA come out as the
+bon-intensive sectors, and (iii) introducing an ETS with caps on emission      most efficient, reducing final GHG emissions by up to 24% in 2050 as
+permits. The policies reduce the shares of agriculture, industry, and trans-   compared to the BAU.
+portation, but not more than 1%, while the service sector benefits most. In
+addition, it is found that unemployment rates are lower, economic growth           Ideas about carbon pricing in the Middle East are discussed in Al-
+is stronger, and households are better off under an ETS than under carbon      Attiyah Foundation (2020), focusing on Gulf Cooperation Council
+taxation. Another study by Kat et al. (2018) examined the potential impli-     (GCC) countries. It considers implementing a carbon tax in such countries
+cations of an emission trading system with a CGE model with a disaggre-        to be challenging because of economic dominance of energy-intensive
+gated power sector representation. Using a 4% GDP growth trajectory,           industries, considerable energy subsidies in place, inefficient energy sys-
+higher than IMF estimations but lower than the Turkish government's            tems (but hence also options for cheap emissions reduction), and state
+projections, under an ETS emissions would be 21% lower than under a            monopolies of fossil-fuel industries being common (but hence few players
+BAU scenarios, and coal-fired power generation would vanish by 2030            which can be easily monitored). In addition, due to low income and cor-
+due to the high cost of carbon: namely $50/t CO2 market price with             porate taxes, there is little room for shifting such taxes to carbon taxes
+nuclear and $70/t CO2 without. The economic cost would amount to               (and enjoy a double dividend). However, the report regards the EU's
+0.8­1% of the GDP by 2030. A third study by Acar et al. (2016) examined        intention to implement a carbon border tax as a threat to Middle Eastern
+potential macroeconomic impacts of a carbon tax, finding a 21%                 exports of oil, gas and energy-intensive materials and products. By adopt-
+                                                                               ing their own carbon pricing, Middle Eastern countries would protect
+                                                                               their economies while setting in motion a low-carbon transition. The
+138  J. VAN DEN BERGH AND S. DREWS
+
+Middle East could also connect to the EU-ETS and additionally                  point between $10 and $20: while at $10 emissions reductions is 5%
+implement a carbon tax for sectors not covered by it, notably road trans-      lower by 2040, at $20 it drops with 50%, and increasing up to $50 only
+port. Joint carbon pricing, whether through a tax or market, would also        reduces emissions by another 12%. The highest tax would reduce GDP
+assure that carbon leakage among GCC countries, relevant as they com-          with 6.1% compared to the lowest tax only 0.7% (all in 2040).
+pete strongly in international fossil fuel markets. Success would further
+require that subsidies on fossil fuel products are removed, to not have        Other countries in Africa
+two opposing policies. Pricing revenues could support affected firms to
+adapt, compensate low-income consumers, and fund renewable energy              Others have evaluated the potential for carbon markets in Africa more
+and energy efficiency projects. In addition, Ezenagu (2021) explores the       positively. Witness the `West African Alliance on Carbon Markets and Cli-
+potential impacts of a carbon tax system for Middle East and North Afri-       mate Finance', formed in 2017 by 16 countries with the aim to jointly
+can (MENA) economies and evaluates potential legal and logistical bar-         tackle issues relating to accessing carbon markets and climate finance
+riers to its implementation.                                                   for their NDC implementation. The countries include Benin, Burkina
+                                                                               Faso, Cape Verde, Gambia, Ghana, Guinea, Guinea-Bissau, Ivory Coast,
+A.2. Africa                                                                    Liberia, Mali, Mauritania, Niger, Nigeria, Senegal, Sierra Leone, Togo.
+                                                                               Four central themes are (IKI, 2022): carbon markets and pricing, trans-
+South Africa                                                                   parency, climate finance and technology transfer. A roundtable was orga-
+                                                                               nized in July 2020, the first of its kind in Africa. The short-term practical
+Not surprisingly, given it has a carbon tax since June 2019,8 and there was    aim of the Alliance is to create in each member state a national platform
+a long preparation of it, various studies have been devoted to a carbon tax    for practitioners, to allow consultation and capacity building related to
+in South Africa, some of them motivating its implementation (Vorster           Article 6 of the Paris Agreement about cooperation between countries,
+et al., 2011). A broad background to mitigation policies and programmes        notably through linking national carbon trading, to achieve emission
+is offered by Chandrashekeran et al. (2017). They conclude that although       reduction targets. However, there is not clear aim for a uniform carbon
+South Africa is often sold as an emerging green state, its climate perform-    price in alliance countries, which would be good as it would mean a sig-
+ance is actually rather weak. Nevertheless, as argued by Winkler and Mar-      nificant scale (especially if a large economy is Nigeria's is included), in
+quard (2010), South Africa represents an interesting case given it is a        turn offering ample opportunities for costs saving through emissions
+relatively emissions-intensive developing economy due to its sizeable          trading. In addition, this would avoid competitiveness effects and carbon
+industrial base. In the initial debate, the choice between emissions trading   leakage due to considerable overlap between export products from these
+and carbon taxation was on the table. Goldblatt (2010) offers an overview      countries.9
+of the arguments at the time, concluding on the basis of a broad set of pol-
+icy criteria that taxation works better for a middle-income developing             Finally, Arndt et al. (2019) use integrated assessment modelling, com-
+country like South Africa. One important consideration is that South           bining biophysical (climate and ecosystems) and economic modules
+Africa's market concentration of firms in the energy sector may hamper         (including emissions and policy costs), to assess the economic and emis-
+realization of a competitive national carbon market as too few firms           sions impact of climate change and global mitigation policies on countries
+will trade permits.                                                            connected to the Zambezi river basin, namely Malawi, Mozambique, and
+                                                                               Zambia. They find that effective global mitigation policies ­ unspecified,
+    Analysis of (hypothetical) carbon taxation in South Africa starts with     but arguably carbon pricing, generate two sources of benefit: more favour-
+the older LTMS (Long Term Mitigation Scenarios) study by Winkler               able and less variable economic outcomes; and, surprisingly, lower fossil
+(2007). This involved an assessment of economy-wide impacts through            fuel prices. These gains exceed mitigation costs, which indicates that
+CGE modelling (Kearney, 2008; Pauw, 2007), finding modest impacts              developing countries stand to gain from effective global mitigation
+on GDP (­2% in 2015), varying employment effects (positive for lower-          policies.
+skilled and negative for higher-skilled workers), and adverse impacts on
+poverty and welfare which were off-settable by tax revenue recycling via       A.3. Latin America
+a food subsidy. Several other model studies assessed the macroeconomic
+impacts of a (hypothetical) carbon tax (Alton et al., 2014; Devarajan et al.,  Mexico
+2009; Merven et al., 2014; Van Heerden et al., 2006). They all find that a
+carbon tax considerably reduces emissions while economic impacts are           Mexico's Nationally Determined Contributions (NDCs) set out to reduce
+largely neutral under appropriate revenue recycling.                           greenhouse gas emissions unconditionally with 22% by 2030, and with
+                                                                               36% if there is international support and financing, and 50% by 2050.
+    A more recent study by Alton et al. (2014) assesses impacts of an (at      Since 2014 Mexico has had a carbon tax on fossil fuels at rates of up to
+the time) hypothetical carbon tax in South Africa using a dynamic econ-        MXN 39.80 (US$ 3.50) per ton of CO2 (while according to the World
+omy-wide model linked to an energy sector model. Its results indicate that     Bank's Carbon Pricing Dashboard upper value is MXN65/tCO2e, or US
+a carbon tax rising linearly from 3 to 30 US$/tCO2 achieves national emis-     $3/tCO2e, possibly different due to devaluation of MXN). In addition,
+sions reductions targets for 2025. Economic costs are moderate initially       supported by the governments of California and Quebec, Mexico began
+but become more serious above taxes of US$20, reducing welfare and             a pilot programme ETS in 2019, planned to be fully operational in 2023.10
+employment up to 1.2% and 0.6% relative to a base scenario. South Africa
+can limit welfare/employment losses by introducing border carbon                   Gutierrez González (2022) reviews the international influence of the
+adjustments. Distributional outcomes depend on how carbon tax reven-           Mexican Emissions Trading System (ETS). This involves the legal frame-
+ues are recycled, resulting in different trade-offs between growth and         work of the pilot phase of the ETS in Mexico (under the cap-and-trade
+equity.                                                                        principle) covering energy and industry sectors whose emissions exceed
+                                                                               100 MT CO2. It further aims to learn from the European EU-ETS experi-
+    The other most recent study by Merven et al. (2014) develop e-SAGE,        ences, notably learning-by-doing and improving gradually in subsequent
+a CGE model SAGE of the South African economy linked to an energy              phases.
+sector model SATIM enabling electricity supply for the CGE model to
+be endogenized. SATIM is an inter-temporal bottom-up optimization                  Landa Rivera et al. (2016) develop a multi-sector neo-Keynesian com-
+energy model of South Africa built around the Markal-TIMES platform,           putable general equilibrium model to evaluate medium- and long-run
+using linear or mixed integer programming to solve the least-cost plan-        transitional effects of carbon taxation on the Mexican economy. The
+ning problem of meeting projected future energy demand. The approach           level of the carbon tax is computed to meet national emissions targets
+is used to assess a CO2 tax starting at $5(R48)/tCO2 in 2016 and increasing    of 353 and 175 million of tons of CO2 in 2030 and 2050, respectively,
+to $12(R120)/tCO2 in 2025, approximating the National Treasury's pro-          which requires a carbon tax of 1500 MX$2015 (US$100) and 10,500
+posed carbon tax. Results showed that the carbon tax would reduce in           MX$2015 (US$700), respectively. This results in 40 and 75% emissions
+2040 emissions in the power sector with 5% and GDP with 0.7%, and              reduction from energy consumption, respectively. Their study further
+lower job creation with 2.60%. Three additional tax levels of $10, $20         finds that with no compensation, the taxation reduces emissions by
+and $50 per ton of CO2 were examined to identify an emissions tipping          more than 75% by 2050 but at a high cost: GDP drops by more than
+                                                                               4% after 2040. Investment and employment drop by more than 4% by
+                                                                               CLIMATE AND DEVELOPMENT  139
+
+2040. If the policy is unilateral, exports decrease by 8% by 2040. Under full  an ETS with complete sectoral coverage reduce the annual GDP growth
+redistribution of carbon tax revenues, a double dividend in terms of GDP       rate with 0.8%.
+and emissions reduction arises.
+
+Brazil                                                                         Argentina and Chile
+
+Brazil does not levy a carbon price nor officially plans to do so. Neverthe-   Although high-income countries according to some classifications (e.g.
+less, a study by Grottera et al. (2017) uses a Social Accounting Matrix in     http://chartsbin.com/view/24389) and developing countries according
+2005 to analyse the impact of implementing a tax per ton of CO2e on            to others (e.g. map 1 in https://hbs.unctad.org/classifications), regardless
+GDP, employment and income distribution in Brazil. The results vary            of their development status studies for both countries may be useful also
+with the tax rate and the use of revenues. The results also show an inver-     to other Latin American countries. Despite a delicate macroeconomic
+sely proportional relationship between the carbon tax level (rates used        situation, Argentina implemented its carbon tax in December 2017.
+were R$25 and R$50 per ton of CO2e) and the various impacts, with emis-        Rather than intended to change energy prices considerably, the tax was
+sions showing the highest elasticity with respect to the carbon tax, com-      aimed to increase awareness and reduce other taxes. Gutman (2018) dis-
+pared to economic impacts. The relationships weaken through recycling          cusses reasons why a carbon tax was a defensible political decision, paying
+of tax revenues.                                                               attention to macroeconomic imbalance, structural change in the energy
+                                                                               sector, and the trade-off between environmental effectiveness, economic
+    A study for Brazil uses an input-output model to examine how a car-        efficiency and political feasibility.
+bon tax with lump-sum rebate affects household incomes (Moz-Christo-
+foletti & Pereda, 2021). The study finds for both tax rates USD 40/tCO2e           In 2014, Chile implemented a carbon tax of 5 US$/tCO2e, restricted to
+and USD 80/tCO2e regressive effects. The authors explain this by low           large industrial and power generation sources with thermal power greater
+price responsiveness and side effects of carbon pricing on food prices.        than 50MW. To see if the tax is sufficiently high, insights from Espinosa
+They therefore call for revenue redistribution to support poor households.     and Fornero (2014) are useful. They use a dynamic stochastic general
+Similarly, Freitas et al. (2016) use a price system from a national input­     equilibrium model to study the impact of an optimal tax as approximated
+output model for Brazil that incorporates the intensity of GHG emissions,      by Golosov et al. (2014). Their results indicate find that tax benefits out-
+as well as a consumption vector broken down into ten representative            weigh costs, but welfare gains are marginal (2%). The authors calculate the
+households with different income levels. They use this to assess the impact    optimal carbon tax for Chile as $11.95 per ton of CO2 in 2021 rising to
+of taxing GHG emissions on the Brazilian economy and different house-          $18.1, so considerably higher than the current implementation. These
+hold groups. They find significant emissions reduction, slightly regressive    values are, moreover, low compared to Golosov et al. $59.6, due to
+effects and a slightly negative impact on output.                              Chile being a small open economy (less than 0.3% of global emissions).
+                                                                               Another study, by García Benavente (2016), also tries to identify the
+Colombia                                                                       value of a carbon tax that will allow the achievement of the emission
+                                                                               reduction target for Chile, whose government in 2009 announced an
+Three Latin American countries that have implemented a carbon tax also         official commitment with reducing national greenhouse gas emissions
+have been subject to various academic studies in this regard. For Colom-       by 20% below a business-as-usual projection by 2020. Using a static com-
+bia, there are a several studies to mention. In its tax reform of 2016, the    putable general equilibrium model of the Chilean economy, a tax on emis-
+country introduced a carbon tax of about US$5/tCO2e covering fossil            sions from fossil fuels burned by producers is studied. A 20% emission
+fuels responsible for roughly 24% of national emissions, with a focus on       reduction causes a loss in GDP of 2% (and 2.3% if the tax is extended
+transportation and liquid fuels. Calderón et al. (2016) examine imple-         to consumers) and requires an effective tax rate of about 26 US$ per
+menting carbon taxes and abatement targets for the energy system, com-         ton of CO2e, which is even higher than the estimate from Espinosa and
+paring baseline and policy scenarios using two integrated assessment           Fornero. The most affected productive sectors are oil refinery, transport,
+partial equilibrium models, TIAM-ECN and GCAM, as well as two gen-             and electricity, showing a contraction between 7% and 9%. Production of
+eral equilibrium models, Phoenix and MEG4C. They note that although            electricity from fossil fuels decreases by 11%, while renewable electricity
+the carbon intensity of the energy system in Colombia at the time was          increases by 43%. Electricity prices for consumers increase by 8%. Mar-
+low compared to the rest of Latin America, projected rapid economic            dones and Flores (2017) also suggest that the Chilean tax of US$5 per
+growth and development may change this. Both instruments are found             ton of CO2 is wholly ineffective in reducing emissions. They regard the
+to result in serious emissions reduction. The electric power sector plays      main impact of the carbon tax as raising revenues rather than reducing
+an important role in achieving this through more hydropower, wind tur-         emissions. A study by Benavides et al. (2015) examines the economy-
+bines, and biomass, coal and natural gas with CO2 capture and storage.         wide implications of a carbon tax applied on the Chilean electricity sector,
+Variation across model results is explained by uncertainty about the pre-      combining an energy-sector model with a Dynamic Stochastic General
+vailing mitigation pathways and by differences in model components,            Equilibrium model. As a starting point they take the Chilean carbon tax
+base years and data sources. In addition, a wide range of quantitative         of 5 US$/tCO2e, along with potential future increases (10, 20, 30, 40
+details are provided based on the four models which cannot be summar-          and 50 US$/tCO2e). An interesting finding of the study is that policy
+ized easily. It seems anyway better to focus here on details of more recent    effectiveness depends partly on factors that are out of the control of
+studies after implementation of carbon tax (also as authors overlap).          national policy makers, notably project costs of renewable energy invest-
+                                                                               ment and natural gas prices. A carbon tax of 20 US$/tCO2e would
+    Using a computable general equilibrium model integrated with house-        decrease annual GDP growth by 0.13%. Vera and Sauma (2015) compare
+hold-level analysis based on microsimulation models (MSM), Romero              the effects of the Chilean carbon tax with energy efficiency measures in the
+et al. (2018) examine distributive effects of a carbon tax. Higher-income      power sector. They find that the tax reduces annual CO2 emissions with
+households are the most affected and middle-class ones the least. In the       1% compared with a baseline for 2014­2024, while the marginal cost of
+most recent study, Sousa et al. (2020) study implications of a hypothetical    power production will increase with 3.4%. In contrast, energy efficiency
+Emissions Trading System (ETS) in Colombia, using the general equili-          measures reducing 2% of the power demand of the residential sector
+brium model MEG4C. They find that production in the regulated sectors          could achieve larger reductions in CO2 emissions, while simultaneously
+falls and that the sectors substitute away from emission intensive goods.      decreasing energy price. A shortcoming of the analysis is that it overlooks
+The cap assures 5% emissions reduction in 2015 and reaching 20% emis-          rebound effects which are typical of energy efficiency improvements
+sions reduction in 2030, versus a business-as-usual scenario. The mini-        (Brockway et al., 2021). Finally, focusing on agriculture, Mardones and
+mum and maximum values reached by the permit price is 37 US                    Lipski (2020) assess a carbon tax on CO2e emissions, with rates varying
+$/tCO2e in 2030 and 41.4 US$/tCO2e in 2022, respectively. From this            from $5 to $131 USD/tCO2e. They find that a tax applied only to agricul-
+the authors conclude that carbon taxation at the current low level is far      ture makes the sector less competitive, reducing its production level. Real
+from sufficient to achieve the country's NDC. Using funds from the             GDP falls slightly up to 0.40% and emissions up to 2.25%. The tax is
+sale of permits to encourage low-carbon investment, abatements are             slightly regressive. Of course, a single-sector tax goes against the basic
+achieved at a lower cost due to economic transformation effects, and posi-     idea of carbon taxation as a systemic instrument.
+tive co-benefits, notably on sustainable development. Implementation of
+140  J. VAN DEN BERGH AND S. DREWS
+
+Linking emissions trading among Latin American                                environmental policy stringency suggesting that it takes time for environ-
+countries                                                                     mental policy stringency to be effective.
+
+The Paris Agreement has recently underlined the relevance of inter-               Ukraine has a very energy intensive economy, reflected in one of the
+national cooperation via carbon pricing to reduce fragmentation of            highest levels of carbon intensity (i.e. CO2 emissions/GDP) in the
+national climate policies and strategies and improve both effectiveness       world. In 2011 the Ukrainian government passed a law to impose a carbon
+(including less leakage) and cost-effectiveness. In this respect, a single    tax on the use of energy commodities, with a current tax level of 0.26
+Emissions Trading Scheme (ETS) with a uniform carbon price could be           Ukrainian Hryvnia (UAH) per tCO2 (US$ 0.02 per tCO2), the lowest
+an option for Latin America. Using a dynamic-recursive computable equi-       in the world. Using a computable general equilibrium (CGE) model for
+librium model, Diniz Oliveira et al. (2019) study potential implications of   Ukraine, Frey (2017) assesses the impact of different carbon tax levels
+such a supranational ETS, including effects on trade patterns and conse-      on the Ukrainian economy and emissions. Her results indicate that the
+quences of revenue recycling. The results show that Brazil and Mexico         effects of the current tax are negligible, and that to achieve the set target
+would import allowances from the rest of Latin America. Revenue-recy-         of 22% emission reduction compared with 2007, a carbon tax should have
+cling plays an important role in alleviating excessive policy costs for       a rate of UAH 40 (US$ 3.46 per tCO2). The study also finds a double divi-
+households. The authors advice that a linked ETS system includes not          dend from substituting carbon taxes for labour taxes. The author suggests
+only energy sectors but other sectors as well, notably land use and for-      that the results are relevant for other former Soviet Union countries in
+estry-related emissions.                                                      Eastern Europe and Central Asia as they all struggle with high carbon
+                                                                              intensity (see in this respect also a study of carbon taxation and double
+    In a more recent related study, the same authors (Diniz Oliveira et al.,  dividend for Russia, by Orlov et al., 2013). An older study for of carbon
+2021) tackle this issue by studying a link between an ETS for Brazil with a   taxation for Ukraine by Nekrasenko et al. (2015) offers a broader discus-
+developed region (Europe) and two developing regions (Latin America           sion and suggest using differentiated carbon tax rate in distinct regions to
+and China). They use a global economy-wide model, EPPA6, and cover            account for diversity of `natural and economic features'.
+electricity and energy-intensive sectors of Brazil. The results indicate
+that linking would achieve a lower cost of emissions reduction, and that          In a study for Lithuania, Jarait and Di Maria (2016) assess the impact
+Brazil imports emission permits. Linking Brazil with a distinct partner       of the EU-ETS through econometric analysis of panel data of about 5000
+such as Europe results surprisingly in more substantial emissions             Lithuanian firms between 2003 and 2010. They find that ETS participation
+reductions but also losses in GDP and welfare as both regions have ambi-      did go along with a slight improvement in CO2 intensity but not a
+tious emission-reduction targets. Linking with China is less costly due to    reduction in CO2 emissions. The latter, however, does not mean no
+less stringent targets, and with Latin America produces moderate              effect, as emissions might have risen (more) under the counterfactual
+reductions. The authors conclude that there are advantages and disadvan-      (no participation in EU-ETS). Firms participating are found to have
+tages associated with each proposed trading situation.                        retired part of their less efficient capital stock, to have made modest
+                                                                              additional investments from 2010 on, and to not have witnessed negative
+A.4. Eastern Europe                                                           effects on profitability.
+
+Wolde-Rufael and Mulat-Weldemeskel (2021) assess the effectiveness of             Focusing on the wider Baltic region ­ motivated by completion of a
+environmental taxes and stringent environmental policy in reducing            planned electricity interconnection between Lithuania, Sweden and
+CO2 emissions econometrically in a panel of 7 emerging economies              Poland ­ Bariss et al. (2016) study the pass-through of CO2 prices to
+that include the Czech Republic, Greece, Hungary, South Korea, Poland,        electricity prices. Using multiple regression analysis, they show that
+South Africa, and Turkey. The reason is that for these 7 countries they       after the interconnection, a 1 change in the price of CO2 emissions
+could find a complete and consistent set of data on both total environ-       would increase the price of the Baltic power market by 0.67 (versus
+mental tax, energy tax, and environmental policy stringency available         that of the Nordic power market by 0.55). They further find that, in a
+for the period 1994­2015. They find that a 1% increase in energy tax          low-price scenario (7.5/tCO2), combined heat and power (CHP) plants
+decreases CO2 emissions between 0.112% and 0.140%. In addition, they          are marginal generators emitting 0.25 tons of CO2 per 1MWh in cogen-
+suggest an inverted U-shaped relationship between CO2 emissions and           eration mode, while of the CO2 price exceeds 20, the marginal emitter
+                                                                              will become oil shale power which emits around 1 ton of CO2 per 1
+                                                                              MWh of electricity.
+

@@ -1,0 +1,1482 @@
+                                                                              Results in Engineering 28 (2025) 107155
+                                                                        Contents lists available at ScienceDirect
+
+                                         Results in Engineering
+
+                                              journal homepage: www.sciencedirect.com/journal/results-in-engineering
+
+Review article
+
+Advancing the carbon pricing framework in Indonesia: A systematic review
+of policies, challenges, and global lessons
+
+Wahri Sunanda a, M. Isnaeni Bambang Setyonegoro a, Sasongko Pramono Hadi a, Sarjiya a,b, ,
+
+a Department of Electrical and Information Engineering, Faculty of Engineering, Universitas Gadjah Mada, Jl. Grafika No. 2, Bulaksumur, Sleman, 55281, Yogyakarta,
+Indonesia
+b Center for Energy Studies, Universitas Gadjah Mada, Sekip Blok K1-A, Sleman, 55281, Yogyakarta, Indonesia
+
+ARTICLE INFO              ABSTRACT
+
+Keywords:                 Indonesia, the largest GHG emitter and carbon sink reservoir in Southeast Asia, faces the dual challenge of
+Carbon pricing            achieving net zero emissions by 2060 while sustaining economic growth. This research examines Indonesia's
+Carbon tax                carbon pricing framework, focusing on two key mechanisms: a modest carbon tax and a nascent ETS. Using
+Emissions trading system  an SLR and bibliometric analysis, it evaluates implementation progress, including the introduction of a carbon
+Net zero emission         tax at 2 USD per tonne of CO2 and an ETS targeting coalfired power plants, alongside persistent challenges
+Sustainable development   such as limited sectoral coverage, low price signals, and institutional fragmentation. Drawing insights from
+                          both emerging economies (e.g., South Africa, Colombia) and advanced systems (e.g., Sweden, Canada), the
+                          analysis underscores the importance of phased implementation, strong governance, and international alignment.
+                          The paper proposes actionable pathways, including a graduated carbon tax roadmap, staged ETS expansion,
+                          and enhanced regional collaboration within ASEAN. This study offers a novel scientific contribution by
+                          conducting a multidimensional mapping of Indonesia's carbon pricing literature, which categorizes 65 studies
+                          by policy instruments, implementation phases, and sectoral coverage, and by identifying a critical disconnect
+                          between academic recommendations and real-world implementation. These findings provide an evidence-based
+                          foundation for designing more effective and internationally aligned policy reforms. By aligning these reforms with
+                          global best practices and leveraging domestic resources, Indonesia can strengthen its carbon pricing architecture
+                          and offer a replicable model for sustainable development in other emerging economies.
+
+   Contents
+
+      1. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+      2. Systematic literature review . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+
+               2.1. Protocol . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+               2.2. Search . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+
+         Abbreviations: Greenhouse Gas, (GHG); Enhanced Nationally Determined Contribution, (ENDC); Emission Trading System, (ETS); Association of Southeast Asian Nations, (ASEAN);
+    Research Question, (RQ); Protocol, Search, Appraisal, Synthesis, Analysis, and Report, (PSALSAR); Preferred Reporting Items for Systematic Reviews and Meta--Analyses, (PRISMA);
+    Search, Appraisal, Synthesis, and Analysis, (SALSA); Systematic Literature Review, (SLR); Web of Science, (WoS); Computable General Equilibrium, (CGE); Carbon Capture and Storage,
+    (CCS); Reducing Emissions from Deforestation and forest Degradation plus the sustainable management of forests, and the conservation and enhancement of forest carbon stocks,
+    (REDD+); Carbon Border Adjustment Mechanism, (CBAM); Carbon Economic Value, (CEV); Agriculture, Forestry, and Other Land Use, (AFOLU); Nationally Determined Contribution,
+    (NDC); Gross Domestic Product, (GDP); Long--Term Strategy for Low Carbon and Climate Resilience, (LTS--LCCR); Ministry of Finance, (MoF); Ministry of Environment and Forestry,
+    (MoEF); Ministry of Energy and Mineral Resources, (MEMR); Just Energy Transition Partnership, (JETP); United Nations Framework Convention on Climate Change, (UNFCCC);
+    Low Emission Development, (LED); Partnership for Market Readiness, (PMR); Monitoring, Reporting, and Verification, (MRV); Perform, Achieve, and Trade, (PAT); United Nations
+    Development Programme, (UNDP); European Union, (EU); European Environment Agency, (EEA); North American Free Trade Agreement, (NAFTA); Photovoltaic, (PV); US Dollar,
+    (USD); Singapore Dollar, (SGD); Indonesian Rupiah, (IDR); Canadian Dollar, (CAD); Gigawatt, (GW); Organisation for Economic Co-operation and Development, (OECD); Life Cycle
+    Assessment, (LCA); Convolutional Neural Network, (CNN).
+
+     * Corresponding author at: Department of Electrical and Information Engineering, Faculty of Engineering, Universitas Gadjah Mada, Jl. Grafika No. 2, Bulaksumur,
+   Sleman, 55281, Yogyakarta, Indonesia.
+
+        E-mail address: sarjiya@ugm.ac.id (Sarjiya).
+
+   https://doi.org/10.1016/j.rineng.2025.107155
+   Received 4 February 2025; Received in revised form 14 August 2025; Accepted 6 September 2025
+
+Available online 15 September 2025
+2590-1230/© 2025 The Author(s). Published by Elsevier B.V. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+W. Sunanda, M.I.B. Setyonegoro, S.P. Hadi et al.
+                                                                                                                                                                                              Results in Engineering 28 (2025) 107155
+
+           2.3. Appraisal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+           2.4. Synthesis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+  3. Results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+           3.1. Bibliometric results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+           3.2. Systematic literature review analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+  4. Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+           4.1. Current status of carbon pricing in Indonesia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+           4.2. Indonesia's carbon pricing framework in a global context . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+  5. Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+CRediT authorship contribution statement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Ethical statement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Declaration of competing interest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Acknowledgements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Data availability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+
+1. Introduction                                                            to reduce emissions while supporting sustainable development and pre
+                                                                           serving economic competitiveness in a coal-dependent economy with
+    The increasing concentration of GHGs in the atmosphere, partic         vast renewable energy potential [11].
+ularly carbon dioxide (CO2), is the primary driver of global climate
+change, posing severe risks to ecosystems, economies, and communi              The ETS is a market-based mechanism designed to control GHG emis
+ties worldwide. Predominantly stemming from industrial activities and      sions by setting a cap on allowable emissions and enabling the trading
+fossil fuel combustion, CO2 emissions exacerbate global warming by         of emission permits among regulated entities, ensuring flexibility while
+trapping heat in the atmosphere, triggering rising sea levels, extreme     maintaining compliance with reduction targets [12,13]. This system
+weather events, and biodiversity loss [1]. The Paris Agreement repre       promotes cost-effective compliance by allowing entities that emit less
+sents a pivotal global commitment to mitigate these threats, aiming to     than their allocated allowances to sell the surplus to those exceeding
+limit the global temperature rise to 1.5 C above pre-industrial levels     their limits. Complementing this, a carbon tax directly imposes a mon
+by 2100 [2]. Achieving this target requires coordinated international      etary charge on CO2 emissions, encouraging industries to adopt cleaner
+efforts, with carbon pricing emerging as a crucial instrument for driv     technologies [14]. Together, these mechanisms illustrate Indonesia's ef
+ing emissions reductions and facilitating the transition to a low carbon   forts to balance its climate ambitions with its dependence on coal, which
+energy system [3].                                                         dominates its energy mix, and to support its significant but underutilized
+                                                                           renewable energy potential [15].
+    Carbon pricing, implemented through mechanisms such as car
+bon trading and carbon taxes, assigns a monetary value to emissions,           Despite the growing global adoption of carbon pricing, research
+creating economic incentives for industries to reduce their carbon         has primarily concentrated on developed economies, leaving significant
+footprints [4]. Although this has been widely adopted in developed         gaps in the understanding of its application in developing countries like
+economies, carbon pricing is gaining momentum in developing na             Indonesia [16]. Addressing this gap, the present study investigates In
+tions, where governments face the dual challenge of pursuing economic      donesia's carbon pricing framework, focusing on its dual approach using
+growth while addressing climate goals [5].                                 an ETS and a carbon tax. Additionally, this work evaluates how these
+                                                                           mechanisms align with global best practices and explores lessons that
+    Indonesia provides a compelling and unique case study for under        can inform the implementation of carbon pricing in other developing
+standing carbon pricing in the Global South. As the largest GHG emitter    economies.
+and carbon sink reservoir in Southeast Asia, Indonesia occupies a dual
+role in the global climate regime, both as a major emitter and as a            This research is guided by two key questions:
+steward of critical natural resources such as tropical forests and peat
+lands [6]. It is also Southeast Asia's largest economy and among the       RQ1: What are the key features of Indonesia's carbon pricing policies,
+top 10 global CO2 emitters from fossil fuel combustion [7,8]. Moreover,            and how do these policies reflect the country's approach to bal
+Indonesia is endowed with abundant renewable energy potential, in                  ancing emissions reduction with sustainable development?
+cluding more than 3294.4 GW in solar, 154.9 GW in wind, 95 GW in
+hydro, and 23 GW in geothermal, making it one of the most promising        RQ2: How does Indonesia's carbon pricing framework compare to those
+developing countries for the clean energy transition [9].                          implemented globally, and what lessons can be drawn to inform
+                                                                                   international carbon pricing strategies?
+    However, Indonesia faces significant complexity in aligning rapid
+economic growth with ambitious climate mitigation objectives. As a de          To achieve these objectives, the PSALSAR framework and PRISMA
+veloping nation with a structural reliance on coal and a fragmented        guidelines are used. The PSALSAR framework ensures a systematic and
+institutional landscape, Indonesia must balance developmental priori       replicable research process, from defining protocols to synthesizing find
+ties with environmental commitments. These characteristics underscore      ings, and PRISMA enhances transparency in literature selection and
+the relevance of studying carbon pricing mechanisms in this context,       analysis. These methodologies collectively strengthen the reliability and
+not only to evaluate national progress but also to offer broader insights  comprehensiveness of the research.
+for climate policy design in emerging economies.
+                                                                               The structure of this article is outlined as follows. Section 1 in
+    Indonesia has underscored its commitment to climate action through     troduces the study's rationale, emphasizing the significance of carbon
+its ENDC under the Paris Agreement, pledging to reduce emissions by        pricing within Indonesia's climate strategy and situating it within the
+31.89% unconditionally and 43.2% with international support. The en        global context. Section 2 describes the research methodology, detailing
+ergy sector, Indonesia's largest source of emissions, is a focal point,    the application of the PSALSAR framework and PRISMA guidelines for
+with targeted reductions of 12.5% unconditionally and 15.5% condition      bibliometric analysis and an SLR. Section 3 presents the results of the
+ally [10]. To achieve these ambitious goals, Indonesia has introduced      bibliometric analysis and SLR, focusing on the distinctive features of
+a carbon pricing framework comprising two complementary mecha              Indonesia's carbon pricing framework. Section 4 considers the current
+nisms: carbon trading and a carbon tax. These tools are implemented        status of Indonesia's carbon pricing mechanisms, examining their align
+
+2
+W. Sunanda, M.I.B. Setyonegoro, S.P. Hadi et al.                                                             Results in Engineering 28 (2025) 107155
+
+                             Table 1
+                             Steps, outcomes, and methods in the PSALSAR framework.
+
+Step          Outcomes                       Methods
+1. Protocol   Define the scope of the study  Review of current carbon pricing landscape in Indonesia
+
+2. Search     Define the search strategy     Scopus and Web of Science databases; Boolean search in abstract, keywords,
+                                             and title; keywords: (``carbon pricing'' OR ``carbon tax'' OR ``emission trading
+                                             system'' OR ``cap and trade'') AND (``Indonesia'' OR ``Indonesian''); data
+                                             collected until December 2024
+
+3. Appraisal Study selection and quality     Remove duplicates; apply inclusion criteria; include only English peer-reviewed
+                     assessment              articles relevant to carbon pricing, carbon tax, ETS, or cap and trade in
+                                             Indonesia
+
+4. Synthesis  Create database of selected    Extract metadata using Biblioshiny
+5. Analysis   articles                       Categorize themes and timelines; summarize trends and findings
+              Code and analyze data
+
+6. Report     Communicate results and        Use PRISMA methodology; develop journal article and recommendations
+              draw conclusions
+
+ment with national sustainability goals and providing a comparative                  By systematically examining these key topics, the review aims to offer
+analysis of global carbon pricing practices. Finally, Section 5 summa                valuable insights into their mechanisms and implications for Indonesia's
+rizes the key findings and offers recommendations for policymakers and               climate policy framework.
+future research.
+                                                                                     2.2. Search
+2. Systematic literature review
+                                                                                         The search phase involved identifying and retrieving information
+    An SLR is a structured, explicit, and reproducible method used for               sources relevant to this research, which was divided into two main steps:
+identifying, evaluating, and synthesizing completed and documented                   search strategy and delivery [23]. In the search strategy step, appropri
+work by researchers, scholars, and practitioners [17]. By providing a                ate databases were selected, and Boolean search strings were formulated
+comprehensive overview of the current state of research, SLRs aim to en              to locate documents within the scope of the SLR. The delivery step then
+hance the understanding of existing scientific knowledge and research                applied these strings to retrieve pertinent literature [18].
+contributions within a specific field [18]. This methodology ensures
+rigor and transparency, making it a valuable approach for addressing                     Scopus and WoS were selected as the primary databases due to their
+complex research questions.                                                          comprehensive coverage of peer-reviewed journals across multiple dis
+                                                                                     ciplines and their stringent indexing standards [24]. These databases are
+    In this research, an SLR was employed to explore the current land                widely acknowledged in bibliometric literature for their curated journal
+scape and perspectives on carbon taxes and ETSs in Indonesia. To guide               collections, structured metadata, and advanced Boolean operator func
+this review, the PSALSAR framework, a refined adaptation of the SALSA                tionalities, which collectively enhance the quality and reproducibility
+method developed by Grant and Booth [19], was utilized. The PSAL                     of systematic reviews [25]. The use of Boolean logic has been shown
+SAR framework, introduced by Mengist et al. [20], enhances the SLR                   to increase both the precision and recall of search results in bibliomet
+process by incorporating an initial protocol phase and a final reporting             ric analyses, making it a robust tool for targeted literature identifica
+phase. These additions improve replicability, transparency, and trans                tion [26].
+ferability while minimizing potential biases [21,22]. The foundational
+SALSA method encompasses four steps, namely search, appraisal, syn                       In accordance with these best practices, this work employed carefully
+thesis, and analysis, providing a structured metasynthesis approach for              constructed Boolean search strings combining terms such as (``carbon
+systematically evaluating and integrating findings across multiple stud              pricing'' OR ``carbon tax'' OR ``emissions trading system'' OR ``cap and
+ies.                                                                                 trade'') AND (``Indonesia'' OR ``Indonesian''), applied to document titles,
+                                                                                     abstracts, and keywords. The Boolean structure was refined iteratively
+    Herein, the PSALSAR framework was rigorously implemented in six                  during a pilot phase to ensure the retrieval of seminal literature and
+steps to ensure a thorough and systematic approach. Step 1 defined                   minimize irrelevant results. Although formal recall/precision metrics
+the study scope by establishing clear objectives and boundaries for the              were not calculated, the inclusion of well-known benchmark studies
+review. Step 2 outlined the search strategy, detailing the selection of              during early-stage testing supports the effectiveness of the search for
+databases and search strings to ensure comprehensive coverage. Step 3                mulation. This search was conducted in December 2024 and yielded
+involved the appraisal process, assessing the quality and relevance of               a total of 260 relevant documents. The iterative nature of Boolean re
+the retrieved studies. Step 4 focused on synthesizing the data, and Step             finement enabled greater alignment with the study's evolving research
+5 comprised an in-depth analysis to interpret the findings. Finally, Step            focus, thereby increasing the efficiency and accuracy of the literature
+6 compiled and finalized the report. Further details on each stage are               selection process [27].
+provided in Table 1, demonstrating the robustness of the framework in
+guiding the review process.                                                              Google Scholar was deliberately excluded from the search process.
+                                                                                     While it offers broad accessibility, it lacks metadata standardization and
+2.1. Protocol                                                                        includes non-peer-reviewed content (e.g., theses, preprints, and grey
+                                                                                     literature), which can reduce replicability and compromise the biblio
+    Establishing a research protocol is fundamental to conducting an                 metric compatibility required by tools such as Bibliometrix R. To ensure
+SLR because it ensures the transparency, transferability, and replica                methodological transparency, this exclusion has been explicitly noted
+bility that define a systematic approach [17]. A well-designed protocol              and justified in this subsection.
+provides a structured framework for the review, enabling exhaustive
+and comprehensive literature searches while minimizing potential bi                  2.3. Appraisal
+ases [20]. In this study, the protocol was applied to investigate carbon
+pricing mechanisms in Indonesia, focusing on carbon taxes and ETSs.                      The appraisal phase was critical for evaluating the search results and
+                                                                                     identifying relevant papers with valid findings. This process began with
+
+                                             3
+W. Sunanda, M.I.B. Setyonegoro, S.P. Hadi et al.
+
+                                                                            Results in Engineering 28 (2025) 107155
+
+Fig. 1. PRISMA flow diagram of article selection yielding 65 studies on carbon pricing in Indonesia.
+
+an initial screening to ensure their alignment with the review's objec      Scopus and WoS were used to construct a high-quality database that
+tives, following a systematic and repeatable approach guided by pre         aligns with the objectives of the SLR [30].
+determined inclusion and exclusion criteria [18]. As outlined in Fig. 1,
+the first inclusion step required papers to be final publications, written      Following this, the PRISMA protocol was applied to ensure a struc
+in English, and published in peer-reviewed scientific journals. In this     tured and transparent evaluation of the research on carbon pricing in
+stage, 194 papers were deemed relevant for further analysis. In the sub     Indonesia. As shown in Fig. 1, 65 articles were included in the final
+sequent stage, duplicates were removed, abstracts were reviewed, and        analysis, forming the basis for an in-depth assessment of the regulatory
+only papers addressing carbon pricing up to December 2024 were re           and implementation stages of carbon pricing in the country. Eligibility
+tained. Papers failing to meet these criteria were excluded, resulting in   criteria focused on studies closely related to carbon pricing mechanisms,
+97 papers for detailed examination. From this pool, 65 papers advanced      including carbon taxes, and ETSs with a specific emphasis on Indonesia.
+to the synthesis phase, forming the final database for this study, as de    This rigorous and systematic approach ensured that the final dataset
+picted in Fig. 1.                                                           provided a comprehensive and reliable foundation for examining In
+                                                                            donesia's carbon pricing landscape.
+    To deepen the analysis, Biblioshiny, a bibliometric tool developed
+in the R programming language, was employed [28]. This application          2.4. Synthesis
+provides a robust suite of tools for importing bibliographic data from
+databases such as Scopus and WoS and enables comprehensive bib                  The synthesis phase involved extracting and classifying relevant data
+liometric analyses, including the mapping of scientific collaboration,      from the selected papers to systematically map the evidence base for fur
+co-word patterns, and co-citation networks [29]. The bibliometric data      ther analysis [18]. After the selection process, the full texts of the papers
+processing began by refining the database to acquire a targeted dataset     were reviewed in detail, and a comprehensive database was created to
+spanning the years 1999 to 2024 (see Fig. 2). Keywords extracted from       extract and organize key findings. The data extracted for each study
+                                                                            included the year of publication, journal, authors, authors' countries
+
+                                                  4
+W. Sunanda, M.I.B. Setyonegoro, S.P. Hadi et al.
+
+Table 2                                           Results                                                                                Results in Engineering 28 (2025) 107155
+Main information.
+                                                  1999--2024               a cumulative total of 11 by the end of this period, signaling growing
+  Description                                     62                       interest in carbon pricing as a policy tool.
+                                                  2
+  Timespan                                        1                            The most notable growth in research output began in 2018, with
+  Journals                                        228                      annual publications peaking at 18 in 2023. This surge aligns with In
+  Book Chapters                                   6                        donesia's implementation of carbon pricing policies, particularly its ETS,
+  Review Article                                  3.77                     and the strengthening of its climate commitments under the Paris Agree
+  Authors                                         16.02                    ment. The steady increase in cumulative publications highlights the
+  Authors of Single-authored Documents                                     expanding academic and policy interest in carbon pricing. This upward
+  Co-Authors per Document                                                  trend underscores the field's growing maturity and its central role in
+  Average Citations per Document                                           supporting Indonesia's climate strategy.
+
+and affiliations, research methods, the number of scientific citations,        Fig. 3 depicts the most influential academic sources, with Energy
+analysis tools, and simulation techniques [31,32]. Additionally, a con     Policy emerging as the leading journal, contributing five publications fo
+cise synthesis of the critical outcomes and implications of each paper     cused on policy frameworks and mechanisms. The International Journal
+was prepared, providing a clear summary of its contributions to the        of Energy Economics and Policy and the Journal of Cleaner Produc
+field [33].                                                                tion have each contributed four publications, emphasizing economic,
+                                                                           environmental, and sustainability dimensions. While the dominance of
+3. Results                                                                 high-impact journals highlights their pivotal role, the analysis also re
+                                                                           veals opportunities to diversify publication outlets and engage with a
+    The analysis phase, corresponding to Step 5, involved the evaluation   wider audience.
+of the content in the selected articles and the extraction of meaningful
+information, which is presented in this section. This analysis is struc        Fig. 4 illustrates the co-occurrence network of research themes re
+tured to systematically address the research questions. Specifically, Sec  lated to carbon pricing in Indonesia, providing insights into the intercon
+tions 3.1 and 3.2 focus on answering RQ 1: What are the key features       nectedness and clustering of central concepts. Dominant keywords, such
+of Indonesia's carbon pricing policies, and how do these policies reflect  as ``Indonesia,'' ``carbon,'' ``emission control,'' and ``climate change,'' oc
+the country's approach to balancing emissions reduction with sustain       cupy the core of the network, reflecting their central role in discussions
+able development?                                                          on emissions reduction and climate action. The prominence of ``Indone
+                                                                           sia'' underscores the geographic focus, whereas ``carbon'' and ``emission
+3.1. Bibliometric results                                                  control'' emphasize the policy and research priorities aimed at address
+                                                                           ing GHG emissions. Additionally, ``climate change'' serves as a thematic
+    The bibliometric analysis offers a comprehensive overview of the re    anchor, linking carbon pricing efforts to Indonesia's broader sustain
+search landscape [34] on carbon pricing in Indonesia, highlighting its     ability objectives and global climate commitments. The high degree of
+scope, trends, key sources, thematic clusters, and central topics. This    connectivity between these keywords reveals the interdisciplinary na
+study provides fresh insights by applying advanced bibliometric tools      ture of carbon pricing research, spanning economic, environmental, and
+and thematic analysis to uncover the interdisciplinary and evolving na     energy domains.
+ture of this field. By analyzing the dataset's attributes and visualizing
+the data (Table 2 and Figs. 2 to 5), the critical strengths, gaps, and op      The clusters within the network further highlight distinct thematic
+portunities were identified, offering actionable insights for advancing    areas of focus. The green cluster centers on terms like ``carbon price,''
+research and policymaking.                                                 "taxation,'' and ``economic analysis,'' underscoring the emphasis on fi
+                                                                           nancial mechanisms and cost-effectiveness in policy design. In contrast,
+    Table 2 summarizes the dataset's characteristics, covering the pe      the blue cluster features terms like ``electricity generation,'' ``coal,'' and
+riod from 1999 to 2024. Contributions include 62 journal articles, 2       "energy,'' reflecting the critical role of Indonesia's energy sector, partic
+book chapters, and 1 review article, underscoring the academic em          ularly its reliance on coal, in achieving emissions reductions. The purple
+phasis on carbon pricing. However, the limited diversity in publication    cluster addresses environmental policies, with keywords like ``deforesta
+formats indicates an opportunity to expand dissemination through al        tion'' and ``pollution tax,'' highlighting the integration of carbon pricing
+ternative platforms to reach broader audiences. Authorship data reveals    with forest conservation and pollution control efforts. Additionally, the
+significant collaboration, with contributions from 228 authors and only    orange and pink clusters focus on terms like ``alternative energy'' and
+6 single-authored documents. The average of 3.77 co-authors per doc        "investments,'' demonstrating the growing importance of innovation
+ument reflects the interdisciplinary nature of carbon pricing research,    and financial incentives to support renewable energy and low-carbon
+which spans economics, energy systems, environmental policy, and gov       technologies. Together, these clusters reveal a multifaceted approach
+ernance.                                                                   to carbon pricing in Indonesia, integrating economic, energy, and envi
+                                                                           ronmental dimensions to balance emissions reductions with sustainable
+    The dataset demonstrates substantial academic impact, with an av       development goals.
+erage of 16.02 citations per document. This high citation count signals
+the relevance of Indonesia's carbon pricing research within the global         Fig. 5 builds on these insights by categorizing the themes using four
+climate change discourse. The collaborative and interdisciplinary ap       quadrants, based on their development (density) and relevance (cen
+proach has likely contributed to the depth and applicability of findings,  trality). The Motor Themes quadrant includes ``Indonesia,'' ``carbon,''
+making this field a valuable resource for addressing both local and inter  and ``emission control,'' which are well-developed and central to the
+national climate challenges. As Indonesia intensifies its climate commit   research field. These themes form the backbone of Indonesia's carbon
+ments, these academic contributions provide a foundation for effective     pricing discourse, aligning with its global climate commitments and un
+policy design.                                                             derscoring the maturity of these topics.
+
+    Fig. 2 highlights trends in annual and cumulative publications, re         The Basic Themes quadrant highlights foundational but underde
+vealing steady growth in research output over time. From 1999 to 2011,     veloped topics such as ``emissions trading,'' ``deforestation,'' and ``fos
+only two publications were recorded, reflecting limited prioritization of  sil fuel.'' These areas are central to the discourse but require further
+carbon pricing during this early period, which coincided with emerging     research to address gaps in Indonesia's carbon pricing mechanisms. Ex
+global conversations on market-based mechanisms for emissions reduc        panding research in these areas may enhance the effectiveness of the
+tion. From 2012 to 2017, annual publications gradually increased, with     ETS and carbon tax while addressing emissions from key sectors such as
+                                                                           forestry and energy.
+
+                                                                               The Emerging or Declining Themes quadrant identifies promising
+                                                                           but underexplored topics, such as ``peatland reduction'' and ``hydrogen
+
+                                                              5
+W. Sunanda, M.I.B. Setyonegoro, S.P. Hadi et al.
+
+                                                                                                                             Results in Engineering 28 (2025) 107155
+
+                                                  Fig. 2. Annual and cumulative publications on Indonesia's carbon pricing.
+
+                                                  Fig. 3. Most relevant sources.
+
+                                                  Fig. 4. Co-occurrence network.
+                                                                    6
+W. Sunanda, M.I.B. Setyonegoro, S.P. Hadi et al.
+
+                                                                            Results in Engineering 28 (2025) 107155
+
+                                                  Fig. 5. Thematic map.
+
+production.'' These themes offer significant potential, particularly in           emission rights as market commodities that are marketed. This ap
+leveraging Indonesia's vast peatland reserves as carbon sinks and explor          proach significantly promotes the reduction of carbon emissions.
+ing hydrogen as a renewable energy source. Further research in these              Regulatory authorities provide emitters (organizations) with free
+areas may complement existing policies and strengthen Indonesia's tran            allowances for carbon emissions. If their actual emissions are lower
+sition to a low-carbon economy.                                                   than the allocated allowances, the surplus can be traded for profit
+                                                                                  on the carbon market. Meanwhile, emitters that release emissions
+    The Niche Themes quadrant features specialized topics like ``sen              exceeding the permitted allowances must purchase additional al
+sitivity analysis'' and ``environmental technology.'' While these areas           lowances [35].
+are well-developed, they remain peripheral to central discussions. In        2. Carbon taxes are imposed on products and services that contain or
+tegrating insights from these themes into broader policy narratives may           have carbon potential and activities that may cause carbon emis
+enhance the technical and practical understanding of carbon pricing               sions and prove detrimental to the environment. This mechanism
+mechanisms. Together, Figs. 4 and 5 provide a roadmap for refining                includes central and regional tax impositions, customs and duties,
+Indonesia's carbon pricing framework by addressing foundational gaps              and other state taxes. The collection depends on carbon content,
+and integrating emerging and niche topics.                                        carbon emissions, actual carbon emissions, or climate change miti
+                                                                                  gation measures. Carbon taxation is an effective strategy to mitigate
+    The bibliometric results emphasize the dynamic and interdisci                 carbon emissions and encourage consumers to choose products with
+plinary nature of the research on carbon pricing in Indonesia, showcas            lower carbon footprints by directly incorporating carbon costs into
+ing strong collaboration and growing academic influence. The steady               the pricing structure [36]. As a market-oriented approach that can
+rise in publication output, the prominence of key sources, and the inter          optimally and cost-effectively reduce carbon emissions and induce
+connectedness of research themes highlight the increasing importance              market consumption in the short term, carbon tax leads to signifi
+of this field in addressing Indonesia's climate goals. By identifying well        cant emissions reductions in the long term [37].
+established research areas, emerging opportunities, and underexplored
+gaps, this analysis provides actionable insights for advancing both aca         To enhance clarity and facilitate synthesis, Table 3, Table 4, and
+demic research and practical policymaking.                                  Table 5 group the 65 reviewed articles into three major implementa
+                                                                            tion categories: conceptual/simulation, pilot/early-stage, and legislated.
+3.2. Systematic literature review analysis                                  This classification supports policy learning and comparative insights
+                                                                            across Indonesia's carbon pricing evolution. The 65 articles provide a
+    Tables 3, 4, and 5 summarize the 65 articles analyzed in this study,    comprehensive view of Indonesia's carbon pricing framework, empha
+highlighting key findings on Indonesia's carbon pricing policies. Car       sizing its dual mechanisms, carbon taxes and ETSs, as integral parts of
+bon pricing plays a critical role in ensuring the smooth operation of the   carbon trading. The findings reveal the importance of integrating these
+roadmap toward achieving net zero emissions, particularly in the elec       approaches with broader goals for energy transition and sustainability.
+tricity sector. As carbon prices directly impact national economies and     However, challenges such as weak governance, stakeholder opposition,
+environmental sectors, the definitions of carbon trading and carbon tax     and limited institutional capacity remain significant. Collectively, this
+can be delineated based on the current regulations governing Indonesi       body of work highlights the need for further research to close these
+a's carbon pricing mechanisms.                                              gaps and strengthen the overall effectiveness of carbon pricing in In
+                                                                            donesia.
+ 1. Carbon trading is a market-oriented approach to reducing GHG
+      emissions at national and international levels by participating in        A further analysis of the 65 reviewed articles reveals discernible
+      carbon exchange. The procedural framework for carbon trading pri      patterns in the evolution of Indonesia's carbon pricing discourse.
+      marily involves the ETS and greenhouse gas offsets, which apply to    The largest share of studies belongs to the conceptual or simulation
+      different sectors. The carbon trading mechanism involves treating
+
+                                                  7
+W. Sunanda, M.I.B. Setyonegoro, S.P. Hadi et al.
+
+Table 3                                                                                                                                            Results in Engineering 28 (2025) 107155
+Classification of carbon pricing articles in the conceptual/simulation group.
+                                                                                                   Key Focus
+No. Author(s)              Policy Instrument      Implementation Phase   Sectoral Coverage
+                                                  Conceptual/Simulation  Energy                    Carbon taxes enhance efficiency and reduce emissions, with impacts varying
+1  Shrestha &              Carbon Tax                                                              by tax level and technology changes.
+
+   Marpaung [38]                                                                                   An Asia--specific ETS promotes equitable carbon pricing, lowers abatement
+                                                                                                   costs, and enhances regional cooperation on climate mitigation.
+2  Massetti &              ETS                    Conceptual/Simulation Energy
+                                                                                                   A carbon tax in Indonesia has a progressive distributional impact, benefiting
+   Tavoni [46]                                                                                     rural and low-income households while reducing poverty through revenue
+                                                                                                   recycling.
+3  Yusuf &                 Carbon Tax             Conceptual/Simulation Energy
+                                                                                                   Carbon tax incentivizes emissions reductions in AFOLU sectors, supporting
+   Resosudarmo [47]                                                                                Indonesia's NDC targets through cost-effective land-based mitigation
+                                                                                                   strategies.
+4  Hasegawa et             Carbon Pricing         Conceptual/Simulation Forestry and
+                                                                                      Agriculture  Bamboo forests in Bali serve as effective carbon sinks, supporting emission
+   al. [48]                                                                                        trading and sustainable community development.
+
+5  Sujarwo [49]            ETS                    Conceptual/Simulation Forestry                   Phasing out subsidies and implementing carbon pricing can reduce fossil
+                                                                                                   fuel reliance, promote renewables, and support Indonesia's emissions
+6  Dutu [50]               Implicit Carbon        Conceptual/Simulation Energy                     targets.
+                           Pricing
+                                                                                                   Carbon tax drives low-carbon supply chain optimization, aligning cost and
+7  Urata et al. [51]       Carbon Tax and         Conceptual/Simulation Industry                   emissions reduction through supplier shifts and life cycle inventory-based
+                                                                                                   decisions.
+                           ETS
+                                                                                                   A carbon tax reduces CO2 emissions but impacts economic growth, with
+8  Miyata et al. [52] Carbon Tax                  Conceptual/Simulation Energy                     revenue transfers improving household welfare and mitigating negative
+                                                                                                   effects.
+9  Wibert et al. [53] Carbon Tax                  Conceptual/Simulation Energy
+                                                                                                   Targeting a carbon tax on coal lowers GHG emissions, enhances welfare,
+10 Dissanayake et          Carbon Tax and         Conceptual/Simulation Energy                     and promotes geothermal energy, economically outperforming a broad
+          al. [54]         ETS                                                                     fossil fuel tax.
+
+11 Dewanatan et            Carbon Tax             Conceptual/Simulation Industry                   Carbon tax and emission trading reduce emissions, promote renewables,
+          al. [55]                                                                                 and generate revenue but pose minor economic challenges.
+
+12 Steckel et al. [56] Carbon Pricing             Conceptual/Simulation  Energy and                Carbon taxes improve project feasibility, drive emissions reductions, and
+                                                  Conceptual/Simulation  Transport                 require supportive incentives to mitigate economic impacts.
+13 Nong et al. [57]        Carbon Tax
+                                                                         Energy and                Carbon pricing achieves progressive impacts with equitable revenue
+                                                                         Agriculture               recycling, though outcomes vary by country and sector-specific energy use.
+
+14 Mahadevan &             Carbon Tax             Conceptual/Simulation Energy                     Carbon tax policies effectively reduce emissions but impose higher
+          Nugroho [58]                                                                             economic costs, especially in developing countries reliant on
+                                                                                                   emission-intensive inputs.
+15 Hasan et al. [59]       Carbon Tax and         Conceptual/Simulation Energy
+                           ETS                                                                     A carbon tax paired with renewable energy investments reduces emissions,
+                                                                                                   minimizes GDP loss, and mitigates poverty more effectively than gasoline
+16 Tiwari et al. [60] Carbon Tax                  Conceptual/Simulation Transport                  taxes.
+                                                  Conceptual/Simulation Forestry
+17 Pertiwi et al. [61] Carbon Pricing             Conceptual/Simulation Energy                     Cap and trade provides market flexibility, whereas a carbon tax directly ties
+                                                  Conceptual/Simulation Energy                     emission reductions to cost--effectiveness in inventory and green
+18 Ramadhani &             Carbon Tax                                                              technology investments.
+          Koo [35]
+                                                                                                   A carbon tax reduces logistics costs and emissions by optimizing
+19 Edianto et al. [62] Carbon Pricing                                                              containerization strategies and promoting greener supply chains.
+
+20 Ordonez et              Carbon Pricing         Conceptual/Simulation Energy                     Including ecosystem services in carbon pricing makes peatland conservation
+          al. [63]         Carbon Tax             Conceptual/Simulation Energy and                 financially viable, supporting emissions reduction and ecosystem protection.
+
+21 Jauhari [64]                                                                       Industry     A low-carbon tax in Indonesia mitigates carbon leakage and trade impacts
+                                                  Conceptual/Simulation Forestry                   from border tax adjustments while minimizing economic disruption.
+22 Tan et al. [65]         Carbon Pricing         Conceptual/Simulation Energy
+                           Carbon Pricing                                                          Weak carbon pricing and renewable policies drive coal financing over
+23 Chang &                 Carbon Tax             Conceptual/Simulation Energy                     renewables, whereas strong carbon pricing shifts investment to cleaner
+          Phoumin [66]     Carbon Pricing                                                          energy.
+                           Carbon Tax             Conceptual/Simulation Energy
+24 Hartono et                                     Conceptual/Simulation Energy                     Carbon pricing drives coal displacement, enhances renewable
+          al. [40]                                                                                 competitiveness, and offers fiscal benefits through revenue reinvestment.
+
+25 Kamandika &                                                                                     Carbon taxes drive green technology adoption, reduce emissions, and
+          Dhakal [67]                                                                              improve supply chain efficiency through production adjustments and
+                                                                                                   investments.
+26 Yunikewaty &
+          Siswahyudi [68]                                                                          Carbon pricing supports cost--effective peatland restoration, reduces
+                                                                                                   emissions, mitigates fires, and promotes biodiversity conservation.
+
+                                                                                                   Carbon pricing incentivizes cost--effective hydrogen production from
+                                                                                                   curtailed renewables, supporting emissions reduction and renewable
+                                                                                                   integration.
+
+                                                                                                   Carbon tax revenue recycling boosts GDP, employment, and energy
+                                                                                                   efficiency, requiring targeted sectors, optimal tax levels, and diverse
+                                                                                                   investments.
+
+                                                                                                   Carbon pricing drives emissions reductions in Indonesia's power sector by
+                                                                                                   incentivizing a transition to lower-carbon technologies.
+
+                                                                                                   A carbon tax reduces GHG emissions, supports green energy, and drives
+                                                                                                   sustainability when combined with renewable investments and proper
+                                                                                                   regulation.
+
+                                                                               8
+W. Sunanda, M.I.B. Setyonegoro, S.P. Hadi et al.
+
+                                                                                            Results in Engineering 28 (2025) 107155
+
+Table 3 (continued)     Policy Instrument         Implementation Phase   Sectoral Coverage  Key Focus
+  No. Author(s)         Carbon Tax                Conceptual/Simulation  Energy
+  27 Chien et al. [69]                            Conceptual/Simulation  Forestry and       Carbon taxes drive the low-carbon transition by reducing fossil fuel
+                                                                         Energy             reliance, promoting renewables, and fostering green investments.
+28 Hartono et           Carbon Tax                Conceptual/Simulation  Energy
+          al. [39]                                Conceptual/Simulation  Energy             A carbon tax in Indonesia promotes energy transformation and biofuel
+                                                  Conceptual/Simulation  Industry           investment but struggles to achieve energy mix targets or deliver a double
+29 Sarjiya et al. [70] Carbon Tax                 Conceptual/Simulation  Energy             dividend.
+                                                  Conceptual/Simulation  Industry
+30 Setiawan et          Carbon Pricing            Conceptual/Simulation  Energy             Carbon taxes play a vital role in supporting renewable energy targets and
+          al. [44]                                Conceptual/Simulation  Industry           coal phase-out policies in Indonesia's Java-Bali power system.
+                                                  Conceptual/Simulation  Industry
+31 Junianto et          Carbon Tax                Conceptual/Simulation  Energy             A carbon tax supports biomass cofiring in coal power plants by improving
+          al. [71]                                Conceptual/Simulation  Energy             feasibility and incentivizing renewable energy adoption.
+                                                  Conceptual/Simulation  Multi-sectoral
+32 Langer et al. [72] Carbon Tax                  Conceptual/Simulation  Energy             A carbon tax supports emissions reduction in the cement industry through
+                                                  Conceptual/Simulation  Energy             clinker substitution, alternative fuels, and CCS technology adoption.
+33 Jauhari et al. [73] Carbon Tax
+                                                  Conceptual/Simulation  Energy             A carbon tax incentivizes renewable energy adoption by enhancing the
+34 Gabbar &             Carbon Tax                                                          competitiveness of wind power in Indonesia's energy transition.
+          Esteves [74]                            Conceptual/Simulation  Energy
+                                                  Conceptual/Simulation  Energy             A carbon tax drives green technology adoption, optimizing supply chains to
+35 Jauhari et al. [75] Carbon Tax                                                           balance costs, emissions, and environmental compliance.
+                                                  Conceptual/Simulation  Energy
+36 Suef et al. [76]     Carbon Tax                                                          A carbon tax promotes cleaner energy in seaports, driving the adoption of
+                                                  Conceptual/Simulation  Transport          nuclear-renewable systems and investments in low-carbon infrastructure.
+37 Rokhmawati et        Carbon Tax
+          al. [77]      Carbon Tax                                                          Carbon taxes drive green technology adoption, reduce emissions, and
+                        Carbon Pricing                                                      promote supply chain efficiency while balancing costs with incentives.
+38 Andrianus et         Carbon Tax
+          al. [78]                                                                          A carbon tax drives hybrid production systems, optimizing supply chains to
+                                                                                            balance costs and reduce emissions.
+39 Jaya &
+          Padilla [79]                                                                      A carbon tax reduces emissions, supports renewable energy adoption, and
+                                                                                            aligns with the Environmental Kuznets Curve in Indonesia.
+40 Aji & Putro [80]
+                                                                                            A carbon tax reduces CO2 emissions in Indonesia but negatively impacts
+41 Rifansyah &          Carbon Tax                                                          welfare, requiring revenue recycling and sector-specific interventions.
+          Hakam [81]
+                                                                                            A carbon tax is crucial for Indonesia's green economy transition, targeting
+42 Hersaputri et        Carbon Tax                                                          emissions-intensive sectors to align with sustainability goals.
+          al. [82]
+                                                                                            Carbon taxes and renewable incentives reduce emissions in Indonesia's
+43 Rosyidi &            ETS                                                                 geothermal sector while accelerating sustainable energy development.
+          Pratama [83]  Carbon Pricing
+                                                                                            A carbon tax enhances the feasibility of floating solar photovoltaics,
+44 Apriliyanti et                                                                           supporting emissions reductions and Indonesia's renewable energy
+          al. [84]                                                                          transition.
+
+45 Rahmanta et          Carbon Tax                                                          Higher carbon tax rates in Indonesia promote emissions reductions,
+          al. [45]                                                                          accelerate renewable energy adoption, and support coal phase-out efforts,
+                                                                                            contributing to a fair energy transition.
+46 Yola et al. [85]     Carbon Pricing
+                                                                                            Cap-and-trade policies drive supply chain decisions toward minimizing
+                                                                                            emissions while balancing cost efficiency and environmental sustainability.
+
+                                                                                            A carbon tax, alongside market reforms, promotes renewable energy
+                                                                                            adoption but is hindered by opposition from established coal industry
+                                                                                            stakeholders.
+
+                                                                                            A carbon tax encourages biomass cofiring and CCS adoption, lowering
+                                                                                            emissions while improving the economic viability of low-carbon
+                                                                                            technologies.
+
+                                                                                            A carbon tax, combined with ecospatial monitoring, helps reduce traffic
+                                                                                            emissions, promotes transportation reforms, and enhances sustainable urban
+                                                                                            planning.
+
+based group, which predominantly explores theoretical frameworks and        the primary focus, aligned with Indonesia's policy priorities under the
+model-based assessments using tools such as CGE and energy system           CEV framework.
+models. The carbon tax and the ETS are the most frequently analyzed
+instruments in this group, often examined alongside complementary               Overall, this body of literature reflects a ladder-type evolution from
+measures such as energy subsidy reform or CCS. The energy sector dom        conceptual understanding to pilot testing and formal policy adoption.
+inates these analyses, reflecting its centrality in Indonesia's emissions   This pattern highlights the importance of integrating academic research,
+profile and mitigation strategies.                                          pilot initiatives, and regulatory developments to enhance the design and
+                                                                            implementation of carbon pricing mechanisms in Indonesia.
+    The pilot or early-stage implementation group focuses on case stud
+ies and regional demonstration initiatives, especially in forestry. REDD+       To deepen this observation, the findings were examined in relation to
+and voluntary carbon markets are the dominant instruments in this           existing literature and recent policy developments. The synthesis reveals
+group, highlighting the emphasis on nature-based solutions. Although        a clear dominance of theoretical or model-based research (over 65%),
+energy and transport sectors are also represented, the forestry sector      particularly within the energy sector. While these studies offer valuable
+remains prominent due to its substantial mitigation potential and inter     insights into the cost-effectiveness, equity implications, and technical
+national support mechanisms.                                                feasibility of carbon pricing instruments in Indonesia, policy imple
+                                                                            mentation lags considerably behind analytical recommendations. For
+    The legislated group, though smaller, illustrates a transition toward   instance, simulation-based studies frequently propose carbon tax rates
+formal regulation. This group features studies addressing the incorpora     between 30--60 USD/tCO2 to stimulate renewable energy deployment
+tion of carbon pricing into national policy, including hybrid mechanisms    and deliver economic co-benefits [38--40], yet the current rate remains
+such as carbon pricing with the CBAM. Energy and industry sectors are       at 2 USD/tCO2 with limited coverage and delayed enforcement. This
+
+                                                                         9
+W. Sunanda, M.I.B. Setyonegoro, S.P. Hadi et al.
+
+Table 4                                                                                                                                        Results in Engineering 28 (2025) 107155
+Classification of carbon pricing articles in the legislated group.
+                                                                                              Key Focus
+No. Author(s)            Policy Instrument        Implementation Phase     Sectoral Coverage
+                                                  Legislated               Energy             ETSs reduce emissions, foster innovation, and align national efforts with
+1  Roelfsema et          Carbon Tax and           Legislated                                  global climate targets.
+                         ETS                      Legislated               Energy and         Emission-intensive industries reduce the stringency of both ETSs and carbon
+   al. [86]              Carbon Tax and                                    Industry           taxes, with policy impacts varying by sector and activity.
+                         ETS                                               Multi-sectoral     Political resistance and lack of coordination hinder carbon tax
+2  Stevens [87]          Carbon Tax                                                           implementation in Indonesia, despite its potential to reduce emissions and
+                                                                           Energy             fund climate programs.
+3  Dyarto &                                                                                   A carbon tax offers simplicity in implementation, whereas cap and trade
+                                                                           Forestry           provides cost-effective emissions control through market trading.
+   Setyawan [41]                                                                              Carbon taxes and reduced-impact logging reduce emissions, promote
+                                                                           Forestry           bioenergy, and generate significant revenue for sustainable forest
+4  Putra et al. [88]     Carbon Tax and           Legislated                                  management.
+                         ETS                      Legislated               Forestry           A carbon tax supports emissions reductions and sustainable forest
+5  Sasaki [89]                                                                                management in Southeast Asia through REDD+ activities.
+                         Carbon Tax                                        Energy             Carbon trading in Indonesia supports sustainable forest management but
+                                                                                              requires clearer carbon rights and conflict resolution.
+6  Sasaki et al. [90] Carbon Tax                  Legislated               Energy             A carbon tax in Indonesia generates significant revenue, boosts regional
+                                                  Legislated                                  economies through revenue recycling, and encourages low-carbon
+7  Cetera [91]           Carbon Trading           Legislated               Energy and         technologies.
+                                                                           Industry           A carbon tax generates revenue to support renewables and green
+8  Kamil et al. [42]     Carbon Tax                                        Multi-sectoral     investments, requiring improved regulations for sustainable development.
+                                                                                              Carbon caps and prices drive emissions management strategies by
+9  Leonard et            Carbon Tax               Legislated               Energy and         optimizing production and minimizing costs.
+                                                  Legislated               Industry           Carbon trading in Indonesia supports emissions reduction and sustainable
+   al. [92]              ETS                      Legislated               Energy             investment through market-driven mechanisms and robust governance.
+                                                  Legislated                                  Carbon taxes and ETSs are vital for mitigating emissions, preventing carbon
+10 Daryanto &            Carbon Trading           Legislated               Energy and         leakage, and promoting Indonesia's green supply chain transition.
+          Setyanto [93]                           Legislated               Transport          Indonesia's cap and tax scheme uses carbon pricing to reduce emissions,
+                         Carbon Pricing                                                       promote green technologies, and support sustainable economic growth.
+11 Syahruddin et                                                                              A carbon tax supports Indonesia's biodiesel program by internalizing fossil
+          al. [94]       Carbon Tax and                                                       fuel costs, promoting cleaner energy, and advancing sustainability.
+                         ETS
+12 Wiloso et al. [7]     Carbon Tax
+
+13 Nurhayati et
+          al. [95]
+
+14 Wirawan et
+          al. [96]
+
+Table 5
+Classification of carbon pricing articles in the pilot/early-stage group.
+
+No. Author(s)            Policy Instrument Implementation Phase Sectoral Coverage             Key Focus
+
+1  Jaenicke et           Carbon Trading           Pilot/Early-Stage        Forestry           Carbon trading supports peatland restoration by monetizing emission
+                         Carbon Trading           Pilot/Early-Stage        Forestry           reductions, enabling climate mitigation and biodiversity conservation.
+   al. [97]
+                                                                                              REDD+ carbon trading facilitates emissions reductions by incentivizing
+2  Lu & Liu [98]                                                                              deforestation avoidance but depends on higher prices and fair policies for
+                                                                                              effectiveness.
+3  Hilwan et al. [99] Carbon Trading              Pilot/Early-Stage        Forestry
+                                                                                              Carbon trading through REDD+ supports sustainable forest management by
+4  Nguyen et             ETS                      Pilot/Early-Stage        Energy             generating carbon credits, reducing emissions, and offering financial
+                                                  Pilot/Early-Stage        Energy             incentives for climate mitigation efforts.
+   al. [100]
+                                                                                              A regional ASEAN ETS reduces costs for permit buyers but challenges
+5  Hasan et al. [101] Carbon Tax and                                                          permit sellers, requiring equitable revenue recycling for balanced outcomes.
+
+                         ETS                                                                  A carbon tax directly reduces emissions, whereas cap and trade offers
+                                                                                              cost-effective compliance, both benefiting from green technology
+                                                                                              investments.
+
+divergence between modeled scenarios and real-world application re                   for deeper examination of their implications for policy design, gover
+flects institutional fragmentation and political resistance, as highlighted          nance arrangements, and implementation strategies, while also offering
+in legislated studies [41,42].                                                       an evidence-based basis for aligning future policy reforms with empiri
+                                                                                     cal insights from scholarly research.
+    Moreover, although many conceptual studies emphasize integrating
+carbon pricing with renewable energy and CCS technologies [43--45],                  4. Discussion
+practical adoption is constrained by financial, regulatory, and gover
+nance barriers. Bibliometric clustering reinforces this mismatch, reveal             4.1. Current status of carbon pricing in Indonesia
+ing strong academic interest in energy transition themes but limited
+focus on MRV systems, revenue recycling, and cross-sectoral coordina                     As the world confronts the escalating impacts of climate change, In
+tion in practice. Comparative analysis in Section 4.2 shows that mature              donesia, one of the largest global CO2 emitters, has taken critical steps
+systems achieve closer alignment between research, policy, and measur                toward mitigating its environmental footprint [102]. In 2022, global
+able outcomes. Bridging this gap in Indonesia will require strengthening             CO2 emissions reached 57.4 gigatons, with Indonesia making a signifi
+institutional capacity, improving interagency coordination, and foster               cant contribution to this total. The country saw its emissions rise from
+ing stakeholder engagement, thereby providing a critical foundation
+
+                                                                           10
+W. Sunanda, M.I.B. Setyonegoro, S.P. Hadi et al.                                                                                          Results in Engineering 28 (2025) 107155
+
+615.92 million tons in 2021 to 728.88 million tons in 2022, primarily       stakeholders and ensuring public support. By strategically utilizing car
+driven by electricity and heat production, agriculture, and transporta      bon tax revenues, Indonesia can accelerate its low-carbon transition
+tion [103]. Recognizing its pivotal role in global emissions, Indonesia     while addressing pressing social and environmental needs [92].
+has committed to achieving net zero emissions by 2060, aiming to bal
+ance its development needs with sustainability goals. Central to this           The interplay between the carbon tax and the ETS presents an op
+commitment are carbon pricing mechanisms, including carbon taxes            portunity for a more integrated and effective climate strategy. While
+and emissions trading, which internalize the costs of emissions and en      the trading system enables flexibility through cost-effective emissions
+courage low-carbon practices across sectors. Indonesia's carbon pricing     reductions, the carbon tax provides a predictable price signal to guide
+strategy is embedded within a broader framework of climate policy com       long-term investments in cleaner technologies [115,116]. Together,
+mitments and is aligned with global initiatives such as the Paris Agree     these mechanisms can complement each other to enhance emissions
+ment. The LTS-LCCR 2050 and ENDC prioritize reducing emissions in           reductions across various sectors. However, achieving this synergy
+key sectors, particularly energy, which remains Indonesia's largest con     requires careful coordination between policymakers, regulators, and
+tributor to CO2 emissions. Several legislative milestones underpin these    industries. Clear guidelines on their interaction and evolution over
+efforts, including Law 16/2016, which ratifies the Paris Agreement, and     time are crucial for avoiding redundancies and ensuring maximum im
+Law 7/2021, which incorporates a carbon tax into Indonesia's tax reg        pact [13].
+ulations. Presidential Regulation 98/2021 further defines the economic
+value of carbon, providing a legal foundation for carbon pricing mech           Indonesia's energy sector, which is heavily reliant on coal, remains
+anisms. Together, these frameworks represent a systematic approach to       central to its carbon pricing initiatives. Coalfired power plants are a sig
+addressing emissions while fostering sustainable growth.                    nificant source of CO2 emissions, making them the primary focus of both
+                                                                            the carbon tax and ETS. The government's efforts to introduce emissions
+    A significant component of Indonesia's climate strategy is its ETS,     caps and incentivize renewable energy alternatives reflect a commit
+which was introduced as a voluntary, intensity-based pilot program in       ment to addressing these challenges. However, the pace of transitioning
+2021 to target the power generation sector [104]. This pilot phase aimed    from coal to renewables has been slow. Despite its vast renewable en
+to assess the feasibility of ETS implementation by assigning emissions      ergy potential, including over 3294.4 GW in solar, 154.9 GW in wind,
+intensity targets to coalfired power plants. On February 22, 2023, the      and 23 GW in geothermal [9], financial, technical, and regulatory bar
+MEMR, officially launched a mandatory ETS for the power sector, re          riers have hindered progress. Accelerating this transition will be critical
+quiring plants to comply with specific intensity limits [105]. Under this   for meeting Indonesia's climate targets.
+system, facilities exceeding their limits must purchase carbon credits
+from those operating below their targets or face penalties, including a         To ensure the success of its carbon pricing mechanisms, Indone
+carbon tax. Initially covering 99 coalfired power plants, the manda         sia must address several overarching challenges. Strengthening data
+tory ETS is expected to expand to 146 plants by 2024, demonstrating         validation and developing a transparent monitoring system are vital
+its growing role as a key mechanism in Indonesia's low-carbon transi        for maintaining confidence in the carbon market. Gradually increas
+tion [106].                                                                 ing the carbon tax rate while balancing economic impacts can provide
+                                                                            stronger incentives for industries to reduce emissions [117]. Addition
+    However, as the ETS expands, it faces several critical challenges that  ally, building institutional and technical capacity will be essential to
+must be addressed to ensure its effectiveness. Transparency and cred        managing the complexities of an expanding carbon market. Finally,
+ibility are essential, requiring robust verification of emissions data, as  fostering broad stakeholder engagement and ensuring equitable partic
+well as the availability of reliable carbon credits, to build stakeholder   ipation will enhance the credibility and acceptance of these policies,
+trust. Maintaining market stability by balancing the supply and demand      particularly among the industries and communities most affected by the
+of credits is crucial to avoiding price volatility, which could undermine   transition [118].
+the system's functionality [107,108]. Additionally, the ETS's growth de
+mands enhanced regulatory capacity to monitor compliance, enforce               Indonesia's carbon pricing strategy, encompassing both the carbon
+rules, and prevent market manipulation. A centralized platform for emis     tax and ETS, represents a crucial step in its journey toward achieving
+sions tracking and a transparent regulatory framework are necessary to      net zero emissions by 2060. The expansion of the ETS to 146 power
+ensure equitable stakeholder participation. Without these measures, the     plants by 2024 and the planned implementation of the carbon tax reflect
+ETS risks falling short of its potential to drive substantial emissions re  the government's commitment to climate action. Nevertheless, several
+ductions [109].                                                             challenges, such as delays in implementation, low initial tax rates, and
+                                                                            market inefficiencies, highlight the need for continuous refinement and
+    Complementing the ETS is Indonesia's carbon tax, introduced under       adaptation. By addressing these obstacles and leveraging its vast renew
+Law 7/2021. The tax is set at an initial rate of 30 IDR per kilogram of     able energy potential, Indonesia can position itself as a regional leader
+CO2, equivalent to 2 USD per tonne of CO2, which is significantly lower     in carbon pricing and contribute meaningfully to global sustainability
+than the international recommendations of 30-100 USD per tonne of           efforts.
+CO2 for developing countries [110,111]. The low initial rate reflects
+Indonesia's economic realities, but it may not provide sufficient incen         In summary, the findings of this review in response to RQ1 suggest
+tives for industries to transition to cleaner technologies or meaningfully  that Indonesia's carbon pricing approach reflects a pragmatic balance
+reduce emissions. Originally scheduled for implementation in 2022, the      between emissions reduction and sustainable development. The grad
+tax rollout has been delayed to 2025, highlighting the complexities of in   ual introduction of the carbon tax and ETS demonstrates an intent to
+troducing such mechanisms in a developing economy [112]. This delay         integrate climate policy without disrupting economic stability [58,40].
+also underscores the challenges associated with disaster relief, consider   While institutional and technical limitations remain, these mechanisms
+ing the impacts of the COVID-19 pandemic, and balancing the economic        form foundational steps toward a low-carbon pathway [119,120].
+recovery with ambitious climate policy goals.
+                                                                                Several studies support the technical feasibility of this transition,
+    Despite its modest start, the carbon tax has significant potential to   particularly through carbon-pricing-induced investments in biomass co
+evolve into a robust emissions reduction tool. Gradual increases in the     firing in coalfired power plants, geothermal expansion, and floating
+tax rate can align Indonesia's pricing with global benchmarks, thereby      solar PV deployment [44,80,81]. These renewable technologies are
+providing stronger incentives for businesses to adopt sustainable prac      abundant in Indonesia and offer a strategic opportunity to align fis
+tices [113]. Moreover, the generated revenue offers opportunities for       cal instruments with long-term decarbonization. Recent global reviews
+reinvestment in renewable energy, energy efficiency programs, and           have underlined the transformative role of renewable energy technolo
+climate resilience initiatives [114]. Transparent communication about       gies, including solar, wind, tidal, and geothermal, in advancing sus
+how these funds will be allocated is essential for building trust among     tainable energy transitions and supporting social equity goals [121]. In
+                                                                            global contexts, the deployment of low-carbon technologies, including
+                                                                            biomass, hydrogen, and CCS, is increasingly framed within sustainable
+
+11
+W. Sunanda, M.I.B. Setyonegoro, S.P. Hadi et al.                                                                                          Results in Engineering 28 (2025) 107155
+
+energy systems supported by robust pricing signals and regulatory in        anisms are underpinned by stringent institutional frameworks, targeted
+centives [122].                                                             incentives for renewable energy deployment, and structured strategies
+                                                                            for public engagement to ensure political acceptability. The EU ETS,
+    Additionally, carbon tax revenue recycling has been shown to en         launched in 2005, offers an exemplary model of a cap-and-trade mech
+hance energy access, stimulate GDP growth, and improve social equity        anism that operates under ambitious annual reduction trajectories, en
+outcomes, reinforcing the synergy between climate action and develop        compassing power generation, industrial processes, and aviation [126].
+ment objectives. The effectiveness and legitimacy of such instruments       Collectively, these examples illustrate how ambitious pricing, combined
+are further strengthened when embedded within coherent legal and            with robust governance and broad sectoral inclusion, can produce mean
+regulatory frameworks that support circular economy transitions and         ingful and sustained mitigation outcomes.
+low-carbon innovation [123].
+                                                                                Canada's approach provides an instructive case of policy hybridity,
+    With enhanced policy coordination, scaled-up technology deploy          blending a federal-level carbon tax with subnational ETS initiatives.
+ment, and transparent governance, carbon pricing mechanisms can             The federal tax, introduced at 20 CAD per tonne in 2019, is legislated
+evolve into a cornerstone of Indonesia's climate-neutral development        to rise incrementally to 170 CAD by 2030 [142]. To preserve public
+trajectory. A broader understanding of how Indonesia's framework com        trust and mitigate distributional impacts, Canada redistributes a por
+pares to global practices provides further insight into potential pathways  tion of tax revenues through household rebates, providing near-term
+for strengthening and scaling its carbon pricing strategy, as explored fur  economic relief while maintaining long-term climate incentives. At the
+ther in the subsequent subsection on comparative insights.                  regional level, Quebec operates an ETS linked to California's system,
+                                                                            thereby demonstrating the feasibility and benefits of cross-jurisdictional
+4.2. Indonesia's carbon pricing framework in a global context               cooperation. In contrast, many emerging economies contend with con
+                                                                            strained fiscal space, weaker administrative capacity, and entrenched
+    Carbon pricing has increasingly emerged as a pivotal instrument         fossil fuel dependencies. For example, Chile and Colombia have both
+in the global endeavor to mitigate GHG emissions, offering a market         adopted modest carbon taxes of 5 USD per tonne [125], laying impor
+based framework that seeks to internalize the external costs of carbon      tant policy foundations without yet delivering transformative change.
+pollution while simultaneously driving the transition toward a low          Colombia's intent to integrate an ETS with its tax contrasts with Chile's
+carbon economy [124]. Within this global context, developed economies       absence of a trading mechanism, underscoring the institutional prereq
+have spearheaded the implementation of advanced systems character           uisites of market-based schemes.
+ized by high carbon tax rates and comprehensive ETS frameworks,
+both of which have delivered measurable and sustained reductions in             Additional country cases offer further perspective on the design
+emissions. In contrast, emerging economies--Indonesia among them-           and implementation of carbon pricing. Brazil has yet to legislate a na
+remain at relatively early stages of adoption, reflecting the interplay     tional carbon tax but is progressing toward a voluntary ETS aligned
+between unique macroeconomic structures, institutional capacities, and      with REDD+ initiatives and national land-use strategies, reflecting its
+socio-economic priorities. The current architecture of Indonesia's carbon   comparative advantage in nature-based solutions. India, another coal
+pricing framework, composed of a modestly priced carbon tax alongside       dependent economy, has opted for a coal cess and the PAT scheme-
+an emergent ETS, reflects a deliberately cautious but strategically sig     while not a conventional ETS, PAT demonstrates how sector-specific
+nificant approach to balancing national development imperatives with        instruments can evolve under political and market constraints. Viet
+climate change mitigation commitments.                                      nam, still in the preparatory phase of its ETS, benefits from targeted
+                                                                            international support through the PMR and the UNDP, highlighting the
+    This subsection directly addresses RQ2, which examines the com          catalytic role of external assistance in building institutional and techni
+parative position of Indonesia's carbon pricing architecture relative to    cal readiness.
+international experiences, with a view to extracting practical lessons
+that may inform both domestic policy refinements and broader global             South Africa and Singapore represent distinct models of gradualism
+carbon pricing strategies. By situating Indonesia's framework within the    in carbon pricing. South Africa introduced its carbon tax in 2019 at a
+wider landscape of global practices, the analysis seeks to identify both    relatively low rate of 7 USD per tonne, extending coverage to energy,
+the systemic challenges and incremental progress that characterize the      industrial, and transport sectors [151]. While the initial price signal is
+country's current trajectory. Furthermore, the discussion aims to distill   modest, the breadth of sectoral inclusion marks an important step to
+actionable insights that can guide Indonesia in refining its mechanisms     ward more comprehensive frameworks. Singapore, classified as a high
+while offering transferrable lessons to other emerging economies. In do     income economy, implemented a carbon tax of 3.69 USD per tonne in
+ing so, the comparative assessment underscores Indonesia's potential to     2019, targeting high-emitting installations. This rate is scheduled to in
+contribute to regional climate governance while aligning national mech      crease to 18.48 USD per tonne by 2024, with coverage spanning the
+anisms with evolving global norms.                                          electricity, industrial, and waste sectors. The predictable escalation and
+                                                                            multi-sector coverage illustrate how measured price pathways can main
+    Table 6 synthesizes comparative information on carbon pricing sys       tain economic competitiveness while progressively advancing climate
+tems implemented across a spectrum of national contexts, revealing          objectives [152].
+notable variation in scope, ambition, and implementation effectiveness.
+Countries such as Sweden, Switzerland, and Canada have embedded                 Within the ASEAN context, Table 6 underscores marked differences
+high-rate taxes and mature ETS frameworks that collectively enable sig      in policy maturity. Singapore maintains a clearly articulated tax trajec
+nificant emissions abatement. Conversely, many developing countries         tory, positioning itself as the regional leader in carbon pricing. Indone
+maintain lower price signals or narrower coverage, constrained by fiscal    sia, by contrast, has initiated a carbon tax set at 2 USD per tonne and
+limitations and institutional readiness. Indonesia aligns with this lat     launched an ETS in 2023 focusing primarily on coalfired power plants.
+ter category, as it attempts to reconcile a heavy reliance on coal and      Vietnam remains at the conceptual stage, with no operational tax or
+sustained economic expansion with the long-term objective of reducing       trading scheme. These variations reflect broader differences in institu
+GHG emissions. These observed disparities in ambition and capacity il       tional capacity, sectoral priorities, and political economy considerations
+luminate valuable considerations for tailoring carbon pricing systems to    among ASEAN member states.
+specific national circumstances.
+                                                                                Beyond national frameworks, international cooperation plays an in
+    Experiences from developed economies highlight the transformative       creasingly strategic role in shaping the ambition and architecture of
+potential of robust, well-calibrated carbon pricing instruments. Sweden,    carbon pricing. Indonesia's engagement through the JETP and prepara
+for instance, has progressively increased its carbon tax to 127.26 USD      tory measures for compliance with the CBAM signal a gradual alignment
+per tonne of CO2 by 2024, while Switzerland's carbon tax, at 132.12 USD     with evolving climate finance mechanisms and international trade reg
+per tonne, ranks among the highest globally [125]. These pricing mech       ulations. South Africa, similarly, has integrated its carbon tax within a
+
+12
+W. Sunanda, M.I.B. Setyonegoro, S.P. Hadi et al.
+                                                                                                                                                                                              Results in Engineering 28 (2025) 107155
+
+Table 6
+Overview of carbon tax and ETS implementation in selected countries, with emphasis on policy-economy fit, governance impacts, and international cooperation
+strategies.
+
+Country       Carbon Tax System           ETS System              Policy-Economy Fit         Governance Impacts       International Cooperation   Ref.
+                                                                                                                      Strategies                  [11,125,127]
+Indonesia     Proposed at 30,000 IDR      Implemented 2023; free  Coal-dominant; low         MoF-MoEF-MEMR            Linked to JETP and CBAM
+                                          allocation in power     carbon price               coordination on fiscal,  response                    [128,129]
+              (2 USD)/tCO2e;              sector                                             MRV, and power sector
+              implementation delayed.                             Coal-reliant; phased       implementation           Green recovery and Just     [130,131]
+                                                                  design                     National Treasury-LED    Energy Transition           [132--134]
+South Africa  Established in 2019;        No national ETS                                                                                         [135,136]
+              10.09 USD/tCO2e by                                  REDD+ aligned with         REDD+ institutions       Active in UNFCCC;           [137,138]
+Brazil        2024.                       Voluntary ETS under     land policy                strong                   developing MRV              [139,140]
+India         No national carbon tax      development             Coal-dependent; political  Central coordination,    Carbon intensity target;    [139,140]
+Vietnam                                   No national ETS; PAT    resistance                 state implementation     CBAM preparation            [139,140]
+              No explicit tax; coal cess  scheme in place         Rapid industrialization    Cross-ministerial        Supported by PMR and
+              used                        ETS under development                              coordination             UNDP                        [139,141]
+              No national carbon tax                              Blended tax-offset fits    National carbon office   Leader in nature-based      [142--144]
+                                                                  commodity economy                                   solutions in Latin America
+Colombia      Started 2017;               ETS planned alongside   Tax aligns with            Integrated EU-level      EU climate leadership       [130,145]
+Finland       6.68 USD/tCO2e in 2024      tax and offsets         low-carbon economy         planning                                             [146--148]
+Sweden                                    EU ETS Phase IV         Integrated with energy     Strong institutional     Aligned with EU climate     [149,150]
+Norway        First in 1990; now                                  and welfare policies       design                   targets
+Denmark       99.99 USD/tCO2e             EU ETS                  Oil exporter; reinvests    Dual system (tax + ETS)  High transparency;
+Switzerland                                                       revenue                                             cross-border trading
+Canada        Since 1991;                 EEA-linked to EU ETS    Supports renewable shift   Stable national          Fully integrated with EU
+              127.26 USD/tCO2e                                                               governance               ETS [139,140]
+Chile                                     EU ETS                  Tax with household         Independent but aligned  Cross-border linkage for
+Japan         Since 1991;                                         rebate                                              ETS
+Singapore     107.78 USD/tCO2e            Linked to EU ETS        Federal-provincial         Pan-Canadian             CBAM-responsive; NAFTA
+                                                                  balance                    framework                partners
+              Since 1992;                 Provincial ETS (e.g.,
+              28.21 USD/tCO2e             Quebec)                 Low rate fits gradual      Green tax reform         Pacific Alliance carbon
+                                                                  shift                      institution              market
+              Since 2008;                 ETS in pilot stage
+              132.12 USD/tCO2e                                    Low tax complements        Local-level ETS          Voluntary carbon market
+                                          Tokyo/Saitama ETS       efficiency policy          leadership               with MRV
+              Federal backstop;
+              58.95 USD/tCO2e in          No national ETS         Aligned with green         Carbon pricing act;      Positioned as carbon
+              2024                                                economy goals              strong MRV               services hub
+
+              Since 2017;
+              5 USD/tCO2e
+
+              Since 2012;
+              2.65 USD/tCO2e
+
+              Since 2019; rising to
+              25 SGD/tCO2e
+
+broader just transition framework supported by green recovery funds        carbon prices [126]. China's national ETS, though the largest globally
+and multilateral financing [129]. Brazil's ETS development is embed        in terms of emissions coverage, initially faced significant challenges in
+ded within its REDD+ strategy, while Colombia focuses on enhanc            cluding over-allocation, lack of sectoral diversity, and limited trading
+ing the integrity of carbon offsets in Latin America [130]. Vietnam's      activity [155]. Addressing these constraints has involved iterative re
+ETS roadmap benefits from capacity-building support for MRV systems        forms, such as tightening benchmarks and introducing more sectors into
+through PMR and UNDP [135]. Canada's carbon pricing aligns with            the system. These adjustments illustrate that policy learning and gradual
+CBAM benchmarks and maintains policy coherence with its NAFTA part         strengthening of market rules are central to maintaining ETS credibility.
+ners, whereas Chile participates in the Pacific Alliance carbon market
+initiative [145].                                                              For Indonesia, these experiences underline the importance of design
+                                                                           ing an ETS that avoids excessive initial allocation and incorporates clear
+    Linking mechanisms between national carbon pricing systems can         plans for cap tightening. Over-allocation, as seen in China's early stages,
+enhance liquidity, price stability, and overall market efficiency. The     can suppress price signals and diminish incentives for emissions reduc
+EU­Switzerland ETS linkage is a prime example, demonstrating how           tion. Similarly, ensuring sectoral diversity--by progressively including
+mutual recognition of allowances, harmonized monitoring protocols,         industries beyond the power sector--can prevent market concentration
+and coordinated policy adjustments can yield efficiency gains for both     and enhance resilience to sector-specific shocks. International examples
+markets. Similarly, the linkage between Quebec and California under        demonstrate that a phased inclusion strategy, combined with robust
+the Western Climate Initiative [153] illustrates that such integration     MRV systems, can facilitate a smooth transition from pilot schemes to
+can function effectively even across international borders with different  a mature market. The strategic placement of Indonesia's ETS within its
+governance systems. These linkages not only strengthen market depth        broader decarbonization framework will determine its long-term rele
+but also promote cross-border investment in low-carbon technologies.       vance and effectiveness.
+However, linking requires significant alignment in allocation methods,
+compliance rules, and enforcement capacity [154]-challenges that can           Another critical dimension of ETS effectiveness lies in the behavior of
+be formidable for developing economies with nascent systems.               allowance prices, which can be highly sensitive to macroeconomic con
+                                                                           ditions, policy uncertainty, and external shocks. Price volatility can un
+    Global lessons from ETS design also highlight the importance of        dermine investment planning, especially in capital-intensive low-carbon
+ambitious cap trajectories, stringent monitoring and verification proce    technologies [156]. In the EU ETS, market stability reserve mechanisms
+dures, and robust compliance enforcement. The EU ETS operates with         have been deployed to address such volatility by adjusting auction vol
+a linear reduction factor that tightens caps annually, creating a pre      umes in response to market imbalances [157]. China's ETS, lacking a
+dictable scarcity of allowances and maintaining upward pressure on         comparable mechanism in its initial years, experienced prolonged pe
+
+                                                                  13
+W. Sunanda, M.I.B. Setyonegoro, S.P. Hadi et al.                                                                                           Results in Engineering 28 (2025) 107155
+
+riods of low trading volumes and stagnant prices. These contrasting          can also strengthen public trust, which in turn supports policy durabil
+experiences point to the necessity of embedding stabilizing instruments      ity.
+early in ETS design.
+                                                                                 International cooperation, particularly in the form of knowledge
+    Price predictability can also be enhanced through the use of             sharing platforms and technical assistance programs, has proven valu
+advanced forecasting tools. In the EU, machine learning models-              able in accelerating learning curves for new carbon pricing adopters.
+including CNN--have been applied to anticipate short-term price              Initiatives such as the World Bank's Partnership for Market Implemen
+movements, thereby informing both market participants and regula             tation and the International Carbon Action Partnership [169,154] facil
+tors [158]. While such predictive tools cannot eliminate volatility, they    itate peer-to-peer exchange, capacity building, and the dissemination of
+can improve decision-making and reduce exposure to sudden price              best practices. These networks can help emerging economies anticipate
+swings. In parallel, agent-based modeling has been employed in Shang         common challenges, adapt proven solutions, and avoid costly policy
+hai's ETS to simulate market participant behavior under different policy     missteps.
+scenarios, revealing that a balanced mix of penalties and incentives is
+most effective in driving low-carbon investment [159]. These analyti             For Indonesia, active participation in such international networks
+cal approaches underscore the value of integrating data-driven insights      can complement domestic policy development by providing access to
+into carbon market governance.                                               both technical expertise and practical policy experience. This exter
+                                                                             nal engagement is especially valuable during the transition from pilot
+    The relationship between carbon pricing and technological innova         programs to fully operational national mechanisms. In addition to ben
+tion is another domain where international experience offers valuable        efiting from global lessons, Indonesia's own experience--particularly in
+insights. In China's thermal power sector, for example, research indi        integrating carbon pricing with broader energy transition policies--can
+cates that significant low-carbon innovation tends to occur only once        contribute to the collective knowledge base, positioning the country as
+carbon prices surpass certain threshold levels [160,161]. This suggests      a constructive actor in regional and global climate governance.
+that price signals must be sufficiently strong to justify the capital costs
+and operational risks associated with new technologies. In the EU ETS,           In summary, the comparative review reveals that while Indonesia's
+complementary policies such as renewable energy subsidies and re             carbon pricing framework is at an early stage, the international evi
+search grants have been essential [162] in reinforcing the innovation        dence base offers a wealth of transferable lessons. These include the need
+stimulus provided by carbon pricing. Without such complementary mea          for clear and escalating price trajectories, robust governance structures,
+sures, price signals alone may not be adequate to catalyze substantial       mechanisms for price stability, and the integration of carbon pricing
+technological change.                                                        with complementary sectoral policies. As Indonesia advances from pilot
+                                                                             initiatives to a fully developed system, careful adaptation of global best
+    Indonesia can draw upon these lessons by ensuring that its car           practices--tempered by local socio-economic realities--will be essential
+bon pricing system--whether tax-based, market-based, or hybrid-              to ensuring both environmental effectiveness and economic resilience.
+establishes clear price trajectories that reach levels capable of influ
+encing investment decisions. A modest initial rate may ease political        5. Conclusion
+acceptance, but the absence of a defined path toward higher prices could
+weaken the system's transformative potential. Furthermore, integrating           Indonesia's carbon pricing framework has been evaluated through
+carbon pricing with targeted support for renewable energy, energy effi       a global lens, using systematic literature review, bibliometric mapping,
+ciency, and industrial decarbonization could create a reinforcing policy     and comparative analysis to examine the role of the carbon tax and
+environment. International evidence suggests that this policy coherence      emissions trading in its climate transition. The assessment identified
+is a critical determinant of long-term emissions reduction outcomes.         key aspects of policy design, institutional coordination, sectoral cover
+                                                                             age, and international alignment, situating Indonesia's approach within
+    Sectoral readiness is equally critical in determining how carbon pric    broader global trends. Current initiatives, comprising a modest carbon
+ing impacts firm behavior and broader market dynamics. In China,             tax and a pilot ETS, mark early yet significant steps toward embedding
+studies have found that ETS participation has heterogeneous effects on       market-based climate instruments into national development planning.
+firm value depending on a company's financial structure, sectoral com        However, persistent challenges--including limited sectoral coverage,
+petitiveness, and prior exposure to environmental regulations [163]. In      low price signals, and institutional fragmentation--underscore the need
+some sectors, carbon pricing has prompted operational efficiency gains       for a more ambitious, flexible, and coordinated framework.
+and stimulated low-carbon product development. In others, especially
+where compliance costs are high and technology options are limited,              The Indonesian case offers broader lessons for other developing
+firm value has been negatively affected. These findings reinforce the im     economies. The combination of a carbon tax and ETS provides a prag
+portance of tailoring compliance flexibility, such as allowing for offset    matic pathway to balance climate objectives with development prior
+use, while ensuring environmental integrity.                                 ities, particularly in contexts of high fossil fuel dependence and con
+                                                                             strained institutional capacity. Integrating carbon pricing with low
+    Macroeconomic linkages also shape ETS outcomes. Research on price        carbon technologies such as biomass cofiring, geothermal power, and
+co-movements between the EU and China indicates that carbon mar              floating solar demonstrates scalable solutions grounded in domestic re
+kets can exhibit correlated volatility driven by global energy prices, ex    sources. From a theoretical perspective, Indonesia's experience enriches
+change rate fluctuations, and synchronized economic cycles [164,165].        understanding of how political economy dynamics, sequencing strate
+This interconnectedness implies that shocks in one major market can rip      gies, and hybrid instruments shape carbon pricing in developing con
+ple through others, affecting allowance prices and potentially undermin      texts, contributing to the literature on adaptive climate policy design in
+ing domestic policy objectives. For emerging markets, understanding          the Global South.
+these linkages is crucial for designing safeguards that protect domestic
+market stability without isolating the system from beneficial interna            To enhance policy effectiveness, three actionable pathways emerge
+tional trends.                                                               from global practice. First, a graduated carbon tax roadmap could tar
+                                                                             get an increase from 2 USD to 10--15 USD per tonne by 2030, aligned
+    Beyond technical and market considerations, public acceptance and        with international benchmarks and domestic socioeconomic indicators.
+political stability remain decisive factors in sustaining carbon pricing     Second, phased ETS expansion can proceed in three stages: 2023--2025
+mechanisms. Experiences from France's ``gilets jaunes'' protests, which      for coalfired power plants, 2026--2028 for industry and transport, and
+were partly triggered by fuel tax increases, underscore the risks of ne      2029--2032 for forestry and agriculture offsets, enabling institutional
+glecting distributional impacts [166,167]. Successful systems tend to        readiness and market adjustment. Third, operational frameworks for
+recycle revenues toward visible public benefits [168], such as household     ASEAN collaboration should harmonize MRV standards, develop in
+rebates, public transportation investments, or clean energy subsidies.       teroperable emissions registries, and design equitable benefit-sharing
+Transparent communication about the use of carbon pricing revenues
+
+14
+W. Sunanda, M.I.B. Setyonegoro, S.P. Hadi et al.                                                                                           Results in Engineering 28 (2025) 107155
+
+schemes to support lower-capacity members. Drawing from Canada's             the Republic of Indonesia, and the Indonesia Endowment Fund for Edu
+federal­provincial model and EU ETS integration, Indonesia can posi          cation through the Indonesian Education Scholarship, reference number
+tion itself as a regional leader in shaping a collaborative carbon pricing   01930/BPPT/BPI.06/9/2024.
+bloc in Southeast Asia.
+                                                                             Data availability
+    For policymakers, actionable priorities include: (i) publishing a clear
+multi-year price corridor for both the carbon tax and ETS; (ii) strength         The data sources are publicly available and have been appropriately
+ening MRV through standardized digital reporting formats, risk-based         cited in the paper.
+third-party verification, and public facility-level disclosure; (iii) recy
+cling revenues transparently to protect vulnerable groups and finance        References
+grid upgrades, energy storage, efficiency measures, industrial electrifi
+cation, and MRV capacity; and (iv) adopting basic market-stabilization          [1] L.J.R. Nunes, The rising threat of atmospheric co2: a review on the causes, impacts,
+safeguards. For industry stakeholders, priorities include: (i) adopting               and mitigation strategies, Environments 10 (4) (2023), https://doi.org/10.3390/
+internal shadow prices aligned with the announced corridor; (ii) pri                  environments10040066.
+oritizing high-return abatement options such as efficiency improve
+ments, waste heat recovery, fuel switching, and process control; and (iii)      [2] R. Motta, The sustainable development goals and 1.5°C climate change, World
+preparing to scale medium-term measures including biomass cofiring,                   Rev. Sci. Technol. Sustain. Dev. 15 (2) (2019) 123--144, https://doi.org/10.1504/
+geothermal expansion, and floating solar PV, supported by digital MRV                 wrstsd.2019.10020807.
+and voluntary disclosure.
+                                                                                [3] X. Shi, The future of asean energy mix: a swot analysis, Renew. Sustain. Energy
+    Looking ahead, future-proofing carbon pricing will depend on deeper               Rev. 53 (2016) 672--680, https://doi.org/10.1016/j.rser.2015.09.010.
+digitalization, transparency, and integration of advanced analytics.
+Standardized plant-level telemetry, satellite-assisted monitoring for           [4] I.W. Parry, S. Black, K. Zhunussova, Carbon taxes or emissions trading sys
+land-based activities, and near real-time public dashboards can en                    tems?: instrument choice and design 2022 (006) (2022), https://doi.org/10.5089/
+hance compliance and benchmarking. Emerging technologies such as                      9798400212307.066.
+artificial intelligence and machine learning can strengthen carbon pric
+ing systems through predictive analytics for allowance prices, anomaly          [5] D. Finon, Carbon policy in developing countries: giving priority to non-price instru
+detection in MRV datasets, optimization of allowance allocation, and                  ments, Energy Policy 132 (2019) 38--43, https://doi.org/10.1016/j.enpol.2019.04.
+adaptive policy calibration. Interoperable registries and harmonized                  046.
+methodologies across ASEAN will reduce transaction costs and enable
+market coupling, while practical support for trade-exposed sectors can          [6] International Energy Agency (IEA), Co2 emissions in 2022, https://www.iea.org/
+improve readiness for evolving border measures. Together, predictable                 reports/co2-emissions-in-2022. (Accessed 5 December 2024).
+pricing, broader coverage, high-integrity MRV, disciplined revenue use,
+technological innovation, and regional cooperation can transform In             [7] E.I. Wiloso, A.R. Wiloso, A.A.R. Setiawan, J. Jupesta, K. Fang, R. Heijungs, F. Fat
+donesia's initial steps into a robust and enduring carbon pricing archi               uray, Sustain. Prod. Consump. 48 (2024) 157--168, https://doi.org/10.1016/j.spc.
+tecture, offering a replicable model for emerging economies aligning                  2024.05.005.
+economic growth with net-zero commitments.
+                                                                                [8] I.F.U. Muzayanah, H.H. Lean, D. Hartono, K.D. Indraswari, R. Partama, Population
+CRediT authorship contribution statement                                              density and energy consumption: a study in Indonesian provinces, Heliyon 8 (9)
+                                                                                      (2022) e10634, https://doi.org/10.1016/j.heliyon.2022.e10634.
+    Wahri Sunanda: Writing -- review & editing, Writing -- original
+draft, Visualization, Methodology, Formal analysis, Data curation. M. Is        [9] N.E. Council, Indonesia Energy Outlook, Dewan Energi Nasional (National
+naeni Bambang Setyonegoro: Writing -- review & editing, Writing                       Energy Council), Indonesia, 2024, https://den.go.id/publikasi/Outlook-Energi-
+­ original draft, Methodology, Formal analysis. Sasongko Pramono                      Indonesia#.
+Hadi: Writing -- review & editing, Writing -- original draft, Validation,
+Methodology, Investigation. Sarjiya: Writing -- review & editing, Writ        [10] UNFCCC, Enhanced nationally determined contribution (endc) - Indonesia, https://
+ing -- original draft, Supervision, Methodology, Conceptualization.                   unfccc.int/sites/default/files/NDC/2022-09/ENDC%20Indonesia.pdf, 2022.
+
+Ethical statement                                                             [11] ADB, Carbon pricing for energy transition and decarbonization, https://
+                                                                                      www.adb.org/sites/default/files/publication/839391/carbon-pricing-energy-
+    The paper has been submitted with full responsibility, following due              transition-decarbonization.pdf, 2022.
+ethical procedure, and there is no duplicate publication, fraud, pla
+giarism. None of the authors of this paper has a financial or personal        [12] J. Chevallier, Principles of Emissions Trading, Springer Berlin Heidelberg, Berlin,
+relationship with other people or organizations that could inappropri                 Heidelberg, 2021, pp. 1--18.
+ately influence or bias the content of the paper.
+                                                                              [13] J. Pan, J.L. Cross, X. Zou, B. Zhang, To tax or to trade? A global review of carbon
+Declaration of competing interest                                                     emissions reduction strategies, Energy Strategy Rev. 55 (2024) 101508, https://
+                                                                                      doi.org/10.1016/j.esr.2024.101508.
+    The authors declare that they have no known competing financial
+interests or personal relationships that could have appeared to influence     [14] X. Yue, M.Y.-P. Peng, M.K. Anser, A.A. Nassani, M. Haffar, K. Zaman, The role of
+the work reported in this paper.                                                      carbon taxes, clean fuels, and renewable energy in promoting sustainable develop
+                                                                                      ment: how green is nuclear energy?, Renew. Energy 193 (2022) 167--178, https://
+Acknowledgements                                                                      doi.org/10.1016/j.renene.2022.05.017.
+
+    The authors gratefully acknowledge the financial support for doc          [15] E. Haites, Carbon taxes and greenhouse gas emissions trading systems: what have
+toral studies provided by the Center for Higher Education Funding and                 we learned?, Climate Policy 18 (8) (2018) 955--966, https://doi.org/10.1080/
+Assessment, Ministry of Higher Education, Science, and Technology of                  14693062.2018.1492897.
+
+                                                                              [16] R. Price, Lessons learned from carbon pricing in developing countries, https://
+                                                                                      opendocs.ids.ac.uk/articles/report/Lessons_Learned_from_Carbon_Pricing_in_
+                                                                                      Developing_Countries/26428297?file=48077197, 2020.
+
+                                                                              [17] A. Booth, M. Martyn-St James, M. Clowes, A. Sutton, Systematic Approaches to a
+                                                                                      Successful Literature Review, SAGE Publications Ltd, London, 2021, http://digital.
+                                                                                      casalini.it/9781529759648.
+
+                                                                              [18] I. Fernández del Amo, J.A. Erkoyuncu, R. Roy, R. Palmarini, D. Onoufriou, A sys
+                                                                                      tematic review of augmented reality content-related techniques for knowledge
+                                                                                      transfer in maintenance applications, Comput. Ind. 103 (2018) 47--71, https://
+                                                                                      doi.org/10.1016/j.compind.2018.08.007.
+
+                                                                              [19] M.J. Grant, A. Booth, A typology of reviews: an analysis of 14 review types and
+                                                                                      associated methodologies, Health Inf. Libr. J. 26 (2) (2009) 91--108, https://doi.
+                                                                                      org/10.1111/j.1471-1842.2009.00848.x.
+
+                                                                              [20] W. Mengist, T. Soromessa, G. Legese, Method for conducting systematic literature
+                                                                                      review and meta-analysis for environmental science research, MethodsX 7 (2020)
+                                                                                      100777, https://doi.org/10.1016/j.mex.2019.100777.
+
+                                                                              [21] V.E. Merida, D. Cook, Ólafur Ögmundarson, B. Davíðsdóttir, Ecosystem services and
+                                                                                      disservices of meat and dairy production: a systematic literature review, Ecosyst.
+                                                                                      Serv. 58 (2022) 101494, https://doi.org/10.1016/j.ecoser.2022.101494.
+
+                                                                              [22] A.T. Jonsdottir, L. Johannsdottir, B. Davidsdottir, Systematic literature review on
+                                                                                      system dynamic modeling of sustainable business model strategies, Clean. Environ.
+                                                                                      Syst. 13 (2024) 100200, https://doi.org/10.1016/j.cesys.2024.100200.
+
+                                                                              [23] R. Raman, R. Vinuesa, P. Nedungadi, Bibliometric analysis of sars, mers, and covid
+                                                                                      19 studies from India and connection to sustainable development goals, Sustainabil
+                                                                                      ity 13 (14) (2021) 7555, https://doi.org/10.3390/su13147555.
+
+15
+W. Sunanda, M.I.B. Setyonegoro, S.P. Hadi et al.                                                                                                             Results in Engineering 28 (2025) 107155
+
+ [24] N. Pourmohammadreza, M.R.A. Jokar, T. Van Woensel, Last-mile logistics with                [49] W. Sujarwo, Stand biomass and carbon storage of bamboo forest in Penglipuran
+         alternative delivery locations: a systematic literature review, Results Eng. 25 (2025)         traditional village, Bali (Indonesia), J. For. Res. 27 (4) (2016) 913--917, https://
+         104085, https://doi.org/10.1016/j.rineng.2025.104085.                                          doi.org/10.1007/s11676-016-0227-0.
+
+ [25] M.E. Falagas, E.I. Pitsouni, G.A. Malietzis, G. Pappas, Comparison of pubmed,              [50] R. Dutu, Challenges and policies in Indonesia's energy sector, Energy Policy 98
+         scopus, web of science, and Google scholar: strengths and weaknesses, FASEB J.                 (2016) 513--519, https://doi.org/10.1016/j.enpol.2016.09.009.
+         22 (2) (2008) 338--342, https://doi.org/10.1096/fj.07-9492LSF, epub 2007 Sep
+         20. PMID: 17884971.                                                                     [51] T. Urata, T. Yamada, N. Itsubo, Global supply chain network design and Asian anal
+                                                                                                        ysis with material based carbon emissions and tax, Comput. Ind. Eng. 113 (2017)
+ [26] W.M. Bramer, G.B. de Jonge, M.L. Rethlefsen, F. Mast, J. Kleijnen, A systematic                   779--792, https://doi.org/10.1016/j.cie.2017.07.032.
+         approach to searching: an efficient and complete method to develop literature
+         searches, J. Med. Libr. Assoc. 106 (4) (2018) 531--541, https://doi.org/10.5195/        [52] Y. Miyata, H. Shibusawa, I. Permana, A. Wahyuni, The Impact of a Carbon Tax on
+         jmla.2018.283.                                                                                 the Economy of Makassar City, vol. 23, Springer Singapore, 2018, pp. 181--195.
+
+ [27] A. MacFarlane, T. Russell-Rose, F. Shokraneh, Search strategy formulation for sys          [53] H. Wibert, S. Sabaruddin, H. Sulthon, Incentive-based policy to promote the
+         tematic reviews: issues, challenges and opportunities, Intell. Syst. Appl. 15 (2022)           production of geothermal power from carbon tax scheme: a case of Indone
+         200091, https://doi.org/10.1016/j.iswa.2022.200091.                                            sian cge model, Riv. Studi Sulla Sostenib. 1 (2020) 105--127, https://doi.org/10.
+                                                                                                        3280/riss2020-001007, https://www.francoangeli.it/riviste/Scheda_Rivista.aspx?
+ [28] M. Aria, C. Cuccurullo, bibliometrix: an r-tool for comprehensive science mapping                 IDArticolo=66828&Tipo=ArticoloPDF.
+         analysis, J. Informetr. 11 (4) (2017) 959--975, https://doi.org/10.1016/j.joi.2017.
+         08.007.                                                                                 [54] S. Dissanayake, R. Mahadevan, J. Asafu-Adjaye, Evaluating the efficiency of carbon
+                                                                                                        emissions policies in a large emitting developing country, Energy Policy 136 (2020)
+ [29] M. Aria, M. Misuraca, M. Spano, Mapping the evolution of social research and                      111080, https://doi.org/10.1016/j.enpol.2019.111080.
+         data science on 30 years of social indicators research, Soc. Indic. Res. 149 (2020)
+         803--831, https://doi.org/10.1007/s11205-020-02281-3.                                   [55] W. Dewanatan, M. Adiputra, I. Putro, et al., The influence of carbon tax on the
+                                                                                                        feasibility of industrial project: a case study of heat exchanger replacement at PT
+ [30] O. Adepoju, L. David, N. Nwulu, Analysing the impact of human capital on re                       Kaltim Methanol Industri, Indonesia, ASEAN J. Chem. Eng. 20 (2) (2020) 196--204,
+         newable energy penetration: a bibliometric reviews, Sustainability 14 (14) (2022)              https://doi.org/10.22146/ajche.59515.
+         8852, https://doi.org/10.3390/su14148852.
+                                                                                                 [56] J. Steckel, I. Dorband, L. Montrone, et al., Distributional impacts of carbon pricing
+ [31] R. Raman, P. Singh, V.K. Singh, R. Vinuesa, P. Nedungadi, Understanding the biblio                in developing Asia, Nat. Sustain. 4 (2021) 1005--1014, https://doi.org/10.1038/
+         metric patterns of publications in ieee access, IEEE Access 10 (2022) 35561--35577,            s41893-021-00758-8.
+         https://doi.org/10.1109/ACCESS.2022.3161639.
+                                                                                                 [57] D. Nong, P. Simshauser, D. Nguyen, Greenhouse gas emissions vs co2 emissions:
+ [32] B. Liu-Lastres, Y. Yang, C.X. Zhang, Optimalfit model of risk perception and travel               comparative analysis of a global carbon tax, Appl. Energy 298 (2021) 117223,
+         related behaviors during a global pandemic, J. Destin. Mark. Manag. 34 (2024)                  https://doi.org/10.1016/j.apenergy.2021.117223.
+         100958, https://doi.org/10.1016/j.jdmm.2024.100958.
+                                                                                                 [58] R. Mahadevan, A. Nugroho, Balancing equity, environmental and growth objec
+ [33] I. Siksnelyte-Butkiene, D. Streimikiene, V. Lekavicius, T. Balezentis, Energy poverty             tives: a case study of electricity subsidy reform in a large polluting developing coun
+         indicators: a systematic literature review and comprehensive analysis of integrity,            try, Australas. J. Environ. Manag. 4 (2021) 316--338, https://doi.org/10.1080/
+         Sustain. Cities Soc. 67 (2021) 102756, https://doi.org/10.1016/j.scs.2021.102756.              14486563.2021.1986155.
+
+ [34] N. Thakkar, D. Kaliyaperumal, V.R. Pandi, Trend and evolution in muti-microgrid            [59] M.R. Hasan, T.C. Roy, Y. Daryanto, H.-M. Wee, Optimizing inventory level and
+         systems: a bibliometric analysis and literature review, Results Eng. 25 (2025)                 technology investment under a carbon tax, cap-and-trade and strict carbon limit
+         104065, https://doi.org/10.1016/j.rineng.2025.104065.                                          regulations, Sustain. Prod. Consump. 25 (2021) 604--621, https://doi.org/10.1016/
+                                                                                                        j.spc.2020.12.005.
+ [35] D.P. Ramadhani, Y. Koo, Comparative analysis of carbon border tax adjustment and
+         domestic carbon tax under general equilibrium model: focusing on the Indonesian         [60] S. Tiwari, H.M. Wee, Y. Zhou, L. Tjoeng, Freight consolidation and containerization
+         economy, J. Clean. Prod. 377 (2022) 134288, https://doi.org/10.1016/j.jclepro.                 strategy under business as usual scenario & carbon tax regulation, J. Clean. Prod.
+         2022.134288.                                                                                   279 (2021) 123270, https://doi.org/10.1016/j.jclepro.2020.123270.
+
+ [36] M. Yang, Y. Liu, Research on multi-energy collaborative operation optimization of          [61] N. Pertiwi, T.W. Tsusaka, T.P.L. Nguyen, I. Abe, N. Sasaki, Nature-based carbon
+         integrated energy system considering carbon trading and demand response, Energy                pricing of full ecosystem services for peatland conservation--a case study in Riau
+         283 (2023) 129117, https://doi.org/10.1016/j.energy.2023.129117.                               Province, Indonesia, Nat.-Based Solut. 2 (2022) 100023, https://doi.org/10.1016/
+                                                                                                        j.nbsj.2022.100023.
+ [37] K. Ahmed, Environmental policy stringency, related technological change and emis
+         sions inventory in 20 oecd countries, J. Environ. Manag. 274 (2020) 111209,             [62] A. Edianto, G. Trencher, K. Matsubae, Why do some countries receive more interna
+         https://doi.org/10.1016/j.jenvman.2020.111209.                                                 tional financing for coalfired power plants than renewables? Influencing factors in
+                                                                                                        23 countries, Energy Sustain. Dev. 66 (2022) 177--188, https://doi.org/10.1016/j.
+ [38] R. Shrestha, C. Marpaung, Supply- and demand-side effects of carbon tax in the                    esd.2021.12.004.
+         Indonesian power sector: an integrated resource planning analysis, Energy Policy
+         27 (4) (1999) 185--194, https://doi.org/10.1016/s0301-4215(99)00003-8.                  [63] J.A. Ordonez, M. Fritz, J. Eckstein, Coal vs. renewables: least-cost optimization of
+                                                                                                        the Indonesian power sector, Energy Sustain. Dev. 68 (2022) 350--363, https://
+ [39] D. Hartono, A. Mori, A. Nugroho, Effect of carbon tax on emission reduction and                   doi.org/10.1016/j.esd.2022.04.017.
+         renewable energy promotion in Indonesia: a preliminary analysis, https://doi.org/
+         10.4324/9781003325154-7, 2023.                                                          [64] W. Ahmad Jauhari, Sustainable inventory management for a closed-loop supply
+                                                                                                        chain with energy usage, imperfect production, and green investment, Clean. Lo
+ [40] D. Hartono, W. Indriyani, B.S. Iryani, A. Komarulzaman, A. Nugroho, R. Kurniawan,                 gist. Supply Chain 4 (2022) 100055, https://doi.org/10.1016/j.clscn.2022.100055.
+         Carbon tax, energy policy, and sustainable development in Indonesia, Sustain. Dev.
+         31 (4) (2023) 2332--2346, https://doi.org/10.1002/sd.2511.                              [65] Z. Tan, L. Carrasco, S. Sutikno, D. Taylor, Peatland restoration as an affordable
+                                                                                                        nature-based climate solution with fire reduction and conservation co-benefits in
+ [41] R. Dyarto, D. Setyawan, Understanding the political challenges of introducing a car               Indonesia, Environ. Res. Lett. 17 (2022) 064028, https://doi.org/10.1088/1748-
+         bon tax in Indonesia, Int. J. Environ. Sci. Technol. 18 (2021) 1479--1488, https://            9326/ac6f6e.
+         doi.org/10.1007/s13762-020-02925-4.
+                                                                                                 [66] Y. Chang, H. Phoumin, Curtailed electricity and hydrogen in association of south
+ [42] A.S. Kamil, L. Setyaningrum, A.C. Lesmana, et al., Regional impact analysis of                    east Asian nations and East Asia summit: perspectives form an economic and envi
+         carbon tax implementation on Indonesia's coal power plant with interregional                   ronmental analysis, Int. J. Hydrog. Energy 47 (58) (2022) 24548--24557, https://
+         input-output method, Int. J. Energy Econ. Policy 13 (3) (2023) 149--157, https://              doi.org/10.1016/j.ijhydene.2021.10.194.
+         doi.org/10.32479/ijeep.14115.
+                                                                                                 [67] F.A. Kamandika, S. Dhakal, Impact of carbon price on Indonesia's power sector up
+ [43] W. Sunanda, M.I.B. Setyonegoro, S.P. Hadi, Sarjiya, Carbon tax and trading mech                   to 2050, Carbon Neutr. 2 (2023) 27, https://doi.org/10.1007/s43979-023-00066-
+         anisms for emission reduction in the Indonesian power sector, Clean. Eng. Technol.             4.
+         27 (2025) 101024, https://doi.org/10.1016/j.clet.2025.101024.
+                                                                                                 [68] Y. Yunikewaty, D. Siswahyudi, The role of green energy technologies development,
+ [44] A.A.R. Setiawan, S.S. Munawar, R. Ariesca, D. Purnomo, R. Ishizaki, A.S. Putra, K.                carbon finance, carbon tax and economic growth on environmental conditions in
+         Siregar, A.N. Sidiq, E.I. Wiloso, T. Ahamed, R. Noguchi, A life cycle assessment of            asean countries, Int. J. Energy Econ. Policy 13 (5) (2023) 558--565, https://doi.
+         cofiring in a coal power plant to estimate purchasing cost of empty fruit bunch pel            org/10.32479/ijeep.14667.
+         lets, Nihon Enerugi Gakkaishi (J. Jpn. Inst. Energy) 102 (8) (2023) 84--95, https://
+         doi.org/10.3775/jie.102.84.                                                             [69] F. Chien, T.L. Vu, T.T. Hien Phan, S. Van Nguyen, N.H. Viet Anh, T.Q. Ngo, Zero
+                                                                                                        carbon energy transition in asean countries: the role of carbon finance, carbon
+ [45] M.A. Rahmanta, A. Aprilana, Ruly, N. Cahyo, T.W.D. Hapsari, E. Supriyanto,                        taxes, and sustainable energy technologies, Renew. Energy 212 (2023) 561--569,
+         Techno-economic and environmental impact of biomass cofiring with carbon cap                   https://doi.org/10.1016/j.renene.2023.04.116.
+         ture and storage in Indonesian power plants, Sustainability 16 (8) (2024) 3423,
+         https://doi.org/10.3390/su16083423.                                                     [70] Sarjiya, L.M. Putranto, R.F.S. Budi, D. Novitasari, Deendarlianto, Tumiran, Role of
+                                                                                                        the energy-carbon-economy nexus and co2 abatement cost in supporting energy
+ [46] E. Massetti, M. Tavoni, A developing Asia emission trading scheme (Asia ets), En                  policy analysis: a multi-scenario analysis of the Java-Bali system, Renew. Sustain.
+         ergy Econ. 34 (2012) S436--S443, https://doi.org/10.1016/j.eneco.2012.02.005.                  Energy Rev. 187 (2023) 113708, https://doi.org/10.1016/j.rser.2023.113708.
+
+ [47] A. Yusuf, B. Resosudarmo, On the distributional impact of a carbon tax in develop          [71] I. Junianto, Sunardi, D. Sumiarsa, The possibility of achieving zero co2 emission in
+         ing countries: the case of Indonesia, Environ. Econ. Policy Stud. 17 (2015) 131--156,          the Indonesian cement industry by 2050: a stakeholder system dynamic perspec
+         https://doi.org/10.1007/s10018-014-0093-y.                                                     tive, Sustainability 15 (7) (2023) 6085, https://doi.org/10.3390/su15076085.
+
+ [48] T. Hasegawa, S. Fujimori, R. Boer, G.S. Immanuel, T. Masui, Land-based mitigation
+         strategies under the mid-term carbon reduction targets in Indonesia, Sustainability
+         8 (12) (2016), https://doi.org/10.3390/su8121283.
+
+16
+W. Sunanda, M.I.B. Setyonegoro, S.P. Hadi et al.                                                                                                               Results in Engineering 28 (2025) 107155
+
+ [72] J. Langer, M. Zaaijer, J. Quist, K. Blok, Introducing site selection flexibility to         [94] E. Syahruddin, R. Saputra, A. Cardenas, A. Ali, Carbon trading as a new paradigm
+         technical and economic onshore wind potential assessments: new method with ap                    for Indonesia's polluter pays principle, J. Law Leg. Reform 5 (1) (2024) 27--52,
+         plication to Indonesia, Renew. Energy 202 (2023) 320--335, https://doi.org/10.                   https://doi.org/10.15294/jllr.vol5i1.2090.
+         1016/j.renene.2022.11.084.
+                                                                                                  [95] Y. Nurhayati, Ifrani, M.Y. Said, M.H. Yanova, Carbon pricing policy to support net
+ [73] W.A. Jauhari, S.C. Novia Ramadhany, C. Nur Rosyidi, U. Mishra, H. Hishamud                          zero emission: a comparative study of Indonesia, Finland and Sweden, Environ.
+         din, Pricing and green inventory decisions for a supply chain system with green                  Policy Law 54 (1) (2024) 53--63, https://doi.org/10.3233/EPL-230047.
+         investment and carbon tax regulation, J. Clean. Prod. 425 (2023) 138897, https://
+         doi.org/10.1016/j.jclepro.2023.138897.                                                   [96] S.S. Wirawan, M.D. Solikhah, H. Setiapraja, A. Sugiyono, Biodiesel implementation
+                                                                                                          in Indonesia: experiences and future perspectives, Renew. Sustain. Energy Rev. 189
+ [74] H.A. Gabbar, O.L.A. Esteves, Planning and evaluation of nuclear-renewable hybrid                    (2024) 113911, https://doi.org/10.1016/j.rser.2023.113911.
+         energy penetration for marine and waterfront applications, Energies 16 (14) (2023)
+         5329, https://doi.org/10.3390/en16145329.                                                [97] J. Jaenicke, H. Wösten, A. Budiman, F. Siegert, Planning hydrological restoration of
+                                                                                                          peatlands in Indonesia to mitigate carbon dioxide emissions, Mitig. Adapt. Strateg.
+ [75] W.A. Jauhari, I.D. Wangsa, H. Hishamuddin, N. Rizky, A sustainable vendor-buyer                     Glob. Change 15 (2010) 223--239, https://doi.org/10.1007/s11027-010-9214-5.
+         inventory model with incentives, green investment and energy usage under stochas
+         tic demand, Cogent Bus. Manag. 10 (1) (2023) 2158609, https://doi.org/10.1080/           [98] H. Lu, G. Liu, A case study of redd+ challenges in the post-2012 climate regime:
+         23311975.2022.2158609.                                                                           the scenarios approach, Nat. Resour. Forum 36 (3) (2012) 192--201, https://doi.
+                                                                                                          org/10.1111/j.1477-8947.2012.01452.x.
+ [76] M. Suef, W.A. Jauhari, I.N. Pujawan, A.R. Dwicahyani, Investigating carbon emis
+         sions in a single-manufacturer multi-retailer system with stochastic demand and          [99] I. Hilwan, A. Indrawan, Supriyanto, T. Rusolono, Carbon emission reduction po
+         hybrid production facilities, Process Integr. Optim. Sustain. 7 (2023) 743--764,                 tential through sustainable forest management in forest concession of PT Salaki
+         https://doi.org/10.1007/s41660-023-00320-3.                                                      Summa Sejahtera, Province of West Sumatera, J. Manaj. Hutan Trop. 18 (3) (2012)
+                                                                                                          169--176, https://doi.org/10.7226/jtfm.18.3.169.
+ [77] A. Rokhmawati, V. Sarasi, L.T. Berampu, Scenario analysis of the Indonesia carbon
+         tax impact on carbon emissions using system dynamics modeling and stirpat model,        [100] D.B. Nguyen, D. Nong, M. Siriwardana, H.T. Pham, Insights from asean-wide emis
+         Geogr. Sustain. 5 (4) (2024) 577--587, https://doi.org/10.1016/j.geosus.2024.07.                 sions trading schemes (etss): a general equilibrium assessment, Energy Policy 178
+         003.                                                                                             (2023) 113583, https://doi.org/10.1016/j.enpol.2023.113583.
+
+ [78] F. Andrianus, H. Handra, P. Ayu, P.D. Safitri, R.V.K. Cahyadi, The impact of im            [101] S.M.M. Hasan, A.H.M. Mashud, S. Miah, Y. Daryanto, M.K. Lim, M.-L. Tseng, A
+         plementing a carbon tax on welfare: case study of Indonesia and the other asean                  green inventory model considering environmental emissions under carbon tax, cap
+         member countries, Int. J. Energy Econ. Policy 14 (3) (2024) 647--657, https://                   and-offset, and cap-and-trade regulations, J. Ind. Prod. Eng. 40 (7) (2023) 538--553,
+         doi.org/10.32479/ijeep.15779.                                                                    https://doi.org/10.1080/21681015.2023.2242377.
+
+ [79] I.M.L.M. Jaya, M.A.E. Padilla, Tax carbon policy: momentum to accelerate In                [102] I.E. Agency, An energy sector roadmap to net zero emissions in Indonesia: ex
+         donesia's sustainable economic growth towards green economy, https://doi.org/                    ecutive summary, https://www.iea.org/reports/an-energy-sector-roadmap-to-net-
+         10.4018/979-8-3693-1297-1.ch009, 2024.                                                           zero-emissions-in-indonesia/executive-summary. (Accessed 28 October 2024).
+
+ [80] D.Y. Aji, U.S. Putro, System dynamics modeling of leveraging geothermal potential          [103] H. Ritchie, P. Rosado, M. Roser, Emissions by sector: where do greenhouse gases
+         in Indonesia towards emission reduction effort: a case study in Indonesia state                  come from?, Our World in Data, 2020, https://ourworldindata.org/emissions-by-
+         owned energy enterprise, Renew. Energy Focus 51 (2024) 100612, https://doi.                      sector.
+         org/10.1016/j.ref.2024.100612.
+                                                                                                 [104] ICAP, Indonesia launches voluntary ets trial for power sector, https://
+ [81] M. Rifansyah, D.F. Hakam, Techno economic study of floating solar photovoltaic                      icapcarbonaction.com/en/news/indonesia-launches-voluntary-ets-trial-power-
+         project in Indonesia using retscreen, Clean. Energy Syst. 9 (2024) 100155, https://              sector. (Accessed 13 November 2024).
+         doi.org/10.1016/j.cles.2024.100155.
+                                                                                                 [105] ICAP, Indonesia launches emissions trading system for power generation sector,
+ [82] L.D. Hersaputri, R. Yeganyan, C. Cannone, F. Plazas-Niño, S. Osei-Owusu, Y. Koun                    https://icapcarbonaction.com/en/news/indonesia-launches-emissions-trading-
+         touris, M. Howells, Reducing fossil fuel dependence and exploring just energy                    system-power-generation-sector. (Accessed 15 November 2024).
+         transition pathways in Indonesia using osemosys (open-source energy modelling
+         system), Climate 12 (3) (2024) 37, https://doi.org/10.3390/cli12030037.                 [106] MEMR, Transaksi perdagangan karbon tahun 2023 capai rp84 miliar, https://
+                                                                                                          www.esdm.go.id/id/media-center/arsip-berita/transaksi-perdagangan-karbon-
+ [83] C.N. Rosyidi, D.M. Pratama, An optimization model of supplier selection and or                      tahun-2023-capai-rp84-miliar, 2024. (Accessed 22 August 2024).
+         der allocation with transportation mode alternatives under carbon cap and trade
+         policy, Cogent Eng. 11 (1) (2024) 2321757, https://doi.org/10.1080/23311916.            [107] F. Deane, E. Hamman, Y. Pei, Principles of transparency in emissions trading
+         2024.2321757.                                                                                    schemes: the Chinese experience, Transnatl. Environ. Law 6 (1) (2017) 87--106,
+                                                                                                          https://doi.org/10.1017/S2047102516000145.
+ [84] I.D. Apriliyanti, D.B. Nugraha, S. Kristiansen, I. Overland, To reform or not reform?
+         Competing energy transition perspectives on Indonesia's monopoly electricity sup        [108] U. Tanveer, S. Ishaq, T.G. Hoang, Enhancing carbon trading mechanisms through
+         plier Perusahaan Listrik Negara (PLN), Energy Res. Soc. Sci. 118 (2024) 103797,                  innovative collaboration: case studies from developing nations, J. Clean. Prod. 482
+         https://doi.org/10.1016/j.erss.2024.103797.                                                      (2024) 144122, https://doi.org/10.1016/j.jclepro.2024.144122.
+
+ [85] L. Yola, G.A. Nanditho, T.O. Adekunle, O.G. Ayegbusi, M.E. Aminanto, E.W.C.                [109] ADB, Emissions Trading Schemes and Their Linking: Challenges and Opportuni
+         Chan, D. Manandhar, The impact of the urban traffic on the co2 intensity: a naviga               ties in Asia and the Pacific, Asian Development Bank, 2016, https://www.adb.org/
+         tion study using gnss application in Jakarta city, J. Asian Archit. Build. Eng. (2024)           sites/default/files/publication/182501/emissions-trading-schemes.pdf.
+         1--19, https://doi.org/10.1080/13467581.2024.2386264.
+                                                                                                 [110] I. Parry, S. Black, J. Roaf, Proposal for an international carbon price
+ [86] M. Roelfsema, M.d. Elzen, N. Höhne, A.F. Hof, N. Braun, H. Fekete, H. Böttcher,                     floor among large emitters, Staff Clim. Notes 2021 (001) (2021), https://
+         R. Brandsma, J. Larkin, Are major economies on track to achieve their pledges for                www.imf.org/en/Publications/staff-climate-notes/Issues/2021/06/15/Proposal-
+         2020? An assessment of domestic climate and energy policies, Energy Policy 67                    for-an-International-Carbon-Price-Floor-Among-Large-Emitters-460468.
+         (2014) 781--796, https://doi.org/10.1016/j.enpol.2013.11.055.
+                                                                                                 [111] M. University, Does Indonesia's carbon tax have the power to trigger a sustain
+ [87] D. Stevens, The influence of the fossil fuel and emission-intensive industries on                   able market shift?, Monash Lens, https://lens.monash.edu/2022/05/03/1384628/
+         the stringency of mitigation policies: evidence from the oecd countries and Brazil,              does-indonesias-carbon-tax-have-the-power-to-trigger-a-sustainable-market-shift.
+         Russia, India, Indonesia, China and South Africa, Environ. Policy Gov. 29 (2019)                 (Accessed 25 October 2024).
+         279--292, https://doi.org/10.1002/eet.1853.
+                                                                                                 [112] C.G. Initiative, Primer on climate change: directors' duties and disclosure obli
+ [88] J. Putra, N. Nabilla, F. Jabanto, Comparing ``carbon tax'' and ``cap and trade'' as                 gations, Climate Governance Hub, https://hub.climate-governance.org/Primer/
+         mechanism to reduce emission in Indonesia, Int. J. Energy Econ. Policy 11 (5)                    Geography/id. (Accessed 20 October 2024).
+         (2021) 106--111, https://doi.org/10.32479/ijeep.11375.
+                                                                                                 [113] J. Carl, D. Fedor, Tracking global carbon revenues: a survey of carbon taxes versus
+ [89] N. Sasaki, Timber production and carbon emission reductions through improved                        cap-and-trade in the real world, Energy Policy 96 (2016) 50--77, https://doi.org/
+         forest management and substitution of fossil fuels with wood biomass, Resour.                    10.1016/j.enpol.2016.05.023.
+         Conserv. Recycl. 173 (2021) 105737, https://doi.org/10.1016/j.resconrec.2021.
+         105737.                                                                                 [114] Andriansyah, S.H. Hong, Carbon pricing in asean+3 economies: progress and chal
+                                                                                                          lenges, https://amro-asia.org/wp-content/uploads/dlm_uploads/2022/11/AMRO-
+ [90] N. Sasaki, Y.Y. Myint, I. Abe, M. Venkatappa, Predicting carbon emissions, emis                     Analytical-Note_Carbon-Pricing-in-ASEAN3-Economies_final.pdf, 2022.
+         sions reductions, and carbon removal due to deforestation and plantation forests
+         in Southeast Asia, J. Clean. Prod. 312 (2021) 127728, https://doi.org/10.1016/j.        [115] H. Xu, X. Pan, J. Li, S. Feng, S. Guo, Comparing the impacts of carbon tax and
+         jclepro.2021.127728.                                                                             carbon emission trading, which regulation is more effective?, J. Environ. Manag.
+                                                                                                          330 (2023) 117156, https://doi.org/10.1016/j.jenvman.2022.117156.
+ [91] K. Cetera, Recognition of forest carbon rights in Indonesia: a constitutional ap
+         proach, Lentera Huk. 9 (1) (2022) 151--176, https://doi.org/10.19184/ejlh.v9i1.         [116] M. Ahmad, X.F. Li, Q. Wu, Carbon taxes and emission trading systems: which one
+         29331.                                                                                           is more effective in reducing carbon emissions?-a meta-analysis, J. Clean. Prod.
+                                                                                                          476 (2024) 143761, https://doi.org/10.1016/j.jclepro.2024.143761.
+ [92] T. Leonard, Heriyanti, E.F. Pakpahan, R.M. Fenitra, The influence of green tax reg
+         ulations on new renewable energy funding in Indonesia, Bestuur 11 (2) (2023)            [117] B. Doda, M. Hall, C. Haug, E. Kuneman, T. Laroche-Theune, A. Boute, P. Vu Hiep,
+         384--405, https://doi.org/10.20961/bestuur.v11i2.82506.                                          Carbon pricing potential in East and south Asia: synthesis and case studies for In
+                                                                                                          donesia, Vietnam, and Pakistan, https://adelphi.de/system/files/document/2023-
+ [93] Y. Daryanto, D. Setyanto, Production inventory optimization considering direct and                  04-17_climate-change_16-2023_carbon-pricing_east-south-asia.pdf#page=41.08,
+         indirect carbon emissions under a cap-and-trade regulation, Logistics 7 (1) (2023)               2023.
+         16, https://doi.org/10.3390/logistics7010016.
+                                                                                                 [118] V.K. Duggal, Carbon pricing development and dynamics: implications for devel
+                                                                                                          oping Asia, in: Asian Development Outlook 2023 Thematic Report Background
+
+17
+W. Sunanda, M.I.B. Setyonegoro, S.P. Hadi et al.
+
+Papers, 2023, https://www.adb.org/sites/default/files/institutional-document/                                                                             Results in Engineering 28 (2025) 107155
+
+874256/adotr2023bp-carbon-pricing-developing-asia.pdf.                                               Centre for Technology, Innovation and Sustainable Development; in collaboration
+                                                                                                     with Singapore's Ministry of Sustainability and the Environment and the Insti
+[119] H. El Hafdaoui, A. Khallaayoun, K. Ouazzani, Long-term low carbon strategy of                  tute for Environment and Sustainability, Lee Kuan Yew School of Public Policy,
+                                                                                                     National University of Singapore, 2025.
+Morocco: a review of future scenarios and energy measures, Results Eng. 21 (2024)           [139] S. Speck, Carbon taxation: two decades of experience and future prospects, Carbon
+                                                                                                     Manag. 4 (2) (2013) 171--183, https://doi.org/10.4155/cmt.12.81.
+101724, https://doi.org/10.1016/j.rineng.2023.101724.                                       [140] International Carbon Action Partnership, Eu emissions trading system (eu ets),
+                                                                                                     https://icapcarbonaction.com/en/ets/eu-emissions-trading-system-eu-ets, 2025,
+[120] K. Li, J. Ran, M.K. Kim, Z. Tian, J. Liu, Optimizing long-term park-level integrated           international Carbon Action Partnership (ICAP) ETS Map Factsheet. Status: in
+                                                                                                     force since 2005. Updated March 2025.
+energy system through multi-stage planning: a study incorporating the ladder-type           [141] International Carbon Action Partnership, Switzerland emissions trading sys
+                                                                                                     tem, https://icapcarbonaction.com/en/ets/switzerland-emissions-trading-system,
+carbon trading mechanism, Results Eng. 22 (2024) 102107, https://doi.org/10.                         2025, international Carbon Action Partnership (ICAP) ETS Map Factsheet. Status:
+                                                                                                     in force. Linked with EU ETS since January 2020. Updated March 2025.
+1016/j.rineng.2024.102107.                                                                  [142] ICAP, Canada federal output-based pricing system, https://icapcarbonaction.com/
+                                                                                                     en/compare/135. (Accessed 12 November 2024).
+[121] R. Jayabal, Towards a carbon-free society: innovations in green energy for a sus      [143] Government of Canada, Carbon pollution pricing: federal benchmark informa
+                                                                                                     tion, https://www.canada.ca/en/environment-climate-change/services/climate-
+tainable future, Results Eng. 24 (2024) 103121, https://doi.org/10.1016/j.rineng.                    change/pricing-pollution-how-it-will-work/carbon-pollution-pricing-federal-
+                                                                                                     benchmark-information.html, 2024.
+2024.103121.                                                                                [144] ICAP, Canada - quebec cap-and-trade system, https://icapcarbonaction.com/en/
+                                                                                                     ets/canada-quebec-cap-and-trade-system. (Accessed 12 November 2024).
+[122] G.L. Kyriakopoulos, 15 - should low carbon energy technologies be envisaged in        [145] Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ), Global car
+                                                                                                     bon market: Chile factsheet, Factsheet published by GIZ under the Global
+the context of sustainable energy systems?, in: G.L. Kyriakopoulos (Ed.), Low Car                    Carbon Market project, https://www.giz.de/de/downloads/GCM_Factsheet_Chile_
+                                                                                                     Final.pdf. (Accessed 4 January 2025).
+bon Energy Technologies in Sustainable Energy Systems, Academic Press, 2021,                [146] International Carbon Action Partnership (ICAP), Japan - Tokyo cap-and-trade pro
+                                                                                                     gram, https://icapcarbonaction.com/en/ets/japan-tokyo-cap-and-trade-program.
+pp. 357--389.                                                                                        (Accessed 10 November 2024).
+                                                                                            [147] T.H. Arimura, S. Matsumoto (Eds.), Carbon Pricing in Japan, 1st edition, Eco
+[123] G.L. Kyriakopoulos, Environmental legislation in European and international con                nomics, Law, and Institutions in Asia Pacific, Springer Singapore, 2021, hardcover
+                                                                                                     published: 18 September 2020; Softcover published: 19 September 2021; eBook
+texts: legal practices and social planning toward the circular economy, Laws 10 (1)                  published: 17 September 2020. Part of the Economics and Finance eBook package.
+                                                                                            [148] X. Jia, K. Takeuchi, Induced innovation in power generation technologies: evi
+(2021) 3, https://doi.org/10.3390/laws10010003.                                                      dence from the Tokyo­Saitama emissions trading system, Energy Econ. 129 (2024)
+                                                                                                     107227, https://doi.org/10.1016/j.eneco.2023.107227.
+[124] F. Fuso Nerini, M. Mazzucato, J. Rockstrom, H. van Asselt, J.W. Hall, S. Matos,       [149] National Climate Change Secretariat (NCCS), Carbon tax, https://www.nccs.gov.
+                                                                                                     sg/singapores-climate-action/mitigation-efforts/carbontax/. (Accessed 13 January
+A. Persson, B. Sovacool, R. Vinuesa, J. Sachs, Extending the sustainable devel                       2025).
+                                                                                            [150] National Environment Agency, Carbon tax, https://www.nea.gov.sg/our-services/
+opment goals to 2050 - a road map, Nature 630 (2024) 555--558, https://                              climate-change-energy-efficiency/climate-change/carbon-tax, 2025. (Accessed 14
+                                                                                                     August 2025).
+doi.org/10.1038/d41586-024-01754-6.                                                         [151] H. Qu, S. Suphachalasai, S. Thube, S. Walker, South Africa Carbon Pricing and Cli
+                                                                                                     mate Mitigation Policy, IMF Selected Issues Paper SIP/2023/040, International
+[125] World Bank, Carbon pricing dashboard: compliance instruments, https://                         Monetary Fund, Washington, D.C., 2023, https://www.imf.org/en/Publications/
+                                                                                                     selected-issues-papers/Issues/2023/06/26/South-Africa-Carbon-Pricing-and-
+carbonpricingdashboard.worldbank.org/compliance/instrument-detail.         (Ac                       Climate-Mitigation-Policy-South-Africa-535220.
+                                                                                            [152] A. Köppl, M. Schratzenstaller, Carbon taxation: a review of the empirical literature,
+cessed 12 October 2024).                                                                             J. Econ. Surv. 37 (4) (2022) 1353--1388, https://doi.org/10.1111/joes.12531.
+                                                                                            [153] Western Climate Initiative, Inc., Program design and implementation, https://wci-
+[126] EU Commission, EU Emissions Trading System (EU ETS), https://climate.ec.                       inc.org/our-work/program-design-and-implementation, 2025. (Accessed 13 Au
+                                                                                                     gust 2025).
+europa.eu/eu-action/eu-emissions-trading-system-eu-ets_en. (Accessed 11 Novem               [154] A. Kachi, C. Unger, N. Böhm, K. Stelmakh, C. Haug, M. Frerk, Linking emissions
+                                                                                                     trading systems: a summary of current research, https://icapcarbonaction.com/
+ber 2024).                                                                                           system/files/document/icap_linking-input-paper.pdf, January 2015.
+                                                                                            [155] Y. Wei, Y. Li, J. Chevallier, M. Wojewodzki, The efficiency of China's carbon trading
+[127] World Bank, State and Trends of Carbon Pricing 2024, Washington, DC, http://                   schemes: a tale of seven pilot markets, Commodities 3 (3) (2024) 355--375, https://
+                                                                                                     doi.org/10.3390/commodities3030020.
+hdl.handle.net/10986/41544, 2024.                                                           [156] X. Gong, S. Ji, Y. Zhang, Attention to climate events and carbon price volatility,
+                                                                                                     Finance Res. Lett. 79 (2025) 107253, https://doi.org/10.1016/j.frl.2025.107253.
+[128] Republic of South Africa, South Africa's low emission development strategy            [157] European Commission, Directorate-General for Climate Action, Mar
+                                                                                                     ket stability reserve under the eu emissions trading system, https://
+(2020--2050), https://unfccc.int/sites/default/files/resource/South%20Africa%                        climate.ec.europa.eu/eu-action/carbon-markets/eu-emissions-trading-system-
+                                                                                                     eu-ets/market-stability-reserve_en, 2025, consulted date: 13 August 2025.
+27s%20Low%20Emission%20Development%20Strategy.pdf, 2020, submitted to                       [158] W. Huang, H. Wang, H. Qin, Y. Wei, J. Chevallier, Convolutional neural network
+                                                                                                     forecasting of European Union allowances futures using a novel unconstrained
+the United Nations Framework Convention on Climate Change (UNFCCC).                                  transformation method, Energy Econ. 110 (2022) 106049, https://doi.org/10.
+                                                                                                     1016/j.eneco.2022.106049.
+[129] International Renewable Energy Agency (IRENA), German Federal Ministry for Eco        [159] Y. Wei, X. Liang, L. Xu, G. Kou, J. Chevallier, Trading, storage, or penalty? Uncov
+                                                                                                     ering firms' decision-making behavior in the Shanghai emissions trading scheme:
+nomic Cooperation and Development (BMZ), KfW Development Bank, Deutsche                              insights from agent-based modeling, Energy Econ. 117 (2023) 106463, https://
+                                                                                                     doi.org/10.1016/j.eneco.2022.106463.
+Gesellschaft für Internationale Zusammenarbeit (GIZ), The renewable energy                  [160] Y. Wei, R. Zhu, L. Tan, Emission trading scheme, technological innovation, and
+                                                                                                     competitiveness: evidence from China's thermal power enterprises, J. Environ.
+transition in Africa: powering access, resilience and prosperity, commissioned                       Manag. 320 (2022) 115874, https://doi.org/10.1016/j.jenvman.2022.115874.
+                                                                                            [161] R. Zhu, Y. Wei, L. Tan, Low-carbon technology adoption and diffusion with hetero
+by the German Federal Ministry for Economic Cooperation and Development                              geneity in the emissions trading scheme, Appl. Energy 369 (2024) 123537, https://
+                                                                                                     doi.org/10.1016/j.apenergy.2024.123537.
+(BMZ), https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2021/                   [162] P. Lehmann, E. Gawel, Why should support schemes for renewable electricity
+                                                                                                     complement the eu emissions trading scheme?, in: Special Section: Transition
+March/Renewable_Energy_Transition_Africa_2021.pdf, 2021.
+
+[130] Nature-based Solutions Initiative, Update from cop16: signs that Latin
+
+America is stepping up on climate and nature leadership, https://
+
+www.naturebasedsolutionsinitiative.org/news/update-from-cop16-latin-america-
+
+stepping-up-on-climate-and-nature-leadership/. (Accessed 4 January 2025).
+
+[131] B. Perosa, P. Newton, R.F.B. da Silva, A monitoring, reporting and verification sys
+
+tem for low carbon agriculture: a case study from Brazil, Environ. Sci. Policy 140
+
+(2023) 286--296, https://doi.org/10.1016/j.envsci.2022.12.006.
+
+[132] R. Kathuria, N. Gupta, N. Kumar, India's carbon border adjustment mecha
+
+nism (cbam) challenge: Strategic response and policy options, CSEP Working
+
+Paper 90, Centre for Social and Economic Progress (CSEP), New Delhi, In
+
+dia, 2025, https://csep.org/wp-content/uploads/2025/02/Indias-Carbon-Border-
+
+Adjustment-Mechanism-CBAM-Challenge.pdf.
+
+[133] International Carbon Action Partnership (ICAP), India adopts regulations for
+
+planned compliance carbon market, https://icapcarbonaction.com/en/news/
+
+india-adopts-regulations-planned-compliance-carbon-market. (Accessed 5 Decem
+
+ber 2024).
+
+[134] International Institute for Sustainable Development (IISD), The evolution of the
+
+clean energy cess on coal production in India, In Stories of Change: Fossil
+
+Fuel Subsidy Reform and Energy Transitions, https://www.iisd.org/system/files/
+
+publications/stories-g20-india-en.pdf. (Accessed 13 December 2024).
+
+[135] International Carbon Action Partnership (ICAP), New law in Vietnam cre
+
+ates mandate for ets, https://icapcarbonaction.com/en/news/new-law-vietnam-
+
+creates-mandate-ets. (Accessed 3 January 2025).
+
+[136] United Nations Development Programme, Opportunities for carbon pricing
+
+in Vietnam, Tech. rep., United Nations Development Programme (UNDP),
+
+Hanoi, Vietnam, 2020, prepared with support from the Partnership for
+
+Market Readiness (PMR). Discusses potential carbon tax and ETS options
+
+for Vietnam, https://www.undp.org/sites/g/files/zskgke326/files/migration/vn/
+
+Opportunities-for-Carbon-Pricing-in-Vietnam_Eng.pdf.
+
+[137] International Carbon Action Partnership, Colombia national program of tradable
+
+greenhouse gas emission quotas, https://icapcarbonaction.com/system/files/ets_
+
+pdfs/icap-etsmap-factsheet-92.pdf, 2024, international Carbon Action Partnership
+
+(ICAP) ETS Map Factsheet. Status: under development. Last updated September
+
+2024.
+
+[138] United Nations Development Programme, Carbon tax in an evolving carbon
+
+economy: Policy design & digital innovations, https://www.undp.org/sites/g/
+
+files/zskgke326/files/2025-03/undp-carbon-tax-in-an-evolving-carbon-economy-
+
+digital-version.pdf#page=71.12, united Nations Development Programme, Global
+
+                                                                              18
+W. Sunanda, M.I.B. Setyonegoro, S.P. Hadi et al.                                                                                                          Results in Engineering 28 (2025) 107155
+
+         Pathways to a Low Carbon Economy, Energy Policy 52 (2013) 597--607, https://       [167] M.H. Ehsassi, H. Landemore, The gilets jaunes protests, macron's democratic ex
+         doi.org/10.1016/j.enpol.2012.10.018.                                                        periment, and deliberative mini-publics, Tech. rep., SNF Agora Institute, Johns
+[163] Y. He, Y. Wei, Y. Fang, Y. Cao, Booming or sinking: how does an emission trading               Hopkins University, Baltimore, MD, 2022, case study for academic and ed
+         scheme affect enterprise value?, Chin. J. Popul. Resour. Environ. 20 (3) (2022)             ucational use only, https://snfagora.jhu.edu/wp-content/uploads/2022/12/SNF-
+         227--236, https://doi.org/10.1016/j.cjpre.2022.09.003.                                      Agora-Case-Study_Deliberative-Mini-Publics.pdf#page=13.10.
+[164] Y. Meng, L. Wang, Y. Wei, Z. Shi, Z. Luo, Time-frequency dynamics, co-movement
+         and causality among returns of global carbon emissions trading schemes (etss): a   [168] World Bank, State and trends of carbon pricing 2025, https://doi.org/
+         tale of four markets, J. Clean. Prod. 363 (2022) 132564, https://doi.org/10.1016/           10.1596/978-1-4648-2255-1, https://openknowledge.worldbank.org/bitstreams/
+         j.jclepro.2022.132564.                                                                      152de0c2-e2be-49d6-aec1-3be8ebad4f74/download, 2025.
+[165] W. Huang, H. Wang, Y. Wei, Identifying the determinants of European carbon
+         allowances prices: a novel robust partial least squares method for open-high-low   [169] Partnership for Market Implementation, World Bank Group Climate Change,
+         close data, Int. Rev. Financ. Anal. 90 (2023) 102938, https://doi.org/10.1016/j.            Pmi annual report 2024: building partnerships for a low-carbon future, https://
+         irfa.2023.102938.                                                                           www.pmiclimate.org/sites/default/files/downloads/publication/PMIF_Annual_
+[166] T. Douenne, A. Fabre, Yellow vests, pessimistic beliefs, and carbon tax aversion,              Report_February_24_25_Digital.pdf, 2024.
+         Am. Econ. J., Econ. Policy 14 (1) (2022) 81--110, https://doi.org/10.1257/pol.
+         20200092.
+
+19
+

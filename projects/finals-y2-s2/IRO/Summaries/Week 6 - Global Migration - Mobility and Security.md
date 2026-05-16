@@ -8,31 +8,36 @@
 
 ---
 
-## 1. What the Study Guide tells you to know
+## 1. What the Study Guide tells you to know — with definitions
 
-The Baisir guide's "Migration and mobility" glossary is the **complete short-answer ammunition** for this week — every term below is fair game:
+The Baisir guide's "Migration and mobility" glossary is the **complete short-answer ammunition** for this week. Every term below is fair game. Definitions are drawn from the lecture, Huysmans, Hollifield, or — where the readings don't define a term — from the UNHCR / IOM glossaries (the canonical international references).
 
-- **refugee** (1951 Convention definition)
-- **asylum seeker** (still awaiting status decision)
-- **internally displaced person (IDP)** (has not crossed an international border)
-- **stateless person**
-- **voluntary vs forced migration**
-- **push and pull factors**
-- **securitization of migration** — the central concept
-- **the liberal paradox** — the central Hollifield concept
-- **the migration state** — the central Hollifield concept
-- **the 1951 Refugee Convention**
-- **non-refoulement** — cannot return refugee to country where they face persecution
-- **border externalization** — pushing border control beyond your own territory (EU's deals with Tunisia, Turkey)
-- **migration diplomacy** — using migration as a bargaining chip in interstate relations
-- **diaspora**
+| Term | Definition | Source |
+|---|---|---|
+| **Refugee** | A person who, owing to a **well-founded fear of being persecuted** for reasons of race, religion, nationality, membership of a particular social group, or political opinion, is outside the country of their nationality and is unable — or owing to such fear, unwilling — to avail themselves of its protection. | Art. 1, 1951 Geneva Convention (in lecture) |
+| **Asylum-seeker** | Someone seeking international protection whose request for refugee status has **not yet been processed** (or who has not yet formally applied but intends to). Asylum-seeker is the pending-status version of refugee. | UNHCR (in lecture) |
+| **Internally Displaced Person (IDP)** | Persons forced to flee their homes — particularly due to armed conflict, generalised violence, human rights violations, or natural/human-made disasters — **who have not crossed an internationally recognized state border**. The border is what distinguishes IDPs from refugees. | UN Guiding Principles on Internal Displacement (in lecture) |
+| **Stateless person** | A person not considered as a national by any state under the operation of its law. Statelessness can be inherited (born to stateless parents), arise from gaps in nationality laws, state succession, or discriminatory denial of citizenship. The 1954 Convention Relating to the Status of Stateless Persons is the relevant international instrument. | UNHCR (not defined in lecture — added from canonical source) |
+| **Voluntary vs forced migration** | **Voluntary** migration is motivated by choice (work, study, family, lifestyle). **Forced** migration is compelled by external pressures — persecution, conflict, disaster, or development displacement — that leave the person with no meaningful alternative. In practice the line blurs (economic desperation, environmental degradation). | IOM (lecture references the distinction; definition added) |
+| **Push and pull factors** | **Push factors** are conditions in the country of origin that drive people to leave: war, persecution, poverty, environmental degradation, political repression. **Pull factors** are conditions in the destination country that attract: jobs, family, safety, freedoms, welfare. Hollifield uses *supply-push* and *demand-pull* as economic shorthand for the same idea. | Standard migration-studies framework (used throughout Hollifield) |
+| **Securitization of migration** | The political process by which migration is **constructed as a security issue** through speech acts and institutional practices, framing migrants as an existential threat to public order, identity, or welfare — which justifies extraordinary measures that bypass normal democratic politics. | Huysmans 2000; Wæver / Copenhagen School |
+| **The liberal paradox** | Hollifield's central concept: liberal states are trapped between the **economic logic** of liberalism (which pushes toward openness to trade, investment, and migration to maintain competitiveness) and the **political and legal logic** of liberalism (which pushes toward closure — borders, the demos, the social contract). They want both and can fully have neither. | Hollifield 1992, 2004 |
+| **The migration state** | Hollifield's name for the **third function** of the modern state, alongside the garrison state (security) and Rosecrance's trading state (economy). In the migration state, regulating international migration is as central a function as providing security and economic well-being. | Hollifield 2004 |
+| **1951 Refugee Convention** | The Geneva Convention Relating to the Status of Refugees. Sets out the **definition** of a refugee, their rights, and the legal obligations of signatory states. Together with its **1967 Protocol** (which removed the original geographic and temporal restrictions to "European events before 1951"), it is the legal backbone of the global refugee regime. | Lecture; Hollifield |
+| **Non-refoulement** | The rule that a state party to the 1951 Convention **cannot return** an individual to a country where they face threats of persecution. It is the single most important principle of refugee law and is widely regarded as customary international law (binding even on non-signatories). | Hollifield; 1951 Convention Art. 33 |
+| **Border externalization** | Pushing border control **beyond your own territory** — by funding, training, and equipping third countries to police migration before migrants reach your borders. Examples: the EU-Tunisia 2023 deal, the EU-Turkey 2016 deal, the US "safe third country" arrangements. | Lecture; Huysmans |
+| **Migration diplomacy** | The use of migration as a **bargaining chip** in interstate relations. Can be coercive (blackmail, "let us in or we'll release the migrants") or cooperative (backscratching). Yields material gains (economic, institutional, aid) and symbolic gains (status, reputation, moral standing). | Lecture; Tolay 2022 |
+| **Diaspora** | A community of people who have settled outside their country of origin but maintain ties (sentimental, cultural, economic, political) with the homeland. Diasporas can be transnational political actors — lobbying host-state policy, sending remittances, shaping homeland politics. | Standard usage (not formally defined in week materials; included as a Baisir glossary term) |
 
 From the lecture you should also be ready on:
-- The **Copenhagen School** (Buzan, Wæver) — security as **speech act**
-- The **Paris School** (Bigo) — security as **everyday practice** of professionals
-- The **Global Refugee Regime** (Betts) and its deficiencies
+- The **Copenhagen School** (Buzan, Wæver) — security as **speech act**.
+- The **Paris School** (Bigo) — security as **everyday practice** of professionals.
+- The **Global Refugee Regime** (Betts) and its deficiencies.
 
 Likely short-answer prompt: *"How and why has migration been securitised in liberal states, and what are the consequences?"* Or: *"What is the 'liberal paradox' Hollifield identifies, and how have liberal states tried to escape it?"*
+
+> **Explained easily — the whole week in one paragraph:**
+> Migration crosses borders, and borders are where states matter most. Two readings give you the two big stories: **Huysmans** says EU politics has *made* migration into a security problem (it didn't have to be one — politicians, police and bureaucrats framed it that way). **Hollifield** says liberal democracies are stuck in a contradiction — their economies need open borders, their politics demand closed borders. The whole week is about how those two stories interact, and how the EU has built institutions (Schengen, Dublin, Frontex, deals with Tunisia/Turkey) that try to manage both.
 
 ---
 
@@ -102,6 +107,9 @@ Four theoretical explanations:
 2. **Identity and failure of multicultural policies** (Joppke) — are migrants challenging societies' identities? **Ontological insecurity** and fear of "the Other," Islam, Migrants (Kinvall).
 3. **Globalization** — acceleration of mobility; countries of emigration become countries of transit and destination (e.g. Morocco). Neoliberal reforms + need for cheap labour.
 4. **Eurocentric / Western-centric approach to migration** — ignores local circumstances; lots of migration is intra-regional. Need to **decentre** approaches to migration (El Qadim).
+
+> **Explained easily — the four "why is migration political" answers:**
+> Wolff offers four theories for why migration dominates headlines: (1) **securitization** — politicians and bureaucrats keep *calling* it a security threat; (2) **identity / failed multiculturalism** — voters feel their society's culture is being diluted ("ontological insecurity"); (3) **globalization** — neoliberal economies need cheap labour, mobility has accelerated, and old "emigration countries" like Morocco are now also "transit" and "destination" countries; (4) **Eurocentrism** — most migration is actually intra-regional (Africans moving to other African countries, Asians to other Asian countries), but European debates pretend it's all heading north. You can apply any of these four lenses on the exam.
 
 ### 2.8 Securitization theory — the Copenhagen School (Buzan, Wæver)
 
@@ -244,6 +252,9 @@ Migration has become a **meta-issue** — a phenomenon that can be referenced as
 - Metaphors like **"invasion" or "flood"** of asylum-seekers dramatise the threat.
 - Securitisation here is also embedded in a **struggle for political legitimacy** of the post-war political order in Europe. The welfare-state crisis is in essence a **political crisis** about the decline of the post-war technology of social integration. Migrants become **scapegoats** for declining political legitimacy.
 
+> **Explained easily — what Huysmans is doing:**
+> Imagine the EU said in the 1980s, "OK, we'll let goods, services, money, and people move freely between us." Fine for goods. But the moment you remove internal borders, governments panic about who is moving where. So they reinforce **external borders** and start treating immigration and asylum the same way they treat **terrorism, drug trafficking, and organised crime** — same departments, same databases, same logic. Huysmans says: that wasn't inevitable. Police, politicians and media *chose* to lump migration into the security basket. Once that's done, immigrants and asylum-seekers are framed as a threat to (1) public order, (2) national identity/culture, and (3) the welfare state. Even moderate voices end up speaking the security language. **The EU didn't just respond to a "migration crisis" — its institutions helped manufacture one.**
+
 ### 3.8 Conclusion — Huysmans' bottom line
 
 - Migration has become a **meta-issue in the political spectacle** — connecting identity controls, visa policy, asylum, integration, social entitlements, cultural diversity.
@@ -369,6 +380,9 @@ The way out (or at least the way to **finesse** the paradox):
 - **Vicente Fox (Mexico) sought a similar approach with NAFTA** — but the US (especially post-9/11) is reluctant.
 - In Asia, more divided, often authoritarian, little prospect of rights-granting to migrants. The exceptions (Japan, Taiwan, South Korea) are only beginning. In Africa and the Middle East — high migration but unstable, fluid states with little institutional capacity.
 
+> **Explained easily — what Hollifield is doing:**
+> A liberal country can't fully control migration without abandoning its own values. To stay rich, it needs trade, investment, and workers — that means letting people in. But it's also a *liberal* state, meaning courts protect migrants once they're inside (you can't just deport everyone), and the public expects the government to police the borders. So Germany invites Turkish guest workers in the 1960s, tries to send them home in the 1970s, fails because courts protect family reunification, and ends up with a permanent immigrant population. Repeat for every liberal democracy. Max Frisch's line nails it: **"We asked for workers, but human beings came."** Hollifield's contribution is naming this trap — the **liberal paradox** — and saying it's now a *third function* of the state (alongside security and trade): managing the contradiction. The EU is the only experiment so far at doing this regionally.
+
 ### 4.14 Conclusion — Hollifield's bottom line
 
 Migration is both a **cause** and a **consequence** of political and economic change. International migration, like trade, is a **fundamental feature of the postwar liberal order**. As states and societies become more liberal and open, migration has increased.
@@ -394,6 +408,9 @@ Migration is both a **cause** and a **consequence** of political and economic ch
 
 They are **complementary** rather than rival accounts. Huysmans tells you about the **politics** of how migration becomes a security issue; Hollifield tells you about the **legal/economic structure** that produces the paradox in the first place.
 
+> **Explained easily — Huysmans vs. Hollifield in one sentence:**
+> Huysmans tells you *how* migration becomes a political problem (discourse + practice — it's constructed). Hollifield tells you *why states are stuck* with it (an economic-vs-political contradiction baked into liberalism). You usually need both to write a strong essay.
+
 ### 5.2 The Paris vs. Copenhagen split (from lecture, important for full marks)
 
 | | Copenhagen School (Wæver, Buzan) | Paris School (Bigo) |
@@ -402,6 +419,9 @@ They are **complementary** rather than rival accounts. Huysmans tells you about 
 | Where to look | Political discourse, exceptional measures | Bureaucratic routines, "managers of flows" |
 | Where the threat comes from | Existential threats articulated by political elites | "Governmentality of fear and unease" enacted by border guards, police, customs, datasharing systems |
 | Solution to securitisation | **Desecuritisation** — return to normal politics | Critique of the entire bureaucratic field |
+
+> **Explained easily — Copenhagen vs. Paris:**
+> Copenhagen looks at **politicians on TV** saying "migrants are a threat" — that *speech act* is what creates the security problem. Paris looks at **the border guard at the airport** running biometric checks, the customs officer profiling travellers, the database engineer building Eurodac — those *everyday practices* are what really create the regime of suspicion. Same phenomenon, two levels of analysis. On the exam, name both and you look like you've read the lecture properly.
 
 Huysmans synthesises elements of both — he's more on the Copenhagen side but draws on Bigo's "internal security field" idea.
 

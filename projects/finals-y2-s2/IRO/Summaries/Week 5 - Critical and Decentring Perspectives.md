@@ -8,27 +8,39 @@
 
 ---
 
-## 1. What the Study Guide tells you to know
+## 1. What the Study Guide tells you to know — with definitions
 
-Most of the relevant glossary terms sit under "Critical and non-Western IR" — virtually all are testable for Week 5:
+Most of the relevant glossary terms sit under "Critical and non-Western IR" — virtually all are testable for Week 5. Definitions are drawn from the Heywood chapter, Seth, the Wolff lecture, or — where the readings don't define a term — from standard reference sources.
 
-- **problem-solving theory vs. critical theory** (Robert Cox's foundational distinction)
-- **world-systems theory; core–periphery** (Wallerstein, Marxist)
-- **Gramscian hegemony** (consent + coercion; "common sense"; counter-hegemony)
-- **subaltern** (Gramsci → postcolonial)
-- **discourse and power-knowledge** (Foucault)
-- **biopolitics** (Foucault)
-- **Orientalism** (Said)
-- **post-colonialism**
-- **decolonizing IR**
-- **feminist IR**
-- **intersectionality** (Crenshaw 1991)
-- **standpoint theory**
-- **decentring** (Fisher-Onar & Nicolaïdis 2013 — provincialise, engage, reconstruct)
-- **non-Western IR / Global IR** (links to Week 4)
-- **post-positivism** (foundational meta-theory split)
+| Term | Definition | Source |
+|---|---|---|
+| **Problem-solving theory** | Theory that takes the world as it is and asks how to make existing institutions and power relations work better. Implicitly conservative; serves policymakers within the existing system. | Cox 1981 (in Heywood) |
+| **Critical theory** | Theory that asks how the existing order came into being, whose interests it serves, and how it might be changed. Emancipatory, post-positivist, transformative. *"Theory is always for someone and for some purpose."* | Cox 1981 (in Heywood) |
+| **World-systems theory** | Wallerstein's neo-Marxist account of the world economy as one interlocking capitalist system, divided into **core** (developed North — high wages, advanced manufacturing), **periphery** (less-developed South — raw materials, subsistence wages, weak states), and **semi-periphery** (subordinate to core, extractive over periphery). Structural inequality is built in. | Heywood Ch. 4 |
+| **Core–periphery** | The structural inequality at the heart of world-systems theory: core countries accumulate wealth and technology by **exploiting** peripheral countries (raw materials, cheap labour). The semi-periphery acts as a buffer. Also used by dependency theorists more broadly. | Heywood Ch. 4 |
+| **Gramscian hegemony** | Domination achieved not just through coercion (force) but through **consent**: the dominant class's ideas become the **"common sense" of the age**, displacing rivals and seeming natural. Hegemony operates through institutions, civil society, and the state — not only the army or the police. | Gramsci, *Prison Notebooks*; Heywood Ch. 4 |
+| **Subaltern** | Those **excluded from hegemonic structures** and dominant-class discourse — the marginalised, voiceless, dependent groups whose perspectives don't make it into mainstream knowledge. Gramsci's term, picked up by postcolonial theory (Gayatri Spivak's "Can the Subaltern Speak?"). | Gramsci / Lecture |
+| **Discourse / power-knowledge** | Foucault's claim that **knowledge is power**: what counts as "truth" is produced by discourses (organised systems of statements, categories, practices) that simultaneously enable and constrain what can be said and done. There is no neutral knowledge separate from power relations. | Foucault, via Heywood + lecture |
+| **Biopolitics** | Foucault's term for how **the modern state regulates life itself** — populations, health, sexuality, behaviour — through "humane" practices of **discipline and surveillance** (prisons, asylums, schools, factories, workhouses, hospitals). Power becomes productive, not just repressive. | Foucault; lecture |
+| **Orientalism** | Edward Said's term for the West's systematic **construction of "the East"** as a coherent, exotic, irrational, inferior Other. This knowledge-production justified imperial domination and still shapes how Western media, scholarship, and politics depict the Middle East, North Africa, and Asia. | Said 1978 (referenced in lecture / Seth) |
+| **Postcolonialism** | A critical lens that highlights **colonial legacies and racial hierarchies** in contemporary IR. Argues mainstream IR is Eurocentric and treats the international order as hierarchical, not anarchic. The "post" doesn't mean "after colonialism" — it means the colonial encounter **constituted** the modern world. | Lecture; Seth |
+| **Decolonizing IR** | A scholarly project to **dismantle the Eurocentric foundations** of IR — its concepts (sovereignty, anarchy, balance of power), its canon (Thucydides → Hobbes → Kant), its archives (European diplomatic history) — and rebuild the discipline from a wider base of voices, histories, and experiences. | General usage; links to Acharya Week 4 |
+| **Feminist IR** | A family of approaches challenging IR's **gender-blindness**: empirical feminism (women have been excluded from analysis), analytical feminism (mainstream concepts like "power politics" are built on masculinist assumptions of rivalry/competition), and normative feminism (changing gender hierarchies in world politics). Includes liberal, Marxist, postcolonial, and eco-feminist strands. | Heywood; lecture |
+| **Intersectionality** | Kimberlé Crenshaw's 1991 framework: multiple axes of identity (**gender × race × class × sexuality × ability × culture × geography × religion × age**) intersect to shape oppression and experience. A Black working-class woman doesn't experience "racism + sexism + classism" as three separable layers — the intersection itself is distinct. | Crenshaw 1991; lecture |
+| **Standpoint theory** | The idea that **knowledge is situated** — that the perspective of marginalised people offers **epistemic privilege** because they understand both the dominant culture (they have to, in order to survive in it) and their own. J. Ann Tickner is the IR exemplar of standpoint feminism. | Heywood; lecture |
+| **Decentring** | Fisher-Onar & Nicolaïdis's three-part framework for EU foreign policy: **provincialise** (recognise Europe is not the universal centre), **engage** (listen to and learn from non-European perspectives), **reconstruct** ("a renewal of EU external action based on humility, empowerment, and mutuality"). | Fisher-Onar & Nicolaïdis 2013; lecture |
+| **Non-Western IR / Global IR** | The Acharya-led project (Week 4) of broadening IR's foundations to include non-Western histories and concepts. **Global IR** is the constructive version — not replacing Western IRT but enriching it. Week 5 treats this as a **sister critique** to postcolonial theory. | Acharya 2014; Wolff lecture connects to this |
+| **Post-positivism** | The meta-theoretical position that **rejects positivism's claim** to objective, neutral, value-free knowledge. Post-positivists (constructivists, critical theorists, postcolonialists, feminists, poststructuralists) argue knowledge is situated, shaped by power, and partly constitutes the world it describes. | Heywood (foundational meta-theory) |
+| **Frankfurt School** | The Marxist-influenced Institute of Social Research (Frankfurt 1923 → US in 1930s → back to Frankfurt 1950s → dissolved 1969). First generation: **Adorno, Horkheimer, Marcuse**. Second generation: **Habermas**. Applied to IR by **Cox** and **Linklater**. Core theme: extend critique to all social practices, link substantive research to philosophy. | Heywood Ch. 4 |
+| **Theoretical reflexivity** | An awareness of the impact of the **values and presuppositions** that a theorist brings to analysis, plus understanding of the historical dynamics that helped form them. The basic move critical theory demands of all theorists. | Heywood Ch. 4 |
+| **Deconstruction** | Derrida's method — close reading of texts to expose their **blindspots, internal contradictions, and the binary oppositions they rely on**. The classic poststructuralist technique for showing that any text means something other (and more) than it appears. | Heywood Ch. 4 |
+| **Provincialise Europe** | Dipesh Chakrabarty's phrase (used by Seth) — strip Europe of its assumed universal status, treat European history as **one regional history** among many rather than as the template for all human history. | Seth 2011 |
+| **Ubiquity ≠ universality** | Seth's killer line: just because a practice (international law, the nation-state, the rational individual) is **globally widespread** does not make it **universal**. Widespread adoption tells you nothing about origins or the circumstances of its imposition. | Seth 2011 |
 
 Likely short-answer prompt: *"How do critical theories challenge mainstream IR? Use an example."* Or: *"What does postcolonial theory bring to the study of IR that mainstream theories miss?"*
+
+> **Explained easily — the whole week in one paragraph:**
+> Mainstream IR (realism, liberalism, even much of constructivism) pretends to be *neutral and scientific*. Critical theorists say: no theory is neutral — **theory is always for someone and for some purpose** (Cox). Mainstream IR was built by Western men, for Western states, drawing on European history, asking the questions Western policymakers cared about. The critical theories (Marxism, Frankfurt School, feminism, poststructuralism, postcolonialism) all attack this from different angles. **Seth's job** in the required reading is to do the postcolonial version of this attack: he shows that IR sanitises the history of colonialism, falsely claims its concepts (sovereignty, the nation-state, international law) are universal when they are European exports, and **naturalises** (treats as obvious) things that are actually historically produced. The whole week is about that single meta-move: *the discipline is part of the power it claims to merely describe.*
 
 ---
 
@@ -147,6 +159,9 @@ Question for the EU: *how can the EU remain a relevant actor in a multiplex worl
 
 ---
 
+> **Explained easily — what the lecture's two case studies (Iran and Ukraine) are doing for you:**
+> Wolff walks through Iran and Ukraine using **four different critical lenses** (postcolonial, feminist, Marxist, poststructuralist) to show you *how a critical theorist actually does analysis*. The same event looks completely different depending on the lens. That's the **point** — for the exam, if asked "apply a critical theory to a contemporary case," you can grab any of these as a template: name the lens, identify what the lens makes visible (women's protests, oil interests, colonial extraction, the labels we use), and contrast that with what mainstream IR would see (state behaviour, balance of power, sanctions effectiveness).
+
 ## 3. Required reading 1 — Heywood & Whitham, Chapter 4 "Critical Theories of Global Politics"
 
 *The textbook chapter, presented through the 2nd-edition material in your folder — substantively identical to the 3rd-ed Ch. 4 on critical theories.*
@@ -203,6 +218,9 @@ Marxism is the principal critical/radical alternative to realist and liberal thi
 
 This is the meta-distinction the entire Critical vs. Mainstream table rests on.
 
+> **Explained easily — Cox in one example:**
+> Imagine the UN Security Council is dysfunctional. A **problem-solving** theorist asks: "How can we reform the veto so the Council works better?" That accepts the Council as legitimate. A **critical** theorist asks: "Why does this body exist with these five permanent members in the first place? Whose interests does it serve? What alternative orders might be possible?" Cox's point is that mainstream IR almost always does the first kind of work — and pretends that's the only "serious" kind. Critical theorists insist the second kind is just as legitimate and politically necessary.
+
 ### 3.7 Constructivism (positioned as a bridge to critical theories)
 
 - "Anarchy is what states make of it" (Wendt 1992).
@@ -229,6 +247,9 @@ This is the meta-distinction the entire Critical vs. Mainstream table rests on.
 
 ---
 
+> **Explained easily — what Heywood Ch. 4 is doing:**
+> The chapter walks you through the family tree of critical theories — Marxism → neo-Marxism (world-systems) → critical theory proper (Frankfurt School + Gramsci) → constructivism → poststructuralism → feminism. Each is presented as a **layer of critique** of mainstream realism/liberalism. The key thing to take from this chapter is **Cox's distinction** between problem-solving theory (works inside the existing system) and critical theory (questions the system itself). That distinction structures the whole exam-relevant Mainstream vs. Critical table in §2.5 — it's the single most testable thing here.
+
 ## 4. Required reading 2 — Seth, "Postcolonial Theory and the Critique of International Relations" (2011)
 
 *Millennium 40(1), pp. 167–183. The most cited piece for this week. A **three-part** postcolonial critique of mainstream IR.*
@@ -238,6 +259,9 @@ This is the meta-distinction the entire Critical vs. Mainstream table rests on.
 > *"What is distinctive about the critique offered here is that it seeks to systematically 'provincialise Europe' — in a threefold sense: it challenges the centrality accorded to Europe as the historical source and origin of the international order; it queries the universality accorded to moral and legal perspectives which reflect and reproduce the power relations characteristic of the colonial encounter…; and it questions the epistemological privilege accorded to an understanding of knowledge which is blind to the constitutive, and not merely representational, role of knowledge."*
 
 Seth does **not** offer a better way of "doing" IR — he offers a **critique** of the discipline.
+
+> **Explained easily — what Seth is doing:**
+> Seth attacks mainstream IR in **three moves**: (1) **History is wrong** — IR's story of the "expansion of international society" sanitises slavery, conquest, and genocide, treating colonialism as a footnote when it's actually central. (2) **Universality is fake** — IR says its rules (sovereignty, international law) are universal because everyone uses them, but Seth's line is *"ubiquity is not universality"* — mini-skirts and burqas are also globally widespread; that doesn't make them universal features of womanhood. (3) **Knowledge constitutes reality** — IR doesn't just *describe* the international order, it *helps produce* it by treating the nation-state as natural when it's actually a recent and contingent historical creation. Bottom line: IR theory *naturalises what it should problematise.*
 
 ### 4.2 Part I — History: the "expansion of international society" narrative is wrong
 

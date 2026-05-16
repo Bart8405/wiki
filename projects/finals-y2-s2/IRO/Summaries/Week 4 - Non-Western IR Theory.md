@@ -6,23 +6,33 @@
 
 ---
 
-## 1. What the Study Guide tells you to know
+## 1. What the Study Guide tells you to know — with definitions
 
-The Baisir guide lists the following Week 4–specific terms in its glossary (under "Critical and non-Western IR" — but most are NWIRT-specific):
+The Baisir guide lists the following Week 4–specific terms in its glossary (under "Critical and non-Western IR" — but most are NWIRT-specific). Definitions are drawn from the Acharya readings and the Denney lecture, with the Saidian definition of Orientalism added from standard reference (Said 1978).
 
-- **non-Western IR (NWIRT)**
-- **Global IR**
-- **localization** (constitutive localization)
-- **subsidiarity** (in the Acharya sense, not the EU sense)
-- **double-binding**
-- **twisted postcoloniality** (the Korean case)
-- **decentring** (also relevant for Week 5)
-- **decolonizing IR**
-- **Orientalism** (Saidian; bleeds in)
+| Term | Definition | Source |
+|---|---|---|
+| **Non-Western IR (NWIRT)** | An approach that argues mainstream IR theory (realism, liberalism, constructivism) is too rooted in Western history and intellectual tradition to capture non-Western experience. Calls for new IR built on **world history**, indigenous concepts, nationalist thought, and regional interaction patterns — not just using non-Western cases to test Western theories. | Acharya 2014 (Reading 2) |
+| **Global IR** | Acharya's preferred constructive label. **Not** a replacement for Western IR — a **broadening** of its sources and scope to make the discipline more inclusive and universal. Built on the recognition that Westphalian concepts are *one* historical tradition, not the universal default. | Acharya 2014; lecture quote |
+| **Constitutive localization** | A **two-way process** in which foreign ideas don't dominate or disappear — they **blend into the local normative setting**. Local actors actively adapt and reshape the foreign norm. Example: Asian states borrowed the idea of multilateralism but reshaped it via the "ASEAN Way" (consensus, non-interference). | Acharya 2004, 2009b |
+| **Subsidiarity (Acharya sense)** | The diffusion of **locally constructed rules and practices** transregionally or globally — used by local actors *"with a view to preserve their autonomy from dominance, neglect, violation, or abuse by more powerful central actors."* Example: nonalignment, human security — both Asian-origin concepts now global. **NOT** the EU sense (decisions at the lowest possible level). | Acharya 2011a |
+| **Double-binding** | ASEAN's strategic posture: a conscious effort to **enmesh both China and the United States** in regional interdependence and institutions simultaneously, to (a) induce moderation from China and raise the cost of force, and (b) discourage US containment. Different from "hedging" (which is uncertainty); different from balancing or bandwagoning. | Acharya 2003 (Reading 1) |
+| **Twisted postcoloniality** | The South Korean case: a country **colonised by a non-Western power** (Japan, 1910–1945), then made dependent on the US after liberation. Result: Korean IR scholars are trapped between mimicking American IR (universality-focused, but loses identity) or remaining marginal (particularity-focused, but no global audience). | Seo & Cho 2021 (recommended reading); lecture |
+| **Decentring** | Fisher-Onar & Nicolaïdis's three-part framework: **provincialise** (Europe is not the universal centre), **engage** (listen to non-European perspectives), **reconstruct** ("a renewal of EU external action based on humility, empowerment, and mutuality"). | Fisher-Onar & Nicolaïdis 2013 (more developed in Week 5) |
+| **Decolonizing IR** | A scholarly project to dismantle IR's Eurocentric foundations — its concepts, canon (Thucydides → Hobbes → Kant), archives, and assumptions — and rebuild from a wider base of voices, histories, and experiences. Goes further than NWIRT/Global IR (which preserves the Western lineage and broadens it). | Lecture; recommended readings |
+| **Orientalism** | Edward Said's term for the West's systematic **construction of "the East"** as a coherent, exotic, irrational, and inferior Other. This knowledge production justified imperial domination and continues to shape how Western media, scholarship, and policy depict the Middle East and Asia. Acharya invokes this when criticising Kang's "essentialist and orientalist notion" that "Asians accept hierarchy." | Said 1978 (canonical); referenced in Acharya 2003 |
+| **Tributary system** | A pre-modern Chinese-centred international order (Tang to early Qing) based on **hierarchy** rather than sovereign equality: lesser rulers paid symbolic tribute to the Chinese emperor and received recognition. Not consistently peaceful — China used force against weaker neighbours where capable (e.g. Ming emperor Yongle invaded Vietnam). | Fairbank 1968; Acharya 2003, 2014 |
+| **Mandala system** | The pre-modern Southeast Asian order of **overlapping circles of rulers** presiding over loosely organised states without clearly defined territorial limits. Authority diminished with distance from the king's centre — held together by personal hegemony, not bureaucracy. Indic (not Sinic) in inspiration. | Acharya 2000; Reading 2 |
+| **Tianxia ("all under heaven")** | A Chinese philosophical concept implying **harmony** (differentiated from sameness). Used by contemporary "Chinese School" scholars (Qin Yaqin and others) as the basis for a distinctively Chinese IR theory. Acharya is sceptical — calls it parochial and dangerously romantic about hierarchy. | Acharya 2014 |
+| **Deprovincialization** | Acharya's preferred third pathway for IRT. **Two moves**: (1) stop using Westphalia/Europe as the universal benchmark, and (2) avoid investigating Asia purely through its indigenous history (which would just produce a reverse parochialism). Localise Western IRT to fit Asia *and* universalise Asian constructs to a world stage. | Acharya 2014 |
+| **Hegemonic acceptance (Gramscian sense)** | The fifth structural barrier to NWIRT: non-Western scholars **internalise the assumption** that Western theory is "better." Operates through consent rather than coercion — the kind of hegemony Gramsci described. | Lecture; Acharya 2014 |
 
 The short-answer rubric on the exam expects you to (i) **define** the concept, (ii) **apply** it to a case (Asia / China-rise / ASEAN / Korea are the obvious ones here), and (iii) **assess** what it explains and what it overlooks. Practice this three-part structure for each concept.
 
 A likely short-answer prompt: *"Discuss the non-Western/Global IR critique of mainstream IR. What does it explain that realism, liberalism, and constructivism miss? What does it overlook?"*
+
+> **Explained easily — the whole week in one paragraph:**
+> Realism, liberalism, and constructivism were all invented by Western scholars looking at European history — the European balance of power, the Westphalian state system, World War I and II, the Cold War. Then those frameworks got applied to Asia and people assumed they were universal. **Acharya's complaint** is that this misses what Asia actually does: Asian states don't *balance* or *bandwagon* against China — they **enmesh both China and the US in regional institutions** (ASEAN, ARF). Asia had its own pre-modern international systems (Chinese tributary, Southeast Asian Mandala) that look nothing like Westphalian anarchy. The fix isn't to invent a "Chinese School" of IR (that's just parochialism in the other direction) — it's **Global IR**: keep what works in Western theory, add non-Western histories and concepts, and recognise both as *regional* contributions to a wider discipline.
 
 ---
 
@@ -152,6 +162,9 @@ This is the key payoff for Acharya: NWIRT cannot just demand that "non-Western s
 
 ---
 
+> **Explained easily — what the lecture is doing:**
+> Denney spends the lecture **stress-testing your existing IR toolkit on Asia**. He shows that the Western frameworks you've learned (realism, liberalism, constructivism) all *partly* explain Asian security but each leaves something out — none captures the way Asian states actually behave (engagement + institutions + norms). The big payoff is the Friedberg–Kang–Acharya debate (§2.6): Friedberg says Asia is doomed to conflict, Kang says Asia will become a Chinese hierarchy, Acharya says **both are wrong because both are using Western lenses**. The lecture's final move is **Global IR** — not throwing out Western IRT, but expanding it. The Korean case study (§2.13) is there to show this isn't about scholarly laziness — it's a *structural* problem about who gets to theorise.
+
 ## 3. Required reading 1 — Acharya, "Will Asia's Past Be Its Future?" (2003)
 
 *International Security 28(3), pp. 149–164. A direct rebuttal to David Kang's "Getting Asia Wrong" article.*
@@ -204,6 +217,9 @@ Two paths:
 Asia's past hierarchy was neither peaceful nor will it return. Don't confuse Asia's engagement approach with bandwagoning and deference. The non-cultural sources of order — **interdependence, norms, institutions** — are what mitigate intra-regional power asymmetries and the security dilemma. Progress in Asian security studies requires matching theory to *these* drivers, not reverting to a cultural past with no signs of reappearing.
 
 ---
+
+> **Explained easily — what Acharya 2003 is doing:**
+> This is a **direct rebuttal to David Kang's** article "Getting Asia Wrong." Kang says: Asian states bandwagon with China because Asia historically had a hierarchical order with China at the centre — China was peaceful when strong, so it'll be peaceful again. Acharya replies: **wrong on three counts**. (1) Asian states aren't bandwagoning — they're doing **double-binding** (enmeshing both China and the US in regional institutions). (2) The historical Chinese order **wasn't actually peaceful** — China used force against weaker neighbours whenever it could. (3) Today's Asian stability comes not from a return to hierarchy but from **economic interdependence + Bandung-era norms (non-interference, sovereignty) + ASEAN-led institutions**. The article is mostly an argument that **the balancing/bandwagoning dichotomy is too narrow** to capture what Asian states actually do.
 
 ## 4. Required reading 2 — Acharya, "IR Theory and the Rise of Asia" (2014)
 
@@ -294,6 +310,9 @@ Both mechanisms recognise **Asian agency** — material and ideational.
 
 ---
 
+> **Explained easily — what Acharya 2014 is doing:**
+> If 2003 was the *empirical* attack on Western IR (using Asia as the case), 2014 is the *theoretical and meta-theoretical* attack. Acharya names the project: **Non-Western IR Theory (NWIRT)**, then refines it into **Global IR**. He spends the chapter mapping three possible futures for IR theory: (1) keep Western IR with marginal non-Western add-ons (insufficient), (2) build a totally Asian IR based on Tianxia / tributary system (dangerous — just produces a new parochialism), or (3) **deprovincialization** (his preferred path) — keep Western IR but stop treating it as the universal default, while also lifting Asian-origin concepts (nonalignment, human security, ASEAN regionalism) to a world stage. The two mechanisms he names — **constitutive localization** and **subsidiarity** — are the practical tools for doing this. **This is the chapter where the term "Global IR" gets its formal definition.**
+
 ## 5. The survey — Survey_4
 
 This is **specifically flagged in your guidance as exam-relevant**, and it gives away Denney's pedagogical priorities for this week.
@@ -336,6 +355,9 @@ The lecture text states the **opposite-direction interpretation**: "European gro
 | **Asian vs. European** | **0.014** | **0.77 (CI 0.22, 1.32)** | **medium** |
 
 So: only the European-vs-Asian comparison was statistically significant, with a medium effect size.
+
+> **Explained easily — what the survey is doing:**
+> Denney ran a **little experiment on the class** to *prove* Acharya's point with you as the data. Everyone read about the same fictional rising power in the same fictional region — *but the historical analogy used to introduce the scenario was different* for different students. Result: just **one paragraph of historical framing changes how students predict the future**. If your starting analogy is European balance-of-power, you predict conflict. If it's ASEAN-style engagement, you predict cooperation. **Same facts, different conclusions — because the theory you build depends on the history you start from.** This is Acharya's argument, demonstrated on you. Almost certainly testable.
 
 ### 5.5 The pedagogical payoff — what Denney wants you to take
 

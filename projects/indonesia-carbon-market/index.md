@@ -26,6 +26,7 @@ A catalog of all pages in this wiki. Updated by Claude on every ingest.
 | [Differences_with_Berkeley_v2](wiki/synthesis/Differences_with_Berkeley_v2.md) | Refreshed Berkeley comparison with status verified via Verra API; explains every divergence under three patterns (pre-issuance / PoA-VPA / status-filtered) |
 | [Task_Report_People_Dataset](wiki/synthesis/Task_Report_People_Dataset.md) | Methodology report for building DATASET_people.csv — verified people, blockers, and suggested next steps |
 | [Hashim_Djojohadikusumo_Deep_Research](wiki/synthesis/Hashim_Djojohadikusumo_Deep_Research.md) | Deep-dive on Prabowo's brother — maps Arsari Group's businesses against the People/Companies/Projects dataset; confirms zero direct overlap and traces all the indirect, upstream-policy levers |
+| [Project_Index_Political_Economy](wiki/synthesis/Project_Index_Political_Economy.md) | Project-first index of PE flags — every carbon project mapped to any conflict-of-interest / dynastic / governance flag we've documented; quick "is project X suspicious?" lookup |
 
 ## Datasets (raw/)
 

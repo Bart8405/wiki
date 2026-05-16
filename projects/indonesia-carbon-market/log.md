@@ -100,3 +100,13 @@ Deep search across DATASET_people.csv, DATASET_companies.csv, DATASET_projects.c
 Cross-references mapped: Riza Suarga (Carbon Trade Association chair, in our dataset at VCS5475 + VCS1899) as the human bridge; APRIL/RGE/Tanoto (VCS2403) as a historical commercial counterparty (Hashim sold him ITCI Hutani Manunggal in 2006); TBS/Fairatmos as the parallel financial-engineering operation. Four "phantom" PTs (Bumi Carbon Nusantara, Karbonesia Global Artha, Infinite Earth Indonesia, Carbon Vebra Gemilang) flagged as **unverified** — pending corporate-registry confirmation.
 
 Saved as `wiki/synthesis/Hashim_Djojohadikusumo_Deep_Research.md`.
+
+## [2026-05-16] synthesis | Project_Index_Political_Economy.md created
+
+Reorganised [[Political_Economy_Notes]] (thematic, ~350 lines) into a **project-first index** so the user can quickly answer "is project X suspicious?" without scanning the whole notes file.
+
+Coverage: 26 projects with documented PE flags, 58 listed under "no PE flags currently identified" (with the explicit caveat that absence is not proof of cleanliness). Pending Verra-IDs noted for ~8 conglomerate / political networks in the PBPH permit / carbon-market launch queue but without registered projects yet (Hashim/Arsari, Melchor, Adaro, Harita, RGE shadow, Triputra, Misran/Fangiono, Integra).
+
+File structure: (1) quick-scan flagged-project index; (2) detailed per-project entries with `→` cross-references back to `Political_Economy_Notes`; (3) "Other projects" table for unflagged; (4) cross-cutting people network reference table.
+
+Updated `index.md` synthesis section.

@@ -1,7 +1,7 @@
 ---
 tags: [iro, international-relations, lecture-8, world-order, power, liberalism, baisir]
-sources: [raw/WEEK 8/Week 8 World Orders 2026 [Auto-saved].pdf, raw/WEEK 8/poad011.pdf]
-updated: 2026-05-17
+sources: [raw/WEEK 8/Week 8 World Orders 2026 Auto-saved].pdf, raw/WEEK 8/poad011.pdf]
+updated: 2026-05-17ě
 ---
 
 # Week 8 — Power, Liberalism, and World Order
@@ -14,30 +14,30 @@ updated: 2026-05-17
 
 ## Key concepts — definitions
 
-| Term | Definition | Source |
-|---|---|---|
-| **World order** | "The actual or perceived distribution of power between and amongst states and other key actors, giving rise to a relatively stable pattern of relationships and behaviours." (Heywood) | LEC8 |
-| ==**Bipolar order**== | ==A world structured around two dominant power centres — the US and USSR during the Cold War. Each superpower led a bloc of aligned states.== | LEC8 |
-| ==**Unipolar order**== | ==A world dominated by a single power — the US from roughly 1991 to the mid-2000s, sometimes called the "unipolar moment" (Krauthammer).== | LEC8 |
-| ==**Multipolar world order**== | ==A world with multiple great powers — no single state is dominant. Associated with the rise of China, India, Russia, and other emerging powers.== | LEC8 |
-| ==**Multiplex world order**== | ==Acharya's concept: a world order with "multiple shows on offer, giving the audience a choice of producers, directors, actors and plots." No single power sets the rules; diversity is the organizing principle.== | LEC8 / Acharya |
-| **Westphalian sovereignty** | The principle (dating to the 1648 Peace of Westphalia) that states have supreme authority within their borders and should not interfere in each other's internal affairs. | Baisir |
-| **Great-power competition** | Rivalry between major states (US, China, Russia) for geopolitical influence, military capability, and control over the international order. | LEC8 / Baisir |
-| **BRICS** | Brazil, Russia, India, China, South Africa — a grouping of major emerging economies, increasingly seen as an alternative to Western-led institutions. | Baisir |
-| **Hard power** | Military and economic power — the ability to coerce others through force, sanctions, or payments. (Joseph Nye) | LEC8 |
-| **Soft power** | The ability to attract and co-opt others through culture, political ideals, and foreign policies — without coercion. (Nye) | LEC8 |
-| **Smart power** | Combining hard and soft power strategically. (Nye) | LEC8 |
-| ==**Globalization trilemma**== | ==Dani Rodrik's "impossibility theorem": democracy, national sovereignty, and deep global economic integration are mutually incompatible. You can only fully have two of the three simultaneously.== | LEC8 |
-| **Normative power** | The ability to shape what is considered normal and legitimate in international relations — associated with the EU's influence through norms and standards rather than military force. | Baisir |
-| **Belt and Road Initiative (BRI)** | Xi Jinping's signature foreign policy initiative (2013): a massive series of bilateral infrastructure investment and lending agreements linking China to its neighbours across Asia, Africa, and Europe. | LEC8 |
-| **Emerging powers** | States with growing economic, military, and political capacity and ambition to reshape the international order — Russia, India, China in particular. Often described as "revisionist" and "status seekers." | LEC8 |
-| **Functionalism** | Theory of regional integration: states integrate in technical/functional areas (trade, transport) first; political integration follows. (Mitrany) | Baisir |
-| **Neofunctionalism** | Haas's update: integration generates a "spillover" effect — success in one sector creates pressure to integrate adjacent sectors, eventually drawing in political authority. | Baisir |
-| **Spillover** | In neofunctionalism: the dynamic by which integration in one area automatically creates demand for integration in related areas (e.g. a single market requires common competition rules). | Baisir |
-| **Intergovernmentalism** | Theory of integration where national governments remain the key actors; states cooperate only when it serves national interests. (Hoffmann) | Baisir |
-| **Liberal intergovernmentalism** | Moravcsik's synthesis: EU integration driven by bargains between major member states, which in turn reflect domestic economic preferences. | Baisir |
-| **Supranationalism** | A form of governance where authority is shared above the nation-state level — institutions with their own powers independent of member states (e.g. European Court of Justice). | Baisir |
-| **Comparative regionalism** | The study of regional integration arrangements beyond Europe — ASEAN, African Union, etc. — to understand what drives regional cooperation globally. | Baisir |
+| Term                               | Definition                                                                                                                                                                                                          | Source         |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| **World order**                    | "The actual or perceived distribution of power between and amongst states and other key actors, giving rise to a relatively stable pattern of relationships and behaviours." (Heywood)                              | LEC8           |
+| **Bipolar order**                  | A world structured around two dominant power centres — the US and USSR during the Cold War. Each superpower led a bloc of aligned states.                                                                           | LEC8           |
+| **Unipolar order**                 | A world dominated by a single power — the US from roughly 1991 to the mid-2000s, sometimes called the "unipolar moment" (Krauthammer).                                                                              | LEC8           |
+| **Multipolar world order**     | A world with multiple great powers — no single state is dominant. Associated with the rise of China, India, Russia, and other emerging powers.                                                                  | LEC8           |
+| ==**Multiplex world order**==      | ==Acharya's concept: a world order with "multiple shows on offer, giving the audience a choice of producers, directors, actors and plots." No single power sets the rules; diversity is the organizing principle.== | LEC8 / Acharya |
+| **Westphalian sovereignty**        | The principle (dating to the 1648 Peace of Westphalia) that states have supreme authority within their borders and should not interfere in each other's internal affairs.                                           | Baisir         |
+| **Great-power competition**        | Rivalry between major states (US, China, Russia) for geopolitical influence, military capability, and control over the international order.                                                                         | LEC8 / Baisir  |
+| **BRICS**                          | Brazil, Russia, India, China, South Africa — a grouping of major emerging economies, increasingly seen as an alternative to Western-led institutions.                                                               | Baisir         |
+| **Hard power**                     | Military and economic power — the ability to coerce others through force, sanctions, or payments. (Joseph Nye)                                                                                                      | LEC8           |
+| **Soft power**                     | The ability to attract and co-opt others through culture, political ideals, and foreign policies — without coercion. (Nye)                                                                                          | LEC8           |
+| **Smart power**                    | Combining hard and soft power strategically. (Nye)                                                                                                                                                                  | LEC8           |
+| ==**Globalization trilemma**==     | ==Dani Rodrik's "impossibility theorem": democracy, national sovereignty, and deep global economic integration are mutually incompatible. You can only fully have two of the three simultaneously.==                | LEC8           |
+| **Normative power**                | The ability to shape what is considered normal and legitimate in international relations — associated with the EU's influence through norms and standards rather than military force.                               | Baisir         |
+| **Belt and Road Initiative (BRI)** | Xi Jinping's signature foreign policy initiative (2013): a massive series of bilateral infrastructure investment and lending agreements linking China to its neighbours across Asia, Africa, and Europe.            | LEC8           |
+| **Emerging powers**                | States with growing economic, military, and political capacity and ambition to reshape the international order — Russia, India, China in particular. Often described as "revisionist" and "status seekers."         | LEC8           |
+| **Functionalism**                  | Theory of regional integration: states integrate in technical/functional areas (trade, transport) first; political integration follows. (Mitrany)                                                                   | Baisir         |
+| **Neofunctionalism**               | Haas's update: integration generates a "spillover" effect — success in one sector creates pressure to integrate adjacent sectors, eventually drawing in political authority.                                        | Baisir         |
+| **Spillover**                      | In neofunctionalism: the dynamic by which integration in one area automatically creates demand for integration in related areas (e.g. a single market requires common competition rules).                           | Baisir         |
+| **Intergovernmentalism**           | Theory of integration where national governments remain the key actors; states cooperate only when it serves national interests. (Hoffmann)                                                                         | Baisir         |
+| **Liberal intergovernmentalism**   | Moravcsik's synthesis: EU integration driven by bargains between major member states, which in turn reflect domestic economic preferences.                                                                          | Baisir         |
+| **Supranationalism**               | A form of governance where authority is shared above the nation-state level — institutions with their own powers independent of member states (e.g. European Court of Justice).                                     | Baisir         |
+| **Comparative regionalism**        | The study of regional integration arrangements beyond Europe — ASEAN, African Union, etc. — to understand what drives regional cooperation globally.                                                                | Baisir         |
 
 ---
 

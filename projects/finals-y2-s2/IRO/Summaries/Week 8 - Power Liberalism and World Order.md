@@ -73,16 +73,16 @@ The second definition matters: world order is about stability and power, not nec
 
 **Definition (Dahl, 1961):** "The ability to get others to do something that they would not otherwise do."
 
-The lecture distinguishes two types of power:
-1. **Power as resource (absolute/quantitative):** about what you *possess* — military might, economic size, population. Associated with realism.
-2. **Power as outcome (relational):** about your ability to *use* what you have, including through skills, strategies, and perceptions. Even small states can be influential this way.
+==The lecture distinguishes two types of power:==
+1. ==**Power as resource (absolute/quantitative):** about what you *possess* — military might, economic size, population. Associated with realism.==
+2. ==**Power as outcome (relational):** about your ability to *use* what you have, including through skills, strategies, and perceptions. Even small states can be influential this way.==
 
 **Hard vs. Soft power (Nye):**
 - Hard power = military + economic coercion (force, sanctions, payments) — realist tool
 - Soft power = attraction through culture, values, foreign policy — liberal tool
 - Smart power = combining both
 
-**Institutional power:** Power is embedded in institutions (Thelen 2004). Institutions are "the rules of the game" (North 1990) — whoever shapes the rules shapes outcomes. The US shaped post-WWII institutions (UN, WTO, IMF) in its own image, giving it structural/institutional power long after its material dominance peaked.
+==**Institutional power:** Power is embedded in institutions (Thelen 2004). Institutions are "the rules of the game" (North 1990) — whoever shapes the rules shapes outcomes. The US shaped post-WWII institutions (UN, WTO, IMF) in its own image, giving it structural/institutional power long after its material dominance peaked.==
 
 **Dani Rodrik's globalization trilemma:** You cannot simultaneously have:
 - Deep global economic integration
@@ -90,7 +90,7 @@ The lecture distinguishes two types of power:
 - Democracy
 
 You can pick two. The EU has traded sovereignty for integration + democracy (supranationalism). China has deep integration + sovereignty but limited democracy. This "impossibility theorem" frames the political backlash against globalization (populism, "precariat," rising inequality) as inevitable.
-
+%%give more and better examples of the trilemma%%
 ### The crisis of the Liberal World Order
 
 **Post-Cold War new world (dis)order:**
@@ -99,7 +99,7 @@ You can pick two. The EU has traded sovereignty for integration + democracy (sup
 
 **The War on Terror (9/11):**
 - Robert Kagan (2004): "America did not change on September 11. It only became more itself." → neoconservatism, unilateralism.
-- The US assertion of primacy challenged the multilateral rules-based order it had built.
+- ==The US assertion of primacy challenged the multilateral rules-based order it had built.==
 
 **Acharya's alternative: the multiplex world order:**
 > *"Future world order will not be dominated by one nation or civilization. Neither the West nor the East will get to shape the future world order. What matters is cultural and political diversity."*
@@ -112,7 +112,7 @@ China's evolving posture (Deng → Xi):
 1. **Deng Xiaoping (1980s):** "Bide time, hide brightness" — low profile, focus on economic growth.
 2. **Hu Jintao:** "Peaceful rise" / "Peaceful development."
 3. **Xi Jinping (2010s–):** "Chinese Dream," "Major Country Diplomacy," "China will never seek hegemony" — but accompanied by assertive territorial claims, BRI, and growing military capability.
-
+%%Create a new project called Geopolitics and in there, make a file for china, where you will put this section. My goal is to have a concrete "wikipedia" of my knowledge about countries/organizations etc. lets start tith China.%%
 **Belt and Road Initiative (BRI, 2013):** Not a multilateral institution but a series of bilateral infrastructure deals linking China to neighbours (Asia → Europe via land; South China Sea → Indian Ocean → Mediterranean via sea). Funded via the China Development Bank. Criticised as "debt trap diplomacy" — terms that leave borrowing countries vulnerable to Chinese influence.
 
 **China and the Global South:**

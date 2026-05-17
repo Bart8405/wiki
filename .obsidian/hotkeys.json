@@ -2,7 +2,7 @@
   "editor:toggle-highlight": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
       "key": "`"
     }

@@ -438,15 +438,15 @@ Wolff's lecture flags **N. El Qadim** — a postcolonial scholar arguing that EU
 
 ### 6.1 Concept-level (MCQs / short definitions)
 
-- **Refugee** — Art. 1 of the 1951 Convention: person outside their country of nationality with a "well-founded fear of persecution" on grounds of race, religion, nationality, social group, or political opinion.
+- ==**Refugee** — Art. 1 of the 1951 Convention: person outside their country of nationality with a "well-founded fear of persecution" on grounds of race, religion, nationality, social group, or political opinion.==
 - **Asylum-seeker** — has applied for international protection but case not yet decided.
 - **IDP** — displaced but has not crossed an internationally recognised state border.
-- **Non-refoulement** — a signatory of the 1951 Convention cannot legally send an individual back to a country where they face persecution.
+- ==**Non-refoulement** — a signatory of the 1951 Convention cannot legally send an individual back to a country where they face persecution==.
 - **Liberal paradox** (Hollifield) — economic logic of liberalism = openness; political/legal logic = closure. States are trapped between.
 - **Migration state** (Hollifield) — the third state function (alongside garrison and trading), in which migration regulation is central to state purpose.
-- **Securitization of migration** (Huysmans / Copenhagen School) — process by which migration is politically constructed as a security issue through speech acts and institutional practices that move it beyond normal politics.
+- **Securitization of migration** (Huysmans / Copenhagen School) — process by which migration is politically constructed as a security issue through speech acts and institutional practices that move it beyond normal politics. - ==is the paris school also under securitization of migration, just another approach of obtaining it or what is the relation?
 - **Speech act** (Wæver) — security is not a property of an issue but is created by labelling something as a security issue.
-- **Security continuum** (Bigo / Huysmans) — institutionalised mode of policy-making linking border control, terrorism, crime and migration. Allows transfer of security connotations between these areas.
+- ==**Security continuum** (Bigo / Huysmans) — institutionalised mode of policy-making linking border control, terrorism, crime and migration. Allows transfer of security connotations between these areas.==
 - **Border externalization** — pushing migration control beyond your territory (e.g., EU-Tunisia, EU-Turkey deals).
 - **Migration diplomacy** — using migration as a bargaining chip in interstate relations; can be coercive (blackmail) or cooperative (backscratching). Material gains (economic, institutional, aid) + symbolic gains (status, reputation, moral standing).
 - **Welfare chauvinism** — privileging national citizens in distribution of social goods; framing migrants as illegitimate claimants.

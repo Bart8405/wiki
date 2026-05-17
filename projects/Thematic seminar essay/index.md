@@ -7,6 +7,7 @@
 | Page | Summary |
 |------|---------|
 | [essay-direction](wiki/synthesis/essay-direction.md) | Working thesis, outline, source map, and open questions for the essay |
+| [thesis-questions-answers](wiki/synthesis/thesis-questions-answers.md) | Direct answers to two core essay questions: why ETS first, and what Indonesia should do now. Written 2026-05-17 incorporating Overnight Search finds. |
 
 ## Concepts
 
@@ -26,6 +27,27 @@ Files in `raw/` are tagged by the user's reading status: **`DONE_`** = already i
 
 > **Duplicate notice.** Three papers exist as two copies each: Fullerton 2011 *Six Distributional Effects* (two LOOK_ copies), Yusuf & Resosudarmo 2015 (LOOK_ + NOPE_), and Fay et al. 2015 *Decarbonizing Development* (`raw/` + `expert/`). The duplicates are marked `(duplicate)` in the filename so you can delete them if you want.
 > **Two original-filename labels were wrong.** `DONE_Finkelstein and Fullerton…` was actually Finkelstein Shapiro & Metcalf 2021; `LOOK_Fullerton_carbon price effect on households` was actually Rausch, Metcalf & Reilly 2011. Both are renamed correctly now.
+
+### Overnight search (new sources found 2026-05-17)
+
+All links are free to access. No PDFs downloaded yet — see `raw/Overnight search/sources-overnight-2026-05-17.md` for full details, key points, and essay placement notes for each source.
+
+| Source | Year | Tag | Key contribution |
+|---|---|---|---|
+| AMRO — "Cap First, and Then Tax: Carbon-Pricing in Indonesia" | ~2024 | `GREAT_` | Names and explains the ETS-first sequencing logic directly |
+| IEEFA — "Two years after launch, Indonesia's carbon market struggles" | 2025 | `LOOK_` | Data on ETS operational failure: IDR 78B ($5M) total transactions |
+| IETA Business Brief — Indonesia ETS at a Glance | 2025 | `LOOK_` | Industry-facing ETS summary; corroborates ICAP factsheet |
+| Climate Action Tracker — Indonesia (Dec 2024 update) | 2024 | `LOOK_` | "Critically Insufficient" rating; 1.35 GtCO2e absolute NDC cap |
+| World Bank — State and Trends of Carbon Pricing 2025 | Jun 2025 | `LOOK_` | $100B global revenues; 80 instruments; 28% global coverage |
+| OECD — Effective Carbon Rates 2025 | Nov 2025 | `LOOK_` | Indonesia's net ECR likely negative once fuel subsidies netted |
+| OECD — Net Effective Carbon Rates in Indonesia (country note) | Feb 2026 | `LOOK_` | Indonesia-specific ECR breakdown |
+| UNDP — Carbon Tax in an Evolving Carbon Economy | Mar 2025 | `LOOK_` | Graduated tax roadmap for LMICs; revenue redistribution design |
+| IISD — Implementing Carbon Pricing in Southeast Asia | 2024–25 | `LOOK_` | Indonesia first-mover in SEA; regional comparison |
+| ScienceDirect — "To tax or to trade?" (global review) | 2024 | `LOOK_` | Developing countries globally prefer carbon tax over ETS |
+| East Asia Forum — "The case for carbon taxes in Southeast Asia" | Feb 2025 | `LOOK_` | 70%+ SEA public support for carbon tax (ADB 2024 survey) |
+| ScienceDirect — Carbon tax & trading: Indonesian power sector | Jul 2025 | `LOOK_` | Indonesia-specific empirical modelling of tax vs ETS |
+| ScienceDirect — Power sector decarbonization (integrated model) | Sep 2025 | `LOOK_` | Models tax + ETS + CCS combination for Indonesia |
+| ADB — Carbon Pricing for Energy Transition and Decarbonization | ~2023 | `LOOK_` | ADB's dedicated carbon pricing recommendations for Asia-Pacific |
 
 ### Indonesia-specific (the core of the essay)
 

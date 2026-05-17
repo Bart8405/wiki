@@ -25,7 +25,7 @@ updated: 2026-05-16
 | ==**Fact**==                                     | ==A state of affairs in the world. Facts are *truthmakers* (they make propositions true) — they are not themselves true or false. *"Facts are not propositions."* Metaphor: think of facts like planets — they just *are*.==                                                                         |
 | **Permanence of facts**                          | Philosophers think of facts as eternally stable. They don't "change in time," though they may be keyed to particular times (e.g. "France in 1680 is a monarchy" is true regardless of when you say it).                                                                                              |
 | ==**Belief is private; knowledge is public**==   | ==A and B can hold opposite beliefs about P. But it is *not* possible that A knows P and B knows not-P. Knowledge is the same for all.==                                                                                                                                                             |
-| **Gettier problem**                              | A revealed flaw in JTB — there are weird cases where someone has a justified true belief but we intuitively reject it as knowledge (e.g. you correctly conclude that you'll be late, but for the wrong reason). Solutions add a fourth criterion ("JTB+"). Beyond the lecture's scope but mentioned. |
+| ==**Gettier problem**==                              | ==A revealed flaw in JTB — there are weird cases where someone has a justified true belief but we intuitively reject it as knowledge (e.g. you correctly conclude that you'll be late, but for the wrong reason). Solutions add a fourth criterion ("JTB+"). Beyond the lecture's scope but mentioned.== |
 
 ---
 
@@ -49,21 +49,24 @@ The famous diagram: **Knowledge = the intersection of Beliefs ∩ Truths ∩ Jus
 
 Truth is a property *only* of propositions (and systems of propositions like theories). Russell's formulation:
 
-> *"A belief is true when there is a corresponding fact, and is false when there is no corresponding fact. … Minds do not create truth or falsehood. They create beliefs, but when once the beliefs are created, the mind cannot make them true or false."* — Bertrand Russell, *Problems of Philosophy* (1912)
+> *"==A belief is true when there is a corresponding fact, and is false when there is no corresponding fact. … Minds do not create truth or falsehood. They create beliefs, but when once the beliefs are created, the mind cannot make them true or false."* — Bertrand Russell, *Problems of Philosophy* (1912)==
 
 Classic example: *"Snow is white"* is true if and only if snow is white.
 
 ### What is a fact?
 
 A fact is a **state of affairs in the world** — it makes a proposition true. Critical distinction:
-- **Propositions** are **truth-bearers** (they can be true or false).
-- **Facts** are **truthmakers** (they make propositions true or false). Facts themselves are *not* true or false; they simply *are*.
+- ==**Propositions** are **truth-bearers** (they can be true or false).==
+- ==**Facts** are **truthmakers**== (they make propositions true or false). Facts themselves are *not* true or false; they simply *are*.
 
 Permanence: facts don't change. "Dolphins are mammals" was true even when people believed them to be fish — only the belief changed, not the fact.
 
 ---
 
 ## Key thinker — Bertrand Russell
+
+%%I still dont really know what he did - did he support the JTB account of knowledge? Did he build up on it?%%
+%% Also, what is the gettier example of JTB being false? Write down specifically%%
 
 British logician, philosopher, and political activist (1872–1970). Co-founder of analytic philosophy. Jailed for pacifism during WWI. His 1912 *Problems of Philosophy* is the canonical modern statement of the correspondence theory of truth.
 
@@ -74,8 +77,8 @@ British logician, philosopher, and political activist (1872–1970). Co-founder 
 > **Explained easily — JTB:**
 > Imagine your friend insists "the Eiffel Tower is in Berlin" because they read it on a sketchy blog. They *believe* it. But it's not true (so condition 1 fails) and even though they have a "reason" it's not a good reason (condition 3 also wobbles). So they don't *know* it. JTB is just a precise way of saying: knowing means *being right, believing what you're right about, and having good reasons for that belief.*
 
-> **Explained easily — correspondence theory + facts:**
-> "Snow is white" is a sentence in your head. Snow being white is a fact about the world. The sentence is **true** because the world *makes it true*. Facts are out there doing the work — your mind doesn't get a vote. Think of facts like planets: they're just there. Sentences about planets can be true or false; the planets themselves aren't true or false.
+> **E==xplained easily — correspondence theory + facts:**==
+> =="Snow is white" is a sentence in your head. Snow being white is a fact about the world. The sentence is **true** because the world *makes it true*. Facts are out there doing the work — your mind doesn't get a vote. Think of facts like planets: they're just there. Sentences about planets can be true or false; the planets themselves aren't true or false.==
 
 > **Explained easily — belief vs knowledge being public:**
 > Two people can sincerely *believe* opposite things. They cannot both *know* opposite things — because at most one of them can be right (condition 1: P must be true). This is why "we just have different opinions" works for matters of taste but doesn't dissolve disagreements about facts.

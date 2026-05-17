@@ -40,10 +40,10 @@ updated: 2026-05-17
 | **Jus in bello**                              | Conditions for justly *conducting* a war: discrimination (between combatants and civilians), ==proportionality==, humanity.                                                                                                                      | LEC7           |
 | ==**New wars**==                              | ==Post-Cold War conflicts that blur the line between war and crime, involve non-state actors, and are fought over identity rather than ideology. Associated with Mary Kaldor.==                                                                  | LEC7           |
 | ==**Decolonising war** (Barkawi)==            | ==Critiquing how Eurocentric ideas have shaped the very category of "war." Three Eurocentric building blocks to challenge: (1) war/peace as opposites; (2) war happens between sovereign states; (3) war is either international or civil.==     | Barkawi 2016   |
-| **Small Wars**                                | Colonial military operations (insurgencies, uprisings, police actions) that Eurocentric war studies dismissed as "not real war" — but which are central to Barkawi's decolonial project.                                                         | Barkawi 2016   |
+| ==**Small Wars**==                            | ==Colonial military operations (insurgencies, uprisings, police actions) that Eurocentric war studies dismissed as "not real war" — but which are central to Barkawi's decolonial project.==                                                     | Barkawi 2016   |
 | **Humanitarian intervention**                 | Military action by external states inside a sovereign state to protect civilians — controversial because it conflicts with the principle of non-interference.                                                                                    | LEC7 / Baisir  |
-| **R2P (Responsibility to Protect)**           | 2005 UN doctrine: sovereignty is conditional on a state protecting its population; if it fails, the international community has a responsibility to intervene.                                                                                   | Baisir         |
-| **Private Military Security Industry (PMSI)** | Commercial companies (PMSCs) that provide armed security and military services to states, NGOs, and corporations. Expanded massively after the Cold War and 9/11.                                                                                | LEC7           |
+| ==**R2P (Responsibility to Protect)**==       | ==2005 UN doctrine: sovereignty is conditional on a state protecting its population; if it fails, the international community has a responsibility to intervene.==                                                                               | Baisir         |
+| ==**Private Military Security Industry (PMSI)**== | ==Commercial companies (PMSCs) that provide armed security and military services to states, NGOs, and corporations. Expanded massively after the Cold War and 9/11.==                                                                                | LEC7           |
 
 ---
 
@@ -59,8 +59,8 @@ The UN's threshold of ≥1,000 deaths/year is the most common working definition
 
 Each major IR tradition gives a different answer to why wars happen and what they mean:
 
-**Realism (Clausewitz):**
-> *"War is simply a continuation of political intercourse, with the addition of other means."*
+==**Realism (Clausewitz):**==
+> ==*"War is simply a continuation of political intercourse, with the addition of other means."*==
 
 War is not an aberration — it is a tool of statecraft. States pursue power, and force is one instrument. Peace and war are not opposites but points on a spectrum of political relations.
 

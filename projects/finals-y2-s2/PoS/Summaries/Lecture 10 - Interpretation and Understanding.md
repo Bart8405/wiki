@@ -114,8 +114,168 @@ German historian and philosopher (1833–1911), University of Berlin. Protagonis
 
 ## Likely exam angles
 
-- **Define:** *Verstehen* and *Erklären*, with one example of each.
-- **Define:** relationality, purposiveness, meaningfulness, double hermeneutic.
-- **Apply:** Why is a gift not the same as the physical object handed over? (relationality) Why is an apology not fully explained by physical causes? (purposiveness)
-- **Cross-lecture:** Dilthey's *Erklären* = Hempel's DN model (Lecture 4) is the formal version. *Verstehen* is the **idiographic** method (Lecture 1 — Windelband's distinction). Lecture 11 (relativism about rationality) builds directly on the idea that different cultures have different reasoning styles to be understood, not judged.
-- **Critical:** Why does Dilthey think Kuhnian revolutions are less applicable to the human sciences? (Because everyday descriptions can't be replaced — we rely on them to individuate the phenomena.)
+---
+
+### Multiple Choice Questions
+
+**Q1.** Dilthey's *Verstehen* is best translated and characterised as:
+- A) Causal explanation of natural phenomena through covering laws
+- B) Empathetic, interpretive grasping of the meaning of mental phenomena
+- C) Statistical analysis of human behaviour across large populations
+- D) Formal logical derivation of human behaviour from first principles
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) Empathetic, interpretive grasping of the meaning of mental phenomena**
+
+*Verstehen* (German: "to understand") is Dilthey's method for the human sciences — it simultaneously identifies *and* understands mental phenomena by grasping their meaning. Option A describes *Erklären* (causal explanation, the natural-science method). Options C and D are quantitative/deductive methods, not *Verstehen*.
+
+</details>
+
+---
+
+**Q2.** "Relationality," as discussed in the lecture, means that:
+- A) Social phenomena can be explained by the relations between economic factors
+- B) Mental phenomena cannot be identified by ostension alone — their identity is constituted by the meanings ascribed to them
+- C) Human behaviour can always be related to physical causes
+- D) Scientific knowledge must always relate individual cases to general laws
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) Mental phenomena cannot be identified by ostension alone — their identity is constituted by the meanings ascribed to them**
+
+You cannot point at a "gift" and have the pointing pick out the gift without already understanding what gifting means. Two people exchanging a box could be performing a gift, a bribe, a payment, an apology — the physical act is the same; the meaning constitutes the difference. This contrasts with natural phenomena, which can be picked out by ostension and explained *after* identification.
+
+</details>
+
+---
+
+**Q3.** "Purposiveness" as a distinctive feature of human action means that:
+- A) Human actions can be fully explained by tracing their physical causes
+- B) Human actions are directed toward goals, and making sense of them requires citing reasons — not just causes
+- C) All human actions are purposively designed to maximise utility
+- D) Natural phenomena also have purposes — Aristotelian teleology applies universally
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) Human actions are directed toward goals, and making sense of them requires citing reasons — not just causes**
+
+The apology example: citing the physical cause (vocal cords vibrated because I arrived late) misses the point. The *reason* — "in order to express regret" — is essential and essentially normative. Modern natural science abandoned teleology (purposes). Human science cannot — it lives in a space of reasons and norms, not just causes.
+
+</details>
+
+---
+
+**Q4.** The "double hermeneutic" refers to:
+- A) Using two different interpretive frameworks simultaneously to increase objectivity
+- B) The fact that the scholar must interpret both the phenomenon and all pre-existing interpretations of it
+- C) The need for human sciences to translate both spoken and written sources
+- D) The double role of the researcher as both observer and participant in human science
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) The fact that the scholar must interpret both the phenomenon and all pre-existing interpretations of it**
+
+Any cultural phenomenon you try to interpret has already been interpreted by others — including the people who participate in it. So interpretation works at two levels: the phenomenon itself *and* the superposition of existing interpretations. The Laocoön example in the lecture illustrates this: the sculpture is partly the marble and partly all the centuries of commentary that have become attached to it.
+
+</details>
+
+---
+
+**Q5.** Dilthey argues that Kuhnian scientific revolutions are *less applicable* to the human sciences than to the natural sciences. Why?
+- A) Human sciences don't have enough data to undergo paradigm shifts
+- B) Human scientists are more conservative and resistant to change
+- C) Human sciences rely on everyday descriptions to *identify* their phenomena — those descriptions cannot be replaced wholesale
+- D) Human sciences already operate under multiple incommensurable paradigms simultaneously
+
+<details>
+<summary>Answer</summary>
+
+**Correct: C) Human sciences rely on everyday descriptions to *identify* their phenomena — those descriptions cannot be replaced wholesale**
+
+Physics can replace "solid object" with "lattice of atoms in mostly empty space" because we can still re-identify the phenomenon empirically. But anthropology cannot say "coming-of-age rituals aren't really about transition" — because what makes the ritual *that kind of ritual* is precisely that participants take it that way. The everyday description is constitutive, not replaceable.
+
+</details>
+
+---
+
+**Q6.** According to the lecture, the key difference between how natural and mental phenomena are *individuated* (picked out) is:
+- A) Natural phenomena are individuated mathematically; mental phenomena are individuated linguistically
+- B) Natural phenomena can be identified by ostension (pointing) before explanation; mental phenomena require preliminary understanding of meaning before they can be identified
+- C) Natural phenomena require expert knowledge to identify; mental phenomena are obvious to everyone
+- D) Mental phenomena are individuated by their physical properties; natural phenomena by their relational properties
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) Natural phenomena can be identified by ostension (pointing) before explanation; mental phenomena require preliminary understanding of meaning before they can be identified**
+
+This is the core asymmetry. Point at a falling stone and *then* explain it. But you cannot point at a "bribe" without already understanding what bribing means — the meaning is what makes the act a bribe rather than a gift, a payment, or a threat.
+
+</details>
+
+---
+
+### Short Essay / Open Questions
+
+**Essay Q1.** Explain Dilthey's distinction between *Verstehen* and *Erklären*, including the types of phenomena each applies to and why each requires its own method. Use the "gift" and "apology" examples from the lecture.
+
+<details>
+<summary>Model answer outline</summary>
+
+**Key points to hit:**
+- Erklären (explanation): the method of natural science. Natural phenomena have no intrinsic meaning — they are identified by pointing and then explained by covering laws (cf. Hempel's DN model, Lecture 4).
+- Verstehen (interpretive understanding): the method of the human sciences. Mental/cultural phenomena have content and meaning — you cannot even *identify* them without understanding what they mean.
+- Gift example: a box changing hands is a physical event. Whether it is a gift, a bribe, a payment, or an apology depends entirely on the meanings involved. You need *Verstehen* before you have even picked out the phenomenon.
+- Apology example: "I apologise" involves a physical cause (arriving late → vocal cords vibrate) but the *sense* of the act requires citing a reason ("in order to express regret") and a norm ("being that late was unacceptable"). Causal explanation is incomplete — reasons and norms are essential.
+- The deeper asymmetry: with natural phenomena, identification precedes explanation. With mental phenomena, identification *is* a form of understanding — the two are simultaneous.
+
+**Good example to use:** Both the gift and the apology examples are given directly in the lecture. The Laocoön sculpture is a good additional example for the double hermeneutic.
+
+**Common mistake to avoid:** Treating *Verstehen* as "subjective" or "unscientific." Dilthey presented it as a rigorous method appropriate to its object — not as anything-goes interpretation.
+
+</details>
+
+---
+
+**Essay Q2.** "Why does Dilthey think Kuhnian scientific revolutions are less applicable to the human sciences?" Explain the argument from "relationality" and assess its implications for how human-science knowledge accumulates.
+
+<details>
+<summary>Model answer outline</summary>
+
+**Key points to hit:**
+- Kuhnian revolutions (Lecture 6): new paradigm can *replace* old descriptions wholesale. Physics replaced "solid objects" with "lattice of atoms" — we can still re-identify the phenomenon empirically, so the replacement costs nothing.
+- Dilthey's argument: in the human sciences, the everyday description of a phenomenon is *constitutive* of what that phenomenon *is*. Coming-of-age rituals are what they are *because* participants and scholars take them that way. You cannot replace that description with a radically different one and still be talking about the same phenomenon.
+- The consequence: human-science knowledge is more *cumulative and continuous* than natural-science knowledge. It extends and enriches everyday descriptions rather than replacing them.
+- Implication: the double hermeneutic — every new interpretation adds to a superposition of existing interpretations, rather than refuting them. Progress in the human sciences looks different from progress in the natural sciences.
+- Assess: this does not mean human sciences never change fundamentally — but their revolutions are slower and more entangled with the phenomena they study.
+
+**Good example to use:** The coming-of-age ritual example from the lecture is ideal; so is the Laocoön sculpture (its meaning accumulates through centuries of commentary).
+
+**Common mistake to avoid:** Concluding from this argument that human sciences cannot make progress. Dilthey's point is that their mode of progress is *different* — interpretive deepening rather than paradigm replacement.
+
+</details>
+
+---
+
+**Essay Q3.** "In the human sciences, no one person — not even the author — has sole authority over meaning." What does this claim imply for the methodology of the human sciences? Discuss with reference to meaningfulness, the double hermeneutic, and the Laocoön example.
+
+<details>
+<summary>Model answer outline</summary>
+
+**Key points to hit:**
+- Meaningfulness: things have meaning because people ascribe meaning to them. Meaning is neither fixed by the "original intention" (author, creator, performer) nor is it arbitrary ("anything goes").
+- Sensitivity for ascriptions: scholars must be sensitive to the meanings participants ascribe, but no single participant (including the creator) owns the meaning definitively.
+- Double hermeneutic: interpretation always works on two levels — the phenomenon itself and the accumulated previous interpretations. A new commentary on Laocoön is simultaneously a reading of the sculpture *and* a reflection on Pliny's, Michelangelo's, Winckelmann's, and Lessing's readings.
+- Methodological implication: human-science scholarship is inherently intertextual and historical. Understanding grows not by replacing previous interpretations but by engaging with them. This is why human-science scholarship is "endless and never solved."
+- The Laocoön case: the sculpture is now partly the marble and partly the centuries of commentary. Any new interpretation must situate itself in that tradition.
+
+**Good example to use:** The Laocoön sculpture with its reception history (Pliny, Michelangelo, Winckelmann, Lessing) as traced in the lecture.
+
+**Common mistake to avoid:** Treating the absence of "sole authority" as implying that all interpretations are equally valid. The lecture's "sensitivity for ascriptions" requires engaging with how the people for whom the phenomenon plays a role understand it — that constraint limits interpretive arbitrariness.
+
+</details>

@@ -101,8 +101,169 @@ His influence outside professional philosophy of science remains enormous — th
 
 ## Likely exam angles
 
-- **Define:** falsificationism, falsifiability, the asymmetry of confirmation and refutation.
-- **Apply:** Why is astrology a pseudo-science on Popper's view? Find your own example.
-- **Critical:** Name two criticisms of falsificationism and explain why each matters.
-- **Compare:** Popper's image of science vs Kuhn's (Lecture 6) — Popper sees science as continuous trial-and-error refinement; Kuhn sees long periods of paradigm-bound puzzle-solving punctuated by revolutionary breaks.
-- **Cross-lecture:** Popper accepted Hume's problem of induction (Lecture 3) and *built around it* — falsificationism is his attempt to do science *without* induction.
+---
+
+### Multiple Choice Questions
+
+**Q1.** Popper's "asymmetry of confirmation and refutation" rests on which logical point?
+- A) Confirming a hypothesis is easier than refuting it
+- B) Seeing O happen proves H is true (modus ponens), but seeing not-O happen also proves H is false (modus tollens)
+- C) Seeing not-O happen proves H is false (modus tollens), but seeing O happen does not prove H is true (affirming the consequent is invalid)
+- D) Hypotheses can only be confirmed by positive evidence, never refuted
+
+<details>
+<summary>Answer</summary>
+
+**Correct: C) Seeing not-O happen proves H is false (modus tollens), but seeing O happen does not prove H is true (affirming the consequent is invalid)**
+
+This is the core logical point. "H entails O; O is true; therefore H is true" is the logical fallacy of affirming the consequent — invalid. "H entails O; O is false; therefore H is false" is modus tollens — valid. So refutation is logically guaranteed; confirmation never is. Option B states the valid part correctly but then incorrectly adds that confirmation is also valid.
+
+</details>
+
+---
+
+**Q2.** According to Popper, what distinguishes science from pseudo-science?
+- A) Science uses mathematical equations; pseudo-science does not
+- B) Science makes predictions; pseudo-science makes only retroactive claims
+- C) Scientific claims are falsifiable; pseudo-scientific claims are not
+- D) Science accumulates truths; pseudo-science accumulates errors
+
+<details>
+<summary>Answer</summary>
+
+**Correct: C) Scientific claims are falsifiable; pseudo-scientific claims are not**
+
+This is Popper's demarcation criterion. If practitioners of a discipline can specify what observations would refute their claims, the discipline is scientific. If claims are framed vaguely enough that no observation could refute them (astrology's horoscopes, some forms of psychoanalysis), the discipline is pseudo-scientific. Falsifiability is about the *logical structure* of claims, not whether they are expressed in equations.
+
+</details>
+
+---
+
+**Q3.** A scientist adds a new auxiliary assumption to save her theory from a failed prediction. Popper called this:
+- A) Corroboration — a legitimate strengthening of the theory
+- B) An ad hoc modification — which he disapproved of
+- C) The context of discovery — creative but scientifically irrelevant
+- D) A falsification — the theory has been refuted and should be discarded
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) An ad hoc modification — which he disapproved of**
+
+Popper disapproved of *ad hoc* modifications because they protect a theory from refutation rather than subjecting it to genuine tests. However, one of the criticisms of falsificationism noted in the lecture is that scientists *do* make ad hoc modifications productively all the time — Popper's strict rule does not match actual scientific practice.
+
+</details>
+
+---
+
+**Q4.** Which of the following is a correct statement of Popper's scientific knowledge?
+- A) Scientific knowledge is the accumulated sum of confirmed truths
+- B) Scientific knowledge is a set of hypotheses that have not yet been refuted
+- C) Scientific knowledge consists only of falsified hypotheses
+- D) Scientific knowledge is derived inductively from a large number of observations
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) Scientific knowledge is a set of hypotheses that have not yet been refuted**
+
+Popper characterises scientific knowledge in *negative* terms — what we've managed not to refute so far. Progress is the elimination of errors, not the accumulation of truths. Option D contradicts Popper directly — he *rejected* induction. Option C is wrong — falsified hypotheses are *discarded*, not kept.
+
+</details>
+
+---
+
+**Q5.** Which of the following is the most serious criticism of Popper's falsificationism for social science?
+- A) Social-science hypotheses are too mathematical for the falsifiability test
+- B) Statistical and probabilistic hypotheses cannot be falsified by a single counter-instance
+- C) Social scientists are not creative enough to generate bold conjectures
+- D) Falsificationism requires social scientists to abandon all qualitative methods
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) Statistical and probabilistic hypotheses cannot be falsified by a single counter-instance**
+
+"Income correlates with health" is a typical social-science claim. One rich sick person does not falsify it. Popper's strict falsifiability criterion ends up ruling out large swathes of social science that work with probabilistic, statistical relationships. Options A and C are not standard criticisms of Popper. Option D is a consequence that follows from applying Popper, but it is not the *reason* why falsificationism fails for social science.
+
+</details>
+
+---
+
+**Q6.** The "context of discovery" in Popper's philosophy of science refers to:
+- A) The empirical tests scientists use to confirm hypotheses
+- B) The phase where hypotheses are freely conjectured — no rules, just creativity
+- C) The professional consensus that a hypothesis deserves testing
+- D) The historical narrative by which a discovery was made, which justifies the hypothesis
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) The phase where hypotheses are freely conjectured — no rules, just creativity**
+
+Popper strictly separates the context of discovery (where a hypothesis *comes from* — dreams, hunches, observations — is scientifically irrelevant) from the context of *justification* (where hypotheses are rigorously tested). The origin of a hypothesis does not justify it; only surviving genuine attempts at falsification does. Option D is a common confusion — for Popper, the historical genesis of a claim is irrelevant to its justification.
+
+</details>
+
+---
+
+### Short Essay / Open Questions
+
+**Essay Q1.** Explain Popper's asymmetry of confirmation and refutation and show why it leads him to propose falsificationism as the method of science. Then identify two criticisms of this proposal.
+
+<details>
+<summary>Model answer outline</summary>
+
+**Key points to hit:**
+- The asymmetry: logically, O confirms H only invalidly (affirming the consequent). Not-O refutes H validly (modus tollens). Therefore only refutation gives certainty.
+- Popper's response: build science entirely on refutation. Propose bold hypotheses, try to break them; what survives is "corroborated" science.
+- Science characterised negatively: knowledge = not-yet-refuted hypotheses; progress = elimination of errors.
+- Criticism 1: most hypotheses can only be tested with *auxiliary assumptions* — a failed prediction may falsify the hypothesis *or* an auxiliary, so refutation is less decisive than Popper assumes.
+- Criticism 2: probabilistic hypotheses (much of social science) cannot be falsified by a single counter-instance — Popper's criterion is too strict for statistical science.
+
+**Good example to use:** The astrology example for the demarcation criterion; "all swans are white" for the asymmetry itself (a single black swan kills it decisively).
+
+**Common mistake to avoid:** Presenting falsificationism as simply "wrong." It is enormously influential; the question is whether it is *sufficient* as the sole criterion for science, not whether it identifies a genuine feature of good scientific practice.
+
+</details>
+
+---
+
+**Essay Q2.** "Popper accepted Hume's problem of induction and tried to do science without induction." Explain what this means and assess whether falsificationism successfully eliminates the need for induction.
+
+<details>
+<summary>Model answer outline</summary>
+
+**Key points to hit:**
+- Hume's problem (Lecture 3): there is no logical justification for inductive generalisation — the next observation can always refute an all-swans-are-white claim.
+- Popper's acceptance: he agreed with Hume completely and drew the radical conclusion — stop trying to confirm, start trying to refute.
+- How falsificationism avoids induction: in the context of justification, science never makes the ampliative leap from "n observations of white swans" to "all swans are white" as a confirmed truth. It only deduces: if H entails O and not-O, then not-H.
+- Does it fully eliminate induction? Problem: Popper still relies on observational evidence, and reading results of experiments still requires an inductive background (e.g. trusting that the apparatus works). Also, "corroboration" — a well-tested hypothesis deserves more trust — is arguably inductive in spirit even if not in name.
+- The critics' point (Criticism 3 in the lecture): pragmatic warrant and Bayesian confirmation theory show that confirmation *can* be made more rigorous — so Popper may have given up on confirmation too hastily.
+
+**Good example to use:** The black swan: Popper says this shows science should proceed by *looking for black swans* (refutation attempts) rather than accumulating white swans (confirmations). This is the operational difference between inductivism and falsificationism.
+
+**Common mistake to avoid:** Confusing Popper's rejection of *confirmation as a method* with a claim that no evidence ever matters. Evidence matters enormously for Popper — but only as a potential *refuter*.
+
+</details>
+
+---
+
+**Essay Q3.** Critically assess Popper's demarcation criterion. Is falsifiability a necessary condition, a sufficient condition, or neither for scientific status? Use examples from the lecture.
+
+<details>
+<summary>Model answer outline</summary>
+
+**Key points to hit:**
+- Popper's claim: falsifiability is the criterion that separates science from pseudo-science. Astrology is pseudo-science because its predictions are too vague to be refuted.
+- Is it *necessary*? Popper would say yes. But critics note that quantum mechanics' fundamental claims and some evolutionary hypotheses are not straightforwardly falsifiable by a single experiment yet are clearly scientific.
+- Is it *sufficient*? No — many clearly non-scientific claims are falsifiable (e.g. "there is a gold mine in my backyard"). Falsifiability is too permissive if used as a sufficient criterion.
+- The statistical problem: much of social and biomedical science uses probabilistic hypotheses that cannot be killed by one counter-instance — yet these are recognised as scientific. This suggests falsifiability must be supplemented.
+- Popper's own concession: "corroboration" suggests that a history of surviving refutation attempts matters — which implicitly brings back something like inductive weight.
+- Conclusion: falsifiability is a useful *necessary* feature and a good heuristic, but not sufficient alone.
+
+**Good example to use:** Astrology (classic pseudo-science case). Then contrast with "income correlates with health" — clearly scientific in intent but not falsifiable by a single counter-instance.
+
+**Common mistake to avoid:** Taking astrology's unfalsifiability as the *only* reason it is pseudo-science. The example shows the criterion in action, but the lecture acknowledges that real science often involves statistical claims that are equally not-strictly-falsifiable.
+
+</details>

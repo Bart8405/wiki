@@ -116,9 +116,168 @@ Political scientists; co-authors of *A Tale of Two Cultures: Contrasting Qualita
 
 ## Likely exam angles
 
-- **Define:** quantitative vs qualitative methods (Large N vs Small N; cross-case vs within-case).
-- **Define:** forward vs reverse causal inference. Internal vs external validity.
-- **Compare:** strengths and weaknesses of quantitative and qualitative on the two axes.
-- **Apply:** Given a research scenario, identify whether quant or qual is more appropriate and explain why.
-- **Avoid trap:** Don't confuse quant/qual with nomothetic/idiographic.
-- **Cross-lecture:** Forward causal inference (cause → effect) maps roughly onto Hempel's DN model (Lecture 4); reverse causal inference (effect → cause) maps onto causal-mechanical and Verstehen-style (Lecture 10) reconstruction.
+---
+
+### Multiple Choice Questions
+
+**Q1.** The primary distinction between quantitative and qualitative methods, according to the lecture, is:
+- A) Quantitative methods use numbers; qualitative methods use words
+- B) Quantitative methods perform cross-case analysis; qualitative methods perform within-case analysis
+- C) Quantitative methods are nomothetic; qualitative methods are idiographic
+- D) Quantitative methods are scientific; qualitative methods are humanistic
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) Quantitative methods perform cross-case analysis; qualitative methods perform within-case analysis**
+
+The lecture explicitly flags that the numbers/words distinction is *misleading*. The deeper distinction is the direction and unit of analysis: quantitative collects few variables from many cases and finds patterns across cases; qualitative collects many variables from few cases and reconstructs causal pathways *within* cases. Option C is a common conflation the lecture warns against.
+
+</details>
+
+---
+
+**Q2.** "Forward causal inference" is defined in the lecture as:
+- A) Reasoning from effects back to the most likely cause
+- B) Reasoning from causes to their expected effects
+- C) Inferring the next step in a causal chain based on previous observations
+- D) Using deductive logic to identify what caused an observed event
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) Reasoning from causes to their expected effects**
+
+Forward inference: we know intervention T occurred — what was its effect? This is the native direction of quantitative methods (e.g. randomised control trials, clinical drug trials). Reverse inference — "we see outcome E, what caused it?" — is the native direction of qualitative/case-study methods.
+
+</details>
+
+---
+
+**Q3.** Theda Skocpol's *States and Social Revolutions* (1979) is cited in the lecture as a canonical example of:
+- A) A large-N quantitative study of political revolutions
+- B) A case-study approach using three cases (France, Russia, China) to understand revolutions in general
+- C) A study that applies Hempel's DN model to historical events
+- D) An example of why case studies cannot produce generalisable findings
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) A case-study approach using three cases (France, Russia, China) to understand revolutions in general**
+
+Skocpol intensively studied three revolutions with the explicit *goal* of understanding revolutions in general — not just those three. This is the defining characteristic of qualitative/case-study method: Small N with the aspiration of illuminating a larger class. Option D contradicts the lecture's point: case studies are a legitimate way to generate claims about larger classes.
+
+</details>
+
+---
+
+**Q4.** "Internal validity" refers to:
+- A) The degree to which a study's findings generalise beyond the case studied
+- B) The degree to which a study's findings are warranted for the specific case studied
+- C) The logical consistency of a study's theoretical framework
+- D) The degree to which a study uses rigorous statistical methods
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) The degree to which a study's findings are warranted for the specific case studied**
+
+Internal validity = trust in the finding *for the case you studied*. External validity = trust that the finding generalises beyond the case. Qualitative methods tend to score high on internal validity (deep knowledge of one case) but lower on external validity (hard to generalise from one case). Quantitative methods tend to have the inverse profile.
+
+</details>
+
+---
+
+**Q5.** Which phase of the empirical cycle is qualitative research *best* suited to?
+- A) Hypothesis testing — confirming or disconfirming a predicted correlation
+- B) Theory application — applying a confirmed theory to new cases
+- C) Hypothesis generation — identifying candidate causal mechanisms through in-depth study
+- D) Data collection — gathering large amounts of numerical data efficiently
+
+<details>
+<summary>Answer</summary>
+
+**Correct: C) Hypothesis generation — identifying candidate causal mechanisms through in-depth study**
+
+Qualitative methods are strong at hypothesis generation because deep knowledge of a few cases allows researchers to identify which variables matter and how they relate causally. They are weaker at hypothesis *testing* because a single case is a poor basis for testing a general hypothesis (vulnerable to selection bias and cherry-picking critique).
+
+</details>
+
+---
+
+**Q6.** The lecture warns explicitly against confusing quantitative/qualitative with:
+- A) Inductive/deductive reasoning
+- B) Nomothetic/idiographic approaches
+- C) Hypothesis generation/hypothesis testing
+- D) Internal/external validity
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) Nomothetic/idiographic approaches**
+
+The lecture states this as an explicit "important caution": quant/qual is about *data and case count*; nomothetic/idiographic is about *what you're trying to achieve epistemically* (generalise vs. interpret particulars). A qualitative case study can pursue nomothetic goals (Skocpol). An experimental psychologist collecting numbers is nomothetic in aim. They are correlated but *not* identical.
+
+</details>
+
+---
+
+### Short Essay / Open Questions
+
+**Essay Q1.** "The labels 'qualitative' and 'quantitative' are misleading." What does the lecture mean by this? Explain the two axes (direction of causal inference; place in the empirical cycle) that better capture the distinction.
+
+<details>
+<summary>Model answer outline</summary>
+
+**Key points to hit:**
+- The surface difference (numbers vs words) is not the core distinction. A qualitative study can use numerical data; a quantitative study can use textual material.
+- Axis 1 — Direction of causal inference: quantitative is natively *forward* (cause → effect: what does T do to the outcome?); qualitative is natively *reverse* (effect → cause: what produced this outcome?).
+- Axis 2 — Empirical cycle: qualitative is strong at hypothesis *generation* (rich knowledge of few cases → plausible causal mechanisms); quantitative is strong at hypothesis *testing* (large N → statistical power to confirm or disconfirm a predicted correlation).
+- Why the labels mislead: using "qualitative = unscientific" or "quantitative = rigorous" erases the legitimate role each method plays. Both are necessary and irreplaceable in a complete research programme.
+
+**Good example to use:** The clinical drug trial for forward quantitative inference; Skocpol's three-revolution study for reverse qualitative inference.
+
+**Common mistake to avoid:** Treating the two axes as perfectly aligned — i.e. saying qualitative = reverse and idiographic, quantitative = forward and nomothetic. The lecture is explicit these are distinct dimensions.
+
+</details>
+
+---
+
+**Essay Q2.** Explain the trade-off between internal and external validity in social science research, using Skocpol's *States and Social Revolutions* and a clinical drug trial as contrasting examples.
+
+<details>
+<summary>Model answer outline</summary>
+
+**Key points to hit:**
+- Internal validity: the finding is warranted *for the case studied*. External validity: the finding generalises *beyond* the case studied.
+- The trade-off: measures that increase confidence in a finding for one case (intensive study, context sensitivity, many variables) tend to reduce generalisability. Measures that increase generalisability (large N, standardised variables, random sampling) tend to reduce depth of causal understanding for individual cases.
+- Skocpol (qualitative): three cases studied deeply → high internal validity for each revolution, but whether findings generalise to *all* revolutions is uncertain. The "selection bias" worry: Skocpol chose successful revolutions — what about failed ones?
+- Drug trial (quantitative): randomly assigned subjects, large N, controlled conditions → high external validity (the average effect of drug T in the population). But: we cannot say drug T *was the cause* for any *individual* patient — we only know the average effect. Lower internal validity at the case level.
+- Conclusion: neither method "wins" — both make real trade-offs.
+
+**Good example to use:** Skocpol for the qualitative side; any clinical trial for the quantitative side. The lecture's example of Frédéric Le Play (fieldworkers living with families) is also good for high internal validity.
+
+**Common mistake to avoid:** Saying external validity is "more important" or "more scientific." The lecture explicitly says "there is no hierarchy: both play essential and irreducible roles."
+
+</details>
+
+---
+
+**Essay Q3.** A researcher notices that several Latin American countries experienced both high levels of inequality and political instability in the 2000s. She wants to understand the causal relationship. Using the concepts from Lecture 8, advise her on: (1) which method is appropriate at what stage, and (2) the strengths and limitations of each.
+
+<details>
+<summary>Model answer outline</summary>
+
+**Key points to hit:**
+- Stage 1 — Hypothesis generation: qualitative case study. Pick 2-3 countries where inequality was high and instability occurred; study them deeply (many variables — party systems, institutional history, ethnic cleavages, economic shocks) to identify plausible causal pathways linking inequality → instability. This is reverse causal inference (we see the outcome, we ask what caused it).
+- Stage 2 — Hypothesis testing: once a hypothesis is formulated (e.g. "inequality → instability when institutions are weak"), test it quantitatively using a Large N dataset across many countries, controlling for confounds.
+- Strengths of qualitative stage: rich context, multiple potential causes identified, not constrained by prior theory.
+- Weaknesses of qualitative stage: selection bias (she chose cases where instability occurred — what about equally unequal but stable countries?), hard to generalise, not falsifiable from a single case.
+- Strengths of quantitative stage: can test the hypothesis across many cases, identify whether the predicted correlation holds, control for confounding variables.
+- Weaknesses: doesn't tell you *how* inequality produces instability in any specific country — the causal mechanism remains a black box.
+
+**Good example to use:** The structure of the Skocpol example (comparative historical analysis) vs. a large-N cross-national regression.
+
+**Common mistake to avoid:** Recommending only one method. The lecture's core message is that mature research programmes *combine* qualitative and quantitative approaches — triangulation compensates for each method's weaknesses.
+
+</details>

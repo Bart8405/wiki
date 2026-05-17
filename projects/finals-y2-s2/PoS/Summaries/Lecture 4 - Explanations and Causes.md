@@ -103,8 +103,168 @@ German-born philosopher (1905–1997). PhD Berlin 1934; emigrated and worked at 
 
 ## Likely exam angles
 
-- **Define:** explanandum, explanans, DN model.
-- **Apply:** Construct a DN-form explanation for a given outcome.
-- **Critical:** State a counterexample to DN (flagpole, hexed salt) and explain what flaw it reveals.
-- **Compare:** DN model vs causal-mechanical model — what's the difference and why does it matter?
-- **Cross-lecture:** "Explanation" is nomothetic vocabulary (Lecture 1); Lecture 10's *Verstehen* (interpretation/understanding) is the idiographic alternative. Hempel's DN is essentially the formal expression of *Erklären*.
+---
+
+### Multiple Choice Questions
+
+**Q1.** In Hempel's Deductive-Nomological (DN) model, an explanation is defined as:
+- A) A narrative story that leads logically to the explanandum
+- B) A valid deductive argument from true premises that include at least one scientific law
+- C) A probabilistic argument showing the explanandum had high likelihood
+- D) A causal chain of events leading to the outcome
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) A valid deductive argument from true premises that include at least one scientific law**
+
+The DN model requires three things: (1) valid deductive form, (2) true premises, (3) at least one law (the "N" in DN = nomological = law-governed) among the premises. Option C describes the IS (Inductive-Statistical) model. Option D sounds like a causal-mechanical model (Salmon). Option A is closer to a narrative explanation.
+
+</details>
+
+---
+
+**Q2.** The flagpole/shadow counterexample to the DN model demonstrates that:
+- A) DN explanations are too restrictive — they exclude valid probabilistic explanations
+- B) DN explanations can run backwards, explaining causes from effects, which is absurd
+- C) DN explanations accept irrelevant information in the explanans
+- D) DN explanations require laws that have no exceptions
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) DN explanations can run backwards, explaining causes from effects, which is absurd**
+
+The same geometry equation that explains the shadow's length from the flagpole's height *also* lets you "explain" the flagpole's height from the shadow's length. Intuitively, a shadow does not *cause* or *explain* a flagpole's height. This shows DN cannot distinguish causes from effects — it is too permissive about *direction*. Option C describes the *hexed salt* counterexample, not the flagpole.
+
+</details>
+
+---
+
+**Q3.** The "hexed salt" counterexample reveals which specific flaw in the DN model?
+- A) DN accepts explanations that run from effect to cause
+- B) DN is too restrictive — it excludes good probabilistic explanations
+- C) DN accepts irrelevant information as part of a valid explanation
+- D) DN requires premises to be known in advance of the observation
+
+<details>
+<summary>Answer</summary>
+
+**Correct: C) DN accepts irrelevant information as part of a valid explanation**
+
+"All hexed salt dissolves in water; this salt was hexed; therefore it dissolved" is a valid DN-form argument — but the hex is *completely irrelevant*, since *all* salt dissolves in water regardless. DN cannot screen out causally irrelevant factors from the explanans. Option A describes the flagpole problem. Option B describes the paresis problem (IS model).
+
+</details>
+
+---
+
+**Q4.** The "paresis" counterexample challenges the *Inductive-Statistical* (IS) model by showing that:
+- A) Statistical explanations can run backwards from effects to causes
+- B) A good explanation can cite a cause even when the probability of the outcome is less than 0.5
+- C) The IS model is too permissive — it accepts irrelevant information
+- D) Probabilistic claims cannot be tested empirically
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) A good explanation can cite a cause even when the probability of the outcome is less than 0.5**
+
+Untreated syphilis is the *only* known cause of paresis, yet only ~30% of patients with untreated syphilis develop paresis. The IS model says "high probability" is required — but 30% is not high. The IS model therefore wrongly rejects "untreated syphilis" as an explanation for paresis. The flaw: IS is *too restrictive* — it excludes good causal explanations that have low probability.
+
+</details>
+
+---
+
+**Q5.** Wesley Salmon's causal-mechanical model (1984) holds that an explanation of event E consists of:
+- A) A covering law and particular initial conditions
+- B) Showing that E had high statistical probability
+- C) A description of the causal processes and interactions that led to E
+- D) An account of how E contributes to a functional goal
+
+<details>
+<summary>Answer</summary>
+
+**Correct: C) A description of the causal processes and interactions that led to E**
+
+Salmon's model requires tracing the actual causal chain: identifying the *processes* (continuous physical processes able to transmit a mark — e.g. the ball flying through space) and *interactions* (spatio-temporal intersections that modify both processes — e.g. the bat hitting the ball). Options A and B describe Hempel's DN/IS models. Option D describes the functional model.
+
+</details>
+
+---
+
+**Q6.** According to the lecture, why is an explanation different from a successful prediction?
+- A) Explanations are always made in advance; predictions are made retrospectively
+- B) An explanation's premises must be true; a prediction can succeed even from false premises
+- C) Predictions require laws; explanations do not
+- D) Explanations must be probabilistic; predictions can be deductive
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) An explanation's premises must be true; a prediction can succeed even from false premises**
+
+The same deductive argument structure can serve both explanation and prediction. The key asymmetry: for *explanation*, the premises (laws + initial conditions) must actually be true. For *prediction*, a false theory can still predict the right outcome by coincidence. This is why successful prediction does not guarantee a good explanation.
+
+</details>
+
+---
+
+### Short Essay / Open Questions
+
+**Essay Q1.** Lay out Hempel's Deductive-Nomological (DN) model of explanation, then evaluate it using two of the three counterexamples discussed in the lecture (flagpole/shadow, hexed salt, paresis).
+
+<details>
+<summary>Model answer outline</summary>
+
+**Key points to hit:**
+- DN structure: L₁...Lₙ (laws), C₁...Cₙ (particular facts) → E (explanandum). Argument must be deductively valid, premises true, at least one law present.
+- Flagpole counterexample: shadow length can be "explained" from flagpole height *and* flagpole height can be "explained" from shadow length using the same geometry. But the second feels absurd — shadows don't cause flagpoles. Flaw: DN can't distinguish causes from effects.
+- Hexed salt counterexample: "all hexed salt dissolves in water; this salt was hexed; therefore it dissolved" — valid DN form, but the hex is irrelevant (all salt dissolves). Flaw: DN accepts causally irrelevant premises.
+- The common source of both flaws: Hempel thought *laws alone* could capture causality. But they can't — a factor can be part of a sufficient condition for E without causing E.
+- Conclusion: Hempel's model must be supplemented or replaced by causal accounts (Salmon).
+
+**Good example to use:** The trade volume example from the lecture (rising barriers → falling trade) for what a *good* DN explanation looks like, then contrast with the flagpole or hexed salt cases.
+
+**Common mistake to avoid:** Treating the counterexamples as proving Hempel is worthless. The DN model was enormously influential and captured something real — the problem is it is necessary but not sufficient for explanation.
+
+</details>
+
+---
+
+**Essay Q2.** Compare Hempel's DN model with Salmon's causal-mechanical model. What problem does Salmon's model solve, and what does it require that Hempel's model does not?
+
+<details>
+<summary>Model answer outline</summary>
+
+**Key points to hit:**
+- DN: explanation = valid deductive argument from laws + particular facts. Adequate for deterministic phenomena; does not explicitly require causal relations — just logical sufficiency.
+- Causal-mechanical (Salmon): explanation = description of the causal processes (physical processes transmitting a mark) and causal interactions (spatio-temporal intersections that modify those processes) that led to E.
+- What Salmon adds: a requirement for *causal direction* (processes run forward in time) and *causal relevance* (only include what actually affects E). These requirements block both the flagpole reversal and the hexed salt problem.
+- What Salmon requires: knowledge of the actual causal history of E, not just a logical relationship to laws.
+- Cricket example from the lecture: bat hits ball (interaction — scuff mark), ball travels through space carrying the scuff (process) — this is a *causal* story, not just a derivation from Newton's laws.
+
+**Good example to use:** Use the cricket ball / bat example for Salmon, and the flagpole for the flaw in DN that Salmon addresses.
+
+**Common mistake to avoid:** Thinking causal-mechanical accounts are always superior. Causal accounts face their own difficulties (what counts as a "causal process"? What about abstract or mathematical explanations in physics?).
+
+</details>
+
+---
+
+**Essay Q3.** "Even a complete record of all events in the world would leave science incomplete." What three things would we still lack, and how does Hempel's DN model try to supply them? Assess how well it succeeds.
+
+<details>
+<summary>Model answer outline</summary>
+
+**Key points to hit:**
+- The three things we'd lack: (1) knowledge of *connections* between events; (2) knowledge of which events were *determined* and which were accidental; (3) ability to *intervene effectively* in the world.
+- DN tries to supply these through the requirement of laws: laws capture necessary connections, distinguish determined from accidental regularities, and ground predictions that enable intervention.
+- Partial success: for simple deterministic systems (falling objects, radioactive decay), DN works well and does supply all three.
+- Failures: the three counterexamples show DN supplies connections that are not causal (flagpole), ignores relevance (hexed salt), and excludes genuine low-probability explanations (paresis). So it often fails on connections and cannot reliably identify what enables effective intervention.
+- Conclusion: DN is necessary but not sufficient. A complete account of scientific explanation needs to track actual causes, not just logical sufficiency.
+
+**Good example to use:** The trade volume fall example is a good "successful" DN case; the hexed salt is the failure case showing irrelevant connections.
+
+**Common mistake to avoid:** Missing that the three insufficiencies (connections, determination, intervention) are listed in the lecture as *the* motivation for wanting explanations in the first place. Returning to them in the conclusion shows a strong grasp of the structure of the argument.
+
+</details>

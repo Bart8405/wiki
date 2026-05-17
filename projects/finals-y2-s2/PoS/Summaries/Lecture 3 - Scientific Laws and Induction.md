@@ -102,8 +102,168 @@ Scottish Enlightenment philosopher and historian (1711–1776), Edinburgh. His *
 
 ## Likely exam angles
 
-- **MCQ:** "What does it mean to say that induction is ampliative?" → inductive inferences go beyond their premises (per Lecture 7 review).
-- **Define:** induction vs deduction. Give an example of each.
-- **Define + apply:** What is Hume's problem of induction? Why does it matter for science?
-- **Application:** Identify a "law" in a social science and discuss whether it fits the nomothetic mould.
-- **Cross-lecture:** Hume's problem is the *direct* setup for Popper's falsificationism (Lecture 5) — Popper accepted Hume and tried to do science without induction at all.
+---
+
+### Multiple Choice Questions
+
+**Q1.** What does it mean to say that induction is "ampliative"?
+- A) Inductive conclusions are logically guaranteed by their premises
+- B) Inductive conclusions go beyond what is contained in the premises
+- C) Inductive reasoning amplifies the certainty of deductive conclusions
+- D) Inductive reasoning is only valid when sample sizes are large
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) Inductive conclusions go beyond what is contained in the premises**
+
+"Ampliative" means the conclusion says more than the premises — you observe some swans and conclude *all* swans are white. Option A describes *deduction*, not induction. Induction is valuable precisely *because* it ampliates (extends knowledge), but this is also its weakness: the next observation can always refute it.
+
+</details>
+
+---
+
+**Q2.** Hume's problem of induction concludes that:
+- A) Induction is reliable when used on large samples
+- B) Induction can be justified deductively through first principles
+- C) There is no logical justification for inductive generalisation
+- D) Induction is the most reliable form of reasoning available
+
+<details>
+<summary>Answer</summary>
+
+**Correct: C) There is no logical justification for inductive generalisation**
+
+Hume shows that justifying induction *inductively* is circular (using the method to justify itself) and justifying it *deductively* is impossible (deduction cannot license ampliative conclusions). His conclusion: induction is at best a psychological tendency, not a logically justified method.
+
+</details>
+
+---
+
+**Q3.** Duverger's law states that:
+- A) Democratic states do not wage war with one another
+- B) Plurality-rule electoral systems tend to produce two-party parliaments
+- C) The volume of bilateral trade is proportional to the economic size of countries divided by distance
+- D) Languages acquire basic colour terms in a universal sequence
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) Plurality-rule electoral systems tend to produce two-party parliaments**
+
+This is Duverger's law (Maurice Duverger, 1950s): first-past-the-post systems → two-party systems (UK, US); proportional representation → multiparty systems (Netherlands, Belgium). Option A is the democratic peace theory. Option C is Tinbergen's gravity model. Option D is Berlin and Kay's colour-term principle.
+
+</details>
+
+---
+
+**Q4.** The "regularity view" of scientific laws holds that:
+- A) Laws describe necessary relations that must hold in all possible worlds
+- B) Laws describe only the most statistically frequent events
+- C) The world contains just events; laws are generalisations describing empirical regularities
+- D) Laws are social conventions agreed upon by scientists
+
+<details>
+<summary>Answer</summary>
+
+**Correct: C) The world contains just events; laws are generalisations describing empirical regularities**
+
+The regularity view says there are no necessary connections in the world — just events that happen to follow patterns. Important generalisations describing those patterns we call "laws." Option A describes the *necessity view*, which holds that laws describe genuinely necessary (not just actual) regularities.
+
+</details>
+
+---
+
+**Q5.** The "pragmatic warrant" offered by Reichenbach and Braithwaite in response to Hume's problem is best described as:
+- A) A logical proof that inductive conclusions are always true
+- B) An argument that induction is the fastest strategy if the world has regularities, even though it cannot be logically proved
+- C) A demonstration that the problem of induction can be dissolved by switching to deductive methods
+- D) A claim that Hume's argument contains a logical error
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) An argument that induction is the fastest strategy if the world has regularities, even though it cannot be logically proved**
+
+The pragmatic response does not *disprove* Hume — it accepts his verdict on logic and argues that *if* the world has regularities, induction will detect them as well as any other method. If the world has no regularities, *nothing* will work. So we lose nothing by using induction. This saves the practice without saving the logic.
+
+</details>
+
+---
+
+**Q6.** The democratic peace theory (that democracies do not wage war with one another) is cited in the lecture as:
+- A) An example of the idiographic approach applied to IR
+- B) The closest thing to an empirical law in International Relations
+- C) A falsified law that Popper's falsificationism correctly predicted
+- D) A deductive theorem derived from Kant's theory of sovereignty
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) The closest thing to an empirical law in International Relations**
+
+The lecture describes democratic peace theory as inspired by Kant's *Perpetual Peace* (1795) and as the most law-like claim in IR — a universal generalisation about state behaviour. It is *not* falsified (option C) — it is presented as one of the more robust social-science laws.
+
+</details>
+
+---
+
+### Short Essay / Open Questions
+
+**Essay Q1.** What is Hume's problem of induction? Explain both the circular attempt to justify induction inductively and the failure to justify it deductively. What does this imply for the status of scientific knowledge?
+
+<details>
+<summary>Model answer outline</summary>
+
+**Key points to hit:**
+- Define induction: reasoning from particular observations to general conclusions — "all swans are white" from observing many white swans.
+- The circular justification: "induction has worked before, therefore it will continue to work" — this is itself an inductive argument, so you are using induction to justify induction. Infinite regress or circularity.
+- The deductive failure: deduction is truth-preserving (conclusions follow necessarily from premises) but *cannot* license ampliative claims. No deductive argument from "all observed swans are white" can validly conclude "all swans everywhere, always, are white."
+- Hume's conclusion: there is no *logical* justification for induction; at most it is a psychological habit of the human mind.
+- Implication: science's most basic reasoning move (generalising from evidence) has no logical foundation. Science can never establish its conclusions with certainty.
+
+**Good example to use:** The black swan — observing one black swan falsifies "all swans are white." The fact that one counterexample kills a universal generalisation shows how induction can never offer certainty: the next observation is always potentially refuting.
+
+**Common mistake to avoid:** Saying Hume "proved induction is wrong" or "proves science fails." Hume shows only that there is no *logical* justification — not that induction doesn't *work*. The pragmatic warrant (Reichenbach) is the standard response: induction is the best bet even without a logical proof.
+
+</details>
+
+---
+
+**Essay Q2.** "The social sciences have their own scientific laws." Evaluate this claim by comparing Duverger's law, democratic peace theory, and Tinbergen's gravity model with a canonical natural-science law such as Newton's law of gravitation.
+
+<details>
+<summary>Model answer outline</summary>
+
+**Key points to hit:**
+- Newton's law: mathematical, universal in scope, covers *all* masses everywhere, extremely precise.
+- Duverger's law: "plurality-rule systems tend to yield two-party parliaments" — it is a tendency/generalization, not strictly universal (exceptions exist: India, Canada), not mathematical in Newton's sense.
+- Democratic peace theory: "democracies don't go to war with each other" — depends heavily on definition of "democracy" and "war"; contested empirically.
+- Tinbergen's gravity model: V = G·m₁·m₂/d — *explicitly* modelled on Newton, mathematical; more law-like than Duverger but still has exceptions and explanatory variables are contested.
+- Conclusion: social-science laws are *weaker* in scope, less precise, more sensitive to definitional choices, and more contested — but they do represent the nomothetic aspiration applied to social phenomena.
+
+**Good example to use:** Compare Newton (F = G·m₁m₂/r²) directly against Tinbergen (V = G·m₁m₂/d) to show structural similarity but different robustness.
+
+**Common mistake to avoid:** Concluding that social-science laws are "not real laws." The lecture suggests they are genuine examples of the nomothetic approach — just less powerful. The debate between the regularity view and the necessity view is relevant here.
+
+</details>
+
+---
+
+**Essay Q3.** Compare the *regularity* and *necessity* views of scientific laws. Which view better accommodates Duverger's law in political science? Which better accommodates Newton's law of gravitation?
+
+<details>
+<summary>Model answer outline</summary>
+
+**Key points to hit:**
+- Regularity view: laws just describe what *is* (or has been) the case — they are summarised empirical regularities. No metaphysical "must."
+- Necessity view: laws describe what *must* be the case — there is a deeper modal structure to the world that forces these regularities.
+- Duverger's law: better fits the regularity view — it is an observed tendency, has exceptions, and there is no obvious deep necessity that *must* produce two parties under first-past-the-post. It is an empirical generalisation about what *tends* to happen.
+- Newton's law: the necessity view seems more appropriate — we think it would be impossible for gravity to work differently under the same conditions. Yet even here, Hume would say we are just inferring necessity from observed regularity: we have never *seen* necessity itself.
+- The deeper issue: whether anything beyond regularity exists in nature, or whether necessity is always a projection of the human mind.
+
+**Good example to use:** Use the contrast between "all masses attract" (feels necessary) and "plurality systems produce two parties" (feels contingent) to motivate the question.
+
+**Common mistake to avoid:** Treating the necessity view as obviously correct. The regularity view has a serious philosophical tradition (Hume himself) and the necessity view faces hard questions about what "necessity" even means.
+
+</details>

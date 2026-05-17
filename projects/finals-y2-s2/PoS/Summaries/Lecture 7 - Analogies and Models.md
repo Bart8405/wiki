@@ -98,10 +98,167 @@ British philosopher of science (1924–2016). Professor of Philosophy of Science
 
 ## Likely exam angles
 
-- **MCQ:** Components of analogy; the role of neutral analogy.
-- **Define:** the four components of an analogy; Hesse's three classes; idealisation.
-- **Apply (open essay — explicitly previewed in Lecture 7's practice questions):**
-  - "What are the requirements for a successful analogy in science?"
-  - "Develop an analogy between an electronic computer and a human brain" (give the mapping + relations).
-  - "How can analogy lead to new discoveries in science? Give an example."
-- **Critical:** Explain why a model can be useful without being true (the instrumentalist stance).
+---
+
+### Multiple Choice Questions
+
+**Q1.** In the structure of a scientific analogy, what is the difference between a "mapping" and "relations"?
+- A) A mapping transfers content; relations are a term-by-term translation with no content
+- B) A mapping is a term-by-term translation; relations are structural claims that hold in both domains
+- C) A mapping applies only to physical domains; relations apply to abstract domains
+- D) A mapping specifies the negative analogy; relations specify the positive analogy
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) A mapping is a term-by-term translation; relations are structural claims that hold in both domains**
+
+The lecture is explicit: a mapping *alone* is just a translation — it says "X in domain A corresponds to Y in domain B" without yet saying anything about either domain. Relations add the substantive content — claims like "X causes Y in both domains" that travel across the mapping. Without relations, an analogy has no cognitive purchase.
+
+</details>
+
+---
+
+**Q2.** Mary Hesse's "neutral analogy" is defined as:
+- A) Relations known to hold in neither the source nor the target domain
+- B) Relations known to hold in both the source and target domains
+- C) Relations known to hold in the source but not yet known whether they hold in the target
+- D) Relations known to hold in the target but not yet mapped to the source
+
+<details>
+<summary>Answer</summary>
+
+**Correct: C) Relations known to hold in the source but not yet known whether they hold in the target**
+
+The neutral analogy is the engine of discovery: it generates new research questions by asking "does this known feature of the source also apply to the target?" Water waves travel through a medium — do light waves? (Turned out: negative analogy. Ether doesn't exist.) This is what makes analogical reasoning *productive* rather than merely decorative.
+
+</details>
+
+---
+
+**Q3.** The Bohr model of the atom (1913) is described in the lecture as:
+- A) A model that is known to be false but was tremendously useful for half a century
+- B) A correct representation of atomic structure that was later confirmed by quantum mechanics
+- C) An example of a model taken as true, not merely adequate
+- D) The canonical example of a negative analogy between the atom and the solar system
+
+<details>
+<summary>Answer</summary>
+
+**Correct: A) A model that is known to be false but was tremendously useful for half a century**
+
+The Bohr model — electrons orbiting a nucleus like planets around the sun — was inspired by the solar system analogy. It is now known to be incorrect (electron trajectories are not localised). Yet it was enormously useful for predicting atomic spectra and guiding research. This is the instrumentalist stance in action: the model is judged *adequate for the job*, not *true*.
+
+</details>
+
+---
+
+**Q4.** The MONIAC machine (Bill Phillips, LSE, 1949) is best described as:
+- A) A statistical model of inflation using regression analysis
+- B) A hydraulic model of the UK economy where water flows represent money flows
+- C) A digital simulation of Keynesian macroeconomics using early computers
+- D) A thought experiment about the relationship between trade and money supply
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) A hydraulic model of the UK economy where water flows represent money flows**
+
+The MONIAC is a physical machine: tanks = sectors of the economy, pipes = financial relationships, pumps = funds-transfer mechanisms, water = money. It is an analogy made physical hardware — the most literal instantiation of the water/money mapping imaginable. It was used as both a teaching device and an actual computing tool.
+
+</details>
+
+---
+
+**Q5.** The organic analogy of society (Spencer, Durkheim) establishes which relation?
+- A) The whole is less than the sum of parts; parts compete for resources
+- B) The whole is greater than the sum of parts; parts work together for the whole; understanding a part requires showing its function
+- C) Societies, like organisms, must inevitably decay and die
+- D) Social institutions are analogous to atoms, not organs
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) The whole is greater than the sum of parts; parts work together for the whole; understanding a part requires showing its function**
+
+These are the relations that travel across the organism → society mapping in functionalist sociology. Understanding an institution means showing what it *does for* the society (its function), just as understanding an organ means showing what it does for the organism. Option C is a *neutral analogy* (organisms age and die — do societies?) that hasn't been resolved.
+
+</details>
+
+---
+
+**Q6.** The "instrumentalist stance" toward scientific models holds that:
+- A) Models should be evaluated as true or false, like theoretical claims
+- B) Models should be evaluated as adequate or inadequate tools for specific purposes
+- C) Models that idealise reality are scientifically illegitimate
+- D) Models are only valid if they accurately represent every feature of the target domain
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) Models should be evaluated as adequate or inadequate tools for specific purposes**
+
+The instrumentalist stance treats models as tools — like maps. A map that reproduces every detail would be useless. Models deliberately simplify (idealise). The right question is not "is this model true?" but "is this model adequate for the job?" The Bohr atom model is the canonical case: false, but adequate for many purposes.
+
+</details>
+
+---
+
+### Short Essay / Open Questions
+
+**Essay Q1.** "What are the requirements for a successful analogy in science?" Answer using the four components of an analogy and Hesse's three classes of relations. Illustrate with one example from the lecture.
+
+<details>
+<summary>Model answer outline</summary>
+
+**Key points to hit:**
+- Four components: (1) source domain (familiar), (2) target domain (less familiar), (3) mapping (term-by-term correspondence), (4) relations (structural claims that travel across the mapping).
+- Requirements for success: (a) a mapping that is non-trivial and systematic; (b) a rich positive analogy — relations already known to hold in both domains; (c) a manageable negative analogy — relations that break, so we know where the analogy stops; (d) a *neutral analogy* — relations known in the source but unknown in the target, which generate new research questions.
+- Without a neutral analogy, the comparison is decorative. Without a positive analogy, the comparison is ungrounded. The balance of all three makes an analogy scientifically productive.
+- Example: water waves ↔ light waves (physics) — rich positive analogy (wave equation holds in both), interesting neutral analogy (do light waves need a medium like water waves do?), clear negative analogy (no ether exists — the neutral analogy resolved to negative).
+
+**Good example to use:** Either the water/light example or the organism/society example. Both are fully laid out in the notes.
+
+**Common mistake to avoid:** Thinking that a mapping alone constitutes an analogy. The lecture is explicit: a mapping by itself is "just a translation" with no cognitive content. Relations are what give the analogy substance.
+
+</details>
+
+---
+
+**Essay Q2.** "How can analogy lead to new discoveries in science?" Explain the role of the neutral analogy in scientific discovery, and give a concrete example from the lecture.
+
+<details>
+<summary>Model answer outline</summary>
+
+**Key points to hit:**
+- The neutral analogy is the *engine of discovery* — it is where known features of the source domain have not yet been checked in the target domain.
+- Mechanism: identify a relation that holds in the source → ask whether it also holds in the target → design experiments or observations to find out → result either confirms (positive analogy expands) or disconfirms (moves to negative analogy).
+- This is how analogical reasoning generates *novel predictions* — without requiring the scientist to have thought of the idea from scratch about the target domain.
+- Example 1 from lecture: water waves travel through a medium (water). Do light waves? This was a major 19th-century research programme — the search for the ether. The Michelson-Morley experiment eventually showed: no ether (neutral → negative analogy). But the research *programme* was generated by the neutral analogy.
+- Example 2: organisms age and die — do societies inevitably collapse? Still a live research question in social science — the neutral analogy is not yet resolved.
+
+**Good example to use:** The ether example is the cleanest — it shows the full cycle from neutral to resolved (negative) analogy.
+
+**Common mistake to avoid:** Saying analogies "prove" things. Analogies generate hypotheses and research directions; empirical work is still needed to determine which neutral analogies resolve as positive or negative.
+
+</details>
+
+---
+
+**Essay Q3.** "A model can be useful without being true." Explain and defend the instrumentalist stance toward models. Use the Bohr model of the atom and/or the MONIAC as examples. What are the limits of this stance?
+
+<details>
+<summary>Model answer outline</summary>
+
+**Key points to hit:**
+- The instrumentalist stance: models are tools, not pictures of reality. They are judged by whether they are *adequate* (useful, fit-for-purpose) not whether they are *true*.
+- Idealisation: models deliberately distort reality (frictionless planes, perfectly rational agents, electrons in circular orbits) because the distortions make the problem tractable. Removing all distortions would give you a useless model (a 1:1 scale map).
+- Bohr model: false (electrons don't have definite trajectories), but enormously useful for predicting spectral lines and guiding atomic research for decades.
+- MONIAC: literally a physical analogy — water as money. Not "true" (money is not water), but it worked as a teaching and demonstration tool and even gave correct answers to policy questions.
+- Limits of instrumentalism: (1) if a model is badly wrong about the underlying structure, it may work in current conditions but fail badly when extrapolated. (2) Models can mislead if scientists forget they are instruments and start treating them as true pictures. (3) In the social sciences, models that treat humans as perfectly rational agents can have normative/political effects beyond their descriptive accuracy.
+
+**Good example to use:** Bohr model for a scientific case; MONIAC for a social/economic case.
+
+**Common mistake to avoid:** Confusing "useful" with "accurate." The whole point of the instrumentalist stance is that these are *independent* evaluations. A model can be accurate and useless, or inaccurate and very useful. The Bohr model was the latter.
+
+</details>

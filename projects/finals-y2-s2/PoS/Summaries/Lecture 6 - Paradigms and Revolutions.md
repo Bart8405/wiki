@@ -99,8 +99,167 @@ His one book that mattered: ***The Structure of Scientific Revolutions*** (1962;
 
 ## Likely exam angles
 
-- **Define:** paradigm, normal science, scientific revolution, incommensurability (with at least one of its three forms).
-- **Apply:** Identify Newtonianism, classical-to-quantum, or any other case as Kuhn would describe it.
-- **Critical:** What is Kuhn's challenge to the cumulative view of scientific progress? What did his late retraction (five epistemic values) try to recover?
-- **Compare:** Popper (Lecture 5) vs Kuhn — continuous critical testing vs paradigm-bound normal science with revolutionary breaks.
-- **Cross-lecture:** Kuhn's idea that "each paradigm has its own rationality" sets up Lecture 11 directly — relativism about rationality.
+---
+
+### Multiple Choice Questions
+
+**Q1.** According to Kuhn, "normal science" is best described as:
+- A) Science conducted without any theoretical assumptions
+- B) Puzzle-solving within a shared paradigm, where fundamental assumptions remain unquestioned
+- C) The critical testing of bold hypotheses, as Popper described
+- D) The period of crisis during which paradigm replacement becomes likely
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) Puzzle-solving within a shared paradigm, where fundamental assumptions remain unquestioned**
+
+Normal science is the long, productive phase where scientists work within an accepted framework, solving puzzles by imitating exemplars. The defining feature is that the paradigm's foundational assumptions are *not* questioned — anomalies are accommodated, not treated as threats. Option C describes Popper's picture; option D describes the *revolutionary* phase.
+
+</details>
+
+---
+
+**Q2.** "Theory-ladenness of observation" means:
+- A) Theories must always be confirmed by observation before they are accepted
+- B) Observations are made and interpreted in light of pre-existing concepts and theories
+- C) Empirical data provide a neutral, paradigm-independent test of theories
+- D) Theoretical terms are always reducible to observational terms
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) Observations are made and interpreted in light of pre-existing concepts and theories**
+
+Theory-ladenness is Kuhn's claim that "pure" observation does not exist — every perception involves conceptual classification, and experimental measurements are interpreted through theoretical assumptions about how the apparatus works. Option C is what Kuhn *denies* — the jury (observations) is partly contaminated by the theory under test.
+
+</details>
+
+---
+
+**Q3.** Kuhn's concept of "incommensurability" between paradigms refers to:
+- A) The fact that successive paradigms always represent genuine scientific progress
+- B) The impossibility of directly comparing, translating, or ranking successive paradigms on shared criteria
+- C) The inability of scientists in different disciplines to communicate with each other
+- D) The difficulty of finding enough evidence to decide between rival theories
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) The impossibility of directly comparing, translating, or ranking successive paradigms on shared criteria**
+
+Incommensurability (borrowed from geometry: no common measure between √2 and rational numbers) means there is no paradigm-neutral standpoint from which to rank Newtonian and quantum physics. The term comes from the absence of a *common measure*. Option C confuses paradigm-incommensurability with general communication failure. Option D is an evidential problem, not what Kuhn means.
+
+</details>
+
+---
+
+**Q4.** The transition from classical to quantum physics (1925–1930) is used in the lecture to illustrate which of Kuhn's claims?
+- A) That scientific revolutions are fully rationally justifiable transitions
+- B) That scientific revolutions involve conservative and progressive factions, neither of which is fully forced by logic to switch
+- C) That paradigm change always follows the accumulation of confirming evidence
+- D) That Popper's falsificationism correctly explains how the old paradigm was abandoned
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) That scientific revolutions involve conservative and progressive factions, neither of which is fully forced by logic to switch**
+
+Einstein and Schrödinger (conservatives) wanted to preserve determinism and visualisability; Bohr and Heisenberg (progressives) prioritised empirical performance. Both had good reasons. The switch to quantum mechanics was not logically compelled — it had elements of generational change and something like a conversion. Option A is the view Kuhn is *challenging*.
+
+</details>
+
+---
+
+**Q5.** In his 1977 work *The Essential Tension*, Kuhn partially retreated from strong incommensurability by arguing that:
+- A) Scientific revolutions are always fully rational and defensible after the fact
+- B) There are five epistemic values — accuracy, consistency, scope, simplicity, fruitfulness — that hold across paradigms
+- C) Paradigm changes are always driven by falsifying counterexamples
+- D) Incommensurability only applies to very large-scale revolutions, not ordinary theory change
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) There are five epistemic values — accuracy, consistency, scope, simplicity, fruitfulness — that hold across paradigms**
+
+This is Kuhn's concession — that these five values provide some continuity across paradigm succession, restoring partial commensurability. But he maintained that *applying* these values still requires interpretation, so paradigm choice never becomes fully algorithmic. Option C is Popper's view, not Kuhn's retraction.
+
+</details>
+
+---
+
+**Q6.** Kuhn's image of science BEFORE the paradigm concept differed from his own account in which key way?
+- A) Before Kuhn, scientists thought theories were always provisional
+- B) Before Kuhn, it was assumed science grew continuously and cumulatively; after Kuhn, growth is discontinuous and non-cumulative
+- C) Before Kuhn, scientists accepted that observations were always theory-laden
+- D) Before Kuhn, philosophers thought scientific terms had no stable meaning
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) Before Kuhn, it was assumed science grew continuously and cumulatively; after Kuhn, growth is discontinuous and non-cumulative**
+
+The pre-Kuhn picture (which Popper largely shared) held that science progresses by accumulating truths and eliminating errors in a continuous process. Kuhn argued that development is punctuated — long stable periods of normal science are interrupted by revolutionary breaks that are not fully continuous with what came before.
+
+</details>
+
+---
+
+### Short Essay / Open Questions
+
+**Essay Q1.** Define "paradigm," "normal science," and "scientific revolution" as Kuhn uses them, and apply all three to the transition from classical (Newtonian) physics to quantum mechanics.
+
+<details>
+<summary>Model answer outline</summary>
+
+**Key points to hit:**
+- Paradigm: a package of assumptions about the world, exemplars for problem-solving, and a style of theorising — not just a theory. Newtonianism (1700–1900): particles + forces, mathematical laws, determinism, visualisable trajectories.
+- Normal science: scientists within the Newtonian paradigm solve puzzles by imitating Newton's own solved problems. Anomalies (e.g. blackbody radiation, photoelectric effect) are noted but typically accommodated, not treated as paradigm-killers.
+- Scientific revolution: anomalies accumulate, cannot be explained within the paradigm → crisis → split into conservative (Einstein, Schrödinger — determinism, visualisability) and progressive (Bohr, Heisenberg — empirical performance, minimal metaphysics) factions → new paradigm (quantum mechanics) *sketched*, not derived.
+- Key Kuhnian features of the quantum transition: incommensurability (the meaning of "motion" and "particle" changes); the switch is not fully forced by logic; it involves generational change and something like conversion.
+
+**Good example to use:** The quantum example from the lecture is exactly the right one. Emphasise the debate between Einstein (conservative) and Bohr (progressive) as evidence that neither side was being irrational — the switch was not logically compelled.
+
+**Common mistake to avoid:** Saying Newtonian mechanics was "proven wrong" and quantum mechanics was "proven right." Kuhn's point is that the transition is more complex — it involves incommensurable frameworks, not simple refutation of one by the other.
+
+</details>
+
+---
+
+**Essay Q2.** Explain Kuhn's concept of incommensurability in its three forms (semantic, observational, methodological). Which form is most damaging to the idea that science makes rational progress? Assess Kuhn's 1977 partial retraction.
+
+<details>
+<summary>Model answer outline</summary>
+
+**Key points to hit:**
+- Semantic: scientific terms get their meaning *from* the paradigm. "Motion" for Aristotle = goal-directed qualitative change; for Newton = quantitative position-change. Cross-paradigm communication breaks down because the *words* mean different things.
+- Observational: paradigm determines what you *see* — strong theory-ladenness. The Gestalt switch analogy: same image, you see either a duck or a rabbit, never both at once.
+- Methodological: each paradigm has its own rationality and standards of progress — no paradigm-neutral criteria for theory choice.
+- Which is most damaging: methodological incommensurability is the most radical — if there are no shared criteria for what counts as a good explanation or successful prediction, the very concept of "rational scientific progress" is threatened.
+- Kuhn's 1977 retraction: five epistemic values (accuracy, consistency, scope, simplicity, fruitfulness) provide continuity. Restores some commensurability. Weakness: applying these values still requires interpretation — the verdict on paradigm succession is never fully algorithmic. This is a partial, not full, retreat.
+
+**Good example to use:** The duck/rabbit Gestalt switch for observational incommensurability; the "motion" example for semantic incommensurability.
+
+**Common mistake to avoid:** Taking incommensurability to mean that paradigms are *incomparable*, full stop. Kuhn's 1977 move is specifically to concede some grounds here. Strong incommensurability would make science fully unintelligible — Kuhn did not want that conclusion.
+
+</details>
+
+---
+
+**Essay Q3.** Compare Popper's and Kuhn's images of science. Which is more accurate as a description of how science actually works? Which offers a better *normative* model for how science *should* work?
+
+<details>
+<summary>Model answer outline</summary>
+
+**Key points to hit:**
+- Popper: science is continuous, relentless critical testing. Scientists are creative conjecturers who try hard to falsify their own theories. Progress = elimination of errors. Science is never dogmatic.
+- Kuhn: science *descriptively* is mostly *not* like this. Most of the time it is paradigm-bound puzzle-solving — very little critical questioning of fundamentals. Revolutionary upheaval is rare and emotionally/sociologically messy, not the rational trial-and-error Popper imagined.
+- Descriptive accuracy: Kuhn is better — actual scientists mostly do work within accepted frameworks and do not constantly question fundamentals. Popper's picture better describes *revolutionary* episodes.
+- Normative dimension: Popper offers a cleaner normative ideal — science *should* remain permanently open to falsification. Kuhn's normal science produces efficiency and career structures but at the cost of dogmatic commitment to the paradigm.
+- The key one-liner: "Popper: science is constant critical testing. Kuhn: most of the time, science is *not* critical at all — it's puzzle-solving inside an unquestioned framework, *occasionally* interrupted by upheaval."
+
+**Good example to use:** Use Kuhn's quantum mechanics example for the Kuhnian picture; use Popper's black swan for the Popperian picture.
+
+**Common mistake to avoid:** Treating Popper and Kuhn as simply in conflict about the *same* question. Popper is offering a normative account of *how science should work*; Kuhn is offering a descriptive account of *how science actually does work*. The comparison is partially between two different types of claim.
+
+</details>

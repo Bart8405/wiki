@@ -513,14 +513,14 @@ Wolff's lecture flags **N. El Qadim** — a postcolonial scholar arguing that EU
 - **Paris** (Bigo) — security = everyday bureaucratic practice; border guards are "managers of flows."
 
 **Key institutions / agreements:**
-- **1951 Geneva Convention** — refugee definition + non-refoulement.
+- ==**1951 Geneva Convention** — refugee definition + non-refoulement.==
 - **Schengen (1985)** — no internal border checks + common external visa policy.
 - **Dublin (1990)** — first safe country rule.
 - **Eurodac** — fingerprint database of asylum seekers.
-- **Third Pillar (TEU 1992)** — JHA cooperation.
-- **Amsterdam (1997)** — migration moved from Third to First Pillar.
-- **Tampere (1999)** — Schengen acquis condition for accession.
-- **Frontex** — EU border agency (lecture mention).
+- ==**Third Pillar (TEU 1992)** — JHA cooperation.==
+- ==**Amsterdam (1997)** — migration moved from Third to First Pillar.==
+- ==**Tampere (1999)** — Schengen acquis condition for accession.==
+- ==**Frontex** — EU border agency (lecture mention).==
 - **UNHCR / IOM / ILO** — postwar international migration architecture.
 
 **Migration diplomacy:**

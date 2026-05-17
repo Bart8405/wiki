@@ -117,13 +117,13 @@ PMSCs (Private Military and Security Companies) now perform critical security ta
 
 ### Re-Arm Europe (contemporary relevance)
 
-The lecture closes with a live policy issue: the EU's €800 billion ReArm Europe plan (2025), suspending strict budget rules, pooling procurement, and creating a new lending instrument (SAFE). This is a direct consequence of the Ukraine war and represents a historic shift in European defence posture.
+The lecture closes with a live policy issue: the EU's €800 billion ReArm Europe plan (2025), suspending strict budget rules, ==pooling procurement,== and creating a ==new lending instrument (SAFE==). This is a direct consequence of the Ukraine war and represents a historic shift in European defence posture.
 
 ---
 
 ## Key thinker — Tarak Barkawi
 
-British-Canadian scholar at the LSE. His 2016 article "Decolonising War" argues that IR's concept of "war" is a Eurocentric construct built from European nation-state wars, which systematically excludes colonial and small wars — the wars that shaped most of the world. His prescription is not to study a different *geography* of war but to change the *conceptual framework* itself.
+British-Canadian scholar at the LSE. His 2016 article "Decolonising War" argues that IR's concept of "war" is a Eurocentric construct built from European nation-state wars, ==which systematically excludes colonial and small wars — the wars that shaped most of the world.== His prescription is not to study a different *geography* of war but to change the *conceptual framework* itself.
 
 *(Clausewitz: Prussian military theorist, wrote **On War** (1833 — posthumous). His key formula — war as the continuation of politics — became the foundational realist view of conflict. He also stressed the "fog of war" and friction as inherent to military operations.)*
 
@@ -132,16 +132,16 @@ British-Canadian scholar at the LSE. His 2016 article "Decolonising War" argues 
 > **Explained easily — Clausewitz:**
 > Imagine two people negotiating a business deal. When the negotiation breaks down and they sue each other, that's not a new situation — it's the same conflict, just using different tools. Clausewitz says war is exactly like that: it's states continuing their political dispute, just switching from diplomacy to bullets. War doesn't replace politics; it *is* politics by violent means.
 
-> **Explained easily — Just War Theory:**
-> Think of just war like the conditions for a legitimate fistfight: you can only punch someone if they hit you first (just cause), you tried talking it out (last resort), you don't hit harder than necessary (proportionality), and you don't go for the eyes (discrimination). The theory tries to distinguish "tragically necessary" wars from aggression.
+> ==**Explained easily — Just War Theory:**==
+> ==Think of just war like the conditions for a legitimate fistfight: you can only punch someone if they hit you first (just cause), you tried talking it out (last resort), you don't hit harder than necessary (proportionality), and you don't go for the eyes (discrimination). The theory tries to distinguish "tragically necessary" wars from aggression.==
 
-> **Explained easily — Decolonising War:**
-> Imagine if historians only defined "music" as classical orchestral music, and put hip-hop, jazz, and folk into separate lesser categories called "sounds" or "noise." That's what Eurocentric war studies did with colonial conflicts — they defined "real war" as European interstate war, and called everything else (colonial uprisings, counterinsurgency, occupations) something other than war. Barkawi says: the definition is the problem. Fix the concept, not just the geography.
-
+> ==**Explained easily — Decolonising War:**==
+> ==Imagine if historians only defined "music" as classical orchestral music, and put hip-hop, jazz, and folk into separate lesser categories called "sounds" or "noise." That's what Eurocentric war studies did with colonial conflicts — they defined "real war" as European interstate war, and called everything else (colonial uprisings, counterinsurgency, occupations) something other than war. Barkawi says: the definition is the problem. Fix the concept, not just the geography.== 
 > **Explained easily — Democratic Peace Theory:**
 > The observation that liberal democracies almost never fight *each other*, though they fight plenty of non-democracies. The explanation: shared norms (respect for rights, rule of law) and economic interdependence make war too costly and morally illegitimate between democracies. This is a key liberal argument for spreading democracy.
 
----
+%%great examples for the just war theory and decolonizing war - write these into index, these examples!%% 
+
 
 ## Likely exam angles
 

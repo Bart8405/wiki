@@ -45,12 +45,12 @@ The natural sciences treat laws as the *paradigm of knowledge* — even outside 
 | Economics | Tinbergen's gravity model of international trade |
 | International relations | Democratic peace theory |
 
-The common thread: these claims assume there is **substantial universality or regularity underlying human affairs** — sometimes determined by biological, physiological or structural constraints — that we can describe with universal statements largely independent of cultural context. This is the *opposite* assumption from the idiographic approach.
+The common thread: these claims assume there is **substantial universality or regularity underlying human affairs** — sometimes determined by biological, physiological or structural constraints — ==that we can describe with universal statements largely independent of cultural context.== This is the *opposite* assumption from the idiographic approach.
 
 ### Two views of what laws *are*
 
-- **Regularity view:** laws just describe what *is* the case (statistical patterns).
-- **Necessity view:** laws describe what *must* be the case (a deeper modal claim about the world).
+%%- **Regularity view:** laws just describe what *is* the case (statistical patterns).
+- **Necessity view:** laws describe what *must* be the case (a deeper modal claim about the world). - give me specific example of where do these two differ%%
 
 ### Discovering laws: top-down vs bottom-up
 
@@ -63,15 +63,16 @@ Classic inductive form:
 
 > $x_1$ is a swan and is white. $x_2$ is a swan and is white. … Therefore, **all swans are white**.
 
-The conclusion ranges over *more cases* than were observed → induction is **ampliative**. The next observation (a black swan) can refute it.
+==The conclusion ranges over *more cases* than were observed → induction is **ampliative**. The next observation (a black swan) can refute it.==
 
 ### Hume's problem
 
 How can we *justify* the inductive leap?
 - Justify induction *by induction* (it has worked before) → **circular / infinite regress**.
-- Justify induction *deductively* → impossible (deduction can't license ampliative conclusions).
+	%%- ==Induction is working because some previous inductions were right, therefore all indutions must be right (ampliative?)== %%
+- Justify induction *deductively* → impossible (deduction can't license ampliative conclusions). %%is there really no way to justify induction through deduction? I thought there was%%
 
-→ Hume's conclusion: there is no logical justification for inductive generalisation. At most, induction is a **psychological tendency** of the human mind.
+→ Hume's conclusion: there is no logical justification for inductive generalisation. ==At most, induction is a **psychological tendency** of the human mind.==
 
 ### Two responses
 

@@ -74,10 +74,10 @@ How can we *justify* the inductive leap?
 
 → Hume's conclusion: there is no logical justification for inductive generalisation. ==At most, induction is a **psychological tendency** of the human mind.==
 
-### Two responses
+### ==Two responses==
 
-- **Karl Popper** (Lecture 5) accepted Hume's verdict and tried to do science *without* induction — leading to falsificationism.
-- **Pragmatic warrant** (Reichenbach, Braithwaite): we can't be sure the world has regularities, but *if it does*, induction is the fastest way to detect them. So we have a pragmatic — not logical — reason to use induction.
+- ==**Karl Popper** (Lecture 5) accepted Hume's verdict and tried to do science *without* induction — leading to falsificationism.==
+- ==**Pragmatic warrant** (Reichenbach, Braithwaite): we can't be sure the world has regularities, but *if it does*, induction is the fastest way to detect them. So we have a pragmatic — not logical — reason to use induction.==
 
 ---
 
@@ -88,13 +88,15 @@ Scottish Enlightenment philosopher and historian (1711–1776), Edinburgh. His *
 ---
 
 > **Explained easily — laws everywhere, not just in physics:**
-> Most people picture "scientific law" and think Newton or Einstein. The lecture's punchline: social sciences have their own laws too. Duverger's law (voting systems → number of parties) and the democratic peace theory work the same way — universal claims that try to describe regularities in human affairs. Whether you find them convincing depends on whether you think human behaviour really *has* universal regularities (nomothetic instinct) or whether every case is too unique for that (idiographic instinct).
+> Most people picture "scientific law" and think Newton or Einstein. The lecture's punchline: social sciences have their own laws too. Duverger's law (voting systems → number of parties) and the democratic peace theory work the same way — universal claims that try to describe regularities in human affairs. ==Whether you find them convincing depends on whether you think human behaviour really *has* universal regularities (nomothetic instinct) or whether every case is too unique for that (idiographic instinct).== 
+> 
+> ==This is great - connecting the concepts, which enhances understanding and also works as spaced repetition - amazing, continue like this==
 
 > **Explained easily — Hume's problem of induction:**
-> Every time you see a white swan, you become a tiny bit more confident "all swans are white." But how do you *justify* that leap? You can't say "induction has always worked before" — that's using induction to justify induction, which is circular. And you can't logically *prove* it from first principles, because the next swan could always be black. Hume's depressing conclusion: there's no airtight logical justification for science's most basic reasoning move. We do it anyway because it's the best we've got — but it's an act of faith dressed up as logic.
+> Every time you see a white swan, you become a tiny bit more confident "all swans are white." But how do you *justify* that leap? You can't say "induction has always worked before" — that's using induction to justify induction, which is circular. ==And you can't logically *prove* it from first principles, because the next swan could always be black.== Hume's depressing conclusion: there's no airtight logical justification for science's most basic reasoning move. We do it anyway because it's the best we've got — but it's an act of faith dressed up as logic.
 
 > **Explained easily — the pragmatic escape:**
-> Reichenbach's move: we don't have to *prove* the world has patterns to be allowed to use induction. We just have to say: "*If* the world has patterns, induction will catch them as fast as anything else. If the world has no patterns, *nothing* will work. So we lose nothing by trying induction." It saves the *practice* even if it doesn't save the *logic*.
+> Reichenbach's move: we don't have to *prove* the world has patterns to be allowed to use induction. ==We just have to say: "*If* the world has patterns, induction will catch them as fast as anything else. If the world has no patterns, *nothing* will work. So we lose nothing by trying induction."== It saves the *practice* even if it doesn't save the *logic*.
 
 ---
 

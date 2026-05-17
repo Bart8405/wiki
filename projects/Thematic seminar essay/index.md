@@ -8,6 +8,7 @@
 |------|---------|
 | [essay-direction](wiki/synthesis/essay-direction.md) | Working thesis, outline, source map, and open questions for the essay |
 | [thesis-questions-answers](wiki/synthesis/thesis-questions-answers.md) | Direct answers to two core essay questions: why ETS first, and what Indonesia should do now. Written 2026-05-17 incorporating Overnight Search finds. |
+| [thesis-questions-answered](wiki/synthesis/thesis-questions-answered.md) | Parallel session's essay-ready draft answers to the same two thesis questions. |
 
 ## Concepts
 
@@ -130,6 +131,23 @@ All links are free to access. No PDFs downloaded yet — see `raw/Overnight sear
 |------|---------|
 | `raw/Ecosystem Marketplace 2025 - State of the Voluntary Carbon Market.pdf` | 2025 VCM market data |
 | `raw/LATER_Faecks 2022 - Evolution of sustainable development in the voluntary carbon market (MSc thesis).pdf` | MSc thesis — backlog |
+
+### Overnight search results (2026-05-17)
+
+Sources found via overnight web search. No PDFs downloaded — Bart downloads what he wants. See `raw/Overnight search/search-results-2026-05-17.md` for full details, links, and priority rankings.
+
+| Source (to download) | Why relevant |
+|---|---|
+| AMRO, Andriansyah & Hong — *Cap First, and Then Tax* (2023/24) | **Top priority** — directly answers why Indonesia chose ETS before tax |
+| IMF, Parry et al. — *Carbon Taxes or ETS? Instrument Choice and Design* (2022) | Best policy-instrument comparison; political economy of price opacity |
+| IEEFA — *Two Years After Launch, Indonesia's Carbon Market Struggles* (Sep 2025) | Most current ETS underperformance data |
+| World Bank — *State and Trends of Carbon Pricing 2025* | $100B revenue milestone; global benchmark |
+| ADB — *Asia-Pacific Climate Report 2025* | Updates the 2024 ADB report already in `raw/`; Indonesia Phase 2 data |
+| Sembiring et al. 2025 — *Carbon Tax and Trading in Indonesia's Power Sector* | Models the $2 vs. $63 emissions gap to 2050 |
+| "Delaying the Carbon Tax in Indonesia" (Pena Justisia, 2024) | Legal-academic account of postponement causes |
+| IESR — *Navigating Indonesia's Carbon Market* | Domestic Indonesian think-tank perspective |
+| IETA — *Indonesia ETS at a Glance* (2025) | Industry-body factsheet complementing ICAP 104 |
+| Tanaka et al. 2024 — *To Tax or to Trade? Global Review* | Up-to-date complement to Jia & Lin 2020 |
 
 ### User's own work
 

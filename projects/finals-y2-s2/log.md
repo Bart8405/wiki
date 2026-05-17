@@ -1,8 +1,8 @@
 # Log
 
 ## 2026-05-17
-- Created `study-plan.md` at project root: daily schedule for 13 days until the last exam (29 May), allocating most time to IRO (hardest), keeping PoS ticking alongside, flagging GPE as a critical gap (no materials yet)
-- Exams: PoS 26 May, IRO 27 May, GPE 29 May
+- Two parallel sessions both created study plans. Session A: `study-plan.md` (13-day daily schedule). Session B: `Study Plan - May 2026.md` (9 study days + exam days). Both flag GPE as a critical gap (no slides uploaded) and IRO Weeks 3 + 7–12 as needing raw slide input
+- Exams: PoS 26 May, IRO 27 May (hardest), GPE 29 May
 
 ## 2026-05-14
 - Project scaffolded with folders for GPE, IRO, PoS

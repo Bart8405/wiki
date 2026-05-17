@@ -21,3 +21,9 @@ Each course folder contains:
 3. I keep `notes.md` updated as a single growing study document per course
 
 See [log.md](log.md) for what's happened so far.
+
+## Study plan
+
+| File | Description |
+|---|---|
+| [Study Plan - May 2026](Study%20Plan%20-%20May%202026.md) | Day-by-day plan from 17 May through all three exams (26, 27, 29 May) |

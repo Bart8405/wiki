@@ -13,6 +13,14 @@
 - Identified previously unknown PDFs via first-page extraction: Asadnabizadeh & Moe 2024, Kuncoro et al. 2025, Gatto & Sadik-Zada 2025, Rizzi 2025, Nofyanza et al. 2025, Cheong 2025, Faecks 2022 (MSc thesis), Battocletti et al. 2024, Agnolucci et al. 2024, Kochar et al. 2025, Edianto et al. 2022, Ordonez et al. 2022, Steckel et al. 2021, Dorband et al. 2019, Jakob et al. 2016
 - `index.md` rewritten to reference new filenames; `wiki/synthesis/essay-direction.md` links updated
 
+## [2026-05-17] search | Overnight web search for additional carbon pricing sources
+
+- Searched Google Scholar proxies, World Bank Open Knowledge, ADB, IEEFA, IESR, IMF eLibrary, AMRO, IETA, Climate Action Tracker, ICAP
+- Found 14 new sources directly relevant to the essay (see `raw/Overnight search/search-results-2026-05-17.md`)
+- Key new finds: AMRO "Cap First, and Then Tax" (directly answers thesis Q1); IMF Parry et al. 2022 (instrument choice political economy); IEEFA Sep 2025 (ETS underperformance); WB State & Trends 2025 ($100B milestone)
+- Created `wiki/synthesis/thesis-questions-answered.md` with essay-ready draft answers to both thesis questions
+- Updated `index.md` with new Overnight search section and new synthesis page
+
 ## [2026-05-16] ingest | Quick skim of 6 key sources for essay framing
 - ICAP factsheet 104 — Indonesia ETS (NEK) operational facts
 - Sunanda et al. 2025 — SLR of 65 Indonesia carbon-pricing studies (the closest thing to a roadmap for this essay)

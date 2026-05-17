@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1779016141111,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1779015999965,
+          "path": "projects/finals-y2-s2/study-plan.md",
+          "title": "Study guide"
+        },
+        {
+          "type": "folder",
+          "ctime": 1779016083668,
+          "path": "projects/finals-y2-s2/PoS/Summaries",
+          "title": "POS"
+        },
+        {
+          "type": "folder",
+          "ctime": 1779016125948,
+          "path": "projects/finals-y2-s2/IRO/Summaries",
+          "title": "IRO"
+        }
+      ],
+      "title": "Finals"
+    }
+  ]
+}

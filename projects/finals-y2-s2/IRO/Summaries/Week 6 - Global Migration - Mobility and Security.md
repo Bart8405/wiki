@@ -468,7 +468,8 @@ Wolff's lecture flags **N. El Qadim** — a postcolonial scholar arguing that EU
 
 **Define:** The **liberal paradox** (Hollifield 1992, 2004) holds that liberal states are caught between two opposing logics — the **economic logic** of liberalism, which pushes toward openness to trade, investment and migration to maintain competitiveness; and the **political and legal logic** of liberalism, which pushes toward closure because borders, the ==demos and the social contract require some degree of territorial closure==. The **migration state** is Hollifield's name for the third function of the modern state (after the garrison state and Rosecrance's trading state), where regulation of migration is now central to state purpose.
 
-**Apply (a case):** **Postwar Germany.** Initially recruited Turkish guest workers; **1973 oil shock** → recruitment suspension; courts intervened to extend residence rights → family reunification phase continued migration despite halt. ==Schroder's **2000 "green card"** for high-tech workers + 1999 jus soli citizenship reforms show the liberal direction==. Yet attempts to ban family reunification for green card workers were quickly reversed under rights pressure. The "We asked for workers, but human beings came" (Frisch) line captures the paradox exactly. **The EU as regional regime** lets Germany finesse (not escape) the paradox: free movement within, externalised control outside; symbolic politics, good cop / bad cop between EU and member state, and shared border governance (Schengen, Frontex). ==Example to the liberal paradox is germany that was inviting turkish regfugees to work until 1973 when they wanted to stop but not really succesfully. Then with the c
+**Apply (a case):** **Postwar Germany.** Initially recruited Turkish guest workers; **1973 oil shock** → recruitment suspension; courts intervened to extend residence rights → family reunification phase continued migration despite halt. ==Schroder's **2000 "green card"** for high-tech workers + 1999 jus soli citizenship reforms show the liberal direction==. Yet attempts to ban family reunification for green card workers were quickly reversed under rights pressure. The "We asked for workers, but human beings came" (Frisch) line captures the paradox exactly. **The EU as regional regime** lets Germany finesse (not escape) the paradox: free movement within, externalised control outside; symbolic politics, good cop / bad cop between EU and member state, and shared border governance (Schengen, Frontex). ==Example to the liberal paradox is germany that was inviting turkish regfugees to work until 1973 when they wanted to stop but not really succesfully. Then with the citizenship reform 1999 jus soli and 2000 green card, they wanted only tech workers but again found out that they cant have just the workers and not their families, children etc - is this right?
+
 
 **Assess (explains/overlooks):**
 - *Explains:* Why deportations are sparing and largely symbolic; why mass expulsions are not viable in liberal democracies; why courts repeatedly strike down draconian laws (California Proposition 187, French Pasqua/Debré Laws); why high-skilled migration is expanded while low-skilled is curtailed; why guest worker schemes are politically attractive but legally unsustainable.
@@ -488,23 +489,23 @@ Wolff's lecture flags **N. El Qadim** — a postcolonial scholar arguing that EU
 ## 7. One-page revision sheet
 
 **Definitions to nail (1951 Convention is exam gold):**
-- **Refugee** = fear of persecution on race/religion/nationality/social group/political opinion + outside country of nationality.
+- **Refugee** ==fear of persecution on race/religion/nationality/social group/political opinion== + outside country of nationality.
 - **Asylum-seeker** = applied, case pending.
 - **IDP** = displaced, hasn't crossed an international border.
 - **Non-refoulement** = no return to country of persecution.
 
-**Hollifield in one minute:**
-- Liberal paradox: economic openness × political closure.
-- Three state functions: garrison + trading + **migration state**.
-- Rights are key: courts protect migrants → restrictive policies repeatedly struck down.
-- Guest worker schemes don't work — *"We asked for workers, but human beings came"* (Frisch).
-- EU = regional regime that lets states **finesse** (not escape) the paradox.
+==**Hollifield in one minute==:**
+- ==Liberal paradox: economic openness × political closure.==
+- ==Three state functions: garrison + trading + **migration state**.==
+- ==Rights are key: courts protect migrants → restrictive policies repeatedly struck down.==
+- ==Guest worker schemes don't work — *"We asked for workers, but human beings came"* (Frisch).==
+- ==EU = regional regime that lets states **finesse** (not escape) the paradox.==
 
 **Huysmans in one minute:**
 - Migration is **securitised** through political construction — speech acts + practices.
-- The EU **internal market spillover into internal security**: SEA → Schengen → Third Pillar → Dublin → Amsterdam.
+- The EU ==**internal market spillover into internal security**==: SEA → Schengen → Third Pillar → Dublin → Amsterdam.
 - The **security continuum**: borders + terrorism + crime + migration get treated together.
-- Three themes of securitisation: **internal security, cultural security, welfare chauvinism**.
+- ==Three themes of securitisation: **internal security, cultural security, welfare chauvinism**.==
 - Securitisation is **structural** — not just a few extreme actors.
 
 **Schools of securitisation:**

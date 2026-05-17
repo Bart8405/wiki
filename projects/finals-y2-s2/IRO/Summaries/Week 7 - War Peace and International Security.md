@@ -67,7 +67,7 @@ War is not an aberration — it is a tool of statecraft. States pursue power, an
 **Idealism/Liberalism:**
 - Idealists (drawing on Kant) push for *perpetual peace* through international cooperation, internationalism, and collective security.
 - Karl Deutsch (1957) coined *security communities* — regions where war is unthinkable because states are integrated by shared identity and institutions.
-- Liberals see war as a problem solvable by spreading democracy (*democratic peace theory*), free trade, and international law (Deudney & Ikenberry 1999).
+- ==Liberals see war as a problem solvable by spreading democracy (*democratic peace theory*), free trade, and international law (Deudney & Ikenberry 1999).==
 - But they face a tension: how to protect citizens from outside threats while preserving individual freedom?
 
 **Post-colonialism:**
@@ -85,7 +85,7 @@ Just War is *not* realism (which says war is always potentially legitimate as a 
 3. Legitimate authority (declared by proper authority)
 4. Right intention (no hidden motives)
 5. Reasonable prospect of success (don't start a losing war)
-6. Proportionality (expected benefits outweigh expected harm)
+6. ==Proportionality (expected benefits outweigh expected harm)==
 
 **Jus in bello** — are you fighting it rightly?
 1. Discrimination (target combatants, not civilians)
@@ -98,8 +98,8 @@ The lecture devotes significant attention to Tarak Barkawi's 2016 article — th
 
 Barkawi's argument: the concept of "war" as used in IR and war studies is **Eurocentric**. It was built from the experience of European nation-state wars and implicitly treats these as the template for "real war." Everything else — colonial uprisings, police actions, counterinsurgencies — gets relegated to lesser categories ("Small Wars").
 
-**Three Eurocentric building blocks he attacks:**
-1. **War and peace are opposites** — in Eurocentric thought, history is periodised into "war" and "peace." But this erases the continuous use of force in colonial settings. As the Marine quote on the slide puts it: "America is not at war. The Marine Corps is at war. America is at the mall."
+==**Three Eurocentric building blocks he attacks:**==
+1. **War and peace are opposites** — ==in Eurocentric thought, history is periodised into "war" and "peace." But this erases the continuous use of force in colonial settings. As the Marine quote on the slide puts it: "America is not at war. The Marine Corps is at war. America is at the mall."==
 2. **War happens between sovereign states** — this excludes the vast colonial experience, where empires fought non-state entities, insurgents, and colonies without any of it being coded as "war."
 3. **War is either international or civil** — this two-category system cannot capture colonial wars, which crossed all these lines.
 
@@ -108,7 +108,7 @@ Barkawi's argument: the concept of "war" as used in IR and war studies is **Euro
 ### New Wars and Contemporary Conflict
 
 Kilcullen (2020): the US military model of high-tech, high-precision warfare that "won" the Gulf War in 1991 is **no longer working**. Today's threats come from:
-- "Dragon" states (Russia, China) that refused to orbit the US-led order and developed alternative strategies — including "three warfares" (psychological, public opinion, "lawfare")
+- "==Dragon" states (Russia, China) that refused to orbit the US-led order and developed alternative strategies — including "three warfares" (psychological, public opinion, "lawfare")==
 - "Snakes" — non-state actors and threats from state collapse
 - The War on Terror: turned into "a threat without enemies" — the idea of terrorism as a unified opponent with overarching objectives was an illusion.
 

@@ -139,7 +139,7 @@ His **multiplex world order** concept (developed through the 2010s–2020s) offe
 > Hard power is getting what you want by threatening or paying someone — like a bouncer. Soft power is getting what you want because people admire you and want to be like you — like a musician whose fans copy their style. The US has both: its military (hard) and Hollywood/universities/democracy (soft). China has been building its hard power for decades and is now actively trying to develop soft power (BRI, cultural diplomacy).
 
 > **Explained easily — globalization trilemma:**
-> Imagine three things you want: a unified global economy, your country's ability to make its own rules, and democratic accountability. You can combine any two, but not all three. If you fully open your economy (global integration) and want democracy, your voters will demand protection from global competition — undermining global integration. The EU picked integration + democracy and gave up some sovereignty. Brexit was a vote to get sovereignty back, at the cost of integration.
+> ==Imagine three things you want: a unified global economy, your country's ability to make its own rules, and democratic accountability. You can combine any two, but not all three. If you fully open your economy (global integration) and want democracy, your voters will demand protection from global competition — undermining global integration. The EU picked integration + democracy and gave up some sovereignty. Brexit was a vote to get sovereignty back, at the cost of integration.==
 
 > **Explained easily — the multiplex world order:**
 > In the Cold War, the world had two TV channels. After 1991, one channel (US/liberal order) dominated. Acharya says we're moving to Netflix: many competing producers, many genres, no single show dominates, audiences pick what they watch. Neither the US nor China will run the next world order. It'll be genuinely messy and diverse.
@@ -203,7 +203,7 @@ Nye coined "soft power" to describe co-optive rather than command power — you 
 
 **Q4.** Robert Kagan's remark about 9/11 — "America did not change on September 11. It only became more itself" — best reflects which foreign policy tradition?
 - A) Liberal institutionalism — the US doubled down on international law
-- B) Neoconservatism — the US asserted unilateral primacy
+- B) ==Neoconservatism — the US asserted unilateral primacy==
 - C) Realism — the US pursued balance-of-power calculations
 - D) Constructivism — 9/11 reshaped American identity and norms
 
@@ -222,20 +222,19 @@ Kagan was a leading neoconservative. His point was that the US was always a crus
 
 **Essay Q1.** "The liberal world order is in crisis." Explain what the liberal world order is, what has caused the crisis, and what alternatives have been proposed.
 
-<details>
-<summary>Model answer outline</summary>
+====<details>==
+==<summary>Model answer outline</summary>==
 
-**Key points:**
-- Define the liberal world order: built after 1945, consolidated after 1991. Key features: multilateral institutions (UN, WTO, IMF), democratic peace norms, free trade, rule of law, US hegemony.
-- Causes of crisis: (1) 9/11 and US unilateralism (Bush/neoconservatism) undermining the multilateral order the US built; (2) rise of China as an alternative power centre; (3) internal Western crises — populism, Brexit, Trump — as a reaction to the unequal distribution of globalization's costs (Rodrik's trilemma).
-- Alternatives proposed: (a) Acharya's multiplex world order — no dominant power, genuine diversity; (b) Chinese "Beijing Consensus" — development without liberal democracy; (c) return to great-power spheres of influence.
-- Assessment: the lecture suggests the future is genuinely uncertain — "times of uncertainty, future global challenges: climate change, pandemics, AI."
+==**Key points:**==
+==- Define the liberal world order: built after 1945, consolidated after 1991. Key features: multilateral institutions (UN, WTO, IMF), democratic peace norms, free trade, rule of law, US hegemony.==
+==- Causes of crisis: (1) 9/11 and US unilateralism (Bush/neoconservatism) undermining the multilateral order the US built; (2) rise of China as an alternative power centre; (3) internal Western crises — populism, Brexit, Trump — as a reaction to the unequal distribution of globalization's costs (Rodrik's trilemma).==
+==- Alternatives proposed: (a) Acharya's multiplex world order — no dominant power, genuine diversity; (b) Chinese "Beijing Consensus" — development without liberal democracy; (c) return to great-power spheres of influence.==
+==- Assessment: the lecture suggests the future is genuinely uncertain — "times of uncertainty, future global challenges: climate change, pandemics, AI."==
 
-**Good example:** Belt and Road Initiative as China's alternative to Western-led lending institutions (World Bank/IMF); BRICS as an alternative grouping to G7/G8.
+==**Good example:** Belt and Road Initiative as China's alternative to Western-led lending institutions (World Bank/IMF); BRICS as an alternative grouping to G7/G8.==
 
-</details>
-
----
+==</details>======
+%%add beijing consensus into the new china file that you will create - add an index of terms on top of the file with this there%%---
 
 **Essay Q2.** How does Rodrik's globalization trilemma help explain contemporary political tensions in democracies?
 
@@ -252,4 +251,4 @@ Kagan was a leading neoconservative. His point was that the US was always a crus
 **Common mistake:** Treating the trilemma as pessimistic about globalization. Rodrik's point is not that globalization is bad but that *governing* it requires trade-offs that need to be made consciously and democratically.
 
 </details>
-
+====

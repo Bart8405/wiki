@@ -1,6 +1,15 @@
 ---
-tags: [iro, international-relations, lecture-7, war, peace, security, baisir]
-sources: [raw/WEEK 7/Week 7 War and Peace 2026.pdf, raw/WEEK 7/div-class-title-decolonising-war-div.pdf]
+tags:
+  - iro
+  - international-relations
+  - lecture-7
+  - war
+  - peace
+  - security
+  - baisir
+sources:
+  - raw/WEEK 7/Week 7 War and Peace 2026.pdf
+  - raw/WEEK 7/div-class-title-decolonising-war-div.pdf
 updated: 2026-05-17
 ---
 
@@ -25,10 +34,10 @@ updated: 2026-05-17
 | **Perpetual peace**                           | Kantian idealist vision of a world without war, achievable through republican constitutions and international institutions.                                                                                                                      | LEC7           |
 | **Democratic peace theory**                   | The empirical claim that liberal democracies do not fight each other — a key liberal IR argument. (Deudney & Ikenberry, 1999)                                                                                                                    | LEC7           |
 | **Collective security**                       | An arrangement where a group of states agrees that an attack on one is an attack on all — the logic behind the UN Security Council and NATO's Article 5.                                                                                         | LEC7           |
-| **Security communities**                      | Karl Deutsch (1957): groups of states where war is "unthinkable" because of shared identity and institutions — e.g. the EU/NATO area.                                                                                                            | LEC7           |
+| ==**Security communities**==                  | ==Karl Deutsch (1957): groups of states where war is "unthinkable" because of shared identity and institutions — e.g. the EU/NATO area.==                                                                                                        | LEC7           |
 | ==**Just War Theory**==                       | ==The idea that war can be morally justified if certain ethical conditions are met. Divided into **jus ad bellum** (right to go to war) and **jus in bello** (right conduct during war) and sometimes **jus post bellum** (justice after war).== | LEC7           |
 | **Jus ad bellum**                             | Conditions for justly *starting* a war: last resort, just cause, legitimate authority, right intention, reasonable prospect of success, proportionality.                                                                                         | LEC7           |
-| **Jus in bello**                              | Conditions for justly *conducting* a war: discrimination (between combatants and civilians), proportionality, humanity.                                                                                                                          | LEC7           |
+| **Jus in bello**                              | Conditions for justly *conducting* a war: discrimination (between combatants and civilians), ==proportionality==, humanity.                                                                                                                      | LEC7           |
 | ==**New wars**==                              | ==Post-Cold War conflicts that blur the line between war and crime, involve non-state actors, and are fought over identity rather than ideology. Associated with Mary Kaldor.==                                                                  | LEC7           |
 | ==**Decolonising war** (Barkawi)==            | ==Critiquing how Eurocentric ideas have shaped the very category of "war." Three Eurocentric building blocks to challenge: (1) war/peace as opposites; (2) war happens between sovereign states; (3) war is either international or civil.==     | Barkawi 2016   |
 | **Small Wars**                                | Colonial military operations (insurgencies, uprisings, police actions) that Eurocentric war studies dismissed as "not real war" — but which are central to Barkawi's decolonial project.                                                         | Barkawi 2016   |

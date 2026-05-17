@@ -8,27 +8,27 @@ updated: 2026-05-16
 
 *The nomothetic approach applied: what is a scientific law, how do we discover laws (induction), and what's wrong with induction (Hume's problem).*
 
-**Date:** 18 February 2026 · **Lecturer:** Prof. James W. McAllister · **Key thinker:** **David Hume** (1711–1776)
+**Date:** 18 February 2026 · **Lecturer:** Prof. James W. McAllister · **Key thinker:** ==**David Hume**== (1711–1776)
 
 ---
 
 ## Key concepts — definitions
 
-| Term | Definition |
-|---|---|
-| **Scientific law** | A fundamental principle that identifies an important regularity of the universe. Characteristics: mathematical equation, concise and elegant, universal in scope. |
-| **Laws of nature (examples)** | Newton's gravitation $F = G m_1 m_2 / r^2$; Marie Curie's law of radioactive decay $N(t) = N_0 e^{-\lambda t}$. |
-| **Regularity view of laws** | The world contains *just events* — no necessary relations. Generalisations describe empirical regularities; important ones we call "laws." |
-| **Necessity view of laws** | The world contains both necessary and accidental regularities. Laws describe the *necessary* regularities. |
-| **Induction** | A way of reasoning that goes from particular observations to general conclusions. Bottom-up: observe $x_1, x_2 \ldots$ all have property P → conclude "all things of that kind have P." |
-| **Deduction** | Reasoning from general to particular. Top-down: if all As are Bs and $x_1$ is an A, then $x_1$ is a B. Logically compelling. |
-| **Ampliative reasoning** | Reasoning that goes *beyond* the premises (induction does; deduction does not). Useful but risky — the next observation can refute it. |
-| **Problem of induction (Hume)** | We cannot logically justify induction. Justifying it inductively → infinite regress. Justifying it deductively → too narrow. Hume's conclusion: there is *no logical justification* for inductive generalisations; induction is at best a psychological tendency. |
-| **Pragmatic warrant** (Reichenbach, Braithwaite) | A pragmatic defence of induction: *if* the world contains regularities, then induction is at least as quick as any other method to detect them. Doesn't justify individual inductive conclusions, but justifies using induction as a *strategy*. |
-| **Duverger's law** | Plurality-rule electoral systems tend to yield two-party parliaments (UK, US); proportional representation tends to yield multipartyism (Netherlands, Belgium, Sweden). Maurice Duverger, 1950s. Example of a law in political science. |
-| **Democratic peace theory** | Democratic states do not wage war with one another. Inspired by Kant's *Perpetual Peace* (1795). The closest thing to an empirical law in IR. |
-| **Berlin & Kay's principle** | Languages acquire basic colour terms in a universal sequence (dark/light → red → green/yellow → blue → brown → purple/pink/orange/grey). Suggests a biological universal underlying cultural variation. |
-| **Tinbergen's gravity model of trade** | Volume of bilateral trade $V = G m_1 m_2 / d$ where $m_1, m_2$ are economic sizes and $d$ is distance. Jan Tinbergen, 1962. Mathematically modelled on Newton's gravity. |
+| Term                                             | Definition                                                                                                                                                                                                                                                        |
+| ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ==**Scientific law**==                           | ==A fundamental principle that identifies an important regularity of the universe. Characteristics: mathematical equation, concise and elegant, universal in scope.==                                                                                             |
+| **Laws of nature (examples)**                    | Newton's gravitation $F = G m_1 m_2 / r^2$; Marie Curie's law of radioactive decay $N(t) = N_0 e^{-\lambda t}$.                                                                                                                                                   |
+| ==**Regularity view of laws**==                  | ==The world contains *just events* — no necessary relations. Generalisations describe empirical regularities; important ones we call "laws."==                                                                                                                    |
+| **Necessity view of laws**                       | The world contains both necessary and accidental regularities. Laws describe the *necessary* regularities.                                                                                                                                                        |
+| **Induction**                                    | A way of reasoning that goes from particular observations to general conclusions. Bottom-up: observe $x_1, x_2 \ldots$ all have property P → conclude "all things of that kind have P."                                                                           |
+| **Deduction**                                    | Reasoning from general to particular. Top-down: if all As are Bs and $x_1$ is an A, then $x_1$ is a B. Logically compelling.                                                                                                                                      |
+| **Ampliative reasoning**                         | Reasoning that goes *beyond* the premises (induction does; deduction does not). Useful but risky — the next observation can refute it.                                                                                                                            |
+| **Problem of induction (Hume)**                  | We cannot logically justify induction. Justifying it inductively → infinite regress. Justifying it deductively → too narrow. Hume's conclusion: there is *no logical justification* for inductive generalisations; induction is at best a psychological tendency. |
+| **Pragmatic warrant** (Reichenbach, Braithwaite) | A pragmatic defence of induction: *if* the world contains regularities, then induction is at least as quick as any other method to detect them. Doesn't justify individual inductive conclusions, but justifies using induction as a *strategy*.                  |
+| **Duverger's law**                               | Plurality-rule electoral systems tend to yield two-party parliaments (UK, US); proportional representation tends to yield multipartyism (Netherlands, Belgium, Sweden). Maurice Duverger, 1950s. Example of a law in political science.                           |
+| **Democratic peace theory**                      | Democratic states do not wage war with one another. Inspired by Kant's *Perpetual Peace* (1795). The closest thing to an empirical law in IR.                                                                                                                     |
+| **Berlin & Kay's principle**                     | Languages acquire basic colour terms in a universal sequence (dark/light → red → green/yellow → blue → brown → purple/pink/orange/grey). Suggests a biological universal underlying cultural variation.                                                           |
+| **Tinbergen's gravity model of trade**           | Volume of bilateral trade $V = G m_1 m_2 / d$ where $m_1, m_2$ are economic sizes and $d$ is distance. Jan Tinbergen, 1962. Mathematically modelled on Newton's gravity.                                                                                          |
 
 ---
 

@@ -128,8 +128,168 @@ The **Azande** are an agricultural people of northern Central Africa who consult
 
 ## Likely exam angles
 
-- **Define:** absolutism vs relativism *about a property F*. Why does the lecturer insist on the "about F" precision?
-- **Apply:** Use the schema to formulate (a) absolutism vs relativism about utility (easy warm-up), (b) about truth, (c) about rationality.
-- **Critical:** Explain why unrestricted relativism about truth is self-subverting. Walk through the self-reference argument.
-- **Compare:** Three positions on Azande rationality — classical anthropology, Winch, Lukes.
-- **Cross-lecture:** This lecture ties Lectures 1 (nomothetic/idiographic), 6 (Kuhn's incommensurability — *early* Kuhn was a relativist about rationality), and 10 (cultural meaning) into a final framework for thinking about epistemic diversity.
+---
+
+### Multiple Choice Questions
+
+**Q1.** According to the lecture, the correct way to formulate a relativist position is:
+- A) "I am a relativist" — a general stance against absolute truth
+- B) "I am a relativist *about property F*" — a specific claim about a specific property
+- C) "All knowledge is relative to culture" — a universal epistemic stance
+- D) "Science is relative to paradigm" — citing Kuhn as authority
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) "I am a relativist *about property F*" — a specific claim about a specific property**
+
+The lecture's foundational move: absolutism/relativism is not a single view — only a position *about* a specified property F is a specific, assessable view. Relativism about utility is uncontroversial. Relativism about truth is incoherent. Relativism about rationality is defensible. Option A is precisely what the lecturer warns against: the vague, global relativism of public discourse that produces nothing useful.
+
+</details>
+
+---
+
+**Q2.** The "self-subverting" refutation of relativism about truth works by:
+- A) Showing that relativism leads to logical contradiction in mathematics
+- B) Applying the claim "all truth is relative to perspective" to itself — which shows it cannot be asserted consistently
+- C) Demonstrating that some truths (e.g. in physics) are clearly not relative
+- D) Arguing that relativism about truth leads to moral nihilism
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) Applying the claim "all truth is relative to perspective" to itself — which shows it cannot be asserted consistently**
+
+If "all truth is relative to perspective" is itself absolutely true — contradiction. If it is only relative to perspective, then from some perspectives it is false — it cannot serve as a general philosophical thesis. Either way, the claim defeats itself when applied to itself. This self-reference pattern is the lecture's clean refutation.
+
+</details>
+
+---
+
+**Q3.** An "indexical" in language is a term that:
+- A) Refers to an abstract property independent of any speaker
+- B) Changes its reference with the speaker, time, or place (e.g. "I," "here," "now")
+- C) Always refers to a culturally specific concept
+- D) Has no fixed meaning and therefore demonstrates relativism about truth
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) Changes its reference with the speaker, time, or place (e.g. "I," "here," "now")**
+
+The lecture uses indexicals to diagnose *fake* relativism: "I teach philosophy of science" seems to be true when McAllister says it and false when a student says it. But the two utterances are *different propositions* (different referents for "I") — not the *same* proposition with a shifting truth-value. Many apparent cases of relativism about truth dissolve when indexicals are properly handled.
+
+</details>
+
+---
+
+**Q4.** Peter Winch's position on the Azande is best described as:
+- A) Accepting that Azande reasoning is irrational because witchcraft does not exist
+- B) Far-reaching relativism: Azande reasoning comes from a different "form of life" and is no less objective than Western reasoning
+- C) An intermediate position: respect Azande perspectives but acknowledge some universal norms exist
+- D) Classical Western anthropology: the Azande are "primitive" by modern rational standards
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) Far-reaching relativism: Azande reasoning comes from a different "form of life" and is no less objective than Western reasoning**
+
+Winch's 1964 essay "Understanding a Primitive Society" is the canonical statement of far-reaching relativism about rationality. Drawing on Wittgenstein's "forms of life," Winch argues that anthropologists cannot claim any culture is "wrong" because there is no neutral standpoint from which to judge. Option C describes Lukes' intermediate position; option A is Evans-Pritchard's more nuanced absolutism.
+
+</details>
+
+---
+
+**Q5.** Steven Lukes's "intermediate position" on the Azande debate holds that:
+- A) All cultures are equally rational and cannot be compared
+- B) Western science is the unique standard of rationality; Azande reasoning is therefore irrational
+- C) Our attempts to understand the Azande must respect their attempts to get the world right, but cross-cultural assessment of rationality is both possible and necessary; some universal norms exist
+- D) The Azande case shows that anthropology should abandon normative judgements entirely
+
+<details>
+<summary>Answer</summary>
+
+**Correct: C) Our attempts to understand the Azande must respect their attempts to get the world right, but cross-cultural assessment of rationality is both possible and necessary; some universal norms exist**
+
+Lukes' intermediate position respects cultural difference without abandoning the possibility of cross-cultural judgement. He is sympathetic to Winch's critique of colonial dismissiveness but insists that some norms (against torturing children, basic standards of internal consistency) hold universally. Option A is Winch; option B is the absolutist position Lukes also rejects.
+
+</details>
+
+---
+
+**Q6.** How does the lecture's treatment of relativism about rationality relate to Kuhn (Lecture 6)?
+- A) Kuhn argued for absolutism about rationality — one method fits all paradigms
+- B) Kuhn's five epistemic values in *The Essential Tension* commit him to strong relativism about rationality
+- C) Early Kuhn (incommensurability, each paradigm has its own standards) is essentially a relativist about rationality
+- D) Kuhn has no relevance to the absolutism/relativism debate
+
+<details>
+<summary>Answer</summary>
+
+**Correct: C) Early Kuhn (incommensurability, each paradigm has its own standards) is essentially a relativist about rationality**
+
+Kuhn's claim in *The Structure of Scientific Revolutions* that each paradigm has its own incommensurable form of rationality, with no paradigm-neutral criteria for theory choice, is precisely relativism about rationality — a reasoning style's rationality is relative to its paradigm. His 1977 *Essential Tension* (five epistemic values) is a partial *retreat* from this relativism.
+
+</details>
+
+---
+
+### Short Essay / Open Questions
+
+**Essay Q1.** "Relativism and absolutism are not single views — only relativism/absolutism *about a specific property F* is a specific view." Explain this precision and apply it to (a) utility, (b) truth, and (c) rationality.
+
+<details>
+<summary>Model answer outline</summary>
+
+**Key points to hit:**
+- The schema: absolutism about F = F belongs to entities intrinsically, perspective-independently. Relativism about F = F belongs to entities only relative to a perspective S.
+- Why precision matters: "I'm a relativist" says nothing useful. Relativism about utility is trivially true (a tin-opener is useful depending on your aims). Relativism about rationality is defensible. Relativism about truth is incoherent. The same word ("relativism") names three very different claims.
+- Utility: clearly relative — depends on your aims and purposes. No controversy.
+- Truth: the relativist claim (a proposition can be true from my perspective and false from yours) is self-subverting. Applied to itself, the claim cannot be consistently asserted. Better: acknowledge that different people hold different beliefs, but recognise that at most one of two contradictory beliefs can be *true*.
+- Rationality: more defensible. Different cultures and historical eras use different reasoning styles that are effective within their context. No single style has a privileged view from nowhere. Motivation: the Azande, and Kuhn's incommensurable paradigms.
+
+**Good example to use:** The tin-opener example for utility; the self-reference refutation for truth; the Azande and Kuhn's quantum/classical transition for rationality.
+
+**Common mistake to avoid:** Treating the precision move as merely academic. The lecture's whole argument is that imprecise claims about "relativism" in general cause confusion. Once you apply the precision, some relativist claims are obviously true, some are clearly false, and some are genuinely interesting.
+
+</details>
+
+---
+
+**Essay Q2.** Explain the self-subverting character of relativism about truth. Why do the two standard defences fail? What should we conclude about acknowledging different perspectives?
+
+<details>
+<summary>Model answer outline</summary>
+
+**Key points to hit:**
+- The argument: state the claim "all truth is relative to perspective S." Apply it to itself. If the claim is absolutely true → contradiction (there is at least one truth that is not perspective-relative). If the claim is only relative → from other perspectives it is false → it cannot be a general philosophical thesis. Either horn is fatal.
+- Defence 1 — "subjective truth": introduce a new property ("subjective truth") distinct from truth. Objection: subjective truth is not truth; the defender has simply changed the subject. The claim no longer touches the actual property of truth.
+- Defence 2 — metalanguage: put the relativism claim in a separate metalanguage to avoid self-reference. Objection: this requires a *piecemeal* theory of truth (different rules for different levels of language) — fragile and ad hoc.
+- What to conclude: we should acknowledge alternative perspectives, but not by adopting relativism about truth. Better routes: reconstruct claims more carefully (so different people are making different claims, not the same claim with different truth values); acknowledge that justifications for false claims can be genuine; consider relativism about *rationality* instead.
+
+**Good example to use:** The self-reference pattern used in the lecture (parallels to "the penultimate sentence on this sheet is not true" and "for every generalisation, there is an exception"). Both are self-defeating in the same logical way.
+
+**Common mistake to avoid:** Thinking that refuting relativism about truth means dismissing all cultural diversity. The lecture explicitly says: refuting relativism about truth does not stop you from acknowledging different perspectives. It just means you do so through better tools (careful reconstruction of claims, relativism about rationality, charitable interpretation).
+
+</details>
+
+---
+
+**Essay Q3.** Compare the three scholarly positions on the Azande (classical anthropology, Evans-Pritchard, Winch, Lukes). Which is most defensible? What does this debate reveal about the limits and possibilities of cross-cultural understanding?
+
+<details>
+<summary>Model answer outline</summary>
+
+**Key points to hit:**
+- Classical Western anthropology: extreme absolutism — Azande reasoning is "primitive" and "irrational." Problem: assumes Western logic/science as the universal standard, imposes colonial judgement, fails to engage with Azande reasoning on its own terms.
+- Evans-Pritchard: more nuanced absolutism — Azande reasoning has internal coherence and genuinely helps them make sense of misfortune; but Western frameworks show it is flawed (witchcraft doesn't exist). Respects the Azande more than classical anthropology but retains an absolutist verdict.
+- Winch: far-reaching relativism — accepting or rejecting appeals to witchcraft is the result of different "forms of life." There is no neutral standpoint from which to call the Azande objectively wrong. Problem: if no cross-cultural judgement is possible, anthropology becomes impossible (you cannot say anything about another culture).
+- Lukes: intermediate position — our attempts to understand them must respect their attempts to understand the world, but cross-cultural assessment is both possible and necessary. Some universal norms (against internal logical contradiction, against torturing children for fun) hold across cultures.
+- Most defensible: Lukes-style middle ground — avoids both the colonial dismissiveness of extreme absolutism and the paralysing consequences of Winch's relativism.
+- What the debate reveals: cross-cultural understanding requires both empathetic interpretation (Verstehen — Lecture 10) and critical assessment. The challenge is to do both without either collapsing into arrogance or into "anything goes."
+
+**Good example to use:** The Azande debate as laid out in the lecture table, with specific scholars and positions. Bring in Kuhn's incommensurability (Lecture 6) as another example of the same relativism-about-rationality debate in a different domain.
+
+**Common mistake to avoid:** Taking Winch's position as obviously correct because it sounds respectful of cultural diversity. The lecture signals that Lukes' intermediate position is more defensible — Winch's move renders anthropology incapable of saying *anything* normative about other cultures.
+
+</details>

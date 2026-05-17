@@ -369,26 +369,169 @@ So: only the European-vs-Asian comparison was statistically significant, with a 
 
 ---
 
-## 6. Likely exam questions and how to answer
+## 6. Likely exam questions and how to answer — expanded
 
-### 6.1 Concept-level (MCQs and short definitions)
+### 6.1 Multiple Choice Questions
 
-- **Localization (constitutive)** — two-way process where foreign norms blend into local normative settings.
-- **Subsidiarity (Acharya sense)** — locally constructed rules diffused outward; used by local actors to preserve autonomy from dominant central actors. *Not* the EU "lowest level" sense.
-- **Double-binding** — ASEAN's strategy of enmeshing both China and the US in regional institutions simultaneously, to constrain both.
-- **Tributary system** — hierarchical Chinese-centred order from Tang to early Qing; lesser rulers paid symbolic tribute. Pragmatic, sometimes violent; not consistently peaceful.
-- **Mandala system** — Southeast Asian order of overlapping rulers, no fixed borders, authority diminishing with distance. Indic in inspiration.
-- **Tianxia** — "all under heaven" / harmony. Used by Chinese School scholars as the basis for a Chinese IR theory; criticised for romanticising hierarchy.
-- **Deprovincialization** — Acharya's preferred path: localise Western IRT *and* universalise Asian constructs; reject both Westphalian-as-default and Asian exceptionalism.
-- **Twisted postcoloniality** — South Korea's IR development: colonised by a non-Western power (Japan), then dependent on the US; resulted in scholars trapped between mimicking American IR (universality-focused) and irrelevant particularity.
+**Q1.** Acharya's concept of "double-binding" refers to ASEAN's strategy of:
+- A) Alternately balancing and bandwagoning with China depending on the issue
+- B) Simultaneously enmeshing both China and the US in regional institutions to constrain both
+- C) Maintaining strict neutrality between China and the US in all disputes
+- D) Using economic interdependence as the sole tool to prevent Chinese expansionism
 
-### 6.2 Short-answer template — "Non-Western/Global IR critique of mainstream IR"
+<details>
+<summary>Answer</summary>
 
-**Define (one sentence each):** NWIRT highlights how realism/liberalism/constructivism are products of European and American historical experience — built from Westphalian sovereignty, the nation-state, balance of power — and asks what those frameworks miss when applied to regions with different historical state-systems (Sinic tributary, Mandala, etc.). **Global IR** (Acharya) is the constructive proposal — *not* replacing Western IRT but broadening it through deprovincialization.
+**Correct: B) Simultaneously enmeshing both China and the US in regional institutions to constrain both**
 
-**Apply (a case):** Take **Asia's post-Cold War security order**. Friedberg ("ripe for rivalry") and Kang ("Asia's past = Asia's future, hierarchical bandwagoning") both apply Western frameworks. Acharya argues Asian states are doing something neither captures: **double-binding** through ASEAN, ARF and ASEAN+3 — enmeshing China *and* the US in regional institutions. Combined with economic interdependence and the Bandung-era norms of non-interference and sovereignty, this is what has kept Asia more stable than the pessimists predicted.
+Double-binding is Acharya's alternative to the balancing/bandwagoning dichotomy. ASEAN's goal is not to choose between the great powers but to tie *both* into a regional institutional web — inducing moderation from China while discouraging US containment. Option A describes hedging (which Acharya distinguishes from double-binding). Option C (neutrality) misses the active institutional enmeshment.
 
-**Assess (what it explains / overlooks):** Global IR explains the agency of Asian, African and Latin American actors as norm-makers (human security from Mahbub-ul-Haq, nonalignment from Bandung, ASEAN regionalism). It also exposes the structural barriers (publication, language, area-studies silo, hegemonic acceptance) that keep non-Western IRT marginal — see the **Korean "twisted postcoloniality"** case. Limits: risks of replacing one provincialism with another (the "Asian values," Tianxia, and "ASEAN Way" trap), real diversity within "Asia" makes generalisation hard, and exceptionalist claims are politically dangerous (Japan's prewar pan-Asianism justified imperial expansion; "Asian values" justified authoritarianism). Hence Acharya's deprovincialization — neither Westphalia-as-default nor Asian exceptionalism.
+</details>
+
+---
+
+**Q2.** "Constitutive localization" (Acharya 2004) is best described as:
+- A) A process where weaker states simply adopt foreign norms imposed by powerful states
+- B) A two-way process where foreign ideas blend into local normative settings, with local actors actively reshaping the foreign norm
+- C) The enforcement of local norms on foreign actors through regional institutions
+- D) A process where local norms eventually replace all foreign norms
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) A two-way process where foreign ideas blend into local normative settings, with local actors actively reshaping the foreign norm**
+
+Constitutive localization is explicitly described as a *two-way* process — the foreign norm does not simply dominate or disappear but blends. Asian states borrowed multilateralism and reshaped it into the "ASEAN Way" (consensus, non-interference). Option A is a passive diffusion story; Acharya specifically rejects this by treating non-Western actors as norm-makers, not just norm-takers.
+
+</details>
+
+---
+
+**Q3.** Friedberg's "ripe for rivalry" thesis predicts that post-Cold War Asia will be:
+- A) Peaceful because of strong regional institutions modelled on the EU
+- B) Dominated by a restored Chinese hierarchical order
+- C) Conflict-prone because it lacks Europe's stabilising mechanisms and features rising powers and historical enmities
+- D) Stable because of the Bandung-era norms of non-interference
+
+<details>
+<summary>Answer</summary>
+
+**Correct: C) Conflict-prone because it lacks Europe's stabilising mechanisms and features rising powers and historical enmities**
+
+Friedberg (neorealist) argues Asia is structurally prone to conflict: no deep integration like NATO/EU, multiple rising powers, unresolved territorial disputes. Acharya rejects both Friedberg (too pessimistic) and Kang (too sanguine about hierarchy), arguing the actual source of stability is economic interdependence, Bandung norms, and ASEAN institutions — none of which Friedberg's European-derived framework captures.
+
+</details>
+
+---
+
+**Q4.** The "Mandala system" of pre-modern Southeast Asia is characterised by:
+- A) A rigid centralised hierarchy with fixed territorial boundaries
+- B) Overlapping circles of rulers presiding over loosely organised states, with authority diminishing with distance from the king's centre
+- C) An egalitarian system of sovereign states modelled on the Westphalian template
+- D) A tributary system similar to the Chinese model, with fixed payments from lesser rulers
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) Overlapping circles of rulers presiding over loosely organised states, with authority diminishing with distance from the king's centre**
+
+The Mandala system is Indic (not Sinic) in inspiration, held together by personal hegemony rather than bureaucracy, with overlapping and fuzzy borders. It is the opposite of both the Chinese tributary system (centralised, hierarchical, fixed) and the Westphalian model (sovereign equality, fixed borders). This matters for Acharya's argument: Asia had real international orders that look nothing like Westphalian anarchy.
+
+</details>
+
+---
+
+**Q5.** The "twisted postcoloniality" of South Korea's IR development refers to:
+- A) Korea's experience of being colonised by a Western power, then liberated by an Asian one
+- B) Korea being colonised by a non-Western power (Japan) and then made US-dependent, trapping scholars between mimicking American IR and irrelevant particularity
+- C) Korea's failed attempt to develop an indigenous IR theory based on Confucian principles
+- D) Korea's experience of switching between Chinese and Japanese influence throughout its history
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) Korea being colonised by a non-Western power (Japan) and then made US-dependent, trapping scholars between mimicking American IR and irrelevant particularity**
+
+"Twisted postcoloniality" captures the specific structural trap: colonised by Japan (not the West), then dependent on the US after liberation. Korean IR scholars either published in SSCI journals (mimicking American IR, losing identity) or wrote for domestic audiences (keeping identity, remaining marginal). Both strategies reinforced Western hegemony. This is structural, not a failure of intellectual capacity.
+
+</details>
+
+---
+
+**Q6.** Acharya's concept of "subsidiarity" (in his sense, not the EU sense) refers to:
+- A) Decision-making at the lowest possible governance level
+- B) The diffusion of locally constructed rules outward to regional or global governance, used by local actors to preserve autonomy from more powerful central actors
+- C) The right of smaller states to veto decisions made by regional institutions
+- D) The process by which global norms are adapted to local contexts
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) The diffusion of locally constructed rules outward to regional or global governance, used by local actors to preserve autonomy from more powerful central actors**
+
+Acharya's subsidiarity is the outward diffusion of locally created norms — the *opposite* direction from constitutive localization. Examples: nonalignment (from the Bandung conference) and human security (developed by Mahbub ul Haq in Pakistan) are Asian-origin concepts that became global. The lecture explicitly warns: do not confuse with the EU sense (decisions at lowest level).
+
+</details>
+
+---
+
+### 6.2 Short Essay / Open Questions
+
+**Essay Q1.** What is Acharya's critique of both Friedberg and Kang? What alternative account does he offer, and what does it imply for how IR theory should be built?
+
+<details>
+<summary>Model answer outline</summary>
+
+**Key points to hit:**
+- Friedberg ("ripe for rivalry"): neorealist; Asia lacks Europe's stabilising institutions; rising powers and historical enmities → conflict-prone. Flaw: uses European history as the template; assumes Asia needs to replicate NATO/EU to be stable.
+- Kang: Asian states bandwagon with China because Asia historically operated under a Chinese-centred hierarchy; when China is strong, Asia is peaceful. Flaw: mischaracterises economic ties as bandwagoning (Japan's ties with China are about absolute gains, not deference); historical Chinese order was not consistently peaceful (Ming emperor Yongle invaded Vietnam).
+- Acharya's alternative: Asian states are doing something the balancing/bandwagoning dichotomy cannot capture — **double-binding** (enmeshing both China and the US in ASEAN, ARF, ASEAN+3). Combined with economic interdependence and Bandung-era norms (non-interference, sovereignty), this is what actually keeps Asia more stable than the pessimists predict.
+- Implication for IRT: the balancing/bandwagoning binary is *Western-derived* (it comes from European balance-of-power history). Using it as the analytical template distorts how Asian security actually works. Global IR requires starting from Asian historical experience on its own terms.
+
+**Good example to use:** India's relationship with China (Acharya's rebuttal of Kang — India *is* balancing, Kang excluded South Asia conveniently). Also the 1999 cross-Strait crisis: economic interdependence — not hierarchy — constrained Chinese options.
+
+**Common mistake to avoid:** Summarising the debate as "Friedberg pessimistic, Kang optimistic, Acharya in the middle." Acharya's point is more radical — both Friedberg and Kang are applying Western theoretical lenses to Asian data. The critique is epistemological, not just empirical.
+
+</details>
+
+---
+
+**Essay Q2.** "Global IR is not about rejecting the Western IR tradition, but broadening its scope and sources to make it more inclusive and universal." Explain Acharya's three pathways and argue which is most defensible.
+
+<details>
+<summary>Model answer outline</summary>
+
+**Key points to hit:**
+- Pathway 1 — Extend Western IRT with marginal non-Western additions: use Asian cases to test Western theories. Problem: non-Western experience remains supplementary raw material; the theoretical framework stays Western.
+- Pathway 2 — Asian exceptionalism: build IR theory entirely from Asian culture/history/regime preferences (Tianxia, tributary system). Problem: replaces one parochialism with another; homogenises "Asia" (ignores diversity between Sinic, Indic, Southeast Asian, maritime); politically dangerous ("Asian values" justified authoritarianism; Japan's pan-Asianism justified imperialism).
+- Pathway 3 — Deprovincialization / Global IR (Acharya): (1) stop treating Westphalia as the universal benchmark; (2) avoid investigating Asia purely through its indigenous history. Localise Western IRT to fit Asia; universalise Asian constructs (nonalignment, human security, ASEAN regionalism) to a world stage. Two mechanisms: constitutive localization + subsidiarity.
+- Most defensible: Path 3, because it avoids both ethnocentrism (path 1) and reverse parochialism (path 2), and it has empirical support (human security from Mahbub ul Haq is now a global concept; Bandung norms are foundational to international law).
+
+**Good example to use:** Human security (Mahbub ul Haq, Pakistan) going global through the UNDP as an illustration of subsidiarity; ASEAN Way as constitutive localization.
+
+**Common mistake to avoid:** Treating path 3 as obviously unproblematic. A good answer notes the difficulty — Asia is not one, so "Asian constructs" is still a risky generalisation. The Korean "twisted postcoloniality" case shows that even deprovincialization faces structural barriers.
+
+</details>
+
+---
+
+**Essay Q3.** The in-class survey showed that students who read the same rising-power scenario framed through European history reached different conclusions from those framed through Asian history. How does this support Acharya's argument about Western IR theory?
+
+<details>
+<summary>Model answer outline</summary>
+
+**Key points to hit:**
+- What the survey did: same fictional rising power, same military modernisation, same smaller neighbours — but different historical analogy in the framing paragraph (European balance-of-power vs. ASEAN-style engagement vs. neutral control).
+- Result: European-framed respondents leaned toward balance-of-power thinking; Asian-framed respondents leaned toward engagement. The European vs. Asian comparison was statistically significant (medium effect, Cohen's d ≈ 0.77).
+- Acharya's argument it supports: the history you start from shapes the theory you build. IR textbooks default to European history as the baseline — so IR students and scholars inherit European conclusions about rising-power competition.
+- The broader implication: it is not that one framing is "right" and the other "wrong" — it is that the *choice of starting analogy* is an epistemological decision with real political consequences. Global IR insists that starting analogy should be chosen consciously and pluralistically, not defaulted to European history.
+- Link to deprovincialization: the survey demonstrates in miniature why Acharya calls for step 1 of deprovincialization — stop using Westphalia/Europe as the conceptual/geographic point of reference.
+
+**Good example to use:** The specific survey statistics (European mean 3.40, Asian mean 3.03, p=0.014 for the difference) and Denney's summary quote: "The history you start from shapes the theory you build."
+
+**Common mistake to avoid:** Over-generalising from a classroom survey (small N, students, not policymakers). A good answer acknowledges the limit while still using it as illustrative evidence of the broader point Acharya makes with more systematic evidence.
+
+</details>
 
 ### 6.3 Cross-week threads to look out for
 

@@ -436,44 +436,168 @@ Wolff's lecture flags **N. El Qadim** — a postcolonial scholar arguing that EU
 
 ## 6. Likely exam questions and how to answer
 
-### 6.1 Concept-level (MCQs / short definitions)
+### 6.1 Multiple Choice Questions
 
-- ==**Refugee** — Art. 1 of the 1951 Convention: person outside their country of nationality with a "well-founded fear of persecution" on grounds of race, religion, nationality, social group, or political opinion.==
-- **Asylum-seeker** — has applied for international protection but case not yet decided.
-- **IDP** — displaced but has not crossed an internationally recognised state border.
-- ==**Non-refoulement** — a signatory of the 1951 Convention cannot legally send an individual back to a country where they face persecution==.
-- **Liberal paradox** (Hollifield) — economic logic of liberalism = openness; political/legal logic = closure. States are trapped between.
-- **Migration state** (Hollifield) — the third state function (alongside garrison and trading), in which migration regulation is central to state purpose.
-- **Securitization of migration** (Huysmans / Copenhagen School) — process by which migration is politically constructed as a security issue through speech acts and institutional practices that move it beyond normal politics. - ==is the paris school also under securitization of migration, just another approach of obtaining it or what is the relation?
-- **Speech act** (Wæver) — security is not a property of an issue but is created by labelling something as a security issue.
-- ==**Security continuum** (Bigo / Huysmans) — institutionalised mode of policy-making linking border control, terrorism, crime and migration. Allows transfer of security connotations between these areas.==
-- **Border externalization** — pushing migration control beyond your territory (e.g., EU-Tunisia, EU-Turkey deals).
-- **Migration diplomacy** — using migration as a bargaining chip in interstate relations; can be coercive (blackmail) or cooperative (backscratching). Material gains (economic, institutional, aid) + symbolic gains (status, reputation, moral standing).
-- **Welfare chauvinism** — privileging national citizens in distribution of social goods; framing migrants as illegitimate claimants.
-- ==**Fortress Europe** — popular shorthand for the restrictive, externalised, high-walled EU migration regime.==
-- **Schengen Agreement (1985)** — eliminate internal border checks among signatories in exchange for common external visa requirements.
-- **Dublin Convention (1990)** — asylum seekers must apply in first "safe country" of arrival; prevents "==asylum shopping."==
+**Q1.** According to Article 1 of the 1951 Geneva Convention, a refugee is a person who:
+- A) Has been displaced by armed conflict or natural disaster within their own country
+- B) Is outside their country of nationality and has a well-founded fear of persecution on grounds of race, religion, nationality, membership of a particular social group, or political opinion
+- C) Has applied for international protection but whose case has not yet been processed
+- D) Has been forcibly displaced and has crossed any international border
 
-### 6.2 Short-answer template — "Securitization of migration"
+<details>
+<summary>Answer</summary>
 
-**Define:** Securitization (Wæver, Buzan and the Copenhagen School) is the process by which an issue is politically constructed as a security threat through speech acts — "it is by labelling something a security issue that it becomes one." The securitisation move pushes an issue beyond normal politics into emergency politics, justifying extraordinary measures that circumvent democratic rules. Applied to migration, this means immigrants, asylum-seekers and refugees are reified as a danger to societal stability.
+**Correct: B) Is outside their country of nationality and has a well-founded fear of persecution on grounds of race, religion, nationality, membership of a particular social group, or political opinion**
 
-**Apply (a case):** **Huysmans' analysis of EU migration policy** shows how the **spillover of the internal market into an internal security project** securitised migration in the EU. The abolition of internal border controls under the SEA was paired with reinforced external borders, and the Third Pillar on Justice and Home Affairs, Schengen and Dublin institutionalised migration alongside terrorism, transnational crime and policing. ==Police and security professionals — via networks like TREVI and Bern Club== — produced a ==**security continuum** linking borders, terrorism, crime and migration==. Three themes anchor this: (1) **internal security** (Fortress Europe), (2) **cultural security** (homogeneity vs. multicultural reality), and (3) **welfare chauvinism** (migrants as illegitimate claimants on welfare). Wolff's lecture cases (e.g. **EU-Tunisia deal 2023**) extend this into the present: €105 million for Tunisian coastguards plus institutional + macroeconomic carrots, while framing asylum as a "geopolitical risk."
+This is the verbatim legal definition from Article 1 of the 1951 Convention — the most frequently examined definition in this week. Option A describes an Internally Displaced Person (IDP) — they have *not* crossed an international border. Option C describes an asylum-seeker (pending status). The word "well-founded" and the five specific grounds (race, religion, nationality, social group, political opinion) are all essential.
 
-**Assess (explains/overlooks):**
-- *Explains:* Why migration becomes politically central even when the actual numbers don't justify the alarm; why "extraordinary" anti-migration measures get democratically accepted; the role of bureaucratic professionals (Paris School: Bigo's "managers of flows") in shaping the meaning of borders; why securitisation persists across different governing coalitions (it's **structural**, not the act of a few far-right parties).
-- *Overlooks:* (1) the **liberal paradox** Hollifield identifies — economic forces still drive openness and rights-based jurisprudence still protects migrants; (2) the Copenhagen School can over-emphasise discourse and under-emphasise everyday practice (Paris School corrective); (3) **postcolonial blind spot** — most migration is intra-regional, not South-North, and the EU-Tunisia/EU-Turkey deals carry colonial echoes (El Qadim); (4) it can essentialise "security" itself — risk of just *describing* securitisation without offering a route to **desecuritisation**.
+</details>
 
-### 6.3 Short-answer template — "The liberal paradox and the migration state"
+---
 
-**Define:** The **liberal paradox** (Hollifield 1992, 2004) holds that liberal states are caught between two opposing logics — the **economic logic** of liberalism, which pushes toward openness to trade, investment and migration to maintain competitiveness; and the **political and legal logic** of liberalism, which pushes toward closure because borders, the ==demos and the social contract require some degree of territorial closure==. The **migration state** is Hollifield's name for the third function of the modern state (after the garrison state and Rosecrance's trading state), where regulation of migration is now central to state purpose.
+**Q2.** The principle of "non-refoulement" means that:
+- A) Signatory states cannot close their borders to refugees
+- B) Signatory states cannot return an individual to a country where they face threats of persecution
+- C) All asylum applications must be processed within the country where the asylum-seeker is found
+- D) States must grant citizenship to all recognised refugees after five years of residence
 
-**Apply (a case):** **Postwar Germany.** Initially recruited Turkish guest workers; **1973 oil shock** → recruitment suspension; courts intervened to extend residence rights → family reunification phase continued migration despite halt. ==Schroder's **2000 "green card"** for high-tech workers + 1999 jus soli citizenship reforms show the liberal direction==. Yet attempts to ban family reunification for green card workers were quickly reversed under rights pressure. The "We asked for workers, but human beings came" (Frisch) line captures the paradox exactly. **The EU as regional regime** lets Germany finesse (not escape) the paradox: free movement within, externalised control outside; symbolic politics, good cop / bad cop between EU and member state, and shared border governance (Schengen, Frontex). ==Example to the liberal paradox is germany that was inviting turkish regfugees to work until 1973 when they wanted to stop but not really succesfully. Then with the citizenship reform 1999 jus soli and 2000 green card, they wanted only tech workers but again found out that they cant have just the workers and not their families, children etc - is this right?
+<details>
+<summary>Answer</summary>
 
+**Correct: B) Signatory states cannot return an individual to a country where they face threats of persecution**
 
-**Assess (explains/overlooks):**
-- *Explains:* Why deportations are sparing and largely symbolic; why mass expulsions are not viable in liberal democracies; why courts repeatedly strike down draconian laws (California Proposition 187, French Pasqua/Debré Laws); why high-skilled migration is expanded while low-skilled is curtailed; why guest worker schemes are politically attractive but legally unsustainable.
-- *Overlooks:* (1) Huysmans' securitisation angle — Hollifield is light on the **politics of cultural anxiety**; (2) the **welfare/labour-market** restructuring under neoliberalism shapes who counts as "desirable" migration; (3) **postcolonial dimensions** of policy (border externalisation to former colonies; rights stratification by origin); (4) the model is implicitly **Western/OECD-centric** — most of the world's migration occurs in regions (Africa, Middle East, Asia) without the rights-based liberal infrastructure Hollifield assumes.
+Non-refoulement (Article 33, 1951 Convention) is the cornerstone of refugee protection — you cannot send someone back to be persecuted. It is widely considered customary international law, binding even on states that have not signed the Convention. Option A is not what non-refoulement says; borders can still be managed. Option C describes the Dublin Convention's "first safe country" rule, not non-refoulement.
+
+</details>
+
+---
+
+**Q3.** The Copenhagen School's understanding of "securitisation" holds that:
+- A) A security threat becomes real when it causes material harm to a state
+- B) Migration is inherently a security threat requiring military responses
+- C) An issue becomes a security issue when political actors label it as one through speech acts — "it is by labelling something a security issue that it becomes one"
+- D) Security is a technical assessment made by intelligence services, not politicians
+
+<details>
+<summary>Answer</summary>
+
+**Correct: C) An issue becomes a security issue when political actors label it as one through speech acts — "it is by labelling something a security issue that it becomes one"**
+
+This is Wæver's formulation. The Copenhagen School holds that security is not a property of an issue — it is a social construction. The securitisation move takes an issue beyond normal democratic politics into the realm of "emergency" where extraordinary measures can be justified. Option B is precisely what securitisation *produces* — the prior assumption Huysmans is questioning.
+
+</details>
+
+---
+
+**Q4.** Hollifield's "liberal paradox" holds that liberal states are trapped between:
+- A) Wanting to attract high-skilled migrants while keeping out low-skilled ones
+- B) The economic logic of openness (to sustain competitiveness) and the political/legal logic of closure (to maintain sovereignty and the social contract)
+- C) The demands of domestic voters and the obligations of international refugee law
+- D) The desire for regional integration and the need to maintain national identity
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) The economic logic of openness (to sustain competitiveness) and the political/legal logic of closure (to maintain sovereignty and the social contract)**
+
+The liberal paradox is structural: the *same* liberal state that needs open borders for trade and investment has a democratic demos, a social contract, and a territorial sovereignty that require controlling who enters. Unlike goods, capital, and services, the movement of people *changes the ethnic composition of societies* and disrupts the "demographic maintenance regime." This makes migration politically special even for states that want economic openness.
+
+</details>
+
+---
+
+**Q5.** The Paris School (Bigo) differs from the Copenhagen School on securitisation primarily by arguing that:
+- A) Securitisation of migration is a myth — migration is genuinely a security threat
+- B) Securitisation happens through everyday bureaucratic practices (surveillance, biometrics, border management routines) rather than primarily through political speech acts
+- C) Securitisation can only happen with explicit parliamentary authorisation
+- D) The Paris School focuses on external threats, while the Copenhagen School focuses on internal ones
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) Securitisation happens through everyday bureaucratic practices (surveillance, biometrics, border management routines) rather than primarily through political speech acts**
+
+Bigo's Paris School looks at what border guards *do*, not what politicians *say*. Border professionals are "managers of flows" who see borders as series of digitally connected control points, not walls. Their routine practices — running databases, profiling travellers — produce the security meaning of migration from the ground up. Copenhagen sees securitisation as top-down (politicians labelling); Paris sees it as bottom-up (bureaucratic routines).
+
+</details>
+
+---
+
+**Q6.** The "security continuum" (Huysmans / Bigo) describes:
+- A) A spectrum from minor crime to terrorism that organises police priorities
+- B) An institutionalised mode of policy-making that links border control, terrorism, organised crime, and migration — allowing security connotations to transfer between them
+- C) The sequence of securitisation stages from initial labelling to emergency policy
+- D) The continuum between national and EU-level security governance
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) An institutionalised mode of policy-making that links border control, terrorism, organised crime, and migration — allowing security connotations to transfer between them**
+
+The security continuum emerged from professional networks (TREVI, Bern Club) where police and customs cooperation produced an analytical field that treated borders, terrorism, crime, and migration as interrelated. Once this field is institutionalised, the alarming associations of terrorism and organised crime transfer to migration, even though most illegal immigrants overstay visas rather than crossing guarded borders.
+
+</details>
+
+---
+
+### 6.2 Short Essay / Open Questions
+
+**Essay Q1.** Explain Huysmans' argument that the EU has contributed to the securitisation of migration through its internal market project. Use his three themes (internal security, cultural security, welfare chauvinism).
+
+<details>
+<summary>Model answer outline</summary>
+
+**Key points to hit:**
+- The counter-intuitive argument: when the EU abolished internal border controls (SEA, Schengen), it did not *reduce* the security framing of migration — it *intensified* it. Removing internal borders meant reinforcing external ones, and the management of external borders was lodged in Justice and Home Affairs agencies that brought a security professional disposition.
+- Theme 1 — Internal security: Schengen + Third Pillar institutionalised migration alongside terrorism, transnational crime, and drug trafficking. The security continuum (via TREVI, Bern Club) allowed security connotations to transfer to migration. Most illegal immigrants overstay visas (Salt 1989) — border enforcement is not the most effective instrument — but the security framing persists.
+- Theme 2 — Cultural security: the Schengen visa list singles out Third World countries. "Integration" rhetoric confirms a desire for cultural homogeneity and positions migrants as outside the national social formation. The EU simultaneously sustains nationalist reactions and campaigns against them.
+- Theme 3 — Welfare chauvinism: structural economic insecurity since the 1970s made competition over housing, healthcare, and jobs more intense. Migrants are framed as illegitimate claimants. Metaphors of "invasion" and "flood" dramatise the threat. Securitisation here is also about political legitimacy — migrants become scapegoats for declining social solidarity.
+- Key point: securitisation is *structural*, not the act of extreme-right parties alone. It involves governments, police networks, media, and EU institutions simultaneously.
+
+**Good example to use:** Huysmans' EU-Tunisia deal (2023) as a contemporary illustration: €105m for Tunisian coastguards + macroeconomic support = externalising the security continuum. The Dublin Convention's "first safe country" rule turns Central and Eastern Europe into buffer states.
+
+**Common mistake to avoid:** Presenting securitisation as a conspiracy by elites. Huysmans is explicit that it is a structural effect of a multiplicity of practices — not reducible to any single actor's intention.
+
+</details>
+
+---
+
+**Essay Q2.** Explain the "liberal paradox" (Hollifield) and show how the German case illustrates it. Why does Hollifield argue that the EU is the only experiment so far at "finessing" the paradox?
+
+<details>
+<summary>Model answer outline</summary>
+
+**Key points to hit:**
+- The liberal paradox: economic logic pushes toward openness (competitive economies need labour, trade, and investment including foreign workers); political/legal logic pushes toward closure (sovereignty, the demos, the social contract). Liberal states can fully satisfy neither.
+- Rights are the key: unlike goods and capital, migrants become subjects of the law and members of the societies in which they reside. Courts protect their rights. This is why mass expulsion is not viable in liberal democracies — it would undermine the state's own legitimacy and raison d'être.
+- German case: (1) 1950s–60s: Turkish guest workers recruited; (2) 1973 oil shock: recruitment suspended; courts intervened to protect family reunification → migration continued. Max Frisch: "We asked for workers, but human beings came." (3) 1990s: further restriction attempts (stricter asylum law); (4) 1999: jus soli citizenship reform; 2000: Schröder green card for high-tech workers — family reunification ban quickly reversed under rights pressure. Classic liberal paradox: wanted workers, not families; got both.
+- EU as finesse: the EU lets states play "good cop / bad cop" (national governments claim they want to restrict; EU provides the liberal framework that prevents them). Schengen externalises control outside; Dublin distributes the burden; free movement within the bloc reduces the political visibility of migration from other EU states. States can gesture toward closure while the regional regime preserves openness.
+
+**Good example to use:** The Frisch line and the 1973 oil shock guest worker phase is the canonical illustration. Schröder's green card for tech workers and the immediate reversal of the family reunification ban is the modern illustration.
+
+**Common mistake to avoid:** Saying the EU "solved" the liberal paradox. Hollifield explicitly says it is *finessing*, not escaping. States remain trapped — the EU just provides better cover.
+
+</details>
+
+---
+
+**Essay Q3.** Compare and contrast the Copenhagen School and the Paris School on the securitisation of migration. Which better explains why securitisation persists even under centre-left governments?
+
+<details>
+<summary>Model answer outline</summary>
+
+**Key points to hit:**
+- Copenhagen (Wæver, Buzan): securitisation is a speech act. A political elite labels migration as a security threat; this move pushes it beyond normal democratic politics into emergency politics, justifying extraordinary measures. Securitisation can be reversed by desecuritisation — a political choice to return the issue to normal politics.
+- Paris (Bigo): securitisation is embedded in everyday professional practices. Border guards use biometrics, run databases, profile travellers. They see themselves as "managers of flows." The security meaning of migration is produced from the ground up by bureaucratic routines, not from the top down by political speeches.
+- Which better explains persistence across political cycles: the Paris School. If securitisation were only a speech act, a change of government would allow desecuritisation (new politicians, new labels). But the bureaucratic routines, databases, professional networks (TREVI, Bern Club), and institutional architectures (Frontex, Eurodac) persist regardless of which party is in power. Centre-left governments inherit the security continuum and continue to operate it.
+- Huysmans synthesises both: he is on the Copenhagen side (discourse, belonging, speech acts) but draws on Bigo's "internal security field" to show the structural depth.
+- Copenhagen is better for explaining sudden securitisation (a politician reframes migration); Paris is better for explaining why it never fully goes away.
+
+**Good example to use:** The EU's post-2022 treatment of Ukrainian refugees vs. Syrian refugees — same EU institutions, different political speeches → different treatment. But in both cases, Frontex and Eurodac continue operating. Copenhagen explains the difference in treatment; Paris explains the persistent surveillance infrastructure.
+
+**Common mistake to avoid:** Treating the two schools as rivals where one is simply "right." The lecture presents them as complementary — different levels of analysis (top-down discourse vs. bottom-up practice) of the same phenomenon.
+
+</details>
 
 ### 6.4 Cross-week threads
 

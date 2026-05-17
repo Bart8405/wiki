@@ -386,31 +386,168 @@ This is the **most quotable Seth line** for a short-answer question.
 
 ## 6. Likely exam questions and how to answer
 
-### 6.1 Concept-level (MCQs / short definitions)
+### 6.1 Multiple Choice Questions
 
-- **Problem-solving theory** — takes the existing world as given and asks how to make institutions function better. Cox 1981: "theory is always for someone and for some purpose." Implicitly conservative.
-- **Critical theory** — asks how the existing order came about, whose interests it serves, how it might be changed. Emancipatory.
-- **Gramscian hegemony** — ideological and cultural leadership through institutions, civil society, the state. Hegemony works through consent + coercion. Bourgeois ideas become "common sense."
-- **Subaltern** — those excluded from hegemonic structures and dominant-class discourse.
-- **Discourse / power-knowledge** (Foucault) — knowledge is power; truths are produced by discourses that organise what can be said.
-- **Biopolitics** (Foucault) — the modern state regulates life: surveillance, discipline, normalisation in prisons, asylums, schools.
-- **Orientalism** (Said) — the West's construction of "the East" as a coherent, exotic, inferior Other — knowledge production that justifies imperial domination.
-- **Standpoint theory / feminism** — knowledge is situated; the perspective of the marginalised offers epistemic privilege.
-- **Intersectionality** (Crenshaw 1991) — multiple axes of identity (gender × race × class × etc.) intersect to shape oppression and experience.
-- **Decentring** (Fisher-Onar & Nicolaïdis 2013) — provincialise + engage + reconstruct.
-- **Ubiquity ≠ universality** (Seth) — the global spread of a practice tells you nothing about whether it is genuinely universal vs. a contingent product of Western dominance.
-- **Eurocentrism** — treating European history, concepts and experience as the default standard for all human history.
-- **Provincialise Europe** (Chakrabarty / Seth) — strip Europe of its assumed universal status and treat its history as one among many.
+**Q1.** Cox's distinction between "problem-solving theory" and "critical theory" rests on:
+- A) Whether a theory uses quantitative or qualitative methods
+- B) Whether a theory takes the existing world order as given (and asks how to make it work better) or asks how it came to be and whose interests it serves
+- C) Whether a theory is empirically testable or purely normative
+- D) Whether a theory is developed by Western or non-Western scholars
 
-### 6.2 Short-answer template — "Critical theory's challenge to mainstream IR"
+<details>
+<summary>Answer</summary>
 
-**Define:** Critical theories (Marxism/Frankfurt School, postcolonialism, feminism, poststructuralism) reject the **positivist** assumption that IR theory can be objective, neutral, value-free. With Cox, they argue all theory is "for someone and for some purpose." They are **post-positivist** and **emancipatory**, foregrounding power-knowledge, structural and discursive power, and the situated, often Western-centric, character of mainstream IR's concepts.
+**Correct: B) Whether a theory takes the existing world order as given (and asks how to make it work better) or asks how it came to be and whose interests it serves**
 
-**Apply (a case):** Take **postcolonial IR** as developed by Seth. The English School's account of the "expansion of international society" — European states extending sovereignty outward in an orderly fashion — elides the **constitutive role of colonialism**: the slave trade, conquest of the Americas, the scramble for Africa, the structures of mandates, concessions and protectorates. The same events conventionally credited as IR's origin story (Westphalia, the rise of European international law) **coincide with and depend on** the violent subjugation of non-European peoples. The implication: any satisfactory account of the international order must be postcolonial. International law is not "European in origin but now universal" — it is contingent on imperial power. **Ubiquity is not universality.**
+This is the foundational Cox (1981) distinction. Problem-solving theory accepts existing institutions (the UN, the Security Council, the state system) and asks how to make them function more efficiently. Critical theory brackets those institutions and asks: why do they exist? Who benefits? What alternatives are possible? The famous Cox line: "Theory is always for someone and for some purpose."
 
-**Assess (what it explains / overlooks):**
-- *Explains:* the **Eurocentrism** of foundational IR concepts (sovereignty, the nation-state, anarchy); how IR's claims to neutrality reproduce **power-knowledge** relations (Foucault); how the colonised continue to be invisible in mainstream accounts; how **the nation-state ≠ culture** (Anderson's *Imagined Communities*) — yet IR and the UN both uphold this fiction.
-- *Overlooks / weaknesses:* (1) critical theory rarely offers an alternative way of "doing" IR (Seth himself admits this); (2) risk of relativism (poststructuralism); (3) can be excessively focused on critique at the expense of explanation/prediction; (4) postcolonial IR sometimes treats the West as monolithic and "the rest" as homogenous victims, recreating the very essentialism it criticises.
+</details>
+
+---
+
+**Q2.** Gramscian hegemony, as applied to IR by Cox and Gramsci, refers to domination that operates primarily through:
+- A) Military superiority and the threat of force
+- B) Economic dominance and control of key markets
+- C) Consent — the dominant class's ideas become the "common sense" of the age, displacing rival ideas through institutions and civil society
+- D) Formal legal authority vested in international organisations
+
+<details>
+<summary>Answer</summary>
+
+**Correct: C) Consent — the dominant class's ideas become the "common sense" of the age, displacing rival ideas through institutions and civil society**
+
+Gramsci distinguished his "hegemony" from simple coercion: ideological leadership is achieved when the dominant class's values, norms, and ways of thinking become naturalised — accepted as common sense rather than contested. Neo-Gramscians (Cox) apply this to international relations: US hegemony is not just military; it is also the ability to generate consent for the liberal international order as the "natural" state of affairs.
+
+</details>
+
+---
+
+**Q3.** Seth's claim that "ubiquity is not universality" means:
+- A) Universal claims must be accepted by all cultures to be valid
+- B) The widespread adoption of a practice (e.g. sovereignty, international law) tells us nothing about whether it is genuinely universal or merely the product of Western dominance
+- C) Some practices that are universal are not widely adopted
+- D) IR needs to find truly universal principles that all cultures accept
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) The widespread adoption of a practice (e.g. sovereignty, international law) tells us nothing about whether it is genuinely universal or merely the product of Western dominance**
+
+This is Seth's killer line. International law is now globally used — but its global spread happened through colonialism, not through free cross-cultural agreement. The spread tells you about power (who imposed it), not about universality (whether all cultures would have arrived at it independently). Seth's analogy: mini-skirts and burqas are both globally widespread — that does not make either a universal feature of womanhood.
+
+</details>
+
+---
+
+**Q4.** According to Seth, the English School's narrative of the "expansion of international society" is problematic because:
+- A) It relies too heavily on constructivist methodology
+- B) It presents the spread of European international society as orderly, eliding slavery, conquest, and genocide — treating colonialism as a footnote when it is constitutive
+- C) It underestimates the role of non-state actors in shaping international order
+- D) It is overly pessimistic about the prospects for international cooperation
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) It presents the spread of European international society as orderly, eliding slavery, conquest, and genocide — treating colonialism as a footnote when it is constitutive**
+
+Seth attacks Watson's *Evolution of International Society* for describing an "orderly" expansion where non-Europeans "found it difficult to resist what the Europeans had to offer." The lecture lists what this elides: conquest of the Americas, the transatlantic slave trade, the scramble for Africa, mandates, concessions, protectorates. Seth's point: these were not footnotes — they *constituted* the international order.
+
+</details>
+
+---
+
+**Q5.** Intersectionality (Crenshaw 1991) in the context of feminist IR means:
+- A) Foreign policy decisions should be made by intersectional committees
+- B) Multiple axes of identity (gender, race, class, sexuality, etc.) intersect to produce forms of oppression that cannot be reduced to their component parts
+- C) Gender inequality in IR can be fixed by increasing the number of women in decision-making positions
+- D) Race and gender are the two most important categories in IR analysis
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) Multiple axes of identity (gender, race, class, sexuality, etc.) intersect to produce forms of oppression that cannot be reduced to their component parts**
+
+Crenshaw's point: a Black working-class woman does not experience "racism + sexism + classism" as three separable, additive layers. The *intersection* itself creates distinct experiences. In IR, this means a feminist analysis that focuses only on gender will miss how race, class, and geography shape which women's experiences are visible. Option A misses the point; option C is liberal feminism, not intersectionality.
+
+</details>
+
+---
+
+**Q6.** The "decentring" framework of Fisher-Onar and Nicolaïdis (2013) consists of which three steps?
+- A) Recognise, reform, replace
+- B) Provincialise, engage, reconstruct
+- C) Critique, deconstruct, rebuild
+- D) Identify, analyse, resolve
+
+<details>
+<summary>Answer</summary>
+
+**Correct: B) Provincialise, engage, reconstruct**
+
+The three-step decentring framework: (1) **Provincialise** — recognise that Europe is not the universal centre; (2) **Engage** — listen to and learn from non-European perspectives; (3) **Reconstruct** — renew EU external action based on humility, empowerment, and mutuality. This maps onto Acharya's deprovincialization project from Week 4 and applies it specifically to EU foreign policy.
+
+</details>
+
+---
+
+### 6.2 Short Essay / Open Questions
+
+**Essay Q1.** "Theory is always for someone and for some purpose" (Cox 1981). Explain this claim and assess its implications for mainstream IR theories. Use the Critical vs. Mainstream table from the lecture.
+
+<details>
+<summary>Model answer outline</summary>
+
+**Key points to hit:**
+- Cox's claim: all theory is embedded in values, interests, and historical context. There is no "view from nowhere." Mainstream IR theories that present themselves as objective, scientific, and value-neutral are in fact serving particular interests — typically those of the powerful states and classes that benefit from the existing order.
+- Problem-solving theory: realism and liberalism ask how to make the existing system work better. They take the state system, the Security Council, capitalism, and sovereignty as given. By not questioning these institutions, they implicitly validate them — and serve those who benefit from them.
+- Critical theory: asks how the existing order came to be, whose interests it serves, what alternatives exist. Emancipatory: it foregrounds power, inequality, and the possibility of transformation.
+- The Critical vs. Mainstream table (from the lecture): key contrasts on epistemology (positivist vs. post-positivist), purpose (problem-solving vs. emancipatory), view of power (material vs. structural/discursive/ideological), and relationship to the status quo (reproduces vs. challenges).
+- Implication: scholars have a responsibility to be *reflexive* — to understand the values and presuppositions they bring to analysis and the historical dynamics that formed them.
+
+**Good example to use:** The UN Security Council example from the Cox "Explained easily" callout: a problem-solver asks how to reform the veto; a critical theorist asks why these five permanent members have a veto at all.
+
+**Common mistake to avoid:** Reading Cox as saying that mainstream IR scholars are deliberately serving power. The point is about *structural* embeddedness — even well-intentioned positivist scholars, by taking the existing order as given, implicitly reproduce it.
+
+</details>
+
+---
+
+**Essay Q2.** Explain Seth's three-part postcolonial critique of IR: the historical narrative, the universality claim, and the constitutive role of knowledge. Which is most radical in its implications?
+
+<details>
+<summary>Model answer outline</summary>
+
+**Key points to hit:**
+- Part I — History: the English School's "expansion of international society" story sanitises colonialism. Watson's narrative of orderly spread elides conquest, slavery, and genocide. The same events as IR's origin story (Westphalia) coincide with subjugation of the Americas and the slave trade — colonialism was *constitutive* of the international order, not a footnote. "Post" in postcolonialism means: colonialism is central to the story, not an episode after which things returned to normal.
+- Part II — Universality: international law is "European in origin but now universal" — Seth rejects this. *Ubiquity is not universality.* Widespread adoption tells you about power; the procedural rules of sovereignty and self-determination are not neutral — they carry historically specific assumptions about the individual, the state, and rationality.
+- Part III — Knowledge/Being: the most radical part. Knowledge does not just *describe* reality — it *constitutes* it. The "free, rational, equal individual" of liberal political theory was not *discovered* by social contract theorists; it was *produced* by pedagogical and institutional processes. Knowledges born in Europe are often inadequate to non-European objects.
+- Which is most radical: Part III — because it challenges the very foundations of social science. Not just "Western IR got the history wrong" (correctable by better history) or "Western IR overstates universality" (correctable by more careful qualification), but "the categories and concepts IR uses help produce the reality they purport to describe."
+
+**Good example to use:** Seth's own work on Indian colonial education; Foucault on how the individual subject was produced by modern disciplinary practices.
+
+**Common mistake to avoid:** Treating the three parts as independent critiques. Seth's argument builds: the historical elision *enables* the false universality claim; both together allow knowledge to *naturalise* what is historically produced.
+
+</details>
+
+---
+
+**Essay Q3.** Compare postcolonial theory (Seth) with the Non-Western IR / Global IR project (Acharya, Week 4). Where do they agree? Where do they differ, and which approach offers more constructive guidance for reforming IR?
+
+<details>
+<summary>Model answer outline</summary>
+
+**Key points to hit:**
+- Agreement: both reject Western IR's claim to universality. Both argue that mainstream IR (realism, liberalism, much of constructivism) emerged from Western history and applies it globally as if it were universal. Both expose structural barriers that keep non-Western voices marginal.
+- Key difference — depth of critique: Acharya wants *deprovincialization* — keep Western IRT, expand its sources, include non-Western histories and concepts. Seth is more radical: he is doing *critique*, not offering "a postcolonial way of practising IR." For Seth, IR naturalises what it should deconstruct — the discipline itself is the problem.
+- Key difference — constructive proposal: Acharya gives a clear alternative (Global IR, constitutive localization, subsidiarity). Seth explicitly does not — his critique is not designed to be translated into an alternative research programme.
+- Which is more constructive: Acharya, clearly — Global IR provides a path forward that scholars can act on. Seth's contribution is diagnostic. The lecture notes this explicitly: Seth himself concedes he is not offering a postcolonial way of doing IR.
+- But Seth is more radical: Acharya's Global IR still preserves the Western IR tradition and *broadens* it. Seth's critique suggests the tradition itself may be more deeply compromised than broadening alone can fix.
+
+**Good example to use:** The contrast between Acharya's "nonalignment as subsidiarity" (Asian-origin norms going global — a positive programme) and Seth's analysis of how the "expansion of international society" story erases colonialism (critique without replacement programme).
+
+**Common mistake to avoid:** Treating Acharya and Seth as saying the same thing. The lecture explicitly says they are "sister critiques" — related but distinct. A strong answer shows where they converge and where they pull in different directions.
+
+</details>
 
 ### 6.3 Cross-week threads
 

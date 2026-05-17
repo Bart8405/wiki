@@ -8,24 +8,24 @@ updated: 2026-05-16
 
 *What does it actually mean to "know" something? Three foundational concepts: knowledge (as justified true belief), truth (as correspondence with facts), and facts (as state-of-the-world truthmakers).*
 
-**Date:** 11 February 2026 · **Lecturer:** Prof. James W. McAllister · **Key thinker:** **Bertrand Russell** (1872–1970) — for the correspondence theory; honourable mention to **Plato** (*Theaetetus*, ~370 BCE) for the JTB account.
+**Date:** 11 February 2026 · **Lecturer:** Prof. James W. McAllister · **Key thinker:** ==**Bertrand Russell**== (1872–1970) — for the correspondence theory; honourable mention to **Plato** (*Theaetetus*, ~370 BCE) for the JTB account.
 
 ---
 
 ## Key concepts — definitions
 
-| Term | Definition |
-|---|---|
-| **Knowledge by acquaintance** | Familiarity with something. *"I know The Hague."* |
-| **Know-how** | Practical skill. *"I know how to ride a bicycle."* |
-| **Propositional knowledge** ("knowing that") | Knowledge of a proposition P being true. *"I know that 7 + 5 = 12."* The focus of analytic epistemology and of this lecture. |
-| **JTB account of knowledge** | "A knows that P" if and only if: (1) P is true; (2) A believes that P; (3) A is justified in believing that P. Originated with Plato in *Theaetetus*, ~370 BCE. |
-| **Justification** | Having good grounds for holding a belief. Purpose: to rule out *lucky guesses* as knowledge. Justification depends on evidence/argument — it rises and falls with time; justified beliefs can still be false. |
-| **Correspondence theory of truth** | A proposition P is true if and only if there is a fact corresponding to it. Bertrand Russell (1910s) is the canonical modern advocate. The most influential account of truth in analytic philosophy. |
-| **Fact** | A state of affairs in the world. Facts are *truthmakers* (they make propositions true) — they are not themselves true or false. *"Facts are not propositions."* Metaphor: think of facts like planets — they just *are*. |
-| **Permanence of facts** | Philosophers think of facts as eternally stable. They don't "change in time," though they may be keyed to particular times (e.g. "France in 1680 is a monarchy" is true regardless of when you say it). |
-| **Belief is private; knowledge is public** | A and B can hold opposite beliefs about P. But it is *not* possible that A knows P and B knows not-P. Knowledge is the same for all. |
-| **Gettier problem** | A revealed flaw in JTB — there are weird cases where someone has a justified true belief but we intuitively reject it as knowledge (e.g. you correctly conclude that you'll be late, but for the wrong reason). Solutions add a fourth criterion ("JTB+"). Beyond the lecture's scope but mentioned. |
+| Term                                             | Definition                                                                                                                                                                                                                                                                                           |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Knowledge by acquaintance**                    | Familiarity with something. *"I know The Hague."*                                                                                                                                                                                                                                                    |
+| **Know-how**                                     | Practical skill. *"I know how to ride a bicycle."*                                                                                                                                                                                                                                                   |
+| ==**Propositional knowledge** ("knowing that")== | ==Knowledge of a proposition P being true. *"I know that 7 + 5 = 12."* The focus of analytic epistemology and of this lecture.==                                                                                                                                                                     |
+| **JTB account of knowledge**                     | "A knows that P" if and only if: (1) P is true; (2) A believes that P; (3) A is justified in believing that P. ==Originated with Plato in *Theaetetus*,== ~370 BCE.                                                                                                                                  |
+| **Justification**                                | Having good grounds for holding a belief. Purpose: to rule out *lucky guesses* as knowledge. Justification depends on evidence/argument — it rises and falls with time; justified beliefs can still be false.                                                                                        |
+| ==**Correspondence theory of truth**==           | ==A proposition P is true if and only if there is a fact corresponding to it. Bertrand Russell (1910s) is the canonical modern advocate. The most influential account of truth in analytic philosophy.==                                                                                             |
+| ==**Fact**==                                     | ==A state of affairs in the world. Facts are *truthmakers* (they make propositions true) — they are not themselves true or false. *"Facts are not propositions."* Metaphor: think of facts like planets — they just *are*.==                                                                         |
+| **Permanence of facts**                          | Philosophers think of facts as eternally stable. They don't "change in time," though they may be keyed to particular times (e.g. "France in 1680 is a monarchy" is true regardless of when you say it).                                                                                              |
+| ==**Belief is private; knowledge is public**==   | ==A and B can hold opposite beliefs about P. But it is *not* possible that A knows P and B knows not-P. Knowledge is the same for all.==                                                                                                                                                             |
+| **Gettier problem**                              | A revealed flaw in JTB — there are weird cases where someone has a justified true belief but we intuitively reject it as knowledge (e.g. you correctly conclude that you'll be late, but for the wrong reason). Solutions add a fourth criterion ("JTB+"). Beyond the lecture's scope but mentioned. |
 
 ---
 

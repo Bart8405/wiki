@@ -244,7 +244,7 @@ Kagan was a leading neoconservative. His point was that the US was always a crus
 **Key points:**
 - State the trilemma: democracy + national sovereignty + deep global economic integration — pick any two, not all three.
 - Application: Western democracies in the 1990s–2000s chose integration + democracy but ceded sovereignty (EU, WTO disciplines, capital mobility). The result: governments lost tools to manage economic dislocation; voters faced inequality and insecurity but had no political channel to address it.
-- This produced the "precariat" — populations feeling powerless — and fuelled populism, Brexit, Trump, and anti-globalization movements.
+- ==This produced the "precariat" — populations feeling powerless — and fuelled populism, Brexit, Trump, and anti-globalization movements.==
 - Note the EU as a case: it chose integration + democracy but created a legitimacy gap (the "democratic deficit") by transferring authority to non-elected EU institutions.
 - China: chose integration + sovereignty but limited democracy. Shows the trilemma is real — China maintains capital controls and industrial policy that WTO-compliant states cannot.
 

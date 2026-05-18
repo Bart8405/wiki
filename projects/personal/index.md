@@ -9,6 +9,7 @@ Started: 2026-05-18
 | Page | Type | Summary |
 |------|------|---------|
 | [muscle-tremors-shakiness](wiki/synthesis/muscle-tremors-shakiness.md) | Synthesis | Causes and remedies for muscle shaking — dietary and non-dietary perspectives |
+| [claude-code-humanities-student-guide](wiki/synthesis/claude-code-humanities-student-guide.md) | Synthesis | Comprehensive guide to using Claude Code as a humanities student — writing, Anki, Zotero, Indonesian, PKM |
 
 ## Raw sources
 

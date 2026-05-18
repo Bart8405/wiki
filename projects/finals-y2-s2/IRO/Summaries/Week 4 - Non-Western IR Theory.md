@@ -349,7 +349,7 @@ Respondents then rated 5 Likert items (1 = Strongly Disagree, 5 = Strongly Agree
 Wait — read carefully. **Higher score = more engagement-oriented.** So the European-framed group leans *toward engagement* (3.40), and the Asian-framed group leans *toward balance-of-power* (3.03)??
 
 The lecture text states the **opposite-direction interpretation**: "European group scoring lowest" on engagement. This is most likely a misprint in the slide table — the **direction Denney describes verbally** is what to remember for the exam: *European-framed respondents leaned toward balance-of-power thinking; Asian-framed respondents leaned toward engagement.*
-
+%%I dont understand this much - why? Give more context in the review file%%
 ### 5.4 Pairwise comparisons (Bonferroni-adjusted)
 
 | Comparison | p-value (adj.) | Cohen's d | Magnitude |
@@ -360,8 +360,8 @@ The lecture text states the **opposite-direction interpretation**: "European gro
 
 So: only the European-vs-Asian comparison was statistically significant, with a medium effect size.
 
-> **Explained easily — what the survey is doing:**
-> Denney ran a **little experiment on the class** to *prove* Acharya's point with you as the data. Everyone read about the same fictional rising power in the same fictional region — *but the historical analogy used to introduce the scenario was different* for different students. Result: just **one paragraph of historical framing changes how students predict the future**. If your starting analogy is European balance-of-power, you predict conflict. If it's ASEAN-style engagement, you predict cooperation. **Same facts, different conclusions — because the theory you build depends on the history you start from.** This is Acharya's argument, demonstrated on you. Almost certainly testable.
+> ==**Explained easily — what the survey is doing:**==
+> ==Denney ran a **little experiment on the class** to *prove* Acharya's point with you as the data. Everyone read about the same fictional rising power in the same fictional region — *but the historical analogy used to introduce the scenario was different* for different students. Result: just **one paragraph of historical framing changes how students predict the future**. If your starting analogy is European balance-of-power, you predict conflict. If it's ASEAN-style engagement, you predict cooperation. **Same facts, different conclusions — because the theory you build depends on the history you start from.** This is Acharya's argument, demonstrated on you. Almost certainly testable.==
 
 ### 5.5 The pedagogical payoff — what Denney wants you to take
 

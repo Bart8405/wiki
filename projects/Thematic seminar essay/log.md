@@ -6,6 +6,12 @@
 - Added `index.md` cataloguing raw sources by topic cluster
 - Added `wiki/synthesis/essay-direction.md` as a scratchpad for the essay thesis, outline, and source map
 
+## [2026-05-18] scaffold | Created `sources.bib` (BibTeX bibliography for the project)
+- 64 entries: ~50 PDFs in raw/ + 14 overnight-search online sources (no PDFs yet)
+- Citation key convention: `firstauthor_year_shortkey`
+- Custom fields: `keywords` (DONE/LOOK/MENTIONED/etc. tags + topic tags), `annote` (one-line summary), `file` (relative PDF path)
+- Wired into top-level `index.md`
+
 ## [2026-05-16] rename | All raw/ and expert/ PDFs renamed to "PREFIX_Authors YYYY - Title.pdf" format
 - 56 files renamed; original prefixes (DONE/LOOK/MENTIONED/NOPE/LATER/GREAT) preserved
 - Fixed two mis-labelled originals: `Finkelstein and Fullerton` was actually Finkelstein Shapiro & Metcalf 2021; `Fullerton_carbon price effect on households` was actually Rausch, Metcalf & Reilly 2011

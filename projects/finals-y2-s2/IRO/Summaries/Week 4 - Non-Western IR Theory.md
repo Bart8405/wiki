@@ -32,7 +32,7 @@ The short-answer rubric on the exam expects you to (i) **define** the concept, (
 A likely short-answer prompt: *"Discuss the non-Western/Global IR critique of mainstream IR. What does it explain that realism, liberalism, and constructivism miss? What does it overlook?"*
 
 > **Explained easily — the whole week in one paragraph:**
-> Realism, liberalism, and constructivism were all invented by Western scholars looking at European history — the European balance of power, the Westphalian state system, World War I and II, the Cold War. Then those frameworks got applied to Asia and people assumed they were universal. **Acharya's complaint** is that this misses what Asia actually does: Asian states don't *balance* or *bandwagon* against China — they **enmesh both China and the US in regional institutions** (ASEAN, ARF). Asia had its own pre-modern international systems (Chinese tributary, Southeast Asian Mandala) that look nothing like Westphalian anarchy. The fix isn't to invent a "Chinese School" of IR (that's just parochialism in the other direction) — it's **Global IR**: keep what works in Western theory, add non-Western histories and concepts, and recognise both as *regional* contributions to a wider discipline.
+> Realism, liberalism, and constructivism were all invented by Western scholars looking at European history — the European balance of power, the Westphalian state system, World War I and II, the Cold War. Then those frameworks got applied to Asia and people assumed they were universal. ==**Acharya's complaint** is that this misses what Asia actually does: Asian states don't *balance* or *bandwagon* against China — they **enmesh both China and the US in regional institutions** (ASEAN, ARF).== Asia had its own pre-modern international systems (Chinese tributary, Southeast Asian Mandala) that look nothing like Westphalian anarchy. The fix isn't to invent a "Chinese School" of IR (that's just ==parochialism== in the other direction) — it's **Global IR**: keep what works in Western theory, add non-Western histories and concepts, and recognise both as *regional* contributions to a wider discipline.
 
 ---
 
@@ -46,39 +46,41 @@ Denney opens by tying Week 4 back to student questions from the Week 3 survey ("
 
 - Sovereignty, balance of power, nation-state → all derived from the **Westphalian** system (1648).
 - The discipline took shape in the US and UK after the two world wars + Cold War.
-- The "great debates" (realism vs. liberalism, positivism vs. post-positivism) were **internal Western conversations**.
+- The "great debates" (realism vs. liberalism, ==positivism vs. post-positivism==) were **internal Western conversations**.
 - Stanley Hoffmann (1977) famously called IR "an American social science" — this is the phrase that links Week 4 to Week 5.
 - **The consequence:** theories presented as *universal* were built to explain one region's history. Applying them globally risks mistaking the particular for the general.
 
+
+%%What really differentiates week 4 stuff from week 5? Is week 5 less centered on geography and more on scope?%%
 ### 2.3 What gets left out
 
 Western IR assumes the Westphalian state system is the default. But Asia had its own international systems and they looked very different:
 
-| Alternative systems | What they were |
-|---|---|
-| **Chinese tributary system** | Hierarchy, not anarchy. China at the centre, lesser rulers paid symbolic tribute and received recognition. |
-| **Southeast Asian Mandala system** | Overlapping circles of authority, no fixed borders, personal rather than territorial hegemony — authority decayed with distance from the king. |
-| Multiple coexisting "international orders" across Asia | (Sinic, Indic, maritime, Southeast Asian) |
+| Alternative systems                                    | What they were                                                                                                                                                 |
+| ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Chinese tributary system**                           | Hierarchy, not anarchy. China at the centre, lesser rulers paid symbolic tribute and received recognition. %%describe more how the system worked in practice%% |
+| **Southeast Asian Mandala system**                     | Overlapping circles of authority, no fixed borders, personal rather than territorial hegemony — authority decayed with distance from the king.                 |
+| Multiple coexisting "international orders" across Asia | (Sinic, Indic, maritime, Southeast Asian)                                                                                                                      |
 
 **Consequence for theory:** non-Western actors get reduced to "data points" for testing Western theories; their agency, ideas and historical experience are overlooked; alternative forms of order are treated as **deviations from the norm**.
 
 ### 2.4 Why has NWIRT been slow to develop? (Structural barriers)
 
-1. **Institutional** — major journals, publishers, conferences are Western-based.
-2. **Policy pull** — non-Western scholars often focus on policy rather than theory.
-3. **Language** — English dominance marginalises other scholarship.
-4. **Area studies vs. IR** — non-Western regions are siloed as "area studies," not IR theory.
-5. **Hegemonic acceptance** (Gramscian) — non-Western scholars internalise the assumption that Western theory is "better."
+1. ==**Institutional** — major journals, publishers, conferences are Western-based.==
+2. ==**Policy pull** — non-Western scholars often focus on policy rather than theory.==
+3. ==**Language** — English dominance marginalises other scholarship.==
+4. ==**Area studies vs. IR** — non-Western regions are siloed as "area studies," not IR theory.==
+5. ==**Hegemonic acceptance** (Gramscian) — non-Western scholars internalise the assumption that Western theory is "better."==
 
 ### 2.5 NWIRT vs. traditional IR — Acharya's table
 
-| Dimension | Traditional IRTs | NWIRT approach |
-|---|---|---|
-| Structure | Westphalian anarchy as universal condition | Multiple historical international systems (tributary, Mandala…) |
-| Agency | Great powers drive the system; non-Western states respond | Non-Western actors as **norm-makers**, not just norm-takers |
-| Historiography | European history as the baseline for generalisation | Multiple regional histories as sources of theory |
-| Epistemology | Primarily positivist; universal claims | Pluralist; local knowledge as a valid foundation |
-| Sources | Thucydides, Hobbes, Kant | Kautilya, Ibn Khaldun, Confucian traditions |
+| Dimension      | Traditional IRTs                                          | NWIRT approach                                                  |
+| -------------- | --------------------------------------------------------- | --------------------------------------------------------------- |
+| Structure      | Westphalian anarchy as universal condition                | Multiple historical international systems (tributary, Mandala…) |
+| Agency         | Great powers drive the system; non-Western states respond | Non-Western actors as **norm-makers**, not just norm-takers     |
+| Historiography | European history as the baseline for generalisation       | Multiple regional histories as sources of theory                |
+| Epistemology   | Primarily positivist; universal claims                    | Pluralist; local knowledge as a valid foundation                |
+| Sources        | Thucydides, Hobbes, Kant                                  | Kautilya, Ibn Khaldun, Confucian traditions                     |
 
 ### 2.6 The Friedberg–Kang–Acharya debate (the core of the lecture)
 

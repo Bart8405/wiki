@@ -1,6 +1,6 @@
 # Thematic seminar essay — Wiki Index
 
-*Essay on carbon pricing in Indonesia (ETS vs. carbon tax). See `wiki/synthesis/essay-direction.md` for the working argument.*
+*Essay on carbon pricing in Indonesia (ETS vs. carbon tax). See `wiki/synthesis/essay-direction.md` for the working argument. Structured bibliography is in [`sources.bib`](sources.bib) — BibTeX format with one-line summaries and reading tags.*
 
 ## Synthesis
 

@@ -555,16 +555,16 @@ Acharya's subsidiarity is the outward diffusion of locally created norms — the
 **The Asia debate:**
 - Friedberg: ripe for rivalry (neorealism).
 - Kang: bandwagoning + hierarchy (culturalist realism).
-- Acharya: **double-binding + engagement + norms + institutions** (NWIRT). Asia is more stable than predicted because of economic interdependence, Bandung-era norms (non-interference, sovereignty), and ASEAN-led institutional architecture.
+- ==Acharya: **double-binding + engagement + norms + institutions**== (NWIRT). Asia is more stable than predicted because of economic interdependence, Bandung-era norms (non-interference, sovereignty), and ASEAN-led institutional architecture.
 
 **Three pathways forward:**
 1. Extend Western IRT (insufficient).
 2. Asian exceptionalism (dangerous — "Asian values," Tianxia romanticism).
 3. **Global IR / deprovincialization** (Acharya's choice).
 
-**Two mechanisms of Global IR:**
-- **Constitutive localization** — foreign ideas blend into local norms (e.g. ASEAN Way).
-- **Subsidiarity** (Acharya) — local norms diffuse outward (e.g. nonalignment, human security).
+==**Two mechanisms of Global IR:**==
+- ==**Constitutive localization** — foreign ideas blend into local norms (e.g. ASEAN Way).==
+- ==**Subsidiarity** (Acharya) — local norms diffuse outward (e.g. nonalignment, human security).==
 
 **Korea case ("twisted postcoloniality"):** colonised by Japan, then US-dependent. Two trap strategies: universalist (mimic) or particularist (marginal). Proof that structural barriers — not lack of ideas — keep non-Western IR underdeveloped.
 
@@ -572,3 +572,10 @@ Acharya's subsidiarity is the outward diffusion of locally created norms — the
 
 **The line to memorise:**
 > *"Global IR is not about rejecting the Western IR tradition, but broadening the scope and sources of IR to make it more inclusive and universal."* (Acharya 2014)
+
+
+
+%%Love this one page revision btw!! great work, do this for all of the summaries you make - all important on one page, key terms, easy explanations, key quotes, love it!%%
+
+
+

@@ -3,3 +3,4 @@
 ## [2026-05-18] new project | scaffolded
 ## [2026-05-18] synthesis | cpo-photonics-sources + cpo-photonics-dip-may-2026
 ## [2026-05-18] synthesis | cpo-dip-may-2026-what-to-add — ranked names with reasoning
+## [2026-05-18] synthesis | nbis-nebius-may-2026 — Nebius buy/hold analysis at $220

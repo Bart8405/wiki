@@ -267,10 +267,10 @@ Wang Gungwu (2010): "International relations theory has been one of the many leg
 
 ### 4.6 Where existing IRT still falls short on Asia (the record)
 
-- **Realists** liken China's rise to Germany's late-19th century (Friedberg) or to America's regional Monroe Doctrine (Mearsheimer). Both analogies misconstrue similarities.
-- **Liberals** (Ikenberry) think the "American-led liberal hegemonic order" can accommodate China because the order is sprawling. This restates **hegemonic stability theory**, ignores Asian resistance to American conceptions of order (India, Indonesia) and ignores the genuine, separate Asian contributions to order (ASEAN, ARF — built *despite* American indifference).
-- **Constructivists** (Kang, Qin) using historical Sino-centric interactions to explain emerging Asian order have been challenged: today's rules differ vastly from the tributary era. Acharya's own communitarian regionalism work and Iain Johnston's "socialization" of China have been called too optimistic.
-- None of these gives much space to **Asian agency**. They confirm the American-centrism of IRT.
+- ==**Realists** liken China's rise to Germany's late-19th century (Friedberg) or to America's regional Monroe Doctrine (Mearsheimer). Both analogies misconstrue similarities.==
+- ==**Liberals** (Ikenberry) think the "American-led liberal hegemonic order" can accommodate China because the order is sprawling. This restates **hegemonic stability theory**, ignores Asian resistance to American conceptions of order (India, Indonesia) and ignores the genuine, separate Asian contributions to order (ASEAN, ARF — built *despite* American indifference).==
+- ==**Constructivists** (Kang, Qin) using historical Sino-centric interactions to explain emerging Asian order have been challenged: today's rules differ vastly from the tributary era. Acharya's own communitarian regionalism work and Iain Johnston's "socialization" of China have been called too optimistic.==
+- ==None of these gives much space to **Asian agency**. They confirm the American-centrism of IRT.==
 
 ### 4.7 The Asian exceptionalism trap
 
@@ -279,17 +279,17 @@ Wang Gungwu (2010): "International relations theory has been one of the many leg
 - Exceptionalism is often **politically dangerous**. "Asian values" was used to justify authoritarianism. "ASEAN Way" was used to slow multilateral cooperation. Japan's prewar pan-Asianism ("Asia for Asians") justified its imperial expansion. China's Tianxia + "peaceful rise" discourse coexists with assertive South China Sea policy.
 - Just as **US exceptionalism** is associated with the Monroe Doctrine and self-serving interventionism, **Chinese exceptionalism** could introduce a "new and dangerous parochialism" to Asian IR discourse.
 
-### 4.8 The constructive proposal — **deprovincialization**
+### ==4.8 The constructive proposal — **deprovincialization**==
 
-Acharya's preferred path. Two moves:
+==Acharya's preferred path. Two moves:==
 
-1. **Retreat from Westphalia as the conceptual/geographic point of reference.** Stop treating the contemporary Asian system as an extension of European "international society" or "Westphalia writ large." This grants agency to Asian states, societies, and civilisations as active builders — not passive recipients — of ideas, rules and institutions of order.
-2. **Avoid investigating Asia purely through its indigenous history and culture** to the neglect of wider global trends. Asia's post-war order has been marked by global currents (economic liberalism, multilateralism, democratisation). These modify but do not displace indigenous culture and identity.
+1. ==**Retreat from Westphalia as the conceptual/geographic point of reference.** Stop treating the contemporary Asian system as an extension of European "international society" or "Westphalia writ large." This grants agency to Asian states, societies, and civilisations as active builders — not passive recipients — of ideas, rules and institutions of order.==
+2. ==**Avoid investigating Asia purely through its indigenous history and culture** to the neglect of wider global trends. Asia's post-war order has been marked by global currents (economic liberalism, multilateralism, democratisation). These modify but do not displace indigenous culture and identity.==
 
-Deprovincialization does **not** transcend Western IRT — it identifies **congruence** between it and local ideas and practices via two mechanisms:
+==Deprovincialization does **not** transcend Western IRT — it identifies **congruence** between it and local ideas and practices via two mechanisms:==
 
-- **Constitutive localization** (Acharya 2004, 2009b): a dynamic two-way process where foreign ideas do not dominate or disappear but **blend into the local setting**.
-- **Subsidiarity** (Acharya 2011a): the diffusion of **locally constructed rules** transregionally or globally, used by local actors "with a view to preserve their autonomy from dominance, neglect, violation, or abuse by more powerful central actors."
+- ==**Constitutive localization** (Acharya 2004, 2009b): a dynamic two-way process where foreign ideas do not dominate or disappear but **blend into the local setting**.==
+- ==**Subsidiarity** (Acharya 2011a): the diffusion of **locally constructed rules** transregionally or globally, used by local actors "with a view to preserve their autonomy from dominance, neglect, violation, or abuse by more powerful central actors."==
 
 Both mechanisms recognise **Asian agency** — material and ideational.
 
@@ -314,12 +314,13 @@ Both mechanisms recognise **Asian agency** — material and ideational.
 ---
 
 > **Explained easily — what Acharya 2014 is doing:**
-> If 2003 was the *empirical* attack on Western IR (using Asia as the case), 2014 is the *theoretical and meta-theoretical* attack. Acharya names the project: **Non-Western IR Theory (NWIRT)**, then refines it into **Global IR**. He spends the chapter mapping three possible futures for IR theory: (1) keep Western IR with marginal non-Western add-ons (insufficient), (2) build a totally Asian IR based on Tianxia / tributary system (dangerous — just produces a new parochialism), or (3) **deprovincialization** (his preferred path) — keep Western IR but stop treating it as the universal default, while also lifting Asian-origin concepts (nonalignment, human security, ASEAN regionalism) to a world stage. The two mechanisms he names — **constitutive localization** and **subsidiarity** — are the practical tools for doing this. **This is the chapter where the term "Global IR" gets its formal definition.**
+> If 2003 was the *empirical* attack on Western IR (using Asia as the case), 2014 is the *theoretical and meta-theoretical* attack. Acharya names the project: **Non-Western IR Theory (NWIRT)**, then refines it into **Global IR**. ==He spends the chapter mapping three possible futures for IR theory: (1) keep Western IR with marginal non-Western add-ons (insufficient), (2) build a totally Asian IR based on Tianxia / tributary system (dangerous — just produces a new parochialism), or (3) **deprovincialization** (his preferred path) — keep Western IR but stop treating it as the universal default, while also lifting Asian-origin concepts (nonalignment, human security, ASEAN regionalism) to a world stage. The two mechanisms he names — **constitutive localization** and **subsidiarity** — are the practical tools for doing this. **This is the chapter where the term "Global IR" gets its formal definition.**==
 
 ## 5. The survey — Survey_4
 
 This is **specifically flagged in your guidance as exam-relevant**, and it gives away Denney's pedagogical priorities for this week.
 
+%%Include the knowledge check on the readings here - I want the questions and answers, as they will likely be on the exam%%
 ### 5.1 The structure
 
 - Part 1: knowledge check on the readings (answers marked in green).

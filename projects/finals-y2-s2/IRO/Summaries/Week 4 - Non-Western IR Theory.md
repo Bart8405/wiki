@@ -207,7 +207,7 @@ Some call ASEAN's posture **"hedging"** (not sure whether to balance, bandwagon 
 - The "thin gruel" of Asian institutions (Friedberg's phrase) is a **dietary preference**, designed to preserve hard-earned sovereignty — not a primordial cultural trait.
 - Asian regionalism is **conservative and norm-preserving** (unlike the EU which is transformative). Non-interference is the central preserved norm.
 - Regional interactions have spared Asia from extreme responses (Lee Kuan Yew argued against US containment of China, supported engagement — denying alarmist views legitimacy).
-
+%%I gave this instruction later so you did no go by it in these first summaries but keep the lecture readings part shorter - I still want you to explain the key concepts from the BAISIR study guide through the reading's POV but make it a little shorter%%
 ### 3.6 "Bringing Asia in" — Acharya's prescription for theory
 
 Two paths:
@@ -221,8 +221,8 @@ Asia's past hierarchy was neither peaceful nor will it return. Don't confuse Asi
 
 ---
 
-> **Explained easily — what Acharya 2003 is doing:**
-> This is a **direct rebuttal to David Kang's** article "Getting Asia Wrong." Kang says: Asian states bandwagon with China because Asia historically had a hierarchical order with China at the centre — China was peaceful when strong, so it'll be peaceful again. Acharya replies: **wrong on three counts**. (1) Asian states aren't bandwagoning — they're doing **double-binding** (enmeshing both China and the US in regional institutions). (2) The historical Chinese order **wasn't actually peaceful** — China used force against weaker neighbours whenever it could. (3) Today's Asian stability comes not from a return to hierarchy but from **economic interdependence + Bandung-era norms (non-interference, sovereignty) + ASEAN-led institutions**. The article is mostly an argument that **the balancing/bandwagoning dichotomy is too narrow** to capture what Asian states actually do.
+> ==**Explained easily — what Acharya 2003 is doing:**==
+> ==This is a **direct rebuttal to David Kang's** article "Getting Asia Wrong." Kang says: Asian states bandwagon with China because Asia historically had a hierarchical order with China at the centre — China was peaceful when strong, so it'll be peaceful again. Acharya replies: **wrong on three counts**. (1) Asian states aren't bandwagoning — they're doing **double-binding** (enmeshing both China and the US in regional institutions). (2) The historical Chinese order **wasn't actually peaceful** — China used force against weaker neighbours whenever it could. (3) Today's Asian stability comes not from a return to hierarchy but from **economic interdependence + Bandung-era norms (non-interference, sovereignty) + ASEAN-led institutions**. The article is mostly an argument that **the balancing/bandwagoning dichotomy is too narrow** to capture what Asian states actually do.==
 
 ## 4. Required reading 2 — Acharya, "IR Theory and the Rise of Asia" (2014)
 
@@ -263,7 +263,7 @@ Wang Gungwu (2010): "International relations theory has been one of the many leg
 
 1. **Centuries of interaction** mean Asian states/societies have been shaped by Western values and institutions — so Western IRT can partly explain their behaviour (weakest argument).
 2. **Foundational concepts** like power, sovereignty, security, institutions and rules serve as common points of reference for the whole IR community. Don't accept them uncritically — but use them.
-3. **Western IRT is not monolithic.** Walt's *Origin of Alliances* used Middle East cases. Constructivism opens space for non-Western scholarship (norm diffusion, identity). New realisms — **subaltern realism** (Ayoob), **neoclassical realism**, **defensive realism** — make realism more relevant to Asia. Liberalism gets traction in Asia via economic interdependence + multilateralism + democratisation.
+3. **Western IRT is not monolithic.** ==Walt's *Origin of Alliances*== used Middle East cases. Constructivism opens space for non-Western scholarship (norm diffusion, identity). New realisms — ==**subaltern realism** (Ayoob), **neoclassical realism**, **defensive realism**== — make realism more relevant to Asia. Liberalism gets traction in Asia via economic interdependence + multilateralism + democratisation.
 
 ### 4.6 Where existing IRT still falls short on Asia (the record)
 

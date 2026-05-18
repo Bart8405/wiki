@@ -1,0 +1,905 @@
+% ============================================================================
+% sources.bib — Thematic seminar essay (Indonesian carbon pricing)
+%
+% Conventions used in this file:
+%   - Citation key:  firstauthor_year_shortkey   (e.g. hartono_2023_carbon_tax)
+%   - keywords:      reading-status tags (done / look / mentioned / nope /
+%                    later / great / overnight) + topic tags (indonesia,
+%                    carbon-tax, ets, theory, critical, comparative, vcm…)
+%   - annote:        one-line plain-language summary in user voice
+%   - file:          relative path from this file to the PDF in raw/
+%   - All free-access URLs are in the `url` field
+%   - Multi-word titles use {Braces} around proper nouns to preserve case
+%
+% Editing:
+%   - Add new sources at the bottom of the relevant section, copying the
+%     nearest entry as a template.
+%   - The Obsidian "Citations" plugin will read this file directly:
+%     Settings → Citations → set "Citation database path" to this file.
+%   - If you switch to Zotero + Better BibTeX, point that plugin's
+%     auto-export to overwrite this file.
+% ============================================================================
+
+
+% ============================================================================
+%                       PART I — INDONESIA-SPECIFIC
+% ============================================================================
+
+@misc{icap_2025_indonesia_nek,
+  author       = {{International Carbon Action Partnership}},
+  year         = {2025},
+  title        = {Indonesia {NEK} Trading Scheme: {ETS} Detailed Information},
+  howpublished = {ICAP ETS Map factsheet 104},
+  url          = {https://icapcarbonaction.com/en/ets/indonesia-nek-trading-scheme},
+  keywords     = {indonesia, ets, nek, primary-source, factsheet},
+  annote       = {Ground-truth reference for how the NEK ETS actually operates: phases, caps, allocation, Presidential Reg 110/2025, the cap-tax-and-trade hybrid design.},
+  file         = {raw/ICAP 2025 - Indonesia NEK Trading Scheme factsheet 104.pdf}
+}
+
+@article{sunanda_2025_advancing_carbon_pricing,
+  author    = {Sunanda, Wahri and Setyonegoro, M. Isnaeni Bambang and Hadi, Sasongko Pramono and Sarjiya},
+  year      = {2025},
+  title     = {Advancing the carbon pricing framework in {Indonesia}: A systematic review of policies, challenges, and global lessons},
+  journal   = {Results in Engineering},
+  volume    = {28},
+  pages     = {107155},
+  doi       = {10.1016/j.rineng.2025.107155},
+  keywords  = {great, indonesia, carbon-tax, ets, slr, recommendations},
+  annote    = {Strongest single source for this essay. SLR of 65 Indonesia carbon-pricing studies; proposes graduated tax + staged ETS expansion; documents the academic-vs-implementation gap.},
+  file      = {raw/expert/GREAT_Sunanda et al 2025 - Advancing the carbon pricing framework in Indonesia - systematic review.pdf}
+}
+
+@article{hartono_2023_carbon_tax,
+  author    = {Hartono, Djoni and Indriyani, Witri and Iryani, Beta Septi and Komarulzaman, Ahmad and Nugroho, Anda and Kurniawan, Robi},
+  year      = {2023},
+  title     = {Carbon tax, energy policy, and sustainable development in {Indonesia}},
+  journal   = {Sustainable Development},
+  volume    = {31},
+  number    = {4},
+  pages     = {2332--2346},
+  doi       = {10.1002/sd.2511},
+  keywords  = {done, indonesia, carbon-tax, cge, revenue-recycling},
+  annote    = {CGE showing carbon-tax revenue recycling raises Indonesian GDP and employment.},
+  file      = {raw/DONE_Hartono et al 2023 - Carbon tax, energy policy and sustainable development in Indonesia.pdf}
+}
+
+@article{rahma_2025_carbon_tax_sam,
+  author    = {Rahma, Luthfiana and Hartono, Djoni and Hastuti, Sasmita Hastri},
+  year      = {2025},
+  title     = {Carbon-tax implementation in {Indonesia}: A social accounting matrix analysis},
+  journal   = {Sustainability: Science, Practice, and Policy},
+  volume    = {21},
+  number    = {1},
+  doi       = {10.1080/15487733.2025.2454061},
+  keywords  = {done, indonesia, carbon-tax, sam, distributional},
+  annote    = {SAM analysis. Tax is progressive among rural lower-income households, regressive in urban areas at higher incomes.},
+  file      = {raw/DONE_Rahma, Hartono & Hastuti 2025 - Carbon-tax implementation in Indonesia - a social accounting matrix analysis.pdf}
+}
+
+@article{yusuf_2015_distributional_indonesia,
+  author    = {Yusuf, Arief A. and Resosudarmo, Budy P.},
+  year      = {2015},
+  title     = {On the distributional impact of a carbon tax in developing countries: The case of {Indonesia}},
+  journal   = {Environmental Economics and Policy Studies},
+  volume    = {17},
+  number    = {1},
+  pages     = {131--156},
+  doi       = {10.1007/s10018-014-0093-y},
+  keywords  = {look, indonesia, carbon-tax, distributional, foundational},
+  annote    = {Foundational paper: carbon tax not necessarily regressive in Indonesia — progressive at lower-income rural levels, regressive in urban areas.},
+  file      = {raw/LOOK_Yusuf & Resosudarmo 2015 - On the distributional impact of a carbon tax in developing countries - the case of Indonesia.pdf}
+}
+
+@article{kamandika_2023_power_sector,
+  author    = {Kamandika, Fardhan A. and Dhakal, Shobhakar},
+  year      = {2023},
+  title     = {Impact of carbon price on {Indonesia}'s power sector up to 2050},
+  journal   = {Carbon Neutrality},
+  volume    = {2},
+  number    = {1},
+  pages     = {27},
+  doi       = {10.1007/s43979-023-00066-4},
+  keywords  = {mentioned, indonesia, power-sector, modelling},
+  annote    = {Power-sector decarbonization trajectory under carbon-pricing scenarios through 2050.},
+  file      = {raw/MENTIONED_Kamandika & Dhakal 2023 - Impact of carbon price on Indonesia's power sector up to 2050.pdf}
+}
+
+@article{tan_2022_peatland,
+  author    = {Tan, Z. D. and Carrasco, L. R. and Sutikno, S. and Taylor, D.},
+  year      = {2022},
+  title     = {Peatland restoration as an affordable nature-based climate solution with fire reduction and conservation co-benefits in {Indonesia}},
+  journal   = {Environmental Research Letters},
+  volume    = {17},
+  number    = {6},
+  pages     = {064028},
+  doi       = {10.1088/1748-9326/ac6f6e},
+  keywords  = {mentioned, indonesia, nbs, peatland, redd},
+  annote    = {Peatland restoration as a cheap, high-impact nature-based solution in Indonesia.},
+  file      = {raw/MENTIONED_Tan et al 2022 - Peatland restoration as an affordable nature-based climate solution in Indonesia.pdf}
+}
+
+@article{sujarwo_2016_bamboo,
+  author    = {Sujarwo, Wawan},
+  year      = {2016},
+  title     = {Stand biomass and carbon storage of bamboo forest in {Penglipuran} traditional village, {Bali} ({Indonesia})},
+  journal   = {Journal of Forestry Research},
+  volume    = {27},
+  number    = {4},
+  pages     = {913--917},
+  doi       = {10.1007/s11676-016-0227-0},
+  keywords  = {mentioned, indonesia, nbs, bali, community},
+  annote    = {Community case study of bamboo carbon sinks in Bali.},
+  file      = {raw/MENTIONED_Sujarwo 2016 - Stand biomass and carbon storage of bamboo forest in Penglipuran, Bali.pdf}
+}
+
+@article{ordonez_2022_coal_renewables,
+  author    = {Ordonez, Jose Antonio and Fritz, Marek and Eckstein, Johannes},
+  year      = {2022},
+  title     = {Coal vs.\ renewables: Least-cost optimization of the {Indonesian} power sector},
+  journal   = {Energy for Sustainable Development},
+  volume    = {68},
+  pages     = {350--363},
+  doi       = {10.1016/j.esd.2022.04.017},
+  keywords  = {mentioned, indonesia, power-sector, modelling, coal},
+  annote    = {$5/tCO2 already makes coal unviable in Indonesia; cost-optimisation model.},
+  file      = {raw/MENTIONED_Ordonez, Fritz & Eckstein 2022 - Coal vs renewables - least-cost optimization of the Indonesian power sector.pdf}
+}
+
+@article{chang_2022_curtailed_electricity,
+  author    = {Chang, Youngho and Phoumin, Han},
+  year      = {2022},
+  title     = {Curtailed electricity and hydrogen in {Association} of {Southeast Asian Nations} and {East Asia Summit}: Perspectives from an economic and environmental analysis},
+  journal   = {International Journal of Hydrogen Energy},
+  volume    = {47},
+  number    = {58},
+  pages     = {24548--24557},
+  doi       = {10.1016/j.ijhydene.2021.10.194},
+  keywords  = {mentioned, sea, hydrogen, energy},
+  annote    = {Curtailed electricity and hydrogen analysis in ASEAN+East Asia.},
+  file      = {raw/MENTIONED_Chang & Phoumin 2022 - Curtailed electricity and hydrogen in ASEAN and East Asia.pdf}
+}
+
+@article{dutu_2016_energy,
+  author    = {Dutu, Richard},
+  year      = {2016},
+  title     = {Challenges and policies in {Indonesia}'s energy sector},
+  journal   = {Energy Policy},
+  volume    = {98},
+  pages     = {513--519},
+  doi       = {10.1016/j.enpol.2016.09.009},
+  keywords  = {mentioned, indonesia, energy, policy},
+  annote    = {Indonesia energy-sector policy review.},
+  file      = {raw/MENTIONED_Dutu 2016 - Challenges and policies in Indonesia's energy sector.pdf}
+}
+
+@article{gatto_2025_redd_indonesia,
+  author    = {Gatto, Andrea and Sadik-Zada, Elkhan Richard},
+  year      = {2025},
+  title     = {{REDD+} in {Indonesia}: An assessment of the international environmental program},
+  journal   = {Environment, Development and Sustainability},
+  volume    = {27},
+  pages     = {24045--24060},
+  doi       = {10.1007/s10668-024-05368-w},
+  keywords  = {done, indonesia, redd, governance},
+  annote    = {REDD+ implementation review with governance critique.},
+  file      = {raw/DONE_Gatto & Sadik-Zada 2025 - REDD+ in Indonesia - assessment of the international environmental program.pdf}
+}
+
+@article{nofyanza_2025_redd_borneo,
+  author    = {Nofyanza, Sandy and Avia, Zahra and Chervier, Colas and Maulana, Agus Muhamad},
+  year      = {2025},
+  title     = {{REDD+} projects and their impact on household incomes in {Indonesian Borneo}},
+  journal   = {Forest and Society},
+  volume    = {9},
+  number    = {2},
+  pages     = {665--683},
+  doi       = {10.24259/fs.v9i2.44699},
+  keywords  = {indonesia, redd, kalimantan, livelihoods, empirical},
+  annote    = {Panel survey of REDD+ household-income impact in Kalimantan; difference-in-differences design.},
+  file      = {raw/Nofyanza et al 2025 - REDD+ projects and their impact on household incomes in Indonesian Borneo.pdf}
+}
+
+@article{edianto_2022_coal_finance,
+  author    = {Edianto, Achmed and Trencher, Gregory and Matsubae, Kazuyo},
+  year      = {2022},
+  title     = {Why do some countries receive more international financing for coal-fired power plants than renewables? {Influencing} factors in 23 countries},
+  journal   = {Energy for Sustainable Development},
+  volume    = {66},
+  pages     = {177--188},
+  doi       = {10.1016/j.esd.2021.12.004},
+  keywords  = {done, indonesia, comparative, coal, finance},
+  annote    = {23-country analysis; weak carbon pricing + bilateral coal agreements drive coal financing. Indonesia case study.},
+  file      = {raw/DONE_Edianto, Trencher & Matsubae 2022 - Why do some countries receive more international financing for coal-fired power plants than renewables.pdf}
+}
+
+
+% ============================================================================
+%             PART II — COMPARATIVE / DEVELOPING-COUNTRY LITERATURE
+% ============================================================================
+
+@article{vandenbergh_2026_review_developing,
+  author    = {van den Bergh, Jeroen and Drews, Stefan},
+  year      = {2026},
+  title     = {A review of carbon-pricing studies for developing countries},
+  journal   = {Climate and Development},
+  volume    = {18},
+  number    = {2},
+  pages     = {121--140},
+  doi       = {10.1080/17565529.2025.2506758},
+  keywords  = {done, comparative, developing-countries, review, foundational},
+  annote    = {The flagship review of carbon-pricing in developing countries; design choices for LMIC contexts.},
+  file      = {raw/DONE_van den Bergh & Drews 2026 - A review of carbon-pricing studies for developing countries.pdf}
+}
+
+@techreport{andriansyah_2022_asean3,
+  author      = {Andriansyah and Hong, Sang-Hyun},
+  year        = {2022},
+  title       = {Carbon Pricing in {ASEAN}+3 Economies: Progress and Challenges},
+  institution = {ASEAN+3 Macroeconomic Research Office (AMRO)},
+  type        = {AMRO Analytical Note},
+  url         = {https://amro-asia.org/wp-content/uploads/dlm_uploads/2022/11/AMRO-Analytical-Note_Carbon-Pricing-in-ASEAN3-Economies_final.pdf},
+  keywords    = {mentioned, asean, regional, amro, primary-source},
+  annote      = {Region-wide comparison; useful for placing Indonesia next to peers.},
+  file        = {raw/MENTIONED_Andriansyah & Hong 2022 - Carbon pricing in ASEAN+3 economies - progress and challenges (AMRO).pdf}
+}
+
+@techreport{adb_2024_climate_report,
+  author      = {{Asian Development Bank}},
+  year        = {2024},
+  title       = {Asia-Pacific Climate Report 2024: Catalyzing Finance and Policy Solutions},
+  institution = {Asian Development Bank},
+  address     = {Manila},
+  url         = {https://www.adb.org/publications/asia-pacific-climate-report-2024},
+  keywords    = {done, asia-pacific, adb, primary-source, recommendations},
+  annote      = {ADB flagship development-bank framing for the region's climate finance and policy challenges.},
+  file        = {raw/DONE_ADB 2024 - Asia-Pacific Climate Report.pdf}
+}
+
+@techreport{unctad_2022_reality_check,
+  author      = {{United Nations Conference on Trade and Development}},
+  year        = {2022},
+  title       = {Carbon Pricing: A Development and Trade Reality Check},
+  institution = {UNCTAD},
+  address     = {Geneva},
+  url         = {https://unctad.org/publication/carbon-pricing-development-and-trade-reality-check},
+  keywords    = {done, comparative, unctad, revenue-recycling},
+  annote      = {UNCTAD revenue-recycling templates; trade-and-development angle on carbon pricing.},
+  file        = {raw/DONE_UNCTAD 2022 - Carbon pricing - a development and trade reality check.pdf}
+}
+
+@article{best_2020_cross_country,
+  author    = {Best, Rohan and Burke, Paul J. and Jotzo, Frank},
+  year      = {2020},
+  title     = {Carbon Pricing Efficacy: Cross-Country Evidence},
+  journal   = {Environmental and Resource Economics},
+  volume    = {77},
+  number    = {1},
+  pages     = {69--94},
+  doi       = {10.1007/s10640-020-00436-x},
+  keywords  = {done, comparative, empirical, foundational},
+  annote    = {31-country efficacy evidence; growth rates of emissions 2% lower in pricing countries.},
+  file      = {raw/DONE_Best, Burke & Jotzo 2020 - Carbon pricing efficacy - cross-country evidence.pdf}
+}
+
+@article{calderon_2016_colombia,
+  author    = {Calder{\'o}n, Silvia and Alvarez, Andr{\'e}s Camilo and Loboguerrero, Ana Mar{\'i}a and Arango, Santiago and Calvin, Katherine and Kober, Tom and Daenzer, Kathryn and Fisher-Vanden, Karen},
+  year      = {2016},
+  title     = {Achieving {CO2} reductions in {Colombia}: Effects of carbon taxes and abatement targets},
+  journal   = {Energy Economics},
+  volume    = {56},
+  pages     = {575--586},
+  doi       = {10.1016/j.eneco.2015.05.010},
+  keywords  = {done, comparative, latin-america, carbon-tax, lmic},
+  annote    = {Colombia case — good LMIC tax comparator for the essay.},
+  file      = {raw/DONE_Calderon et al 2016 - Achieving CO2 reductions in Colombia - effects of carbon taxes and abatement targets.pdf}
+}
+
+@article{jia_2020_tax_vs_trading,
+  author    = {Jia, Zhijie and Lin, Boqiang},
+  year      = {2020},
+  title     = {Rethinking the choice of carbon tax and carbon trading in {China}},
+  journal   = {Technological Forecasting and Social Change},
+  volume    = {159},
+  pages     = {120187},
+  doi       = {10.1016/j.techfore.2020.120187},
+  keywords  = {done, china, comparative, carbon-tax, ets},
+  annote    = {China — argues tax outperforms trading on emissions reduction.},
+  file      = {raw/DONE_Jia & Lin 2020 - Rethinking the choice of carbon tax and carbon trading in China.pdf}
+}
+
+@article{lin_2020_tax_complements_ets,
+  author    = {Lin, Boqiang and Jia, Zhijie},
+  year      = {2020},
+  title     = {Can carbon tax complement emission trading scheme? {The} impact of carbon tax on economy, energy and environment in {China}},
+  journal   = {Climate Change Economics},
+  volume    = {11},
+  number    = {3},
+  pages     = {1--29},
+  keywords  = {look, china, comparative, hybrid, cap-tax-and-trade},
+  annote    = {Tax + ETS combined dominates either alone — the cap-tax-and-trade template Indonesia is aiming at.},
+  file      = {raw/LOOK_Lin & Jia 2020 - Can carbon tax complement emission trading scheme - impact in China.pdf}
+}
+
+@article{finon_2019_non_price,
+  author    = {Finon, Dominique},
+  year      = {2019},
+  title     = {Carbon policy in developing countries: Giving priority to non-price instruments},
+  journal   = {Energy Policy},
+  volume    = {132},
+  pages     = {38--43},
+  doi       = {10.1016/j.enpol.2019.04.046},
+  keywords  = {look, developing-countries, critical, opposing-view},
+  annote    = {Opposing-view anchor: pricing is *not* adequate for developing economies; priority should be non-price instruments.},
+  file      = {raw/LOOK_Finon 2019 - Carbon policy in developing countries - giving priority to non-price instruments.pdf}
+}
+
+@article{jakob_2016_infrastructure,
+  author    = {Jakob, Michael and Chen, Claudine and Fuss, Sabine and Marxen, Annika and Rao, Narasimha D. and Edenhofer, Ottmar},
+  year      = {2016},
+  title     = {Carbon pricing revenues could close infrastructure access gaps},
+  journal   = {World Development},
+  volume    = {84},
+  pages     = {254--265},
+  doi       = {10.1016/j.worlddev.2016.03.001},
+  keywords  = {look, developing-countries, infrastructure, revenue-recycling},
+  annote    = {Carbon-pricing revenues directed to infrastructure access in developing countries.},
+  file      = {raw/LOOK_Jakob et al 2016 - Carbon pricing revenues could close infrastructure access gaps.pdf}
+}
+
+@article{jakob_2014_climate_harm,
+  author    = {Jakob, Michael and Steckel, Jan Christoph},
+  year      = {2014},
+  title     = {How climate change mitigation could harm development in poor countries},
+  journal   = {Wiley Interdisciplinary Reviews: Climate Change},
+  volume    = {5},
+  number    = {2},
+  pages     = {161--168},
+  doi       = {10.1002/wcc.260},
+  keywords  = {look, developing-countries, critical, climate-finance-curse},
+  annote    = {Climate finance curse parallel to resource curse; useful cautionary anchor.},
+  file      = {raw/LOOK_Jakob & Steckel 2014 - How climate change mitigation could harm development in poor countries.pdf}
+}
+
+@article{dorband_2019_distributional_lmic,
+  author    = {Dorband, Ira Irina and Jakob, Michael and Kalkuhl, Matthias and Steckel, Jan Christoph},
+  year      = {2019},
+  title     = {Poverty and distributional effects of carbon pricing in low- and middle-income countries -- {A} global comparative analysis},
+  journal   = {World Development},
+  volume    = {115},
+  pages     = {246--257},
+  doi       = {10.1016/j.worlddev.2018.11.015},
+  keywords  = {look, lmic, distributional, comparative, foundational},
+  annote    = {87-country analysis — pricing is progressive below ~$15k income/capita.},
+  file      = {raw/LOOK_Dorband, Jakob, Kalkuhl & Steckel 2019 - Poverty and distributional effects of carbon pricing in low- and middle-income countries.pdf}
+}
+
+@article{steckel_2021_developing_asia,
+  author    = {Steckel, Jan C. and Dorband, Ira I. and Montrone, Lorenzo and Ward, Hauke and Missbach, Leonard and Hafner, Fabian and Jakob, Michael and Renner, Sebastian},
+  year      = {2021},
+  title     = {Distributional impacts of carbon pricing in developing {Asia}},
+  journal   = {Nature Sustainability},
+  volume    = {4},
+  number    = {11},
+  pages     = {1005--1014},
+  doi       = {10.1038/s41893-021-00758-8},
+  keywords  = {look, developing-asia, indonesia, distributional, modelling},
+  annote    = {8 developing-Asia countries including Indonesia; distributional effects of four pricing designs.},
+  file      = {raw/LOOK_Steckel et al 2021 - Distributional impacts of carbon pricing in developing Asia.pdf}
+}
+
+@book{fay_2015_decarbonizing_dev,
+  author    = {Fay, Marianne and Hallegatte, Stephane and Vogt-Schilb, Adrien and Rozenberg, Julie and Narloch, Ulf and Kerr, Tom},
+  year      = {2015},
+  title     = {Decarbonizing Development: Three Steps to a Zero-Carbon Future},
+  publisher = {World Bank},
+  address   = {Washington, DC},
+  series    = {Climate Change and Development},
+  url       = {https://www.worldbank.org/content/dam/Worldbank/document/Climate/dd/decarbonizing-development-overview.pdf},
+  keywords  = {look, world-bank, comparative, recommendations, foundational},
+  annote    = {Carbon pricing is necessary but not sufficient; three-step World Bank framing.},
+  file      = {raw/LOOK_Fay et al 2015 - Decarbonizing development - three steps to a zero-carbon future (World Bank).pdf}
+}
+
+@book{worldbank_2012_inclusive_green,
+  author    = {{World Bank}},
+  year      = {2012},
+  title     = {Inclusive Green Growth: The Pathway to Sustainable Development},
+  publisher = {World Bank},
+  address   = {Washington, DC},
+  keywords  = {look, world-bank, comparative, foundational},
+  annote    = {Inclusive green growth framework — pathway thinking for LMIC decarbonisation.},
+  file      = {raw/LOOK_World Bank 2012 - Inclusive green growth - the pathway to sustainable development.pdf}
+}
+
+@article{ojha_2020_india_cge,
+  author    = {Ojha, Vijay P. and Pohit, Sanjib and Ghosh, Joydeep},
+  year      = {2020},
+  title     = {Recycling carbon tax for inclusive green growth: {A} {CGE} analysis of {India}},
+  journal   = {Energy Policy},
+  volume    = {144},
+  pages     = {111708},
+  doi       = {10.1016/j.enpol.2020.111708},
+  keywords  = {look, india, cge, revenue-recycling, comparative},
+  annote    = {India CGE — revenue-recycling template.},
+  file      = {raw/LOOK_Ojha, Pohit & Ghosh 2020 - Recycling carbon tax for inclusive green growth - CGE analysis of India.pdf}
+}
+
+@techreport{fursman_2025_intl_markets,
+  author      = {Fursman, Lindy and Dace, Hermione and Macgeoch, Matthew},
+  year        = {2025},
+  title       = {International Carbon Markets: Climate Action at a Lower Price},
+  institution = {Tony Blair Institute for Global Change},
+  address     = {London},
+  url         = {https://institute.global/insights/climate-and-energy/international-carbon-markets-climate-action-at-a-lower-price},
+  keywords    = {indonesia, comparative, tbi, recommendations, article-6},
+  annote      = {Cites Indonesia coal-retirement abatement at $12--13/tCO2 — flagship cheap-abatement opportunity globally.},
+  file        = {raw/expert/Fursman, Dace & Macgeoch 2025 - International carbon markets - climate action at a lower price (Tony Blair Institute).pdf}
+}
+
+@article{agnolucci_2024_total_pricing,
+  author    = {Agnolucci, Paolo and Fischer, Carolyn and Heine, Dirk and Montes de Oca Leon, Mariza and Pryor, Joseph and Patroni, Kathleen and Hallegatte, St{\'e}phane},
+  year      = {2024},
+  title     = {Measuring Total Carbon Pricing},
+  journal   = {World Bank Research Observer},
+  volume    = {39},
+  number    = {2},
+  pages     = {227--258},
+  doi       = {10.1093/wbro/lkad009},
+  keywords  = {comparative, world-bank, methodology, ecr},
+  annote    = {Total Carbon Pricing methodology — captures implicit pricing (fuel taxes, subsidies) across 142 countries.},
+  file      = {raw/expert/Agnolucci et al 2024 - Measuring total carbon pricing (World Bank Research Observer).pdf}
+}
+
+@article{battocletti_2024_vcm_law,
+  author    = {Battocletti, Vittoria and Enriques, Luca and Romano, Allessandro},
+  year      = {2024},
+  title     = {The voluntary carbon market: {Market} failures and policy implications},
+  journal   = {University of Colorado Law Review},
+  volume    = {95},
+  number    = {3},
+  pages     = {519--574},
+  keywords  = {great, vcm, law, policy, market-failure},
+  annote    = {Legal-economic analysis of VCM market failures.},
+  file      = {raw/expert/GREAT_Battocletti, Enriques & Romano 2024 - The voluntary carbon market - market failures and policy implications.pdf}
+}
+
+@article{kochar_2025_vcm_review,
+  author    = {Kochar, Ridhi and Kalsie, Anjala and Deka, Nabajyoti},
+  year      = {2025},
+  title     = {Voluntary Carbon Markets ({VCMs}) in a nutshell: A systematic review based on the empirical evidence from across the globe},
+  journal   = {Journal of Cleaner Production},
+  volume    = {522},
+  pages     = {146261},
+  doi       = {10.1016/j.jclepro.2025.146261},
+  keywords  = {vcm, slr, global-north-south, comparative},
+  annote    = {VCM systematic review with Global North/South split.},
+  file      = {raw/expert/Kochar, Kalsie & Deka 2025 - Voluntary carbon markets in a nutshell - systematic review.pdf}
+}
+
+
+% ============================================================================
+%                          PART III — THEORY / FUNDAMENTALS
+% ============================================================================
+
+@article{goulder_1995_double_dividend,
+  author    = {Goulder, Lawrence H.},
+  year      = {1995},
+  title     = {Environmental taxation and the double dividend: A reader's guide},
+  journal   = {International Tax and Public Finance},
+  volume    = {2},
+  number    = {2},
+  pages     = {157--183},
+  doi       = {10.1007/BF00877495},
+  keywords  = {done, theory, double-dividend, foundational},
+  annote    = {Canonical double-dividend hypothesis. Reference text for revenue-recycling arguments.},
+  file      = {raw/DONE_Goulder 1995 - Environmental taxation and the double dividend.pdf}
+}
+
+@article{tvinnereim_2018_deep_decarbonisation,
+  author    = {Tvinnereim, Endre and Mehling, Michael},
+  year      = {2018},
+  title     = {Carbon pricing and deep decarbonisation},
+  journal   = {Energy Policy},
+  volume    = {121},
+  pages     = {185--189},
+  doi       = {10.1016/j.enpol.2018.06.020},
+  keywords  = {done, theory, deep-decarbonisation, critical},
+  annote    = {Carbon pricing alone won't deliver deep decarbonisation; needs complementary policies.},
+  file      = {raw/DONE_Tvinnereim & Mehling 2018 - Carbon pricing and deep decarbonisation.pdf}
+}
+
+@article{dong_2019_porter_china,
+  author    = {Dong, Feng and Dai, Yuanju and Zhang, Shengnan and Zhang, Xiaoyun and Long, Ruyin},
+  year      = {2019},
+  title     = {Can a carbon emission trading scheme generate the {Porter} effect? {Evidence} from pilot areas in {China}},
+  journal   = {Science of the Total Environment},
+  volume    = {653},
+  pages     = {565--577},
+  doi       = {10.1016/j.scitotenv.2018.10.395},
+  keywords  = {done, china, porter-hypothesis, theory},
+  annote    = {Porter hypothesis evidence from China ETS pilots.},
+  file      = {raw/DONE_Dong et al 2019 - Can a carbon emission trading scheme generate the Porter effect - evidence from China.pdf}
+}
+
+@techreport{finkelstein_2021_us_tax,
+  author      = {Finkelstein Shapiro, Alan and Metcalf, Gilbert E.},
+  year        = {2021},
+  title       = {The Macroeconomic Effects of a Carbon Tax to Meet the {U.S.} {Paris} Agreement Target: The Role of Firm Creation and Technology Adoption},
+  institution = {Working paper, AgEcon Search},
+  number      = {017.2021},
+  doi         = {10.22004/ag.econ.311095},
+  keywords    = {done, us, theory, firm-creation, cge},
+  annote      = {US carbon tax CGE with firm-creation channel; positive output despite the tax.},
+  file        = {raw/DONE_Finkelstein Shapiro & Metcalf 2021 - Macroeconomic effects of a US carbon tax - firm creation and technology adoption.pdf}
+}
+
+@article{metcalf_2020_macro_impact,
+  author    = {Metcalf, Gilbert E.},
+  year      = {2020},
+  title     = {Measuring the macroeconomic impact of carbon taxes},
+  journal   = {AEA Papers and Proceedings},
+  volume    = {110},
+  pages     = {101--106},
+  keywords  = {look, theory, empirical, macro},
+  annote    = {Measuring macro impact of carbon pricing across implemented schemes.},
+  file      = {raw/LOOK_Metcalf 2020 - Measuring the macroeconomic impact of carbon taxes.pdf}
+}
+
+@article{fullerton_2011_six_effects,
+  author    = {Fullerton, Don},
+  year      = {2011},
+  title     = {Six distributional effects of environmental policy},
+  journal   = {Risk Analysis},
+  volume    = {31},
+  number    = {6},
+  pages     = {923--929},
+  doi       = {10.1111/j.1539-6924.2011.01628.x},
+  keywords  = {look, theory, distributional, foundational},
+  annote    = {Canonical six distributional channels of environmental policy.},
+  file      = {raw/LOOK_Fullerton 2011 - Six distributional effects of environmental policy.pdf}
+}
+
+@article{rausch_2011_gepricing,
+  author    = {Rausch, Sebastian and Metcalf, Gilbert E. and Reilly, John M.},
+  year      = {2011},
+  title     = {Distributional impacts of carbon pricing: A general equilibrium approach with micro-data for households},
+  journal   = {Energy Economics},
+  volume    = {33},
+  pages     = {S20--S33},
+  doi       = {10.1016/j.eneco.2011.07.023},
+  keywords  = {look, us, distributional, ge, micro-data},
+  annote    = {MIT USREP general-equilibrium with 15,588 households. Originally mis-labelled in our raw/ as "Fullerton" — fixed.},
+  file      = {raw/LOOK_Rausch, Metcalf & Reilly 2011 - Distributional impacts of carbon pricing - general equilibrium with household micro-data.pdf}
+}
+
+
+% ============================================================================
+%                          PART IV — CRITICAL / OPPOSING VIEW
+% ============================================================================
+
+@article{ball_2018_not_working,
+  author    = {Ball, Jeffrey},
+  year      = {2018},
+  title     = {Why carbon pricing isn't working: Good idea in theory, failing in practice},
+  journal   = {Foreign Affairs},
+  month     = jul,
+  keywords  = {done, critical, journalism, foreign-affairs},
+  annote    = {Foreign Affairs critique — "carbon pricing is failing in practice".},
+  file      = {raw/expert/DONE_Ball 2018 - Why carbon pricing isn't working - good idea in theory, failing in practice.pdf}
+}
+
+@article{leonardi_2017_dogma,
+  author    = {Leonardi, Emanuele},
+  year      = {2017},
+  title     = {Carbon trading dogma: Theoretical assumptions and practical implications of global carbon markets},
+  journal   = {Ephemera},
+  volume    = {17},
+  number    = {1},
+  pages     = {61--87},
+  keywords  = {done, critical, theory, political-ecology},
+  annote    = {Carbon-trading dogma critique — incompatibility of environmental goals with gain-oriented monetary system.},
+  file      = {raw/DONE_Leonardi 2017 - Carbon trading dogma.pdf}
+}
+
+@article{pierucci_2025_colonialism,
+  author    = {Pierucci, Pedro and Agostinho, Feni and Sulis, Federico and Almeida, Cec{\'i}lia M. V. B. and Giannetti, Biagio F.},
+  year      = {2025},
+  title     = {Modern colonialism in carbon markets? {Insights} from emergy accounting},
+  journal   = {Ecological Modelling},
+  volume    = {510},
+  pages     = {111327},
+  doi       = {10.1016/j.ecolmodel.2025.111327},
+  keywords  = {done, critical, colonialism, brazil, emergy},
+  annote    = {"Modern colonialism" framing using emergy accounting; Brazil case.},
+  file      = {raw/DONE_Pierucci et al 2025 - Modern colonialism in carbon markets - insights from emergy accounting.pdf}
+}
+
+@article{roberts_2009_unequal_exchange,
+  author    = {Roberts, J. Timmons and Parks, Bradley C.},
+  year      = {2009},
+  title     = {Ecologically unequal exchange, ecological debt, and climate justice},
+  journal   = {International Journal of Comparative Sociology},
+  volume    = {50},
+  number    = {3--4},
+  pages     = {385--409},
+  doi       = {10.1177/0020715209105147},
+  keywords  = {done, critical, climate-justice, foundational},
+  annote    = {Ecologically unequal exchange — the global-justice frame for carbon pricing critique.},
+  file      = {raw/DONE_Roberts & Parks 2009 - Ecologically unequal exchange, ecological debt and climate justice.pdf}
+}
+
+@article{rizzi_2025_green_grabbing,
+  author    = {Rizzi, Andrea},
+  year      = {2025},
+  title     = {Subtle green grabbing? {The} extractive dimensions of carbon offsetting},
+  journal   = {Latin American Perspectives},
+  doi       = {10.1177/0094582X251377000},
+  keywords  = {done, critical, green-grabbing, colombia, redd},
+  annote    = {Green-grabbing critique of forest carbon offsets (Colombian Amazon).},
+  file      = {raw/DONE_Rizzi 2025 - Subtle green grabbing - extractive dimensions of carbon offsetting.pdf}
+}
+
+@article{kuncoro_2025_mapping,
+  author    = {Kuncoro, Arief Heru and Dwijatmiko, Afri and Noer'aida and Nurliyanti, Vetri and Sugiyono, Agus and Widhiatmaka and Subandriya, Andri and Hesty, Nurry Widya and Nandar, Cuk Supriyadi Ali and Febijanto, Irhan and Wahid, La Ode Muhammad Abdul and Butarbutar, Paul},
+  year      = {2025},
+  title     = {Mapping the landscape of carbon trading \& carbon offset research: A global and {Indonesian} perspective},
+  journal   = {AIMS Energy},
+  volume    = {13},
+  number    = {1},
+  pages     = {86--124},
+  doi       = {10.3934/energy.2025004},
+  keywords  = {done, bibliometric, indonesia, global},
+  annote    = {Bibliometric mapping of 1,994 carbon-trading papers (1993--2023).},
+  file      = {raw/DONE_Kuncoro et al 2025 - Mapping the landscape of carbon trading and carbon offset research - global and Indonesian perspective.pdf}
+}
+
+@article{asadnabizadeh_2024_history,
+  author    = {Asadnabizadeh, Majid and Moe, Espen},
+  year      = {2024},
+  title     = {A review of {Global Carbon Markets} from {Kyoto} to {Paris} and beyond: {The} persistent failure of implementation},
+  journal   = {Frontiers in Environmental Science},
+  volume    = {12},
+  pages     = {1368105},
+  doi       = {10.3389/fenvs.2024.1368105},
+  keywords  = {done, history, critical, kyoto-paris},
+  annote    = {History of global carbon markets — "persistent failure of implementation".},
+  file      = {raw/DONE_Asadnabizadeh & Moe 2024 - A review of Global Carbon Markets from Kyoto to Paris and beyond.pdf}
+}
+
+@article{kerr_2025_climate_finance,
+  author    = {Kerr, Suzi and Hu, Xian},
+  year      = {2025},
+  title     = {Filling the climate finance gap: {Holistic} approaches to mobilise private finance in developing economies},
+  journal   = {npj Climate Action},
+  volume    = {4},
+  number    = {1},
+  pages     = {16},
+  doi       = {10.1038/s44168-025-00220-x},
+  keywords  = {done, climate-finance, private-finance, developing-countries},
+  annote    = {Private climate finance mechanisms for developing economies.},
+  file      = {raw/DONE_Kerr & Hu 2025 - Filling the climate finance gap - holistic approaches to mobilise private finance.pdf}
+}
+
+@article{finch_2022_authenticity,
+  author    = {Finch, Adam and van den Bergh, Jeroen},
+  year      = {2022},
+  title     = {Assessing the authenticity of national carbon prices: A comparison of 31 countries},
+  journal   = {Global Environmental Change},
+  volume    = {74},
+  pages     = {102525},
+  doi       = {10.1016/j.gloenvcha.2022.102525},
+  keywords  = {done, critical, authenticity, comparative},
+  annote    = {31-country comparison of advertised vs. real carbon prices; reveals significant gap.},
+  file      = {raw/DONE_Finch & van den Bergh 2022 - Assessing the authenticity of national carbon prices.pdf}
+}
+
+@article{cheong_2025_paradox,
+  author    = {Cheong, Ben Chester},
+  year      = {2025},
+  title     = {The paradox and fallacy of global carbon credits: A theoretical framework for strengthening climate change mitigation strategies},
+  journal   = {Anthropocene Science},
+  volume    = {4},
+  pages     = {72--83},
+  doi       = {10.1007/s44177-025-00084-0},
+  keywords  = {nope, critical, theory},
+  annote    = {Policy analysis arguing global carbon markets are paradoxical and counterproductive (user-tagged NOPE).},
+  file      = {raw/NOPE_Cheong 2025 - The paradox and fallacy of global carbon credits.pdf}
+}
+
+@techreport{wissner_2022_vcm_safeguards,
+  author      = {Wissner, Nora and Schneider, Lambert},
+  year        = {2022},
+  title       = {Ensuring safeguards and assessing sustainable development impacts in the voluntary carbon market: {An} overview of approaches},
+  institution = {Oeko-Institut e.V.},
+  keywords    = {nope, vcm, safeguards, oeko-institut},
+  annote      = {VCM safeguards and standards comparison — keep for VCM standards reference only.},
+  file        = {raw/NOPE_Wissner & Schneider - Ensuring safeguards and assessing sustainable development impacts in the voluntary carbon market (Oeko-Institut).pdf}
+}
+
+
+% ============================================================================
+%                          PART V — VCM / MARKET DATA
+% ============================================================================
+
+@techreport{ecosystem_2025_state_vcm,
+  author      = {{Ecosystem Marketplace}},
+  year        = {2025},
+  title       = {State of the Voluntary Carbon Market 2025},
+  institution = {Ecosystem Marketplace / Forest Trends},
+  keywords    = {vcm, market-data, annual-report},
+  annote      = {Annual VCM market data — volumes, prices, project types.},
+  file        = {raw/Ecosystem Marketplace 2025 - State of the Voluntary Carbon Market.pdf}
+}
+
+@mastersthesis{faecks_2022_vcm_thesis,
+  author    = {Faecks, Benja},
+  year      = {2022},
+  title     = {The evolution of sustainable development in the voluntary carbon market},
+  school    = {Wageningen University (MSc thesis)},
+  keywords  = {later, vcm, msc-thesis},
+  annote    = {MSc thesis on VCM and sustainable development — backlog.},
+  file      = {raw/LATER_Faecks 2022 - Evolution of sustainable development in the voluntary carbon market (MSc thesis).pdf}
+}
+
+
+% ============================================================================
+%       PART VI — OVERNIGHT SEARCH (added 2026-05-17; no PDFs yet)
+%
+%   These were found by Claude overnight on 2026-05-17. PDFs have NOT been
+%   downloaded yet — links are in the `url` field. To "ingest" one, download
+%   the PDF into raw/Overnight search/ and add a `file = {...}` field below.
+% ============================================================================
+
+@misc{amro_2024_cap_first,
+  author       = {{ASEAN+3 Macroeconomic Research Office}},
+  year         = {2024},
+  title        = {Cap First, and Then Tax: Carbon-Pricing in {Indonesia}},
+  howpublished = {AMRO blog/analysis},
+  url          = {https://amro-asia.org/cap-first-and-then-tax-carbon-pricing-in-indonesia/},
+  urldate      = {2026-05-17},
+  keywords     = {great, overnight, indonesia, sequencing, amro},
+  annote       = {Directly explains the ETS-first sequencing logic. The single most relevant source for the essay's central puzzle.}
+}
+
+@misc{ieefa_2025_struggles,
+  author       = {{Institute for Energy Economics and Financial Analysis}},
+  year         = {2025},
+  title        = {Two years after launch, {Indonesia}'s carbon market struggles to find momentum},
+  howpublished = {IEEFA analysis},
+  url          = {https://ieefa.org/resources/two-years-after-launch-indonesias-carbon-market-struggles-find-momentum},
+  urldate      = {2026-05-17},
+  keywords     = {look, overnight, indonesia, ets, operational},
+  annote       = {Operational data on IDX Carbon: only IDR 78B (~USD 4.9M) cumulative transactions; price declining; 2025 allocation postponed.}
+}
+
+@techreport{ieta_2025_indonesia_brief,
+  author      = {{International Emissions Trading Association}},
+  year        = {2025},
+  title       = {Indonesia {ETS} at a Glance: Business Brief},
+  institution = {IETA},
+  url         = {https://www.ieta.org/uploads/wp-content/Resources/Busines-briefs/2025/IETA_Business_Brief-Indonesia-final.pdf},
+  urldate     = {2026-05-17},
+  keywords    = {look, overnight, indonesia, ets, industry},
+  annote      = {Industry-facing 2025 ETS summary; Phase 2 covers 563 installations; corroborates ICAP factsheet.}
+}
+
+@misc{cat_2024_indonesia,
+  author       = {{Climate Action Tracker}},
+  year         = {2024},
+  title        = {Indonesia: Policies \& Action ({December 2024} update)},
+  howpublished = {Climate Action Tracker country assessment},
+  url          = {https://climateactiontracker.org/countries/indonesia/2024-12-10/policies-action/},
+  urldate      = {2026-05-17},
+  keywords     = {look, overnight, indonesia, ndc, assessment},
+  annote       = {Indonesia rated "Critically Insufficient"; 1.35 GtCO2e absolute NDC cap by 2030 (October 2025 NDC).}
+}
+
+@article{sd_2025_power_sector_tax_trading,
+  author    = {{(authors TBC --- check ScienceDirect link)}},
+  year      = {2025},
+  title     = {Carbon tax and trading mechanisms for emission reduction in the {Indonesian} power sector},
+  journal   = {Cleaner Energy},
+  url       = {https://www.sciencedirect.com/science/article/pii/S2666790825001478},
+  urldate   = {2026-05-17},
+  keywords  = {look, overnight, indonesia, power-sector, empirical, todo-author},
+  annote    = {Indonesia-specific quantitative comparison of tax vs ETS for power sector. TODO: fill in author list.}
+}
+
+@article{sd_2025_power_decarbonization,
+  author    = {{(authors TBC --- check ScienceDirect link)}},
+  year      = {2025},
+  title     = {Optimizing power sector decarbonization in {Indonesia} through an integrated policy modeling framework},
+  journal   = {iScience},
+  url       = {https://www.sciencedirect.com/science/article/pii/S2949736125001101},
+  urldate   = {2026-05-17},
+  keywords  = {look, overnight, indonesia, power-sector, hybrid, todo-author},
+  annote    = {Integrated tax+ETS+CCS modelling; hybrid outperforms single instruments. TODO: fill in author list.}
+}
+
+@techreport{worldbank_2025_state_trends,
+  author      = {{World Bank Group}},
+  year        = {2025},
+  title       = {State and Trends of Carbon Pricing 2025},
+  institution = {World Bank},
+  url         = {https://openknowledge.worldbank.org/entities/publication/e5f6e755-e6a6-4d2c-927a-23b5cc8a9b03},
+  urldate     = {2026-05-17},
+  keywords    = {look, overnight, comparative, world-bank, annual-report},
+  annote      = {Carbon pricing revenues crossed $100B globally in 2024; 80 instruments worldwide; 28% global emissions coverage.}
+}
+
+@techreport{oecd_2025_ecr,
+  author      = {{Organisation for Economic Co-operation and Development}},
+  year        = {2025},
+  title       = {Effective Carbon Rates 2025},
+  institution = {OECD},
+  url         = {https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/11/effective-carbon-rates-2025_a578dc11/a5a5d71f-en.pdf},
+  urldate     = {2026-05-17},
+  keywords    = {look, overnight, comparative, oecd, ecr},
+  annote      = {79-country effective carbon rate analysis; Indonesia's net ECR likely negative once fuel subsidies netted.}
+}
+
+@techreport{oecd_2026_indonesia_ecr,
+  author      = {{Organisation for Economic Co-operation and Development}},
+  year        = {2026},
+  title       = {Net Effective Carbon Rates in {Indonesia} ({Country Note}, {Effective Carbon Rates 2025})},
+  institution = {OECD},
+  url         = {https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/02/effective-carbon-rates-2025-country-notes_b08aeef1/indonesia_0265ee11/8a53d669-en.pdf},
+  urldate     = {2026-05-17},
+  keywords    = {look, overnight, indonesia, oecd, ecr},
+  annote      = {Indonesia-specific net effective carbon rate breakdown — precise figures for the essay.}
+}
+
+@techreport{undp_2025_carbon_tax,
+  author      = {{United Nations Development Programme}},
+  year        = {2025},
+  title       = {Carbon Tax in an Evolving Carbon Economy: {Policy} Design \& Digital Innovations},
+  institution = {UNDP},
+  url         = {https://www.undp.org/sites/g/files/zskgke326/files/2025-03/undp-carbon-tax-in-an-evolving-carbon-economy-digital-version.pdf},
+  urldate     = {2026-05-17},
+  keywords    = {look, overnight, undp, lmic, carbon-tax, recommendations},
+  annote      = {LMIC guide for carbon-tax design: progressive trajectory, revenue redistribution, digital MRV.}
+}
+
+@techreport{iisd_2024_sea,
+  author      = {{International Institute for Sustainable Development}},
+  year        = {2024},
+  title       = {Implementing Carbon Pricing in {Southeast Asia}},
+  institution = {IISD},
+  url         = {https://www.iisd.org/publications/brief/carbon-pricing-southeast-asia},
+  urldate     = {2026-05-17},
+  keywords    = {look, overnight, sea, iisd, regional},
+  annote      = {Indonesia is the first SEA country with operational ETS; comparison with Philippines and Vietnam; regional-coordination recommendations.}
+}
+
+@article{esr_2024_tax_or_trade,
+  author    = {{(authors TBC --- check ScienceDirect link)}},
+  year      = {2024},
+  title     = {To tax or to trade? {A} global review of carbon emissions reduction strategies},
+  journal   = {Energy Strategy Reviews},
+  url       = {https://www.sciencedirect.com/science/article/pii/S2211467X24002177},
+  urldate   = {2026-05-17},
+  keywords  = {look, overnight, comparative, review, todo-author},
+  annote    = {Meta-review of 70+ pricing policies; developing countries globally prefer carbon tax over ETS — sharpens the Indonesia puzzle. TODO: fill in author list.}
+}
+
+@misc{eaforum_2025_carbon_taxes_sea,
+  author       = {{East Asia Forum}},
+  year         = {2025},
+  title        = {The case for carbon taxes in {Southeast Asia}},
+  howpublished = {East Asia Forum, ANU Crawford School},
+  url          = {https://eastasiaforum.org/2025/02/22/the-case-for-carbon-taxes-in-southeast-asia/},
+  urldate      = {2026-05-17},
+  keywords     = {look, overnight, sea, public-opinion, adb-survey},
+  annote       = {ADB 2024 survey: 70%+ SEA public support for a national carbon tax; 93% willing to bear personal cost — counter-punches the "tax is political poison" framing.}
+}
+
+@techreport{adb_2023_carbon_pricing,
+  author      = {{Asian Development Bank}},
+  year        = {2023},
+  title       = {Carbon Pricing for Energy Transition and Decarbonization},
+  institution = {Asian Development Bank},
+  url         = {https://www.adb.org/sites/default/files/publication/839391/carbon-pricing-energy-transition-decarbonization.pdf},
+  urldate     = {2026-05-17},
+  keywords    = {look, overnight, adb, asia-pacific, recommendations},
+  annote      = {ADB dedicated carbon-pricing report; recommends low rates scaling up gradually with revenue to vulnerable households + clean energy. Cites Indonesia coal-retirement at $12--13/tCO2.}
+}

@@ -86,39 +86,39 @@ Western IR assumes the Westphalian state system is the default. But Asia had its
 
 Three perspectives on Asia's post–Cold War order:
 
-| | Friedberg's pessimism | Kang's alternative | Acharya's critique |
-|---|---|---|---|
-| Claim | Asia is "ripe for rivalry" | Asia has a tradition of **hierarchical order** with China at the centre; states **bandwagon** | Neither pessimism nor nostalgia is right |
-| Why | Asia lacks Europe's stabilising mechanisms (NATO, EU, deep integration); rising powers + historical enmities | Historically, Asian states bandwagoned rather than balanced; a rising China may *restore* stability | The balancing-vs-bandwagoning dichotomy is too narrow; engagement and **double-binding** are real |
-| Framework | Neorealism applied to Asia | Culturalist realism | NWIRT — engagement, regional norms, ASEAN institutions |
+|           | ==Friedberg's pessimism==                                                                                        | ==Kang's alternative==                                                                                                                             | ==Acharya's critique==                                                                                |
+| --------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| Claim     | ==Asia is "ripe for rivalry"==                                                                                   | ==Asia has a tradition of **hierarchical order** with China at the centre; states **bandwagon**== %%what does bandwagoning mean in this context?%% | ==Neither pessimism nor nostalgia is right==                                                          |
+| Why       | ==Asia lacks Europe's stabilising mechanisms (NATO, EU, deep integration); rising powers + historical enmities== | ==Historically, Asian states bandwagoned rather than balanced; a rising China may *restore* stability==                                            | ==The balancing-vs-bandwagoning dichotomy is too narrow; engagement and **double-binding** are real== |
+| Framework | ==Neorealism applied to Asia==                                                                                   | ==Culturalist realism==                                                                                                                            | ==NWIRT — engagement, regional norms, ASEAN institutions==                                            |
 
 Both Friedberg and Kang **apply Western theoretical frameworks** to Asia. Neither starts from Asian historical experience on its own terms — Acharya's central charge.
 
 ### 2.7 Acharya's positive contribution
 
 - Asian states are not passive recipients of great-power dynamics. They **actively construct** their own regional order.
-- The mechanisms: **engagement and "double-binding"** (enmeshing *both* China and the US in regional institutions); **regional norms** (non-intervention, consensus, multilateralism); **institutions** (ASEAN, ARF, ASEAN+3 — different from NATO/EU, but real).
+- ==The mechanisms: **engagement and "double-binding"** (enmeshing *both* China and the US in regional institutions); **regional norms** (non-intervention, consensus, multilateralism); **institutions** (ASEAN, ARF, ASEAN+3 — different from NATO/EU, but real).==
 
 ### 2.8 Why each main theory falls short in Asia
 
-- **Realism** highlights power competition but cannot explain why Asia has been *more stable* than predicted.
-- **Liberalism** recognises institutions but assumes they must look like Western ones to work.
-- **Constructivism** takes norms seriously but often treats non-Western norms as local curiosities, not theoretical contributions.
+- ==**Realism** highlights power competition but cannot explain why Asia has been *more stable* than predicted.==
+- ==**Liberalism** recognises institutions but assumes they must look like Western ones to work.==
+- ==**Constructivism** takes norms seriously but often treats non-Western norms as local curiosities, not theoretical contributions.==
 
 > *"This is not just an academic problem. If our theories misread Asia, our policy prescriptions will too."*
 
 ### 2.9 Three pathways for non-Western IR
 
-1. **Extend and adapt Western IRT** — add non-Western cases. Risk: non-Western experience remains supplementary.
-2. **Build on Asian exceptionalism** — develop theories from uniquely Asian concepts (Tianxia, "Asian values"). Risk: replaces one particularism with another.
-3. **Global IR** (Acharya's preferred path) — draw on multiple traditions without privileging any single one. *Expand* the scope of IR theory, not replace it.
+1. ==**Extend and adapt Western IRT** — add non-Western cases. Risk: non-Western experience remains supplementary.==
+2. ==**Build on Asian exceptionalism** — develop theories from uniquely Asian concepts (Tianxia, "Asian values"). Risk: replaces one particularism with another.==
+3. ==**Global IR** (Acharya's preferred path) — draw on multiple traditions without privileging any single one. *Expand* the scope of IR theory, not replace it.==
 
 ### 2.10 The dangers of exceptionalism
 
-- "Asian values" was used to justify authoritarian governance (Singapore, Malaysia in the 1990s).
-- **Tianxia** ("all under heaven") and tributary nostalgia romanticise hierarchy and essentialise Chinese civilisation.
-- It mirrors Western universalism in reverse — replacing one provincialism with another.
-- Homogenises "Asia" — treats a vast, diverse continent as a single intellectual tradition.
+- =="Asian values" was used to justify authoritarian governance (Singapore, Malaysia in the 1990s).==
+- ==**Tianxia** ("all under heaven") and tributary nostalgia romanticise hierarchy and essentialise Chinese civilisation.==
+- ==It mirrors Western universalism in reverse — replacing one provincialism with another.==
+- ==Homogenises "Asia" — treats a vast, diverse continent as a single intellectual tradition.==
 
 ### 2.11 What is Global IR? (the constructive proposal)
 

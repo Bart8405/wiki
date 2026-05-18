@@ -9,7 +9,9 @@ Each project is a self-contained second brain. Click into a project's `index.md`
 | [indonesia-carbon-market](projects/indonesia-carbon-market/index.md) | Political economy of the Indonesian voluntary carbon market — Verra & Gold Standard projects, companies, named officers | 2026-05-09 |
 | [Thematic seminar essay](projects/Thematic%20seminar%20essay/index.md) | Seminar essay on Indonesian carbon pricing — why ETS-first, how the NEK ETS works, and applying the developing-country playbook | 2026-05-16 |
 | [personal](projects/personal/index.md) | Personal health, lifestyle, and miscellaneous topics | 2026-05-18 |
-| [economics](projects/economics/index.md) | Personal economics — investing, personal finances, gifts | 2026-05-18 |
+| [investing](projects/investing/index.md) | Personal investing — stocks, ETFs, portfolio, market research | 2026-05-18 |
+| [personal-finance](projects/personal-finance/index.md) | Budgets, expenses, savings, subscriptions, banking | 2026-05-18 |
+| [gifts](projects/gifts/index.md) | Gift ideas per person, occasions, budgets, past gifts | 2026-05-18 |
 
 ## Adding a new project
 

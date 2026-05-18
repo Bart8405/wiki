@@ -184,7 +184,7 @@ This is the key payoff for Acharya: NWIRT cannot just demand that "non-Western s
 - ASEAN states + Japan are investing in air and naval weapons — at least partly driven by China's rise.
 - Manila's renewed security ties with Washington partly reflect fear of Chinese encroachment on Spratly Islands.
 - Kang confuses **economic self-interest** with **bandwagoning**. Japan's economic ties with China are about absolute gains + free-riding on US power — *not* deference. The 1997 Revised Guidelines that revitalised Japan-US alliance confirm Japan has not forsaken balancing.
-- Kang says "threats arise through the mere existence of capabilities" — but Walt's **balance of threat** theory shows states balance against *threats*, not raw power. Otherwise the US would be the one being balanced against.
+- Kang says "threats arise through the mere existence of capabilities" — but ==Walt's **balance of threat** theory shows states balance against *threats*,== not raw power. Otherwise the US would be the one being balanced against.
 
 ### 3.3 The key alternative concept — **double-binding**
 
@@ -202,7 +202,7 @@ Some call ASEAN's posture **"hedging"** (not sure whether to balance, bandwagon 
 
 ### 3.5 Why Asia is not "ripe for rivalry" — Acharya's positive account
 
-- **Economic interdependence** constrains Chinese strategic options (Hong Kong Economic Journal editorial on the 1999 cross-Strait crisis: war would ruin China's coastal economy — Beijing cannot afford it).
+- ==**Economic interdependence** constrains Chinese strategic options (Hong Kong Economic Journal editorial on the 1999 cross-Strait crisis: war would ruin China's coastal economy — Beijing cannot afford it).==
 - **Norms of sovereignty and non-interference** — developed at the 1955 **Bandung** conference (Asian and African states), and institutionalised within ASEAN (1967) and ARF (1994). Note **norm ≠ organization**: even before ASEAN existed, the norms did.
 - The "thin gruel" of Asian institutions (Friedberg's phrase) is a **dietary preference**, designed to preserve hard-earned sovereignty — not a primordial cultural trait.
 - Asian regionalism is **conservative and norm-preserving** (unlike the EU which is transformative). Non-interference is the central preserved norm.

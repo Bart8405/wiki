@@ -128,16 +128,17 @@ Two key mechanisms — these are highly examinable:
 
 - **Constitutive localization** — foreign ideas *blend into* local normative settings (two-way process). Example: Asian regional security architecture borrowed multilateralism but reshaped it via the "ASEAN Way" (consensus, non-interference).
 - **Subsidiarity (Acharya sense)** — local norms diffuse *outward* into global governance. Local actors use this to preserve their autonomy from dominant central actors.
+%%Are both of these happening at the same time or should it be like that or is it good/bad? Give more context%%
 
 Note: this is different from the EU usage of "subsidiarity" (decisions at lowest possible level). On the exam, be clear which one you mean.
 
 ### 2.12 Global IR in practice (already happening)
 
-- **Nonintervention / nonalignment** — championed by Asian and African states, now foundational global norms.
-- **ASEAN regionalism** — consensus-based, sovereignty-respecting alternative to the EU model.
-- **Human security** — conceptualised by Mahbub ul Haq (Pakistan), adopted globally via UNDP.
-- **ZOPFAN** (Zone of Peace, Freedom and Neutrality) — Southeast Asian initiative to keep the region free from great-power competition.
-
+- ==**Nonintervention / nonalignment** — championed by Asian and African states, now foundational global norms.==
+- ==**ASEAN regionalism** — consensus-based, sovereignty-respecting alternative to the EU model.==
+- ==**Human security** — conceptualised by Mahbub ul Haq (Pakistan), adopted globally via UNDP.==
+- ==**ZOPFAN** (Zone of Peace, Freedom and Neutrality) — Southeast Asian initiative to keep the region free from great-power competition.==
+%%also with these - include them in the review file for IRO for week 4 and on top of the review file in the overall index as always ofc but as well, include these terms in the relevant Geopolitics files (ZOFPAN for ASEAN etc.) - idk if there is any other place to put these concepts, do I have a broad concepts file where every concept that I highlight gets saved? If not, maybe there should be one? What do you think - explore the options with me when I do the extract highlights command and you read this%%
 ### 2.13 Case study: IR in postcolonial South Korea ("twisted postcoloniality")
 
 A specific demonstration of structural barriers:

@@ -4,6 +4,14 @@ _Concepts and questions automatically extracted from your notes._
 
 **Last updated:** 2026-05-17
 
+## Table of Contents
+
+- [[#Lecture 1 — Ways of Knowing]]
+- [[#Lecture 2 — Knowledge, Truth and Facts]]
+- [[#Lecture 3 — Scientific Laws and Induction]]
+
+---
+
 ## All Terms
 
 | Term | Source | One-liner |
@@ -49,7 +57,7 @@ The practical tip for your PoS exam: when you're asked to classify a method, ask
 **Connected to:** → [[#stikstofcrisis|stikstofcrisis]] — the stikstofcrisis example shows what happens when a problem *requires both* approaches: you need nomothetic science (chemistry laws for nitrogen reactions) and idiographic/contextual knowledge (the specific history of Dutch land use policy) simultaneously.
 
 **Seen in:**
-- [Lecture 1 - Ways of Knowing.md:L20](projects/finals-y2-s2/PoS/Summaries/Lecture%201%20-%20Ways%20of%20Knowing.md) — *"==Understanding the meaning of *contingent, unique, often subjective* outcomes. Typical of the human sciences==. %%Question - what is the difference or connection...%%"*
+- [[Lecture 1 - Ways of Knowing#Key concepts — definitions|Lecture 1 - Ways of Knowing.md:L20]] — *"==Understanding the meaning of *contingent, unique, often subjective* outcomes. Typical of the human sciences==. %%Question - what is the difference or connection...%%"*
 
 **Sources:** Windelband (1894) rectoral address; Lecture 1 summary context.
 
@@ -64,7 +72,7 @@ The practical tip for your PoS exam: when you're asked to classify a method, ask
 **Connected to:** → [[#idiographic approach|idiographic approach]] — the stikstofcrisis needs both nomothetic science (chemistry laws, ecological models) and idiographic/contextual understanding (Dutch political history, specific EU legal context). Windelband's distinction isn't just academic: it tells you which tools each discipline brings to the table.
 
 **Seen in:**
-- [Lecture 1 - Ways of Knowing.md:L24](projects/finals-y2-s2/PoS/Summaries/Lecture%201%20-%20Ways%20of%20Knowing.md) — *"Lecture's example: ==the Dutch *stikstofcrisis*== needs chemistry + ecology + political science + economics + history"*
+- [[Lecture 1 - Ways of Knowing#Key concepts — definitions|Lecture 1 - Ways of Knowing.md:L24]] — *"Lecture's example: ==the Dutch *stikstofcrisis*== needs chemistry + ecology + political science + economics + history"*
 
 ---
 
@@ -92,8 +100,8 @@ The practical tip for your PoS exam: when you're asked to classify a method, ask
 **Connected to:** → [[#Gettier problem|Gettier problem]] — Gettier accepts the correspondence theory (JTB requires truth, i.e. a corresponding fact) but shows that even having a true belief doesn't guarantee you *know* — the connection between your belief and the fact can be accidental.
 
 **Seen in:**
-- [Lecture 2 - Knowledge Truth and Facts.md:L24](projects/finals-y2-s2/PoS/Summaries/Lecture%202%20-%20Knowledge%20Truth%20and%20Facts.md) — *"==**Correspondence theory of truth**=="*
-- [Lecture 2 - Knowledge Truth and Facts.md:L60](projects/finals-y2-s2/PoS/Summaries/Lecture%202%20-%20Knowledge%20Truth%20and%20Facts.md) — *"==**Facts** are **truthmakers**=="*
+- [[Lecture 2 - Knowledge Truth and Facts#Key concepts — definitions|Lecture 2 - Knowledge Truth and Facts.md:L24]] — *"==**Correspondence theory of truth**=="*
+- [[Lecture 2 - Knowledge Truth and Facts#What is a fact?|Lecture 2 - Knowledge Truth and Facts.md:L60]] — *"==**Facts** are **truthmakers**=="*
 
 **Sources:** Bertrand Russell, *Problems of Philosophy* (1912); Lecture 2 summary.
 
@@ -108,7 +116,7 @@ The practical tip for your PoS exam: when you're asked to classify a method, ask
 **Connected to:** → [[#correspondence theory of truth + facts as truthmakers|correspondence theory of truth + facts as truthmakers]] — Gettier cases work *because* there's a fact (it IS 3:15) that makes your belief true, but the connection between your justification and that fact is coincidental. The problem is about the *relationship* between truth and justification, not truth itself.
 
 **Seen in:**
-- [Lecture 2 - Knowledge Truth and Facts.md:L28](projects/finals-y2-s2/PoS/Summaries/Lecture%202%20-%20Knowledge%20Truth%20and%20Facts.md) — *"==**Gettier problem**=="*
+- [[Lecture 2 - Knowledge Truth and Facts#Key concepts — definitions|Lecture 2 - Knowledge Truth and Facts.md:L28]] — *"==**Gettier problem**=="*
 
 **Sources:** Gettier, E.L. (1963) "Is Justified True Belief Knowledge?" *Analysis* 23(6): 121–123.
 
@@ -136,8 +144,8 @@ The practical tip for your PoS exam: when you're asked to classify a method, ask
 **Connected to:** → [[#problem of induction + pragmatic warrant|problem of induction + pragmatic warrant]] — Hume's regularity view is what leads directly to the problem of induction: if laws are just observed patterns, there's no logical guarantee the pattern continues.
 
 **Seen in:**
-- [Lecture 3 - Scientific Laws and Induction.md:L21](projects/finals-y2-s2/PoS/Summaries/Lecture%203%20-%20Scientific%20Laws%20and%20Induction.md) — *"==**Regularity view of laws**=="*
-- [Lecture 3 - Scientific Laws and Induction.md:L22](projects/finals-y2-s2/PoS/Summaries/Lecture%203%20-%20Scientific%20Laws%20and%20Induction.md) — *"==**Necessity view of laws**=="*
+- [[Lecture 3 - Scientific Laws and Induction#Key concepts — definitions|Lecture 3 - Scientific Laws and Induction.md:L21]] — *"==**Regularity view of laws**=="*
+- [[Lecture 3 - Scientific Laws and Induction#Key concepts — definitions|Lecture 3 - Scientific Laws and Induction.md:L22]] — *"==**Necessity view of laws**=="*
 
 ---
 
@@ -156,9 +164,9 @@ The practical tip for your PoS exam: when you're asked to classify a method, ask
 **Connected to:** → [[#problem of induction + pragmatic warrant|problem of induction + pragmatic warrant]] — the fact that induction is ampliative is precisely what creates the problem of induction: the conclusion goes beyond the evidence, so there's no logical guarantee it's correct.
 
 **Seen in:**
-- [Lecture 3 - Scientific Laws and Induction.md:L23](projects/finals-y2-s2/PoS/Summaries/Lecture%203%20-%20Scientific%20Laws%20and%20Induction.md) — *"==**Induction**=="*
-- [Lecture 3 - Scientific Laws and Induction.md:L24](projects/finals-y2-s2/PoS/Summaries/Lecture%203%20-%20Scientific%20Laws%20and%20Induction.md) — *"==**Deduction**=="*
-- [Lecture 3 - Scientific Laws and Induction.md:L25](projects/finals-y2-s2/PoS/Summaries/Lecture%203%20-%20Scientific%20Laws%20and%20Induction.md) — *"==**Ampliative reasoning**== %%induction does but deduction does not? I dont understand - in what way?%%"*
+- [[Lecture 3 - Scientific Laws and Induction#Key concepts — definitions|Lecture 3 - Scientific Laws and Induction.md:L23]] — *"==**Induction**=="*
+- [[Lecture 3 - Scientific Laws and Induction#Key concepts — definitions|Lecture 3 - Scientific Laws and Induction.md:L24]] — *"==**Deduction**=="*
+- [[Lecture 3 - Scientific Laws and Induction#Key concepts — definitions|Lecture 3 - Scientific Laws and Induction.md:L25]] — *"==**Ampliative reasoning**== %%induction does but deduction does not? I dont understand - in what way?%%"*
 
 ---
 
@@ -180,8 +188,8 @@ The practical tip for your PoS exam: when you're asked to classify a method, ask
 **Connected to:** → [[#induction + deduction + ampliative reasoning|induction + deduction + ampliative reasoning]] — the problem of induction only exists *because* induction is ampliative: it steps beyond the evidence, leaving a logical gap that cannot be closed; → [Duverger's law](#duvergers-law) — Duverger's law is itself an inductive generalisation from electoral systems observed so far; the problem of induction applies to it directly.
 
 **Seen in:**
-- [Lecture 3 - Scientific Laws and Induction.md:L26](projects/finals-y2-s2/PoS/Summaries/Lecture%203%20-%20Scientific%20Laws%20and%20Induction.md) — *"==**Problem of induction (Hume)**== %%Describe how we should justify induction inductively and deductively%%"*
-- [Lecture 3 - Scientific Laws and Induction.md:L27](projects/finals-y2-s2/PoS/Summaries/Lecture%203%20-%20Scientific%20Laws%20and%20Induction.md) — *"==**Pragmatic warrant** (Reichenbach, Braithwaite)=="*
+- [[Lecture 3 - Scientific Laws and Induction#Key concepts — definitions|Lecture 3 - Scientific Laws and Induction.md:L26]] — *"==**Problem of induction (Hume)**== %%Describe how we should justify induction inductively and deductively%%"*
+- [[Lecture 3 - Scientific Laws and Induction#Key concepts — definitions|Lecture 3 - Scientific Laws and Induction.md:L27]] — *"==**Pragmatic warrant** (Reichenbach, Braithwaite)=="*
 
 **Sources:** Hume, *Enquiry Concerning Human Understanding* (1748) §IV; Reichenbach, *Experience and Prediction* (1938).
 
@@ -197,7 +205,7 @@ The practical tip for your PoS exam: when you're asked to classify a method, ask
 **Connected to:** → [[#problem of induction + pragmatic warrant|problem of induction + pragmatic warrant]] — Duverger's law is used in the lecture as an example of a law-like claim in social science; as an inductive generalisation, it's subject to Hume's problem — it holds for observed cases but can't be logically guaranteed to hold universally; → [[#regularity view vs necessity view of laws|regularity view vs necessity view of laws]] — is Duverger's law a *necessary* feature of plurality systems, or just an observed regularity that happens to hold so far?
 
 **Seen in:**
-- [Lecture 3 - Scientific Laws and Induction.md:L28](projects/finals-y2-s2/PoS/Summaries/Lecture%203%20-%20Scientific%20Laws%20and%20Induction.md) — *"==**Duverger's law**== %%what is a plurality-rule es?%%"*
+- [[Lecture 3 - Scientific Laws and Induction#Key concepts — definitions|Lecture 3 - Scientific Laws and Induction.md:L28]] — *"==**Duverger's law**== %%what is a plurality-rule es?%%"*
 
 **Sources:** Duverger, M. (1954) *Political Parties*; Lecture 3 summary.
 

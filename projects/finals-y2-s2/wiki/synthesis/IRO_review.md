@@ -4,6 +4,17 @@ _Concepts and questions automatically extracted from your notes._
 
 **Last updated:** 2026-05-18
 
+## Table of Contents
+
+- [[#Week 4 — Non-Western IR Theory (Denney)]]
+- [[#Week 6 — Global Migration: Mobility and Security]]
+- [[#Week 7 — War, Peace, and International Security (Wolff)]]
+- [[#Week 8 — Power, Liberalism, and World Order (Wolff)]]
+- [[#Week 11 — Globalization and Populism (Denney)]]
+- [[#Week 12 — Anthropocene and Global Futures (Denney)]]
+
+---
+
 ## All Terms
 
 | Term | Source | One-liner |

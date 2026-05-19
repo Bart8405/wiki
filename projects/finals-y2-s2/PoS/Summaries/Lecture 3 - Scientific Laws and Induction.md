@@ -267,3 +267,24 @@ The lecture describes democratic peace theory as inspired by Kant's *Perpetual P
 **Common mistake to avoid:** Treating the necessity view as obviously correct. The regularity view has a serious philosophical tradition (Hume himself) and the necessity view faces hard questions about what "necessity" even means.
 
 </details>
+
+---
+
+## One-page revision sheet
+
+**What's a scientific law?** Two views:
+- **Regularity view (Hume):** laws *describe* what regularly happens.
+- **Necessity view:** laws describe what *must* happen (causation, not just correlation).
+
+**Induction:** reasoning from particulars to a general claim. ==**Ampliative** — goes beyond the premises.== Deduction just unpacks what's already there.
+
+**Hume's problem of induction:** induction can't be justified deductively (no necessary connection) and not inductively without circularity. We have no rational warrant for expecting tomorrow to resemble today.
+
+**Reichenbach's pragmatic warrant:** if any method works, induction is the best bet. Pragmatic, not metaphysical, justification.
+
+**Duverger's law (social-science example):** FPTP → two parties; PR → many parties.
+
+**Key thinker:** David Hume — *An Enquiry Concerning Human Understanding* (1748).
+
+**Line to remember:**
+> *"We have no other notion of cause and effect, but that of certain objects, which have been always conjoin'd together."* — Hume

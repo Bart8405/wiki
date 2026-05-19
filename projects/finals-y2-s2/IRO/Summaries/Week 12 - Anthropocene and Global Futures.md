@@ -257,3 +257,32 @@ The lecture's critical point: "resilience" sounds neutral but can become a way o
 **Good example for AI:** The space frontier point about a 1960s treaty regime for a 21st-century industry — same logic applies to AI governance: institutions designed for an earlier problem-set.
 
 </details>
+
+---
+
+## One-page revision sheet
+
+**Frame:** Is the IR toolkit equipped for planetary problems? Mitchell: the discipline keeps extinction in the footnotes.
+
+**Section A — Mitchell's central claim:**
+- Extinction is now a stake; IR claims to be a "theory of survival" yet has no framework for it.
+- ==**Structural mismatch:** IR's unit is the state (bounded, territorial, short-term); planetary processes (climate, biodiversity) cross borders and operate on geological timescales.==
+- **The ontological gap:** standard response is *better management* (treaties, targets) — but the field cannot yet *think* the loss of life forms.
+- **Anthropocentrism = blind spot:** IR centers "humanity" as the only subject; nonhumans = backdrop; taboo is *structural, not evidential*.
+- **Mitchell proposes:** post-humanism, planetary thinking, cosmopolitics, ethics of gratitude beyond survival.
+
+**Section B — four future challenges:**
+1. **Technology / AI:** capability outruns governance; dual-use; autonomy in weapons; risk unevenly distributed.
+2. **Space frontier:** great-power competition extended beyond Earth; 1960s treaties for a different industry; SpaceX-era private actors.
+3. **Ecology / planetary boundaries:** nine boundaries (climate, biodiversity, biogeochemical, freshwater, land-use, ocean acid, aerosols, ozone, novel entities); several already exceeded; tipping points are nonlinear; "resilience" can shift costs onto the vulnerable.
+4. **Migration:** climate displacement at unprecedented scale; refugee law for a different crisis; internal > cross-border; border politics shaped by *anticipated* flows. **Fertility decline / global relationship recession** (Burn-Murdoch 2025) — TFR<2.1 reshapes labor, pensions, migration, geopolitical balance.
+
+**Course through-lines (closing):**
+1. Constructivism + Global IR — sister critiques of mainstream.
+2. Nationalism (structure) vs populism (repertoire) — analytically separable, empirically fused.
+3. Rodrik's trilemma — runs through Weeks 8, 11, 12.
+
+**Meta-lesson:** IR is a contested toolkit. Every tool answers a different question. Post-1989 settlement frays at multiple seams.
+
+**Line to remember (close):**
+> *"We are more connected than ever — but are we more together?"* — Denney close

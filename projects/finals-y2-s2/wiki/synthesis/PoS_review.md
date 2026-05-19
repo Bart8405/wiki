@@ -210,3 +210,254 @@ The practical tip for your PoS exam: when you're asked to classify a method, ask
 **Sources:** Duverger, M. (1954) *Political Parties*; Lecture 3 summary.
 
 ---
+
+---
+
+## One-Page Revision Sheets
+
+*Cheat sheets for each lecture, pulled from the corresponding summary file.*
+
+### Lecture 1 — Ways of Knowing
+
+**Key distinction:** ==**Nomothetic vs. idiographic** (Windelband, 1894).==
+- Nomothetic = seeking general laws (natural sciences).
+- Idiographic = understanding unique particulars in context (human sciences).
+- The divide is a *choice of approach*, not of topic — you can study a society either way.
+
+**Why multidisciplinarity matters:** the Dutch *stikstofcrisis* needs chemistry + ecology + politics + economics + history. No single discipline solves it.
+
+**Connection to other axes:** nomothetic / idiographic is about *goal*; deductive / inductive is about *method*. Independent dimensions.
+
+**Key thinker:** Wilhelm Windelband (1848–1915) — neo-Kantian philosopher.
+
+**Line to remember:**
+> *"The nomothetic disciplines aim at general laws, the idiographic at the description of single, particular events."* — Windelband (1894)
+
+---
+
+### Lecture 2 — Knowledge, Truth and Facts
+
+**JTB account of knowledge** (Plato, *Theaetetus*): "A knows P" iff (1) P is true, (2) A believes P, (3) A is justified in believing P. Justification rules out lucky guesses.
+
+==**Correspondence theory of truth** (Russell, 1912):== a proposition is true iff a fact corresponds to it. *"Snow is white"* is true because snow IS white.
+
+**Facts are truthmakers; propositions are truthbearers.** Facts themselves are neither true nor false — they just *are* (like planets).
+
+**Belief is private; knowledge is public.** Two people can hold opposite *beliefs*; they cannot both *know* opposite things.
+
+**Gettier problem:** rare cases where JTB holds but we deny knowledge (e.g. correct conclusion from wrong reason). Motivates "JTB+".
+
+**Key thinker:** Bertrand Russell — *Problems of Philosophy* (1912).
+
+**Line to remember:**
+> *"Minds do not create truth or falsehood. They create beliefs, but when once the beliefs are created, the mind cannot make them true or false."* — Russell
+
+---
+
+### Lecture 3 — Scientific Laws and Induction
+
+**What's a scientific law?** Two views:
+- **Regularity view (Hume):** laws *describe* what regularly happens.
+- **Necessity view:** laws describe what *must* happen (causation, not just correlation).
+
+**Induction:** reasoning from particulars to a general claim. ==**Ampliative** — goes beyond the premises.== Deduction just unpacks what's already there.
+
+**Hume's problem of induction:** induction can't be justified deductively (no necessary connection) and not inductively without circularity. We have no rational warrant for expecting tomorrow to resemble today.
+
+**Reichenbach's pragmatic warrant:** if any method works, induction is the best bet. Pragmatic, not metaphysical, justification.
+
+**Duverger's law (social-science example):** FPTP → two parties; PR → many parties.
+
+**Key thinker:** David Hume — *An Enquiry Concerning Human Understanding* (1748).
+
+**Line to remember:**
+> *"We have no other notion of cause and effect, but that of certain objects, which have been always conjoin'd together."* — Hume
+
+---
+
+### Lecture 4 — Explanations and Causes (Hempel)
+
+==**Hempel's two models of explanation:**==
+- **Deductive-Nomological (DN):** explanation = deductive argument from law(s) + initial conditions → explanandum. *Symmetry of explanation and prediction.*
+- **Inductive-Statistical (IS):** explanation = high-probability inference under statistical law. Asymmetric — explain backwards, can't predict perfectly.
+
+**Conditions for adequate explanation:** logical (deducibility) + empirical (truth of premises) + relevant laws.
+
+**Classic problems:**
+- **Asymmetry:** the flagpole and its shadow — you can "explain" the flagpole's height from the shadow under DN, but that gets cause backwards.
+- **Irrelevance:** Mr. Smith took birth-control pills and did not get pregnant — DN-compliant but absurd.
+- The actual cause ≠ lawlike covariance.
+
+**Key thinker:** Carl Hempel — *Aspects of Scientific Explanation* (1965).
+
+**Line to remember:**
+> *"An adequate explanation must show that the explanandum was to be expected, given the laws and antecedent conditions."* — Hempel
+
+---
+
+### Lecture 5 — Falsificationism (Popper)
+
+**The demarcation problem:** what separates science from non-science? ==**Popper: falsifiability.**==
+
+**Core moves:**
+- Confirmation can never prove a theory (Hume's problem of induction).
+- One failed prediction can falsify it.
+- Bold conjectures > safe ones; theories should be *highly* falsifiable.
+
+**Targets:** Marxism, Freud, Adler — "explain everything" → unfalsifiable → not scientific.
+
+**Method:** conjectures and refutations. Theories tentatively accepted, never proven, provisional.
+
+**Limits and critiques:**
+- **Quine–Duhem:** tests are holistic; you can always blame an auxiliary assumption rather than the core theory.
+- **Lakatos:** science = research programmes with hard core + protective belt; cores are not directly tested.
+
+**Key thinker:** Karl Popper — *The Logic of Scientific Discovery* (1934).
+
+**Line to remember:**
+> *"Good tests kill flawed theories; we remain alive to guess again."* — Popper
+
+---
+
+### Lecture 6 — Paradigms and Revolutions (Kuhn)
+
+**Core concepts:**
+- ==**Paradigm:** constellation of shared assumptions, exemplars, methods that defines normal science.==
+- **Normal science:** puzzle-solving within the paradigm.
+- **Anomalies** accumulate → **crisis** → **scientific revolution** → new paradigm.
+- **Incommensurability:** competing paradigms can't be fully compared in neutral terms.
+
+**Kuhn vs Popper:** Popper says scientists *should* try to refute; Kuhn says they normally *don't* — they save the paradigm until crisis.
+
+**Key examples:** Copernican revolution, Einsteinian physics, plate tectonics.
+
+**Implications:** science is not steady accumulation of truth but punctuated by ruptures. Sociological turn — what counts as good science is community-dependent.
+
+**Key thinker:** Thomas Kuhn — *The Structure of Scientific Revolutions* (1962).
+
+**Line to remember:**
+> *"Normal science does not aim at novelties of fact or theory and, when successful, finds none."* — Kuhn
+
+---
+
+### Lecture 7 — Analogies and Models (Hesse)
+
+**Why models matter:** scientific theories often work via analogies to simpler / familiar systems.
+
+==**Hesse's three components of analogy:**==
+- **Positive analogy:** known similarities.
+- **Negative analogy:** known differences.
+- **Neutral analogy:** unknown — *the productive frontier of the model.*
+
+**Examples:** atom-as-solar-system; brain-as-computer; market-as-organism.
+
+**Models are not pictures of reality:** heuristic tools whose *neutral analogy* generates new hypotheses.
+
+**Implications:** modelling is constitutive of theory-building, not just illustration. The choice of model shapes which questions you can ask.
+
+**Key thinker:** Mary Hesse — *Models and Analogies in Science* (1963).
+
+**Line to remember:**
+> *"It is in the neutral analogy that the predictive power of a model lies."* — Hesse
+
+---
+
+### Lecture 8 — Quantitative and Qualitative Approaches (Goertz & Mahoney)
+
+**Core claim:** there are ==**two cultures** in social science with distinct logics== — not a hierarchy.
+
+**Goertz & Mahoney's two logics:**
+
+| Dimension | Quantitative | Qualitative |
+|---|---|---|
+| Approach to cases | Sample → infer about population | Each case as a unit of analysis |
+| Causation | Correlational / probabilistic | Necessary / sufficient conditions; INUS |
+| Generalisation | Statistical | Set-theoretic, scope-bounded |
+| Membership | Variables (continuous) | Sets (crisp / fuzzy boundaries) |
+| Logic | Correlation | Implication |
+
+**Implication for research design:** the logic must match the question. Quant for population-level patterns; qual for mechanisms and necessary conditions.
+
+**Key thinker:** Gary Goertz & James Mahoney — *A Tale of Two Cultures* (2012).
+
+**Line to remember:**
+> *"The two cultures differ not in their rigor but in their logic."* — G&M
+
+---
+
+### Lecture 9 — Rationality (Simon)
+
+==**Bounded rationality** (Simon, 1955):== real decision-makers are constrained by:
+- Limited cognitive capacity.
+- Incomplete information.
+- Time constraints.
+
+**Implication:** people **satisfice** ("good enough"), they don't optimise.
+
+**Contrast with rational choice theory:** assumes utility maximisation, complete preferences, perfect information.
+
+**Behavioural-economics extension:** Kahneman & Tversky — prospect theory, framing effects, heuristics, biases (anchoring, availability, representativeness).
+
+**Implications for IR / policy:** state behaviour cannot be modeled as pure utility-maximisation; cognitive constraints, organisational routines, and politics intervene.
+
+**Key thinker:** Herbert Simon — *A Behavioral Model of Rational Choice* (1955).
+
+**Line to remember:**
+> *"Boundedly rational agents experience limits in formulating and solving complex problems and in processing information."* — Simon
+
+---
+
+### Lecture 10 — Interpretation and Understanding (Dilthey)
+
+==**Verstehen** = understanding== (vs. *Erklärung* — causal explanation). The human sciences aim to *grasp meaning* from within, not subsume under laws.
+
+**Hermeneutic circle:** understanding a whole requires understanding its parts; understanding parts requires the whole. Iterative.
+
+**Key insight:** human action is meaningful — it must be interpreted from the agent's perspective. Not a deficit of method but a different ontology.
+
+**Contrast with positivism:** positivists try to make the human sciences look like physics. Dilthey says this misses what makes them human.
+
+**Implications:** social science needs *both* methods — explanation and understanding — depending on the question.
+
+**Key thinker:** Wilhelm Dilthey (1833–1911) — German philosopher, hermeneutics tradition (Schleiermacher → Heidegger → Gadamer).
+
+**Line to remember:**
+> *"We explain nature; we understand mental life."* — Dilthey
+
+---
+
+### Lecture 11 — Absolutism and Relativism (Winch / Lukes; Azande)
+
+**The Azande case:** Evans-Pritchard's ethnography of Zande witchcraft beliefs. Are they irrational? Winch says no — they have their *own* rationality, internally coherent.
+
+==**Winch's argument:** standards of rationality are *internal* to a form of life.== Calling Zande beliefs irrational imposes an alien standard.
+
+**Lukes's critique:** some standards (e.g. logical consistency) must be *universal* or no cross-cultural understanding is possible. Strong relativism is self-undermining.
+
+**Bridgehead argument:** translation requires SOME shared rationality — otherwise we couldn't recognise other beliefs as beliefs at all.
+
+**Implications:** the rationality debate is about the limits of cross-cultural understanding. Not just anthropology — also IR (e.g. understanding non-Western states on their own terms).
+
+**Key thinkers:** Peter Winch (*The Idea of a Social Science*, 1958); Steven Lukes (*Some Problems about Rationality*, 1967).
+
+**Line to remember:**
+> *"Reality is not what gives language sense. What is real and what is unreal shows itself in the sense that language has."* — Winch
+
+---
+
+Zande witchcraft beliefs. Are they irrational? Winch says no — they have their *own* rationality, internally coherent.
+
+==**Winch's argument:** standards of rationality are *internal* to a form of life.== Calling Zande beliefs irrational imposes an alien standard.
+
+**Lukes's critique:** some standards (e.g. logical consistency) must be *universal* or no cross-cultural understanding is possible. Strong relativism is self-undermining.
+
+**Bridgehead argument:** translation requires SOME shared rationality — otherwise we couldn't recognise other beliefs as beliefs at all.
+
+**Implications:** the rationality debate is about the limits of cross-cultural understanding. Not just anthropology — also IR (e.g. understanding non-Western states on their own terms).
+
+**Key thinkers:** Peter Winch (*The Idea of a Social Science*, 1958); Steven Lukes (*Some Problems about Rationality*, 1967).
+
+**Line to remember:**
+> *"Reality is not what gives language sense. What is real and what is unreal shows itself in the sense that language has."* — Winch
+
+---

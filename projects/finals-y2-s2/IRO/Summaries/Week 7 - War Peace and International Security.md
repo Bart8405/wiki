@@ -250,3 +250,42 @@ Security communities go beyond mere alliances — they are zones where war is no
 
 </details>
 
+---
+
+## One-page revision sheet
+
+**Frame:** War is not a natural fact but a contested concept. The lecture moves from definitions through IR theories to Barkawi's decolonial critique.
+
+**Definition trouble:**
+- UN "major conflict" = ≥1,000 deaths/year — arbitrary; excludes the Falklands.
+- Types: Blitzkrieg (speed), Total War (society mobilised), Hegemonic, Guerrilla, Revolutionary.
+
+**IR theory takes on war:**
+- **Realism (Clausewitz):** *"War is the continuation of political intercourse by other means."* War = power. Peace and war are NOT opposites.
+- **Liberalism:** war is solvable — IOs, free trade, democracy (Deudney & Ikenberry 1999). Democratic peace theory.
+- **Idealism:** perpetual peace (Kant); collective security; security communities (Deutsch 1957); Just War.
+- **Postcolonialism:** world is hierarchical, not anarchic. Brings race, gender, class.
+
+**Just War Theory:**
+- **Jus ad bellum** (6): last resort · just cause · legitimate authority · right intention · reasonable prospect · proportionality.
+- **Jus in bello** (3): discrimination · proportionality · humanity.
+
+**Barkawi — decolonising war (3 Eurocentric building blocks to attack):**
+1. War/peace are opposites → replace with battle/repression schema where force is *ordinary* politics.
+2. War is between sovereign states → situate in transnational/imperial hierarchies.
+3. War is international or civil → colonial wars don't fit either box.
+
+==Insight: "Small Wars" (colonial uprisings) get dismissed as not-war. The Eurocentric definition is the problem, not the geographic focus.==
+
+**New wars:**
+- Kilcullen 2020: US 1991 military model no longer working.
+- "Snakes & Dragons": non-state actors + Russia/China refusing US orbit. China's "three warfares" — psychological, public opinion, lawfare.
+- PMSI: 1 in 4 US personnel in Iraq/Afghanistan was a private contractor (2016). Montreux Document 2008.
+- War on Terror became "a threat without enemies."
+
+**Re-Arm Europe (2025):** €800B plan, SAFE lending instrument, response to Ukraine.
+
+**Lines to memorise:**
+> *"War is simply a continuation of political intercourse, with the addition of other means."* — Clausewitz
+
+> *"America is not at war. The Marine Corps is at war. America is at the mall."* — quoted in Barkawi

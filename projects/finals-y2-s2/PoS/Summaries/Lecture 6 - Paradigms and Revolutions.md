@@ -263,3 +263,24 @@ The pre-Kuhn picture (which Popper largely shared) held that science progresses 
 **Common mistake to avoid:** Treating Popper and Kuhn as simply in conflict about the *same* question. Popper is offering a normative account of *how science should work*; Kuhn is offering a descriptive account of *how science actually does work*. The comparison is partially between two different types of claim.
 
 </details>
+
+---
+
+## One-page revision sheet
+
+**Core concepts:**
+- ==**Paradigm:** constellation of shared assumptions, exemplars, methods that defines normal science.==
+- **Normal science:** puzzle-solving within the paradigm.
+- **Anomalies** accumulate → **crisis** → **scientific revolution** → new paradigm.
+- **Incommensurability:** competing paradigms can't be fully compared in neutral terms.
+
+**Kuhn vs Popper:** Popper says scientists *should* try to refute; Kuhn says they normally *don't* — they save the paradigm until crisis.
+
+**Key examples:** Copernican revolution, Einsteinian physics, plate tectonics.
+
+**Implications:** science is not steady accumulation of truth but punctuated by ruptures. Sociological turn — what counts as good science is community-dependent.
+
+**Key thinker:** Thomas Kuhn — *The Structure of Scientific Revolutions* (1962).
+
+**Line to remember:**
+> *"Normal science does not aim at novelties of fact or theory and, when successful, finds none."* — Kuhn

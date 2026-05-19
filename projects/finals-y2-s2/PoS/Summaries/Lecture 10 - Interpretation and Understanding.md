@@ -279,3 +279,22 @@ This is the core asymmetry. Point at a falling stone and *then* explain it. But 
 **Common mistake to avoid:** Treating the absence of "sole authority" as implying that all interpretations are equally valid. The lecture's "sensitivity for ascriptions" requires engaging with how the people for whom the phenomenon plays a role understand it — that constraint limits interpretive arbitrariness.
 
 </details>
+
+---
+
+## One-page revision sheet
+
+==**Verstehen** = understanding== (vs. *Erklärung* — causal explanation). The human sciences aim to *grasp meaning* from within, not subsume under laws.
+
+**Hermeneutic circle:** understanding a whole requires understanding its parts; understanding parts requires the whole. Iterative.
+
+**Key insight:** human action is meaningful — it must be interpreted from the agent's perspective. Not a deficit of method but a different ontology.
+
+**Contrast with positivism:** positivists try to make the human sciences look like physics. Dilthey says this misses what makes them human.
+
+**Implications:** social science needs *both* methods — explanation and understanding — depending on the question.
+
+**Key thinker:** Wilhelm Dilthey (1833–1911) — German philosopher, hermeneutics tradition (Schleiermacher → Heidegger → Gadamer).
+
+**Line to remember:**
+> *"We explain nature; we understand mental life."* — Dilthey

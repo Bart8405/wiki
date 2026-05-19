@@ -250,3 +250,22 @@ Gettier (1963) produced counterexamples — scenarios where someone has a justif
 **Common mistake to avoid:** Concluding from "justified beliefs can be false" that we should stop trusting science. The argument shows only that science is fallible, not that all beliefs are equally (un)trustworthy.
 
 </details>
+
+---
+
+## One-page revision sheet
+
+**JTB account of knowledge** (Plato, *Theaetetus*): "A knows P" iff (1) P is true, (2) A believes P, (3) A is justified in believing P. Justification rules out lucky guesses.
+
+==**Correspondence theory of truth** (Russell, 1912):== a proposition is true iff a fact corresponds to it. *"Snow is white"* is true because snow IS white.
+
+**Facts are truthmakers; propositions are truthbearers.** Facts themselves are neither true nor false — they just *are* (like planets).
+
+**Belief is private; knowledge is public.** Two people can hold opposite *beliefs*; they cannot both *know* opposite things.
+
+**Gettier problem:** rare cases where JTB holds but we deny knowledge (e.g. correct conclusion from wrong reason). Motivates "JTB+".
+
+**Key thinker:** Bertrand Russell — *Problems of Philosophy* (1912).
+
+**Line to remember:**
+> *"Minds do not create truth or falsehood. They create beliefs, but when once the beliefs are created, the mind cannot make them true or false."* — Russell

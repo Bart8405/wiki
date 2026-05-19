@@ -262,3 +262,25 @@ The instrumentalist stance treats models as tools — like maps. A map that repr
 **Common mistake to avoid:** Confusing "useful" with "accurate." The whole point of the instrumentalist stance is that these are *independent* evaluations. A model can be accurate and useless, or inaccurate and very useful. The Bohr model was the latter.
 
 </details>
+
+---
+
+## One-page revision sheet
+
+**Why models matter:** scientific theories often work via analogies to simpler / familiar systems.
+
+==**Hesse's three components of analogy:**==
+- **Positive analogy:** known similarities.
+- **Negative analogy:** known differences.
+- **Neutral analogy:** unknown — *the productive frontier of the model.*
+
+**Examples:** atom-as-solar-system; brain-as-computer; market-as-organism.
+
+**Models are not pictures of reality:** heuristic tools whose *neutral analogy* generates new hypotheses.
+
+**Implications:** modelling is constitutive of theory-building, not just illustration. The choice of model shapes which questions you can ask.
+
+**Key thinker:** Mary Hesse — *Models and Analogies in Science* (1963).
+
+**Line to remember:**
+> *"It is in the neutral analogy that the predictive power of a model lies."* — Hesse

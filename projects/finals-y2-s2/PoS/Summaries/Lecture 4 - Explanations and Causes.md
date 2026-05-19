@@ -268,3 +268,23 @@ The same deductive argument structure can serve both explanation and prediction.
 **Common mistake to avoid:** Missing that the three insufficiencies (connections, determination, intervention) are listed in the lecture as *the* motivation for wanting explanations in the first place. Returning to them in the conclusion shows a strong grasp of the structure of the argument.
 
 </details>
+
+---
+
+## One-page revision sheet
+
+==**Hempel's two models of explanation:**==
+- **Deductive-Nomological (DN):** explanation = deductive argument from law(s) + initial conditions → explanandum. *Symmetry of explanation and prediction.*
+- **Inductive-Statistical (IS):** explanation = high-probability inference under statistical law. Asymmetric — explain backwards, can't predict perfectly.
+
+**Conditions for adequate explanation:** logical (deducibility) + empirical (truth of premises) + relevant laws.
+
+**Classic problems:**
+- **Asymmetry:** the flagpole and its shadow — you can "explain" the flagpole's height from the shadow under DN, but that gets cause backwards.
+- **Irrelevance:** Mr. Smith took birth-control pills and did not get pregnant — DN-compliant but absurd.
+- The actual cause ≠ lawlike covariance.
+
+**Key thinker:** Carl Hempel — *Aspects of Scientific Explanation* (1965).
+
+**Line to remember:**
+> *"An adequate explanation must show that the explanandum was to be expected, given the laws and antecedent conditions."* — Hempel

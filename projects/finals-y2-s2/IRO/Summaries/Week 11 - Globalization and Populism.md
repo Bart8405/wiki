@@ -269,3 +269,53 @@ The precariat is the labor underpinning of social thinning — service workers, 
 **Good example:** The US case is the clearest illustration — same country, same period, two populisms (Sanders + Trump) along different cleavages of the same crisis.
 
 </details>
+
+---
+
+## One-page revision sheet
+
+**Frame:** Three stacked layers explain why globalization produced populism.
+
+**The three-layer diagnosis:**
+
+| Author | Layer | Core claim |
+|---|---|---|
+| Heywood & Whitham | Sociological | Social ties thinned — community → networks |
+| Rodrik | Political-economic | Trilemma: globalization + nation-state + democracy — pick 2 |
+| Mishra | Psychological | Modernity promised dignity, didn't deliver — rage |
+
+**Layer 1 — society thinning:**
+- **Precariat** (Standing) — insecure / low-wage workers without industrial-era protections.
+- **Risk society** (Beck) — politics organised around *bads* (climate, pandemics).
+- **Liquid modernity** (Bauman) — family / class / profession dissolved.
+- **Network society** (Castells) — grievance moves faster than nuance.
+
+**Layer 2 — Rodrik's trilemma (5-country diagnosis):**
+
+| Country | Corner | Sacrifice |
+|---|---|---|
+| Greece (Eurozone) | Globalization + sovereignty (formal) | Substantive democracy (2015 referendum) |
+| Brexit UK | Sovereignty + democracy | Depth of globalization |
+| China | Globalization + nation-state | Democracy never on offer |
+| US Trump | Sovereignty + democracy | Depth rolled back |
+| Argentina Milei | Cycles between corners | Trilemma as treadmill, not fate |
+
+- ==**Deep globalization = regulatory harmonization**, NOT trade volume. Brexit Britain still trades.==
+- **Stolper–Samuelson:** trade makes some factors *absolutely* worse off.
+- **Compensation problem:** distortionary + time-inconsistent (winners renege after).
+
+**Layer 3 — Mishra:** uprooting → resentment → rage looking for political form. 19th-century echoes.
+
+**Demand vs supply of populism (Rodrik):**
+- **Demand:** globalization shocks → grievance (universal).
+- **Supply:** type of shock determines cleavage activated.
+  - Trade/finance shocks → class → left populism (LatAm: Chávez, Morales).
+  - Immigration shocks → ethno-cultural → right populism (Europe: Le Pen, Orbán).
+  - US 2010s = both shocks → Sanders + Trump on different cleavages of the same crisis.
+
+==**Trap to avoid:** "Globalization explains right-wing populism" is *lazy*. Globalization explains the *demand*, not the *form*.==
+
+**Populism vs nationalism:** populism = repertoire (portable style); nationalism = structure (long-running political community). East Asia (Japan, Korea, Taiwan) = strong nationalisms, no durable populist parties — proof they're different.
+
+**Line to memorise:**
+> *"Self-seeking individuals with very different pasts now find themselves herded together into a global marketplace where humiliating new hierarchies emerge."* — Mishra (2016)

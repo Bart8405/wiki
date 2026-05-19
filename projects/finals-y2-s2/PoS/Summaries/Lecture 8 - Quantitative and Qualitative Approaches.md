@@ -281,3 +281,26 @@ The lecture states this as an explicit "important caution": quant/qual is about 
 **Common mistake to avoid:** Recommending only one method. The lecture's core message is that mature research programmes *combine* qualitative and quantitative approaches — triangulation compensates for each method's weaknesses.
 
 </details>
+
+---
+
+## One-page revision sheet
+
+**Core claim:** there are ==**two cultures** in social science with distinct logics== — not a hierarchy.
+
+**Goertz & Mahoney's two logics:**
+
+| Dimension | Quantitative | Qualitative |
+|---|---|---|
+| Approach to cases | Sample → infer about population | Each case as a unit of analysis |
+| Causation | Correlational / probabilistic | Necessary / sufficient conditions; INUS |
+| Generalisation | Statistical | Set-theoretic, scope-bounded |
+| Membership | Variables (continuous) | Sets (crisp / fuzzy boundaries) |
+| Logic | Correlation | Implication |
+
+**Implication for research design:** the logic must match the question. Quant for population-level patterns; qual for mechanisms and necessary conditions.
+
+**Key thinker:** Gary Goertz & James Mahoney — *A Tale of Two Cultures* (2012).
+
+**Line to remember:**
+> *"The two cultures differ not in their rigor but in their logic."* — G&M

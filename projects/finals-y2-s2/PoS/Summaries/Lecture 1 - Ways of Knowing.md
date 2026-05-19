@@ -228,3 +228,21 @@ Intimate knowledge of particulars is the *highest form of knowledge* in the **hu
 **Common mistake to avoid:** Implying that human or social science knowledge is "softer" or "lesser" than natural science knowledge. Windelband's point is precisely that idiographic knowledge is not inferior — it has a *different* ideal, not a lower one.
 
 </details>
+
+---
+
+## One-page revision sheet
+
+**Key distinction:** ==**Nomothetic vs. idiographic** (Windelband, 1894).==
+- Nomothetic = seeking general laws (natural sciences).
+- Idiographic = understanding unique particulars in context (human sciences).
+- The divide is a *choice of approach*, not of topic — you can study a society either way.
+
+**Why multidisciplinarity matters:** the Dutch *stikstofcrisis* needs chemistry + ecology + politics + economics + history. No single discipline solves it.
+
+**Connection to other axes:** nomothetic / idiographic is about *goal*; deductive / inductive is about *method*. Independent dimensions.
+
+**Key thinker:** Wilhelm Windelband (1848–1915) — neo-Kantian philosopher.
+
+**Line to remember:**
+> *"The nomothetic disciplines aim at general laws, the idiographic at the description of single, particular events."* — Windelband (1894)

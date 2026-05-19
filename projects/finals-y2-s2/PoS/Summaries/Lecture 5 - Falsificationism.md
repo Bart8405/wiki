@@ -267,3 +267,27 @@ Popper strictly separates the context of discovery (where a hypothesis *comes fr
 **Common mistake to avoid:** Taking astrology's unfalsifiability as the *only* reason it is pseudo-science. The example shows the criterion in action, but the lecture acknowledges that real science often involves statistical claims that are equally not-strictly-falsifiable.
 
 </details>
+
+---
+
+## One-page revision sheet
+
+**The demarcation problem:** what separates science from non-science? ==**Popper: falsifiability.**==
+
+**Core moves:**
+- Confirmation can never prove a theory (Hume's problem of induction).
+- One failed prediction can falsify it.
+- Bold conjectures > safe ones; theories should be *highly* falsifiable.
+
+**Targets:** Marxism, Freud, Adler — "explain everything" → unfalsifiable → not scientific.
+
+**Method:** conjectures and refutations. Theories tentatively accepted, never proven, provisional.
+
+**Limits and critiques:**
+- **Quine–Duhem:** tests are holistic; you can always blame an auxiliary assumption rather than the core theory.
+- **Lakatos:** science = research programmes with hard core + protective belt; cores are not directly tested.
+
+**Key thinker:** Karl Popper — *The Logic of Scientific Discovery* (1934).
+
+**Line to remember:**
+> *"Good tests kill flawed theories; we remain alive to guess again."* — Popper

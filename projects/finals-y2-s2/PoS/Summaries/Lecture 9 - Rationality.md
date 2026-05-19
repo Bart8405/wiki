@@ -279,3 +279,25 @@ RCT takes preferences as *given* and calculates the best means to fulfil them. I
 **Common mistake to avoid:** Concluding that RCT should be simply abandoned. It remains the dominant paradigm in microeconomics and a useful tool in political science. The task is to identify its limits, not to dismiss it.
 
 </details>
+
+---
+
+## One-page revision sheet
+
+==**Bounded rationality** (Simon, 1955):== real decision-makers are constrained by:
+- Limited cognitive capacity.
+- Incomplete information.
+- Time constraints.
+
+**Implication:** people **satisfice** ("good enough"), they don't optimise.
+
+**Contrast with rational choice theory:** assumes utility maximisation, complete preferences, perfect information.
+
+**Behavioural-economics extension:** Kahneman & Tversky — prospect theory, framing effects, heuristics, biases (anchoring, availability, representativeness).
+
+**Implications for IR / policy:** state behaviour cannot be modeled as pure utility-maximisation; cognitive constraints, organisational routines, and politics intervene.
+
+**Key thinker:** Herbert Simon — *A Behavioral Model of Rational Choice* (1955).
+
+**Line to remember:**
+> *"Boundedly rational agents experience limits in formulating and solving complex problems and in processing information."* — Simon

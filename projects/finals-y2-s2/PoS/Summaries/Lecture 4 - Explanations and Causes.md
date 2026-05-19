@@ -72,7 +72,7 @@ The deeper problem: Hempel thought *laws were enough to capture causality*. They
 
 ### Move to causal models
 
-Conclusion: explanations must **track causes**, not merely state sufficient conditions. Enter Wesley Salmon's **causal-mechanical model** (1984) — explanations as descriptions of the chain of causal processes and interactions leading to E. The cricket example: a stroke of the bat (causal interaction) puts a mark (scuff) on a ball, which moves through space carrying that mark (causal process).
+==Conclusion: explanations must **track causes**, not merely state sufficient conditions. Enter Wesley Salmon's **causal-mechanical model** (1984) — explanations as descriptions of the chain of causal processes and interactions leading to E. The cricket example: a stroke of the bat (causal interaction) puts a mark (scuff) on a ball, which moves through space carrying that mark (causal process).==
 
 ### Further models (mentioned briefly)
 
@@ -89,7 +89,7 @@ German-born philosopher (1905–1997). PhD Berlin 1934; emigrated and worked at 
 ---
 
 > **Explained easily — DN in one line:**
-> Hempel's idea: a good explanation is a logical proof, where one of the premises is a scientific law and the conclusion is the thing you want to explain. "Why did the apple fall? Because Newton's law of gravity says all masses attract, and the apple is a mass."
+> ==Hempel's idea: a good explanation is a logical proof, where one of the premises is a scientific law and the conclusion is the thing you want to explain. "Why did the apple fall? Because Newton's law of gravity says all masses attract, and the apple is a mass."==
 
 > **Explained easily — why the flagpole example matters:**
 > The same mathematical equation that lets you say "the flagpole's height (and the sun's angle) explain the shadow's length" *also* lets you say "the shadow's length (and the sun's angle) explain the flagpole's height." But that second one feels obviously wrong — shadows don't *cause* flagpoles. DN can't tell the difference, because it relies on laws and laws are time-symmetric. So DN can't be the whole story of explanation.

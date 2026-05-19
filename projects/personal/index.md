@@ -10,6 +10,7 @@ Started: 2026-05-18
 |------|------|---------|
 | [muscle-tremors-shakiness](wiki/synthesis/muscle-tremors-shakiness.md) | Synthesis | Causes and remedies for muscle shaking — dietary and non-dietary perspectives |
 | [claude-code-humanities-student-guide](wiki/synthesis/claude-code-humanities-student-guide.md) | Synthesis | Comprehensive guide to using Claude Code as a humanities student — writing, Anki, Zotero, Indonesian, PKM |
+| [cognitive-independence-guide](wiki/synthesis/cognitive-independence-guide.md) | Synthesis | What NOT to use Claude Code for — protecting critical thinking and intellectual independence |
 
 ## Raw sources
 

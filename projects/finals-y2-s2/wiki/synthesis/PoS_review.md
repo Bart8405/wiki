@@ -14,26 +14,26 @@ _Concepts and questions automatically extracted from your notes._
 
 ## All Terms
 
-| Term | Source | One-liner |
-|---|---|---|
-| idiographic approach | Lecture 1 — Ways of Knowing | Understanding unique particulars, not universal laws |
-| stikstofcrisis | Lecture 1 — Ways of Knowing | Dutch nitrogen crisis; example of why multidisciplinarity matters |
-| correspondence theory of truth | Lecture 2 — Knowledge, Truth and Facts | A proposition is true iff there's a fact in the world that matches it |
-| facts as truthmakers | Lecture 2 — Knowledge, Truth and Facts | Facts make propositions true/false; facts themselves aren't true or false |
-| Gettier problem | Lecture 2 — Knowledge, Truth and Facts | Justified true belief isn't always knowledge — the broken-clock problem |
-| regularity view vs necessity view of laws | Lecture 3 — Scientific Laws and Induction | Do laws describe what happens, or what *must* happen? |
-| induction + deduction + ampliative reasoning | Lecture 3 — Scientific Laws and Induction | Induction goes beyond premises (ampliative); deduction just extracts what's already there |
-| problem of induction + pragmatic warrant | Lecture 3 — Scientific Laws and Induction | Hume: induction can't be justified; Reichenbach: it's still the best bet |
-| Duverger's law | Lecture 3 — Scientific Laws and Induction | FPTP → two parties; PR → many parties |
+| Term                                             | Source                                        | One-liner                                                                                     |
+| ------------------------------------------------ | --------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| idiographic approach                             | Lecture 1 — Ways of Knowing                   | Understanding unique particulars, not universal laws                                          |
+| stikstofcrisis                                   | Lecture 1 — Ways of Knowing                   | Dutch nitrogen crisis; example of why multidisciplinarity matters                             |
+| ==correspondence theory of truth==               | ==Lecture 2 — Knowledge, Truth and Facts==    | ==A proposition is true iff there's a fact in the world that matches it==                     |
+| facts as truthmakers                             | Lecture 2 — Knowledge, Truth and Facts        | Facts make propositions true/false; facts themselves aren't true or false                     |
+| Gettier problem                                  | Lecture 2 — Knowledge, Truth and Facts        | Justified true belief isn't always knowledge — the broken-clock problem                       |
+| ==regularity view vs necessity view of laws==    | ==Lecture 3 — Scientific Laws and Induction== | ==Do laws describe what happens, or what *must* happen?==                                     |
+| ==induction + deduction + ampliative reasoning== | ==Lecture 3 — Scientific Laws and Induction== | ==Induction goes beyond premises (ampliative); deduction just extracts what's already there== |
+| problem of induction + ==pragmatic warrant==     | Lecture 3 — Scientific Laws and Induction     | Hume: induction can't be justified; Reichenbach: it's still the best bet                      |
+| ==Duverger's law==                                   | ==Lecture 3 — Scientific Laws and Induction==     | ==FPTP → two parties; PR → many parties==                                                         |
 
 ---
 
 ## Lecture 1 — Ways of Knowing
 
-| Term | One-liner |
-|---|---|
-| idiographic approach | Understanding unique particulars — the goal of the human sciences |
-| stikstofcrisis | Dutch nitrogen crisis; requires chemistry, ecology, politics, economics, history |
+| Term                 | One-liner                                                                        |
+| -------------------- | -------------------------------------------------------------------------------- |
+| idiographic approach | Understanding unique particulars — the goal of the human sciences                |
+| stikstofcrisis       | Dutch nitrogen crisis; requires chemistry, ecology, politics, economics, history |
 
 ---
 
@@ -45,8 +45,8 @@ _Concepts and questions automatically extracted from your notes._
 
 **Your question:** what is the difference or connection between nomothetic and idiographic and deduction/induction? Feels quite similar
 **Answer:** They look similar but operate on **two different axes**:
-- **Nomothetic vs. idiographic** = your *goal*: universal laws or deep understanding of one case?
-- **Deductive vs. inductive** = your *method of reasoning*: from general principles down to specific conclusions, or from specific observations up to general patterns?
+- ==**Nomothetic vs. idiographic** = your *goal*: universal laws or deep understanding of one case?==
+- ==**Deductive vs. inductive** = your *method of reasoning*: from general principles down to specific conclusions, or from specific observations up to general patterns?==
 
 These axes are independent and can combine in any configuration:
 - A physicist (nomothetic) uses both deduction (deriving testable hypotheses from theory) and induction (building theory from data).
@@ -58,7 +58,7 @@ The practical tip for your PoS exam: when you're asked to classify a method, ask
 
 **Seen in:**
 - [[Lecture 1 - Ways of Knowing#Key concepts — definitions|Lecture 1 - Ways of Knowing.md:L20]] — *"==Understanding the meaning of *contingent, unique, often subjective* outcomes. Typical of the human sciences==. %%Question - what is the difference or connection...%%"*
-
+%%TODO: In the link above, do not keep the hidden comment like this - when you answer the question here, remove the hidden comment%%
 **Sources:** Windelband (1894) rectoral address; Lecture 1 summary context.
 
 ---

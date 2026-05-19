@@ -610,7 +610,7 @@ JWT sits between realism (war as legitimate political tool) and pacifism (war ne
 
 **BRICS:** Brazil, Russia, India, China, South Africa — a grouping of major emerging economies, increasingly seen as an alternative to Western-led institutions (G7/G8).
 
-**Beijing Consensus:** China's alternative development model — **development without liberal democracy**. Contrasts with the Washington Consensus (market liberalisation + democratisation as a package).
+==**Beijing Consensus:** China's alternative development model — **development without liberal democracy**.== Contrasts with the Washington Consensus (market liberalisation + democratisation as a package).
 
 **Why these matter for world order:** Together they sketch what an alternative-to-US-led order could look like. Not a single replacement hegemony, but a *parallel* set of institutions and norms that give middle powers options outside the Western-dominated system. This is part of why Acharya's *multiplex* (rather than simple multipolarity) is the better description: it's about diversity of *institutional menus*, not just diversity of great powers.
 
@@ -635,6 +635,8 @@ JWT sits between realism (war as legitimate political tool) and pacifism (war ne
 | Globalization + democracy | National policy autonomy | EU (technocratic delegation; Greek 2015 referendum) |
 | Globalization + nation-state | Democracy | China; the "Golden Straitjacket" pattern |
 | Nation-state + democracy | Depth of globalization | Brexit UK; US under Trump |
+
+%%I think this table is meant to l
 
 **Explained easily:** Imagine three things you want at full strength: (1) a fully open global economy where capital and goods flow freely, (2) your country making its own rules, (3) your country being democratic. You can pick any two. The EU picked open economy + democracy but gave up sovereignty (Brussels makes the rules). China picked open economy + sovereignty but skipped democracy. Brexit Britain picked sovereignty + democracy but closed off the open economy. There's no fourth option where you get all three — somebody, somewhere, is paying for what you chose.
 

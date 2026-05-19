@@ -484,7 +484,7 @@ JWT sits between realism (war as legitimate political tool) and pacifism (war ne
 
 ### "Dragon" states (Kilcullen)
 
-**Definition:** Russia and China — states that *refused* to orbit the US-led order and developed alternative strategies, including *"three warfares"* (psychological warfare, public opinion warfare, "lawfare"). Kilcullen's category, contrasted with "Snakes" (non-state actors and threats from state collapse).
+**Definition:** ==Russia and China — states that *refused* to orbit the US-led order and developed alternative strategies, including *"three warfares"* (psychological warfare, public opinion warfare, "lawfare"). Kilcullen's category, contrasted with "Snakes" (non-state actors and threats from state collapse).==
 
 **Connected to:** → [[#multiplex world order + multipolarity distinction|multiplex world order]] (Week 8) — Acharya's diversity-of-actors framing fits Kilcullen's "Dragons + Snakes" descriptive picture; → [[#decolonising war + small wars (Barkawi)|decolonising war]] — both Dragons and Snakes break the European interstate-war template.
 

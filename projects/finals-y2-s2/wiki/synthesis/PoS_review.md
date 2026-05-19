@@ -461,3 +461,20 @@ Zande witchcraft beliefs. Are they irrational? Winch says no — they have their
 > *"Reality is not what gives language sense. What is real and what is unreal shows itself in the sense that language has."* — Winch
 
 ---
+
+Zande witchcraft beliefs. Are they irrational? Winch says no — they have their *own* rationality, internally coherent.
+
+==**Winch's argument:** standards of rationality are *internal* to a form of life.== Calling Zande beliefs irrational imposes an alien standard.
+
+**Lukes's critique:** some standards (e.g. logical consistency) must be *universal* or no cross-cultural understanding is possible. Strong relativism is self-undermining.
+
+**Bridgehead argument:** translation requires SOME shared rationality — otherwise we couldn't recognise other beliefs as beliefs at all.
+
+**Implications:** the rationality debate is about the limits of cross-cultural understanding. Not just anthropology — also IR (e.g. understanding non-Western states on their own terms).
+
+**Key thinkers:** Peter Winch (*The Idea of a Social Science*, 1958); Steven Lukes (*Some Problems about Rationality*, 1967).
+
+**Line to remember:**
+> *"Reality is not what gives language sense. What is real and what is unreal shows itself in the sense that language has."* — Winch
+
+---

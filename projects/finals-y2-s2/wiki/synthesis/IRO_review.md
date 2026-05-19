@@ -804,6 +804,240 @@ These lines in your notes used `==` to start a question/comment but the closing 
 
 *Cheat sheets for each lecture, pulled from the corresponding summary file.*
 
+### Week 4 — Non-Western IR Theory
+
+**Frame:** IR is "an American social science" (Hoffmann 1977). Built from Westphalia. Universalises one region's history. **Hegemonic in the Gramscian sense.**
+
+**Why it matters:** Different historical international systems existed — **tributary** (Sinic, hierarchical), **Mandala** (Southeast Asian, overlapping). Western IR misses these and treats them as deviations.
+
+**The Asia debate:**
+- Friedberg: ripe for rivalry (neorealism).
+- Kang: bandwagoning + hierarchy (culturalist realism).
+- ==Acharya: **double-binding + engagement + norms + institutions**== (NWIRT). Asia is more stable than predicted because of economic interdependence, Bandung-era norms (non-interference, sovereignty), and ASEAN-led institutional architecture.
+
+**Three pathways forward:**
+1. Extend Western IRT (insufficient).
+2. Asian exceptionalism (dangerous — "Asian values," Tianxia romanticism).
+3. **Global IR / deprovincialization** (Acharya's choice).
+
+==**Two mechanisms of Global IR:**==
+- ==**Constitutive localization** — foreign ideas blend into local norms (e.g. ASEAN Way).==
+- ==**Subsidiarity** (Acharya) — local norms diffuse outward (e.g. nonalignment, human security).==
+
+**Korea case ("twisted postcoloniality"):** colonised by Japan, then US-dependent. Two trap strategies: universalist (mimic) or particularist (marginal). Proof that structural barriers — not lack of ideas — keep non-Western IR underdeveloped.
+
+**Survey punchline:** Same scenario, different historical analogy → different conclusions. *The history you start from shapes the theory you build.*
+
+**The line to memorise:**
+> *"Global IR is not about rejecting the Western IR tradition, but broadening the scope and sources of IR to make it more inclusive and universal."* (Acharya 2014)
+
+
+
+%%Love this one page revision btw!! great work, do this for all of the summaries you make - all important on one page, key terms, easy explanations, key quotes, love it!%%
+
+---
+
+### Week 5 — Critical and Decentring Perspectives
+
+**The meta-distinction (memorise):**
+- **Problem-solving theory** (Cox 1981): takes the world as given; helps the powerful manage it. Mainstream IR.
+- **Critical theory**: asks how the world came to be this way, whose interests it serves, how it might be changed. Emancipatory, post-positivist.
+
+**The five major critical lineages:**
+1. **Marxism / world-systems** — capitalism as global structure; core/periphery/semi-periphery; uneven development.
+2. **Frankfurt School / Gramsci** — power as consent + coercion; hegemony of bourgeois ideas as "common sense"; counter-hegemony.
+3. **Feminism** — IR is gender-blind; "power politics" is built on masculinist assumptions; standpoint theory; intersectionality (Crenshaw).
+4. **Poststructuralism / Foucault** — discourse and power-knowledge; biopolitics; "there is nothing outside the text" (Derrida); deconstruction.
+5. **Postcolonialism** — Orientalism (Said); provincialise Europe (Chakrabarty / Seth); ubiquity ≠ universality; colonial encounters constitute the modern international order.
+
+**Seth's three-part critique:**
+- **History** — the "expansion of international society" narrative sanitises slavery, conquest, genocide. Postcolonial accounts treat colonialism as **constitutive**, not a footnote.
+- **Culture/theory** — the "procedural" universality of international law is never neutral. *Ubiquity is not universality.*
+- **Knowing/being** — knowledges **constitute** what they purport to represent. IR naturalises what is historically produced. The "free, rational individual," the nation-state, sovereignty — all are products of historical processes and discourses, not discoveries.
+
+**Decentring (Fisher-Onar & Nicolaïdis 2013):** provincialise → engage → reconstruct.
+
+**Hoffmann's line (the link to Week 4):** *"IR is an American Social Science."* (1977)
+
+**The quote to memorise — from Seth:**
+> *"A great deal of IR theory is an obstacle to a recognition and exploration of this, rather than a guide to it, for it seems content to naturalise what it could problematise, and to assume that which it should deconstruct."*
+
+**The Cox line:**
+> *"Theory is always for someone and for some purpose."* (Cox 1981)
+
+---
+
+### Week 6 — Global Migration: Mobility and Security
+
+**Definitions to nail (1951 Convention is exam gold):**
+- **Refugee** ==fear of persecution on race/religion/nationality/social group/political opinion== + outside country of nationality.
+- **Asylum-seeker** = applied, case pending.
+- **IDP** = displaced, hasn't crossed an international border.
+- **Non-refoulement** = no return to country of persecution.
+
+==**Hollifield in one minute==:**
+- ==Liberal paradox: economic openness × political closure.==
+- ==Three state functions: garrison + trading + **migration state**.==
+- ==Rights are key: courts protect migrants → restrictive policies repeatedly struck down.==
+- ==Guest worker schemes don't work — *"We asked for workers, but human beings came"* (Frisch).==
+- ==EU = regional regime that lets states **finesse** (not escape) the paradox.==
+
+**Huysmans in one minute:**
+- Migration is **securitised** through political construction — speech acts + practices.
+- The EU ==**internal market spillover into internal security**==: SEA → Schengen → Third Pillar → Dublin → Amsterdam.
+- The **security continuum**: borders + terrorism + crime + migration get treated together.
+- ==Three themes of securitisation: **internal security, cultural security, welfare chauvinism**.==
+- Securitisation is **structural** — not just a few extreme actors.
+
+**Schools of securitisation:**
+- **Copenhagen** (Wæver, Buzan) — security = speech act.
+- **Paris** (Bigo) — security = everyday bureaucratic practice; border guards are "managers of flows."
+
+**Key institutions / agreements:**
+- ==**1951 Geneva Convention** — refugee definition + non-refoulement.==
+- **Schengen (1985)** — no internal border checks + common external visa policy.
+- **Dublin (1990)** — first safe country rule.
+- **Eurodac** — fingerprint database of asylum seekers.
+- ==**Third Pillar (TEU 1992)** — JHA cooperation.==
+- ==**Amsterdam (1997)** — migration moved from Third to First Pillar.==
+- ==**Tampere (1999)** — Schengen acquis condition for accession.==
+- ==**Frontex** — EU border agency (lecture mention).==
+- **UNHCR / IOM / ILO** — postwar international migration architecture.
+
+**Migration diplomacy:**
+- Coercive (blackmail) vs. cooperative (backscratching).
+- Externalization = pushing border control to third countries.
+- EU-Tunisia 2023: €105m coastguards + €900m macro support + €150m budget support.
+- EU-Turkey 2016 deal is the prototype.
+- Material gains (economic, institutional, aid) + symbolic gains (status, reputation, moral standing).
+
+**The lines to remember:**
+> *"Why do liberal states accept unwanted immigration?"* (Joppke 1998)
+
+> *"We asked for workers, but human beings came."* (Max Frisch on European guest workers)
+
+> *"It is by labelling something a security issue that it becomes one."* (Wæver 2004)
+
+> *"Migration is a nodal point in the internal security field."* (Huysmans 2000)
+
+---
+
+### Week 9 — Global Governance and EU Regional Integration
+
+**Frame:** The EU is *more than an international organisation, less than a state*. The lecture explains what kind of region it is, how it integrates, and what kind of global power it exerts.
+
+**Region & regionalism:**
+- Region = geography + interaction + identity (Cantori & Spiegel; Katzenstein).
+- Explosion of regional organisations since the 1990s. Comparative regionalism: don't treat the EU as the universal template.
+
+**EU institutional triangle:**
+- **Commission** — initiative + executive (supranational).
+- **Parliament** — co-decision + control (directly elected).
+- **Council** — member states, decision-making (QMV or unanimity).
+
+**Four competences:** exclusive (trade, internal market) · shared (environment, transport) · complementary (education) · intergovernmental (CFSP). On the basis of *subsidiarity* + *proportionality*.
+
+**Theories of integration:**
+| Theory | Driver | Key thinker |
+|---|---|---|
+| **Neofunctionalism** | Spillover (functional + political) — sector cooperation drags in politics | Ernst Haas |
+| ==**Liberal intergovernmentalism**== | Member-state bargains rooted in domestic economic interests; 3-step model (preferences → bargaining → credible commitments) | Andrew Moravcsik |
+| Intergovernmentalism | The nation-state is "obstinate" | Stanley Hoffmann |
+| EU as nation-state rescue | EU *strengthens* the nation-state | Alan Milward |
+| Crisis-driven Europeanisation | Covid-19 forged coordinative reflexes | Wolff & Ladi (2021) |
+
+**Empty Chair Crisis (1965–66):** de Gaulle's 7-month Council boycott over QMV. Resolved by *Luxembourg Compromise* — national veto preserved for "vital interests." Classic supranational-vs-intergovernmental test.
+
+**What kind of global power is the EU?**
+- Civilian (Duchêne) · soft (Nye) · hard? (limited) · ==**normative (Manners)**== · ethical (Aggestam) · regulatory · soft imperialism (critics).
+- Manners: EU shapes what is *normal* via norms, standards, rules — not arms.
+- Structural problem: external action fragmented across exclusive/shared/intergovernmental competences.
+
+**Zwolski 2025 — Pan-Europe revisited:**
+- Today's EU "geopolitical power" rhetoric (ReArm Europe, strategic autonomy) echoes *inter-war* pan-European debates.
+- Coudenhove-Kalergi (1923, *Pan-Europa*): unite Europe to resist American + Soviet hegemony.
+- Lineage matters: the geopolitical EU is not new; it revives what the post-1945 civilian-power EU was specifically designed to avoid.
+
+**Decentring EU studies (Nicolaïdis):** mutual engagement + self-reflexivity + radical decentring (centring those speaking from elsewhere).
+
+**Lines to memorise:**
+> *"The political and the national unit should be congruent."* — Gellner (relevant to the EU's legitimacy gap)
+
+> *"Europe is uniting without the majority of Europeans being ready for it."* (lecture opener — captures the pan-European legitimacy puzzle)
+
+---
+
+### Week 10 — Nation, Race and Gender
+
+**Frame:** Nations are *imagined* but consequential. Where they come from (ancient vs modern), how they cohere (ethnic vs civic), and how race + gender structure them — that's the lecture.
+
+**What is a nation? — three dimensions (Heywood ch.8):**
+- **Cultural** (language, religion, history) · **Political** (claim to sovereignty) · **Psychological** (loyalty, patriotism).
+- Nation ≠ state ≠ country ≠ ethnic group ≠ nation-state. Be precise.
+
+==**Imagined community (Anderson 1983):**==
+- Imagined (you'll never meet most members) · limited · sovereign · community (horizontal comradeship).
+- Made thinkable by *print capitalism* — vernacular novels + newspapers → simultaneity.
+
+**Primordialist vs Modernist:**
+
+| | Primordialist | Modernist |
+|---|---|---|
+| Origin of nation | Ancient ethnic / cultural community | Late-18th / 19th-century political construction |
+| Mechanism | Inherited bonds | Industry + print + mass schooling |
+| Key thinkers | Herder, Smith, Connor | **Gellner, Hobsbawm, Anderson** |
+| How nationalism relates | Nations come first; nationalism awakens them | Nationalism comes first; nations are its product |
+
+**Gellner:** industrial economies require cultural homogeneity → state produces it via mass schooling → nationalism = "political and national unit should be congruent."
+
+**Nationalism in IR theory:**
+
+| Lens | What it sees |
+|---|---|
+| Realist | Fuel for state power (war, taxation, territory) |
+| Liberal | Civic nationalism → self-determination + democratic citizenship (Wilsonian) |
+| Constructivist | Identity as socially constructed, contested |
+| Marxist | Ideology binding workers + capitalists (Anderson partly here) |
+
+==**Civic vs ethnic nationalism:**==
+- *Civic:* membership via institutions (France, US in self-image, Ukraine since 2014).
+- *Ethnic:* membership via descent / language / religion (Germany 19th c., South Korea).
+- *Ideal types* — all nationalisms mix both. The empirical question: which axis is doing the work *now*?
+
+**Wilsonian vs reactionary nationalism:** same vocabulary (nation, sovereignty, the people), opposite projects — self-determination vs recovered glory + foreigner-as-threat.
+
+**Korea + Ukraine — the take-home:**
+- *Korea 1910–45:* Japanese rule abolished the state → only blood + language + dynastic memory survived → ethnic nationalism (*tanil minjok*).
+- *Ukraine 2014–:* working civic institutions exist → civic attachment rises even under invasion; Russian-speakers identify *as Ukrainians*.
+- ==**Lesson: ethnic vs civic depends on institutional context, not something fixed in "the people."**==
+
+**Race, identity, othering (Heywood ch.9):**
+- Identity is two-way: also *identification by* others (racialization).
+- Nations are defined as much by who is OUT as IN — the boundary work is constitutive.
+- *Hindutva* = live case: Hindu = Indian; Muslims excluded by law + violence.
+
+==**Gender and nationalism (Nagel 1998):**==
+- *"Nationalism is a project of nation-building, but also a project of gender-building."*
+- The nation itself is an ideologically masculine project — honor, sacrifice, defense, conquest.
+- Three gendered roles: *masculinist heroism* (men do war/rule) · *patriotic motherhood* (women embody / reproduce the nation) · *sexualized militarism* (enemy men predatory, enemy women licentious).
+- Today: immigrant men framed as threats to "our" women; women dual-positioned (victims + reproducers).
+
+**Nationalism today — resurgence:**
+- Brexit · Trump · AfD · Le Pen · Orbán · Meloni · Modi · Putin.
+- Shared: anti-globalist + exclusionary + recovered-glory + anti-IO.
+- Different flavours: religious (India), economic (Trump), civilizational (Orbán, Putin), revanchist (Russia).
+
+**Bridge to Week 11:** Nationalism today is a 21st-century *response* to the post-1989 globalization order, not a 19th-century holdover.
+
+**Lines to memorise:**
+> *"An imagined political community — imagined as both inherently limited and sovereign."* — Anderson
+
+> *"The political and the national unit should be congruent."* — Gellner
+
+> *"Nationalism is a project of nation-building, but also a project of gender-building."* — Nagel
+
+---
+
 ### Week 7 — War, Peace and International Security
 
 **Frame:** War is not a natural fact but a contested concept. The lecture moves from definitions through IR theories to Barkawi's decolonial critique.
@@ -957,8 +1191,6 @@ These lines in your notes used `==` to start a question/comment but the closing 
 
 **Line to remember (close):**
 > *"We are more connected than ever — but are we more together?"* — Denney close
-
----
 
 ---
 

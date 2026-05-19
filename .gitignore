@@ -10,6 +10,10 @@ projects/indonesia-carbon-market/raw/Verra documents/_api_downloads/**/*.txt
 *.bak
 **/DATASET.csv.before-verra-fill.bak
 
+# Misc project: pptx scratch folder + auto-saved backups
+projects/Misc/_work/
+projects/Misc/*.pptx.backup
+
 # OS artifacts
 .DS_Store
 Thumbs.db

@@ -8,27 +8,27 @@ updated: 2026-05-16
 
 *From description to explanation. Hempel's classic deductive-nomological (DN) model of explanation, its sister inductive-statistical (IS) model, the killer counterexamples (flagpole, hexed salt, paresis), and the move to causal accounts of explanation.*
 
-**Date:** 25 February 2026 · **Lecturer:** Prof. James W. McAllister · **Key thinker:** **Carl G. Hempel** (1905–1997)
+**Date:** 25 February 2026 · **Lecturer:** Prof. James W. McAllister · **Key thinker:** ==**Carl G. Hempel**== (1905–1997)
 
 ---
 
 ## Key concepts — definitions
 
-| Term | Definition |
-|---|---|
-| **Explanation** | An answer to a "why" question — an account that allows us to grasp *why* things are as they are. Connects an *explanandum* (what is to be explained) to an *explanans* (what does the explaining). |
-| **Explanandum** | The thing to be explained (the outcome, event, or proposition). |
-| **Explanans** | The thing(s) doing the explaining (the laws and particular facts in the premises). |
-| **Deductive-Nomological (DN) model** | Hempel's classic 1965 model. An explanation is a **valid deductive argument** from **true premises** that **include at least one scientific law (N)** and descriptions of particular facts, **to a conclusion** stating the explanandum. Schematically: $L_1 \ldots L_n, C_1 \ldots C_n \therefore E$. |
-| **Inductive-Statistical (IS) model** | Hempel's extension of DN to probabilistic phenomena. An explanation is an argument that establishes the explanandum had **high probability** given the premises. |
-| **Causal-mechanical model** (Salmon, 1984) | An explanation of event E is a description of (part of) the **causal interactions and causal processes** that led to E. |
-| **Causal process** | A physical process able to **transmit a mark** in a continuous way. *Example:* a cricket ball travelling through space carrying a scuff. |
-| **Causal interaction** | A **spatio-temporal intersection** of two causal processes that modifies both. *Example:* the stroke of the bat that leaves the scuff on the ball. |
-| **Pseudo-explanation** | An account that fails to explain because it isn't *true*. Classic example: "lightning occurs because Zeus is angry." Most philosophers agree explanations must be true. |
-| **Flagpole/shadow problem** | A killer counterexample to DN. The geometry $\tan\theta = y/x$ lets you deduce shadow length from flagpole height — but *also* flagpole height from shadow length. DN accepts both as explanations. But intuitively, a shadow doesn't *explain* a flagpole's height. → DN can't distinguish causes from effects. |
-| **Hexed salt example** | Another DN counterexample. "All hexed salt dissolves in water; this salt was hexed; therefore it dissolved." Valid DN form, but *all* salt dissolves — the hex is irrelevant. → DN can accept irrelevant information as part of "explanations." |
-| **Paresis example** | Counterexample to IS. Untreated syphilis explains paresis (it's the only cause), but only ~30% of patients with untreated syphilis develop paresis. So the IS model wrongly rules this *out* as an explanation because probability isn't "high." → IS model is too restrictive. |
-| **Explanation vs prediction** | The same deductive argument can serve both. Difference: an *explanation's* premises must be true; a successful *prediction* can follow from false premises. |
+| Term                                           | Definition                                                                                                                                                                                                                                                                                                       |
+| ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ==**Explanation**==                            | ==An answer to a "why" question — an account that allows us to grasp *why* things are as they are. Connects an *explanandum* (what is to be explained) to an *explanans* (what does the explaining).==                                                                                                           |
+| ==**Explanandum**==                            | ==The thing to be explained (the outcome, event, or proposition).==                                                                                                                                                                                                                                              |
+| ==**Explanans**==                              | ==The thing(s) doing the explaining (the laws and particular facts in the premises).==                                                                                                                                                                                                                           |
+| ==**Deductive-Nomological (DN) model**==       | ==Hempel's classic 1965 model. An explanation is a **valid deductive argument** from **true premises** that **include at least one scientific law (N)** and descriptions of particular facts, **to a conclusion** stating the explanandum. Schematically: $L_1 \ldots L_n, C_1 \ldots C_n \therefore E$.==       |
+| ==**Inductive-Statistical (IS) model**==       | ==Hempel's extension of DN to probabilistic phenomena. An explanation is an argument that establishes the explanandum had **high probability** given the premises.==                                                                                                                                             |
+| ==**Causal-mechanical model** (Salmon, 1984)== | ==An explanation of event E is a description of (part of) the **causal interactions and causal processes** that led to E.==                                                                                                                                                                                      |
+| ==**Causal process**==                         | ==A physical process able to **transmit a mark** in a continuous way. *Example:* a cricket ball travelling through space carrying a scuff.==                                                                                                                                                                     |
+| **Causal interaction**                         | A **spatio-temporal intersection** of two causal processes that modifies both. *Example:* the stroke of the bat that leaves the scuff on the ball.                                                                                                                                                               |
+| **Pseudo-explanation**                         | An account that fails to explain because it isn't *true*. Classic example: "lightning occurs because Zeus is angry." Most philosophers agree explanations must be true.                                                                                                                                          |
+| **Flagpole/shadow problem**                    | A killer counterexample to DN. The geometry $\tan\theta = y/x$ lets you deduce shadow length from flagpole height — but *also* flagpole height from shadow length. DN accepts both as explanations. But intuitively, a shadow doesn't *explain* a flagpole's height. → DN can't distinguish causes from effects. |
+| **Hexed salt example**                         | Another DN counterexample. "All hexed salt dissolves in water; this salt was hexed; therefore it dissolved." Valid DN form, but *all* salt dissolves — the hex is irrelevant. → DN can accept irrelevant information as part of "explanations."                                                                  |
+| **Paresis example**                            | Counterexample to IS. Untreated syphilis explains paresis (it's the only cause), but only ~30% of patients with untreated syphilis develop paresis. So the IS model wrongly rules this *out* as an explanation because probability isn't "high." → IS model is too restrictive.                                  |
+| **Explanation vs prediction**                  | The same deductive argument can serve both. Difference: an *explanation's* premises must be true; a successful *prediction* can follow from false premises.                                                                                                                                                      |
 
 ---
 

@@ -97,8 +97,8 @@ German-born philosopher (1905–1997). PhD Berlin 1934; emigrated and worked at 
 > **Explained easily — hexed salt:**
 > If you say "this salt dissolved because it was hexed," DN approves: all hexed salt dissolves in water (true, vacuously), this salt was hexed, therefore it dissolved. But the hex is *irrelevant* — *all* salt dissolves in water. DN can't catch that the explanation cites useless information. Real explanations need to cite *relevant causes*, not just sufficient conditions.
 
-> **Explained easily — why we need causal models:**
-> The fix is to insist that good explanations describe **the actual causal chain**, not just a logically valid deduction. The cricket example: it's not enough to say "by Newton's laws, the ball ended up over the fence." A real explanation traces the *interaction* (bat hits ball, transferring energy) and the *process* (ball flying through space with the dent the bat made) that led to where it ended up.
+> ==**Explained easily — why we need causal models:**==
+> ==The fix is to insist that good explanations describe **the actual causal chain**, not just a logically valid deduction. The cricket example: it's not enough to say "by Newton's laws, the ball ended up over the fence." A real explanation traces the *interaction* (bat hits ball, transferring energy) and the *process* (ball flying through space with the dent the bat made) that led to where it ended up.==
 
 ---
 

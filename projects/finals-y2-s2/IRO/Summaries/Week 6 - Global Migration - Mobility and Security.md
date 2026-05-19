@@ -371,7 +371,7 @@ The way out (or at least the way to **finesse** the paradox):
 
 - Mass migration of unskilled workers meets greater political resistance (even where there is high demand in sectors like construction or healthcare).
 - Tendency: go back to **guest worker models** with strict contracts limiting stay and prohibiting settlement/family reunification.
-- **Alternative**: illegal immigration and a growing black market for labour — *"a ==Hobson's choice==."*
+- **Alternative**: illegal immigration and a growing black market for labour — *"a ==Hobson's choice==."* ^auto-global-migration-mobility-and
 
 ### 4.13 Regional integration as midwife to the migration state
 
@@ -381,7 +381,7 @@ The way out (or at least the way to **finesse** the paradox):
 - In Asia, more divided, often authoritarian, little prospect of rights-granting to migrants. The exceptions (Japan, Taiwan, South Korea) are only beginning. In Africa and the Middle East — high migration but unstable, fluid states with little institutional capacity.
 
 > **Explained easily — what Hollifield is doing:**
-> A liberal country can't fully control migration without abandoning its own values. To stay rich, it needs trade, investment, and workers — that means letting people in. But it's also a *liberal* state, meaning courts protect migrants once they're inside (you can't just deport everyone), and the public expects the government to police the borders. So Germany invites Turkish guest workers in the 1960s, tries to send them home in the 1970s, fails because courts protect family reunification, and ends up with a permanent immigrant population. Repeat for every liberal democracy. Max Frisch's line nails it: **"We asked for workers, but human beings came."** Hollifield's contribution is naming this trap — the ==**liberal paradox**== — and saying it's now a *third function* of the state (alongside security and trade): managing the contradiction. The EU is the only experiment so far at doing this regionally.
+> A liberal country can't fully control migration without abandoning its own values. To stay rich, it needs trade, investment, and workers — that means letting people in. But it's also a *liberal* state, meaning courts protect migrants once they're inside (you can't just deport everyone), and the public expects the government to police the borders. So Germany invites Turkish guest workers in the 1960s, tries to send them home in the 1970s, fails because courts protect family reunification, and ends up with a permanent immigrant population. Repeat for every liberal democracy. Max Frisch's line nails it: **"We asked for workers, but human beings came."** Hollifield's contribution is naming this trap — the ==**liberal paradox**== — and saying it's now a *third function* of the state (alongside security and trade): managing the contradiction. The EU is the only experiment so far at doing this regionally. ^auto-global-migration-mobility-and-2
 
 ### 4.14 Conclusion — Hollifield's bottom line
 
@@ -446,19 +446,19 @@ Wolff's lecture flags **N. El Qadim** — a postcolonial scholar arguing that EU
 
 <details>
 <summary>Answer</summary>
-
+ ^auto-global-migration-mobility-and-5
 **Correct: B) Is outside their country of nationality and has a well-founded fear of persecution on grounds of race, religion, nationality, membership of a particular social group, or political opinion**
 
 This is the verbatim legal definition from Article 1 of the 1951 Convention — the most frequently examined definition in this week. Option A describes an Internally Displaced Person (IDP) — they have *not* crossed an international border. Option C describes an asylum-seeker (pending status). The word "well-founded" and the five specific grounds (race, religion, nationality, social group, political opinion) are all essential.
 
 </details>
-
+ ^auto-global-migration-mobility-and-8
 ---
 
 **Q2.** The principle of "non-refoulement" means that:
 - A) Signatory states cannot close their borders to refugees
 - B) Signatory states cannot return an individual to a country where they face threats of persecution
-- C) All asylum applications must be processed within the country where the asylum-seeker is found
+- C) All asylum applications must be processed within the country where the asylum-seeker is found ^auto-global-migration-mobility-and-7
 - D) States must grant citizenship to all recognised refugees after five years of residence
 
 <details>
@@ -495,15 +495,15 @@ This is Wæver's formulation. The Copenhagen School holds that security is not a
 - C) The demands of domestic voters and the obligations of international refugee law
 - D) The desire for regional integration and the need to maintain national identity
 
-<details>
-<summary>Answer</summary>
+<details> ^auto-global-migration-mobility-and-3
+<summary>Answer</summary> ^auto-global-migration-mobility-and-4
 
 **Correct: B) The economic logic of openness (to sustain competitiveness) and the political/legal logic of closure (to maintain sovereignty and the social contract)**
 
 The liberal paradox is structural: the *same* liberal state that needs open borders for trade and investment has a democratic demos, a social contract, and a territorial sovereignty that require controlling who enters. Unlike goods, capital, and services, the movement of people *changes the ethnic composition of societies* and disrupts the "demographic maintenance regime." This makes migration politically special even for states that want economic openness.
 
 </details>
-
+ ^auto-global-migration-mobility-and-6
 ---
 
 **Q5.** The Paris School (Bigo) differs from the Copenhagen School on securitisation primarily by arguing that:

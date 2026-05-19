@@ -100,11 +100,11 @@ _Concepts and questions automatically extracted from your notes._
 **Your question:** what is the difference between NWIRT and Global IR?
 **Answer:** Think of NWIRT as the **diagnostic critique** and Global IR as the **constructive programme**. NWIRT is mostly a list of complaints about mainstream IR (Western-centric origins, missing Asian agency, treating non-West as testing-ground). Global IR is what Acharya proposes *instead*: don't reject Western IR — broaden it. So in practice you cite "NWIRT" when you want to name the critique and "Global IR" when you want to name Acharya's preferred solution. They're not rival schools; they're two sides of the same argument.
 
-**Connected to:** → [deprovincialization](#constitutive-localization--subsidiarity--deprovincialization) — Global IR's practical pathway; → [Tianxia + tributary + Mandala](#asian-historical-orders--tianxia--tributary--mandala) — the pre-modern systems Western IR ignores.
+**Connected to:** → [[#constitutive localization + subsidiarity + deprovincialization|deprovincialization]] — Global IR's practical pathway; → [[#Asian historical orders — Tianxia / tributary / Mandala|Tianxia + tributary + Mandala]] — the pre-modern systems Western IR ignores.
 
 **Seen in:**
-- [Week 4 - Non-Western IR Theory.md:L15](../../IRO/Summaries/Week%204%20-%20Non-Western%20IR%20Theory.md) — *"==**Non-Western IR (NWIRT)**=="*
-- [Week 4 - Non-Western IR Theory.md:L16](../../IRO/Summaries/Week%204%20-%20Non-Western%20IR%20Theory.md) — *"==**Global IR**== ... %%what is the difference between NWIRT and Global IR?%%"*
+- [[Week 4 - Non-Western IR Theory#^auto-non-western-ir-theory-l15|Week 4 - Non-Western IR Theory.md:L15]] — *"==**Non-Western IR (NWIRT)**=="*
+- [[Week 4 - Non-Western IR Theory#^auto-non-western-ir-theory-l16|Week 4 - Non-Western IR Theory.md:L16]] — *"==**Global IR**== ... %%what is the difference between NWIRT and Global IR?%%"*
 
 ---
 
@@ -117,11 +117,11 @@ _Concepts and questions automatically extracted from your notes._
 **Your question:** what does bandwagoning mean in this context?
 **Answer:** In the Friedberg–Kang–Acharya debate, **bandwagoning** is Kang's claim about how Asian states relate to a rising China — they fall in line behind it rather than forming a counter-coalition (which is what realist theory predicts). Acharya rejects this in two stages. (1) **Empirically**: Asian states aren't bandwagoning — India is balancing China, Japan's economic ties are about absolute gains and free-riding on US power (not deference), and ASEAN states are buying air/naval weapons. (2) **Conceptually**: the balancing-vs-bandwagoning binary is a Western (European balance-of-power) frame and misses what Asian states actually do — **double-binding**: enmesh both China *and* the US in regional institutions. So the answer to the question is layered: bandwagoning means "align with the dominant power," it's Kang's claim about Asia, and Acharya thinks neither the empirical claim nor the analytical frame holds.
 
-**Connected to:** → [double-binding](#double-binding) — Acharya's proposed alternative to the balancing/bandwagoning dichotomy; → [Kang's "Asian hierarchy" thesis](#nwirt--global-ir) — the thesis being refuted; → [realism variants](#realism-variants-subaltern--neoclassical--defensive).
+**Connected to:** → [[#double-binding|double-binding]] — Acharya's proposed alternative to the balancing/bandwagoning dichotomy; → [[#NWIRT + Global IR|Kang's "Asian hierarchy" thesis]] — the thesis being refuted; → [[#Realism variants (subaltern / neoclassical / defensive)|realism variants]].
 
 **Seen in:**
-- [Week 4 - Non-Western IR Theory.md:L91](../../IRO/Summaries/Week%204%20-%20Non-Western%20IR%20Theory.md) — *"==Asia has a tradition of **hierarchical order** ... states **bandwagon**== %%what does bandwagoning mean in this context?%%"*
-- [Week 4 - Non-Western IR Theory.md:L187](../../IRO/Summaries/Week%204%20-%20Non-Western%20IR%20Theory.md) — *"Walt's **balance of threat** theory shows states balance against *threats*"*
+- [[Week 4 - Non-Western IR Theory#^auto-non-western-ir-theory-l91|Week 4 - Non-Western IR Theory.md:L91]] — *"==Asia has a tradition of **hierarchical order** ... states **bandwagon**== %%what does bandwagoning mean in this context?%%"*
+- [[Week 4 - Non-Western IR Theory#^auto-non-western-ir-theory-l187|Week 4 - Non-Western IR Theory.md:L187]] — *"Walt's **balance of threat** theory shows states balance against *threats*"*
 
 ---
 
@@ -129,10 +129,10 @@ _Concepts and questions automatically extracted from your notes._
 
 **Definition:** ASEAN's strategic posture: a conscious effort to **enmesh both China and the United States** in regional interdependence and institutions simultaneously, to (a) induce moderation from China and raise the cost of force, and (b) discourage US containment. Different from "hedging" (which is uncertainty); different from balancing or bandwagoning.
 
-**Connected to:** → [bandwagoning + balance of threat](#bandwagoning--balance-of-threat) — Acharya's alternative to the binary; → [ASEAN regionalism + ZOPFAN](#asian-origin-global-norms-zopfan--nonintervention--human-security--asean-regionalism).
+**Connected to:** → [[#bandwagoning + balance of threat|bandwagoning + balance of threat]] — Acharya's alternative to the binary; → [[#Asian-origin global norms — ZOPFAN / nonintervention / human security / ASEAN regionalism|ASEAN regionalism + ZOPFAN]].
 
 **Seen in:**
-- [Week 4 - Non-Western IR Theory.md:L19](../../IRO/Summaries/Week%204%20-%20Non-Western%20IR%20Theory.md) — *"==**Double-binding**== ... %%Create an ASEAN file in the Geopolitics project...%%"*
+- [[Week 4 - Non-Western IR Theory#^auto-non-western-ir-theory-l19|Week 4 - Non-Western IR Theory.md:L19]] — *"==**Double-binding**== ... %%Create an ASEAN file in the Geopolitics project...%%"*
 
 ---
 
@@ -152,12 +152,12 @@ These are the three mechanisms of **Global IR in practice**.
 **Your question:** Are both of these happening at the same time or should it be like that or is it good/bad? Give more context.
 **Answer:** Yes — both happen at once, and Acharya thinks that's how it *should* work. Constitutive localization is the *inward* flow (foreign ideas arriving in Asia, getting reshaped); subsidiarity is the *outward* flow (Asian-made ideas spreading to global governance). Together they describe a healthy two-way traffic of concepts: Asia isn't a passive recipient of Western norms (localization rules that out), but it's also not isolated and producing only local theory (subsidiarity rules that out either). The "good/bad" framing isn't quite the right axis — Acharya sees both flows as *empirical reality* (already happening: ASEAN reshaped multilateralism inward; human security flowed outward) and as *normatively desirable* (because they make IR theory more globally representative without forcing a choice between Western universalism and Asian exceptionalism).
 
-**Connected to:** → [NWIRT + Global IR](#nwirt--global-ir) — these are the *how* of Global IR; → [Asian-origin global norms](#asian-origin-global-norms-zopfan--nonintervention--human-security--asean-regionalism) — concrete examples.
+**Connected to:** → [[#NWIRT + Global IR|NWIRT + Global IR]] — these are the *how* of Global IR; → [[#Asian-origin global norms — ZOPFAN / nonintervention / human security / ASEAN regionalism|Asian-origin global norms]] — concrete examples.
 
 **Seen in:**
-- [Week 4 - Non-Western IR Theory.md:L17](../../IRO/Summaries/Week%204%20-%20Non-Western%20IR%20Theory.md) — *"==**Constitutive localization**=="*
-- [Week 4 - Non-Western IR Theory.md:L18](../../IRO/Summaries/Week%204%20-%20Non-Western%20IR%20Theory.md) — *"==**Subsidiarity (Acharya sense)**=="*
-- [Week 4 - Non-Western IR Theory.md:L27](../../IRO/Summaries/Week%204%20-%20Non-Western%20IR%20Theory.md) — *"==**Deprovincialization**== ... %%so wait, Decentring is about provincializing...%%"*
+- [[Week 4 - Non-Western IR Theory#^auto-non-western-ir-theory-l17|Week 4 - Non-Western IR Theory.md:L17]] — *"==**Constitutive localization**=="*
+- [[Week 4 - Non-Western IR Theory#^auto-non-western-ir-theory-l18|Week 4 - Non-Western IR Theory.md:L18]] — *"==**Subsidiarity (Acharya sense)**=="*
+- [[Week 4 - Non-Western IR Theory#^auto-non-western-ir-theory-l27|Week 4 - Non-Western IR Theory.md:L27]] — *"==**Deprovincialization**== ... %%so wait, Decentring is about provincializing...%%"*
 
 ---
 
@@ -174,12 +174,12 @@ Three pre-modern international systems Western IR ignores. Important because the
 **Your question:** describe more how the [tributary] system worked in practice.
 **Answer:** In practice the tributary system worked as a ritual-and-recognition arrangement, not a tax-collection one. Lesser rulers (Korean kings, Vietnamese emperors, Ryukyuan sovereigns, Burmese kings) sent periodic envoys to the Chinese court bearing symbolic tribute — exotic goods, local products, sometimes elephants. In exchange they received the Chinese emperor's **investiture** (formal recognition of their legitimacy) plus return gifts often worth more than the tribute, plus the right to trade. The system was *symbolic-political*, not economic-extractive. Why it mattered: it provided **domestic legitimacy** (Korean kings cited Chinese recognition to settle succession disputes), **trade access** (only "tribute states" could trade through the Canton system), and **a hierarchical-but-stable regional order** as long as China was strong. When China weakened (late Qing), the system collapsed — and the Westphalian sovereign-state model rushed in to replace it via the 19th-century "unequal treaties." For the essay: the practical mechanism (ritual + recognition + trade access) is what makes it look different from European anarchy — it's hierarchy by *consent and ritual*, not by force or formal subordination.
 
-**Connected to:** → [NWIRT + Global IR](#nwirt--global-ir) — these orders are the historical evidence Acharya cites to show Asia is not Westphalian by default; → [Asian exceptionalism trap](#asian-exceptionalism-trap-asian-values--tianxia) — Acharya warns against *romanticising* these systems (especially Tianxia).
+**Connected to:** → [[#NWIRT + Global IR|NWIRT + Global IR]] — these orders are the historical evidence Acharya cites to show Asia is not Westphalian by default; → [[#Asian exceptionalism trap ("Asian values" / Tianxia)|Asian exceptionalism trap]] — Acharya warns against *romanticising* these systems (especially Tianxia).
 
 **Seen in:**
-- [Week 4 - Non-Western IR Theory.md:L24](../../IRO/Summaries/Week%204%20-%20Non-Western%20IR%20Theory.md) — *"==**Tributary system**== ... %%Also relevant to china%%"*
-- [Week 4 - Non-Western IR Theory.md:L26](../../IRO/Summaries/Week%204%20-%20Non-Western%20IR%20Theory.md) — *"==**Tianxia ("all under heaven")**=="*
-- [Week 4 - Non-Western IR Theory.md:L61](../../IRO/Summaries/Week%204%20-%20Non-Western%20IR%20Theory.md) — *"**Chinese tributary system** ... %%describe more how the system worked in practice%%"*
+- [[Week 4 - Non-Western IR Theory#^auto-non-western-ir-theory-l24|Week 4 - Non-Western IR Theory.md:L24]] — *"==**Tributary system**== ... %%Also relevant to china%%"*
+- [[Week 4 - Non-Western IR Theory#^auto-non-western-ir-theory-l26|Week 4 - Non-Western IR Theory.md:L26]] — *"==**Tianxia ("all under heaven")**=="*
+- [[Week 4 - Non-Western IR Theory#^auto-non-western-ir-theory-l61|Week 4 - Non-Western IR Theory.md:L61]] — *"**Chinese tributary system** ... %%describe more how the system worked in practice%%"*
 
 ---
 
@@ -190,10 +190,10 @@ Three pre-modern international systems Western IR ignores. Important because the
 **Your question:** Why is there onlly these choices? Why is the colonization by a non-western power relevant?
 **Answer:** Two reasons make the "only these two trap-choices" claim hold. First, **the structural incentives**: Korean academic promotion is tied to publishing in SSCI/Western journals (mimicry strategy), but Western journals reject as "area studies" anything that's too distinctively Korean (marginalisation strategy). The structural rules of the academic field force a binary. Second, **why the Japanese colonisation matters**: standard postcolonial theory (Said, Spivak) is built around *European* coloniser → *non-European* colonised. Korea was colonised by an *Asian* coloniser (Japan), which complicates the picture — there's no clean "West vs. rest" binary. After 1945 Korea then became *intellectually* colonised by the US (through alliance dependence, academic training, university models) — so the postcoloniality is "twisted": you have colonisation by a non-Western power *and* intellectual dependence on a Western one. The result is that Korean IR scholars can't simply reach for Said-style postcolonial critique (it doesn't quite fit Japan's role), nor can they reach for "indigenous" theory (since traditional Korean knowledge was rejected after liberation as backward). Both escape routes are structurally blocked.
 
-**Connected to:** → [NWIRT + Global IR](#nwirt--global-ir) — Korea is the *case study* showing that the barriers to non-Western IR are structural, not a lack of ideas; → [hegemonic acceptance (Gramscian)](#hegemonic-acceptance-gramscian) — the internalised acceptance of Western intellectual frames is what makes the trap stick.
+**Connected to:** → [[#NWIRT + Global IR|NWIRT + Global IR]] — Korea is the *case study* showing that the barriers to non-Western IR are structural, not a lack of ideas; → [[#Hegemonic acceptance (Gramscian)|hegemonic acceptance (Gramscian)]] — the internalised acceptance of Western intellectual frames is what makes the trap stick.
 
 **Seen in:**
-- [Week 4 - Non-Western IR Theory.md:L20](../../IRO/Summaries/Week%204%20-%20Non-Western%20IR%20Theory.md) — *"==**Twisted postcoloniality**== ... %%Why is there onlly these choices?%%"*
+- [[Week 4 - Non-Western IR Theory#^auto-non-western-ir-theory-l20|Week 4 - Non-Western IR Theory.md:L20]] — *"==**Twisted postcoloniality**== ... %%Why is there onlly these choices?%%"*
 
 ---
 
@@ -209,13 +209,13 @@ Concrete examples of **subsidiarity** in action — local norms that have diffus
 
 **ZOPFAN (Zone of Peace, Freedom and Neutrality):** Southeast Asian initiative (1971) to keep the region free from great-power competition. Operationalised through ASEAN's later treaties.
 
-**Connected to:** → [constitutive localization + subsidiarity + deprovincialization](#constitutive-localization--subsidiarity--deprovincialization) — these are the example set; → [double-binding](#double-binding) — ZOPFAN is the historical precursor of ASEAN's double-binding strategy.
+**Connected to:** → [[#constitutive localization + subsidiarity + deprovincialization|constitutive localization + subsidiarity + deprovincialization]] — these are the example set; → [[#double-binding|double-binding]] — ZOPFAN is the historical precursor of ASEAN's double-binding strategy.
 
 **Seen in:**
-- [Week 4 - Non-Western IR Theory.md:L137](../../IRO/Summaries/Week%204%20-%20Non-Western%20IR%20Theory.md) — *"==**Nonintervention / nonalignment**=="*
-- [Week 4 - Non-Western IR Theory.md:L138](../../IRO/Summaries/Week%204%20-%20Non-Western%20IR%20Theory.md) — *"==**ASEAN regionalism**=="*
-- [Week 4 - Non-Western IR Theory.md:L139](../../IRO/Summaries/Week%204%20-%20Non-Western%20IR%20Theory.md) — *"==**Human security** — Mahbub ul Haq=="*
-- [Week 4 - Non-Western IR Theory.md:L140](../../IRO/Summaries/Week%204%20-%20Non-Western%20IR%20Theory.md) — *"==**ZOPFAN**=="*
+- [[Week 4 - Non-Western IR Theory#2.12 Global IR in practice (already happening)|Week 4 - Non-Western IR Theory.md:L137]] — *"==**Nonintervention / nonalignment**=="*
+- [[Week 4 - Non-Western IR Theory#2.12 Global IR in practice (already happening)|Week 4 - Non-Western IR Theory.md:L138]] — *"==**ASEAN regionalism**=="*
+- [[Week 4 - Non-Western IR Theory#^auto-non-western-ir-theory-l139|Week 4 - Non-Western IR Theory.md:L139]] — *"==**Human security** — Mahbub ul Haq=="*
+- [[Week 4 - Non-Western IR Theory#^auto-non-western-ir-theory-l140|Week 4 - Non-Western IR Theory.md:L140]] — *"==**ZOPFAN**=="*
 
 ---
 
@@ -228,11 +228,11 @@ Concrete examples of **subsidiarity** in action — local norms that have diffus
 - *Tianxia* + tributary nostalgia romanticise hierarchy and essentialise Chinese civilisation.
 - It **homogenises "Asia"** — treats a vast, diverse continent as a single intellectual tradition.
 
-**Connected to:** → [Tianxia / tributary / Mandala](#asian-historical-orders--tianxia--tributary--mandala) — the historical material that gets weaponised when romanticised; → [deprovincialization](#constitutive-localization--subsidiarity--deprovincialization) — Acharya's path 3, the way to avoid this trap.
+**Connected to:** → [[#Asian historical orders — Tianxia / tributary / Mandala|Tianxia / tributary / Mandala]] — the historical material that gets weaponised when romanticised; → [[#constitutive localization + subsidiarity + deprovincialization|deprovincialization]] — Acharya's path 3, the way to avoid this trap.
 
 **Seen in:**
-- [Week 4 - Non-Western IR Theory.md:L118](../../IRO/Summaries/Week%204%20-%20Non-Western%20IR%20Theory.md) — *"=="Asian values" was used to justify authoritarian governance=="*
-- [Week 4 - Non-Western IR Theory.md:L119](../../IRO/Summaries/Week%204%20-%20Non-Western%20IR%20Theory.md) — *"==**Tianxia** and tributary nostalgia romanticise hierarchy=="*
+- [[Week 4 - Non-Western IR Theory#2.10 The dangers of exceptionalism|Week 4 - Non-Western IR Theory.md:L118]] — *"=="Asian values" was used to justify authoritarian governance=="*
+- [[Week 4 - Non-Western IR Theory#2.10 The dangers of exceptionalism|Week 4 - Non-Western IR Theory.md:L119]] — *"==**Tianxia** and tributary nostalgia romanticise hierarchy=="*
 
 ---
 
@@ -246,10 +246,10 @@ Concrete examples of **subsidiarity** in action — local norms that have diffus
 
 **Why they matter for NWIRT:** Acharya cites these as evidence that Western IRT is *not monolithic* — there's space within realism for non-Western experience. Walt's *Origin of Alliances* used Middle East cases. These variants are part of why Acharya's argument is "broaden the discipline," not "replace it."
 
-**Connected to:** → [bandwagoning + balance of threat](#bandwagoning--balance-of-threat) — Walt's framework is closest to defensive realism; → [NWIRT + Global IR](#nwirt--global-ir) — Western IR is not monolithic.
+**Connected to:** → [[#bandwagoning + balance of threat|bandwagoning + balance of threat]] — Walt's framework is closest to defensive realism; → [[#NWIRT + Global IR|NWIRT + Global IR]] — Western IR is not monolithic.
 
 **Seen in:**
-- [Week 4 - Non-Western IR Theory.md:L266](../../IRO/Summaries/Week%204%20-%20Non-Western%20IR%20Theory.md) — *"==**subaltern realism** (Ayoob), **neoclassical realism**, **defensive realism**=="*
+- [[Week 4 - Non-Western IR Theory#^auto-non-western-ir-theory-l266|Week 4 - Non-Western IR Theory.md:L266]] — *"==**subaltern realism** (Ayoob), **neoclassical realism**, **defensive realism**=="*
 
 ---
 
@@ -259,10 +259,10 @@ Concrete examples of **subsidiarity** in action — local norms that have diffus
 
 **Why it matters:** Combined with the other four structural barriers (institutional, policy pull, language, area studies / IR divide), this explains why NWIRT has been slow to develop even where the material conditions are present — and why "just demand more non-Western scholars publish" misses the point.
 
-**Connected to:** → [twisted postcoloniality](#twisted-postcoloniality-south-korea) — the Korean case shows how Gramscian acceptance becomes a survival strategy; → [hegemonic stability theory](#multiplex-world-order--multipolarity-distinction) — different "hegemony" concept, both relevant on the exam.
+**Connected to:** → [[#twisted postcoloniality (South Korea)|twisted postcoloniality]] — the Korean case shows how Gramscian acceptance becomes a survival strategy; → [[#multiplex world order + multipolarity distinction|hegemonic stability theory]] — different "hegemony" concept, both relevant on the exam.
 
 **Seen in:**
-- [Week 4 - Non-Western IR Theory.md:L28](../../IRO/Summaries/Week%204%20-%20Non-Western%20IR%20Theory.md) — *"==**Hegemonic acceptance (Gramscian sense)**=="*
+- [[Week 4 - Non-Western IR Theory#^auto-non-western-ir-theory-l28|Week 4 - Non-Western IR Theory.md:L28]] — *"==**Hegemonic acceptance (Gramscian sense)**=="*
 
 ---
 
@@ -285,10 +285,10 @@ Concrete examples of **subsidiarity** in action — local norms that have diffus
 
 **In Week 6 context:** Hollifield uses it to describe the state's trap around irregular migration: tolerate illegal immigration and a black-market labour economy, or try to enforce strict controls and watch courts repeatedly block you. Neither option "works" — hence Hobson's choice.
 
-**Connected to:** → [liberal paradox](#liberal-paradox--migration-state) — Hobson's choice is the street-level symptom; the liberal paradox is the structural explanation for why the trap exists.
+**Connected to:** → [[#liberal paradox + migration state|liberal paradox]] — Hobson's choice is the street-level symptom; the liberal paradox is the structural explanation for why the trap exists.
 
 **Seen in:**
-- [Week 6 - Global Migration - Mobility and Security.md:L374](../../IRO/Summaries/Week%206%20-%20Global%20Migration%20-%20Mobility%20and%20Security.md) — *"illegal immigration and a growing black market for labour — 'a ==Hobson's choice=='"*
+- [[Week 6 - Global Migration - Mobility and Security#^auto-global-migration-mobility-and|Week 6 - Global Migration - Mobility and Security.md:L374]] — *"illegal immigration and a growing black market for labour — 'a ==Hobson's choice=='"*
 
 ---
 
@@ -303,12 +303,12 @@ Concrete examples of **subsidiarity** in action — local norms that have diffus
 
 **Explained easily:** Germany invited Turkish guest workers in the 1960s → tried to send them home after 1973 → courts said family reunification is a right → permanent immigrant population formed despite the policy reversal. That's the paradox. The 1999 *jus soli* reform and the 2000 Green Card for tech workers both showed the same pattern: you can't import workers without importing humans. A government that acknowledges this and builds institutions around managing it is a migration state.
 
-**Connected to:** → [Hobson's choice](#hobsons-choice) for the street-level expression of the paradox; → [security continuum](#security-continuum--internal-market-spillover) for the rival (Huysmans) explanation of why migration becomes political.
+**Connected to:** → [Hobson's choice](#hobsons-choice) for the street-level expression of the paradox; → [[#security continuum + internal market spillover|security continuum]] for the rival (Huysmans) explanation of why migration becomes political.
 
 **Seen in:**
-- [Week 6 - Global Migration - Mobility and Security.md:L384](../../IRO/Summaries/Week%206%20-%20Global%20Migration%20-%20Mobility%20and%20Security.md) — *"naming this trap — the ==**liberal paradox**=="*
-- [Week 6 - Global Migration - Mobility and Security.md:L498](../../IRO/Summaries/Week%206%20-%20Global%20Migration%20-%20Mobility%20and%20Security.md) — *"==Liberal paradox: economic openness × political closure.=="*
-- [Week 6 - Global Migration - Mobility and Security.md:L499](../../IRO/Summaries/Week%206%20-%20Global%20Migration%20-%20Mobility%20and%20Security.md) — *"==Three state functions: garrison + trading + **migration state**=="*
+- [[Week 6 - Global Migration - Mobility and Security#^auto-global-migration-mobility-and-2|Week 6 - Global Migration - Mobility and Security.md:L384]] — *"naming this trap — the ==**liberal paradox**=="*
+- [[Week 6 - Global Migration - Mobility and Security#^auto-global-migration-mobility-and-3|Week 6 - Global Migration - Mobility and Security.md:L498]] — *"==Liberal paradox: economic openness × political closure.=="*
+- [[Week 6 - Global Migration - Mobility and Security#^auto-global-migration-mobility-and-4|Week 6 - Global Migration - Mobility and Security.md:L499]] — *"==Three state functions: garrison + trading + **migration state**=="*
 
 **Sources:** Hollifield (1992, 2004) *Immigrants, Markets and States*; see also Week 6 summary sections 4.13 and 6.3.
 
@@ -325,12 +325,12 @@ Concrete examples of **subsidiarity** in action — local norms that have diffus
 
 **Explained easily (the key difference from Copenhagen School):** The Copenhagen School (Wæver) says securitisation happens when a politician makes a speech declaring something a security threat. Huysmans/Paris School says: look at the *border guard at the airport*, the *customs officer profiling travellers*, the *Frontex database*. These everyday professional practices build the security frame from the bottom up, through shared institutions — not through speeches. The security continuum is that institutional reality.
 
-**Connected to:** → [liberal paradox + migration state](#liberal-paradox--migration-state) — Huysmans and Hollifield are **complementary**: Hollifield tells you *why states are economically stuck* with migration (the paradox); Huysmans tells you *how migration gets politically constructed as a security threat* (the continuum). You need both for a strong essay answer.
+**Connected to:** → [[#liberal paradox + migration state|liberal paradox + migration state]] — Huysmans and Hollifield are **complementary**: Hollifield tells you *why states are economically stuck* with migration (the paradox); Huysmans tells you *how migration gets politically constructed as a security threat* (the continuum). You need both for a strong essay answer.
 
 **Seen in:**
-- [Week 6 - Global Migration - Mobility and Security.md:L449](../../IRO/Summaries/Week%206%20-%20Global%20Migration%20-%20Mobility%20and%20Security.md) — *"==**Security continuum** (Bigo / Huysmans) — institutionalised mode of policy-making linking border control, terrorism, crime and migration=="*
-- [Week 6 - Global Migration - Mobility and Security.md:L506](../../IRO/Summaries/Week%206%20-%20Global%20Migration%20-%20Mobility%20and%20Security.md) — *"The EU ==**internal market spillover into internal security**==: SEA → Schengen → Third Pillar → Dublin → Amsterdam"*
-- [Week 6 - Global Migration - Mobility and Security.md:L461](../../IRO/Summaries/Week%206%20-%20Global%20Migration%20-%20Mobility%20and%20Security.md) — *"Police and security professionals — via networks like TREVI and Bern Club — produced a ==**security continuum**=="*
+- [[Week 6 - Global Migration - Mobility and Security#^auto-global-migration-mobility-and-5|Week 6 - Global Migration - Mobility and Security.md:L449]] — *"==**Security continuum** (Bigo / Huysmans) — institutionalised mode of policy-making linking border control, terrorism, crime and migration=="*
+- [[Week 6 - Global Migration - Mobility and Security#^auto-global-migration-mobility-and-6|Week 6 - Global Migration - Mobility and Security.md:L506]] — *"The EU ==**internal market spillover into internal security**==: SEA → Schengen → Third Pillar → Dublin → Amsterdam"*
+- [[Week 6 - Global Migration - Mobility and Security#^auto-global-migration-mobility-and-7|Week 6 - Global Migration - Mobility and Security.md:L461]] — *"Police and security professionals — via networks like TREVI and Bern Club — produced a ==**security continuum**=="*
 
 **Sources:** Huysmans (2000) *The European Union and the Securitization of Migration*; Bigo (1994).
 
@@ -342,10 +342,10 @@ Concrete examples of **subsidiarity** in action — local norms that have diffus
 
 **The Dublin fix (and its problems):** The Dublin Convention (1990) was designed to end asylum shopping by requiring asylum seekers to apply in the *first safe country* of arrival. In practice this shifted the burden onto southern border states (Greece, Italy) that first-arrivals land in, and was largely suspended after 2015. Critics argue "asylum shopping" misrepresents refugees' actual situation — most have little choice in which country they reach first.
 
-**Connected to:** → [security continuum](#security-continuum--internal-market-spillover) — Dublin is one of the legal instruments produced by the Schengen/Third Pillar integration chain that Huysmans analyses. The "asylum shopping" discourse also feeds into the security continuum by framing refugees as strategic and therefore suspect actors.
+**Connected to:** → [[#security continuum + internal market spillover|security continuum]] — Dublin is one of the legal instruments produced by the Schengen/Third Pillar integration chain that Huysmans analyses. The "asylum shopping" discourse also feeds into the security continuum by framing refugees as strategic and therefore suspect actors.
 
 **Seen in:**
-- [Week 6 - Global Migration - Mobility and Security.md:L455](../../IRO/Summaries/Week%206%20-%20Global%20Migration%20-%20Mobility%20and%20Security.md) — *"Dublin Convention (1990) — asylum seekers must apply in first 'safe country' of arrival; prevents ==asylum shopping=="*
+- [[Week 6 - Global Migration - Mobility and Security#^auto-global-migration-mobility-and-8|Week 6 - Global Migration - Mobility and Security.md:L455]] — *"Dublin Convention (1990) — asylum seekers must apply in first 'safe country' of arrival; prevents ==asylum shopping=="*
 
 ---
 
@@ -370,10 +370,10 @@ Concrete examples of **subsidiarity** in action — local norms that have diffus
 
 **Definition:** *"War is simply a continuation of political intercourse, with the addition of other means."* War and politics are co-constitutive — there is no sharp dividing line between them. The foundational realist statement on war.
 
-**Connected to:** → [decolonising war + small wars](#decolonising-war--small-wars-barkawi) — Barkawi accepts the Clausewitz formula but argues IR has applied it selectively to European interstate wars only; → [Just War Theory](#just-war-theory-jus-ad-bellum--in-bello--post-bellum) — JWT is the moral middle ground between Clausewitz (war as legitimate political tool) and pacifism.
+**Connected to:** → [[#decolonising war + small wars (Barkawi)|decolonising war + small wars]] — Barkawi accepts the Clausewitz formula but argues IR has applied it selectively to European interstate wars only; → [[#Just War Theory (jus ad bellum + in bello + post bellum)|Just War Theory]] — JWT is the moral middle ground between Clausewitz (war as legitimate political tool) and pacifism.
 
 **Seen in:**
-- [Week 7 - War Peace and International Security.md:L33](../../IRO/Summaries/Week%207%20-%20War%20Peace%20and%20International%20Security.md) — *"==**Clausewitz on war**=="*
+- [[Week 7 - War Peace and International Security#^auto-war-peace-and-international-se|Week 7 - War Peace and International Security.md:L33]] — *"==**Clausewitz on war**=="*
 
 ---
 
@@ -381,10 +381,10 @@ Concrete examples of **subsidiarity** in action — local norms that have diffus
 
 **Definition:** Karl Deutsch (1957): groups of states where war is "unthinkable" because of shared identity and institutions — e.g. the EU/NATO area.
 
-**Connected to:** → [democratic peace theory](#democratic-peace-theory) — both are liberal claims about how war becomes implausible between certain states; → [ReArm Europe / SAFE](#rearm-europe--safe) — the Ukraine war tests whether the EU security community holds at its borders.
+**Connected to:** → [[#democratic peace theory|democratic peace theory]] — both are liberal claims about how war becomes implausible between certain states; → [[#ReArm Europe / SAFE|ReArm Europe / SAFE]] — the Ukraine war tests whether the EU security community holds at its borders.
 
 **Seen in:**
-- [Week 7 - War Peace and International Security.md:L37](../../IRO/Summaries/Week%207%20-%20War%20Peace%20and%20International%20Security.md) — *"==**Security communities**=="*
+- [[Week 7 - War Peace and International Security#^auto-war-peace-and-international-se-2|Week 7 - War Peace and International Security.md:L37]] — *"==**Security communities**=="*
 
 ---
 
@@ -399,11 +399,11 @@ JWT sits between realism (war as legitimate political tool) and pacifism (war ne
 
 **Explained easily:** Just war is like the conditions for a legitimate fistfight — you can only punch someone if they hit you first (just cause), you tried talking it out (last resort), you don't hit harder than necessary (proportionality), and you don't go for the eyes (discrimination). It tries to distinguish "tragically necessary" wars from aggression.
 
-**Connected to:** → [R2P](#r2p-responsibility-to-protect) — R2P is a contemporary doctrine that builds on JWT's *jus ad bellum*; → [Clausewitz on war](#clausewitz-on-war) — JWT's moral framework is the *other* answer to Clausewitz's realism.
+**Connected to:** → [[#R2P (Responsibility to Protect)|R2P]] — R2P is a contemporary doctrine that builds on JWT's *jus ad bellum*; → [[#Clausewitz on war|Clausewitz on war]] — JWT's moral framework is the *other* answer to Clausewitz's realism.
 
 **Seen in:**
-- [Week 7 - War Peace and International Security.md:L38](../../IRO/Summaries/Week%207%20-%20War%20Peace%20and%20International%20Security.md) — *"==**Just War Theory**=="*
-- [Week 7 - War Peace and International Security.md:L40](../../IRO/Summaries/Week%207%20-%20War%20Peace%20and%20International%20Security.md) — *"==proportionality==" (jus in bello)*
+- [[Week 7 - War Peace and International Security#^auto-war-peace-and-international-se-3|Week 7 - War Peace and International Security.md:L38]] — *"==**Just War Theory**=="*
+- [[Week 7 - War Peace and International Security#^auto-war-peace-and-international-se-4|Week 7 - War Peace and International Security.md:L40]] — *"==proportionality==" (jus in bello)*
 
 ---
 
@@ -411,10 +411,10 @@ JWT sits between realism (war as legitimate political tool) and pacifism (war ne
 
 **Definition:** Post-Cold War conflicts that blur the line between war and crime, involve non-state actors, and are fought over identity rather than ideology. Associated with Mary Kaldor.
 
-**Connected to:** → [decolonising war + small wars](#decolonising-war--small-wars-barkawi) — Barkawi's critique applies: are "new wars" *new*, or have they always been the norm for non-European states? → ["Dragon" states](#dragon-states-kilcullen) — Kilcullen's update for great-power competition + non-state threats running in parallel.
+**Connected to:** → [[#decolonising war + small wars (Barkawi)|decolonising war + small wars]] — Barkawi's critique applies: are "new wars" *new*, or have they always been the norm for non-European states? → [[#"Dragon" states (Kilcullen)|"Dragon" states]] — Kilcullen's update for great-power competition + non-state threats running in parallel.
 
 **Seen in:**
-- [Week 7 - War Peace and International Security.md:L41](../../IRO/Summaries/Week%207%20-%20War%20Peace%20and%20International%20Security.md) — *"==**New wars**=="*
+- [[Week 7 - War Peace and International Security#^auto-war-peace-and-international-se-5|Week 7 - War Peace and International Security.md:L41]] — *"==**New wars**=="*
 
 ---
 
@@ -428,11 +428,11 @@ JWT sits between realism (war as legitimate political tool) and pacifism (war ne
 
 **Explained easily:** Imagine if historians only defined "music" as classical orchestral music, and put hip-hop, jazz, and folk into separate lesser categories called "sounds." That's what Eurocentric war studies did with colonial conflicts — they defined "real war" as European interstate war, and called everything else (uprisings, counterinsurgency, occupations) something other than war. Barkawi: the definition is the problem. Fix the concept, not just the geography.
 
-**Connected to:** → [Clausewitz on war](#clausewitz-on-war) — Barkawi accepts Clausewitz's politics-and-war fusion but charges IR with applying it selectively; → [NWIRT + Global IR](#nwirt--global-ir) (Week 4) — Barkawi extends the same decolonial logic to war studies that Acharya extends to IR theory broadly.
+**Connected to:** → [[#Clausewitz on war|Clausewitz on war]] — Barkawi accepts Clausewitz's politics-and-war fusion but charges IR with applying it selectively; → [[#NWIRT + Global IR|NWIRT + Global IR]] (Week 4) — Barkawi extends the same decolonial logic to war studies that Acharya extends to IR theory broadly.
 
 **Seen in:**
-- [Week 7 - War Peace and International Security.md:L42](../../IRO/Summaries/Week%207%20-%20War%20Peace%20and%20International%20Security.md) — *"==**Decolonising war** (Barkawi)=="*
-- [Week 7 - War Peace and International Security.md:L43](../../IRO/Summaries/Week%207%20-%20War%20Peace%20and%20International%20Security.md) — *"==**Small Wars**=="*
+- [[Week 7 - War Peace and International Security#^auto-war-peace-and-international-se-6|Week 7 - War Peace and International Security.md:L42]] — *"==**Decolonising war** (Barkawi)=="*
+- [[Week 7 - War Peace and International Security#^auto-war-peace-and-international-se-7|Week 7 - War Peace and International Security.md:L43]] — *"==**Small Wars**=="*
 
 ---
 
@@ -440,10 +440,10 @@ JWT sits between realism (war as legitimate political tool) and pacifism (war ne
 
 **Definition:** 2005 UN doctrine: sovereignty is conditional on a state protecting its population; if it fails, the international community has a responsibility to intervene.
 
-**Connected to:** → [Just War Theory](#just-war-theory-jus-ad-bellum--in-bello--post-bellum) — R2P operationalises *jus ad bellum* "just cause" (atrocity prevention); → [decolonising war](#decolonising-war--small-wars-barkawi) — critical view: R2P can become a *technology of colonial-modern rule* (Shilliam 2013).
+**Connected to:** → [[#Just War Theory (jus ad bellum + in bello + post bellum)|Just War Theory]] — R2P operationalises *jus ad bellum* "just cause" (atrocity prevention); → [[#decolonising war + small wars (Barkawi)|decolonising war]] — critical view: R2P can become a *technology of colonial-modern rule* (Shilliam 2013).
 
 **Seen in:**
-- [Week 7 - War Peace and International Security.md:L45](../../IRO/Summaries/Week%207%20-%20War%20Peace%20and%20International%20Security.md) — *"==**R2P (Responsibility to Protect)**=="*
+- [[Week 7 - War Peace and International Security#^auto-war-peace-and-international-se-8|Week 7 - War Peace and International Security.md:L45]] — *"==**R2P (Responsibility to Protect)**=="*
 
 ---
 
@@ -453,10 +453,10 @@ JWT sits between realism (war as legitimate political tool) and pacifism (war ne
 
 **Why it matters:** Raises questions about accountability, sovereignty, and democratic control of force — if a fourth of "your army" is privately contracted, who is the principal in the principal-agent relationship?
 
-**Connected to:** → [Clausewitz on war](#clausewitz-on-war) — PMSI complicates the "state monopoly on legitimate violence" assumption built into the realist account; → [neoconservatism (Kagan post-9/11)](#multiplex-world-order--multipolarity-distinction) (Week 8) — PMSI expansion is part of the post-9/11 US unilateral primacy project.
+**Connected to:** → [[#Clausewitz on war|Clausewitz on war]] — PMSI complicates the "state monopoly on legitimate violence" assumption built into the realist account; → [[#multiplex world order + multipolarity distinction|neoconservatism (Kagan post-9/11)]] (Week 8) — PMSI expansion is part of the post-9/11 US unilateral primacy project.
 
 **Seen in:**
-- [Week 7 - War Peace and International Security.md:L46](../../IRO/Summaries/Week%207%20-%20War%20Peace%20and%20International%20Security.md) — *"==**Private Military Security Industry (PMSI)**=="*
+- [[Week 7 - War Peace and International Security#^auto-war-peace-and-international-se-9|Week 7 - War Peace and International Security.md:L46]] — *"==**Private Military Security Industry (PMSI)**=="*
 
 ---
 
@@ -464,10 +464,10 @@ JWT sits between realism (war as legitimate political tool) and pacifism (war ne
 
 **Definition:** Empirical claim that liberal democracies do not fight each other — a key liberal IR argument. (Deudney & Ikenberry 1999) Explanation: shared norms (respect for rights, rule of law) and economic interdependence make war too costly and morally illegitimate between democracies.
 
-**Connected to:** → [security communities (Deutsch)](#security-communities-deutsch) — closely related liberal claim about where war becomes unthinkable; → [globalization trilemma](#multiplex-world-order--multipolarity-distinction) (Week 8) — DPT was the optimistic post-Cold War expectation; Rodrik's trilemma + populist backlash explains the souring.
+**Connected to:** → [[#security communities (Deutsch)|security communities (Deutsch)]] — closely related liberal claim about where war becomes unthinkable; → [[#multiplex world order + multipolarity distinction|globalization trilemma]] (Week 8) — DPT was the optimistic post-Cold War expectation; Rodrik's trilemma + populist backlash explains the souring.
 
 **Seen in:**
-- [Week 7 - War Peace and International Security.md:L70](../../IRO/Summaries/Week%207%20-%20War%20Peace%20and%20International%20Security.md) — *"==Liberals see war as a problem solvable by spreading democracy (*democratic peace theory*)=="*
+- [[Week 7 - War Peace and International Security#^auto-war-peace-and-international-se-10|Week 7 - War Peace and International Security.md:L70]] — *"==Liberals see war as a problem solvable by spreading democracy (*democratic peace theory*)=="*
 
 ---
 
@@ -475,10 +475,10 @@ JWT sits between realism (war as legitimate political tool) and pacifism (war ne
 
 **Definition:** Russia and China — states that *refused* to orbit the US-led order and developed alternative strategies, including *"three warfares"* (psychological warfare, public opinion warfare, "lawfare"). Kilcullen's category, contrasted with "Snakes" (non-state actors and threats from state collapse).
 
-**Connected to:** → [multiplex world order](#multiplex-world-order--multipolarity-distinction) (Week 8) — Acharya's diversity-of-actors framing fits Kilcullen's "Dragons + Snakes" descriptive picture; → [decolonising war](#decolonising-war--small-wars-barkawi) — both Dragons and Snakes break the European interstate-war template.
+**Connected to:** → [[#multiplex world order + multipolarity distinction|multiplex world order]] (Week 8) — Acharya's diversity-of-actors framing fits Kilcullen's "Dragons + Snakes" descriptive picture; → [[#decolonising war + small wars (Barkawi)|decolonising war]] — both Dragons and Snakes break the European interstate-war template.
 
 **Seen in:**
-- [Week 7 - War Peace and International Security.md:L111](../../IRO/Summaries/Week%207%20-%20War%20Peace%20and%20International%20Security.md) — *"=="Dragon" states (Russia, China)... including "three warfares"=="*
+- [[Week 7 - War Peace and International Security#New Wars and Contemporary Conflict|Week 7 - War Peace and International Security.md:L111]] — *"=="Dragon" states (Russia, China)... including "three warfares"=="*
 
 ---
 
@@ -486,10 +486,10 @@ JWT sits between realism (war as legitimate political tool) and pacifism (war ne
 
 **Definition:** The EU's €800 billion *ReArm Europe* plan (2025): suspends strict budget rules, pools procurement, and creates a new lending instrument (**SAFE**). A direct consequence of the Ukraine war and a historic shift in European defence posture.
 
-**Connected to:** → [security communities (Deutsch)](#security-communities-deutsch) — ReArm tests whether the EU is also a security community *vis-à-vis its periphery*, not just internally; → [multiplex world order](#multiplex-world-order--multipolarity-distinction) (Week 8) — Europe becoming a more autonomous pole is part of the move from US-led unipolarity to multiplexity.
+**Connected to:** → [[#security communities (Deutsch)|security communities (Deutsch)]] — ReArm tests whether the EU is also a security community *vis-à-vis its periphery*, not just internally; → [[#multiplex world order + multipolarity distinction|multiplex world order]] (Week 8) — Europe becoming a more autonomous pole is part of the move from US-led unipolarity to multiplexity.
 
 **Seen in:**
-- [Week 7 - War Peace and International Security.md:L120](../../IRO/Summaries/Week%207%20-%20War%20Peace%20and%20International%20Security.md) — *"==pooling procurement==" / "==new lending instrument (SAFE==)"*
+- [[Week 7 - War Peace and International Security#Re-Arm Europe (contemporary relevance)|Week 7 - War Peace and International Security.md:L120]] — *"==pooling procurement==" / "==new lending instrument (SAFE==)"*
 
 ---
 
@@ -520,11 +520,11 @@ JWT sits between realism (war as legitimate political tool) and pacifism (war ne
 - **Order and power:** order follows the distribution of power (the liberal order was a product of US dominance).
 - **Order and diversity:** the central question today — how do you sustain a stable order when values, interests, and power are increasingly diverse?
 
-**Connected to:** → [multiplex world order](#multiplex-world-order--multipolarity-distinction) — Acharya's bet on diversity; → [neoconservatism (Kagan)](#multiplex-world-order--multipolarity-distinction) — the US unilateralism that fractured the post-1991 liberal order.
+**Connected to:** → [[#multiplex world order + multipolarity distinction|multiplex world order]] — Acharya's bet on diversity; → [[#multiplex world order + multipolarity distinction|neoconservatism (Kagan)]] — the US unilateralism that fractured the post-1991 liberal order.
 
 **Seen in:**
-- [Week 8 - Power Liberalism and World Order.md:L48](../../IRO/Summaries/Week%208%20-%20Power%20Liberalism%20and%20World%20Order.md) — *"==The lecture opens with two definitions of world order=="*
-- [Week 8 - Power Liberalism and World Order.md:L50](../../IRO/Summaries/Week%208%20-%20Power%20Liberalism%20and%20World%20Order.md) — *"==**Roach & O'Callaghan:** a stable pattern of relations... not to be confused with peace or justice.=="*
+- [[Week 8 - Power Liberalism and World Order#What is world order and why does it matter?|Week 8 - Power Liberalism and World Order.md:L48]] — *"==The lecture opens with two definitions of world order=="*
+- [[Week 8 - Power Liberalism and World Order#^auto-power-liberalism-and-world-ord|Week 8 - Power Liberalism and World Order.md:L50]] — *"==**Roach & O'Callaghan:** a stable pattern of relations... not to be confused with peace or justice.=="*
 
 ---
 
@@ -541,12 +541,12 @@ JWT sits between realism (war as legitimate political tool) and pacifism (war ne
 
 **Explained easily — world orders:** Think of the international system like the music industry. Cold War (bipolar) = two major labels. Post-1991 (unipolar) = one label (US-led liberal order) dominates. Now (multipolar/multiplex) = streaming era — many labels, many genres, audiences choose. Acharya's multiplex is the streaming era of world politics.
 
-**Connected to:** → [NWIRT + Global IR](#nwirt--global-ir) (Week 4) — multiplex is Global IR applied to world order; → [BRI + BRICS + Beijing Consensus](#bri--brics--beijing-consensus) — concrete alternative orders being built; → [Acharya, Amitav](#nwirt--global-ir) — same author across Weeks 4, 8, 12.
+**Connected to:** → [[#NWIRT + Global IR|NWIRT + Global IR]] (Week 4) — multiplex is Global IR applied to world order; → [[#BRI + BRICS + Beijing Consensus|BRI + BRICS + Beijing Consensus]] — concrete alternative orders being built; → [[#NWIRT + Global IR|Acharya, Amitav]] — same author across Weeks 4, 8, 12.
 
 **Seen in:**
-- [Week 8 - Power Liberalism and World Order.md:L23](../../IRO/Summaries/Week%208%20-%20Power%20Liberalism%20and%20World%20Order.md) — *"==**Multiplex world order**=="*
-- [Week 8 - Power Liberalism and World Order.md:L68](../../IRO/Summaries/Week%208%20-%20Power%20Liberalism%20and%20World%20Order.md) — *"==Acharya's *multiplex* is importantly different from simple *multipolarity*==..."*
-- [Week 8 - Power Liberalism and World Order.md:L206](../../IRO/Summaries/Week%208%20-%20Power%20Liberalism%20and%20World%20Order.md) — *"==Neoconservatism — the US asserted unilateral primacy=="*
+- [[Week 8 - Power Liberalism and World Order#^auto-power-liberalism-and-world-ord-2|Week 8 - Power Liberalism and World Order.md:L23]] — *"==**Multiplex world order**=="*
+- [[Week 8 - Power Liberalism and World Order#^auto-power-liberalism-and-world-ord-3|Week 8 - Power Liberalism and World Order.md:L68]] — *"==Acharya's *multiplex* is importantly different from simple *multipolarity*==..."*
+- [[Week 8 - Power Liberalism and World Order#^auto-power-liberalism-and-world-ord-4|Week 8 - Power Liberalism and World Order.md:L206]] — *"==Neoconservatism — the US asserted unilateral primacy=="*
 
 ---
 
@@ -560,10 +560,10 @@ JWT sits between realism (war as legitimate political tool) and pacifism (war ne
 
 **Explained easily:** Hard power is getting what you want by threatening or paying someone — like a bouncer. Soft power is getting what you want because people admire you and want to be like you — like a musician whose fans copy their style. The US has both: its military (hard) + Hollywood/universities/democracy (soft). China has been building hard power for decades and is now actively trying to develop soft power (BRI, cultural diplomacy).
 
-**Connected to:** → [power as resource vs. outcome](#power-as-resource-vs-outcome) — Nye's typology is mostly *resource*; the resource/outcome distinction is *orthogonal* (Joseph Nye on what kinds of resources; Robert Dahl on what counts as influence); → [BRI](#bri--brics--beijing-consensus) — BRI is the canonical case of hard + soft power combined.
+**Connected to:** → [[#power as resource vs. outcome|power as resource vs. outcome]] — Nye's typology is mostly *resource*; the resource/outcome distinction is *orthogonal* (Joseph Nye on what kinds of resources; Robert Dahl on what counts as influence); → [[#BRI + BRICS + Beijing Consensus|BRI]] — BRI is the canonical case of hard + soft power combined.
 
 **Seen in:**
-- [Week 8 - Power Liberalism and World Order.md:L29](../../IRO/Summaries/Week%208%20-%20Power%20Liberalism%20and%20World%20Order.md) — *"==**Smart power**=="*
+- [[Week 8 - Power Liberalism and World Order#^auto-power-liberalism-and-world-ord-5|Week 8 - Power Liberalism and World Order.md:L29]] — *"==**Smart power**=="*
 
 ---
 
@@ -575,10 +575,10 @@ JWT sits between realism (war as legitimate political tool) and pacifism (war ne
 
 **Why the distinction matters:** Two states with similar resources can have very different *outcomes* depending on their relational capacity (alliances, soft power, institutional positioning). This is why states like Singapore or the Netherlands punch above their weight.
 
-**Connected to:** → [hard/soft/smart power](#hard--soft--smart-power-nye) — Nye's typology is mostly resource; the outcome dimension is what makes soft power *work*; → [institutional power](#institutional-power) — relational + structural channel.
+**Connected to:** → [[#hard / soft / smart power (Nye)|hard/soft/smart power]] — Nye's typology is mostly resource; the outcome dimension is what makes soft power *work*; → [[#institutional power|institutional power]] — relational + structural channel.
 
 **Seen in:**
-- [Week 8 - Power Liberalism and World Order.md:L76](../../IRO/Summaries/Week%208%20-%20Power%20Liberalism%20and%20World%20Order.md) — *"==The lecture distinguishes two types of power=="*
+- [[Week 8 - Power Liberalism and World Order#^auto-power-liberalism-and-world-ord-6|Week 8 - Power Liberalism and World Order.md:L76]] — *"==The lecture distinguishes two types of power=="*
 
 ---
 
@@ -586,10 +586,10 @@ JWT sits between realism (war as legitimate political tool) and pacifism (war ne
 
 **Definition:** Power is embedded in institutions (Thelen 2004). Institutions are *"the rules of the game"* (North 1990) — whoever shapes the rules shapes outcomes. The US shaped post-WWII institutions (UN, WTO, IMF) in its own image, giving it **structural/institutional power long after its material dominance peaked**.
 
-**Connected to:** → [hegemonic stability theory](#multiplex-world-order--multipolarity-distinction) — institutional power is the *mechanism* by which a fading hegemon retains influence; → [BRI + BRICS](#bri--brics--beijing-consensus) — these are China's attempt to build *parallel* institutions (because the existing ones are US-shaped).
+**Connected to:** → [[#multiplex world order + multipolarity distinction|hegemonic stability theory]] — institutional power is the *mechanism* by which a fading hegemon retains influence; → [[#BRI + BRICS + Beijing Consensus|BRI + BRICS]] — these are China's attempt to build *parallel* institutions (because the existing ones are US-shaped).
 
 **Seen in:**
-- [Week 8 - Power Liberalism and World Order.md:L85](../../IRO/Summaries/Week%208%20-%20Power%20Liberalism%20and%20World%20Order.md) — *"==**Institutional power:** Power is embedded in institutions==..."*
+- [[Week 8 - Power Liberalism and World Order#^auto-power-liberalism-and-world-ord-7|Week 8 - Power Liberalism and World Order.md:L85]] — *"==**Institutional power:** Power is embedded in institutions==..."*
 
 ---
 
@@ -603,11 +603,11 @@ JWT sits between realism (war as legitimate political tool) and pacifism (war ne
 
 **Why these matter for world order:** Together they sketch what an alternative-to-US-led order could look like. Not a single replacement hegemony, but a *parallel* set of institutions and norms that give middle powers options outside the Western-dominated system. This is part of why Acharya's *multiplex* (rather than simple multipolarity) is the better description: it's about diversity of *institutional menus*, not just diversity of great powers.
 
-**Connected to:** → [multiplex world order](#multiplex-world-order--multipolarity-distinction) — these are the concrete content of multiplexity; → [institutional power](#institutional-power) — BRI/BRICS are China's bid to shape the rules of the game.
+**Connected to:** → [[#multiplex world order + multipolarity distinction|multiplex world order]] — these are the concrete content of multiplexity; → [[#institutional power|institutional power]] — BRI/BRICS are China's bid to shape the rules of the game.
 
 **Seen in:**
-- [Week 8 - Power Liberalism and World Order.md:L232](../../IRO/Summaries/Week%208%20-%20Power%20Liberalism%20and%20World%20Order.md) — *"==Acharya's multiplex world order... Chinese "Beijing Consensus"=="*
-- [Week 8 - Power Liberalism and World Order.md:L234](../../IRO/Summaries/Week%208%20-%20Power%20Liberalism%20and%20World%20Order.md) — *"==Belt and Road Initiative as China's alternative... BRICS as an alternative grouping=="*
+- [[Week 8 - Power Liberalism and World Order#^auto-power-liberalism-and-world-ord-8|Week 8 - Power Liberalism and World Order.md:L232]] — *"==Acharya's multiplex world order... Chinese "Beijing Consensus"=="*
+- [[Week 8 - Power Liberalism and World Order#^auto-power-liberalism-and-world-ord-9|Week 8 - Power Liberalism and World Order.md:L234]] — *"==Belt and Road Initiative as China's alternative... BRICS as an alternative grouping=="*
 
 ---
 
@@ -627,12 +627,12 @@ JWT sits between realism (war as legitimate political tool) and pacifism (war ne
 
 **Explained easily:** Imagine three things you want at full strength: (1) a fully open global economy where capital and goods flow freely, (2) your country making its own rules, (3) your country being democratic. You can pick any two. The EU picked open economy + democracy but gave up sovereignty (Brussels makes the rules). China picked open economy + sovereignty but skipped democracy. Brexit Britain picked sovereignty + democracy but closed off the open economy. There's no fourth option where you get all three — somebody, somewhere, is paying for what you chose.
 
-**Connected to:** → [populism: demand vs supply](#populism-demand-vs-supply--populism-as-repertoire-vs-nationalism) (Week 11) — the trilemma generates the *demand* for populism, but not its political form; → [precariat](#precariat-standing) — the bloc that bears the cost of the chosen sacrifice; → [Anthropocene](#anthropocene--post-humanism) (Week 12) — Denney noted in Week 12 that the trilemma reappears with planetary boundaries replacing democracy as the squeezed third corner.
+**Connected to:** → [[#populism: demand vs supply + populism as repertoire vs nationalism|populism: demand vs supply]] (Week 11) — the trilemma generates the *demand* for populism, but not its political form; → [[#precariat (Standing)|precariat]] — the bloc that bears the cost of the chosen sacrifice; → [[#Anthropocene + post-humanism|Anthropocene]] (Week 12) — Denney noted in Week 12 that the trilemma reappears with planetary boundaries replacing democracy as the squeezed third corner.
 
 **Seen in:**
-- [Week 8 - Power Liberalism and World Order.md:L30](../../IRO/Summaries/Week%208%20-%20Power%20Liberalism%20and%20World%20Order.md) — *"==**Globalization trilemma**=="*
-- [Week 8 - Power Liberalism and World Order.md:L142](../../IRO/Summaries/Week%208%20-%20Power%20Liberalism%20and%20World%20Order.md) — *"==Imagine three things you want...=="*
-- [Week 11 - Globalization and Populism.md:L28](../../IRO/Summaries/Week%2011%20-%20Globalization%20and%20Populism.md) — *"==**Globalization trilemma**== ... Rodrik (2011, 2018)"*
+- [[Week 8 - Power Liberalism and World Order#^auto-power-liberalism-and-world-ord-10|Week 8 - Power Liberalism and World Order.md:L30]] — *"==**Globalization trilemma**=="*
+- [[Week 8 - Power Liberalism and World Order#^auto-power-liberalism-and-world-ord-11|Week 8 - Power Liberalism and World Order.md:L142]] — *"==Imagine three things you want...=="*
+- [[Week 11 - Globalization and Populism#^auto-globalization-and-populism-l28|Week 11 - Globalization and Populism.md:L28]] — *"==**Globalization trilemma**== ... Rodrik (2011, 2018)"*
 
 ---
 
@@ -647,11 +647,11 @@ JWT sits between realism (war as legitimate political tool) and pacifism (war ne
 
 **Why this matters across the course:** Spillover is exactly the mechanism Huysmans uses in Week 6 to explain how the EU's *internal* market spilled into *internal security* (the security continuum). Same logic, security domain.
 
-**Connected to:** → [internal market spillover into internal security](#security-continuum--internal-market-spillover) (Week 6) — Huysmans' mechanism is a neofunctionalist spillover applied to security; → [intergovernmentalism + liberal intergovernmentalism](#intergovernmentalism--liberal-intergovernmentalism) — the rival theory.
+**Connected to:** → [[#security continuum + internal market spillover|internal market spillover into internal security]] (Week 6) — Huysmans' mechanism is a neofunctionalist spillover applied to security; → [[#intergovernmentalism + liberal intergovernmentalism|intergovernmentalism + liberal intergovernmentalism]] — the rival theory.
 
 **Seen in:**
-- [Week 8 - Power Liberalism and World Order.md:L34](../../IRO/Summaries/Week%208%20-%20Power%20Liberalism%20and%20World%20Order.md) — *"==**Functionalism**=="*
-- [Week 8 - Power Liberalism and World Order.md:L35](../../IRO/Summaries/Week%208%20-%20Power%20Liberalism%20and%20World%20Order.md) — *"==**Neofunctionalism**=="*
+- [[Week 8 - Power Liberalism and World Order#^auto-power-liberalism-and-world-ord-12|Week 8 - Power Liberalism and World Order.md:L34]] — *"==**Functionalism**=="*
+- [[Week 8 - Power Liberalism and World Order#^auto-power-liberalism-and-world-ord-13|Week 8 - Power Liberalism and World Order.md:L35]] — *"==**Neofunctionalism**=="*
 
 ---
 
@@ -661,11 +661,11 @@ JWT sits between realism (war as legitimate political tool) and pacifism (war ne
 
 **Liberal intergovernmentalism (Moravcsik):** Refinement — EU integration is driven by **bargains between major member states**, which in turn reflect *domestic economic preferences*. The synthesis explains both why states integrate (mutual gains from policy coordination) and why integration stalls (when domestic preferences diverge).
 
-**Connected to:** → [functionalism + neofunctionalism](#functionalism--neofunctionalism--spillover) — the rival theory; → [comparative regionalism](#comparative-regionalism) — the question whether *any* of these EU-derived theories explain ASEAN, AU, etc.
+**Connected to:** → [[#functionalism + neofunctionalism + spillover|functionalism + neofunctionalism]] — the rival theory; → [[#comparative regionalism|comparative regionalism]] — the question whether *any* of these EU-derived theories explain ASEAN, AU, etc.
 
 **Seen in:**
-- [Week 8 - Power Liberalism and World Order.md:L37](../../IRO/Summaries/Week%208%20-%20Power%20Liberalism%20and%20World%20Order.md) — *"==**Intergovernmentalism**=="*
-- [Week 8 - Power Liberalism and World Order.md:L38](../../IRO/Summaries/Week%208%20-%20Power%20Liberalism%20and%20World%20Order.md) — *"==**Liberal intergovernmentalism**=="*
+- [[Week 8 - Power Liberalism and World Order#^auto-power-liberalism-and-world-ord-14|Week 8 - Power Liberalism and World Order.md:L37]] — *"==**Intergovernmentalism**=="*
+- [[Week 8 - Power Liberalism and World Order#^auto-power-liberalism-and-world-ord-15|Week 8 - Power Liberalism and World Order.md:L38]] — *"==**Liberal intergovernmentalism**=="*
 
 ---
 
@@ -675,10 +675,10 @@ JWT sits between realism (war as legitimate political tool) and pacifism (war ne
 
 **Why this matters:** EU-derived theories (functionalism, neofunctionalism, liberal intergovernmentalism) struggle to explain ASEAN, which is consensus-based, sovereignty-preserving, and *conservative* rather than transformative — the opposite of the EU. Acharya's *constitutive localization* explains why: ASEAN borrowed the idea of multilateralism but reshaped it (the "ASEAN Way").
 
-**Connected to:** → [ASEAN regionalism](#asian-origin-global-norms-zopfan--nonintervention--human-security--asean-regionalism) (Week 4) — ASEAN is the canonical comparative regionalism case; → [constitutive localization](#constitutive-localization--subsidiarity--deprovincialization) (Week 4) — explains how non-European regionalisms differ.
+**Connected to:** → [[#Asian-origin global norms — ZOPFAN / nonintervention / human security / ASEAN regionalism|ASEAN regionalism]] (Week 4) — ASEAN is the canonical comparative regionalism case; → [[#constitutive localization + subsidiarity + deprovincialization|constitutive localization]] (Week 4) — explains how non-European regionalisms differ.
 
 **Seen in:**
-- [Week 8 - Power Liberalism and World Order.md:L40](../../IRO/Summaries/Week%208%20-%20Power%20Liberalism%20and%20World%20Order.md) — *"==**Comparative regionalism**=="*
+- [[Week 8 - Power Liberalism and World Order#^auto-power-liberalism-and-world-ord-16|Week 8 - Power Liberalism and World Order.md:L40]] — *"==**Comparative regionalism**=="*
 
 ---
 
@@ -702,10 +702,10 @@ JWT sits between realism (war as legitimate political tool) and pacifism (war ne
 
 **Why Mishra completes the diagnosis:** Rodrik's trilemma gives the *constraint*. Heywood & Whitham give the *conditions* (thinning of social ties). Mishra fills in the *affect* — why anger, not resignation, is the dominant response.
 
-**Connected to:** → [globalization trilemma (Rodrik)](#globalization-trilemma-rodrik) — Rodrik is structural-economic, Mishra is emotional-psychological; together they explain why populism is the political form; → [populism: demand vs supply](#populism-demand-vs-supply--populism-as-repertoire-vs-nationalism) — the rage is the demand side; cleavage activation is the supply side; → [precariat](#precariat-standing) — the social bloc carrying the rage.
+**Connected to:** → [[#globalization trilemma (Rodrik)|globalization trilemma (Rodrik)]] — Rodrik is structural-economic, Mishra is emotional-psychological; together they explain why populism is the political form; → [[#populism: demand vs supply + populism as repertoire vs nationalism|populism: demand vs supply]] — the rage is the demand side; cleavage activation is the supply side; → [[#precariat (Standing)|precariat]] — the social bloc carrying the rage.
 
 **Seen in:**
-- [Week 11 - Globalization and Populism.md:L32](../../IRO/Summaries/Week%2011%20-%20Globalization%20and%20Populism.md) — *"==**Globalization of rage**=="*
+- [[Week 11 - Globalization and Populism#^auto-globalization-and-populism-l32|Week 11 - Globalization and Populism.md:L32]] — *"==**Globalization of rage**=="*
 
 ---
 
@@ -722,10 +722,10 @@ JWT sits between realism (war as legitimate political tool) and pacifism (war ne
 
 **The US case** is the clearest illustration of demand/supply: same country, same period, two populisms (Sanders left + Trump right) along different cleavages of the same crisis.
 
-**Connected to:** → [globalization trilemma](#globalization-trilemma-rodrik) — the structural cause of the demand; → [globalization of rage (Mishra)](#globalization-of-rage-mishra) — the affective register of the demand; → [precariat](#precariat-standing) — the social bloc whose votes carry the populist surge.
+**Connected to:** → [[#globalization trilemma (Rodrik)|globalization trilemma]] — the structural cause of the demand; → [[#globalization of rage (Mishra)|globalization of rage (Mishra)]] — the affective register of the demand; → [[#precariat (Standing)|precariat]] — the social bloc whose votes carry the populist surge.
 
 **Seen in:**
-- [Week 11 - Globalization and Populism.md:L11](../../IRO/Summaries/Week%2011%20-%20Globalization%20and%20Populism.md) — *"==**Dani Rodrik**== ... for the globalization trilemma and the demand/supply distinction"*
+- [[Week 11 - Globalization and Populism#^auto-globalization-and-populism-l11|Week 11 - Globalization and Populism.md:L11]] — *"==**Dani Rodrik**== ... for the globalization trilemma and the demand/supply distinction"*
 
 ---
 
@@ -735,10 +735,10 @@ JWT sits between realism (war as legitimate political tool) and pacifism (war ne
 
 **Why it matters:** The precariat is the social-class substrate of the populist surge. Standing's diagnosis fits between Heywood & Whitham (thinning of social ties → the conditions) and Rodrik (trilemma → the constraint): the precariat is the *empirical group* on which the constraint visibly bites and the conditions visibly hold.
 
-**Connected to:** → [globalization trilemma](#globalization-trilemma-rodrik) — the precariat bears the cost of whichever corner gets sacrificed; → [globalization of rage](#globalization-of-rage-mishra) — the precariat is the demographic carrier of Mishra's resentment; → [populism: demand vs supply](#populism-demand-vs-supply--populism-as-repertoire-vs-nationalism) — the precariat's vote is what gives populism its electoral weight.
+**Connected to:** → [[#globalization trilemma (Rodrik)|globalization trilemma]] — the precariat bears the cost of whichever corner gets sacrificed; → [[#globalization of rage (Mishra)|globalization of rage]] — the precariat is the demographic carrier of Mishra's resentment; → [[#populism: demand vs supply + populism as repertoire vs nationalism|populism: demand vs supply]] — the precariat's vote is what gives populism its electoral weight.
 
 **Seen in:**
-- [Week 8 - Power Liberalism and World Order.md:L247](../../IRO/Summaries/Week%208%20-%20Power%20Liberalism%20and%20World%20Order.md) — *"==This produced the "precariat"=="*
+- [[Week 8 - Power Liberalism and World Order#^auto-power-liberalism-and-world-ord-17|Week 8 - Power Liberalism and World Order.md:L247]] — *"==This produced the "precariat"=="*
 
 ---
 
@@ -763,11 +763,11 @@ JWT sits between realism (war as legitimate political tool) and pacifism (war ne
 
 **Explained easily:** Imagine you go to your doctor about a pain in your leg, and the doctor only owns measuring tools for the upper body. The doctor will keep measuring your arms and chest and finding nothing wrong, because the tools were built for a different part of the body. Mitchell says IR is like that doctor — its tools (state, sovereignty, anarchy) were built for one kind of problem (war and order between states). Planetary extinction is a different kind of problem entirely, and the tools don't reach it. You can't fix it by measuring more carefully with the wrong instrument.
 
-**Connected to:** → [decolonising war (Barkawi)](#decolonising-war--small-wars-barkawi) (Week 7) and [NWIRT + Global IR](#nwirt--global-ir) (Week 4) — same structural critique: the discipline's foundational concepts are not universal and rule certain phenomena out of view; → [globalization trilemma](#globalization-trilemma-rodrik) (Week 8/11) — Denney noted in Week 12 that the trilemma's third squeezed corner becomes *planetary boundaries* once you take the Anthropocene seriously.
+**Connected to:** → [[#decolonising war + small wars (Barkawi)|decolonising war (Barkawi)]] (Week 7) and [[#NWIRT + Global IR|NWIRT + Global IR]] (Week 4) — same structural critique: the discipline's foundational concepts are not universal and rule certain phenomena out of view; → [[#globalization trilemma (Rodrik)|globalization trilemma]] (Week 8/11) — Denney noted in Week 12 that the trilemma's third squeezed corner becomes *planetary boundaries* once you take the Anthropocene seriously.
 
 **Seen in:**
-- [Week 12 - Anthropocene and Global Futures.md:L21](../../IRO/Summaries/Week%2012%20-%20Anthropocene%20and%20Global%20Futures.md) — *"==**Anthropocene**=="*
-- [Week 12 - Anthropocene and Global Futures.md:L26](../../IRO/Summaries/Week%2012%20-%20Anthropocene%20and%20Global%20Futures.md) — *"==**Post-humanism**=="*
+- [[Week 12 - Anthropocene and Global Futures#^auto-anthropocene-and-global-future|Week 12 - Anthropocene and Global Futures.md:L21]] — *"==**Anthropocene**=="*
+- [[Week 12 - Anthropocene and Global Futures#^auto-anthropocene-and-global-future-2|Week 12 - Anthropocene and Global Futures.md:L26]] — *"==**Post-humanism**=="*
 
 ---
 

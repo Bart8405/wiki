@@ -20,24 +20,24 @@ updated: 2026-05-17ě
 | **Bipolar order**                    | A world structured around two dominant power centres — the US and USSR during the Cold War. Each superpower led a bloc of aligned states.                                                                           | LEC8           |
 | **Unipolar order**                   | A world dominated by a single power — the US from roughly 1991 to the mid-2000s, sometimes called the "unipolar moment" (Krauthammer).                                                                              | LEC8           |
 | **Multipolar world order**           | A world with multiple great powers — no single state is dominant. Associated with the rise of China, India, Russia, and other emerging powers.                                                                      | LEC8           |
-| ==**Multiplex world order**==        | ==Acharya's concept: a world order with "multiple shows on offer, giving the audience a choice of producers, directors, actors and plots." No single power sets the rules; diversity is the organizing principle.== | LEC8 / Acharya |
+| ==**Multiplex world order**==        | ==Acharya's concept: a world order with "multiple shows on offer, giving the audience a choice of producers, directors, actors and plots." No single power sets the rules; diversity is the organizing principle.== | LEC8 / Acharya | ^auto-power-liberalism-and-world-ord-2
 | **Westphalian sovereignty**          | The principle (dating to the 1648 Peace of Westphalia) that states have supreme authority within their borders and should not interfere in each other's internal affairs.                                           | Baisir         |
 | **Great-power competition**          | Rivalry between major states (US, China, Russia) for geopolitical influence, military capability, and control over the international order.                                                                         | LEC8 / Baisir  |
 | **BRICS**                            | Brazil, Russia, India, China, South Africa — a grouping of major emerging economies, increasingly seen as an alternative to Western-led institutions.                                                               | Baisir         |
 | **Hard power**                       | Military and economic power — the ability to coerce others through force, sanctions, or payments. (Joseph Nye)                                                                                                      | LEC8           |
 | **Soft power**                       | The ability to attract and co-opt others through culture, political ideals, and foreign policies — without coercion. (Nye)                                                                                          | LEC8           |
-| ==**Smart power**==                  | ==Combining hard and soft power strategically. (Nye)==                                                                                                                                                              | LEC8           |
-| ==**Globalization trilemma**==       | ==Dani Rodrik's "impossibility theorem": democracy, national sovereignty, and deep global economic integration are mutually incompatible. You can only fully have two of the three simultaneously.==                | LEC8           |
+| ==**Smart power**==                  | ==Combining hard and soft power strategically. (Nye)==                                                                                                                                                              | LEC8           | ^auto-power-liberalism-and-world-ord-5
+| ==**Globalization trilemma**==       | ==Dani Rodrik's "impossibility theorem": democracy, national sovereignty, and deep global economic integration are mutually incompatible. You can only fully have two of the three simultaneously.==                | LEC8           | ^auto-power-liberalism-and-world-ord-10
 | **Normative power**                  | The ability to shape what is considered normal and legitimate in international relations — associated with the EU's influence through norms and standards rather than military force.                               | Baisir         |
 | **Belt and Road Initiative (BRI)**   | Xi Jinping's signature foreign policy initiative (2013): a massive series of bilateral infrastructure investment and lending agreements linking China to its neighbours across Asia, Africa, and Europe.            | LEC8           |
 | **Emerging powers**                  | States with growing economic, military, and political capacity and ambition to reshape the international order — Russia, India, China in particular. Often described as "revisionist" and "status seekers."         | LEC8           |
-| ==**Functionalism**==                | ==Theory of regional integration: states integrate in technical/functional areas (trade, transport) first; political integration follows. (Mitrany)==                                                               | Baisir         |
-| ==**Neofunctionalism**==             | ==Haas's update: integration generates a "spillover" effect — success in one sector creates pressure to integrate adjacent sectors, eventually drawing in political authority.==                                    | Baisir         |
+| ==**Functionalism**==                | ==Theory of regional integration: states integrate in technical/functional areas (trade, transport) first; political integration follows. (Mitrany)==                                                               | Baisir         | ^auto-power-liberalism-and-world-ord-12
+| ==**Neofunctionalism**==             | ==Haas's update: integration generates a "spillover" effect — success in one sector creates pressure to integrate adjacent sectors, eventually drawing in political authority.==                                    | Baisir         | ^auto-power-liberalism-and-world-ord-13
 | **Spillover**                        | In neofunctionalism: the dynamic by which integration in one area automatically creates demand for integration in related areas ==(e.g. a single market requires common competition rules).==                       | Baisir         |
-| ==**Intergovernmentalism**==         | ==Theory of integration where national governments remain the key actors; states cooperate only when it serves national interests. (Hoffmann)==                                                                     | Baisir         |
-| ==**Liberal intergovernmentalism**== | ==Moravcsik's synthesis: EU integration driven by bargains between major member states, which in turn reflect domestic economic preferences.==                                                                      | Baisir         |
+| ==**Intergovernmentalism**==         | ==Theory of integration where national governments remain the key actors; states cooperate only when it serves national interests. (Hoffmann)==                                                                     | Baisir         | ^auto-power-liberalism-and-world-ord-14
+| ==**Liberal intergovernmentalism**== | ==Moravcsik's synthesis: EU integration driven by bargains between major member states, which in turn reflect domestic economic preferences.==                                                                      | Baisir         | ^auto-power-liberalism-and-world-ord-15
 | **Supranationalism**                 | A form of governance where authority is shared above the nation-state level — institutions with their own powers independent of member states (e.g. European Court of Justice).                                     | Baisir         |
-| ==**Comparative regionalism**==          | ==The study of regional integration arrangements beyond Europe — ASEAN, African Union, etc. — to understand what drives regional cooperation globally.==                                                                | Baisir         |
+| ==**Comparative regionalism**==          | ==The study of regional integration arrangements beyond Europe — ASEAN, African Union, etc. — to understand what drives regional cooperation globally.==                                                                | Baisir         | ^auto-power-liberalism-and-world-ord-16
 
 ---
 
@@ -47,7 +47,7 @@ updated: 2026-05-17ě
 
 ==The lecture opens with two definitions of world order:==
 1. ==**Heywood:** the actual or perceived distribution of power, giving rise to stable patterns of relationships and behaviours.==
-2. ==**Roach & O'Callaghan:** a stable pattern of relations that sustains common goals — *not to be confused with peace or justice.*==
+2. ==**Roach & O'Callaghan:** a stable pattern of relations that sustains common goals — *not to be confused with peace or justice.*== ^auto-power-liberalism-and-world-ord
 
 The second definition matters: world order is about stability and power, not necessarily fairness. A stable world order can be deeply unjust.
 
@@ -65,7 +65,7 @@ The second definition matters: world order is about stability and power, not nec
 | Multiplex  | Acharya's concept: multiple distinct shows, audiences have choices |
 |            |                                                                    |
 
-==Acharya's *multiplex* is importantly different from simple *multipolarity*. Multipolarity describes *how many* powers there are. Multiplexity describes the *character* of the system: diverse, with no single actor able to set the rules or impose its vision. It is a cinema with multiple screens, not just a bigger screen.==
+==Acharya's *multiplex* is importantly different from simple *multipolarity*. Multipolarity describes *how many* powers there are. Multiplexity describes the *character* of the system: diverse, with no single actor able to set the rules or impose its vision. It is a cinema with multiple screens, not just a bigger screen.== ^auto-power-liberalism-and-world-ord-3
 
 **Historical note:** the lecture draws on scholarship (Zarakol) showing that sovereignty is not uniquely a Westphalian/European invention. The Chingissid order (Mongol Empire, 13th–18th century) also had concepts of centralised authority, territorial reach, and external recognition as a legitimising force. World orders predate and extend beyond the European tradition.
 
@@ -73,7 +73,7 @@ The second definition matters: world order is about stability and power, not nec
 
 **Definition (Dahl, 1961):** "The ability to get others to do something that they would not otherwise do."
 
-==The lecture distinguishes two types of power:==
+==The lecture distinguishes two types of power:== ^auto-power-liberalism-and-world-ord-6
 1. ==**Power as resource (absolute/quantitative):** about what you *possess* — military might, economic size, population. Associated with realism.==
 2. ==**Power as outcome (relational):** about your ability to *use* what you have, including through skills, strategies, and perceptions. Even small states can be influential this way.==
 
@@ -82,7 +82,7 @@ The second definition matters: world order is about stability and power, not nec
 - Soft power = attraction through culture, values, foreign policy — liberal tool
 - Smart power = combining both
 
-==**Institutional power:** Power is embedded in institutions (Thelen 2004). Institutions are "the rules of the game" (North 1990) — whoever shapes the rules shapes outcomes. The US shaped post-WWII institutions (UN, WTO, IMF) in its own image, giving it structural/institutional power long after its material dominance peaked.==
+==**Institutional power:** Power is embedded in institutions (Thelen 2004). Institutions are "the rules of the game" (North 1990) — whoever shapes the rules shapes outcomes. The US shaped post-WWII institutions (UN, WTO, IMF) in its own image, giving it structural/institutional power long after its material dominance peaked.== ^auto-power-liberalism-and-world-ord-7
 
 **Dani Rodrik's globalization trilemma:** You cannot simultaneously have:
 - Deep global economic integration
@@ -139,7 +139,7 @@ His **multiplex world order** concept (developed through the 2010s–2020s) offe
 > Hard power is getting what you want by threatening or paying someone — like a bouncer. Soft power is getting what you want because people admire you and want to be like you — like a musician whose fans copy their style. The US has both: its military (hard) and Hollywood/universities/democracy (soft). China has been building its hard power for decades and is now actively trying to develop soft power (BRI, cultural diplomacy).
 
 > **Explained easily — globalization trilemma:**
-> ==Imagine three things you want: a unified global economy, your country's ability to make its own rules, and democratic accountability. You can combine any two, but not all three. If you fully open your economy (global integration) and want democracy, your voters will demand protection from global competition — undermining global integration. The EU picked integration + democracy and gave up some sovereignty. Brexit was a vote to get sovereignty back, at the cost of integration.==
+> ==Imagine three things you want: a unified global economy, your country's ability to make its own rules, and democratic accountability. You can combine any two, but not all three. If you fully open your economy (global integration) and want democracy, your voters will demand protection from global competition — undermining global integration. The EU picked integration + democracy and gave up some sovereignty. Brexit was a vote to get sovereignty back, at the cost of integration.== ^auto-power-liberalism-and-world-ord-11
 
 > **Explained easily — the multiplex world order:**
 > In the Cold War, the world had two TV channels. After 1991, one channel (US/liberal order) dominated. Acharya says we're moving to Netflix: many competing producers, many genres, no single show dominates, audiences pick what they watch. Neither the US nor China will run the next world order. It'll be genuinely messy and diverse.
@@ -203,7 +203,7 @@ Nye coined "soft power" to describe co-optive rather than command power — you 
 
 **Q4.** Robert Kagan's remark about 9/11 — "America did not change on September 11. It only became more itself" — best reflects which foreign policy tradition?
 - A) Liberal institutionalism — the US doubled down on international law
-- B) ==Neoconservatism — the US asserted unilateral primacy==
+- B) ==Neoconservatism — the US asserted unilateral primacy== ^auto-power-liberalism-and-world-ord-4
 - C) Realism — the US pursued balance-of-power calculations
 - D) Constructivism — 9/11 reshaped American identity and norms
 
@@ -229,9 +229,9 @@ Kagan was a leading neoconservative. His point was that the US was always a crus
 ==- Define the liberal world order: built after 1945, consolidated after 1991. Key features: multilateral institutions (UN, WTO, IMF), democratic peace norms, free trade, rule of law, US hegemony.==
 ==- Causes of crisis: (1) 9/11 and US unilateralism (Bush/neoconservatism) undermining the multilateral order the US built; (2) rise of China as an alternative power centre; (3) internal Western crises — populism, Brexit, Trump — as a reaction to the unequal distribution of globalization's costs (Rodrik's trilemma).==
 ==- Alternatives proposed: (a) Acharya's multiplex world order — no dominant power, genuine diversity; (b) Chinese "Beijing Consensus" — development without liberal democracy; (c) return to great-power spheres of influence.==
-==- Assessment: the lecture suggests the future is genuinely uncertain — "times of uncertainty, future global challenges: climate change, pandemics, AI."==
+==- Assessment: the lecture suggests the future is genuinely uncertain — "times of uncertainty, future global challenges: climate change, pandemics, AI."== ^auto-power-liberalism-and-world-ord-8
 
-==**Good example:** Belt and Road Initiative as China's alternative to Western-led lending institutions (World Bank/IMF); BRICS as an alternative grouping to G7/G8.==
+==**Good example:** Belt and Road Initiative as China's alternative to Western-led lending institutions (World Bank/IMF); BRICS as an alternative grouping to G7/G8.== ^auto-power-liberalism-and-world-ord-9
 
 ==</details>======
 %%add beijing consensus into the new china file that you will create - add an index of terms on top of the file with this there%%---
@@ -244,7 +244,7 @@ Kagan was a leading neoconservative. His point was that the US was always a crus
 **Key points:**
 - State the trilemma: democracy + national sovereignty + deep global economic integration — pick any two, not all three.
 - Application: Western democracies in the 1990s–2000s chose integration + democracy but ceded sovereignty (EU, WTO disciplines, capital mobility). The result: governments lost tools to manage economic dislocation; voters faced inequality and insecurity but had no political channel to address it.
-- ==This produced the "precariat" — populations feeling powerless — and fuelled populism, Brexit, Trump, and anti-globalization movements.==
+- ==This produced the "precariat" — populations feeling powerless — and fuelled populism, Brexit, Trump, and anti-globalization movements.== ^auto-power-liberalism-and-world-ord-17
 - Note the EU as a case: it chose integration + democracy but created a legitimacy gap (the "democratic deficit") by transferring authority to non-elected EU institutions.
 - China: chose integration + sovereignty but limited democracy. Shows the trilemma is real — China maintains capital controls and industrial policy that WTO-compliant states cannot.
 

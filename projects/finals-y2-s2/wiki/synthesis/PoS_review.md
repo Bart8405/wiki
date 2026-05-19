@@ -46,7 +46,7 @@ These axes are independent and can combine in any configuration:
 
 The practical tip for your PoS exam: when you're asked to classify a method, ask *two separate questions* — (1) what knowledge type is the researcher after — law or particular? (2) what logical path do they use — from theory down or from observations up?
 
-**Connected to:** → [stikstofcrisis](#stikstofcrisis) — the stikstofcrisis example shows what happens when a problem *requires both* approaches: you need nomothetic science (chemistry laws for nitrogen reactions) and idiographic/contextual knowledge (the specific history of Dutch land use policy) simultaneously.
+**Connected to:** → [[#stikstofcrisis|stikstofcrisis]] — the stikstofcrisis example shows what happens when a problem *requires both* approaches: you need nomothetic science (chemistry laws for nitrogen reactions) and idiographic/contextual knowledge (the specific history of Dutch land use policy) simultaneously.
 
 **Seen in:**
 - [Lecture 1 - Ways of Knowing.md:L20](projects/finals-y2-s2/PoS/Summaries/Lecture%201%20-%20Ways%20of%20Knowing.md) — *"==Understanding the meaning of *contingent, unique, often subjective* outcomes. Typical of the human sciences==. %%Question - what is the difference or connection...%%"*
@@ -61,7 +61,7 @@ The practical tip for your PoS exam: when you're asked to classify a method, ask
 
 **Why it's in a Philosophy of Science lecture:** McAllister uses it as a paradigm case of *multidisciplinarity*: no single discipline can understand or solve the crisis alone — you need chemistry (what does ammonia do to soil pH?), ecology (which protected species are affected?), political science (which EU directives and domestic coalitions govern this?), economics (how do you compensate farmers or restructure the sector?), and history (how did Dutch agriculture become this intensive in the first place?). The PoS lesson: before you can combine disciplines, you have to understand what *kind* of knowledge each one produces — which is exactly what the nomothetic/idiographic distinction is for.
 
-**Connected to:** → [idiographic approach](#idiographic-approach) — the stikstofcrisis needs both nomothetic science (chemistry laws, ecological models) and idiographic/contextual understanding (Dutch political history, specific EU legal context). Windelband's distinction isn't just academic: it tells you which tools each discipline brings to the table.
+**Connected to:** → [[#idiographic approach|idiographic approach]] — the stikstofcrisis needs both nomothetic science (chemistry laws, ecological models) and idiographic/contextual understanding (Dutch political history, specific EU legal context). Windelband's distinction isn't just academic: it tells you which tools each discipline brings to the table.
 
 **Seen in:**
 - [Lecture 1 - Ways of Knowing.md:L24](projects/finals-y2-s2/PoS/Summaries/Lecture%201%20-%20Ways%20of%20Knowing.md) — *"Lecture's example: ==the Dutch *stikstofcrisis*== needs chemistry + ecology + political science + economics + history"*
@@ -89,7 +89,7 @@ The practical tip for your PoS exam: when you're asked to classify a method, ask
 
 **Explained easily:** Your sentence "it's raining" doesn't create rain. Rain is a fact about the world. Your sentence is true *because* rain exists — the world does the work. Your mind doesn't vote on whether it's raining.
 
-**Connected to:** → [Gettier problem](#gettier-problem) — Gettier accepts the correspondence theory (JTB requires truth, i.e. a corresponding fact) but shows that even having a true belief doesn't guarantee you *know* — the connection between your belief and the fact can be accidental.
+**Connected to:** → [[#Gettier problem|Gettier problem]] — Gettier accepts the correspondence theory (JTB requires truth, i.e. a corresponding fact) but shows that even having a true belief doesn't guarantee you *know* — the connection between your belief and the fact can be accidental.
 
 **Seen in:**
 - [Lecture 2 - Knowledge Truth and Facts.md:L24](projects/finals-y2-s2/PoS/Summaries/Lecture%202%20-%20Knowledge%20Truth%20and%20Facts.md) — *"==**Correspondence theory of truth**=="*
@@ -105,7 +105,7 @@ The practical tip for your PoS exam: when you're asked to classify a method, ask
 
 **Explained easily:** JTB says knowledge = truth + belief + justification. Gettier says: imagine a broken clock stopped at exactly 3:15, and you happen to look at it when it's 3:15. Three-box tick, zero knowledge. Fifty years of philosophy papers later, no one has agreed on a clean fix. Most proposals add a fourth condition ("no luck," "sensitivity," "safety," "reliabilism"), but all face counterexamples.
 
-**Connected to:** → [correspondence theory of truth + facts as truthmakers](#correspondence-theory-of-truth--facts-as-truthmakers) — Gettier cases work *because* there's a fact (it IS 3:15) that makes your belief true, but the connection between your justification and that fact is coincidental. The problem is about the *relationship* between truth and justification, not truth itself.
+**Connected to:** → [[#correspondence theory of truth + facts as truthmakers|correspondence theory of truth + facts as truthmakers]] — Gettier cases work *because* there's a fact (it IS 3:15) that makes your belief true, but the connection between your justification and that fact is coincidental. The problem is about the *relationship* between truth and justification, not truth itself.
 
 **Seen in:**
 - [Lecture 2 - Knowledge Truth and Facts.md:L28](projects/finals-y2-s2/PoS/Summaries/Lecture%202%20-%20Knowledge%20Truth%20and%20Facts.md) — *"==**Gettier problem**=="*
@@ -133,7 +133,7 @@ The practical tip for your PoS exam: when you're asked to classify a method, ask
 
 **Why it matters:** This debate runs directly into the problem of induction. If laws are just regularities (Hume's view), then induction over past observations gives you a law — but never a guarantee. If laws are necessary, a single confirmed law should hold universally — but how do you know you've found a necessary one vs. an accidental pattern?
 
-**Connected to:** → [problem of induction + pragmatic warrant](#problem-of-induction--pragmatic-warrant) — Hume's regularity view is what leads directly to the problem of induction: if laws are just observed patterns, there's no logical guarantee the pattern continues.
+**Connected to:** → [[#problem of induction + pragmatic warrant|problem of induction + pragmatic warrant]] — Hume's regularity view is what leads directly to the problem of induction: if laws are just observed patterns, there's no logical guarantee the pattern continues.
 
 **Seen in:**
 - [Lecture 3 - Scientific Laws and Induction.md:L21](projects/finals-y2-s2/PoS/Summaries/Lecture%203%20-%20Scientific%20Laws%20and%20Induction.md) — *"==**Regularity view of laws**=="*
@@ -153,7 +153,7 @@ The practical tip for your PoS exam: when you're asked to classify a method, ask
 **Your question:** induction does but deduction does not? I dont understand - in what way?
 **Answer:** Think of it as containers. In **deduction**, the conclusion was already *inside* the premises — Socrates's mortality was already implicitly in "all humans are mortal." You just unpacked it. Nothing new entered. In **induction**, your premises are 1000 individual swans. Your conclusion ("ALL swans are white") covers swans you've never seen, swans not yet born, swans on other continents. You've stepped outside what the premises contained. That extra step — beyond the evidence — is what "ampliative" means. And it's exactly why induction is powerful but risky: the 1001st swan (found in Australia in 1697) was black. Deduction can never be refuted by a new observation because it never goes beyond the premises.
 
-**Connected to:** → [problem of induction + pragmatic warrant](#problem-of-induction--pragmatic-warrant) — the fact that induction is ampliative is precisely what creates the problem of induction: the conclusion goes beyond the evidence, so there's no logical guarantee it's correct.
+**Connected to:** → [[#problem of induction + pragmatic warrant|problem of induction + pragmatic warrant]] — the fact that induction is ampliative is precisely what creates the problem of induction: the conclusion goes beyond the evidence, so there's no logical guarantee it's correct.
 
 **Seen in:**
 - [Lecture 3 - Scientific Laws and Induction.md:L23](projects/finals-y2-s2/PoS/Summaries/Lecture%203%20-%20Scientific%20Laws%20and%20Induction.md) — *"==**Induction**=="*
@@ -177,7 +177,7 @@ The practical tip for your PoS exam: when you're asked to classify a method, ask
 - **Inductively:** "Past inductions succeeded → future inductions will succeed." This fails because it's circular — you've used induction to justify induction. Hume calls it viciously circular.
 - **Deductively:** You'd need the premise "nature is uniform / the future resembles the past" to be a logical truth. But it isn't — unlike "all bachelors are unmarried," the uniformity of nature is conceivably false. You can't get it from pure logic, and you can't get it from experience without already using induction. So deductive justification leads nowhere. Hume's point: we can't justify induction at all — we just do it, and can't stop ourselves.
 
-**Connected to:** → [induction + deduction + ampliative reasoning](#induction--deduction--ampliative-reasoning) — the problem of induction only exists *because* induction is ampliative: it steps beyond the evidence, leaving a logical gap that cannot be closed; → [Duverger's law](#duvergers-law) — Duverger's law is itself an inductive generalisation from electoral systems observed so far; the problem of induction applies to it directly.
+**Connected to:** → [[#induction + deduction + ampliative reasoning|induction + deduction + ampliative reasoning]] — the problem of induction only exists *because* induction is ampliative: it steps beyond the evidence, leaving a logical gap that cannot be closed; → [Duverger's law](#duvergers-law) — Duverger's law is itself an inductive generalisation from electoral systems observed so far; the problem of induction applies to it directly.
 
 **Seen in:**
 - [Lecture 3 - Scientific Laws and Induction.md:L26](projects/finals-y2-s2/PoS/Summaries/Lecture%203%20-%20Scientific%20Laws%20and%20Induction.md) — *"==**Problem of induction (Hume)**== %%Describe how we should justify induction inductively and deductively%%"*
@@ -194,7 +194,7 @@ The practical tip for your PoS exam: when you're asked to classify a method, ask
 **Your question:** what is a plurality-rule es?
 **Answer:** "es" = electoral system. A **plurality-rule** (or first-past-the-post, FPTP) system means: each voter picks one candidate; whoever gets the **most votes** wins — no need for a majority (50%+). If three candidates split 40%, 35%, 25% of the vote, the 40% candidate wins. Used in the UK and US. Duverger's logic for why this → two parties: small parties win lots of votes but almost no seats (because coming second everywhere wins nothing), so their voters strategically switch to the least-bad major party to avoid "wasting" their vote. Over time, only two parties survive. Under **proportional representation (PR)**, seats mirror vote share — a party with 10% of votes gets ~10% of seats — so small parties can survive and grow, giving you multi-party parliaments like the Netherlands' Tweede Kamer.
 
-**Connected to:** → [problem of induction + pragmatic warrant](#problem-of-induction--pragmatic-warrant) — Duverger's law is used in the lecture as an example of a law-like claim in social science; as an inductive generalisation, it's subject to Hume's problem — it holds for observed cases but can't be logically guaranteed to hold universally; → [regularity view vs necessity view of laws](#regularity-view-vs-necessity-view-of-laws) — is Duverger's law a *necessary* feature of plurality systems, or just an observed regularity that happens to hold so far?
+**Connected to:** → [[#problem of induction + pragmatic warrant|problem of induction + pragmatic warrant]] — Duverger's law is used in the lecture as an example of a law-like claim in social science; as an inductive generalisation, it's subject to Hume's problem — it holds for observed cases but can't be logically guaranteed to hold universally; → [[#regularity view vs necessity view of laws|regularity view vs necessity view of laws]] — is Duverger's law a *necessary* feature of plurality systems, or just an observed regularity that happens to hold so far?
 
 **Seen in:**
 - [Lecture 3 - Scientific Laws and Induction.md:L28](projects/finals-y2-s2/PoS/Summaries/Lecture%203%20-%20Scientific%20Laws%20and%20Induction.md) — *"==**Duverger's law**== %%what is a plurality-rule es?%%"*

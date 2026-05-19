@@ -8,7 +8,7 @@ updated: 2026-05-18
 
 *Why did globalization produce populism? Three stacked frameworks: sociological (thinning of social ties), political-economic (Rodrik's trilemma), psychological (Mishra's globalization of rage).*
 
-**Date:** 11 May 2026 · **Lecturer:** Dr. Steven Denney · **Key thinker:** ==**Dani Rodrik**== — for the globalization trilemma and the demand/supply distinction in populism; Pankaj Mishra (rage) and Heywood & Whitham (thinning) as the other two layers.
+**Date:** 11 May 2026 · **Lecturer:** Dr. Steven Denney · **Key thinker:** ==**Dani Rodrik**== — for the globalization trilemma and the demand/supply distinction in populism; Pankaj Mishra (rage) and Heywood & Whitham (thinning) as the other two layers. ^auto-globalization-and-populism-l11
 
 **Lecturer's explicit exam focus:** the three frameworks and Rodrik's trilemma. The East Asia segment is *illustrative, not on the exam*.
 
@@ -25,11 +25,11 @@ updated: 2026-05-18
 | **Network society** | Manuel Castells (1996): society organized through decentralized, code-mediated networks — horizontal in form, asymmetric in practice. The same networks that allowed cosmopolitan publics also enabled nationalist publics, often more efficiently because grievance moves faster than nuance. | LEC11 |
 | **McWorld** | Benjamin Barber (1995): cultural homogenization — global brands, Hollywood, English-language media, a flattened aesthetic. | LEC11 |
 | **Glocalization** | Roland Robertson (1995): global products taking local turns (kimchi burgers in Seoul, Bollywood adaptations). Hybridization rather than pure homogenization. Both happen at once. | LEC11 |
-| ==**Globalization trilemma**== | ==Rodrik (2011, 2018): deep globalization, the nation-state, and democratic politics cannot all be fully maintained at once — pick any two. A structural constraint, not a moral claim.== | LEC11 / Rodrik |
+| ==**Globalization trilemma**== | ==Rodrik (2011, 2018): deep globalization, the nation-state, and democratic politics cannot all be fully maintained at once — pick any two. A structural constraint, not a moral claim.== | LEC11 / Rodrik | ^auto-globalization-and-populism-l28
 | **Deep globalization** | Regulatory harmonization across jurisdictions, *not* aggregate trade volume. A country can trade a lot and still stay on the nation-state-plus-democracy corner. This is the depth that binds policy autonomy. | LEC11 |
 | **Stolper–Samuelson (intuition)** | Trade liberalization makes some factors of production *absolutely* worse off, not just relatively. Late-stage globalization is more about distribution than expansion. (The China trade shock cost ~1 in 20 US manufacturing jobs in exposed regions.) | LEC11 |
 | **Compensation problem** | Even when trade gains are large in aggregate, redistribution to losers fails. Two failure modes: it's *distortionary* (costly to redistribute) and *time-inconsistent* (winners promise compensation before liberalization, renege after). | LEC11 / Rodrik 2018 |
-| ==**Globalization of rage**== | ==Pankaj Mishra (2016, 2017): globalization produced not only inequality but psychic dislocation. Modernity promised dignity and did not deliver; the political affect is resentment, organized around identity and belonging.== | LEC11 / Mishra |
+| ==**Globalization of rage**== | ==Pankaj Mishra (2016, 2017): globalization produced not only inequality but psychic dislocation. Modernity promised dignity and did not deliver; the political affect is resentment, organized around identity and belonging.== | LEC11 / Mishra | ^auto-globalization-and-populism-l32
 | **Demand vs. supply (of populism)** | Rodrik's distinction. *Demand:* globalization shocks generate anti-establishment grievance. *Supply:* which cleavage gets activated depends on the type of shock — trade/finance shocks → class cleavage → left populism (Latin America); immigration shocks → ethno-cultural cleavage → right populism (Western Europe). | LEC11 |
 | **Populism as repertoire** | A political style of opposition (people vs. elite) that can be picked up by parties of left or right — distinct from nationalism. Populism is portable; nationalism is structural. | LEC11 |
 | **Left vs. right populism** | Left: class cleavage, targets are multinationals / IMF / financial elites (Chávez, Morales, Kirchner, Correa). Right: identity cleavage, targets are immigrants / supranational institutions / cosmopolitan elites (Le Pen, Orbán, Trump, Brexit, Meloni). | LEC11 / Rodrik 2018 |

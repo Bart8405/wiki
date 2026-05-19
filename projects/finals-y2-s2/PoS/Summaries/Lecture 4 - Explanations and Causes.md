@@ -99,7 +99,7 @@ German-born philosopher (1905–1997). PhD Berlin 1934; emigrated and worked at 
 
 > ==**Explained easily — why we need causal models:**==
 > ==The fix is to insist that good explanations describe **the actual causal chain**, not just a logically valid deduction. The cricket example: it's not enough to say "by Newton's laws, the ball ended up over the fence." A real explanation traces the *interaction* (bat hits ball, transferring energy) and the *process* (ball flying through space with the dent the bat made) that led to where it ended up.==
-
+============
 ---
 
 ## Likely exam angles

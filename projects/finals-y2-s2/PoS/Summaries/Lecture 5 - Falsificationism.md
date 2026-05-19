@@ -26,7 +26,7 @@ updated: 2026-05-16
 | ==**Context of justification**==                 | ==The phase in which scientists *test* hypotheses. Phase of logic, rigour, objectivity. The actual locus of "scientific method."==                                                                                                                                                                         |
 | **Trial and error**                              | Popper's image of science. Conjectures (trials) are subjected to refutation attempts (error-elimination). What survives goes forward to the next test.                                                                                                                                                     |
 | ==**Corroboration**==                            | ==Popper's late-career concession: a weak form of confirmation. Hypotheses that have survived many genuine refutation attempts are "corroborated" — not proved, but tentatively more trustworthy.==                                                                                                        |
-| **Ad hoc modification**                          | Tinkering with a hypothesis to save it from refutation. Popper disapproved; critics say scientists do this productively all the time.                                                                                                                                                                      |
+| ==**Ad hoc modification**==                          | ==Tinkering with a hypothesis to save it from refutation. Popper disapproved; critics say scientists do this productively all the time.==                                                                                                                                                                      |
 | **Pseudo-science**                               | A discipline whose claims are *unfalsifiable* (e.g. astrology's vague predictions, some forms of psychoanalysis on Popper's view).                                                                                                                                                                         |
 
 ---
@@ -40,17 +40,17 @@ updated: 2026-05-16
 
 His overriding priority: **eliminate uncertainty from science**. Hume's problem of induction told him you can never *confirm* with certainty — but you *can* refute with certainty (one black swan kills "all swans are white"). Build the whole picture of science on that asymmetry.
 
-### How to test a hypothesis
+### ==How to test a hypothesis==
 
-You can't test the entire hypothesis directly (too general). But you can test its **observational consequences**.
+==You can't test the entire hypothesis directly (too general). But you can test its **observational consequences**.==
 
-> Hypothesis H entails observational claim O. Check whether O is true or false. Infer something about H.
+> ==Hypothesis H entails observational claim O. Check whether O is true or false. Infer something about H.==
 
-Two possible outcomes:
-- **O is true.** Does *not* prove H — many other hypotheses might also entail O. *Logically invalid:* "H entails O. O. Therefore H." (Affirming the consequent.)
-- **O is false.** Proves H is false. *Logically valid:* "H entails O. Not O. Therefore not H." (*Modus tollens*.)
+==Two possible outcomes:==
+- ==**O is true.** Does *not* prove H — many other hypotheses might also entail O. *Logically invalid:* "H entails O. O. Therefore H." (Affirming the consequent.)==
+- ==**O is false.** Proves H is false. *Logically valid:* "H entails O. Not O. Therefore not H." (*Modus tollens*.)==
 
-→ Only refutation gives certainty. Stop trying to confirm.
+==→ Only refutation gives certainty. Stop trying to confirm.==
 
 ### Popper's image of science
 

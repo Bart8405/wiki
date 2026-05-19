@@ -95,7 +95,7 @@ The practical tip for your PoS exam: when you're asked to classify a method, ask
 
 **How they connect:** The correspondence theory *requires* the fact/proposition distinction: truth is a relation between a proposition (in language/mind) and a fact (in the world). Remove either and the theory collapses.
 
-**Explained easily:** Your sentence "it's raining" doesn't create rain. Rain is a fact about the world. Your sentence is true *because* rain exists — the world does the work. Your mind doesn't vote on whether it's raining.
+==**Explained easily:** Your sentence "it's raining" doesn't create rain. Rain is a fact about the world. Your sentence is true *because* rain exists — the world does the work. Your mind doesn't vote on whether it's raining.==
 
 **Connected to:** → [[#Gettier problem|Gettier problem]] — Gettier accepts the correspondence theory (JTB requires truth, i.e. a corresponding fact) but shows that even having a true belief doesn't guarantee you *know* — the connection between your belief and the fact can be accidental.
 

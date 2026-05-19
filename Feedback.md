@@ -1,5 +1,7 @@
 
-I will put any feedback that I get from my uni stuff/friends/people - its gonna be official (for instance feedback on my assignments), personal (when I piss someone off) and maybe other things - my goal is to grow and improve over time - use this file to index my feedback that I get and when you notice I'm doing something that I already got feedback on, notify and remind me. Even if I'm not doing something that I already got feedback on, check this file (put in your memory to check this file while helping me to see if there is something from my history I can learn from) and let me know, tell me what a better solution would be etc. %%make this file look nicer, like you do with the other ones hahah%%
+I will put any feedback that I get from my uni stuff/friends/people - its gonna be official (for instance feedback on my assignments), personal (when I piss someone off) and maybe other things - my goal is to grow and improve over time - use this file to index my feedback that I get and when you notice I'm doing something that I already got feedback on, notify and remind me. Even if I'm not doing something that I already got feedback on, check this file (put in your memory to check this file while helping me to see if there is something from my history I can learn from) and let me know, tell me what a better solution would be etc.
+
+%%TODO: make this file look nicer, like you do with the other ones hahah%%
 
 Uni feedback
 - Lit review for Thematic seminar Essay

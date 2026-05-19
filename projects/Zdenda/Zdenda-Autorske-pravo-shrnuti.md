@@ -49,6 +49,10 @@
 ---
 
 ## Otázka 1
+
+> *"Pokud znáš nepřítele i sebe, nemusíš se obávat výsledku stovky bitev."*
+> — **Sun Tzu**, Umění války
+
 # Autorské právo a práva související — základní principy a pojmy, struktura
 
 ### Co to je
@@ -107,6 +111,10 @@ Autorské právo = druh monopolu chránící autora (vždy fyzická osoba) a jeh
 ---
 
 ## Otázka 2
+
+> *"V každém kameni dříme socha; úkolem sochaře je ji objevit."*
+> — **Michelangelo Buonarroti**
+
 # Autorské dílo, jeho kriterializace, druhy autorských děl; osoba autora a autorství
 
 ### Definice autorského díla (§ 2 AutZ)
@@ -198,6 +206,10 @@ Autorské dílo = jedinečný výsledek tvůrčí činnosti vyjádřený objekti
 ---
 
 ## Otázka 3
+
+> *"Vyprázdni svou mysl. Buď beztvarý, beztvarý jako voda. Když naliješ vodu do šálku, stane se šálkem. Voda může téct, nebo může drtit. Buď vodou, příteli."*
+> — **Bruce Lee**
+
 # Obsah autorského práva — dualita práv (osobnostní a majetková)
 
 ### Dualita = dva typy práv pro každého autora
@@ -282,6 +294,10 @@ Autorské právo má dvě vrstvy. **Osobnostní** = morální práva (autorství
 ---
 
 ## Otázka 4
+
+> *"Jediný způsob, jak dělat skvělou práci, je milovat to, co děláš. Pokud jsi to ještě nenašel, hledej dál. Nezastavuj se."*
+> — **Steve Jobs**
+
 # Zaměstnanecké dílo (§ 58)
 
 ### Co to je
@@ -343,6 +359,10 @@ Zaměstnanecké dílo = vytvořeno v pracovním poměru, v pracovní době, na p
 ---
 
 ## Otázka 5
+
+> *"Inspirace existuje, ale musí tě najít při práci."*
+> — **Pablo Picasso**
+
 # Dílo vytvořené na objednávku (§ 61)
 
 ### Co to je
@@ -389,6 +409,10 @@ Dílo na objednávku = vzniká na základě smlouvy o dílo. Autorovi zůstávaj
 ---
 
 ## Otázka 6
+
+> *"Vzdělání je nejmocnější zbraň, kterou můžeš použít ke změně světa."*
+> — **Nelson Mandela**
+
 # Školní dílo, osiřelé dílo
 
 ## ŠKOLNÍ DÍLO (§ 35 odst. 3 + § 60)
@@ -455,6 +479,10 @@ Směrnice 2019/790/EU (DSM směrnice) zavedla také **rozšířenou kolektivní 
 ---
 
 ## Otázka 7
+
+> *"Bez stínu nemůže být světla."*
+> — **Akira Kurosawa**
+
 # Audiovizuální dílo a dílo audiovizuálně užité
 
 ### AUDIOVIZUÁLNÍ DÍLO (§ 62)
@@ -539,6 +567,11 @@ Pokud autor díla audiovizuálně užitého udělí výrobci oprávnění k prvo
 ---
 
 ## Otázka 8
+
+> *"Talk is cheap. Show me the code."*
+> (*Řeči jsou laciné. Ukaž mi kód.*)
+> — **Linus Torvalds**, tvůrce Linuxu
+
 # Počítačový program (§§ 65–66)
 
 ### Co to je
@@ -588,6 +621,10 @@ PC program = autorské dílo chráněné jako **dílo literární**. Speciální
 ---
 
 ## Otázka 9
+
+> *"Neboj se toho, kdo natrénoval 10 000 různých kopů. Boj se toho, kdo natrénoval jeden kop 10 000krát."*
+> — **Bruce Lee**
+
 # Výjimky a omezení práva autorského — volná užití a zákonné licence (§§ 29–39)
 
 ### Dva typy výjimek
@@ -707,6 +744,10 @@ Výjimky a omezení = případy, kdy lze dílo užít bez souhlasu autora. **3st
 ---
 
 ## Otázka 10
+
+> *"Pokud jsem viděl dál než ostatní, je to proto, že jsem stál na ramenou obrů."*
+> — **Isaac Newton**
+
 # Citace (§ 31)
 
 ### Co to je
@@ -773,6 +814,10 @@ Citace = zákonná licence umožňující použít cizí dílo bez souhlasu. Tř
 ---
 
 ## Otázka 11
+
+> *"Pokud chceš jít rychle, jdi sám. Pokud chceš jít daleko, jdi společně."*
+> — **africké přísloví**
+
 # Práva související s autorským právem (§§ 67–94)
 
 ### Co to je
@@ -921,6 +966,10 @@ Související práva = práva osob, které nejsou autory, ale podílejí se na z
 ---
 
 ## Otázka 12
+
+> *"Sami zvládneme tak málo; společně zvládneme tolik."*
+> — **Helen Keller**
+
 # Kolektivní správa a její druhy. Kolektivní správci v ČR (§§ 95–105d)
 
 ### Co to je
@@ -1019,6 +1068,10 @@ Kolektivní správa = hromadné spravování práv autorů přes specializované
 ---
 
 ## Otázka 13
+
+> *"Slova bez upřímnosti jsou jako květiny bez vůně."*
+> — **Konfucius**
+
 # Smluvní typy v oblasti autorského práva — licenční smlouvy, smlouvy o dílo
 
 ### Dvě hlavní smlouvy
@@ -1167,6 +1220,10 @@ Vždy řešit zvlášť:
 ---
 
 ## Otázka 14
+
+> *"Buď změnou, kterou chceš vidět ve světě."*
+> — **Mahátma Gándhí**
+
 # Mezinárodní a evropské autorské právo
 
 ### Proč existuje
@@ -1354,6 +1411,10 @@ Autorské právo je teritoriální → mezinárodní spolupráce přes úmluvy. 
 ---
 
 ## Otázka 15
+
+> *"Nejvyšším uměním války je porazit nepřítele bez boje."*
+> — **Sun Tzu**, Umění války
+
 # Ochrana práva autorského — soukromoprávní a veřejnoprávní aspekty (§§ 40–45)
 
 ### Právní rámec
@@ -1507,6 +1568,10 @@ Ochrana je **soukromoprávní + veřejnoprávní**. Soukromoprávní žaloby: ur
 ---
 
 ## Otázka 16
+
+> *"Tvým úkolem není hledat lásku, ale najít a odstranit všechny překážky, které jsi proti ní v sobě postavil."*
+> — **Rúmí**
+
 # Ochrana osobnosti, vztah ochrany osobnosti a autorskoprávní ochrany
 
 ### Důležitá souvislost s autorským právem

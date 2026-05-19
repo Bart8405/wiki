@@ -59,16 +59,16 @@ His overriding priority: **eliminate uncertainty from science**. Hume's problem 
 - Scientific practice characterised in **negative** terms — what we've ruled out.
 - Attractive picture: scientists as **creative, risk-taking, undogmatic**.
 
-### Demarcation criterion
+### ==Demarcation criterion==
 
-A discipline is scientific if its practitioners can say **what observations would falsify their claims**. Astrology's "you will meet a tall, mysterious stranger next month" is unfalsifiable (anyone tall-ish counts, "stranger" is vague, no time limit) → pseudo-science. Many researchers still use Popper's question reflexively: *"Interesting theory — but is it falsifiable?"*
+==A discipline is scientific if its practitioners can say **what observations would falsify their claims**. Astrology's "you will meet a tall, mysterious stranger next month" is unfalsifiable (anyone tall-ish counts, "stranger" is vague, no time limit) → pseudo-science. Many researchers still use Popper's question reflexively: *"Interesting theory — but is it falsifiable?"*==
 
 ### Four criticisms
 
-1. **Refutation is less straightforward than Popper assumed.** Most hypotheses yield predictions only when combined with **auxiliary assumptions**. A failed prediction could be the fault of the hypothesis *or* of an auxiliary — you can't always tell which.
-2. **Lack of accord with scientific practice.** Even Popper's heroes (Einstein) weren't strict falsificationists. Scientists make *ad hoc* modifications all the time, and this is often fruitful — "methodological value of dogmatism."
-3. **Popper neglects ways to make confirmation more rigorous.** Pragmatic warrant (Lecture 3), **Bayesian confirmation theory**. Even Popper conceded "corroboration" near the end of his career.
-4. **Some valuable scientific hypotheses are not strictly falsifiable.** Probabilistic / statistical hypotheses ("A is correlated with B," e.g. income & health) can't be killed by a single counter-instance. Falsifiability ends up ruling out a lot of good *social* science.
+1. ==**Refutation is less straightforward than Popper assumed.** Most hypotheses yield predictions only when combined with **auxiliary assumptions**. A failed prediction could be the fault of the hypothesis *or* of an auxiliary — you can't always tell which.==
+2. ==**Lack of accord with scientific practice.** Even Popper's heroes (Einstein) weren't strict falsificationists. Scientists make *ad hoc* modifications all the time, and this is often fruitful — "methodological value of dogmatism."==
+3. ==**Popper neglects ways to make confirmation more rigorous.** Pragmatic warrant (Lecture 3), **Bayesian confirmation theory**. Even Popper conceded "corroboration" near the end of his career.==
+4. ==**Some valuable scientific hypotheses are not strictly falsifiable.** Probabilistic / statistical hypotheses ("A is correlated with B," e.g. income & health) can't be killed by a single counter-instance. Falsifiability ends up ruling out a lot of good *social* science.==
 
 ---
 

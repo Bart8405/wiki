@@ -12,6 +12,7 @@ Each project is a self-contained second brain. Click into a project's `index.md`
 | [investing](projects/investing/index.md) | Personal investing — stocks, ETFs, portfolio, market research | 2026-05-18 |
 | [personal-finance](projects/personal-finance/index.md) | Budgets, expenses, savings, subscriptions, banking | 2026-05-18 |
 | [gifts](projects/gifts/index.md) | Gift ideas per person, occasions, budgets, past gifts | 2026-05-18 |
+| [geopolitics](projects/geopolitics/index.md) | Cross-cutting entities (ASEAN, China, etc.) — backlinks to every concept and source that touches each actor | 2026-05-19 |
 
 ## Adding a new project
 

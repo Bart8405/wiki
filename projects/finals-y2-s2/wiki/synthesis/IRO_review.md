@@ -636,7 +636,7 @@ JWT sits between realism (war as legitimate political tool) and pacifism (war ne
 | Globalization + nation-state | Democracy | China; the "Golden Straitjacket" pattern |
 | Nation-state + democracy | Depth of globalization | Brexit UK; US under Trump |
 
-%%I think this table is meant to l
+%%TODO: I think this table is meant to look differently - it is just plain text now. I would like you to repair it and do more checks next time so these mistakes do not happen - also, after you finish a TODO task, remove this text from the file so it does not make it look worse%%
 
 **Explained easily:** Imagine three things you want at full strength: (1) a fully open global economy where capital and goods flow freely, (2) your country making its own rules, (3) your country being democratic. You can pick any two. The EU picked open economy + democracy but gave up sovereignty (Brussels makes the rules). China picked open economy + sovereignty but skipped democracy. Brexit Britain picked sovereignty + democracy but closed off the open economy. There's no fourth option where you get all three — somebody, somewhere, is paying for what you chose.
 
@@ -658,7 +658,7 @@ JWT sits between realism (war as legitimate political tool) and pacifism (war ne
 
 **Spillover:** The dynamic itself. *Example*: a single market requires common competition rules; common competition rules require shared enforcement; shared enforcement requires supranational courts; etc.
 
-**Why this matters across the course:** Spillover is exactly the mechanism Huysmans uses in Week 6 to explain how the EU's *internal* market spilled into *internal security* (the security continuum). Same logic, security domain.
+==**Why this matters across the course:** Spillover is exactly the mechanism Huysmans uses in Week 6 to explain how the EU's *internal* market spilled into *internal security* (the security continuum). Same logic, security domain.==
 
 **Connected to:** → [[#security continuum + internal market spillover|internal market spillover into internal security]] (Week 6) — Huysmans' mechanism is a neofunctionalist spillover applied to security; → [[#intergovernmentalism + liberal intergovernmentalism|intergovernmentalism + liberal intergovernmentalism]] — the rival theory.
 
@@ -670,9 +670,9 @@ JWT sits between realism (war as legitimate political tool) and pacifism (war ne
 
 ### intergovernmentalism + liberal intergovernmentalism
 
-**Intergovernmentalism (Hoffmann):** Theory of integration where **national governments remain the key actors**; states cooperate only when it serves national interests. Rival to functionalism — institutions are servants of state preferences, not autonomous drivers.
+==**Intergovernmentalism (Hoffmann):** Theory of integration where **national governments remain the key actors**; states cooperate only when it serves national interests. Rival to functionalism — institutions are servants of state preferences, not autonomous drivers.==
 
-**Liberal intergovernmentalism (Moravcsik):** Refinement — EU integration is driven by **bargains between major member states**, which in turn reflect *domestic economic preferences*. The synthesis explains both why states integrate (mutual gains from policy coordination) and why integration stalls (when domestic preferences diverge).
+==**Liberal intergovernmentalism (Moravcsik):** Refinement — EU integration is driven by **bargains between major member states**, which in turn reflect *domestic economic preferences*. The synthesis explains both why states integrate (mutual gains from policy coordination) and why integration stalls (when domestic preferences diverge).==
 
 **Connected to:** → [[#functionalism + neofunctionalism + spillover|functionalism + neofunctionalism]] — the rival theory; → [[#comparative regionalism|comparative regionalism]] — the question whether *any* of these EU-derived theories explain ASEAN, AU, etc.
 
@@ -802,6 +802,7 @@ These lines in your notes used `==` to start a question/comment but the closing 
 
 ---
 
+%%TODO: include the revisions sheets as seperate entities in the index above in this file so I can get to them quickly%%
 ## One-Page Revision Sheets
 
 *Cheat sheets for each lecture, pulled from the corresponding summary file.*
@@ -834,6 +835,7 @@ These lines in your notes used `==` to start a question/comment but the closing 
 > *"Global IR is not about rejecting the Western IR tradition, but broadening the scope and sources of IR to make it more inclusive and universal."* (Acharya 2014)
 
 
+%%TODO: firstly, the comment below this one is not hidden - idk why. Secondly, After you read these comments/questions, do what you have to do (write the task in the task file, include the question in the review or in this case, put in your memory that for summaries, I like the one page review that you are making) - after you do that action, remove the hidden comentary%%
 
 %%Love this one page revision btw!! great work, do this for all of the summaries you make - all important on one page, key terms, easy explanations, key quotes, love it!%%
 

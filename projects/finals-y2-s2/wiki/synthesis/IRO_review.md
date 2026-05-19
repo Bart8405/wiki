@@ -807,6 +807,161 @@ These lines in your notes used `==` to start a question/comment but the closing 
 
 *Cheat sheets for each lecture, pulled from the corresponding summary file.*
 
+### Week 1 — Old Debates in a New World
+
+**Frame:** Three post-Cold War visions of where world politics is heading — Fukuyama (liberal endpoint), Huntington (civilizational clash), Kagan (return of great-power competition). All three are tested against the empirical reality of 2014–2026: autocratisation wave + great-power rivalry + weaponised interdependence.
+
+**The trends to know (2025–26):**
+- **Autocratisation** (V-Dem 2025): democracy level back to 1985; 91 autocracies vs 88 democracies; liberal democracy = least common regime; 72% of humans under autocracy.
+- **End of arms control**: New START winding down.
+- **Weaponised interdependence**: tariffs, sanctions, supply-chain coercion (Carney Davos 2026: "a rupture, not a transition").
+
+**The three thinkers compared:**
+
+| | **Fukuyama** | **Huntington** | **Kagan** |
+|---|---|---|---|
+| Driver | Ideology / political systems | Culture / civilization | Power, geopolitical rivalry |
+| World image | Convergence → liberal democracy | Fragmentation into civilizations | Return of great-power competition |
+| IR affinity | Liberalism / Hegelian | Constructivism (culturalist) + realist undertones | Realism / neoconservatism |
+| Main critique | Underestimates nationalism, religion, power | Essentializes cultures; intra-civilizational conflict refutes thesis | Normalizes militarism; underplays norms |
+
+**Huntington's 7–8 civilizations:** Western · Confucian · Japanese · Islamic · Hindu · Slavic-Orthodox · Latin American · ('possibly') African.
+
+**Huntington's problems (lecture critique):**
+1. Civilizations don't inevitably clash (India–US ties).
+2. Too many intra-civilizational conflicts (Sunni–Shia, Russia–Ukraine).
+3. Essentializes cultures as monolithic.
+4. Too simplistic for a fragmented, multipolar world.
+
+**Kagan's key tension** (textbook p.342): *"Tensions between democratic states (US–EU) and between authoritarian states (China–Russia) may be just as significant as those across the democracy/authoritarian divide."*
+
+==**Acharya's multiplex world order**== — the contemporary critique of all three: future world order will not be dominated by ONE nation or civilization; *cultural and political diversity is the organising principle*. "Multiple shows on offer, giving the audience a choice of producers, directors, actors and plots."
+
+**IR vs International Studies:** IR = states + power + war (poli-sci/econ roots). International Studies = global issues + culture + identity (interdisciplinary, critical, postcolonial).
+
+**Lines to memorise:**
+> *"The end of history as such: the end point of mankind's ideological evolution and the universalization of Western liberal democracy as the final form of human government."* — Fukuyama (1989)
+
+> *"The principal conflicts of global politics will occur between nations and groups of different civilisations."* — Huntington (1993)
+
+> *"This bargain no longer works. We are in the midst of a rupture, not a transition."* — Carney (Davos 2026)
+
+---
+
+### Week 2 — Power, Institutions and Ideas (Traditional IR Theories)
+
+**Frame:** Three traditional schools — realism, liberalism, constructivism — and how they read the same events (Ukraine-Russia, US-China, NATO) differently. All three accept anarchy as the starting point; they disagree on what follows from it.
+
+**The trio compared:**
+
+| | **Realism** | **Liberalism** | **Constructivism** |
+|---|---|---|---|
+| Roots | Thucydides, Machiavelli, Hobbes | Locke, Kant, Smith | Post-positivist |
+| Anarchy | Inherent; leads to conflict | Mitigated by institutions | Socially constructed |
+| Interests | Fixed: power + security | Fixed: cooperation possible | Shaped by identity |
+| Actors | States | States + institutions | States + norms |
+| Epistemology | Positivist | Positivist | Post-positivist |
+
+**Realism sub-variants:**
+- **Classical (Morgenthau, Carr):** pessimistic HUMAN NATURE.
+- **Neorealism (Waltz):** STRUCTURE of anarchy, not human nature.
+- **Offensive realism (Mearsheimer):** great powers MAXIMIZE power → regional hegemony.
+- **Defensive realism (Waltz, Walt):** SECURITY maximisers, prefer balancing + restraint.
+- **Neoclassical (Rose, Schweller):** structure conditioned by DOMESTIC factors.
+
+**Liberalism variants:**
+- **Interdependence liberalism:** economic exchange raises conflict cost.
+- **Republican (democratic) liberalism:** democracies don't fight each other (Kant, Doyle).
+- **Neoliberal institutionalism:** institutions reduce uncertainty + transaction costs (Keohane, Nye).
+- ==**Liberal International Order (LIO):**== combines all three; depends on legitimacy + restraint, not force alone (Ikenberry, Deudney).
+
+==**Wendt's three cultures of anarchy:**==
+- **Hobbesian** = enemies (early 20th c. Europe).
+- **Lockean** = rivals respecting sovereignty (Cold War).
+- **Kantian** = partners with shared norms (EU/NATO).
+
+==**Mearsheimer's "Bound to Fail" (2019):**== LIO required liberal hegemony → US enforcement → backlash + costly interventions → cannot survive return of multipolar great-power competition. Realist critique of liberalism.
+
+**Responses to Mearsheimer:**
+- Liberal: institutions are resilient; problems are implementation, not design.
+- Constructivist: "failure" is itself a narrative; norms are deeply embedded.
+
+**Applying the trio to Ukraine-Russia:**
+- *Realist:* security dilemma (NATO expansion → Russian backlash); Ukraine as strategic buffer.
+- *Constructivist:* identity (imperial narrative; Russian / Ukrainian self-image).
+- *Liberal:* institutional failure (UN veto) but sanctions = interdependence-as-leverage.
+
+**What each theory explains well — and badly:**
+
+| Theory | Strong | Weak |
+|---|---|---|
+| Realism | Power competition, security dilemmas, alliance formation | Cooperation, norm change, democratic peace |
+| Liberalism | Institutional cooperation, trade peace, democratic peace | Why institutions fail, why orders collapse |
+| Constructivism | Identity politics, norm diffusion, perception | Predicting specific outcomes, material constraints |
+
+**Lines to memorise:**
+> *"The social world is but a projection of human nature onto the collective plane."* — Morgenthau (classical realism)
+
+> *"Anarchy is what states make of it."* — Wendt (1992)
+
+> *"Theory is always for someone and for some purpose."* — Cox (Week 5, but applies here too)
+
+---
+
+### Week 3 — Nuclear Proliferation
+
+**Frame:** Sagan asks "Why do states build nukes?" and refuses the realist monopoly. Three models — security, domestic politics, norms — each do real work; most cases mix all three. Policy implication: non-proliferation needs multi-pronged interventions.
+
+==**Sagan's three models (1996):**==
+
+| Model | Driver | Cases | Policy implication |
+|---|---|---|---|
+| **Security** | Threat that can't be met otherwise | USSR (vs US), China (vs US), India (vs China), Pakistan (vs India), N. Korea | Security guarantees, extended deterrence, arms control |
+| **Domestic politics** | Bureaucracies + coalitions push the bomb | India 1974, France, S. Africa apartheid | Civilian control, deny bureaucratic monopolies, support anti-prolif coalitions |
+| **Norms** | Nukes as prestige / sovereignty / modernity | France (Gaullism), India 1998 (Hindutva), Germany/Japan NOT building | Strengthen the norm (NPT, TPNW), public diplomacy |
+
+**Iran case** (all three at once): security (Israel/US threats) + domestic (IRGC interests) + norms (post-Iraq inequity, status). Why pure security guarantees don't work.
+
+**Cases that strain the security model:**
+- **Ukraine 1994:** gave up Soviet nukes despite Russian threat (Budapest Memorandum, broken 2014 + 2022).
+- **South Africa 1989–93:** dismantled despite ongoing regional tensions.
+- **Brazil + Argentina 1980s–90s:** mutual abandonment without dramatic security shift.
+
+**The NPT (1968/1970):**
+- 5 official nuclear states (US, USSR/Russia, UK, France, China) commit to disarm.
+- All others commit NOT to acquire.
+- All have right to peaceful nuclear tech.
+- 191 parties — most widely subscribed arms-control treaty.
+- *Central inequality:* "haves" vs "have-nots" — source of Global South critique.
+
+**Today's nuclear landscape (9 nuclear states):**
+- NPT-recognised: US, Russia, UK, France, China.
+- Outside NPT: India, Pakistan, Israel.
+- Acquired post-NPT: North Korea (2006).
+- *Threshold state:* Iran (most-watched).
+
+==**Waltz-Sagan debate:**==
+- **Waltz (optimist):** more nukes = more deterrence = more stability.
+- **Sagan (pessimist):** more nukes = more accidents, theft, parochial-actor decisions = higher risk.
+- Mainstream IR has tilted toward Sagan since 2000s.
+
+**Other key concepts:**
+- **MAD** (Mutually Assured Destruction): both sides have second-strike → neither can win → both refrain.
+- **Second-strike capability:** required for MAD; dispersed/hardened/sea-based delivery.
+- **Nuclear taboo (Tannenwald):** norm against use; holds since 1945. Tested by Russian rhetoric on Ukraine.
+- **TPNW (2017):** Treaty Prohibiting Nuclear Weapons; entered into force 2021; no nuclear state signed.
+- **Vertical vs horizontal proliferation:** more weapons per state vs more states with weapons.
+- **End of New START (Feb 2026):** unwinding of US-Russia bilateral caps — connects directly to Week 1's "end of arms control" trend.
+
+**Lines to memorise:**
+> *"Why do states build nuclear weapons? ... Many U.S. policymakers and most international relations scholars have a clear and simple answer ... [but] this consensus is misleading."* — Sagan (1996)
+
+> *"The spread of nuclear weapons may be a blessing rather than a curse."* — Waltz (proliferation optimist, paraphrased)
+
+> *"More may be worse."* — Sagan (proliferation pessimist, paraphrased)
+
+---
+
 ### Week 4 — Non-Western IR Theory
 
 **Frame:** IR is "an American social science" (Hoffmann 1977). Built from Westphalia. Universalises one region's history. **Hegemonic in the Gramscian sense.**
@@ -835,7 +990,6 @@ These lines in your notes used `==` to start a question/comment but the closing 
 > *"Global IR is not about rejecting the Western IR tradition, but broadening the scope and sources of IR to make it more inclusive and universal."* (Acharya 2014)
 
 
-%%TODO: firstly, the comment below this one is not hidden - idk why. Secondly, After you read these comments/questions, do what you have to do (write the task in the task file, include the question in the review or in this case, put in your memory that for summaries, I like the one page review that you are making) - after you do that action, remove the hidden comentary%%
 
 %%Love this one page revision btw!! great work, do this for all of the summaries you make - all important on one page, key terms, easy explanations, key quotes, love it!%%
 
@@ -958,6 +1112,247 @@ These lines in your notes used `==` to start a question/comment but the closing 
 - Structural problem: external action fragmented across exclusive/shared/intergovernmental competences.
 
 **Zwolski 2025 — Pan-Europe revisited:**
+- Today's EU "geopolitical power" rhetoric (ReArm Europe, strategic autonomy) echoes *inter-war* pan-European debates.
+- Coudenhove-Kalergi (1923, *Pan-Europa*): unite Europe to resist American + Soviet hegemony.
+- Lineage matters: the geopolitical EU is not new; it revives what the post-1945 civilian-power EU was specifically designed to avoid.
+
+**Decentring EU studies (Nicolaïdis):** mutual engagement + self-reflexivity + radical decentring (centring those speaking from elsewhere).
+
+**Lines to memorise:**
+> *"The political and the national unit should be congruent."* — Gellner (relevant to the EU's legitimacy gap)
+
+> *"Europe is uniting without the majority of Europeans being ready for it."* (lecture opener — captures the pan-European legitimacy puzzle)
+
+---
+
+### Week 10 — Nation, Race and Gender
+
+**Frame:** Nations are *imagined* but consequential. Where they come from (ancient vs modern), how they cohere (ethnic vs civic), and how race + gender structure them — that's the lecture.
+
+**What is a nation? — three dimensions (Heywood ch.8):**
+- **Cultural** (language, religion, history) · **Political** (claim to sovereignty) · **Psychological** (loyalty, patriotism).
+- Nation ≠ state ≠ country ≠ ethnic group ≠ nation-state. Be precise.
+
+==**Imagined community (Anderson 1983):**==
+- Imagined (you'll never meet most members) · limited · sovereign · community (horizontal comradeship).
+- Made thinkable by *print capitalism* — vernacular novels + newspapers → simultaneity.
+
+**Primordialist vs Modernist:**
+
+| | Primordialist | Modernist |
+|---|---|---|
+| Origin of nation | Ancient ethnic / cultural community | Late-18th / 19th-century political construction |
+| Mechanism | Inherited bonds | Industry + print + mass schooling |
+| Key thinkers | Herder, Smith, Connor | **Gellner, Hobsbawm, Anderson** |
+| How nationalism relates | Nations come first; nationalism awakens them | Nationalism comes first; nations are its product |
+
+**Gellner:** industrial economies require cultural homogeneity → state produces it via mass schooling → nationalism = "political and national unit should be congruent."
+
+**Nationalism in IR theory:**
+
+| Lens | What it sees |
+|---|---|
+| Realist | Fuel for state power (war, taxation, territory) |
+| Liberal | Civic nationalism → self-determination + democratic citizenship (Wilsonian) |
+| Constructivist | Identity as socially constructed, contested |
+| Marxist | Ideology binding workers + capitalists (Anderson partly here) |
+
+==**Civic vs ethnic nationalism:**==
+- *Civic:* membership via institutions (France, US in self-image, Ukraine since 2014).
+- *Ethnic:* membership via descent / language / religion (Germany 19th c., South Korea).
+- *Ideal types* — all nationalisms mix both. The empirical question: which axis is doing the work *now*?
+
+**Wilsonian vs reactionary nationalism:** same vocabulary (nation, sovereignty, the people), opposite projects — self-determination vs recovered glory + foreigner-as-threat.
+
+**Korea + Ukraine — the take-home:**
+- *Korea 1910–45:* Japanese rule abolished the state → only blood + language + dynastic memory survived → ethnic nationalism (*tanil minjok*).
+- *Ukraine 2014–:* working civic institutions exist → civic attachment rises even under invasion; Russian-speakers identify *as Ukrainians*.
+- ==**Lesson: ethnic vs civic depends on institutional context, not something fixed in "the people."**==
+
+**Race, identity, othering (Heywood ch.9):**
+- Identity is two-way: also *identification by* others (racialization).
+- Nations are defined as much by who is OUT as IN — the boundary work is constitutive.
+- *Hindutva* = live case: Hindu = Indian; Muslims excluded by law + violence.
+
+==**Gender and nationalism (Nagel 1998):**==
+- *"Nationalism is a project of nation-building, but also a project of gender-building."*
+- The nation itself is an ideologically masculine project — honor, sacrifice, defense, conquest.
+- Three gendered roles: *masculinist heroism* (men do war/rule) · *patriotic motherhood* (women embody / reproduce the nation) · *sexualized militarism* (enemy men predatory, enemy women licentious).
+- Today: immigrant men framed as threats to "our" women; women dual-positioned (victims + reproducers).
+
+**Nationalism today — resurgence:**
+- Brexit · Trump · AfD · Le Pen · Orbán · Meloni · Modi · Putin.
+- Shared: anti-globalist + exclusionary + recovered-glory + anti-IO.
+- Different flavours: religious (India), economic (Trump), civilizational (Orbán, Putin), revanchist (Russia).
+
+**Bridge to Week 11:** Nationalism today is a 21st-century *response* to the post-1989 globalization order, not a 19th-century holdover.
+
+**Lines to memorise:**
+> *"An imagined political community — imagined as both inherently limited and sovereign."* — Anderson
+
+> *"The political and the national unit should be congruent."* — Gellner
+
+> *"Nationalism is a project of nation-building, but also a project of gender-building."* — Nagel
+
+---
+
+### Week 7 — War, Peace and International Security
+
+**Frame:** War is not a natural fact but a contested concept. The lecture moves from definitions through IR theories to Barkawi's decolonial critique.
+
+**Definition trouble:**
+- UN "major conflict" = ≥1,000 deaths/year — arbitrary; excludes the Falklands.
+- Types: Blitzkrieg (speed), Total War (society mobilised), Hegemonic, Guerrilla, Revolutionary.
+
+**IR theory takes on war:**
+- **Realism (Clausewitz):** *"War is the continuation of political intercourse by other means."* War = power. Peace and war are NOT opposites.
+- **Liberalism:** war is solvable — IOs, free trade, democracy (Deudney & Ikenberry 1999). Democratic peace theory.
+- **Idealism:** perpetual peace (Kant); collective security; security communities (Deutsch 1957); Just War.
+- **Postcolonialism:** world is hierarchical, not anarchic. Brings race, gender, class.
+
+**Just War Theory:**
+- **Jus ad bellum** (6): last resort · just cause · legitimate authority · right intention · reasonable prospect · proportionality.
+- **Jus in bello** (3): discrimination · proportionality · humanity.
+
+**Barkawi — decolonising war (3 Eurocentric building blocks to attack):**
+1. War/peace are opposites → replace with battle/repression schema where force is *ordinary* politics.
+2. War is between sovereign states → situate in transnational/imperial hierarchies.
+3. War is international or civil → colonial wars don't fit either box.
+
+==Insight: "Small Wars" (colonial uprisings) get dismissed as not-war. The Eurocentric definition is the problem, not the geographic focus.==
+
+**New wars:**
+- Kilcullen 2020: US 1991 military model no longer working.
+- "Snakes & Dragons": non-state actors + Russia/China refusing US orbit. China's "three warfares" — psychological, public opinion, lawfare.
+- PMSI: 1 in 4 US personnel in Iraq/Afghanistan was a private contractor (2016). Montreux Document 2008.
+- War on Terror became "a threat without enemies."
+
+**Re-Arm Europe (2025):** €800B plan, SAFE lending instrument, response to Ukraine.
+
+**Lines to memorise:**
+> *"War is simply a continuation of political intercourse, with the addition of other means."* — Clausewitz
+
+> *"America is not at war. The Marine Corps is at war. America is at the mall."* — quoted in Barkawi
+
+---
+
+### Week 8 — Power, Liberalism and World Order
+
+**Frame:** World order = stable patterns of relations among actors, built on power not justice. The post-1991 liberal order is in crisis.
+
+**World order types:**
+- Bipolar (Cold War: US vs USSR)
+- Unipolar (1991 → mid-2000s: "unipolar moment" — Krauthammer)
+- Multipolar (today: US, China, Russia, India...)
+- ==**Multiplex (Acharya):** multiple shows, multiple producers — diversity is the principle, not just more powers.==
+
+**Power — what is it?**
+- Dahl: "ability to get others to do what they would not otherwise do."
+- **Resource vs. relational:** what you possess vs. what you can do with it.
+- **Hard / soft / smart power (Nye):** military+economic / culture+norms / both combined.
+- **Institutional power:** embedded in rules (North, Thelen). The US shaped UN/WTO/IMF in its image.
+
+**Rodrik's globalization trilemma:** deep globalization + nation-state + democracy — pick any two.
+- EU = globalization + democracy (sacrificed sovereignty)
+- China = globalization + nation-state (democracy never on offer)
+- Brexit / Trump = nation-state + democracy (sacrificed depth)
+
+**Crisis of liberal order:**
+- 9/11 + neoconservatism → US unilateral primacy. Kagan: *"America did not change on 9/11. It only became more itself."*
+- Acharya's multiplex: future order won't be Western OR Chinese.
+
+**China's evolution:**
+- Deng (1980s): *"bide time, hide brightness."*
+- Hu: *"peaceful rise / peaceful development."*
+- Xi (2010s–): *"Chinese Dream / Major Country Diplomacy."*
+- **BRI (2013):** bilateral infrastructure deals; "debt trap diplomacy" critique.
+- China & Global South: Bandung 1955 → Non-Aligned Movement → "champion" of developing world (asymmetric — China = 66% of GDP growth from emerging/developing 2000–2019).
+
+**Line to memorise:**
+> *"Future world order will not be dominated by one nation or civilization. What matters is cultural and political diversity."* — Acharya
+
+---
+
+### Week 11 — Globalization and Populism
+
+**Frame:** Three stacked layers explain why globalization produced populism.
+
+**The three-layer diagnosis:**
+
+| Author | Layer | Core claim |
+|---|---|---|
+| Heywood & Whitham | Sociological | Social ties thinned — community → networks |
+| Rodrik | Political-economic | Trilemma: globalization + nation-state + democracy — pick 2 |
+| Mishra | Psychological | Modernity promised dignity, didn't deliver — rage |
+
+**Layer 1 — society thinning:**
+- **Precariat** (Standing) — insecure / low-wage workers without industrial-era protections.
+- **Risk society** (Beck) — politics organised around *bads* (climate, pandemics).
+- **Liquid modernity** (Bauman) — family / class / profession dissolved.
+- **Network society** (Castells) — grievance moves faster than nuance.
+
+**Layer 2 — Rodrik's trilemma (5-country diagnosis):**
+
+| Country | Corner | Sacrifice |
+|---|---|---|
+| Greece (Eurozone) | Globalization + sovereignty (formal) | Substantive democracy (2015 referendum) |
+| Brexit UK | Sovereignty + democracy | Depth of globalization |
+| China | Globalization + nation-state | Democracy never on offer |
+| US Trump | Sovereignty + democracy | Depth rolled back |
+| Argentina Milei | Cycles between corners | Trilemma as treadmill, not fate |
+
+- ==**Deep globalization = regulatory harmonization**, NOT trade volume. Brexit Britain still trades.==
+- **Stolper–Samuelson:** trade makes some factors *absolutely* worse off.
+- **Compensation problem:** distortionary + time-inconsistent (winners renege after).
+
+**Layer 3 — Mishra:** uprooting → resentment → rage looking for political form. 19th-century echoes.
+
+**Demand vs supply of populism (Rodrik):**
+- **Demand:** globalization shocks → grievance (universal).
+- **Supply:** type of shock determines cleavage activated.
+  - Trade/finance shocks → class → left populism (LatAm: Chávez, Morales).
+  - Immigration shocks → ethno-cultural → right populism (Europe: Le Pen, Orbán).
+  - US 2010s = both shocks → Sanders + Trump on different cleavages of the same crisis.
+
+==**Trap to avoid:** "Globalization explains right-wing populism" is *lazy*. Globalization explains the *demand*, not the *form*.==
+
+**Populism vs nationalism:** populism = repertoire (portable style); nationalism = structure (long-running political community). East Asia (Japan, Korea, Taiwan) = strong nationalisms, no durable populist parties — proof they're different.
+
+**Line to memorise:**
+> *"Self-seeking individuals with very different pasts now find themselves herded together into a global marketplace where humiliating new hierarchies emerge."* — Mishra (2016)
+
+---
+
+### Week 12 — Anthropocene and Global Futures
+
+**Frame:** Is the IR toolkit equipped for planetary problems? Mitchell: the discipline keeps extinction in the footnotes.
+
+**Section A — Mitchell's central claim:**
+- Extinction is now a stake; IR claims to be a "theory of survival" yet has no framework for it.
+- ==**Structural mismatch:** IR's unit is the state (bounded, territorial, short-term); planetary processes (climate, biodiversity) cross borders and operate on geological timescales.==
+- **The ontological gap:** standard response is *better management* (treaties, targets) — but the field cannot yet *think* the loss of life forms.
+- **Anthropocentrism = blind spot:** IR centers "humanity" as the only subject; nonhumans = backdrop; taboo is *structural, not evidential*.
+- **Mitchell proposes:** post-humanism, planetary thinking, cosmopolitics, ethics of gratitude beyond survival.
+
+**Section B — four future challenges:**
+1. **Technology / AI:** capability outruns governance; dual-use; autonomy in weapons; risk unevenly distributed.
+2. **Space frontier:** great-power competition extended beyond Earth; 1960s treaties for a different industry; SpaceX-era private actors.
+3. **Ecology / planetary boundaries:** nine boundaries (climate, biodiversity, biogeochemical, freshwater, land-use, ocean acid, aerosols, ozone, novel entities); several already exceeded; tipping points are nonlinear; "resilience" can shift costs onto the vulnerable.
+4. **Migration:** climate displacement at unprecedented scale; refugee law for a different crisis; internal > cross-border; border politics shaped by *anticipated* flows. **Fertility decline / global relationship recession** (Burn-Murdoch 2025) — TFR<2.1 reshapes labor, pensions, migration, geopolitical balance.
+
+**Course through-lines (closing):**
+1. Constructivism + Global IR — sister critiques of mainstream.
+2. Nationalism (structure) vs populism (repertoire) — analytically separable, empirically fused.
+3. Rodrik's trilemma — runs through Weeks 8, 11, 12.
+
+**Meta-lesson:** IR is a contested toolkit. Every tool answers a different question. Post-1989 settlement frays at multiple seams.
+
+**Line to remember (close):**
+> *"We are more connected than ever — but are we more together?"* — Denney close
+
+---
+
+Zwolski 2025 — Pan-Europe revisited:**
 - Today's EU "geopolitical power" rhetoric (ReArm Europe, strategic autonomy) echoes *inter-war* pan-European debates.
 - Coudenhove-Kalergi (1923, *Pan-Europa*): unite Europe to resist American + Soviet hegemony.
 - Lineage matters: the geopolitical EU is not new; it revives what the post-1945 civilian-power EU was specifically designed to avoid.

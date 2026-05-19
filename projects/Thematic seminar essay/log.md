@@ -1,5 +1,13 @@
 # Log — Thematic seminar essay
 
+## [2026-05-19] synthesis | argument-logic.md — sharpening the essay's thesis
+Wrote `wiki/synthesis/argument-logic.md` (Box for Claude task #8). Did NOT write the essay. Did four things:
+1. Extracted five cross-reading patterns (A: implementation gap, B: public-elite gap, C: industrial-policy entanglement, D: credit-export logic, E: hybrid-design convergence) with citation clusters per pattern.
+2. Surfaced three alternative thesis framings (the current "political economy not economic design"; sharper "credit-export economy not decarbonisation economy"; most distinctive "implementation gap is the policy"). Recommended Framing 2.
+3. Stress-tested Framing 2 against five likely objections with response notes.
+4. Identified six concrete evidence gaps + sources to chase (IISD-GSI Indonesia fuel-subsidy literature; Hashim/Arsari political-economy via parallel project; EU CBAM exposure; coal-export consumption accounting; second LMIC comparator beyond China; institutional-economics theory for the "policy theatre" frame).
+Added advisory essay skeleton (7-beat structure for Framing 2). Wrote a chain task for the next agent (Box task #9) to do the source chasing.
+
 ## [2026-05-16] scaffold | Project set up per wiki schema
 - Created `raw/` (with `expert/` and `assets/` subfolders) and moved all PDFs in from the legacy "Essay - Indonesian carbon market" subfolder
 - Created `wiki/{synthesis,entities,concepts}/`

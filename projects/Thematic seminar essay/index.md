@@ -9,6 +9,7 @@
 | [essay-direction](wiki/synthesis/essay-direction.md) | Working thesis, outline, source map, and open questions for the essay |
 | [thesis-questions-answers](wiki/synthesis/thesis-questions-answers.md) | Direct answers to two core essay questions: why ETS first, and what Indonesia should do now. Written 2026-05-17 incorporating Overnight Search finds. |
 | [thesis-questions-answered](wiki/synthesis/thesis-questions-answered.md) | Parallel session's essay-ready draft answers to the same two thesis questions. |
+| [argument-logic](wiki/synthesis/argument-logic.md) | **Argument sharpening** (2026-05-19): cross-reading patterns (A–E), three alternative thesis framings with a recommendation, counter-argument stress-test, evidence gaps + sources to chase, advisory essay skeleton. Read this BEFORE drafting. |
 
 ## Concepts
 

@@ -14,19 +14,19 @@ updated: 2026-05-16
 
 ## Key concepts — definitions
 
-| Term | Definition |
-|---|---|
-| **Analogy** | A relation of similarity or isomorphism between two domains of phenomena. Lets us transfer cognitive resources from a familiar domain to a less familiar one. |
-| **Source domain** | The familiar domain that supplies the *terms* of the analogy. |
-| **Target domain** | The less familiar domain that we apply the analogy to. |
-| **Mapping** | A one-to-one correspondence between terms in the source and terms in the target domain. By itself, a translation; not yet content. |
-| **Relations** | Causal or structural claims that hold for *both* the source and the target under the mapping. What gives the analogy substantive content. |
-| **Positive analogy** (Hesse) | Relations we already know hold in both source and target. The "confirmed" part of the analogy. |
-| **Negative analogy** (Hesse) | Relations we know hold in one domain but *not* the other. The "broken" part. |
-| **Neutral analogy** (Hesse) | Relations we know hold in the source but *don't yet know* whether they hold in the target. **The source of creativity** in analogical reasoning — generates novel predictions. |
-| **Model** | A simplified representation of a domain of phenomena. Lets us apply theory to complex reality. Many models are *based on* analogies. |
-| **Idealisation** | The deliberate simplification/distortion of reality in a model to make phenomena tractable. *Examples:* frictionless planes, perfectly rational agents. |
-| **Instrumentalist stance** | The standard scientific attitude toward models: judge them as **adequate or inadequate**, not as *true or false*. (Models are tools, not pictures.) |
+| Term                         | Definition                                                                                                                                                                     |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Analogy**                  | A relation of similarity or isomorphism between two domains of phenomena. Lets us transfer cognitive resources from a familiar domain to a less familiar one.                  |
+| **Source domain**            | The familiar domain that supplies the *terms* of the analogy.                                                                                                                  |
+| **Target domain**            | The less familiar domain that we apply the analogy to.                                                                                                                         |
+| **Mapping**                  | A one-to-one correspondence between terms in the source and terms in the target domain. By itself, a translation; not yet content.                                             |
+| **Relations**                | Causal or structural claims that hold for *both* the source and the target under the mapping. What gives the analogy substantive content.                                      |
+| **Positive analogy** (Hesse) | Relations we already know hold in both source and target. The "confirmed" part of the analogy.                                                                                 |
+| **Negative analogy** (Hesse) | Relations we know hold in one domain but *not* the other. The "broken" part.                                                                                                   |
+| **Neutral analogy** (Hesse)  | Relations we know hold in the source but *don't yet know* whether they hold in the target. **The source of creativity** in analogical reasoning — generates novel predictions. |
+| **Model**                    | A simplified representation of a domain of phenomena. Lets us apply theory to complex reality. Many models are *based on* analogies.                                           |
+| **Idealisation**             | The deliberate simplification/distortion of reality in a model to make phenomena tractable. *Examples:* frictionless planes, perfectly rational agents.                        |
+| **Instrumentalist stance**   | The standard scientific attitude toward models: judge them as **adequate or inadequate**, not as *true or false*. (Models are tools, not pictures.)                            |
 
 ---
 

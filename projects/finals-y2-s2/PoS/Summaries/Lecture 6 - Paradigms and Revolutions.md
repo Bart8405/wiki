@@ -207,6 +207,7 @@ The pre-Kuhn picture (which Popper largely shared) held that science progresses 
 
 ---
 
+%%TODO: In your multiple choice questions, the answers are almost always B - switch it up so I dont know the answers before I read the question..%%
 ### Short Essay / Open Questions
 
 **Essay Q1.** Define "paradigm," "normal science," and "scientific revolution" as Kuhn uses them, and apply all three to the transition from classical (Newtonian) physics to quantum mechanics.
@@ -278,11 +279,11 @@ The pre-Kuhn picture (which Popper largely shared) held that science progresses 
 
 **Kuhn vs Popper:** Popper says scientists *should* try to refute; Kuhn says they normally *don't* — they save the paradigm until crisis.
 
-**Key examples:** Copernican revolution, Einsteinian physics, plate tectonics.
+==**Key examples:** Copernican revolution, Einsteinian physics, plate tectonics.==
 
 **Implications:** science is not steady accumulation of truth but punctuated by ruptures. Sociological turn — what counts as good science is community-dependent.
 
 **Key thinker:** Thomas Kuhn — *The Structure of Scientific Revolutions* (1962).
 
 **Line to remember:**
-> *"Normal science does not aim at novelties of fact or theory and, when successful, finds none."* — Kuhn
+> ==*"Normal science does not aim at novelties of fact or theory and, when successful, finds none."* — Kuhn==

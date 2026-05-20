@@ -92,8 +92,7 @@ The practical tip for your PoS exam: when you're asked to classify a method, ask
 **Connected to:** → [[#stikstofcrisis|stikstofcrisis]] — the stikstofcrisis example shows what happens when a problem *requires both* approaches: you need nomothetic science (chemistry laws for nitrogen reactions) and idiographic/contextual knowledge (the specific history of Dutch land use policy) simultaneously.
 
 **Seen in:**
-- [[Lecture 1 - Ways of Knowing#Key concepts — definitions|Lecture 1 - Ways of Knowing.md:L20]] — *"==Understanding the meaning of *contingent, unique, often subjective* outcomes. Typical of the human sciences==. %%Question - what is the difference or connection...%%"*
-%%TODO: In the link above, do not keep the hidden comment like this - when you answer the question here, remove the hidden comment%%
+- [[Lecture 1 - Ways of Knowing#Key concepts — definitions|Lecture 1 - Ways of Knowing.md:L20]] — *"==Understanding the meaning of *contingent, unique, often subjective* outcomes. Typical of the human sciences=="*
 **Sources:** Windelband (1894) rectoral address; Lecture 1 summary context.
 
 ---

@@ -18,6 +18,20 @@ _Concepts and questions automatically extracted from your notes._
 - [[#Week 11 — Globalization and Populism (Denney)]]
 - [[#Week 12 — Anthropocene and Global Futures (Denney)]]
 
+**One-page revision sheets (quick-access cheat sheets):**
+- [[#Week 1 — Old Debates in a New World]] (revision)
+- [[#Week 2 — Power, Institutions, and Ideas|Week 2]] (revision)
+- [[#Week 3 — Security Dilemmas and Nuclear Proliferation|Week 3]] (revision)
+- [[#Week 4 — Non-Western IR Theory|Week 4]] (revision)
+- [[#Week 5 — Critical and Decentring Perspectives|Week 5]] (revision)
+- [[#Week 6 — Global Migration: Mobility and Security|Week 6]] (revision)
+- [[#Week 7 — War, Peace and International Security|Week 7]] (revision)
+- [[#Week 8 — Power, Liberalism and World Order|Week 8]] (revision)
+- [[#Week 9 — Global Governance and EU Regional Integration|Week 9]] (revision)
+- [[#Week 10 — Nation, Race and Gender|Week 10]] (revision)
+- [[#Week 11 — Globalization and Populism|Week 11]] (revision)
+- [[#Week 12 — Anthropocene and Global Futures|Week 12]] (revision)
+
 ---
 
 ## All Terms
@@ -826,8 +840,6 @@ JWT sits between realism (war as legitimate political tool) and pacifism (war ne
 | Globalization + nation-state | Democracy | China; the "Golden Straitjacket" pattern |
 | Nation-state + democracy | Depth of globalization | Brexit UK; US under Trump |
 
-%%TODO: I think this table is meant to look differently - it is just plain text now. I would like you to repair it and do more checks next time so these mistakes do not happen - also, after you finish a TODO task, remove this text from the file so it does not make it look worse%%
-
 **Explained easily:** Imagine three things you want at full strength: (1) a fully open global economy where capital and goods flow freely, (2) your country making its own rules, (3) your country being democratic. You can pick any two. The EU picked open economy + democracy but gave up sovereignty (Brussels makes the rules). China picked open economy + sovereignty but skipped democracy. Brexit Britain picked sovereignty + democracy but closed off the open economy. There's no fourth option where you get all three — somebody, somewhere, is paying for what you chose.
 
 **Connected to:** → [[#populism: demand vs supply + populism as repertoire vs nationalism|populism: demand vs supply]] (Week 11) — the trilemma generates the *demand* for populism, but not its political form; → [[#precariat (Standing)|precariat]] — the bloc that bears the cost of the chosen sacrifice; → [[#Anthropocene + post-humanism|Anthropocene]] (Week 12) — Denney noted in Week 12 that the trilemma reappears with planetary boundaries replacing democracy as the squeezed third corner.
@@ -1111,7 +1123,6 @@ These lines in your notes used `==` to start a question/comment but the closing 
 
 ---
 
-%%TODO: include the revisions sheets as seperate entities in the index above in this file so I can get to them quickly%%
 ## One-Page Revision Sheets
 
 *Cheat sheets for each lecture, pulled from the corresponding summary file.*

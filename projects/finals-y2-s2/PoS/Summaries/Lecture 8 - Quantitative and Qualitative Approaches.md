@@ -14,20 +14,20 @@ updated: 2026-05-16
 
 ## Key concepts — definitions
 
-| Term | Definition |
-|---|---|
-| **Quantitative methods** | Methods that perform **causal inference via cross-case analysis**. Collect (quasi-)numerical data on relatively few variables from many instances ("**Large N**"). Analyse with statistical tools. Typical forms: experimental, quasi-experimental, interventional studies. |
-| **Qualitative methods** | Methods that reconstruct **causal pathways via within-case analysis**. In-depth study of many variables in few instances ("**Small N**"). Typical forms: observational studies, **case studies**. |
-| **Forward causal inference** | Reasoning *from causes to effects.* The native direction of quantitative methods. "We know intervention T occurred — what was its effect?" |
-| **Reverse causal inference** | Reasoning *from effects to causes.* The native direction of qualitative methods. "We see outcome E — what caused it?" |
-| **Hypothesis generation** | The exploratory phase of the empirical cycle — *generating* candidate hypotheses. Qualitative methods are strong here (in-depth knowledge → conjectures about causal pathways). |
-| **Hypothesis test** | The confirmation/disconfirmation phase. Quantitative methods are strong here (statistical tests of predicted correlations). |
-| **Case study** | Intensive study of a single case, with the purpose of shedding light on a *larger class* of cases. Instance of qualitative method. Procedure: note an outcome, try to identify the causal factor responsible. |
-| **Internal validity** | Degree to which a study's findings are *warranted for the case studied*. Qualitative methods tend to score high here. |
-| **External validity** | Degree to which a study's findings *generalise* beyond the case studied. Quantitative methods tend to score high here. |
-| **Trade-off** | Internal vs external validity are usually inversely related. Measures that strengthen warrant (internal) tend to limit generalisability (external). |
-| **Mixed methods / triangulation** | Modern practice — combining quantitative and qualitative methods to compensate for each one's weaknesses. |
-| **Important caution** | Quantitative/qualitative ≠ nomothetic/idiographic. Don't conflate them. Quant/qual is about *data and case count*; nom/idi is about *what you're trying to achieve epistemically* (Lecture 1). |
+| Term                              | Definition                                                                                                                                                                                                                                                                          |
+| --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Quantitative methods**          | Methods that perform ==**causal inference via cross-case analysis**.== Collect (quasi-)numerical data on relatively few variables from many instances ("==**Large N**"==). Analyse with statistical tools. Typical forms: experimental, quasi-experimental, interventional studies. |
+| **Qualitative methods**           | Methods that reconstruct ==**causal pathways via within-case analysis**==. In-depth study of ==many variables in few instances ("**Small N**=="). Typical forms: observational studies, **case studies**.                                                                           |
+| **Forward causal inference**      | Reasoning *from causes to effects.* The native direction of quantitative methods. "We know intervention T occurred — what was its effect?"                                                                                                                                          |
+| **Reverse causal inference**      | Reasoning *from effects to causes.* The native direction of qualitative methods. "We see outcome E — what caused it?"                                                                                                                                                               |
+| **Hypothesis generation**         | The exploratory phase of the empirical cycle — *generating* candidate hypotheses. Qualitative methods are strong here (in-depth knowledge → conjectures about causal pathways).                                                                                                     |
+| **Hypothesis test**               | The confirmation/disconfirmation phase. Quantitative methods are strong here (statistical tests of predicted correlations).                                                                                                                                                         |
+| **Case study**                    | Intensive study of a single case, with the purpose of shedding light on a *larger class* of cases. Instance of qualitative method. Procedure: note an outcome, try to identify the causal factor responsible.                                                                       |
+| **Internal validity**             | Degree to which a study's findings are *warranted for the case studied*. Qualitative methods tend to score high here.                                                                                                                                                               |
+| **External validity**             | Degree to which a study's findings *generalise* beyond the case studied. Quantitative methods tend to score high here.                                                                                                                                                              |
+| **Trade-off**                     | Internal vs external validity are usually inversely related. Measures that strengthen warrant (internal) tend to limit generalisability (external).                                                                                                                                 |
+| **Mixed methods / triangulation** | Modern practice — combining quantitative and qualitative methods to compensate for each one's weaknesses.                                                                                                                                                                           |
+| **Important caution**             | Quantitative/qualitative ≠ nomothetic/idiographic. Don't conflate them. Quant/qual is about *data and case count*; nom/idi is about *what you're trying to achieve epistemically* (Lecture 1).                                                                                      |
 
 ---
 

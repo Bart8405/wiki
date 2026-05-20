@@ -14,19 +14,19 @@ updated: 2026-05-16
 
 ## Key concepts — definitions
 
-| Term                         | Definition                                                                                                                                                                     |
+| ==Term==                         | ==Definition==                                                                                                                                                                     |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Analogy**                  | A relation of similarity or isomorphism between two domains of phenomena. Lets us transfer cognitive resources from a familiar domain to a less familiar one.                  |
-| **Source domain**            | The familiar domain that supplies the *terms* of the analogy.                                                                                                                  |
-| **Target domain**            | The less familiar domain that we apply the analogy to.                                                                                                                         |
-| **Mapping**                  | A one-to-one correspondence between terms in the source and terms in the target domain. By itself, a translation; not yet content.                                             |
-| **Relations**                | Causal or structural claims that hold for *both* the source and the target under the mapping. What gives the analogy substantive content.                                      |
-| **Positive analogy** (Hesse) | Relations we already know hold in both source and target. The "confirmed" part of the analogy.                                                                                 |
-| **Negative analogy** (Hesse) | Relations we know hold in one domain but *not* the other. The "broken" part.                                                                                                   |
-| **Neutral analogy** (Hesse)  | Relations we know hold in the source but *don't yet know* whether they hold in the target. **The source of creativity** in analogical reasoning — generates novel predictions. |
-| **Model**                    | A simplified representation of a domain of phenomena. Lets us apply theory to complex reality. Many models are *based on* analogies.                                           |
-| **Idealisation**             | The deliberate simplification/distortion of reality in a model to make phenomena tractable. *Examples:* frictionless planes, perfectly rational agents.                        |
-| **Instrumentalist stance**   | The standard scientific attitude toward models: judge them as **adequate or inadequate**, not as *true or false*. (Models are tools, not pictures.)                            |
+| ==**Analogy**==                  | ==A relation of similarity or isomorphism between two domains of phenomena. Lets us transfer cognitive resources from a familiar domain to a less familiar one.==                  |
+| ==**Source domain**==            | ==The familiar domain that supplies the *terms* of the analogy.==                                                                                                                  |
+| ==**Target domain**==            | ==The less familiar domain that we apply the analogy to.==                                                                                                                         |
+| ==**Mapping**==                  | ==A one-to-one correspondence between terms in the source and terms in the target domain. By itself, a translation; not yet content.==                                             |
+| ==**Relations**==                | ==Causal or structural claims that hold for *both* the source and the target under the mapping. What gives the analogy substantive content.==                                      |
+| ==**Positive analogy** (Hesse)== | ==Relations we already know hold in both source and target. The "confirmed" part of the analogy.==                                                                                 |
+| ==**Negative analogy** (Hesse)== | ==Relations we know hold in one domain but *not* the other. The "broken" part.==                                                                                                   |
+| ==**Neutral analogy** (Hesse)==  | ==Relations we know hold in the source but *don't yet know* whether they hold in the target. **The source of creativity** in analogical reasoning — generates novel predictions.== |
+| ==**Model**==                    | ==A simplified representation of a domain of phenomena. Lets us apply theory to complex reality. Many models are *based on* analogies.==                                           |
+| ==**Idealisation**==             | ==The deliberate simplification/distortion of reality in a model to make phenomena tractable. *Examples:* frictionless planes, perfectly rational agents.==                        |
+| ==**Instrumentalist stance**==   | ==The standard scientific attitude toward models: judge them as **adequate or inadequate**, not as *true or false*. (Models are tools, not pictures.)==                            |
 
 ---
 
@@ -34,23 +34,23 @@ updated: 2026-05-16
 
 ### What is an analogy?
 
-Analogy = systematic similarity between two domains. Four conceptual components:
-1. **Source domain** — what we're reasoning *from*.
-2. **Target domain** — what we're reasoning *about*.
-3. **Mapping** — the term-by-term translation.
-4. **Relations** — invariant structural claims across the mapping.
+==Analogy = systematic similarity between two domains. Four conceptual components:==
+1. ==**Source domain** — what we're reasoning *from*.==
+2. ==**Target domain** — what we're reasoning *about*.==
+3. ==**Mapping** — the term-by-term translation.==
+4. ==**Relations** — invariant structural claims across the mapping.==
 
 A mapping *alone* is just a translation: it says "X term in domain A corresponds to Y term in domain B." It doesn't yet say anything *about either domain*. Relations add the content — claims like "X causes Y in both domains" that travel across the mapping.
 
 ### Two classic worked examples
 
-**Example 1 — Physics: water waves ↔ light waves**
-- *Mapping:* transverse displacement of water molecules → electric/magnetic field intensity (y); distance → distance (x); time → time (t); velocity → velocity (v).
-- *Relation:* the wave equation $\partial^2 y / \partial x^2 = (\partial^2 y / \partial t^2)/v^2$ holds in both.
+==**Example 1 — Physics: water waves ↔ light waves**==
+- ==*Mapping:* transverse displacement of water molecules → electric/magnetic field intensity (y); distance → distance (x); time → time (t); velocity → velocity (v).==
+- ==*Relation:* the wave equation $\partial^2 y / \partial x^2 = (\partial^2 y / \partial t^2)/v^2$ holds in both.==
 
-**Example 2 — Sociology: organisms ↔ societies** (Herbert Spencer, Émile Durkheim; functionalism)
-- *Mapping:* living organism → society; organs → institutions; functions of organs → functions of institutions; ill health → loss of social equilibrium.
-- *Relations:* the whole is greater than the sum of parts; parts work together for the benefit of the whole; to understand a part is to show its role in the existence of the whole.
+==**Example 2 — Sociology: organisms ↔ societies** (Herbert Spencer, Émile Durkheim; functionalism)==
+- ==*Mapping:* living organism → society; organs → institutions; functions of organs → functions of institutions; ill health → loss of social equilibrium.==
+- ==*Relations:* the whole is greater than the sum of parts; parts work together for the benefit of the whole; to understand a part is to show its role in the existence of the whole.==
 
 ### Heuristics — Mary Hesse's three classes of relations
 
@@ -68,9 +68,9 @@ A model is a **simplified representation** of a domain — letting a theory be a
 
 ### Two model examples
 
-**Bohr model of the atom (1913)** — small positively-charged nucleus + electrons in orbit. Inspired by *analogy with the solar system*. Replaced by quantum models where electron trajectories aren't localised — Bohr's model is now known to be wrong, but was tremendously useful for half a century.
+==**Bohr model of the atom (1913)** — small positively-charged nucleus + electrons in orbit. Inspired by *analogy with the solar system*. Replaced by quantum models where electron trajectories aren't localised — Bohr's model is now known to be wrong, but was tremendously useful for half a century.==
 
-**MONIAC** (Monetary National Income Analogue Computer) — Bill Phillips, LSE, 1949. A *hydraulic simulation* of the UK economy implementing Keynesian principles. Tanks = sectors; pipes = financial relationships; pumps = funds-transfer mechanisms; water = money. Mapping is literal — and it actually worked as a teaching/demo device. Embodies the **analogy underlying the model** in physical hardware.
+==**MONIAC** (Monetary National Income Analogue Computer) — Bill Phillips, LSE, 1949. A *hydraulic simulation* of the UK economy implementing Keynesian principles. Tanks = sectors; pipes = financial relationships; pumps = funds-transfer mechanisms; water = money. Mapping is literal — and it actually worked as a teaching/demo device. Embodies the **analogy underlying the model** in physical hardware.==
 
 ---
 
@@ -88,7 +88,7 @@ British philosopher of science (1924–2016). Professor of Philosophy of Science
 > **Explained easily — Hesse's three classes:**
 > Think of a Venn diagram between two domains. The overlap is the **positive analogy** — confirmed similarity. The "this side only" parts are **negative analogy** — confirmed *dis*similarity (organisms die; do societies?). The fuzzy middle, where you've checked the source but not the target yet, is the **neutral analogy** — that's where new science happens. Without a neutral analogy, you're not learning anything from the comparison.
 
-> **Explained easily — why models are *useful* not *true*:**
+> ==**Explained easily — why models are *useful* not *true*:**==
 > A frictionless plane doesn't exist. A perfectly rational consumer doesn't exist. Scientists know this. They use models *as tools*, like maps: a map of London at 1:1 scale would be useless. The whole point is to *throw away* information that doesn't matter for the question you're answering. Models are graded by *fit-for-purpose*, not by accuracy to every detail. Asking "is this model true?" is the wrong question — ask "is it adequate for the job?"
 
 > **Explained easily — MONIAC:**

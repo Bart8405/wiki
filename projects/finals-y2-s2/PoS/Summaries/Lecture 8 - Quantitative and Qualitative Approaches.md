@@ -72,9 +72,9 @@ Why? Quant studies typically collect few variables from many cases — fine for 
 %%Qual and quant differ on 2 axis - forward/reverse casual inference and hypothesis generating/testing, right?%%
 ### Case study research
 
-A **case study** is the intensive study of a single case with the aim of illuminating a *larger class of cases*. Procedure: note an outcome → try to identify the causal factor responsible. Instance of qualitative method. Reverse causal inference.
+==A **case study** is the intensive study of a single case with the aim of illuminating a *larger class of cases*. Procedure: note an outcome → try to identify the causal factor responsible. Instance of qualitative method. Reverse causal inference.==
 
-**Functions of case studies:** good for hypothesis generation and exploratory research; poor for hypothesis test/confirmation. A single-unit study lets you ventilate multiple hypotheses but rarely adopts or rejects one decisively.
+==**Functions of case studies:** good for hypothesis generation and exploratory research; poor for hypothesis test/confirmation. A single-unit study lets you ventilate multiple hypotheses but rarely adopts or rejects one decisively.==
 
 **Disciplines that rely heavily on case studies:** history, sociology, political science, law, anthropology, psychology, economics. Some are *almost entirely* case-based: psychoanalysis (Freud's clinical histories), business studies (MBA casework). (Possible reason: theoretical weakness — when you don't have strong theory, you fall back on detailed cases.)
 

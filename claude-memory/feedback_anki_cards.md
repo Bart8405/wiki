@@ -59,6 +59,22 @@ Best basic-card pattern: *"What is X?"* → 1–3 sentence definition. Best cloz
 
 Avoid: comparison cards that depend on remembering both halves (split into two cards), cards that test course-arc connections (covered in rule 2), and cards built around the author's life facts (the user wants concepts, not biographies — unless the author IS the concept, e.g. "Clausewitz" as a discipline-defining figure).
 
+### 6. Keep answers TERSE — use symbols, drop filler, fragments over full sentences
+
+Anki backs (and cloze surroundings) should be short and high-density. Aim for **roughly half** the length of normal prose. Specifically:
+- **Use symbols where natural:** `→`, `↔`, `vs`, `=`, `≠`, `:`, `·` (mid-dot for lists), `+`, parentheticals.
+- **Fragments are fine.** "Goal: understand the particular" beats "The approach aims to understand the particular." Don't pad with "the idea is that ..." or "it is the characteristic mode of ..." — just state it.
+- **Drop filler:** "in this context," "essentially," "the fact that," "characteristic mode of," "fundamental basis of." If a word can be removed without losing meaning, remove it.
+- **Use lists** for enumerable concepts instead of comma-prose. `Human sciences: history · literature · philosophy` beats `the human sciences such as history, literary studies, and philosophy`.
+
+**Example transformation:**
+
+*Verbose (avoid):* "The idiographic approach aims to understand the particular — the unique characteristics, meaning, and context of a specific case, event, person, or text. It is the characteristic mode of the human sciences (history, literary studies, philosophy). Windelband coined 'idiographic' and 'nomothetic' around 1894 to argue that the natural-vs-human-science divide is about a choice of approach, not just a choice of topic: the same object (a society, a psyche) can be studied either way."
+
+*Terse (do this):* "Goal: understand the *particular* — unique features / meaning / context of a single case. Mode of the human sciences (history · literature · philosophy). Windelband (1894): natural ↔ human science divide = a choice of *approach*, not *topic* — same object can be studied either way."
+
+The terse version still teaches everything load-bearing. The verbose version pads with connectives that don't survive spaced repetition.
+
 ### Where this applies
 
 This applies anywhere I generate Anki cards — `/push-anki` skill, the `anki-from-reviews.js` batch parser, and any direct AnkiConnect pushes. The `push-anki` slash command's instructions should be updated to reference this feedback the next time the skill is edited.

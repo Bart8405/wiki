@@ -91,8 +91,8 @@ British philosopher of science (1924–2016). Professor of Philosophy of Science
 > ==**Explained easily — why models are *useful* not *true*:**==
 > A frictionless plane doesn't exist. A perfectly rational consumer doesn't exist. Scientists know this. They use models *as tools*, like maps: a map of London at 1:1 scale would be useless. The whole point is to *throw away* information that doesn't matter for the question you're answering. Models are graded by *fit-for-purpose*, not by accuracy to every detail. Asking "is this model true?" is the wrong question — ask "is it adequate for the job?"
 
-> **Explained easily — MONIAC:**
-> Bill Phillips literally built a machine where coloured water moves through pipes between tanks labelled "Treasury," "Healthcare," "Private Investment," etc. Open a valve, water flows like money flows. The whole thing *is* an analogy made physical: water:money :: pipes:financial flows. It's an extreme version of what every economic model does in equations — except you can see it leaking.
+> ==**Explained easily — MONIAC:**==
+> ==Bill Phillips literally built a machine where coloured water moves through pipes between tanks labelled "Treasury," "Healthcare," "Private Investment," etc. Open a valve, water flows like money flows. The whole thing *is* an analogy made physical: water:money :: pipes:financial flows. It's an extreme version of what every economic model does in equations — except you can see it leaking.==
 
 ---
 

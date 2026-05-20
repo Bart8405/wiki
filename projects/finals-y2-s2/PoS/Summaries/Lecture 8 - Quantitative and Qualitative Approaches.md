@@ -49,7 +49,7 @@ The social world is complex (many instances × many variables). Researchers simp
 
 ==*Example: a clinical drug trial* compares outcomes for subjects who got drug T vs a control group. Gauges the *average effect* of T. Not suited to confirm T was *the* cause for any particular subject — quantitative methods reason from cause to population-effect, not the reverse.==
 
-
+%%TODO: This is a good example of applying the knowledge in practice - for these examples that I highlight, dont put them into anki (too specific) but do put them into the review file, as I want to see this example again - basically in Anki I want the things to be relevant even after the exam whereas in the review file not necessarily - write this in your memory to be better able to distinguish, what to make an anki card of and what not%%
 
 #### Axis 2 — Place in the empirical cycle
 

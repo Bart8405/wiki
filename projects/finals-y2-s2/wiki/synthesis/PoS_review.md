@@ -83,6 +83,7 @@ _Concepts and questions automatically extracted from your notes._
 - ==**Nomothetic vs. idiographic** = your *goal*: universal laws or deep understanding of one case?==
 - ==**Deductive vs. inductive** = your *method of reasoning*: from general principles down to specific conclusions, or from specific observations up to general patterns?==
 
+
 These axes are independent and can combine in any configuration:
 - A physicist (nomothetic) uses both deduction (deriving testable hypotheses from theory) and induction (building theory from data).
 - A historian (idiographic) uses mostly induction (building an interpretation from archive evidence) but also deduction (testing an interpretation against new documents).

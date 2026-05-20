@@ -1,0 +1,14 @@
+- [Don't ask permission for non-destructive actions](feedback_autonomous_research.md) — proceed autonomously for anything that doesn't risk the user's laptop files (web/API/installs/scratch); still confirm destructive or external-blast-radius actions
+- [Explain in plain language, not jargon](feedback_plain_language.md) — user is non-technical; define terms on first use, prefer analogies over jargon
+- [Commit automatically after wiki operations](feedback_auto_commit.md) — auto-commit after each ingest/query/lint/schema-change with one-line narration; pushes stay manual
+- [User background](user_background.md) — non-developer, friend set up the stack; their work is research, the tooling is incidental
+- [Personal wiki location](reference_wiki.md) — Karpathy-style LLM wiki at wiki/; check wiki/index.md before answering knowledge questions
+- [User's research focus](user_research_focus.md) — political economy of Indonesian voluntary carbon market; verify facts from primary sources, never search snippets
+- [Retry on my own when I "could have done more"](feedback_retry_on_own.md) — if a fetch fails (403, binary PDF, pagination) and I know a different technique, retry before flagging it as a miss
+- [Fact-check the user's premises proactively](feedback_factcheck.md) — verify stated facts against primary sources and the web before building on them; the user wants to be caught when "making shit up"
+- [Running feedback log location](reference_feedback_file.md) — `wiki/Feedback.md` holds uni + personal feedback; check it before substantive academic work and flag when the user is repeating a past mistake
+- [Study summary template](feedback_summary_template.md) — for coursework summaries: build a definition table for the study-guide glossary (with sources) AND add "Explained easily" plain-language callouts under each reading + complex idea. IRO Week 4–6 summaries are the worked example.
+- [Claude.ai routines setup](reference_claude_routines.md) — 4 scheduled remote agents on wiki repo; Claude GitHub App must be installed with write access; sandbox blocks many PDF downloads
+- [Include Obsidian highlights in extraction](feedback_highlight_extraction.md) — ==text== counts as a highlight; include it whenever extracting highlights from notes
+- [PDF reading tools](reference_pdf_tools.md) — extract.js for text-heavy PDFs (cheap), Read tool with `pages` for image-based / scanned / heavily-visual ones; run triage-pdf.js first when unsure
+- [Anki card rules](feedback_anki_cards.md) — full cloze coverage (every list item gets its own {{cN}}), no Week/Lecture references in card content, minimal quote cards, no hyper-precise transient stats; concept-definition cards as dominant form

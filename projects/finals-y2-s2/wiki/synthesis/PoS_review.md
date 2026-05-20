@@ -2,13 +2,20 @@
 
 _Concepts and questions automatically extracted from your notes._
 
-**Last updated:** 2026-05-17
+**Last updated:** 2026-05-20
 
 ## Table of Contents
 
 - [[#Lecture 1 — Ways of Knowing]]
 - [[#Lecture 2 — Knowledge, Truth and Facts]]
 - [[#Lecture 3 — Scientific Laws and Induction]]
+- [[#Lecture 4 — Explanations and Causes]]
+- [[#Lecture 5 — Falsificationism]]
+- [[#Lecture 6 — Paradigms and Revolutions]]
+- [[#Lecture 7 — Analogies and Models]]
+- [[#Lecture 8 — Quantitative and Qualitative Approaches]]
+- [[#Lecture 9 — Rationality]]
+- [[#Lecture 10 — Interpretation and Understanding]]
 
 ---
 
@@ -25,6 +32,34 @@ _Concepts and questions automatically extracted from your notes._
 | ==induction + deduction + ampliative reasoning== | ==Lecture 3 — Scientific Laws and Induction== | ==Induction goes beyond premises (ampliative); deduction just extracts what's already there== |
 | problem of induction + ==pragmatic warrant==     | Lecture 3 — Scientific Laws and Induction     | Hume: induction can't be justified; Reichenbach: it's still the best bet                      |
 | ==Duverger's law==                                   | ==Lecture 3 — Scientific Laws and Induction==     | ==FPTP → two parties; PR → many parties==                                                         |
+| Ad hoc modification | Lecture 5 — Falsificationism | Tinkering with a theory to save it from refutation — the enemy of falsification |
+| Analogy (source · target · mapping · relations) | Lecture 7 — Analogies and Models | Systematic similarity between two domains — four components |
+| Anomaly | Lecture 6 — Paradigms and Revolutions | Data that resists the paradigm — eventually triggers revolution |
+| Asymmetry of confirmation and refutation | Lecture 5 — Falsificationism | Confirming never proves; refuting always does (modus tollens) |
+| Bounded rationality (Simon) | Lecture 9 — Rationality | Real decision-makers satisfice rather than optimise |
+| Causal-mechanical model (Salmon) | Lecture 4 — Explanations and Causes | Explanations track causal processes and interactions, not just laws |
+| Context of discovery | Lecture 5 — Falsificationism | Hypothesis generation — anything goes, no logic required |
+| Context of justification | Lecture 5 — Falsificationism | Hypothesis testing — the actual locus of scientific method |
+| Corroboration | Lecture 5 — Falsificationism | Surviving severe tests makes a hypothesis tentatively trustworthy |
+| Deductive-Nomological (DN) model (Hempel) | Lecture 4 — Explanations and Causes | Explanation as deductive argument from a scientific law |
+| Demarcation problem | Lecture 5 — Falsificationism | Science vs non-science: Popper's answer is falsifiability |
+| Explanandum + Explanans | Lecture 4 — Explanations and Causes | What's to be explained vs what does the explaining |
+| Explanation vs prediction | Lecture 4 — Explanations and Causes | Same argument-form; explanation requires true premises |
+| Flagpole/shadow problem | Lecture 4 — Explanations and Causes | Shadows don't cause flagpoles — DN can't tell cause from effect |
+| Hexed salt example | Lecture 4 — Explanations and Causes | DN accepts irrelevant information as part of an explanation |
+| Idealisation | Lecture 7 — Analogies and Models | Deliberate distortion of reality to make phenomena tractable |
+| Incommensurability (3 types) | Lecture 6 — Paradigms and Revolutions | Paradigms lack a common measure — semantic, observational, methodological |
+| Inductive-Statistical (IS) model (Hempel) | Lecture 4 — Explanations and Causes | Explanation for probabilistic phenomena — high-probability inference |
+| Instrumentalist stance | Lecture 7 — Analogies and Models | Models are tools — adequate or inadequate, not true or false |
+| Model | Lecture 7 — Analogies and Models | Simplified representation of a domain of phenomena |
+| Negative analogy (Hesse) | Lecture 7 — Analogies and Models | Relations that hold in source but not target — where the analogy breaks |
+| Neutral analogy (Hesse) | Lecture 7 — Analogies and Models | Unknown relations in target — the engine of new predictions |
+| Paradigm | Lecture 6 — Paradigms and Revolutions | Shared framework governing normal science — assumptions, exemplars, style |
+| Paresis example | Lecture 4 — Explanations and Causes | IS rejects good explanations with low probability |
+| Positive analogy (Hesse) | Lecture 7 — Analogies and Models | Relations confirmed in both source and target |
+| Theory-ladenness of observation | Lecture 6 — Paradigms and Revolutions | All observation is concept-laden; we can't "just look" |
+| Two cultures (Goertz & Mahoney) | Lecture 8 — Quantitative and Qualitative | Quant and qual operate on distinct logics — not a hierarchy |
+| Verstehen (Dilthey) | Lecture 10 — Interpretation and Understanding | Understanding from within — grasping meaning, not deriving laws |
 
 ---
 
@@ -208,6 +243,399 @@ The practical tip for your PoS exam: when you're asked to classify a method, ask
 - [[Lecture 3 - Scientific Laws and Induction#Key concepts — definitions|Lecture 3 - Scientific Laws and Induction.md:L28]] — *"==**Duverger's law**== %%what is a plurality-rule es?%%"*
 
 **Sources:** Duverger, M. (1954) *Political Parties*; Lecture 3 summary.
+
+---
+
+## Lecture 4 — Explanations and Causes
+
+| Term | One-liner |
+|---|---|
+| Explanandum + Explanans | What's to be explained vs what does the explaining |
+| Deductive-Nomological (DN) model + Inductive-Statistical (IS) model | Hempel's two models: DN deduces, IS infers with high probability |
+| Causal-mechanical model (Salmon) | Track causal processes and interactions — not just laws |
+| Three killer counterexamples + Explanation vs prediction | Flagpole, hexed salt, paresis each break Hempel's models |
+
+---
+
+### Explanandum + Explanans
+
+**Definition:** The two components of every scientific explanation (Hempel):
+- **Explanandum:** the phenomenon to be explained — the thing we want to understand.
+- **Explanans:** the sentences doing the explaining — laws and initial conditions.
+
+**Explained easily:** Think of a trial. The explanandum is the crime (what happened?). The explanans is the evidence + laws invoked to explain it (why did it happen?). In science: "Why did this iron sample rust?" (explanandum). "Iron reacts with oxygen and water when exposed to them; this sample was exposed." (explanans — law + initial condition.)
+
+**Connected to:** → [[#Deductive-Nomological (DN) model + Inductive-Statistical (IS) model|DN + IS models]] — in both models, the explanans logically entails the explanandum.
+
+**Seen in:**
+- [[Lecture 4 - Explanations and Causes#Key concepts — definitions|Lecture 4 - Explanations and Causes.md]] — *"==**Explanandum**==" and "==**Explanans**=="*
+
+**Sources:** Hempel, C.G. (1965) *Aspects of Scientific Explanation*; Lecture 4 summary.
+
+---
+
+### Deductive-Nomological (DN) model + Inductive-Statistical (IS) model
+
+**DN model (Hempel):** An explanation is a valid deductive argument: one or more general laws (L₁, L₂…) + initial conditions (C₁, C₂…) logically entail the explanandum (E). Since E follows necessarily, you've explained it. Key feature: **symmetry of explanation and prediction** — the same argument form works in both directions.
+
+**IS model (Hempel):** For probabilistic phenomena — the explanandum follows not with certainty but with high probability under statistical laws. "90% of people exposed to strep throat develop the disease. Maria was exposed. Therefore Maria probably developed it." Asymmetric with prediction: IS explains backward better than it predicts forward.
+
+**Explained easily:** DN: "All metals conduct electricity. This rod is metal. Therefore this rod conducts electricity." Deduction — certain. IS: "90% of flu-exposed people develop flu. Ali was exposed. So Ali probably got flu." Inference under uncertainty — probable, not certain. Both ask: "was this outcome to be expected?"
+
+**Connected to:** → [[#Explanandum + Explanans|Explanandum + Explanans]] — the explanans contains the laws and initial conditions in both models; → [[#Causal-mechanical model (Salmon)|Causal-mechanical model (Salmon)]] — Salmon's alternative focusing on mechanisms rather than laws; → [[#Three killer counterexamples + Explanation vs prediction|Three killer counterexamples]] — three cases that break both models.
+
+**Seen in:**
+- [[Lecture 4 - Explanations and Causes#Key concepts — definitions|Lecture 4 - Explanations and Causes.md]] — *"==**Deductive-Nomological (DN) model**==" and "==**Inductive-Statistical (IS) model**=="*
+
+**Sources:** Hempel, C.G. (1965) *Aspects of Scientific Explanation*; Lecture 4 summary.
+
+---
+
+### Causal-mechanical model (Salmon)
+
+**Definition:** Wesley Salmon's alternative to Hempel. An explanation works by identifying the **causal mechanism** — the actual physical process connecting cause to effect. Explanation requires: (1) **causal processes** (spatiotemporally continuous sequences from cause to effect) and (2) **causal interactions** (points where two processes meet and mark each other). The question shifts from "what law does this fall under?" to "what process produced it?"
+
+**Why it differs:** Hempel's models are about *logical structure* — does the conclusion follow from the premises? Salmon's model is about *causal reality* — what actually happened? You can satisfy Hempel's conditions without identifying any real cause (the counterexamples show this).
+
+**Explained easily:** To explain why the match lit: friction → heat → ignition temperature → combustion. Each step is a real spatiotemporal process; each is causally connected to the next. Salmon doesn't care whether you can subsume this under a law — he cares whether you've traced the actual mechanism.
+
+**Connected to:** → [[#Three killer counterexamples + Explanation vs prediction|Three killer counterexamples]] — the flagpole/shadow problem, which breaks DN, is solved by Salmon's model because causal direction is built in; → [[#Deductive-Nomological (DN) model + Inductive-Statistical (IS) model|DN + IS models]] — the model Salmon is critiquing.
+
+**Seen in:**
+- [[Lecture 4 - Explanations and Causes#Key concepts — definitions|Lecture 4 - Explanations and Causes.md]] — *"==**Causal-mechanical model** (Salmon)=="*
+
+**Sources:** Salmon, W.C. (1984) *Scientific Explanation and the Causal Structure of the World*; Lecture 4 summary.
+
+---
+
+### Three killer counterexamples + Explanation vs prediction
+
+**Three counterexamples that break Hempel's models:**
+
+1. **Flagpole/shadow (asymmetry):** Given the shadow's length + sun's angle, you can logically derive the flagpole's height — valid DN argument. But the shadow doesn't cause the flagpole. DN can't tell cause from effect because it only cares about logical form, not causal direction.
+
+2. **Hexed salt (irrelevance):** "All salt dissolves in water. This salt was hexed by a witch. Salt hexed by a witch dissolves in water. Therefore this salt dissolved." The hex is causally irrelevant — but the DN model accepts it because the logical structure is valid. It cannot filter out irrelevant information.
+
+3. **Paresis (IS problem):** Only ~25% of untreated syphilitics develop paresis. So "Mary has untreated syphilis" gives only ~25% probability of paresis — too low for the IS model's high-probability requirement. Yet prior syphilis IS the explanation and the cause. The IS model rejects good explanations with low probability.
+
+**Explanation vs prediction:** Hempel argued explanation and prediction are structurally identical (symmetry thesis). Critique: prediction requires true premises *before* the event; explanation works with true premises *after* it. We often explain what we couldn't predict (irreversible, complex, or unique events).
+
+**Explained easily:** The flagpole case is the killer: shadow + sun angle → flagpole height. Valid logic. But no one says "the shadow caused the flagpole's height." The model accepts backward causation because it only looks at logical form.
+
+**Connected to:** → [[#Causal-mechanical model (Salmon)|Causal-mechanical model (Salmon)]] — these counterexamples motivate Salmon's focus on causal direction; → [[#Deductive-Nomological (DN) model + Inductive-Statistical (IS) model|DN + IS models]] — the models under attack.
+
+**Seen in:**
+- [[Lecture 4 - Explanations and Causes#Salmon's critique|Lecture 4 - Explanations and Causes.md]] — *"==**Flagpole/shadow problem**==", "==**Hexed salt** example==", "==**Paresis** example=="*
+
+**Sources:** Salmon, W.C. (1984); Hempel, C.G. (1965); Lecture 4 summary.
+
+---
+
+## Lecture 5 — Falsificationism
+
+| Term | One-liner |
+|---|---|
+| Asymmetry of confirmation and refutation + Demarcation problem | Confirming never proves; one refutation always does — demarcation by falsifiability |
+| Context of discovery + Context of justification | How you got the idea vs how you test it — only the second is science |
+| Corroboration + Ad hoc modification | Surviving severe tests vs moving goalposts to evade them |
+
+---
+
+### Asymmetry of confirmation and refutation + Demarcation problem
+
+**Asymmetry (Popper):** Confirming evidence can NEVER prove a theory true (induction can't give certainty — Hume). One refuting observation CAN prove a theory false via modus tollens:
+- Theory T predicts P. P occurs → T is… maybe right? (Induction — no certainty.)
+- Theory T predicts P. P does NOT occur → T is definitely false. (Deduction — modus tollens.)
+
+**Demarcation problem:** What separates science from non-science? Popper's answer: **falsifiability** — a theory is scientific iff it makes predictions that could *in principle* be shown false. Marxism, Freudian psychoanalysis, astrology: proponents can interpret any outcome as confirmation. That is the mark of non-science, not of truth.
+
+**Why they're linked:** The asymmetry explains *why* falsifiability is the right demarcation criterion: only refutation gives genuine epistemic purchase. Theories that can't be refuted aren't engaging with reality.
+
+**Explained easily:** "All swans are white" — one black swan falsifies it; no number of white swans proves it. That's the asymmetry. "Mercury is in retrograde, so watch your relationships" — made to fit any outcome; unfalsifiable; not scientific by Popper's standard.
+
+**Connected to:** → [[#Corroboration + Ad hoc modification|Corroboration]] — if theories can never be proven true, the best status is corroboration (surviving tests); → [[#Context of discovery + Context of justification|Context of justification]] — the asymmetry operates in the context of justification.
+
+**Seen in:**
+- [[Lecture 5 - Falsificationism#Key concepts — definitions|Lecture 5 - Falsificationism.md]] — *"==**Asymmetry of confirmation and refutation**==" and "==**Demarcation problem**=="*
+
+**Sources:** Popper, K.R. (1934/1959) *The Logic of Scientific Discovery*; Lecture 5 summary.
+
+---
+
+### Context of discovery + Context of justification
+
+**Context of discovery:** The psychological and social process by which scientists *come up with* hypotheses. Anything goes — analogy, serendipity, dreams. Popper: philosophy of science has nothing to say here; it's psychology and sociology, not logic.
+
+**Context of justification:** The logical/methodological process of *testing* a hypothesis once proposed. This is where scientific method lives. Popper's analysis is exclusively of this context.
+
+**Why the distinction matters:** How you got an idea is irrelevant to its scientific validity. A hypothesis from a dream is as valid as one from theory — if it survives testing. This separates the *origins* of science (messy, human, psychological) from its *validation* (logical, public, reproducible).
+
+**Explained easily:** Kekulé dreamed of a snake biting its tail and proposed the ring structure of benzene. Context of discovery (dream) — irrelevant to whether benzene is a ring. Context of justification (did experiments confirm the ring structure?) — entirely relevant. The dream is a fascinating story; it's not part of the science.
+
+**Connected to:** → [[#Asymmetry of confirmation and refutation + Demarcation problem|Asymmetry]] — the asymmetry of confirmation/refutation operates exclusively in the context of justification; → [[#Corroboration + Ad hoc modification|Corroboration]] — surviving tests in the context of justification = corroboration.
+
+**Seen in:**
+- [[Lecture 5 - Falsificationism#Key concepts — definitions|Lecture 5 - Falsificationism.md]] — *"==**Context of discovery**==" and "==**Context of justification**=="*
+
+**Sources:** Popper, K.R. (1934/1959) *The Logic of Scientific Discovery*; Lecture 5 summary.
+
+---
+
+### Corroboration + Ad hoc modification
+
+**Corroboration (Popper):** Since theories can never be *proven* true, the best status available is *highly corroborated* — having survived many severe tests. A test is *severe* if the theory's prediction was risky (specific, unexpected, easily falsifiable). Corroboration is not probability of truth; it is a historical record of test-survival.
+
+**Ad hoc modification:** A revision made to a theory *solely* to protect it from refutation, without independently testable new implications. When a prediction fails, explaining it away by blaming auxiliary assumptions (with no new testable prediction) = ad hoc. Popper: ad hoc modifications reduce falsifiability and are the mark of degenerating science.
+
+**Why they're linked:** Both are responses to potential falsification. Corroboration rewards theories that face and survive genuine risk. The prohibition on ad hoc modifications prevents theories from immunising themselves against tests.
+
+**Explained easily:** A bold prediction (solar eclipse at exactly 3:17pm on 14 July 1919 visible from Portugal) that passes = high corroboration. A failed prediction explained by "the instruments were miscalibrated" (with no independent test of this claim) = ad hoc. Taking the hit vs moving the goalposts.
+
+**Connected to:** → [[#Asymmetry of confirmation and refutation + Demarcation problem|Demarcation]] — ad hoc modifications reduce falsifiability, pushing theories toward the non-science side; → [[#Context of discovery + Context of justification|Context of justification]] — corroboration is assessed in the context of justification.
+
+**Seen in:**
+- [[Lecture 5 - Falsificationism#Key concepts — definitions|Lecture 5 - Falsificationism.md]] — *"==**Corroboration**==" and "==**Ad hoc modification**=="*
+
+**Sources:** Popper, K.R. (1934/1959) *The Logic of Scientific Discovery*; Lecture 5 summary.
+
+---
+
+## Lecture 6 — Paradigms and Revolutions
+
+| Term | One-liner |
+|---|---|
+| Theory-ladenness of observation + Paradigm | All observation is concept-laden; paradigms shape what you can even see |
+| Anomaly + Scientific revolution | Anomalies accumulate → crisis → paradigm shift |
+| Incommensurability (3 types) | Competing paradigms lack a common measure — semantic, observational, methodological |
+
+---
+
+### Theory-ladenness of observation + Paradigm
+
+**Theory-ladenness of observation (Hanson/Kuhn):** There is no "pure" observation, uncontaminated by theory. What you see depends on the conceptual framework you bring: your training, background assumptions, what you expect to see, the categories you use. Two scientists with competing paradigms can look at the same phenomenon and perceive *different* things.
+
+**Paradigm (Kuhn):** Not a single theory but a whole **framework** governing normal science: shared exemplary solved problems, background assumptions about the structure of the world, accepted methods and standards, style of reasoning. Paradigms define what counts as a good question, a good answer, and a significant result.
+
+**Why they're linked:** Theory-ladenness is what makes paradigms stable and hard to dislodge. Observations made within a paradigm naturally tend to confirm it — anomalies can be absorbed because what counts as an "anomaly" is itself theory-laden.
+
+**Explained easily:** Lavoisier and a phlogiston chemist watching the same burning-magnesium experiment. One sees "magnesium releasing phlogiston" (mass should decrease). The other sees "magnesium absorbing oxygen" (mass should increase). Same flame, different percepts. The paradigm doesn't just shape theory; it shapes observation.
+
+**Connected to:** → [[#Anomaly + Scientific revolution|Anomaly + Scientific revolution]] — theory-ladenness lets paradigms absorb anomalies for a long time; → [[#Incommensurability (3 types)|Incommensurability]] — observational incommensurability flows directly from theory-ladenness.
+
+**Seen in:**
+- [[Lecture 6 - Paradigms and Revolutions#Key concepts — definitions|Lecture 6 - Paradigms and Revolutions.md]] — *"==**Theory-ladenness of observation**==" and "==**Paradigm**=="*
+
+**Sources:** Kuhn, T.S. (1962) *The Structure of Scientific Revolutions*; Hanson, N.R. (1958) *Patterns of Discovery*; Lecture 6 summary.
+
+---
+
+### Anomaly + Scientific revolution
+
+**Anomaly:** Evidence that resists explanation within the current paradigm. Normal science produces anomalies routinely — scientists initially dismiss them (blame instruments, auxiliary assumptions, experimenter error). An anomaly becomes serious when it accumulates with others and resists all accommodation. Prolonged accumulation → **crisis**.
+
+**Scientific revolution:** When crisis deepens, a new paradigm may be proposed. A period of **extraordinary science** replaces normal science: scientists debate foundations, multiple incompatible frameworks compete. If the new paradigm (a) solves the outstanding anomalies, (b) recovers the successes of the old paradigm, and (c) gains adherents from the community, a revolution occurs and new normal science begins.
+
+**The full Kuhnian cycle:** pre-science → paradigm formation → normal science → anomalies → crisis → revolution → new normal science.
+
+**Explained easily:** Mercury's perihelion precession was off from Newtonian predictions by ~43 arc-seconds per century. Astronomers spent decades on patches: a hidden planet ("Vulcan"), measurement errors. Crisis deepened. Einstein's general relativity (1915) *predicted* exactly 43 arc-seconds — no patch needed. Revolution.
+
+**Connected to:** → [[#Theory-ladenness of observation + Paradigm|Theory-ladenness + Paradigm]] — paradigms absorb anomalies; too many trigger crisis; → [[#Incommensurability (3 types)|Incommensurability]] — after a revolution, old and new paradigm are incommensurable.
+
+**Seen in:**
+- [[Lecture 6 - Paradigms and Revolutions#Key concepts — definitions|Lecture 6 - Paradigms and Revolutions.md]] — *"==**Anomaly**==" and "==**Scientific revolution**=="*
+
+**Sources:** Kuhn, T.S. (1962) *The Structure of Scientific Revolutions*; Lecture 6 summary.
+
+---
+
+### Incommensurability (3 types)
+
+**Definition:** Two paradigms are *incommensurable* if they lack a common measure — they cannot be compared or ranked on neutral, shared grounds. Kuhn's most controversial claim, suggesting paradigm choice involves factors beyond pure logic.
+
+**Three types (Kuhn):**
+
+1. **Semantic incommensurability:** Key terms change meaning across paradigms. "Mass" in Newtonian mechanics ≠ "mass" in relativistic physics. Scientists talking across the paradigm boundary are not just disagreeing about facts — they're using different concepts.
+
+2. **Observational incommensurability:** Theory-ladenness means different paradigms generate different percepts. Observation cannot serve as a neutral arbiter between competing paradigms because observation is already paradigm-coloured.
+
+3. **Methodological incommensurability:** Different paradigms have different standards for what counts as a good explanation, a significant anomaly, or a successful prediction. No agreed-upon methodology stands above both paradigms to judge between them.
+
+**Why it's controversial:** Seems to imply paradigm choice is irrational. Kuhn's clarification: choice is not irrational, but involves values (simplicity, scope, fruitfulness, precision) that scientists may legitimately weight differently. The outcome is rational but not algorithmically determined.
+
+**Explained easily:** Try to convince a pre-Copernican astronomer using his own standards. He says "I can see the sun move across the sky." You say "that's the Earth rotating." He says "then we'd feel a great wind" (the standard physics of the time). Every objection is answered by your paradigm, but every answer requires assumptions he doesn't share.
+
+**Connected to:** → [[#Anomaly + Scientific revolution|Anomaly + Scientific revolution]] — incommensurability makes revolutions complete breaks, not mere updates; → [[#Theory-ladenness of observation + Paradigm|Theory-ladenness]] — observational incommensurability flows from theory-ladenness.
+
+**Seen in:**
+- [[Lecture 6 - Paradigms and Revolutions#Key concepts — definitions|Lecture 6 - Paradigms and Revolutions.md]] — *"==**Incommensurability** (three types)=="*
+
+**Sources:** Kuhn, T.S. (1962/1970) *The Structure of Scientific Revolutions* (2nd ed.); Lecture 6 summary.
+
+---
+
+## Lecture 7 — Analogies and Models
+
+| Term | One-liner |
+|---|---|
+| Analogy — source · target · mapping · relations | Four-part structure of a scientific analogy |
+| Positive analogy + Negative analogy + Neutral analogy | Hesse's three classes — confirmed, broken, and unknown relations |
+| Model + Idealisation + Instrumentalist stance | Simplified representations judged as adequate tools, not true pictures |
+
+---
+
+### Analogy — source · target · mapping · relations
+
+**Definition (four components):**
+1. **Source domain:** the familiar domain that supplies the terms — what we're reasoning *from*.
+2. **Target domain:** the less-familiar domain we're reasoning *about*.
+3. **Mapping:** a one-to-one correspondence between terms in source and target. *By itself just a translation* — no cognitive content yet.
+4. **Relations:** causal or structural claims that hold in *both* source and target under the mapping. What gives the analogy substantive content.
+
+**Critical point:** A mapping alone says "X in domain A corresponds to Y in domain B" — nothing more. Relations add the content: "X causes Z in domain A, and Y causes the corresponding Z' in domain B." Without relations, an analogy has no cognitive purchase.
+
+**Explained easily:** Water waves ↔ light waves. Mapping: transverse displacement → field intensity; distance → distance; velocity → velocity. Relations: the wave equation ∂²y/∂x² = (∂²y/∂t²)/v² holds in both. The mapping is a dictionary; the relations are the science.
+
+**Connected to:** → [[#Positive analogy + Negative analogy + Neutral analogy|Hesse's three classes]] — relations in the analogy are categorised as positive, negative, or neutral; → [[#Model + Idealisation + Instrumentalist stance|Models]] — many models are based on analogies.
+
+**Seen in:**
+- [[Lecture 7 - Analogies and Models#What is an analogy?|Lecture 7 - Analogies and Models.md:L37]] — *"==Analogy = systematic similarity between two domains. Four conceptual components:=="*
+
+**Sources:** Hesse, M.B. (1966) *Models and Analogies in Science*; Lecture 7 summary.
+
+---
+
+### Positive analogy + Negative analogy + Neutral analogy
+
+**Positive analogy (Hesse):** Relations *already known* to hold in both source and target. The confirmed overlap — the anchor of the analogy.
+
+**Negative analogy (Hesse):** Relations known to hold in one domain but NOT the other — where the analogy breaks. Also valuable: tells you the limits of the model.
+
+**Neutral analogy (Hesse):** Relations known in the source but *not yet known* whether they hold in the target. **The engine of scientific discovery.** Every neutral analogy generates a research question: "does this feature of the source also hold in the target?"
+
+**Why the neutral analogy matters most:** Without neutral analogy, the comparison is decorative — you're not learning anything new. The productive power of analogical reasoning comes entirely from investigating the neutral analogy.
+
+**Classic example:** Water waves travel through a material medium (water). Do light waves travel through a medium too? This was a major 19th-century research programme — the search for the *luminiferous ether*. Michelson-Morley (1887) showed no ether exists. The neutral analogy resolved to **negative**. But the entire research programme was generated by asking "does this feature of water waves also apply to light waves?"
+
+**Explained easily:** Venn diagram of two domains. Overlap = positive analogy. Source-only confirmed features = negative analogy. The fuzzy ring labelled "don't know yet" = neutral analogy. That's where new science happens.
+
+**Connected to:** → [[#Analogy — source · target · mapping · relations|Analogy — four components]] — these three classes categorise the *relations* in the analogy; → [[#Model + Idealisation + Instrumentalist stance|Models]] — a model's neutral analogy is the source of its predictive power (Hesse's line).
+
+**Seen in:**
+- [[Lecture 7 - Analogies and Models#Key concepts — definitions|Lecture 7 - Analogies and Models.md:L24–26]] — *"==**Positive analogy** (Hesse)==", "==**Negative analogy** (Hesse)==", "==**Neutral analogy** (Hesse)=="*
+
+**Sources:** Hesse, M.B. (1966) *Models and Analogies in Science*; Lecture 7 summary.
+
+---
+
+### Model + Idealisation + Instrumentalist stance
+
+**Model:** A simplified representation of a domain of phenomena that allows a theory to be applied to complex reality. Many models are based on analogies. A model is not a picture of the world — it's a tool.
+
+**Idealisation:** The deliberate simplification or distortion of reality to make phenomena tractable. Examples: frictionless planes, perfectly rational agents, point masses, spherical cows. Scientists know these are false — that's the point. The distortions remove detail that doesn't matter for the question being asked.
+
+**Instrumentalist stance:** The standard scientific attitude toward models: evaluate as *adequate or inadequate* for a purpose, not as *true or false*. A 1:1-scale map of London is useless. Models are graded by fit-for-purpose.
+
+**Classic examples:**
+- **Bohr atom (1913):** electrons orbiting a nucleus like planets around the sun. False (electrons have no definite trajectories in QM). Enormously useful for predicting atomic spectra for 50 years. Instrumentalism in action: false but adequate.
+- **MONIAC (Bill Phillips, LSE, 1949):** hydraulic machine where water flows represent money flows through sectors of the UK economy. Tanks = sectors; pipes = financial relationships; water = money. A physical analogy. Not "true" (money is not water) but gave correct answers to Keynesian policy questions and worked as a teaching/demonstration tool.
+
+**Explained easily:** "Is this model true?" is the wrong question. "Is it adequate for this purpose?" is the right one. The Bohr model: false (electrons aren't in circular orbits); adequate for predicting spectral lines. The MONIAC: false (an economy isn't a plumbing system); adequate for teaching Keynesian dynamics.
+
+**Connected to:** → [[#Positive analogy + Negative analogy + Neutral analogy|Neutral analogy]] — it is in the neutral analogy that the predictive power of a model lies (Hesse); → [[#Theory-ladenness of observation + Paradigm|Paradigm]] — the choice of model shapes which questions you can ask, echoing Kuhn's point about paradigms.
+
+**Seen in:**
+- [[Lecture 7 - Analogies and Models#Key concepts — definitions|Lecture 7 - Analogies and Models.md:L27–29]] — *"==**Model**==", "==**Idealisation**==", "==**Instrumentalist stance**=="*
+- [[Lecture 7 - Analogies and Models#Two model examples|Lecture 7 - Analogies and Models.md:L71–73]] — *"==**Bohr model of the atom**=="; "==**MONIAC**=="*
+
+**Sources:** Hesse, M.B. (1966) *Models and Analogies in Science*; Lecture 7 summary.
+
+---
+
+## Lecture 8 — Quantitative and Qualitative Approaches
+
+| Term | One-liner |
+|---|---|
+| Two cultures (Goertz & Mahoney) | Quant and qual operate on distinct logics — not a hierarchy |
+
+---
+
+### Two cultures (Goertz & Mahoney)
+
+**Definition:** Gary Goertz and James Mahoney (*A Tale of Two Cultures*, 2012) argue that quantitative and qualitative social science are not just different methods — they embody fundamentally different and equally valid **logics of inquiry**. Treating one as rigorous and the other as soft is a category error.
+
+**The two cultures:**
+
+| Dimension | Quantitative | Qualitative |
+|---|---|---|
+| Unit of analysis | Variable across a population | Each case as a whole |
+| Causation | Probabilistic correlation | Necessary/sufficient conditions; mechanisms |
+| Generalisation | Statistical inference to population | Set-theoretic; scope-bounded |
+| Case selection | Random/representative sample | Purposive: extreme, most-similar/different |
+| Membership | Continuous variables | Sets (crisp or fuzzy) |
+| Logic | Correlation | Implication / causal process |
+
+**Implication:** The logic must match the question. Quant for population-level patterns; qual for mechanisms, necessary conditions, and why this particular case.
+
+**Explained easily:** A historian asking "why did the French Revolution happen?" is not doing bad statistics — they're asking a different question ("what made *this* case happen?") using a different logic (mechanism-tracing, identifying necessary conditions). Demanding an n-value from a case study is asking the wrong question.
+
+**Connected to:** → [[#Verstehen (Dilthey)|Verstehen]] — the qualitative/interpretive culture enacts Dilthey's distinction between Erklärung (explanation) and Verstehen (understanding); → [[#idiographic approach|idiographic approach]] — the qualitative culture aligns with idiographic goals (understanding the particular).
+
+**Seen in:**
+- [[Lecture 8 - Quantitative and Qualitative Approaches#Key concepts — definitions|Lecture 8 - Quantitative and Qualitative Approaches.md]] — *"==**Two cultures** (Goertz & Mahoney)=="*
+
+**Sources:** Goertz, G. & Mahoney, J. (2012) *A Tale of Two Cultures: Qualitative and Quantitative Research in the Social Sciences*; Lecture 8 summary.
+
+---
+
+## Lecture 9 — Rationality
+
+| Term | One-liner |
+|---|---|
+| Bounded rationality (Simon) | Real decision-makers satisfice rather than optimise |
+
+---
+
+### Bounded rationality (Simon)
+
+**Definition:** Herbert Simon (1955) showed that classical rational choice theory's assumption of perfect rationality is empirically false. Real decision-makers face **bounds**: (1) cognitive limits (can't process all information or compute all options), (2) incomplete information (don't know all alternatives or their consequences), (3) time constraints (must decide before perfect information arrives). Result: agents **satisfice** — accept the first option that clears a minimum threshold ("good enough") rather than maximising utility.
+
+**Contrast with perfect rationality:** Rational choice assumes: complete and consistent preferences, full information about all alternatives and consequences, computational ability to choose the utility-maximising option. Simon: this describes no human being and no real organisation.
+
+**Explained easily:** You're hungry in a new city and looking for dinner. Rational-choice model: evaluate every restaurant, rank all menu items, maximise utility. Simon's model: walk until you find somewhere that looks acceptable, go in. That's satisficing. Almost every human decision under uncertainty works like this.
+
+**Connected to:** → [[#Two cultures (Goertz & Mahoney)|Two cultures]] — bounded rationality undermines formal quant models that assume perfect rationality; → [[#Verstehen (Dilthey)|Verstehen]] — understanding human decisions requires grasping agents' actual bounded reasoning, not an external optimisation model.
+
+**Seen in:**
+- [[Lecture 9 - Rationality#Key concepts — definitions|Lecture 9 - Rationality.md]] — *"==**Bounded rationality** (Simon)=="*
+
+**Sources:** Simon, H.A. (1955) "A Behavioral Model of Rational Choice," *Quarterly Journal of Economics* 69(1): 99–118; Lecture 9 summary.
+
+---
+
+## Lecture 10 — Interpretation and Understanding
+
+| Term | One-liner |
+|---|---|
+| Verstehen (Dilthey) | Understanding from within — grasping meaning, not deriving laws |
+
+---
+
+### Verstehen (Dilthey)
+
+**Definition:** *Verstehen* (German: "understanding") is Wilhelm Dilthey's term for the characteristic method of the human sciences (*Geisteswissenschaften*). Contrasts with *Erklärung* (causal explanation — the method of natural science). *Verstehen* means grasping the meaning of human action from within — understanding why agents did what they did in terms of their own intentions, motivations, beliefs, and cultural context, rather than subsuming behaviour under causal laws.
+
+**The hermeneutic circle:** To understand a whole (a text, a cultural practice, a historical event), you need to understand its parts; but to understand the parts, you need the whole. This is not a vicious circle but an iterative deepening: start with a pre-understanding, interrogate the parts, revise the whole interpretation, return to the parts. Gadamer later called the productive version of this the "fusion of horizons."
+
+**Why it matters for PoS:** Positivists (Hempel et al.) wanted a unified science — laws, predictions, DN structures — applicable to human behaviour. Dilthey argues this misses the distinctive *ontology* of human action: it is intentional, meaningful, and only intelligible from the agent's perspective. Explaining human behaviour as you would explain the fall of an apple is to miss what makes it human.
+
+**Explained easily:** Why did Caesar cross the Rubicon? A causal explanation: his muscles moved, his feet stepped, the laws of physics applied. Useless. *Verstehen*: he was weighing political survival against Roman law against armed entry into Italy; he judged a civil war preferable to prosecution; he knew the symbolic meaning of crossing the river. That's *understanding* — entering the agent's frame, not deriving from laws.
+
+**Connected to:** → [[#idiographic approach|idiographic approach]] — Verstehen is the method appropriate to idiographic inquiry into meaningful human action; → [[#Two cultures (Goertz & Mahoney)|Two cultures]] — the qualitative culture operationalises Verstehen in practice; → [[#Deductive-Nomological (DN) model + Inductive-Statistical (IS) model|DN model]] — Dilthey explicitly rejects the DN model as the appropriate framework for the human sciences.
+
+**Seen in:**
+- [[Lecture 10 - Interpretation and Understanding#Key concepts — definitions|Lecture 10 - Interpretation and Understanding.md]] — *"==**Verstehen** (Dilthey)=="*
+
+**Sources:** Dilthey, W. (1883) *Einleitung in die Geisteswissenschaften* (*Introduction to the Human Sciences*); Lecture 10 summary.
 
 ---
 
@@ -429,74 +857,6 @@ The practical tip for your PoS exam: when you're asked to classify a method, ask
 ### Lecture 11 — Absolutism and Relativism (Winch / Lukes; Azande)
 
 **The Azande case:** Evans-Pritchard's ethnography of Zande witchcraft beliefs. Are they irrational? Winch says no — they have their *own* rationality, internally coherent.
-
-==**Winch's argument:** standards of rationality are *internal* to a form of life.== Calling Zande beliefs irrational imposes an alien standard.
-
-**Lukes's critique:** some standards (e.g. logical consistency) must be *universal* or no cross-cultural understanding is possible. Strong relativism is self-undermining.
-
-**Bridgehead argument:** translation requires SOME shared rationality — otherwise we couldn't recognise other beliefs as beliefs at all.
-
-**Implications:** the rationality debate is about the limits of cross-cultural understanding. Not just anthropology — also IR (e.g. understanding non-Western states on their own terms).
-
-**Key thinkers:** Peter Winch (*The Idea of a Social Science*, 1958); Steven Lukes (*Some Problems about Rationality*, 1967).
-
-**Line to remember:**
-> *"Reality is not what gives language sense. What is real and what is unreal shows itself in the sense that language has."* — Winch
-
----
-
-Zande witchcraft beliefs. Are they irrational? Winch says no — they have their *own* rationality, internally coherent.
-
-==**Winch's argument:** standards of rationality are *internal* to a form of life.== Calling Zande beliefs irrational imposes an alien standard.
-
-**Lukes's critique:** some standards (e.g. logical consistency) must be *universal* or no cross-cultural understanding is possible. Strong relativism is self-undermining.
-
-**Bridgehead argument:** translation requires SOME shared rationality — otherwise we couldn't recognise other beliefs as beliefs at all.
-
-**Implications:** the rationality debate is about the limits of cross-cultural understanding. Not just anthropology — also IR (e.g. understanding non-Western states on their own terms).
-
-**Key thinkers:** Peter Winch (*The Idea of a Social Science*, 1958); Steven Lukes (*Some Problems about Rationality*, 1967).
-
-**Line to remember:**
-> *"Reality is not what gives language sense. What is real and what is unreal shows itself in the sense that language has."* — Winch
-
----
-
-Zande witchcraft beliefs. Are they irrational? Winch says no — they have their *own* rationality, internally coherent.
-
-==**Winch's argument:** standards of rationality are *internal* to a form of life.== Calling Zande beliefs irrational imposes an alien standard.
-
-**Lukes's critique:** some standards (e.g. logical consistency) must be *universal* or no cross-cultural understanding is possible. Strong relativism is self-undermining.
-
-**Bridgehead argument:** translation requires SOME shared rationality — otherwise we couldn't recognise other beliefs as beliefs at all.
-
-**Implications:** the rationality debate is about the limits of cross-cultural understanding. Not just anthropology — also IR (e.g. understanding non-Western states on their own terms).
-
-**Key thinkers:** Peter Winch (*The Idea of a Social Science*, 1958); Steven Lukes (*Some Problems about Rationality*, 1967).
-
-**Line to remember:**
-> *"Reality is not what gives language sense. What is real and what is unreal shows itself in the sense that language has."* — Winch
-
----
-
-Zande witchcraft beliefs. Are they irrational? Winch says no — they have their *own* rationality, internally coherent.
-
-==**Winch's argument:** standards of rationality are *internal* to a form of life.== Calling Zande beliefs irrational imposes an alien standard.
-
-**Lukes's critique:** some standards (e.g. logical consistency) must be *universal* or no cross-cultural understanding is possible. Strong relativism is self-undermining.
-
-**Bridgehead argument:** translation requires SOME shared rationality — otherwise we couldn't recognise other beliefs as beliefs at all.
-
-**Implications:** the rationality debate is about the limits of cross-cultural understanding. Not just anthropology — also IR (e.g. understanding non-Western states on their own terms).
-
-**Key thinkers:** Peter Winch (*The Idea of a Social Science*, 1958); Steven Lukes (*Some Problems about Rationality*, 1967).
-
-**Line to remember:**
-> *"Reality is not what gives language sense. What is real and what is unreal shows itself in the sense that language has."* — Winch
-
----
-
-Zande witchcraft beliefs. Are they irrational? Winch says no — they have their *own* rationality, internally coherent.
 
 ==**Winch's argument:** standards of rationality are *internal* to a form of life.== Calling Zande beliefs irrational imposes an alien standard.
 

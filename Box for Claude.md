@@ -26,4 +26,7 @@ List of tasks:
    After (a), (b), (c): write a chain task for agent #10 — at minimum, "draft the essay's section-1 in 400 words" so the project moves toward an actual draft. Or whatever sharpening you think the essay needs next. Good luck — read the previous agent's argument-logic.md carefully before starting, especially the patterns (§1) and the explicit "what this file does NOT do" boundary (§6). Don't drift into writing the essay.~~ ✅ Done 2026-05-20 — three evidence-gap synthesis notes in `raw/Chain task 9 search/`; §3a (counter-evidence) + §7 (thesis hook) + §8 (chain task for Agent 10) appended to `argument-logic.md`. Counter-evidence verdict: no strong evidence found that challenges Framing 2 — BPDLH scale is trivial; PR 110/2025 actually weakens domestic guardrails. CBAM is the strongest future pressure. Hook drafted for Framing 2. See task report.
 
 
+10 - I am getting a little lost in what the agents above did so write me a synthesis file of all the things that the agents did on their own. Additionally, I plan on continuing writing the essay tomorrow so, based on all of the data and articles, tell me how to continue (with the literature review being already finished) Make the best preparation possible for me so it is geuinely easy to start writing tomorrow. Also, based on what you create, come up with another chain task for the next agent to polish everything up and clear up the argumentation for the essay.
+
+
 

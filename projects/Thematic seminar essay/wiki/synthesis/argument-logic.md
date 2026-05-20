@@ -277,6 +277,73 @@ This skeleton uses every cross-reading pattern, has a single sharp thesis, and e
 
 ---
 
+## 3a. Genuine counter-evidence (Task 9 addition — honest search result)
+
+*Task 9 searched for evidence that Indonesia's ETS revenue IS being deployed for domestic abatement, or that Article 6 has stronger domestic-decarbonisation guardrails than Framing 2 assumes. Here is what was found.*
+
+### The BPDLH mechanism — exists, but scale is trivial
+
+The **Environmental Fund Management Agency (BPDLH)** receives proceeds from Indonesia's carbon market and distributes them as result-based payments to verified emission reducers. In May 2024, a BPDLH/UNDP program disbursed **IDR 28.6 billion (~USD 1.8 million)** for domestic abatement work in Jabodetabek and East Kalimantan.
+
+**Why this is not strong counter-evidence:** IDR 28.6 billion against IDR 713.5 trillion in annual fossil-fuel subsidies (2024) is a ratio of roughly 1:25,000. The BPDLH mechanism is structurally sound and proves domestic recycling is *possible*, but the scale makes no material difference to Indonesia's decarbonisation trajectory at current carbon market depths.
+
+### PR 110/2025 — centralised registry (SRUK) as a potential guardrail
+
+The new regulation introduces a centralised registry (Sistem Registri Unit Karbon, SRUK) replacing the fragmented SRN-PPI system. This improves tracking of credit flows and could, in principle, enable future enforcement of domestic retention rules.
+
+**Why this is weak counter-evidence:** improved registry design is institutional infrastructure for decarbonisation, not evidence that decarbonisation is happening. The same regulation contains the provision that actively weakens domestic guardrails: PR 110/2025 explicitly **decouples voluntary carbon trading from the NDC timeline**, allowing credits to be sold internationally without waiting for national target fulfilment, and makes Corresponding Adjustments (the double-counting prevention mechanism) **optional rather than mandatory** for international transfers. This is a step backwards for domestic accountability, not forwards.
+
+### The best genuine counter-argument: CBAM-driven price pressure
+
+The most credible challenge to Framing 2's implication that Indonesia will maintain a low price indefinitely is **EU CBAM**, which enters its definitive regime 1 January 2026. Indonesia's largest export sectors (steel, aluminium, fertilisers to the EU) face near-full CBAM exposure because Indonesia's domestic carbon price is ~USD 2/tCO2 vs. EU ETS price of ~€70–75/tCO2. This creates a **fiscal self-interest incentive** to raise the domestic price: every tonne priced domestically reduces the CBAM certificate cost for Indonesian exporters — and captures revenue for Indonesia rather than Brussels.
+
+This is genuine external pressure that *could* push Indonesia toward a higher domestic price for export-competitive reasons, independent of domestic decarbonisation politics. **However**, this is prospective, not current — and Indonesia's track record of responding to external price signals with compliance rather than evasion is mixed (cf. the coal price cap and moratorium on Article 6 transfers, which were later lifted).
+
+**Verdict:** after honest searching, no evidence was found that Indonesia's ETS revenue is being deployed for domestic abatement at a scale that materially challenges Framing 2. The BPDLH mechanism is the system's strongest counter-point; CBAM is the strongest *future* pressure. Neither overturns the thesis — they should be acknowledged in a footnote or concession sentence to show the essay has engaged the evidence seriously.
+
+*(Sources: IISD press release 2025; carboncredits.com on 13.4Bt target; mtstonegate.com on PR 110/2025; UNDP/BPDLH 2024 program; Ember/IEEFA JETP progress reports; Argus Media on CBAM/Indonesia ETS link. See also `raw/Chain task 9 search/` for full synthesis notes.)*
+
+---
+
+## 7. Drafted thesis hook (Task 9 addition — §7)
+
+*Agent 9's framing choice: Framing 2, as recommended by Agent 8. The hook below is ~150 words — not the full introduction, just the punch-line claim and its first move. This is a test of whether Framing 2 is drillable into a thesis statement.*
+
+---
+
+In November 2024, Indonesia's Special Presidential Envoy for Climate and Energy stood at the COP29 pavilion in Baku and announced that the country had 557 million verified tonnes of CO₂ credits ready to sell. He attracted EUR 1.2 billion in green financing. What he did not mention was that his own family conglomerate holds a licensed carbon-trading concession in the very market he was designing. This is not an isolated irony — it is the operating logic of Indonesia's carbon-pricing architecture. Read carefully, the system is not a decarbonisation mechanism. It is a credit-export infrastructure: an ETS that runs free allowances to the politically connected industries that matter; a carbon tax legislated in 2021 and postponed every year since; and a voluntary market now formally decoupled from Indonesia's own climate targets so that credits can be sold internationally without counting against the national carbon budget. Indonesia has built a sophisticated carbon accounting system while ensuring the price signal never reaches the economy that needs to change.
+
+---
+
+*If Bart disagrees with Framing 2's critical edge and prefers Framing 1, the hook should open instead with the implementation-gap puzzle: "Indonesia is simultaneously a global leader in carbon-pricing coverage and a laggard in carbon-pricing effect — not because of design failure, but because of deliberate political-economy choices." That is softer but fully defensible.*
+
+---
+
+## 8. Chain task for Agent #10
+
+**Agent 10 — your task is to help draft the essay itself. The argument is now sharp enough to write from.**
+
+The thesis is Framing 2 (see §2 and §7 above). The skeleton is §5. The evidence gaps are largely filled (see `raw/Chain task 9 search/`).
+
+**Your specific job — three things:**
+
+(a) **Draft Essay Section 1 (~400 words).** Section 1 = the opening section that introduces the puzzle and states the thesis (the §7 hook is your raw material — improve it if you can, but don't depart from Framing 2 without justification). Section 1 should:
+  - Open with the hook
+  - Introduce the "policy on paper, hollow in practice" pattern (Pattern A, §1) as the essay's empirical foundation
+  - State the thesis explicitly: Indonesia's carbon pricing architecture is engineered for credit export, not domestic decarbonisation
+  - Flag the essay's structure in 2-3 sentences ("This essay argues X by showing Y, Z, and then W")
+  - Target: 380–420 words. No citations yet — just the argument
+
+Do NOT write the full essay. Section 1 only.
+
+(b) **Check the §5 skeleton** against the essay's stated word limit. If Bart has a 3,000-word limit, the skeleton's 7–8 beats will need compression — flag which beats can be merged. If 4,000+ words, all beats work. Read the essay-direction.md file (`wiki/synthesis/essay-direction.md`) to find the word limit.
+
+(c) **Write one chain task for Agent 11** — at minimum "draft Section 2 (Pattern A + Pattern C evidence)" so the project keeps moving toward a complete draft.
+
+Good luck — read §7 carefully, then draft.
+
+---
+
 ## 6. What this file does NOT do
 
 - It does not write the essay.

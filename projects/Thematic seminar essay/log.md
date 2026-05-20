@@ -1,5 +1,18 @@
 # Log — Thematic seminar essay
 
+## [2026-05-20] research | Chain task 9 — evidence chase, counter-evidence test, thesis hook
+Box task #9 completed by 7AM fallback agent. Three evidence-gap synthesis notes added to `raw/Chain task 9 search/`:
+1. `DONE_Gap1_IISD-GSI-Indonesia-fossil-fuel-subsidies.md` — IDR 713.5T fossil-fuel subsidy vs IDR 78B carbon market (8,000:1 ratio); key for Objection 5 response
+2. `DONE_Gap2_Hashim-Arsari-political-economy-brief.md` — focused brief pulling Hashim/Arsari findings from the parallel indonesia-carbon-market project; PR 110/2025 explicitly decouples VCM from NDC timeline; essay-use guidance included
+3. `DONE_Gap3_EU-CBAM-Indonesia-exposure.md` — steel/aluminium/fertiliser CBAM exposure from 2026; fiscal self-interest argument for higher domestic price
+
+Counter-evidence search for Framing 2: no strong counter-evidence found. BPDLH mechanism exists but scale trivial; PR 110/2025 weakened (not strengthened) domestic guardrails. Verdict appended as §3a to argument-logic.md.
+
+Thesis hook drafted (§7 of argument-logic.md): ~160-word Framing 2 opening using Hashim/COP29 story as the opening image.
+
+Chain task for Agent 10 written at §8 of argument-logic.md: draft Essay Section 1 (~400 words) using the hook.
+
+
 ## [2026-05-19] synthesis | argument-logic.md — sharpening the essay's thesis
 Wrote `wiki/synthesis/argument-logic.md` (Box for Claude task #8). Did NOT write the essay. Did four things:
 1. Extracted five cross-reading patterns (A: implementation gap, B: public-elite gap, C: industrial-policy entanglement, D: credit-export logic, E: hybrid-design convergence) with citation clusters per pattern.

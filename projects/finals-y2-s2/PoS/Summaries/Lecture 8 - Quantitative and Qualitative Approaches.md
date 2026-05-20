@@ -40,14 +40,16 @@ The social world is complex (many instances × many variables). Researchers simp
 
 ### Comparison on two axes
 
-#### Axis 1 — Direction of causal inference
+#### Axis 1 — ==Direction of causal inference==
 
-| | Direction | Native question |
-|---|---|---|
-| **Quantitative** | Forward (causes → effects) | "What does intervention T do to subjects?" |
-| **Qualitative** | Reverse (effects → causes) | "We see this outcome — what caused it?" |
+|                  | ==Direction==                  | ==Native question==                            |
+| ---------------- | -------------------------- | ------------------------------------------ |
+| ==**Quantitative**== | ==Forward (causes → effects)== | =="What does intervention T do to subjects?"== |
+| ==**Qualitative**==  | ==Reverse (effects → causes)== | =="We see this outcome — what caused it?"==    |
 
-*Example: a clinical drug trial* compares outcomes for subjects who got drug T vs a control group. Gauges the *average effect* of T. Not suited to confirm T was *the* cause for any particular subject — quantitative methods reason from cause to population-effect, not the reverse.
+==*Example: a clinical drug trial* compares outcomes for subjects who got drug T vs a control group. Gauges the *average effect* of T. Not suited to confirm T was *the* cause for any particular subject — quantitative methods reason from cause to population-effect, not the reverse.==
+
+
 
 #### Axis 2 — Place in the empirical cycle
 

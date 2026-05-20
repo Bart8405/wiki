@@ -69,6 +69,7 @@ Why? Quant studies typically collect few variables from many cases — fine for 
 
 > The labels "qual"/"quant" are **misleading**. Whether you use numbers isn't the deep difference. The two axes above (causal direction + cycle place) capture the distinction better. There's no hierarchy: both play essential and irreducible roles in science.
 
+%%Qual and quant differ on 2 axis - forward/reverse casual inference and hypothesis generating/testing, right?%%
 ### Case study research
 
 A **case study** is the intensive study of a single case with the aim of illuminating a *larger class of cases*. Procedure: note an outcome → try to identify the causal factor responsible. Instance of qualitative method. Reverse causal inference.

@@ -74,6 +74,10 @@ Usage in essay
 **URL:** https://www.elibrary.imf.org/view/journals/066/2022/006/article-A001-en.xml  
 **Suggested prefix:** `LOOK_`
 
+![[Pasted image 20260521151920.png]]
+(p. 3) - Carbon tax of 25% would more than suffice Indonesia's NDC
+
+
 ---
 
 ## 2. Indonesia-Specific Academic Sources

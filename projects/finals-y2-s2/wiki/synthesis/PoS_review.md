@@ -2,7 +2,7 @@
 
 _Concepts and questions automatically extracted from your notes._
 
-**Last updated:** 2026-05-20
+**Last updated:** 2026-05-21
 
 ## Table of Contents
 
@@ -43,19 +43,24 @@ _Concepts and questions automatically extracted from your notes._
 | Corroboration | Lecture 5 — Falsificationism | Surviving severe tests makes a hypothesis tentatively trustworthy |
 | Deductive-Nomological (DN) model (Hempel) | Lecture 4 — Explanations and Causes | Explanation as deductive argument from a scientific law |
 | Demarcation problem | Lecture 5 — Falsificationism | Science vs non-science: Popper's answer is falsifiability |
+| Erklären (Dilthey) | Lecture 10 — Interpretation and Understanding | Causal explanation via covering laws — method of natural science; paired with Verstehen |
 | Explanandum + Explanans | Lecture 4 — Explanations and Causes | What's to be explained vs what does the explaining |
 | Explanation vs prediction | Lecture 4 — Explanations and Causes | Same argument-form; explanation requires true premises |
 | Flagpole/shadow problem | Lecture 4 — Explanations and Causes | Shadows don't cause flagpoles — DN can't tell cause from effect |
 | Hexed salt example | Lecture 4 — Explanations and Causes | DN accepts irrelevant information as part of an explanation |
+| heuristics + Recognition heuristic + Take-the-best | Lecture 9 — Rationality | Fast, frugal rules of thumb — rational under real-world constraints |
 | Idealisation | Lecture 7 — Analogies and Models | Deliberate distortion of reality to make phenomena tractable |
 | Incommensurability (3 types) | Lecture 6 — Paradigms and Revolutions | Paradigms lack a common measure — semantic, observational, methodological |
 | Inductive-Statistical (IS) model (Hempel) | Lecture 4 — Explanations and Causes | Explanation for probabilistic phenomena — high-probability inference |
 | Instrumentalist stance | Lecture 7 — Analogies and Models | Models are tools — adequate or inadequate, not true or false |
 | Model | Lecture 7 — Analogies and Models | Simplified representation of a domain of phenomena |
+| Motivational + Salience (emotion functions) | Lecture 9 — Rationality | Emotion sets goals (motivational) and flags what matters (salience) — both are part of rational deliberation |
 | Negative analogy (Hesse) | Lecture 7 — Analogies and Models | Relations that hold in source but not target — where the analogy breaks |
 | Neutral analogy (Hesse) | Lecture 7 — Analogies and Models | Unknown relations in target — the engine of new predictions |
 | Paradigm | Lecture 6 — Paradigms and Revolutions | Shared framework governing normal science — assumptions, exemplars, style |
 | Paresis example | Lecture 4 — Explanations and Causes | IS rejects good explanations with low probability |
+| Rationality (RCT baseline) | Lecture 9 — Rationality | An action is rational if it is optimal under constraints; RCT vs bounded rationality disagree on what that means |
+| Relationality + Purposiveness + Meaningfulness | Lecture 10 — Interpretation and Understanding | Three features that make mental phenomena require Verstehen rather than Erklären |
 | Positive analogy (Hesse) | Lecture 7 — Analogies and Models | Relations confirmed in both source and target |
 | Theory-ladenness of observation | Lecture 6 — Paradigms and Revolutions | All observation is concept-laden; we can't "just look" |
 | Two cultures (Goertz & Mahoney) | Lecture 8 — Quantitative and Qualitative | Quant and qual operate on distinct logics — not a hierarchy |
@@ -591,7 +596,24 @@ The practical tip for your PoS exam: when you're asked to classify a method, ask
 
 | Term | One-liner |
 |---|---|
+| Rationality (RCT baseline) | An action is rational if optimal under constraints — the shared premise all three frameworks build from |
 | Bounded rationality (Simon) | Real decision-makers satisfice rather than optimise |
+| heuristics + Recognition heuristic + Take-the-best | Fast, frugal rules of thumb that are genuinely rational under real-world constraints |
+| Motivational + Salience (emotion functions) | Emotion sets goals (motivational) and flags what matters (salience) — part of rational deliberation, not its enemy |
+
+---
+
+### Rationality (RCT baseline)
+
+**Definition:** Rationality is a property of an action: being **optimal under a set of constraints**. It applies in two domains — *theoretical rationality* (making inferences) and *practical rationality* (making decisions). This is the baseline concept that RCT, bounded rationality, and emotion-inclusive accounts all build from; they disagree about what "optimal" means and which constraints are realistic.
+
+**Your question:** Explain rationality in easy terms.
+**Answer:** Think of it as "doing the best you can with what you have." Every theory of rationality agrees on that basic structure. The real debate is about (a) what "best" means — maximise a utility function (RCT) or find something good enough (Simon) — and (b) what constraints count as real — only information limits (Simon) or also goal-formation limits (the emotion-inclusive tradition). A utility function that values destroying the planet gets the same analytical treatment as one that values human flourishing; RCT is powerful for *means*, silent on *ends*.
+
+**Connected to:** → [[#Bounded rationality (Simon)]] — Simon critiques the RCT version of rationality; → [[#Motivational + Salience (emotion functions)]] — cognitivism about emotion extends rationality to cover *what we want*, not just *how we get it*.
+
+**Seen in:**
+- [[Lecture 9 - Rationality#Key concepts — definitions|Lecture 9 - Rationality.md:L19]] — *"==**Rationality**== — A property of an action: **being optimal under a set of constraints**..."*
 
 ---
 
@@ -612,11 +634,43 @@ The practical tip for your PoS exam: when you're asked to classify a method, ask
 
 ---
 
+### heuristics + Recognition heuristic + Take-the-best
+
+**Definition:** **Heuristics** are context-dependent rules of thumb for reasoning and decision-making — cheap, fast, and "good enough." Simon and later Gigerenzer argue these are not inferior substitutes for full calculation but genuinely rational strategies under real-world constraints. The **recognition heuristic** infers that the more familiar of two alternatives has the higher value on the relevant variable — partial ignorance becomes a cognitive asset. The **take-the-best heuristic** ranks criteria and picks on the single highest-ranking criterion that discriminates between options, deliberately ignoring all lower-ranked criteria.
+
+**Explained easily:** Why do Americans often beat Germans at guessing which German city is larger? Because Americans recognise fewer German cities — so when they recognise Hanover but not Bielefeld, they simply infer "the one I've heard of is bigger." Partial ignorance, productively used. Take-the-best is the same logic applied to multi-criterion decisions: stop as soon as one factor discriminates. Faster and often just as accurate as processing everything.
+
+**Connected to:** → [[#Bounded rationality (Simon)]] — heuristics are the operative mechanism of bounded rationality; → [[#Rationality (RCT baseline)]] — they redefine what "rational" means under realistic cognitive constraints.
+
+**Seen in:**
+- [[Lecture 9 - Rationality#2. Bounded Rationality (Simon, Gigerenzer)|Lecture 9 - Rationality.md:L69]] — *"==They use **heuristics** — rules of thumb that are cheap, fast, and 'good enough.'=="*
+
+**Sources:** Gigerenzer, G. & Goldstein, D.G. (1996) "Reasoning the Fast and Frugal Way," *Psychological Review* 103(4): 650–669; Lecture 9 summary.
+
+---
+
+### Motivational + Salience (emotion functions)
+
+**Definition:** *Cognitivism about emotion* (associated with Antonio Damasio) argues that rationality requires emotional responses. Emotion serves two functions in practical reasoning: (1) **Motivational** — sets goals, values, and preferences, filling the gap RCT leaves empty (RCT takes preferences as given but has nothing to say about whether they are reasonable); (2) **Salience** — identifies what matters when goals conflict, information is incomplete, or there is too much to review.
+
+**Explained easily:** RCT tells you the best *means* to your goals. But it is silent on the *goals themselves*. That's where emotion enters: without it, nothing feels worth choosing. Damasio's patients with damage to emotional brain regions became unable to make decisions — not because their reasoning was broken, but because no option felt important. Emotion doesn't distort rationality; it is what makes some outcomes *matter*. The old picture (reason vs. passion) gets the relationship backwards.
+
+**Connected to:** → [[#Rationality (RCT baseline)]] — emotion-inclusive accounts extend rationality to cover ends, not just means; → [[#Bounded rationality (Simon)]] — both Simon and the emotion tradition challenge the "cold perfect calculator" ideal of classical RCT.
+
+**Seen in:**
+- [[Lecture 9 - Rationality#3. Emotion-inclusive accounts|Lecture 9 - Rationality.md:L81]] — *"==**Motivational** — helps set goals, values, preferences (filling the gap RCT couldn't)=="*
+
+**Sources:** Damasio, A.R. (1994) *Descartes' Error: Emotion, Reason and the Human Brain*; Lecture 9 summary.
+
+---
+
 ## Lecture 10 — Interpretation and Understanding
 
 | Term | One-liner |
 |---|---|
 | Verstehen (Dilthey) | Understanding from within — grasping meaning, not deriving laws |
+| Erklären (Dilthey) | Causal explanation via covering laws — the natural-science method; paired with Verstehen |
+| Relationality + Purposiveness + Meaningfulness | Three features of mental phenomena that make Verstehen necessary |
 
 ---
 
@@ -636,6 +690,34 @@ The practical tip for your PoS exam: when you're asked to classify a method, ask
 - [[Lecture 10 - Interpretation and Understanding#Key concepts — definitions|Lecture 10 - Interpretation and Understanding.md]] — *"==**Verstehen** (Dilthey)=="*
 
 **Sources:** Dilthey, W. (1883) *Einleitung in die Geisteswissenschaften* (*Introduction to the Human Sciences*); Lecture 10 summary.
+
+---
+
+### Erklären (Dilthey)
+
+**Definition:** *Erklären* (German: "to explain") is Dilthey's term for the method of the natural sciences — explaining phenomena by subsuming them under covering laws. Hempel's Deductive-Nomological model (Lecture 4) is the formal elaboration of *Erklären*. Natural phenomena can be identified by pointing (ostension) first, then explained afterwards; the world of physical stuff has no intrinsic meaning, just causally connected events.
+
+**Explained easily:** When you explain why the apple fell, you cite the law of gravity. You don't need to understand what the apple "meant" before identifying it. Point → identify → explain with a law. No interpretation required. Contrast this with a gift: you cannot even *point at* a gift without already understanding what giving means. That asymmetry is why natural science uses *Erklären* and human science uses *Verstehen*.
+
+**Connected to:** → [[#Verstehen (Dilthey)]] — the paired contrast; *Erklären* handles natural phenomena, *Verstehen* handles mental phenomena; → [[#Deductive-Nomological (DN) model + Inductive-Statistical (IS) model|DN model]] — Hempel's DN model is the formal elaboration of *Erklären*.
+
+**Seen in:**
+- [[Lecture 10 - Interpretation and Understanding#Key concepts — definitions|Lecture 10 - Interpretation and Understanding.md:L20]] — *"==**Erklären** — German: 'to explain.' Method for studying natural phenomena — explaining outcomes by means of covering laws.=="*
+
+---
+
+### Relationality + Purposiveness + Meaningfulness
+
+**Definition:** Dilthey's three characteristics that distinguish mental from natural phenomena and explain why *Verstehen* is necessary. **Relationality**: a mental phenomenon cannot be identified by pointing — its identity is constituted by the meanings people ascribe to it (a box changing hands is a gift, bribe, payment, or apology depending on meaning, not physics). **Purposiveness**: human actions require reasons that are essentially normative, not just causes — "I apologise in order to express regret" cannot be reduced to "my vocal cords vibrated." **Meaningfulness**: things have meaning because people ascribe meaning to them; no one person (not even the author) has sole authority, but "anything goes" is also wrong — meaning is multiple but constrained.
+
+**Explained easily:** Take an apology. A physicist can describe the event in full causal detail — sound waves, muscle contractions. But that misses what makes it an *apology*. To even identify the act as an apology (not a greeting, not a threat), you need to know the norm it's responding to ("being late like that required acknowledgement"). And to understand *why* it was done, you need the reason ("to express regret"). Physical causes alone are always incomplete for human action. That's Dilthey's point in three concepts.
+
+**Connected to:** → [[#Verstehen (Dilthey)]] — these three features explain *why* Verstehen is the necessary method for mental phenomena; → [[#Erklären (Dilthey)|Erklären]] — natural phenomena lack all three, which is why Erklären works for them; → [[#idiographic approach|idiographic approach]] — the idiographic approach presupposes that the objects of inquiry have these features.
+
+**Seen in:**
+- [[Lecture 10 - Interpretation and Understanding#1. Relationality|Lecture 10 - Interpretation and Understanding.md:L47]] — *"==1. Relationality=="*
+- [[Lecture 10 - Interpretation and Understanding#2. Purposiveness|Lecture 10 - Interpretation and Understanding.md:L59]] — *"==2. Purposiveness=="*
+- [[Lecture 10 - Interpretation and Understanding#3. Meaningfulness|Lecture 10 - Interpretation and Understanding.md:L70]] — *"==3. Meaningfulness=="*
 
 ---
 
@@ -815,20 +897,25 @@ The practical tip for your PoS exam: when you're asked to classify a method, ask
 
 ### Lecture 9 — Rationality (Simon)
 
-==**Bounded rationality** (Simon, 1955):== real decision-makers are constrained by:
-- Limited cognitive capacity.
-- Incomplete information.
-- Time constraints.
+**Three frameworks, one question:** what does it mean to act rationally?
 
-**Implication:** people **satisfice** ("good enough"), they don't optimise.
+| Framework | Core claim | Mechanism |
+|---|---|---|
+| **RCT** | Choose the option that maximises utility | Utility function + complete preferences |
+| **Bounded rationality (Simon)** | Satisfice — find "good enough," stop | Heuristics (recognition, take-the-best) |
+| **Emotion-inclusive (Damasio)** | Emotion is part of rationality, not its enemy | Motivational (sets goals) + Salience (flags what matters) |
 
-**Contrast with rational choice theory:** assumes utility maximisation, complete preferences, perfect information.
+==**Bounded rationality** (Simon, 1955):== real decision-makers are constrained by limited cognitive capacity, incomplete information, and time. **Satisfice**, don't optimise.
 
-**Behavioural-economics extension:** Kahneman & Tversky — prospect theory, framing effects, heuristics, biases (anchoring, availability, representativeness).
+**Heuristics — two key ones:**
+- *Recognition heuristic*: if you recognise one alternative and not the other, infer the recognised one ranks higher. Partial ignorance = advantage (Hanover/Bielefeld experiment).
+- *Take-the-best*: pick on the highest-ranking criterion that discriminates; ignore the rest. Frugal and often as accurate as full calculation.
 
-**Implications for IR / policy:** state behaviour cannot be modeled as pure utility-maximisation; cognitive constraints, organisational routines, and politics intervene.
+**RCT gap:** powerful for means (how to get what you want), silent on *ends* (whether what you want is reasonable). That's what the emotion tradition tries to fill.
 
-**Key thinker:** Herbert Simon — *A Behavioral Model of Rational Choice* (1955).
+**Contrast with rational choice theory:** assumes utility maximisation, complete preferences, perfect information. Simon: this describes no human being.
+
+**Key thinkers:** Herbert Simon (bounded rationality); Gerd Gigerenzer (fast-and-frugal heuristics); Antonio Damasio (emotion in rationality).
 
 **Line to remember:**
 > *"Boundedly rational agents experience limits in formulating and solving complex problems and in processing information."* — Simon
@@ -837,15 +924,23 @@ The practical tip for your PoS exam: when you're asked to classify a method, ask
 
 ### Lecture 10 — Interpretation and Understanding (Dilthey)
 
-==**Verstehen** = understanding== (vs. *Erklärung* — causal explanation). The human sciences aim to *grasp meaning* from within, not subsume under laws.
+**The core divide:**
 
-**Hermeneutic circle:** understanding a whole requires understanding its parts; understanding parts requires the whole. Iterative.
+| Phenomenon | Method | What the method does |
+|---|---|---|
+| Natural (rocks, atoms) | *Erklären* (explain) | Identify by pointing, then explain via covering laws |
+| Mental (gifts, votes, rituals) | *Verstehen* (understand) | Simultaneously individuates *and* understands the phenomenon |
 
-**Key insight:** human action is meaningful — it must be interpreted from the agent's perspective. Not a deficit of method but a different ontology.
+==**Verstehen** = understanding== (vs. *Erklären* — causal explanation). The human sciences grasp meaning from within, not subsume under laws.
 
-**Contrast with positivism:** positivists try to make the human sciences look like physics. Dilthey says this misses what makes them human.
+**Three features of mental phenomena that require Verstehen:**
+1. **Relationality** — can't identify a mental phenomenon by pointing; identity is constituted by meaning (gift ≠ bribe ≠ payment even though physically identical).
+2. **Purposiveness** — human actions require reasons (normative), not just causes. "I apologise *to express regret*" — you can't reduce this to vocal-cord physics.
+3. **Meaningfulness** — meaning is multiple (no single authority) but not arbitrary. Double hermeneutic: you're always interpreting interpretations.
 
-**Implications:** social science needs *both* methods — explanation and understanding — depending on the question.
+**Hermeneutic circle:** understanding a whole requires understanding its parts; understanding parts requires the whole. Iterative deepening, not vicious circle.
+
+**Why Kuhnian revolutions are rarer here:** natural science can replace "solid object" with "lattice of atoms." Human science can't replace "coming-of-age ritual" with a radically alien description — the everyday description *is* what makes it that ritual.
 
 **Key thinker:** Wilhelm Dilthey (1833–1911) — German philosopher, hermeneutics tradition (Schleiermacher → Heidegger → Gadamer).
 

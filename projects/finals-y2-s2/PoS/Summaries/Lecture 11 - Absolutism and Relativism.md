@@ -50,11 +50,11 @@ A common move in public discourse is to dismiss "relativism" globally — to ass
 
 ⚠ **Caution about indexicals:** "I teach philosophy of science" seems to be true when McAllister says it and false when you say it — but the two utterances are *different propositions* (different *I*s referring to different people), not the same one with shifting truth.
 
-**Refutation of relativism about truth — by self-reference:**
+==**Refutation of relativism about truth — by self-reference:**==
 
-> Step 1: State relativism about truth: *"Assertion P has or lacks truth not absolutely, but only relative to perspective."*
-> Step 2: Apply this claim *to itself* (replace P with the claim of relativism about truth).
-> Result: We cannot assert relativism about truth *regardless of perspective*. The view undermines its own assertion. **Incoherent.**
+> ==Step 1: State relativism about truth: *"Assertion P has or lacks truth not absolutely, but only relative to perspective."*==
+> ==Step 2: Apply this claim *to itself* (replace P with the claim of relativism about truth).==
+> ==Result: We cannot assert relativism about truth *regardless of perspective*. The view undermines its own assertion. **Incoherent.**==
 
 This is the same logical pattern as: *"The penultimate sentence on sheet 17 is not true"* or *"For every generalisation, there is an exception."*
 

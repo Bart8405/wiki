@@ -149,7 +149,8 @@ Also on ResearchGate: https://www.researchgate.net/publication/384719831
 **URL:** https://ieefa.org/sites/default/files/2025-09/IEEFA%20Report%20-%20Carbon%20pricing%20in%20Asia_Sep25.pdf  
 ⬇ **Direct open-access PDF**  
 **Suggested prefix:** `LOOK_`
-
+![[Pasted image 20260521153314.png]]
+- Role of VCM in carbon pricing - (p. 30)
 ---
 
 ### 2.8 IESR — *Navigating Indonesia's Carbon Market: Challenges, Opportunities, and the Road Ahead*

@@ -8,7 +8,7 @@ sources:
   - wiki/Feedback.md
 updated: 2026-05-19
 ---
-
+%%TODO: I dont think I want to have a long section on how the ETS works%%
 # Essay Master — Indonesian Carbon Pricing
 
 *Single source of truth for the thematic seminar essay. Open this when writing. Everything you need is in this file or in the two linked sister files below.*
@@ -42,6 +42,7 @@ updated: 2026-05-19
 8. [Past feedback to apply](#7-past-feedback-to-apply)
 9. [Verification checklist — facts to confirm before submitting](#8-verification-checklist--facts-to-confirm-before-submitting)
 
+%%TODO: Links do not work - fix and always have them working%%
 ---
 
 ## TL;DR — 60 seconds

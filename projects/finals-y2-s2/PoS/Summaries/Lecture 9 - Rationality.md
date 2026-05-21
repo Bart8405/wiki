@@ -14,21 +14,21 @@ updated: 2026-05-16
 
 ## Key concepts — definitions
 
-| Term | Definition |
-|---|---|
-| **Rationality** | A property of an action: **being optimal under a set of constraints**. Applies to inferences ("theoretical rationality") and to decisions ("practical rationality"). |
-| **Descriptive use of rationality models** | Modelling how agents *actually do* reason and decide — to explain and predict behaviour. |
-| **Normative use of rationality models** | Specifying how agents *should* reason and decide — to guide, assess, and criticise behaviour. Models do both jobs. |
-| **Rational Choice Theory (RCT)** | The most influential 20th-century model. Given an aim, an agent chooses the action with **maximum net benefit** (benefit – cost). Idealisations: agent has *clear and consistent preferences*, *accurate beliefs about outcomes*, *enough computational capacity* to find the best option. |
-| **Utility function** | RCT's mathematical representation of preferences: $U = U(x, y, z, …)$. Assigns a numerical value to each alternative; higher = more preferred. |
-| **Revealed preferences** | RCT often *infers* preferences from observed choices ("if she bought X over Y, she must have preferred X"). Risk: **circular** — if we read preferences off the very behaviour they're meant to explain, almost any action can be reconstructed as "rational." |
-| **Bounded rationality** | Herbert Simon's alternative. A **restricted form of rationality** that is cheap and easy to implement and gives results that are good enough. Humans have limited info, cognitive power, and time — actual decision-making is "rough and ready." |
-| **To satisfice** | Simon's coinage (1947) — "satisfy" + "suffice." Agents don't optimise; they look for options that are *good enough*, then stop. |
-| **Heuristic** | A context-dependent **rule of thumb** for reasoning and decision-making. Twin claim: people *actually* use them, *and* their use is justified — they give good results. |
-| **Recognition heuristic** | "If you recognise only one of the alternatives, infer that one has the higher value of the variable of interest." Exploits *partial ignorance* as an advantage. (Hanover vs Bielefeld — which is larger? Even foreigners with no info often get it right because the more-recognised name is more often the bigger city.) |
-| **Take-the-best heuristic** | Given alternatives and a ranking of criteria, choose on the *highest-ranking criterion that discriminates between them* — ignore all subsequent criteria. Deliberately ignores information. |
-| **Cognitivism about emotion** | A line of work since 1980 arguing that *rationality involves emotional responses to situations*. Emotion has two functions in practical reasoning: (1) **motivational** — sets goals, values, preferences; (2) **salience** — identifies what matters in a situation. Associated with Antonio Damasio. |
-| **Game theory** | Extension of RCT to agents cooperating or competing. *Example:* John Nash, prisoner's dilemma. Applied to arms races and Cold War deterrence. |
+| Term                                      | Definition                                                                                                                                                                                                                                                                                                                |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ==**Rationality**==                           | ==A property of an action: **being optimal under a set of constraints**. Applies to inferences ("theoretical rationality") and to decisions ("practical rationality").== %%explain in easy terms%%                                                                                                                        |
+| **Descriptive use of rationality models** | Modelling how agents *actually do* reason and decide — to explain and predict behaviour.                                                                                                                                                                                                                                  |
+| **Normative use of rationality models**   | Specifying how agents *should* reason and decide — to guide, assess, and criticise behaviour. Models do both jobs.                                                                                                                                                                                                        |
+| **Rational Choice Theory (RCT)**          | The most influential 20th-century model. Given an aim, an agent chooses the action with **maximum net benefit** (benefit – cost). Idealisations: agent has *clear and consistent preferences*, *accurate beliefs about outcomes*, *enough computational capacity* to find the best option.                                |
+| **Utility function**                      | RCT's mathematical representation of preferences: $U = U(x, y, z, …)$. Assigns a numerical value to each alternative; higher = more preferred.                                                                                                                                                                            |
+| **Revealed preferences**                  | RCT often *infers* preferences from observed choices ("if she bought X over Y, she must have preferred X"). Risk: **circular** — if we read preferences off the very behaviour they're meant to explain, almost any action can be reconstructed as "rational."                                                            |
+| **Bounded rationality**                   | Herbert Simon's alternative. A **restricted form of rationality** that is cheap and easy to implement and gives results that are good enough. Humans have limited info, cognitive power, and time — actual decision-making is "rough and ready."                                                                          |
+| **To satisfice**                          | Simon's coinage (1947) — "satisfy" + "suffice." Agents don't optimise; they look for options that are *good enough*, then stop.                                                                                                                                                                                           |
+| **Heuristic**                             | A context-dependent **rule of thumb** for reasoning and decision-making. Twin claim: people *actually* use them, *and* their use is justified — they give good results.                                                                                                                                                   |
+| **Recognition heuristic**                 | "If you recognise only one of the alternatives, infer that one has the higher value of the variable of interest." Exploits *partial ignorance* as an advantage. (Hanover vs Bielefeld — which is larger? Even foreigners with no info often get it right because the more-recognised name is more often the bigger city.) |
+| **Take-the-best heuristic**               | Given alternatives and a ranking of criteria, choose on the *highest-ranking criterion that discriminates between them* — ignore all subsequent criteria. Deliberately ignores information.                                                                                                                               |
+| **Cognitivism about emotion**             | A line of work since 1980 arguing that *rationality involves emotional responses to situations*. Emotion has two functions in practical reasoning: (1) **motivational** — sets goals, values, preferences; (2) **salience** — identifies what matters in a situation. Associated with Antonio Damasio.                    |
+| **Game theory**                           | Extension of RCT to agents cooperating or competing. *Example:* John Nash, prisoner's dilemma. Applied to arms races and Cold War deterrence.                                                                                                                                                                             |
 
 ---
 
@@ -36,10 +36,10 @@ updated: 2026-05-16
 
 ### Two uses of rationality models
 
-| Use | Question | Goal |
-|---|---|---|
-| **Descriptive** | How do agents *in fact* reason and decide? | Model, explain, predict behaviour |
-| **Normative** | How *should* agents reason and decide? | Guide, assess, criticise behaviour |
+| Use             | Question                                   | Goal                               |
+| --------------- | ------------------------------------------ | ---------------------------------- |
+| **Descriptive** | How do agents *in fact* reason and decide? | Model, explain, predict behaviour  |
+| **Normative**   | How *should* agents reason and decide?     | Guide, assess, criticise behaviour |
 
 Many models try to do both — which causes friction.
 
@@ -49,7 +49,9 @@ Many models try to do both — which causes friction.
 
 **Lineage:** Aristotle (deliberate about *means* to ends, not ends themselves) → Bentham (utilitarianism — greatest happiness of greatest number) → von Neumann & Morgenstern (formal utility theory) → Becker (applied to crime, discrimination, family).
 
-**Framework:** Agent has an aim, chooses the action that best fulfils it. Preferences represented by a *utility function*. RCT is now the dominant paradigm in **microeconomics** and influential in political science, sociology, criminology.
+%%TODO: I'm interested in the theory of utalitarianism, create a file about it somewhere and write a summary of it there, I guess under Personal, there could be a file on philosophies%%
+
+**Framework:** Agent has an aim, chooses the action that best fulfils it. Preferences represented by a ==*utility function*.== RCT is now the dominant paradigm in **microeconomics** and influential in political science, sociology, criminology.
 
 **Problem of preferences:**
 - RCT takes preferences as *given* — silent on how agents form them.

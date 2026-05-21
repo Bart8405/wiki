@@ -172,6 +172,8 @@ The modelling literature converges on a combination design — and Indonesia has
 
 **Use Framing 2 as the primary thesis.** Reserve Framing 3 for one paragraph in the conclusion as a forward-looking research agenda. Framing 1 is fine as a fallback but reads as too cautious for a 3–4k word seminar essay; the literature review already builds the political-economy frame — the essay should *advance* it, not restate it.
 
+%%TODO: I will mostly use framing 2 but also incorporate framing 3 to it - unite them%%
+
 ---
 
 ## 2. Essay structure & paragraph plans
@@ -186,7 +188,7 @@ The modelling literature converges on a combination design — and Indonesia has
 | §3 What Indonesia should do | 1,000 | 1,500 | Five moves + CBAM |
 | Conclusion | 300 | 300 | Restate + forward gesture |
 | **Total** | **3,000** | **4,000** | |
-
+%%TODO: I want less focus on the structure of the Indonesian ETS and more on the broader environment-political economy context and implications%%
 ### 2.2 Paragraph skeleton (one topic sentence per paragraph)
 
 #### INTRODUCTION (~400 words, 3 paragraphs)

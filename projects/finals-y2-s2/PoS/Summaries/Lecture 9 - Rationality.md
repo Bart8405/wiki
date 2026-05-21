@@ -16,7 +16,7 @@ updated: 2026-05-16
 
 | Term                                      | Definition                                                                                                                                                                                                                                                                                                                |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ==**Rationality**==                           | ==A property of an action: **being optimal under a set of constraints**. Applies to inferences ("theoretical rationality") and to decisions ("practical rationality").== %%explain in easy terms%%                                                                                                                        |
+| ==**Rationality**==                       | ==A property of an action: **being optimal under a set of constraints**. Applies to inferences ("theoretical rationality") and to decisions ("practical rationality").== %%explain in easy terms%%                                                                                                                        |
 | **Descriptive use of rationality models** | Modelling how agents *actually do* reason and decide — to explain and predict behaviour.                                                                                                                                                                                                                                  |
 | **Normative use of rationality models**   | Specifying how agents *should* reason and decide — to guide, assess, and criticise behaviour. Models do both jobs.                                                                                                                                                                                                        |
 | **Rational Choice Theory (RCT)**          | The most influential 20th-century model. Given an aim, an agent chooses the action with **maximum net benefit** (benefit – cost). Idealisations: agent has *clear and consistent preferences*, *accurate beliefs about outcomes*, *enough computational capacity* to find the best option.                                |
@@ -66,7 +66,7 @@ Many models try to do both — which causes friction.
 
 In practice, humans face limits in information, cognitive power, time. Real decision-making is **rough and ready**:
 - Agents **satisfice**, not optimise.
-- They use **heuristics** — rules of thumb that are cheap, fast, and "good enough."
+- ==They use **heuristics** — rules of thumb that are cheap, fast, and "good enough."==
 - **Twin claim:** people actually do this, *and* there are sound reasons to do so.
 
 **Examples of heuristics:**

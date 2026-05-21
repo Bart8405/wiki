@@ -43,6 +43,20 @@ Every summary ends with a `## One-page revision sheet` section: a tight, scannab
 
 The user explicitly loves these and asked them to be part of every summary. They get auto-aggregated into the course's review file (`*_review.md` under `wiki/projects/<course>/wiki/synthesis/`) by the `/extract-highlights` skill. IRO Weeks 4–6 are worked examples of the right tone.
 
+### 4. Source citations: link to the specific page or location
+
+When citing a source inline in synthesis files, summary files, or essay drafts, the citation should be **clickable AND specific**:
+- For PDFs in the wiki: link to the file path with `#page=N` fragment (Obsidian-supported) so clicking the link opens the PDF at that page.
+- Always include the **page number** in parentheses next to the source citation: `(ICAP 2025 factsheet, p. 4)` not just `(ICAP factsheet)`.
+- For multi-author works the user knows well, short-name format is fine: `(Sunanda et al. 2025, §4.2)` for section references; `(Rodrik 2018, p. 19)` for page references.
+- If the user is going to reuse the citation in an essay, both the link AND the page number matter — they need to verify the quote AND have the page for the final citation.
+
+Example: instead of writing *"per ICAP factsheet"*, write *"per [ICAP 2025 factsheet, p. 4](../../raw/ICAP%202025%20-%20Indonesia%20NEK%20Trading%20Scheme%20factsheet%20104.pdf#page=4)"*.
+
+### 5. Include survey data when present
+
+For lecture summaries: if the lecture had an in-class survey, the survey results / framing experiment / takeaway is exam-critical content and MUST be included in the summary. The IRO Week 4 summary's in-class survey section is the worked example. Don't omit survey content — Denney in particular uses survey results pedagogically and they frequently appear on exams.
+
 ### Existing reference summaries
 
 The IRO Week 4–6 summaries under `wiki/projects/finals-y2-s2/IRO/Summaries/` are the worked examples. Use their structure as the template for future summaries unless the user explicitly asks for something different.

@@ -116,6 +116,27 @@ If you just edit the text of an existing cloze note (changing `{{c2::X}}` to `{{
 
 This loses review history, which is acceptable for recently-pushed cards. For cards with significant review history (mature intervals, many lapses), prefer leaving them alone or asking the user before recreating.
 
+### 12. Real-world examples and case-specific facts → review file ONLY, NOT Anki
+
+The user distinguishes between two knowledge bases:
+- **Review file:** contextual, course-specific, exam-relevant. Worked examples, specific cases, dates, lecturer's chosen illustrations belong here. The user wants to see the example again when reviewing — it helps them re-anchor a concept to a case they remember.
+- **Anki:** long-term timeless knowledge. Things still useful in 20 years. Concepts, definitions, frameworks, key thinkers — NOT case-specific applications.
+
+**Examples of what should NOT become Anki cards:**
+- "How does Goertz & Mahoney's two-logics framework explain why this particular study failed?"
+- "What was the result of the 2024 ADB perception survey?"
+- "Which specific institutional configuration did the Indonesian PR 110/2025 introduce for VCM credit retirement?"
+- Lecturer-chosen worked examples that illustrate a concept but aren't the concept itself
+
+**What SHOULD become Anki cards (paired with the review-file example):**
+- The underlying concept the example illustrates
+- The framework the case applies
+- The thinker who proposed the framework
+
+Rule of thumb: if the answer would be different in 5 years because the case changed, it's not Anki material. If the answer would still be the same in 5 years, it's Anki material.
+
+When you encounter a highlighted real-world example: enrich it in the review file with full context, but do NOT generate an Anki card from it. The corresponding concept card (already in Anki) is enough.
+
 ### Where this applies
 
 This applies anywhere I generate Anki cards — `/push-anki` skill, the `anki-from-reviews.js` batch parser, and any direct AnkiConnect pushes. The `push-anki` slash command's instructions should be updated to reference this feedback the next time the skill is edited.

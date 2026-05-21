@@ -44,7 +44,7 @@ Notice the deeper asymmetry: with natural phenomena, you can identify the thing 
 
 ### Three characteristics of mental phenomena
 
-#### 1. Relationality
+#### ==1. Relationality==
 
 ==Natural phenomena are individuated by **ostension** (point at the falling stone, the superconducting wire). Explanation can come later — *most discoveries in physics work this way.*==
 
@@ -56,7 +56,7 @@ Mental phenomena cannot be individuated by ostension. What makes something a *gi
 - *Example:* coming-of-age rituals. Anthropologists may *extend and enhance* the everyday description with technical concepts. They will never *replace* it the way physicists replaced "solid objects."
 - *Consequence:* Kuhnian scientific revolutions (Lecture 6) apply far less to the human sciences. Human sciences are more rooted in common sense.
 
-#### 2. Purposiveness
+#### ==2. Purposiveness==
 
 Distinctive of human action. Modern natural science makes no use of purposes (it dropped Aristotelian teleology centuries ago). ==But you can't make sense of a human act without citing a **reason** — *and the reason is essentially normative.*==
 
@@ -67,13 +67,13 @@ Distinctive of human action. Modern natural science makes no use of purposes (it
 
 To make sense of human action, just citing causes isn't enough — you have to engage with reasons and norms.
 
-#### 3. Meaningfulness
+#### ==3. Meaningfulness==
 
-Things have meaning *because* people ascribe meanings. Meaning ascriptions can be **multiple** without being arbitrary. Two scholarly consequences:
+==Things have meaning *because* people ascribe meanings. Meaning ascriptions can be **multiple** without being arbitrary. Two scholarly consequences:==
 
-**Sensitivity for ascriptions** — No one person owns the meaning, but also no interpretation can ignore the meanings ascribed by the people who actually live with the phenomenon.
+==**Sensitivity for ascriptions** — No one person owns the meaning, but also no interpretation can ignore the meanings ascribed by the people who actually live with the phenomenon.==
 
-**Double hermeneutic** — Anything you try to interpret has already been interpreted by others. So your interpretation works on *two* layers: the phenomenon itself + the pre-existing interpretations of it. Growing in understanding a phenomenon goes hand-in-hand with growing in self-understanding and understanding of previous interpretations.
+==**Double hermeneutic** — Anything you try to interpret has already been interpreted by others. So your interpretation works on *two* layers: the phenomenon itself + the pre-existing interpretations of it. Growing in understanding a phenomenon goes hand-in-hand with growing in self-understanding and understanding of previous interpretations.==
 
 ### The Laocoön example
 

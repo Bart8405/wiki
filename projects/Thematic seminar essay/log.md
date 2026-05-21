@@ -1,5 +1,12 @@
 # Log — Thematic seminar essay
 
+## [2026-05-19] consolidate | Project unification — down from ~13 active files to 3
+- Created [`wiki/synthesis/essay-master.md`](wiki/synthesis/essay-master.md) merging the spine of `essay-writing-tomorrow.md` + `argument-logic.md` + `essay-requirements-checklist.md` into one navigable document with TOC, TL;DR, thesis & 5 patterns, framing options, structure, drafted intro, section-by-section plan, 5-objection stress-test, requirements checklist, past-feedback section, and verification checklist.
+- Created [`wiki/synthesis/essay-evidence.md`](wiki/synthesis/essay-evidence.md) merging the 3 Chain task 9 evidence briefs (fossil-fuel subsidies, Hashim/Arsari, EU CBAM) and the 24 unique sources from the two parallel overnight-search outputs into one summary table with priority reading order.
+- Moved 9 superseded files + 2 raw subfolders (`Chain task 9 search`, `Overnight search`) into [`wiki/synthesis/archive/`](wiki/synthesis/archive/) — nothing deleted; all history preserved.
+- Rewrote `index.md` Synthesis section to point at the three active files only.
+- Active synthesis files: 3 (essay-master, essay-evidence, essay-bibliography) + sources.bib at top level. Down from 8 synthesis files + 5 raw .md files.
+
 ## [2026-05-21] polish | Task 11 — essay scaffold consistency check, paragraph skeleton, bibliography
 Three deliverables:
 1. **Consistency check** appended to `wiki/synthesis/essay-writing-tomorrow.md`: thesis and introduction both verified against `argument-logic.md` (passed); 7 online-only sources flagged ⚠️; Jia & Lin (2020) vs Lin & Jia (2020) author-order distinction flagged.

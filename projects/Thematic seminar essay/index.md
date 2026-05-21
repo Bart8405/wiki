@@ -1,17 +1,22 @@
 # Thematic seminar essay — Wiki Index
 
-*Essay on carbon pricing in Indonesia (ETS vs. carbon tax). See `wiki/synthesis/essay-direction.md` for the working argument. Structured bibliography is in [`sources.bib`](sources.bib) — BibTeX format with one-line summaries and reading tags.*
+*Essay on carbon pricing in Indonesia (ETS vs. carbon tax). All essay work is now consolidated into three files in [`wiki/synthesis/`](wiki/synthesis/). Older drafts and overnight-search materials are preserved in [`wiki/synthesis/archive/`](wiki/synthesis/archive/).*
 
-## Synthesis
+## Synthesis — the three active files
 
 | Page | Summary |
 |------|---------|
-| [essay-direction](wiki/synthesis/essay-direction.md) | Working thesis, outline, source map, and open questions for the essay |
-| [thesis-questions-answers](wiki/synthesis/thesis-questions-answers.md) | Direct answers to two core essay questions: why ETS first, and what Indonesia should do now. Written 2026-05-17 incorporating Overnight Search finds. |
-| [thesis-questions-answered](wiki/synthesis/thesis-questions-answered.md) | Parallel session's essay-ready draft answers to the same two thesis questions. |
-| [argument-logic](wiki/synthesis/argument-logic.md) | **Argument sharpening** (2026-05-19): cross-reading patterns (A–E), three alternative thesis framings with a recommendation, counter-argument stress-test, evidence gaps + sources to chase, advisory essay skeleton. Read this BEFORE drafting. |
-| [essay-writing-tomorrow](wiki/synthesis/essay-writing-tomorrow.md) | **Essay writing guide** (2026-05-21): self-contained guide to writing the essay — thesis, section-by-section paragraph plans, drafted introduction, sources by section, and verification checklist. **Start here when writing.** |
-| [essay-requirements-checklist](wiki/synthesis/essay-requirements-checklist.md) | **Rubric + checklist** (2026-05-19) from the final seminar session: requirements per essay section (intro, lit review, body, methodology, conclusion, argument), overarching principles, and a master checklist. First-pass assessment of `essay-writing-tomorrow.md` included. Open in split while writing. |
+| **[essay-master](wiki/synthesis/essay-master.md)** | **THE central writing document.** Thesis, argument-logic patterns, structure, paragraph plans, drafted introduction, section-by-section writing plan, stress-test against objections, requirements rubric + checklist, past supervisor feedback, verification checklist. **Start here when writing.** |
+| **[essay-evidence](wiki/synthesis/essay-evidence.md)** | **Empirical evidence pack.** Three deep evidence briefs (Indonesian fossil-fuel subsidies, Hashim/Arsari political economy, EU CBAM exposure) + summary table of 24 online sources from the two overnight-search runs. Cross-linked from `essay-master.md` via §-anchors. |
+| **[essay-bibliography](wiki/synthesis/essay-bibliography.md)** | **Per-section reference list.** Sources grouped by which section of the essay they belong to, with local file paths and ⚠️ flags for online-only sources needing manual download. |
+
+## Bibliography (structured)
+
+- [`sources.bib`](sources.bib) — BibTeX database of 64 entries (read-only metadata for Zotero/Pandoc/Obsidian Citations)
+
+## Archive
+
+[`wiki/synthesis/archive/`](wiki/synthesis/archive/) holds the 9 superseded files consolidated into the three active ones above. Look there only for history. Contents: `argument-logic.md`, `essay-direction.md`, `essay-requirements-checklist.md`, `essay-writing-tomorrow.md`, `thesis-questions-answers.md`, `thesis-questions-answered.md`, `all-agent-activities-overview.md`, plus the two chain-task / overnight-search folders moved out of `raw/`.
 
 ## Concepts
 

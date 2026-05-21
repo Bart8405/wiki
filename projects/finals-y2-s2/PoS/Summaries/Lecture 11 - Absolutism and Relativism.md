@@ -11,7 +11,7 @@ updated: 2026-05-16
 **Date:** 13 May 2026 · **Lecturer:** Prof. James W. McAllister · **Key thinkers:** **Peter Winch** (radical relativism) and **Steven Lukes** (intermediate view) — for the Azande debate; **Maria Baghramian** (reading author).
 
 ---
-
+%%TODO: I gotta be honest, I dont understand much of this lecture, explain everything in more detail, more easily%%
 ## Key concepts — definitions
 
 | Term | Definition |
@@ -41,14 +41,14 @@ A common move in public discourse is to dismiss "relativism" globally — to ass
 
 ==*Trivial example to lock in the form:* relativism about **utility**. Is a tin-opener useful? It depends — on your aims. Utility *is* perspective-relative — depending on S (aim or purpose). That's relativism about utility. No one finds this controversial.==
 
-### Application 1 — relativism about truth
+### ==Application 1 — relativism about truth==
 
-**Truth is a property of propositions only** (recall Lecture 2). So "relativism about truth" is a view about how propositions possess truth.
+==**Truth is a property of propositions only** (recall Lecture 2). So "relativism about truth" is a view about how propositions possess truth.==
 
-- **Absolutist:** A proposition is true or false based on how the world is. Perspective is irrelevant.
-- **Relativist:** A proposition can be true from my perspective and false from yours.
+- ==**Absolutist:** A proposition is true or false based on how the world is. Perspective is irrelevant.==
+- ==**Relativist:** A proposition can be true from my perspective and false from yours.==
 
-⚠ **Caution about indexicals:** "I teach philosophy of science" seems to be true when McAllister says it and false when you say it — but the two utterances are *different propositions* (different *I*s referring to different people), not the same one with shifting truth.
+==⚠ **Caution about indexicals:** "I teach philosophy of science" seems to be true when McAllister says it and false when you say it — but the two utterances are *different propositions* (different *I*s referring to different people), not the same one with shifting truth.==
 
 ==**Refutation of relativism about truth — by self-reference:**==
 

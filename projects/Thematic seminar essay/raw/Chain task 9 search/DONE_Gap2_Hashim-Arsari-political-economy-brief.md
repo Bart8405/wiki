@@ -57,6 +57,8 @@ The regulation that Hashim's process produced contains a critical provision that
 
 > **PR 110/2025 explicitly decouples voluntary carbon trading from the NDC timeline, allowing projects to generate and sell credits without waiting for national target fulfillment.** Corresponding Adjustments (CAs) — the mechanism that prevents double-counting by removing a credit from Indonesia's NDC accounting — are made **optional, not mandatory**, for international transfers.
 
+
+
 **Translation for the essay:** under the new rules, Indonesia can export forest carbon credits internationally *without* those credits counting against Indonesia's own NDC commitment. This means the same tonne of avoided deforestation can simultaneously (a) be sold to a Japanese buyer who counts it toward their net-zero target, and (b) *not* be deducted from Indonesia's national emissions account. This is structurally a credit-export mechanism, not a domestic decarbonisation mechanism.
 
 ---

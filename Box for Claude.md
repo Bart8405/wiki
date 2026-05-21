@@ -28,7 +28,7 @@ List of tasks:
 
 ~~10 - I am getting a little lost in what the agents above did so write me a synthesis file of all the things that the agents did on their own. Additionally, I plan on continuing writing the essay tomorrow so, based on all of the data and articles, tell me how to continue (with the literature review being already finished) Make the best preparation possible for me so it is geuinely easy to start writing tomorrow. Also, based on what you create, come up with another chain task for the next agent to polish everything up and clear up the argumentation for the essay.~~ ✅ Done 2026-05-21 — agent overview at `projects/personal/wiki/synthesis/all-agent-activities-overview.md`; essay writing guide (with drafted intro, paragraph plans, sources by section) at `projects/Thematic seminar essay/wiki/synthesis/essay-writing-tomorrow.md`
 
-11. CHAIN TASK — Polish and finalise the essay scaffold. Read `projects/Thematic seminar essay/wiki/synthesis/essay-writing-tomorrow.md` (the writing guide) and `argument-logic.md` in the same folder. Your job is three things:
+~~11. CHAIN TASK — Polish and finalise the essay scaffold. Read `projects/Thematic seminar essay/wiki/synthesis/essay-writing-tomorrow.md` (the writing guide) and `argument-logic.md` in the same folder. Your job is three things:
 
    (a) **Verify the argument is internally consistent.** Check that: the thesis stated in essay-writing-tomorrow.md matches the thesis in §2 of argument-logic.md; the sources listed under each section actually exist in `raw/` or `raw/Overnight search/` or `raw/Chain task 9 search/`; the drafted introduction in essay-writing-tomorrow.md matches the hook in §7 of argument-logic.md (edit essay-writing-tomorrow.md if there are any inconsistencies). Flag anything that seems contradictory or unsupported.
 
@@ -36,7 +36,7 @@ List of tasks:
 
    (c) **Write a clean bibliography** in `projects/Thematic seminar essay/wiki/synthesis/essay-bibliography.md` listing every source that should appear in the final essay, grouped by the section it belongs to (not alphabetically). For each: author-year, short title, and the file path in `raw/` if it exists locally, OR a URL if it is online-only. Flag any source with "⚠️ online only — download before submitting."
 
-   After (a), (b), (c): write a brief chain task for Agent 12 suggesting "draft Section 2 and Section 3 of the essay in full" if Bart hasn't written them himself, or "review Bart's draft and flag factual errors" if Bart has. Good luck.
+   After (a), (b), (c): write a brief chain task for Agent 12 suggesting "draft Section 2 and Section 3 of the essay in full" if Bart hasn't written them himself, or "review Bart's draft and flag factual errors" if Bart has. Good luck.~~ ✅ Done 2026-05-21 — consistency check passed (thesis + intro both match argument-logic.md); paragraph skeleton added to essay-writing-tomorrow.md (14 paragraphs across Intro + 3 sections + Conclusion, one topic sentence + source per para); bibliography at `projects/Thematic seminar essay/wiki/synthesis/essay-bibliography.md` (all sources grouped by section, 7 sources flagged ⚠️ online-only). Chain task for Agent 12 written at bottom of essay-writing-tomorrow.md.
 
 
 

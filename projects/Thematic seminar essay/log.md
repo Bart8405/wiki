@@ -1,5 +1,12 @@
 # Log — Thematic seminar essay
 
+## [2026-05-21] polish | Task 11 — essay scaffold consistency check, paragraph skeleton, bibliography
+Three deliverables:
+1. **Consistency check** appended to `wiki/synthesis/essay-writing-tomorrow.md`: thesis and introduction both verified against `argument-logic.md` (passed); 7 online-only sources flagged ⚠️; Jia & Lin (2020) vs Lin & Jia (2020) author-order distinction flagged.
+2. **Paragraph skeleton** added to `wiki/synthesis/essay-writing-tomorrow.md` under `## Paragraph skeleton`: 20 paragraphs across all sections, one topic sentence + main source per para. Ready for Bart to expand directly into the essay.
+3. **Clean bibliography** created at `wiki/synthesis/essay-bibliography.md`: 21 sources grouped by section, all local paths verified against `raw/`, 7 ⚠️ flagged for manual download.
+Chain task for Agent 12 written at bottom of `essay-writing-tomorrow.md`.
+
 ## [2026-05-21] synthesis | Task 10 — agent activity overview + essay writing guide
 Created two files:
 1. `projects/personal/wiki/synthesis/all-agent-activities-overview.md` — plain-English summary of all 10 agent tasks with file locations and what each produced. Bart's "I'm getting lost" request answered.

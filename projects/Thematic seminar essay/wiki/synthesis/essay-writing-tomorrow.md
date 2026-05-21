@@ -328,4 +328,107 @@ Structure as: problem → fiscal perversity → prescription.
 
 ---
 
-*This file was created by Agent 10 on 2026-05-21. If anything here looks wrong, the source of truth is `argument-logic.md` (the full argument analysis) and `essay-direction.md` (the original outline). See `projects/personal/wiki/synthesis/all-agent-activities-overview.md` for a summary of everything all agents produced.*
+## ⚠️ Consistency check — Agent 11 findings (2026-05-21)
+
+### What was verified
+
+1. **Thesis match ✅** — The thesis in this file ("credit-export infrastructure, engineered to generate revenue…") is fully consistent with §2 Framing 2 in `argument-logic.md`. No edit needed.
+
+2. **Introduction matches hook ✅** — The drafted introduction opens with the identical COP29/Hashim paragraph as §7 of `argument-logic.md`. No edit needed.
+
+3. **Argument internally consistent ✅** — No contradiction found between the section-level claims and the patterns (§1) or objections (§3/3a) in `argument-logic.md`.
+
+### Source flags — check before submitting
+
+| Source | Status |
+|---|---|
+| IEEFA (2025) — USD 5M / IDR 78B total ETS trades | ⚠️ **No local PDF.** The figure appears in `raw/Overnight search/sources-overnight-2026-05-17.md`. Download the IEEFA report before citing formally. |
+| OECD ECR 2025 — net negative effective carbon rate | ⚠️ **Online only.** See: https://www.oecd.org/en/topics/sub-issues/effective-carbon-rates.html |
+| Climate Action Tracker (Dec 2024) — "Critically Insufficient" | ⚠️ **Online only.** See: https://climateactiontracker.org/countries/indonesia/ |
+| East Asia Forum (Feb 2025) — 70%+ SEA public support | ⚠️ **Online only.** Verify exact URL and author before submitting. |
+| IISD/GSI press release (2025) — IDR 713.5T subsidies | ⚠️ **Synthesis note only** at `raw/Chain task 9 search/DONE_Gap1`. Full report: https://www.iisd.org/publications/report/indonesia-energy-subsidies |
+| CSIS Indonesia Working Paper 2025 (CBAM) | ⚠️ **Manual download needed** — flagged in `DONE_Gap3`. URL in that file. |
+| World Bank CCDR 2023 | ⚠️ **No local file.** Referenced in `DONE_Gap1` synthesis; download if you want to cite it directly. |
+
+### Two papers by the same authors — do not confuse
+
+There are **two distinct 2020 papers** by Jia and Lin (authors listed in different order):
+
+- **Jia & Lin (2020)** — *"Rethinking the choice of carbon tax and carbon trading in China"* → `raw/DONE_Jia & Lin 2020...pdf` — argument: tax alone **outperforms** ETS alone. Cited in Section 1, Move 2.
+- **Lin & Jia (2020)** — *"Can carbon tax complement emission trading scheme — impact in China"* → `raw/LOOK_Lin & Jia 2020...pdf` — argument: tax **+ ETS combination** outperforms either alone. Cited in the Conclusion.
+
+This file uses them correctly in different places, but your reference list must list them as **two separate entries** with the correct author order.
+
+---
+
+## Paragraph skeleton
+
+*One topic sentence per paragraph + main source citation. Written by Agent 11 (2026-05-21). Expand each numbered item into a full paragraph when writing.*
+
+### INTRODUCTION (~400 words, 3 paragraphs)
+
+1. **Hook [~160 words]:** The COP29 story — Indonesia's Special Presidential Envoy announced 557 million tonnes of credits ready to sell and attracted EUR 1.2 billion in green financing while not disclosing that his own family conglomerate holds a carbon-concession in the market he was designing — is not an isolated irony but the operating logic of Indonesia's carbon-pricing architecture. *(Tempo/Pulitzer "Forest for Tycoons", June 2025; see `raw/Chain task 9 search/DONE_Gap2`)*
+
+2. **The puzzle [~120 words]:** Indonesia's Tax Harmonization Law (Law 7/2021) legislated both a carbon tax and an ETS in the same legislation, the ETS launched in February 2023, but the carbon tax has been postponed four times and remains unenforced as of early 2026 — despite a developing-country literature that broadly recommends the tax first, and despite total ETS trades amounting to approximately USD 5 million. *(ICAP, 2025; IEEFA, 2025; van den Bergh & Drews, 2026)*
+
+3. **Thesis and roadmap [~120 words]:** This essay argues that ETS-first sequencing reflects deliberate political-economy choices — concentrated burden on a small set of facilities, free allocation for industrial-policy priorities, and a credit-export revenue motive — rather than economic-design optimality, and that Indonesia's own Presidential Regulation 110/2025 already contains the hybrid design the literature recommends, making the binding constraint political will rather than policy design. *(Sunanda et al., 2025; ICAP, 2025)*
+
+---
+
+### SECTION 1: WHY AN ETS FIRST? (~800 words, 5 paragraphs)
+
+1. **Sequencing facts [~150 words]:** Law 7/2021 legislated both carbon tax and ETS simultaneously; the ETS launched February 2023 (Phase 1: ~99 coal plants; Phase 2: 563 installations from 2025) while the carbon tax, due April 2022, has been postponed four times and remains unenforced as of early 2026, meaning Indonesia has not simply chosen ETS over tax but has implemented only the ETS side of a legislated hybrid. *(ICAP, 2025; Sunanda et al., 2025, Table 4)*
+
+2. **What the literature prefers — the puzzle [~150 words]:** Carbon tax dominates the developing-country literature for its administrative simplicity, price certainty for long-term investment, and revenue-recycling potential — and Indonesia-specific CGE modelling shows a revenue-recycled carbon tax raises both GDP and employment — yet Indonesia launched the ETS first, raising the question the essay must answer. *(van den Bergh & Drews, 2026; Hartono et al., 2023; Jia & Lin, 2020)*
+
+3. **Political-economy reason 1 — burden visibility [~150 words]:** The ETS concentrates compliance costs on ~563 regulated installations (mostly state-owned utility PLN), while a carbon tax would visibly raise energy prices for 270 million people; industry representatives have explicitly cited "political resistance" as the barrier to tax enforcement, confirming the ETS is the politically safer option for a government managing industrial coalitions. *(Sunanda et al., 2025 [Stevens §87]; Finon, 2019)*
+
+4. **Political-economy reason 2 — free allocation + credit-export revenue [~200 words]:** Indonesia's 100% free allocation in Phase 1 functions as a de facto industrial subsidy for the downstreaming sectors (nickel, steel, cement, captive coal) that the Jokowi and Prabowo governments prioritise, while the January 2025 lift of the Article 6 moratorium creates a credit-export revenue stream without a domestic tax — the USD 65 billion government target from carbon projects by 2028 confirms the revenue motive, and PR 110/2025's decoupling of international credits from the NDC timeline is the regulatory architecture that makes this possible. *(ICAP, 2025; `raw/Chain task 9 search/DONE_Gap2`; Pierucci et al., 2025)*
+
+5. **Counter-evidence — the "tax is political poison" framing overstates the case [~150 words]:** The carbon tax is not regressive at the national level in Indonesia — it is progressive among lower-income rural households and regressive only in urban areas — and over 70% of Southeast Asian respondents support a national carbon tax, indicating the resistance is elite-level rather than mass-level, a distinction that matters for the essay's prescription in Section 3. *(Yusuf & Resosudarmo, 2015; Rahma et al., 2025; East Asia Forum, Feb 2025)*
+
+---
+
+### SECTION 2: HOW THE ETS ACTUALLY WORKS (~500 words, 3 paragraphs)
+
+1. **Coverage and phases [~150 words]:** Indonesia's ETS operates in three phases expanding across the electricity sector — Phase 1 (2023–24): ~99 PLN-grid coal plants; Phase 2 (2025–27): 563 installations covering captive coal and gas; Phase 3 (2028–30): all fossil-fuel power — but even at full power-sector completion the ETS covers only ~21% of national emissions (225.3 MtCO2e out of 1,053.4 MtCO2e), leaving forestry, transport, and most industry entirely outside its scope. *(ICAP, 2025)*
+
+2. **Allocation and Article 6 [~100 words]:** The ETS has held no auctions in any phase, continues to allocate allowances at 75–100% free, and under PR 110/2025 has decoupled international credit trading from the NDC timeline while making Corresponding Adjustments — the double-counting prevention mechanism — optional rather than mandatory for international transfers, structurally prioritising credit-export revenue over domestic climate accountability. *(ICAP, 2025; `raw/Chain task 9 search/DONE_Gap2`)*
+
+3. **The hollow reality [~200 words]:** Total IDX Carbon market transactions since the September 2023 launch amount to approximately USD 5 million (IDR ~78 billion), against IDR 713.5 trillion (~USD 44 billion) in annual fossil-fuel subsidies — a ratio of roughly 1:8,000 — while Indonesia's net effective carbon rate is likely negative once those subsidies are netted out, rendering the nominal ETS price signal economically irrelevant and earning Indonesia a "Critically Insufficient" rating from Climate Action Tracker. *(IEEFA, 2025; IISD/GSI, 2025; OECD ECR, 2025; Climate Action Tracker, Dec 2024)*
+
+---
+
+### SECTION 3: WHAT INDONESIA SHOULD DO NOW (~1,000 words, 6 paragraphs)
+
+1. **Opening frame — "already legislated, not yet enforced" [~50 words]:** Presidential Regulation 110/2025 and the October 2025 NDC already commit Indonesia on paper to all five recommendations the developing-country literature makes, making political will rather than policy design the binding constraint. *(Sunanda et al., 2025; van den Bergh & Drews, 2026)*
+
+2. **Recommendation 1 — Enforce the levy; remove the subsidy that cancels it [~200 words]:** Indonesia should commit to a graduated levy escalation path (e.g. USD 2 now → USD 10 by 2028 → USD 30 by 2032), but since fossil-fuel subsidies create a net-negative effective carbon rate, the prior step is removing the IDR 58.5 trillion coal price cap that implicitly subsidises the very sector the ETS prices — a reform Indonesia has precedent for, having cut the petrol subsidy in 2014. *(Sunanda et al., 2025; OECD ECR, 2025; IISD/GSI, 2025)*
+
+3. **Recommendation 2 — Revenue recycling via PKH [~150 words]:** CGE modelling specific to Indonesia shows that recycling carbon tax revenue into household transfers (the "double dividend") raises both GDP and employment, the existing PKH conditional cash-transfer program is the ready-made vehicle, and replacing the regressive 3-kg LPG subsidy with targeted cash transfers would simultaneously be more progressive and free up fiscal space. *(Hartono et al., 2023; Goulder, 1995; IISD/GSI, 2025)*
+
+4. **Recommendations 3–5 — Fix the ETS, expand to peatland, coordinate regionally [~100 words]:** Before expanding the ETS to industry and forestry, auctions, a price floor, and stable annual rules are prerequisites; peatland restoration offers Indonesia's cheapest large-scale abatement opportunity; and ASEAN price coordination would weaken the competitiveness-leakage argument that keeps Indonesia's price low. *(ICAP, 2025; Tan et al., 2022; Andriansyah & Hong, 2022)*
+
+5. **The CBAM clincher — problem and fiscal perversity [~150 words]:** With CBAM entering definitive application on 1 January 2026, Indonesian steel (USD 726 million exported to EU in 2023) and aluminium face near-full CBAM certificate costs at ~€70–75/tCO2 because Indonesia's domestic price is ~USD 2/tCO2 — meaning Indonesia's "low price protects competitiveness" argument has inverted: by keeping the price near zero, Indonesia is handing carbon tax revenue to Brussels rather than collecting it itself. *(`raw/Chain task 9 search/DONE_Gap3`; ICAP, 2025)*
+
+6. **The CBAM prescription [~150 words]:** Raising the domestic carbon price to the Tony Blair Institute's USD 12–13/tCO2 benchmark — the marginal abatement cost for Indonesian coal retirement — would simultaneously reduce CBAM liability for steel and aluminium exporters and unlock Indonesia's largest and cheapest domestic abatement opportunity, converting climate ethics into fiscal self-interest and eliminating the core tension between the "downstreaming" industrial agenda and credible decarbonisation. *(Fursman, Dace & Macgeoch, 2025 (TBI); `raw/Chain task 9 search/DONE_Gap3`)*
+
+---
+
+### CONCLUSION (~300 words, 3 paragraphs)
+
+1. **Restate the thesis [~100 words]:** The ETS-first sequencing and perpetually deferred carbon tax are not policy failures — they are deliberate political-economy choices: free allocation protects industrial coalitions, credit exports generate state revenue without a domestic tax, and the price signal is calibrated below the level that would threaten the downstreaming agenda; the Hashim/Arsari conflict of interest is the personal face of a structural argument. *(Sunanda et al., 2025; ICAP, 2025; `raw/Chain task 9 search/DONE_Gap2`)*
+
+2. **Constructive close [~100 words]:** Indonesia already has the right hybrid design on paper — PR 110/2025 and the 2025 NDC contain the cap-tax-and-trade combination that the literature confirms outperforms either instrument alone — making the five Section 3 recommendations not proposals but Indonesia's own stated commitments waiting for enforcement. *(Lin & Jia, 2020; Sunanda et al., 2025)*
+
+3. **Forward gesture [~100 words]:** CBAM is the external lever that may finally align fiscal self-interest with domestic decarbonisation — and the deeper question, whether "policy on paper, hollow in practice" is a generalizable middle-income country pattern and whether external mechanisms are the only durable way to shift this equilibrium, remains open for future research. *(`raw/Chain task 9 search/DONE_Gap3`; Jakob & Steckel, 2014)*
+
+---
+
+## Chain task for Agent 12
+
+**If Bart has NOT yet written Sections 2 and 3:** Your job is to draft Section 2 ("How the ETS Actually Works", ~500 words) and Section 3 ("What Indonesia Should Do Now", ~1,000 words) using the paragraph skeleton above as your scaffold. One topic sentence per bullet becomes one full paragraph. Expand with evidence from the sources listed. Do NOT write the Introduction or Conclusion — Bart already has a draft introduction and the structure is clear. After drafting, note any claims you could not support with the local sources and suggest where Bart should verify.
+
+**If Bart HAS already written Sections 2 and 3:** Review his draft and flag: (a) any factual claims that contradict the source files in `raw/`, (b) any key arguments from the paragraph skeleton that were missed, (c) any citations that look incorrect. Do not rewrite — just annotate as a reviewer would. File your comments in `projects/Thematic seminar essay/wiki/synthesis/draft-review-notes.md`.
+
+*This file was last updated by Agent 11 on 2026-05-21. Consistency check passed. Paragraph skeleton and bibliography (`essay-bibliography.md`) added.*

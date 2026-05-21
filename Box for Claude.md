@@ -38,5 +38,9 @@ List of tasks:
 
    After (a), (b), (c): write a brief chain task for Agent 12 suggesting "draft Section 2 and Section 3 of the essay in full" if Bart hasn't written them himself, or "review Bart's draft and flag factual errors" if Bart has. Good luck.~~ ✅ Done 2026-05-21 — consistency check passed (thesis + intro both match argument-logic.md); paragraph skeleton added to essay-writing-tomorrow.md (14 paragraphs across Intro + 3 sections + Conclusion, one topic sentence + source per para); bibliography at `projects/Thematic seminar essay/wiki/synthesis/essay-bibliography.md` (all sources grouped by section, 7 sources flagged ⚠️ online-only). Chain task for Agent 12 written at bottom of essay-writing-tomorrow.md.
 
+12 I want to be able to open a pdf in obsidian, highlight text in it, write comments in it and then, after doing the extract highlights comment, an agent would go through all of these files, compile the highlights and my notes, create links back to the pdf - how is this doable? Additionally, the research agent doing argument frming etc for me could then reference specific pages from these pdfs and also have links to the passages it references or quotes
+
+
+
 
 

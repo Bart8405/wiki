@@ -164,6 +164,7 @@ If "all truth is relative to perspective" is itself absolutely true — contradi
 
 </details>
 
+%%TODO: FIX - You say that D is correct but then you pick option B...%%
 ---
 
 **Q3.** An "indexical" in language is a term that:

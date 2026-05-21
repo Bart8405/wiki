@@ -198,15 +198,15 @@ Also on ResearchGate: https://www.researchgate.net/publication/384719831
 
 ## Summary: Which to prioritise
 
-| Priority | Source | Why |
-|---|---|---|
-| **Read immediately** | 2.1 AMRO "Cap First, and Then Tax" | Directly answers thesis question 1 |
-| **Read immediately** | 1.6 IMF Carbon Taxes or ETS? (Parry et al. 2022) | Best policy comparison; widely cited |
-| **High** | 2.6 IEEFA "Two years after launch…" | Most current ETS performance data |
-| **High** | 1.1 World Bank State & Trends 2025 | Global benchmark; $100B milestone |
-| **Medium** | 2.2 Sembiring et al. 2025 (power sector modelling) | Quantifies the $2 vs. $63+ gap |
-| **Medium** | 2.3 "Delaying the Carbon Tax" law review | Legal-academic account of postponement |
-| **Medium** | 1.2 ADB Asia-Pacific Climate Report 2025 | Updates ADB 2024 already in raw/ |
-| **Lower** | 3.1 Tanaka et al. 2024 (tax vs. trade global review) | Complements Jia & Lin 2020 |
-| **Lower** | 1.3 ADB ETS background paper 2024 | Technical detail on ETS design |
-| **Skip for now** | Others | Good context but not core |
+| Priority             | Source                                               | Why                                    |
+| -------------------- | ---------------------------------------------------- | -------------------------------------- |
+| **Read immediately** | 2.1 AMRO "Cap First, and Then Tax"                   | Directly answers thesis question 1     |
+| **Read immediately** | 1.6 IMF Carbon Taxes or ETS? (Parry et al. 2022)     | Best policy comparison; widely cited   |
+| **High**             | 2.6 IEEFA "Two years after launch…"                  | Most current ETS performance data      |
+| **High**             | 1.1 World Bank State & Trends 2025                   | Global benchmark; $100B milestone      |
+| **Medium**           | 2.2 Sembiring et al. 2025 (power sector modelling)   | Quantifies the $2 vs. $63+ gap         |
+| **Medium**           | 2.3 "Delaying the Carbon Tax" law review             | Legal-academic account of postponement |
+| **Medium**           | 1.2 ADB Asia-Pacific Climate Report 2025             | Updates ADB 2024 already in raw/       |
+| **Lower**            | 3.1 Tanaka et al. 2024 (tax vs. trade global review) | Complements Jia & Lin 2020             |
+| **Lower**            | 1.3 ADB ETS background paper 2024                    | Technical detail on ETS design         |
+| **Skip for now**     | Others                                               | Good context but not core              |

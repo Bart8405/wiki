@@ -44,7 +44,7 @@ Indonesia spent **IDR 713.5 trillion (~USD 44 billion)** on energy subsidies in 
 | Coal price cap (implicit subsidy) | IDR 58.5 trillion |
 | Transport fuel subsidy | IDR 17.1 trillion |
 | **Total IDX Carbon transactions since Sept 2023 launch** | **IDR 78 billion (~USD 4.9 million)** |
-
+%%TODO: Take the new numbers from the newer energy subsidies report I posted into raw/New sources%%
 The ratio is not a rounding error — it is the structural argument. Indonesia simultaneously operates the world's largest fossil-fuel subsidy system relative to its carbon market *and* claims to price carbon.
 
 **For Objection 5 in the essay:** the OECD ECR finding that Indonesia's net effective carbon rate is negative is confirmed here. The fossil-fuel subsidy system cancels out — and then some — every signal the ETS and carbon tax try to send.

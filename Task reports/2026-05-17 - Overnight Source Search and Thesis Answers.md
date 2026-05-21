@@ -23,6 +23,8 @@ I searched Google Scholar, the World Bank's Open Knowledge Repository, the OECD,
 
 I found **14 new sources** that are not already in the bibliography. All 14 are freely accessible online (links provided).
 
+%%TODO: What is a good way for me to really easily find the sources you found? I think creating a link would make it much easier, could you do that?%%
+
 ### Key institutions — what they say
 
 **World Bank (State and Trends of Carbon Pricing 2025, June 2025):** Carbon pricing revenues exceeded $100 billion globally in 2024 for the first time. 80 instruments now operate worldwide (43 carbon taxes + 37 ETSs). 28% of global emissions covered. Indonesia's ETS expanded its coverage threshold in 2024. World Bank frames the $100B milestone as proof that carbon pricing is generating meaningful fiscal revenue — the revenue recycling argument for Indonesia is now backed by global precedent.

@@ -10,7 +10,7 @@ sources_consulted:
   - Indonesia Wiley/Asia & the Pacific Policy Studies: "Indonesia's energy transition: Dependency, subsidies and renewables"
 fetched: 2026-05-20
 ---
-
+%%TODO: text above shows in red%%
 # Gap 1 — IISD-GSI: Indonesia Fossil-Fuel Subsidy Political Economy
 
 *Synthesis note for Task 9 evidence-chase. Relates to Objection 5 in argument-logic.md §3.*

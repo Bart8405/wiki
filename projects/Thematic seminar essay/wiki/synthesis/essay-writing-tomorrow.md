@@ -174,7 +174,7 @@ Write this sharply:
 - No auctions; no allowance trading in 2025
 - Total IDX Carbon exchange transactions since launch (September 2023): IDR 78 billion (~USD 4.9 million)
 - Compare: Indonesia spent **IDR 713.5 trillion (~USD 44 billion)** on energy subsidies in 2024, of which 89% supported fossil fuels (IISD/GSI, 2025). The carbon market is roughly **8,000 times** smaller than the subsidy system it is supposed to offset.
-%%I really like bringing the s
+%%I really like bringing the subsidy debate and the comparison - this is a unique, good angle to take!%%
 - The result: Indonesia's **net effective carbon rate is likely negative** — once fuel subsidies are netted out, the implicit subsidy to fossil-fuel consumption exceeds the carbon price signal many times over (OECD ECR 2025)
 - Climate Action Tracker (December 2024) rates Indonesia: **"Critically Insufficient"**
 

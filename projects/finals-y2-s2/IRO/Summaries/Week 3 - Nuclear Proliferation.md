@@ -192,6 +192,32 @@ The canonical optimist-vs-pessimist debate, also covered in Heywood Ch.12.
 | International stability | "Useable" nuclear weapons (low-yield) |
 | Nuclear statesmanship | Irresponsible nuclear powers |
 
+### In-class survey results — knowledge check + framing experiment
+
+**Survey** (Feb 16, 2026, Denney): two parts — knowledge check on the readings + a randomised framing experiment on nuclear safety perception.
+
+**The framing experiment — does discourse shape perceptions of nuclear weapons?**
+
+Each respondent was randomly assigned one of three short passages before answering 5 Likert items about nuclear safety:
+
+- **Stability brief** (~33%): emphasised deterrence, the absence of nuclear war, "the long peace."
+- **Danger brief** (~33%): emphasised near-misses, accidents, the collapse of arms control.
+- **Control** (~33%): neutral factual overview of nuclear-weapon states and stockpiles.
+
+**Nuclear Safety Perception Score** (higher = nukes seen as more stabilising):
+
+| Condition | Mean | SE |
+|---|---|---|
+| Control | 2.68 | 0.14 |
+| Danger | 2.69 | 0.13 |
+| Stability | **2.42** | 0.09 |
+
+**Counter-intuitive result:** the *Stability* group reported the LOWEST nuclear-safety score, opposite to the simple "framing makes people agree with the framing" prediction. The Stability-vs-Danger comparison did not reach statistical significance after Bonferroni correction (p = 0.37, Cohen's d = 0.40, small effect).
+
+**Why the inversion?** Likely a *backlash effect* — when respondents are explicitly fed a "deterrence works, the long peace is real" narrative, they may *resist* it (especially after reading Sagan's pessimist case in the assigned readings). The Danger brief and the Control group both ended up roughly where they started; the Stability brief seems to have prompted respondents to push back. This is the constructivist insight with a twist: framing matters, but audiences also *resist* framings that contradict the evidence they've just read.
+
+**The lecture's takeaway:** how nuclear weapons are framed — as stabilising deterrents or existential threats — shapes how people evaluate them, but the effect is *not* uniformly in the direction of the frame. The meaning of weapons is socially constructed AND contested. Worth carrying into the Waltz–Sagan debate: how a national-security debate is *framed* shapes which side of the debate gains traction with publics and policymakers.
+
 **The unresolved question:** does nuclear deterrence make the world safer — or does each new nuclear state increase the risk of catastrophe?
 
 ### Section 6 — Controlling proliferation: the regime and its unravelling

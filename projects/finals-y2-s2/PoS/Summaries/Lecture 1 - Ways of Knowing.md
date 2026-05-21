@@ -67,15 +67,15 @@ German neo-Kantian philosopher, 1848–1915. Coined the **nomothetic/idiographic
 ### Multiple Choice Questions
 
 **Q1.** According to Windelband, the nomothetic approach is primarily characterised by:
-- A) Interpreting the meaning of unique, contingent events
-- B) Identifying regularities and formulating general laws
+- A) Identifying regularities and formulating general laws
+- B) Interpreting the meaning of unique, contingent events
 - C) Using qualitative fieldwork and thick description
 - D) Studying the biography of individual historical figures
 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) Identifying regularities and formulating general laws**
+**Correct: A) Identifying regularities and formulating general laws**
 
 The nomothetic approach (from Greek *nomos* = law) aims at discovering universal regularities, which is the hallmark of the natural sciences. Option A describes the *idiographic* approach. Options C and D are associated with the human sciences, not the nomothetic ideal.
 
@@ -120,13 +120,13 @@ The social sciences (of which sociology is one) are described as feeling the pul
 **Q4.** The Dutch *stikstofcrisis* is used in the lecture as an example of:
 - A) Why the idiographic approach is superior to the nomothetic
 - B) How quantitative methods outperform qualitative ones
-- C) Why complex problems require multidisciplinary knowledge
-- D) The limits of scientific laws in political contexts
+- C) The limits of scientific laws in political contexts
+- D) Why complex problems require multidisciplinary knowledge
 
 <details>
 <summary>Answer</summary>
 
-**Correct: C) Why complex problems require multidisciplinary knowledge**
+**Correct: D) Why complex problems require multidisciplinary knowledge**
 
 The nitrogen crisis requires chemistry, ecology, political science, economics, and history simultaneously — none alone is sufficient. The example makes the point that before combining disciplines you need to *recognise* what kind of knowledge each provides. It is not a comparison of nomothetic vs idiographic superiority.
 
@@ -135,15 +135,15 @@ The nitrogen crisis requires chemistry, ecology, political science, economics, a
 ---
 
 **Q5.** Freud's 150-page clinical study of "Little Hans" (1909) is mentioned in the lecture as an example of:
-- A) A nomothetic study within psychology
-- B) An idiographic study within psychology
+- A) An idiographic study within psychology
+- B) A nomothetic study within psychology
 - C) A multidisciplinary study combining psychology and history
 - D) An argument against the idiographic approach
 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) An idiographic study within psychology**
+**Correct: A) An idiographic study within psychology**
 
 The "Little Hans" case study focuses on one child's particular psychological experience in depth — the hallmark of the idiographic approach. It contrasts with psychometric/trait psychology, which is nomothetic. This example shows that even within *one* discipline (psychology) both approaches are used.
 
@@ -153,14 +153,14 @@ The "Little Hans" case study focuses on one child's particular psychological exp
 
 **Q6.** Which of the following is *not* listed in the lecture as a feature of the natural sciences?
 - A) Focus on universals and regularities
-- B) Mathematisation and abstraction
-- C) Intimate knowledge of particulars
+- B) Intimate knowledge of particulars
+- C) Mathematisation and abstraction
 - D) Assumption that the physical universe is uniform
 
 <details>
 <summary>Answer</summary>
 
-**Correct: C) Intimate knowledge of particulars**
+**Correct: B) Intimate knowledge of particulars**
 
 Intimate knowledge of particulars is the *highest form of knowledge* in the **human sciences**, not the natural sciences. The natural sciences aim for laws, mathematisation, and universality — the other three options.
 

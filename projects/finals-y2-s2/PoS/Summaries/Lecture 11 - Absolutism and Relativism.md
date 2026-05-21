@@ -134,9 +134,9 @@ The **Azande** are an agricultural people of northern Central Africa who consult
 
 **Q1.** According to the lecture, the correct way to formulate a relativist position is:
 - A) "I am a relativist" — a general stance against absolute truth
-- B) "I am a relativist *about property F*" — a specific claim about a specific property
+- B) "Science is relative to paradigm" — citing Kuhn as authority
 - C) "All knowledge is relative to culture" — a universal epistemic stance
-- D) "Science is relative to paradigm" — citing Kuhn as authority
+- D) "I am a relativist *about property F*" — a specific claim about a specific property
 
 <details>
 <summary>Answer</summary>
@@ -158,7 +158,7 @@ The lecture's foundational move: absolutism/relativism is not a single view — 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) Applying the claim "all truth is relative to perspective" to itself — which shows it cannot be asserted consistently**
+**Correct: D) "I am a relativist *about property F*" — a specific claim about a specific property**
 
 If "all truth is relative to perspective" is itself absolutely true — contradiction. If it is only relative to perspective, then from some perspectives it is false — it cannot serve as a general philosophical thesis. Either way, the claim defeats itself when applied to itself. This self-reference pattern is the lecture's clean refutation.
 
@@ -167,15 +167,15 @@ If "all truth is relative to perspective" is itself absolutely true — contradi
 ---
 
 **Q3.** An "indexical" in language is a term that:
-- A) Refers to an abstract property independent of any speaker
-- B) Changes its reference with the speaker, time, or place (e.g. "I," "here," "now")
+- A) Changes its reference with the speaker, time, or place (e.g. "I," "here," "now")
+- B) Refers to an abstract property independent of any speaker
 - C) Always refers to a culturally specific concept
 - D) Has no fixed meaning and therefore demonstrates relativism about truth
 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) Changes its reference with the speaker, time, or place (e.g. "I," "here," "now")**
+**Correct: A) Changes its reference with the speaker, time, or place (e.g. "I," "here," "now")**
 
 The lecture uses indexicals to diagnose *fake* relativism: "I teach philosophy of science" seems to be true when McAllister says it and false when a student says it. But the two utterances are *different propositions* (different referents for "I") — not the *same* proposition with a shifting truth-value. Many apparent cases of relativism about truth dissolve when indexicals are properly handled.
 
@@ -220,13 +220,13 @@ Lukes' intermediate position respects cultural difference without abandoning the
 **Q6.** How does the lecture's treatment of relativism about rationality relate to Kuhn (Lecture 6)?
 - A) Kuhn argued for absolutism about rationality — one method fits all paradigms
 - B) Kuhn's five epistemic values in *The Essential Tension* commit him to strong relativism about rationality
-- C) Early Kuhn (incommensurability, each paradigm has its own standards) is essentially a relativist about rationality
-- D) Kuhn has no relevance to the absolutism/relativism debate
+- C) Kuhn has no relevance to the absolutism/relativism debate
+- D) Early Kuhn (incommensurability, each paradigm has its own standards) is essentially a relativist about rationality
 
 <details>
 <summary>Answer</summary>
 
-**Correct: C) Early Kuhn (incommensurability, each paradigm has its own standards) is essentially a relativist about rationality**
+**Correct: D) Early Kuhn (incommensurability, each paradigm has its own standards) is essentially a relativist about rationality**
 
 Kuhn's claim in *The Structure of Scientific Revolutions* that each paradigm has its own incommensurable form of rationality, with no paradigm-neutral criteria for theory choice, is precisely relativism about rationality — a reasoning style's rationality is relative to its paradigm. His 1977 *Essential Tension* (five epistemic values) is a partial *retreat* from this relativism.
 

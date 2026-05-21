@@ -125,13 +125,13 @@ This is the core logical point. "H entails O; O is true; therefore H is true" is
 **Q2.** According to Popper, what distinguishes science from pseudo-science?
 - A) Science uses mathematical equations; pseudo-science does not
 - B) Science makes predictions; pseudo-science makes only retroactive claims
-- C) Scientific claims are falsifiable; pseudo-scientific claims are not
-- D) Science accumulates truths; pseudo-science accumulates errors
+- C) Science accumulates truths; pseudo-science accumulates errors
+- D) Scientific claims are falsifiable; pseudo-scientific claims are not
 
 <details>
 <summary>Answer</summary>
 
-**Correct: C) Scientific claims are falsifiable; pseudo-scientific claims are not**
+**Correct: D) Scientific claims are falsifiable; pseudo-scientific claims are not**
 
 This is Popper's demarcation criterion. If practitioners of a discipline can specify what observations would refute their claims, the discipline is scientific. If claims are framed vaguely enough that no observation could refute them (astrology's horoscopes, some forms of psychoanalysis), the discipline is pseudo-scientific. Falsifiability is about the *logical structure* of claims, not whether they are expressed in equations.
 
@@ -140,15 +140,15 @@ This is Popper's demarcation criterion. If practitioners of a discipline can spe
 ---
 
 **Q3.** A scientist adds a new auxiliary assumption to save her theory from a failed prediction. Popper called this:
-- A) Corroboration — a legitimate strengthening of the theory
-- B) An ad hoc modification — which he disapproved of
+- A) An ad hoc modification — which he disapproved of
+- B) Corroboration — a legitimate strengthening of the theory
 - C) The context of discovery — creative but scientifically irrelevant
 - D) A falsification — the theory has been refuted and should be discarded
 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) An ad hoc modification — which he disapproved of**
+**Correct: A) An ad hoc modification — which he disapproved of**
 
 Popper disapproved of *ad hoc* modifications because they protect a theory from refutation rather than subjecting it to genuine tests. However, one of the criticisms of falsificationism noted in the lecture is that scientists *do* make ad hoc modifications productively all the time — Popper's strict rule does not match actual scientific practice.
 
@@ -175,14 +175,14 @@ Popper characterises scientific knowledge in *negative* terms — what we've man
 
 **Q5.** Which of the following is the most serious criticism of Popper's falsificationism for social science?
 - A) Social-science hypotheses are too mathematical for the falsifiability test
-- B) Statistical and probabilistic hypotheses cannot be falsified by a single counter-instance
-- C) Social scientists are not creative enough to generate bold conjectures
+- B) Social scientists are not creative enough to generate bold conjectures
+- C) Statistical and probabilistic hypotheses cannot be falsified by a single counter-instance
 - D) Falsificationism requires social scientists to abandon all qualitative methods
 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) Statistical and probabilistic hypotheses cannot be falsified by a single counter-instance**
+**Correct: C) Statistical and probabilistic hypotheses cannot be falsified by a single counter-instance**
 
 "Income correlates with health" is a typical social-science claim. One rich sick person does not falsify it. Popper's strict falsifiability criterion ends up ruling out large swathes of social science that work with probabilistic, statistical relationships. Options A and C are not standard criticisms of Popper. Option D is a consequence that follows from applying Popper, but it is not the *reason* why falsificationism fails for social science.
 
@@ -192,14 +192,14 @@ Popper characterises scientific knowledge in *negative* terms — what we've man
 
 **Q6.** The "context of discovery" in Popper's philosophy of science refers to:
 - A) The empirical tests scientists use to confirm hypotheses
-- B) The phase where hypotheses are freely conjectured — no rules, just creativity
+- B) The historical narrative by which a discovery was made, which justifies the hypothesis
 - C) The professional consensus that a hypothesis deserves testing
-- D) The historical narrative by which a discovery was made, which justifies the hypothesis
+- D) The phase where hypotheses are freely conjectured — no rules, just creativity
 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) The phase where hypotheses are freely conjectured — no rules, just creativity**
+**Correct: D) The phase where hypotheses are freely conjectured — no rules, just creativity**
 
 Popper strictly separates the context of discovery (where a hypothesis *comes from* — dreams, hunches, observations — is scientifically irrelevant) from the context of *justification* (where hypotheses are rigorously tested). The origin of a hypothesis does not justify it; only surviving genuine attempts at falsification does. Option D is a common confusion — for Popper, the historical genesis of a claim is irrelevant to its justification.
 

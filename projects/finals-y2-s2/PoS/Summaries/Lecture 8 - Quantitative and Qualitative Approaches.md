@@ -125,15 +125,15 @@ Political scientists; co-authors of *A Tale of Two Cultures: Contrasting Qualita
 ### Multiple Choice Questions
 
 **Q1.** The primary distinction between quantitative and qualitative methods, according to the lecture, is:
-- A) Quantitative methods use numbers; qualitative methods use words
-- B) Quantitative methods perform cross-case analysis; qualitative methods perform within-case analysis
+- A) Quantitative methods perform cross-case analysis; qualitative methods perform within-case analysis
+- B) Quantitative methods use numbers; qualitative methods use words
 - C) Quantitative methods are nomothetic; qualitative methods are idiographic
 - D) Quantitative methods are scientific; qualitative methods are humanistic
 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) Quantitative methods perform cross-case analysis; qualitative methods perform within-case analysis**
+**Correct: A) Quantitative methods perform cross-case analysis; qualitative methods perform within-case analysis**
 
 The lecture explicitly flags that the numbers/words distinction is *misleading*. The deeper distinction is the direction and unit of analysis: quantitative collects few variables from many cases and finds patterns across cases; qualitative collects many variables from few cases and reconstructs causal pathways *within* cases. Option C is a common conflation the lecture warns against.
 
@@ -160,14 +160,14 @@ Forward inference: we know intervention T occurred — what was its effect? This
 
 **Q3.** Theda Skocpol's *States and Social Revolutions* (1979) is cited in the lecture as a canonical example of:
 - A) A large-N quantitative study of political revolutions
-- B) A case-study approach using three cases (France, Russia, China) to understand revolutions in general
-- C) A study that applies Hempel's DN model to historical events
+- B) A study that applies Hempel's DN model to historical events
+- C) A case-study approach using three cases (France, Russia, China) to understand revolutions in general
 - D) An example of why case studies cannot produce generalisable findings
 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) A case-study approach using three cases (France, Russia, China) to understand revolutions in general**
+**Correct: C) A case-study approach using three cases (France, Russia, China) to understand revolutions in general**
 
 Skocpol intensively studied three revolutions with the explicit *goal* of understanding revolutions in general — not just those three. This is the defining characteristic of qualitative/case-study method: Small N with the aspiration of illuminating a larger class. Option D contradicts the lecture's point: case studies are a legitimate way to generate claims about larger classes.
 
@@ -177,14 +177,14 @@ Skocpol intensively studied three revolutions with the explicit *goal* of unders
 
 **Q4.** "Internal validity" refers to:
 - A) The degree to which a study's findings generalise beyond the case studied
-- B) The degree to which a study's findings are warranted for the specific case studied
+- B) The degree to which a study uses rigorous statistical methods
 - C) The logical consistency of a study's theoretical framework
-- D) The degree to which a study uses rigorous statistical methods
+- D) The degree to which a study's findings are warranted for the specific case studied
 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) The degree to which a study's findings are warranted for the specific case studied**
+**Correct: D) The degree to which a study's findings are warranted for the specific case studied**
 
 Internal validity = trust in the finding *for the case you studied*. External validity = trust that the finding generalises beyond the case. Qualitative methods tend to score high on internal validity (deep knowledge of one case) but lower on external validity (hard to generalise from one case). Quantitative methods tend to have the inverse profile.
 
@@ -193,15 +193,15 @@ Internal validity = trust in the finding *for the case you studied*. External va
 ---
 
 **Q5.** Which phase of the empirical cycle is qualitative research *best* suited to?
-- A) Hypothesis testing — confirming or disconfirming a predicted correlation
+- A) Hypothesis generation — identifying candidate causal mechanisms through in-depth study
 - B) Theory application — applying a confirmed theory to new cases
-- C) Hypothesis generation — identifying candidate causal mechanisms through in-depth study
+- C) Hypothesis testing — confirming or disconfirming a predicted correlation
 - D) Data collection — gathering large amounts of numerical data efficiently
 
 <details>
 <summary>Answer</summary>
 
-**Correct: C) Hypothesis generation — identifying candidate causal mechanisms through in-depth study**
+**Correct: A) Hypothesis generation — identifying candidate causal mechanisms through in-depth study**
 
 Qualitative methods are strong at hypothesis generation because deep knowledge of a few cases allows researchers to identify which variables matter and how they relate causally. They are weaker at hypothesis *testing* because a single case is a poor basis for testing a general hypothesis (vulnerable to selection bias and cherry-picking critique).
 

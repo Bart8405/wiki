@@ -108,14 +108,14 @@ Scottish Enlightenment philosopher and historian (1711–1776), Edinburgh. His *
 
 **Q1.** What does it mean to say that induction is "ampliative"?
 - A) Inductive conclusions are logically guaranteed by their premises
-- B) Inductive conclusions go beyond what is contained in the premises
-- C) Inductive reasoning amplifies the certainty of deductive conclusions
+- B) Inductive reasoning amplifies the certainty of deductive conclusions
+- C) Inductive conclusions go beyond what is contained in the premises
 - D) Inductive reasoning is only valid when sample sizes are large
 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) Inductive conclusions go beyond what is contained in the premises**
+**Correct: C) Inductive conclusions go beyond what is contained in the premises**
 
 "Ampliative" means the conclusion says more than the premises — you observe some swans and conclude *all* swans are white. Option A describes *deduction*, not induction. Induction is valuable precisely *because* it ampliates (extends knowledge), but this is also its weakness: the next observation can always refute it.
 
@@ -126,13 +126,13 @@ Scottish Enlightenment philosopher and historian (1711–1776), Edinburgh. His *
 **Q2.** Hume's problem of induction concludes that:
 - A) Induction is reliable when used on large samples
 - B) Induction can be justified deductively through first principles
-- C) There is no logical justification for inductive generalisation
-- D) Induction is the most reliable form of reasoning available
+- C) Induction is the most reliable form of reasoning available
+- D) There is no logical justification for inductive generalisation
 
 <details>
 <summary>Answer</summary>
 
-**Correct: C) There is no logical justification for inductive generalisation**
+**Correct: D) There is no logical justification for inductive generalisation**
 
 Hume shows that justifying induction *inductively* is circular (using the method to justify itself) and justifying it *deductively* is impossible (deduction cannot license ampliative conclusions). His conclusion: induction is at best a psychological tendency, not a logically justified method.
 
@@ -141,15 +141,15 @@ Hume shows that justifying induction *inductively* is circular (using the method
 ---
 
 **Q3.** Duverger's law states that:
-- A) Democratic states do not wage war with one another
-- B) Plurality-rule electoral systems tend to produce two-party parliaments
+- A) Plurality-rule electoral systems tend to produce two-party parliaments
+- B) Democratic states do not wage war with one another
 - C) The volume of bilateral trade is proportional to the economic size of countries divided by distance
 - D) Languages acquire basic colour terms in a universal sequence
 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) Plurality-rule electoral systems tend to produce two-party parliaments**
+**Correct: A) Plurality-rule electoral systems tend to produce two-party parliaments**
 
 This is Duverger's law (Maurice Duverger, 1950s): first-past-the-post systems → two-party systems (UK, US); proportional representation → multiparty systems (Netherlands, Belgium). Option A is the democratic peace theory. Option C is Tinbergen's gravity model. Option D is Berlin and Kay's colour-term principle.
 
@@ -159,14 +159,14 @@ This is Duverger's law (Maurice Duverger, 1950s): first-past-the-post systems �
 
 **Q4.** The "regularity view" of scientific laws holds that:
 - A) Laws describe necessary relations that must hold in all possible worlds
-- B) Laws describe only the most statistically frequent events
-- C) The world contains just events; laws are generalisations describing empirical regularities
+- B) The world contains just events; laws are generalisations describing empirical regularities
+- C) Laws describe only the most statistically frequent events
 - D) Laws are social conventions agreed upon by scientists
 
 <details>
 <summary>Answer</summary>
 
-**Correct: C) The world contains just events; laws are generalisations describing empirical regularities**
+**Correct: B) The world contains just events; laws are generalisations describing empirical regularities**
 
 The regularity view says there are no necessary connections in the world — just events that happen to follow patterns. Important generalisations describing those patterns we call "laws." Option A describes the *necessity view*, which holds that laws describe genuinely necessary (not just actual) regularities.
 
@@ -176,14 +176,14 @@ The regularity view says there are no necessary connections in the world — jus
 
 **Q5.** The "pragmatic warrant" offered by Reichenbach and Braithwaite in response to Hume's problem is best described as:
 - A) A logical proof that inductive conclusions are always true
-- B) An argument that induction is the fastest strategy if the world has regularities, even though it cannot be logically proved
-- C) A demonstration that the problem of induction can be dissolved by switching to deductive methods
+- B) A demonstration that the problem of induction can be dissolved by switching to deductive methods
+- C) An argument that induction is the fastest strategy if the world has regularities, even though it cannot be logically proved
 - D) A claim that Hume's argument contains a logical error
 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) An argument that induction is the fastest strategy if the world has regularities, even though it cannot be logically proved**
+**Correct: C) An argument that induction is the fastest strategy if the world has regularities, even though it cannot be logically proved**
 
 The pragmatic response does not *disprove* Hume — it accepts his verdict on logic and argues that *if* the world has regularities, induction will detect them as well as any other method. If the world has no regularities, *nothing* will work. So we lose nothing by using induction. This saves the practice without saving the logic.
 
@@ -193,14 +193,14 @@ The pragmatic response does not *disprove* Hume — it accepts his verdict on lo
 
 **Q6.** The democratic peace theory (that democracies do not wage war with one another) is cited in the lecture as:
 - A) An example of the idiographic approach applied to IR
-- B) The closest thing to an empirical law in International Relations
+- B) A deductive theorem derived from Kant's theory of sovereignty
 - C) A falsified law that Popper's falsificationism correctly predicted
-- D) A deductive theorem derived from Kant's theory of sovereignty
+- D) The closest thing to an empirical law in International Relations
 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) The closest thing to an empirical law in International Relations**
+**Correct: D) The closest thing to an empirical law in International Relations**
 
 The lecture describes democratic peace theory as inspired by Kant's *Perpetual Peace* (1795) and as the most law-like claim in IR — a universal generalisation about state behaviour. It is *not* falsified (option C) — it is presented as one of the more robust social-science laws.
 

@@ -104,14 +104,14 @@ British philosopher of science (1924–2016). Professor of Philosophy of Science
 
 **Q1.** In the structure of a scientific analogy, what is the difference between a "mapping" and "relations"?
 - A) A mapping transfers content; relations are a term-by-term translation with no content
-- B) A mapping is a term-by-term translation; relations are structural claims that hold in both domains
-- C) A mapping applies only to physical domains; relations apply to abstract domains
+- B) A mapping applies only to physical domains; relations apply to abstract domains
+- C) A mapping is a term-by-term translation; relations are structural claims that hold in both domains
 - D) A mapping specifies the negative analogy; relations specify the positive analogy
 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) A mapping is a term-by-term translation; relations are structural claims that hold in both domains**
+**Correct: C) A mapping is a term-by-term translation; relations are structural claims that hold in both domains**
 
 The lecture is explicit: a mapping *alone* is just a translation — it says "X in domain A corresponds to Y in domain B" without yet saying anything about either domain. Relations add the substantive content — claims like "X causes Y in both domains" that travel across the mapping. Without relations, an analogy has no cognitive purchase.
 
@@ -122,13 +122,13 @@ The lecture is explicit: a mapping *alone* is just a translation — it says "X 
 **Q2.** Mary Hesse's "neutral analogy" is defined as:
 - A) Relations known to hold in neither the source nor the target domain
 - B) Relations known to hold in both the source and target domains
-- C) Relations known to hold in the source but not yet known whether they hold in the target
-- D) Relations known to hold in the target but not yet mapped to the source
+- C) Relations known to hold in the target but not yet mapped to the source
+- D) Relations known to hold in the source but not yet known whether they hold in the target
 
 <details>
 <summary>Answer</summary>
 
-**Correct: C) Relations known to hold in the source but not yet known whether they hold in the target**
+**Correct: D) Relations known to hold in the source but not yet known whether they hold in the target**
 
 The neutral analogy is the engine of discovery: it generates new research questions by asking "does this known feature of the source also apply to the target?" Water waves travel through a medium — do light waves? (Turned out: negative analogy. Ether doesn't exist.) This is what makes analogical reasoning *productive* rather than merely decorative.
 
@@ -172,14 +172,14 @@ The MONIAC is a physical machine: tanks = sectors of the economy, pipes = financ
 
 **Q5.** The organic analogy of society (Spencer, Durkheim) establishes which relation?
 - A) The whole is less than the sum of parts; parts compete for resources
-- B) The whole is greater than the sum of parts; parts work together for the whole; understanding a part requires showing its function
-- C) Societies, like organisms, must inevitably decay and die
+- B) Societies, like organisms, must inevitably decay and die
+- C) The whole is greater than the sum of parts; parts work together for the whole; understanding a part requires showing its function
 - D) Social institutions are analogous to atoms, not organs
 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) The whole is greater than the sum of parts; parts work together for the whole; understanding a part requires showing its function**
+**Correct: C) The whole is greater than the sum of parts; parts work together for the whole; understanding a part requires showing its function**
 
 These are the relations that travel across the organism → society mapping in functionalist sociology. Understanding an institution means showing what it *does for* the society (its function), just as understanding an organ means showing what it does for the organism. Option C is a *neutral analogy* (organisms age and die — do societies?) that hasn't been resolved.
 
@@ -189,14 +189,14 @@ These are the relations that travel across the organism → society mapping in f
 
 **Q6.** The "instrumentalist stance" toward scientific models holds that:
 - A) Models should be evaluated as true or false, like theoretical claims
-- B) Models should be evaluated as adequate or inadequate tools for specific purposes
+- B) Models are only valid if they accurately represent every feature of the target domain
 - C) Models that idealise reality are scientifically illegitimate
-- D) Models are only valid if they accurately represent every feature of the target domain
+- D) Models should be evaluated as adequate or inadequate tools for specific purposes
 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) Models should be evaluated as adequate or inadequate tools for specific purposes**
+**Correct: D) Models should be evaluated as adequate or inadequate tools for specific purposes**
 
 The instrumentalist stance treats models as tools — like maps. A map that reproduces every detail would be useless. Models deliberately simplify (idealise). The right question is not "is this model true?" but "is this model adequate for the job?" The Bohr atom model is the canonical case: false, but adequate for many purposes.
 

@@ -120,14 +120,14 @@ German historian and philosopher (1833–1911), University of Berlin. Protagonis
 
 **Q1.** Dilthey's *Verstehen* is best translated and characterised as:
 - A) Causal explanation of natural phenomena through covering laws
-- B) Empathetic, interpretive grasping of the meaning of mental phenomena
-- C) Statistical analysis of human behaviour across large populations
+- B) Statistical analysis of human behaviour across large populations
+- C) Empathetic, interpretive grasping of the meaning of mental phenomena
 - D) Formal logical derivation of human behaviour from first principles
 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) Empathetic, interpretive grasping of the meaning of mental phenomena**
+**Correct: C) Empathetic, interpretive grasping of the meaning of mental phenomena**
 
 *Verstehen* (German: "to understand") is Dilthey's method for the human sciences — it simultaneously identifies *and* understands mental phenomena by grasping their meaning. Option A describes *Erklären* (causal explanation, the natural-science method). Options C and D are quantitative/deductive methods, not *Verstehen*.
 
@@ -137,14 +137,14 @@ German historian and philosopher (1833–1911), University of Berlin. Protagonis
 
 **Q2.** "Relationality," as discussed in the lecture, means that:
 - A) Social phenomena can be explained by the relations between economic factors
-- B) Mental phenomena cannot be identified by ostension alone — their identity is constituted by the meanings ascribed to them
+- B) Scientific knowledge must always relate individual cases to general laws
 - C) Human behaviour can always be related to physical causes
-- D) Scientific knowledge must always relate individual cases to general laws
+- D) Mental phenomena cannot be identified by ostension alone — their identity is constituted by the meanings ascribed to them
 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) Mental phenomena cannot be identified by ostension alone — their identity is constituted by the meanings ascribed to them**
+**Correct: D) Mental phenomena cannot be identified by ostension alone — their identity is constituted by the meanings ascribed to them**
 
 You cannot point at a "gift" and have the pointing pick out the gift without already understanding what gifting means. Two people exchanging a box could be performing a gift, a bribe, a payment, an apology — the physical act is the same; the meaning constitutes the difference. This contrasts with natural phenomena, which can be picked out by ostension and explained *after* identification.
 
@@ -153,15 +153,15 @@ You cannot point at a "gift" and have the pointing pick out the gift without alr
 ---
 
 **Q3.** "Purposiveness" as a distinctive feature of human action means that:
-- A) Human actions can be fully explained by tracing their physical causes
-- B) Human actions are directed toward goals, and making sense of them requires citing reasons — not just causes
+- A) Human actions are directed toward goals, and making sense of them requires citing reasons — not just causes
+- B) Human actions can be fully explained by tracing their physical causes
 - C) All human actions are purposively designed to maximise utility
 - D) Natural phenomena also have purposes — Aristotelian teleology applies universally
 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) Human actions are directed toward goals, and making sense of them requires citing reasons — not just causes**
+**Correct: A) Human actions are directed toward goals, and making sense of them requires citing reasons — not just causes**
 
 The apology example: citing the physical cause (vocal cords vibrated because I arrived late) misses the point. The *reason* — "in order to express regret" — is essential and essentially normative. Modern natural science abandoned teleology (purposes). Human science cannot — it lives in a space of reasons and norms, not just causes.
 
@@ -188,8 +188,8 @@ Any cultural phenomenon you try to interpret has already been interpreted by oth
 
 **Q5.** Dilthey argues that Kuhnian scientific revolutions are *less applicable* to the human sciences than to the natural sciences. Why?
 - A) Human sciences don't have enough data to undergo paradigm shifts
-- B) Human scientists are more conservative and resistant to change
-- C) Human sciences rely on everyday descriptions to *identify* their phenomena — those descriptions cannot be replaced wholesale
+- B) Human sciences rely on everyday descriptions to *identify* their phenomena — those descriptions cannot be replaced wholesale
+- C) Human scientists are more conservative and resistant to change
 - D) Human sciences already operate under multiple incommensurable paradigms simultaneously
 
 <details>
@@ -212,7 +212,7 @@ Physics can replace "solid object" with "lattice of atoms in mostly empty space"
 <details>
 <summary>Answer</summary>
 
-**Correct: B) Natural phenomena can be identified by ostension (pointing) before explanation; mental phenomena require preliminary understanding of meaning before they can be identified**
+**Correct: C) Human scientists are more conservative and resistant to change**
 
 This is the core asymmetry. Point at a falling stone and *then* explain it. But you cannot point at a "bribe" without already understanding what bribing means — the meaning is what makes the act a bribe rather than a gift, a payment, or a threat.
 

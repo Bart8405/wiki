@@ -109,15 +109,15 @@ German-born philosopher (1905–1997). PhD Berlin 1934; emigrated and worked at 
 ### Multiple Choice Questions
 
 **Q1.** In Hempel's Deductive-Nomological (DN) model, an explanation is defined as:
-- A) A narrative story that leads logically to the explanandum
-- B) A valid deductive argument from true premises that include at least one scientific law
+- A) A valid deductive argument from true premises that include at least one scientific law
+- B) A narrative story that leads logically to the explanandum
 - C) A probabilistic argument showing the explanandum had high likelihood
 - D) A causal chain of events leading to the outcome
 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) A valid deductive argument from true premises that include at least one scientific law**
+**Correct: A) A valid deductive argument from true premises that include at least one scientific law**
 
 The DN model requires three things: (1) valid deductive form, (2) true premises, (3) at least one law (the "N" in DN = nomological = law-governed) among the premises. Option C describes the IS (Inductive-Statistical) model. Option D sounds like a causal-mechanical model (Salmon). Option A is closer to a narrative explanation.
 
@@ -161,14 +161,14 @@ The same geometry equation that explains the shadow's length from the flagpole's
 
 **Q4.** The "paresis" counterexample challenges the *Inductive-Statistical* (IS) model by showing that:
 - A) Statistical explanations can run backwards from effects to causes
-- B) A good explanation can cite a cause even when the probability of the outcome is less than 0.5
+- B) Probabilistic claims cannot be tested empirically
 - C) The IS model is too permissive — it accepts irrelevant information
-- D) Probabilistic claims cannot be tested empirically
+- D) A good explanation can cite a cause even when the probability of the outcome is less than 0.5
 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) A good explanation can cite a cause even when the probability of the outcome is less than 0.5**
+**Correct: D) A good explanation can cite a cause even when the probability of the outcome is less than 0.5**
 
 Untreated syphilis is the *only* known cause of paresis, yet only ~30% of patients with untreated syphilis develop paresis. The IS model says "high probability" is required — but 30% is not high. The IS model therefore wrongly rejects "untreated syphilis" as an explanation for paresis. The flaw: IS is *too restrictive* — it excludes good causal explanations that have low probability.
 
@@ -177,15 +177,15 @@ Untreated syphilis is the *only* known cause of paresis, yet only ~30% of patien
 ---
 
 **Q5.** Wesley Salmon's causal-mechanical model (1984) holds that an explanation of event E consists of:
-- A) A covering law and particular initial conditions
+- A) A description of the causal processes and interactions that led to E
 - B) Showing that E had high statistical probability
-- C) A description of the causal processes and interactions that led to E
+- C) A covering law and particular initial conditions
 - D) An account of how E contributes to a functional goal
 
 <details>
 <summary>Answer</summary>
 
-**Correct: C) A description of the causal processes and interactions that led to E**
+**Correct: A) A description of the causal processes and interactions that led to E**
 
 Salmon's model requires tracing the actual causal chain: identifying the *processes* (continuous physical processes able to transmit a mark — e.g. the ball flying through space) and *interactions* (spatio-temporal intersections that modify both processes — e.g. the bat hitting the ball). Options A and B describe Hempel's DN/IS models. Option D describes the functional model.
 

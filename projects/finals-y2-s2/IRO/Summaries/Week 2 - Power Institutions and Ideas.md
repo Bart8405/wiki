@@ -3,7 +3,6 @@ tags: [iro, international-relations, lecture-2, realism, liberalism, constructiv
 sources: [raw/WEEK 2/LEC2.pdf, raw/WEEK 2/Anarchy is what states make of it.pdf, raw/WEEK 2/Mearsheimer-BoundFail-2019.pdf]
 updated: 2026-05-19
 ---
-%%TODO: Why is there no survey information in this summary? As I said, definitely include the surveys whenever possible because thats the most crucial information%%
 # Week 2 — Power, Institutions, and Ideas: Traditional IR Theories
 
 *The three traditional schools of IR theory — realism, liberalism, constructivism — what they assume, what they explain well, and how they read the same events (Ukraine-Russia, US-China, NATO) differently.*
@@ -188,6 +187,46 @@ Mearsheimer (2019) — a leading realist's critique of the LIO:
 | **Realism** | Power competition, security dilemmas, alliance formation | Cooperation, norm change, why democracies rarely fight each other |
 | **Liberalism** | Institutional cooperation, trade peace, democratic peace | Why institutions sometimes fail, why liberal orders collapse |
 | **Constructivism** | Identity politics, norm diffusion, how perceptions shape conflict | Predicting specific outcomes, material constraints on state action |
+
+### In-class survey results — knowledge check + framing experiment
+
+**Survey:** n = 143 BAIS students (Feb 9, 2026). Two parts — knowledge check on the readings + a randomised framing experiment.
+
+**Knowledge-check highlights (correct-answer rates):**
+
+| Q | Concept | Correct |
+|---|---|---|
+| Realism: international politics driven by ... | Power and pursuit of national interest | **85%** |
+| Classical realism (Morgenthau): drive for power stems from ... | Human nature | 55% |
+| Neorealism (Waltz): state behaviour shaped by ... | Anarchic structure of the international system | 62% |
+| Key difference realism vs liberalism | Realists see cooperation as difficult; liberals say institutions and interdependence make it possible | **83%** |
+| Positivist epistemology means ... | World can be studied objectively; patterns observable and measurable | 61% |
+| Core concern of liberalism | Role of institutions and economic interdependence in promoting cooperation | **78%** |
+| Core concern of constructivism | How ideas, identities, and norms shape state behaviour | 72% |
+| Wendt's "anarchy is what states make of it" means ... | Consequences of anarchy depend on how states interact and perceive each other | **78%** |
+| Mearsheimer (2019): the liberal international order ... | Was destined to fail because it required liberal hegemony, provoking nationalist backlash | 74% |
+
+*The weakest answer was on classical realism's human-nature root (only 55%) — worth nailing this for the exam.*
+
+**The framing experiment — does discourse shape perceptions?**
+
+Each respondent was randomly assigned one of three short analyst briefs about US-China relations before answering 5 Likert items about likelihood of cooperation:
+
+- **Hobbesian brief** (~33%): emphasised rivalry, military competition, historical precedent for great-power conflict.
+- **Lockean brief** (~33%): emphasised diplomatic channels, economic interdependence, cooperation.
+- **Control** (~33%): no brief — straight to questions.
+
+**Cooperation Perception Score** (1 = least cooperative, 5 = most cooperative):
+
+| Condition | Mean | N |
+|---|---|---|
+| Lockean | **2.77** | 55 |
+| Control | 2.73 | 43 |
+| Hobbesian | **2.65** | 45 |
+
+*Direction matches the constructivist prediction* (Lockean framing → higher cooperation perception; Hobbesian → lower) but the Hobbesian-vs-Lockean difference did NOT reach statistical significance after Bonferroni correction (p = 0.71, Cohen's d = 0.24, small effect).
+
+**The lecture's takeaway for the exam:** even with weak statistical effects, the *direction* is consistent with Wendt — a short paragraph can shift how people perceive the likelihood of cooperation between two states. That's the constructivist insight in miniature: *"if anarchy is what states make of it,"* discourse and framing are doing real work in international politics. Denney's framing for class discussion: *"Is anarchy really what states make of it?"*
 
 ---
 

@@ -106,15 +106,15 @@ His one book that mattered: ***The Structure of Scientific Revolutions*** (1962;
 ### Multiple Choice Questions
 
 **Q1.** According to Kuhn, "normal science" is best described as:
-- A) Science conducted without any theoretical assumptions
-- B) Puzzle-solving within a shared paradigm, where fundamental assumptions remain unquestioned
+- A) Puzzle-solving within a shared paradigm, where fundamental assumptions remain unquestioned
+- B) Science conducted without any theoretical assumptions
 - C) The critical testing of bold hypotheses, as Popper described
 - D) The period of crisis during which paradigm replacement becomes likely
 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) Puzzle-solving within a shared paradigm, where fundamental assumptions remain unquestioned**
+**Correct: A) Puzzle-solving within a shared paradigm, where fundamental assumptions remain unquestioned**
 
 Normal science is the long, productive phase where scientists work within an accepted framework, solving puzzles by imitating exemplars. The defining feature is that the paradigm's foundational assumptions are *not* questioned — anomalies are accommodated, not treated as threats. Option C describes Popper's picture; option D describes the *revolutionary* phase.
 
@@ -141,14 +141,14 @@ Theory-ladenness is Kuhn's claim that "pure" observation does not exist — ever
 
 **Q3.** Kuhn's concept of "incommensurability" between paradigms refers to:
 - A) The fact that successive paradigms always represent genuine scientific progress
-- B) The impossibility of directly comparing, translating, or ranking successive paradigms on shared criteria
-- C) The inability of scientists in different disciplines to communicate with each other
+- B) The inability of scientists in different disciplines to communicate with each other
+- C) The impossibility of directly comparing, translating, or ranking successive paradigms on shared criteria
 - D) The difficulty of finding enough evidence to decide between rival theories
 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) The impossibility of directly comparing, translating, or ranking successive paradigms on shared criteria**
+**Correct: C) The impossibility of directly comparing, translating, or ranking successive paradigms on shared criteria**
 
 Incommensurability (borrowed from geometry: no common measure between √2 and rational numbers) means there is no paradigm-neutral standpoint from which to rank Newtonian and quantum physics. The term comes from the absence of a *common measure*. Option C confuses paradigm-incommensurability with general communication failure. Option D is an evidential problem, not what Kuhn means.
 
@@ -158,14 +158,14 @@ Incommensurability (borrowed from geometry: no common measure between √2 and r
 
 **Q4.** The transition from classical to quantum physics (1925–1930) is used in the lecture to illustrate which of Kuhn's claims?
 - A) That scientific revolutions are fully rationally justifiable transitions
-- B) That scientific revolutions involve conservative and progressive factions, neither of which is fully forced by logic to switch
+- B) That Popper's falsificationism correctly explains how the old paradigm was abandoned
 - C) That paradigm change always follows the accumulation of confirming evidence
-- D) That Popper's falsificationism correctly explains how the old paradigm was abandoned
+- D) That scientific revolutions involve conservative and progressive factions, neither of which is fully forced by logic to switch
 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) That scientific revolutions involve conservative and progressive factions, neither of which is fully forced by logic to switch**
+**Correct: D) That scientific revolutions involve conservative and progressive factions, neither of which is fully forced by logic to switch**
 
 Einstein and Schrödinger (conservatives) wanted to preserve determinism and visualisability; Bohr and Heisenberg (progressives) prioritised empirical performance. Both had good reasons. The switch to quantum mechanics was not logically compelled — it had elements of generational change and something like a conversion. Option A is the view Kuhn is *challenging*.
 
@@ -174,15 +174,15 @@ Einstein and Schrödinger (conservatives) wanted to preserve determinism and vis
 ---
 
 **Q5.** In his 1977 work *The Essential Tension*, Kuhn partially retreated from strong incommensurability by arguing that:
-- A) Scientific revolutions are always fully rational and defensible after the fact
-- B) There are five epistemic values — accuracy, consistency, scope, simplicity, fruitfulness — that hold across paradigms
+- A) There are five epistemic values — accuracy, consistency, scope, simplicity, fruitfulness — that hold across paradigms
+- B) Scientific revolutions are always fully rational and defensible after the fact
 - C) Paradigm changes are always driven by falsifying counterexamples
 - D) Incommensurability only applies to very large-scale revolutions, not ordinary theory change
 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) There are five epistemic values — accuracy, consistency, scope, simplicity, fruitfulness — that hold across paradigms**
+**Correct: A) There are five epistemic values — accuracy, consistency, scope, simplicity, fruitfulness — that hold across paradigms**
 
 This is Kuhn's concession — that these five values provide some continuity across paradigm succession, restoring partial commensurability. But he maintained that *applying* these values still requires interpretation, so paradigm choice never becomes fully algorithmic. Option C is Popper's view, not Kuhn's retraction.
 

@@ -105,10 +105,12 @@ American polymath (1916–2001) — Nobel laureate in Economics 1978 (for "pione
 > RCT says: "Given what you want, here's the best way to get it." Fine. But it has nothing to say about ==*whether what you want is reasonable*==. If your utility function values destroying the planet, RCT will helpfully tell you the most efficient way. ==So it's powerful for *means*, silent on *ends*.== That's why critics call it morally hollow — and why later accounts (especially emotion-inclusive ones) try to bring goal-evaluation back into the picture.
 
 > **Explained easily — bounded rationality:**
-> Simon's insight: real people don't compute every option. You don't compare every apartment in The Hague before signing a lease — you look at a few, find one that's "good enough," and move in. That's **satisficing**. It's not lazy thinking — it's the *right* thinking for someone with limited time, info, and brainpower. RCT pretends we're supercomputers; Simon points out we aren't, and shows that we have clever shortcuts that mostly work.
+> Simon's insight: real people don't compute every option. You don't compare every apartment in The Hague before signing a lease — you look at a few, find one that's "good enough," and move in. ==That's **satisficing**. It's not lazy thinking — it's the *right* thinking for someone with limited time, info, and brainpower==. %%ANKI%% RCT pretends we're supercomputers; Simon points out we aren't, and shows that we have clever shortcuts that mostly work.
+
+%%TODO: Why cant I write a hidden comment in the Explained easily section? I mean the ANKI comment in the above paragraph - put it into pending tasks to fix this issue%%
 
 > **Explained easily — the recognition heuristic:**
-> Surprising experiment: when asked "which is the larger city, Hanover or Bielefeld?", Germans (who know both) get this right ~60% of the time. Americans (who recognise Hanover but not Bielefeld) get it right ~90% of the time. Because: the *more recognised* name tends to be the bigger/more important thing — recognition itself is a signal. So *not knowing* one of the options can actually *help* you. Partial ignorance, productively used.
+> ==Surprising experiment: when asked "which is the larger city, Hanover or Bielefeld?", Germans (who know both) get this right ~60% of the time. Americans (who recognise Hanover but not Bielefeld) get it right ~90% of the time. Because: the *more recognised* name tends to be the bigger/more important thing — recognition itself is a signal. So *not knowing* one of the options can actually *help* you. Partial ignorance, productively used.==
 
 > **Explained easily — emotion as part of rationality:**
 > Old picture: emotion is the noise that interferes with cold logic. New picture (Damasio and others): without emotion, you can't *care* about outcomes enough to choose between them. Patients with brain damage that wipes out emotion become *unable to make decisions* — they can list pros and cons forever but never act. Emotion is what makes some outcomes feel like they *matter*. So it's not the enemy of rationality; it's its motivator.
@@ -123,14 +125,14 @@ American polymath (1916–2001) — Nobel laureate in Economics 1978 (for "pione
 
 **Q1.** In Rational Choice Theory, the "revealed preferences" approach infers what an agent prefers by:
 - A) Asking the agent directly what they value most
-- B) Observing which choices the agent makes and reading preferences off those choices
-- C) Calculating which option maximises the agent's utility function mathematically
+- B) Calculating which option maximises the agent's utility function mathematically
+- C) Observing which choices the agent makes and reading preferences off those choices
 - D) Consulting the agent's stated reasons in advance of the decision
 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) Observing which choices the agent makes and reading preferences off those choices**
+**Correct: C) Observing which choices the agent makes and reading preferences off those choices**
 
 "If she bought X over Y, she must have preferred X." The lecture identifies the circularity risk: if we infer preferences *from the very behaviour we are trying to explain*, almost any behaviour can be reconstructed as "rational" in retrospect. The theory risks becoming unfalsifiable — there is no such thing as an irrational action under this approach.
 
@@ -140,14 +142,14 @@ American polymath (1916–2001) — Nobel laureate in Economics 1978 (for "pione
 
 **Q2.** Herbert Simon's "bounded rationality" departs from RCT primarily by arguing that:
 - A) Agents are fundamentally irrational and cannot be modelled formally
-- B) Agents have limited information, cognitive power, and time — so they satisfice rather than optimise
+- B) Agents should defer to experts for all complex decisions
 - C) Utility functions should include more variables to capture the full range of human preferences
-- D) Agents should defer to experts for all complex decisions
+- D) Agents have limited information, cognitive power, and time — so they satisfice rather than optimise
 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) Agents have limited information, cognitive power, and time — so they satisfice rather than optimise**
+**Correct: D) Agents have limited information, cognitive power, and time — so they satisfice rather than optimise**
 
 Bounded rationality replaces the RCT assumption of a perfect calculator with a more realistic picture: agents face real limits and compensate with *rough-and-ready* heuristics. "Satisficing" is Simon's coinage: find an option that is good enough and stop, rather than computing the global optimum. Option C is a proposal to *extend* RCT, not challenge it.
 
@@ -191,14 +193,14 @@ The lecture presents this as a departure from the Western tradition that picture
 
 **Q5.** Which of the following best captures the main criticism of RCT from a feminist/social perspective?
 - A) RCT uses too much mathematics, making it inaccessible to policy-makers
-- B) RCT models individualistic, self-interested choices and underplays care, dependency, and collective agency
-- C) RCT cannot be applied to non-Western societies because it assumes Western values
+- B) RCT cannot be applied to non-Western societies because it assumes Western values
+- C) RCT models individualistic, self-interested choices and underplays care, dependency, and collective agency
 - D) RCT's utility function is too simple to capture the complexity of economic decisions
 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) RCT models individualistic, self-interested choices and underplays care, dependency, and collective agency**
+**Correct: C) RCT models individualistic, self-interested choices and underplays care, dependency, and collective agency**
 
 The feminist critique in the lecture targets RCT's underlying anthropology — the free, rational, self-maximising individual. This excludes care work, dependency relations, socialisation, institutional constraints, and collective agency. Option C is a different (postcolonial) critique not discussed in this lecture. Option D is more of a technical limitation.
 
@@ -208,14 +210,14 @@ The feminist critique in the lecture targets RCT's underlying anthropology — t
 
 **Q6.** RCT is described in the lecture as powerful for reasoning about *means* but silent on:
 - A) The costs and benefits of a decision
-- B) The ends or goals that agents ought to pursue
+- B) The strategic interactions between competing agents
 - C) How agents with different preferences can coordinate
-- D) The strategic interactions between competing agents
+- D) The ends or goals that agents ought to pursue
 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) The ends or goals that agents ought to pursue**
+**Correct: D) The ends or goals that agents ought to pursue**
 
 RCT takes preferences as *given* and calculates the best means to fulfil them. It has nothing to say about whether the preferences themselves are reasonable or good. A utility function that values destroying the planet gets the same treatment as one that values human flourishing. This is the "morally hollow" charge — emotion-inclusive accounts try to bring goal-evaluation back in.
 

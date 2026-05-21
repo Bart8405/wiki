@@ -92,15 +92,15 @@ British logician, philosopher, and political activist (1872–1970). Co-founder 
 ### Multiple Choice Questions
 
 **Q1.** According to the JTB (Justified True Belief) account of knowledge, if a belief is justified but false, then:
-- A) It still counts as knowledge because the person had good reasons
-- B) It does not count as knowledge because the truth condition fails
+- A) It does not count as knowledge because the truth condition fails
+- B) It still counts as knowledge because the person had good reasons
 - C) It counts as knowledge only if the person is an expert
 - D) It does not count as knowledge because the justification condition fails
 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) It does not count as knowledge because the truth condition fails**
+**Correct: A) It does not count as knowledge because the truth condition fails**
 
 JTB requires all three conditions simultaneously: truth, belief, *and* justification. A justified but false belief fails condition 1 (P must be true). The justification does not "save" the belief from being false. Option A is the classic mistake students make — confusing justified belief with knowledge.
 
@@ -110,14 +110,14 @@ JTB requires all three conditions simultaneously: truth, belief, *and* justifica
 
 **Q2.** The correspondence theory of truth, as formulated by Bertrand Russell, holds that:
 - A) A proposition is true if it coheres with other propositions in a system
-- B) A proposition is true if it is useful to act on
-- C) A proposition is true if and only if there is a fact corresponding to it
+- B) A proposition is true if and only if there is a fact corresponding to it
+- C) A proposition is true if it is useful to act on
 - D) A proposition is true if it has been verified by sensory experience
 
 <details>
 <summary>Answer</summary>
 
-**Correct: C) A proposition is true if and only if there is a fact corresponding to it**
+**Correct: B) A proposition is true if and only if there is a fact corresponding to it**
 
 This is Russell's canonical formulation from *Problems of Philosophy* (1912). Option A describes a *coherence* theory; option B is closer to pragmatist theories of truth; option D is a verificationist position associated with logical positivism — none of these is the correspondence theory.
 
@@ -127,14 +127,14 @@ This is Russell's canonical formulation from *Problems of Philosophy* (1912). Op
 
 **Q3.** In the lecture's vocabulary, facts are described as:
 - A) True propositions about the world
-- B) Truthmakers — states of affairs that make propositions true or false
-- C) Truthbearers — statements that can be assessed as true or false
+- B) Truthbearers — statements that can be assessed as true or false
+- C) Truthmakers — states of affairs that make propositions true or false
 - D) Mental representations of how the world is
 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) Truthmakers — states of affairs that make propositions true or false**
+**Correct: C) Truthmakers — states of affairs that make propositions true or false**
 
 This is the key distinction: *propositions* are truth-bearers (they can be true or false); *facts* are truthmakers (they make propositions true or false but are not themselves true or false). Option C describes propositions, not facts. Facts are not mental representations (option D) — they are in the world, independent of minds.
 
@@ -144,14 +144,14 @@ This is the key distinction: *propositions* are truth-bearers (they can be true 
 
 **Q4.** The justification condition in JTB is needed primarily to:
 - A) Ensure that beliefs are held sincerely
-- B) Rule out lucky guesses from counting as knowledge
+- B) Make knowledge public rather than private
 - C) Establish that the belief corresponds to reality
-- D) Make knowledge public rather than private
+- D) Rule out lucky guesses from counting as knowledge
 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) Rule out lucky guesses from counting as knowledge**
+**Correct: D) Rule out lucky guesses from counting as knowledge**
 
 The lecture is explicit: the justification condition rules out lucky guesses. Without it, you could accidentally believe a true proposition and "know" it — which seems wrong. Option A (sincerity) is not part of JTB. Option C is the role of the truth condition, not justification. Option D is a feature of knowledge but not the purpose of the justification condition specifically.
 
@@ -160,15 +160,15 @@ The lecture is explicit: the justification condition rules out lucky guesses. Wi
 ---
 
 **Q5.** "Two people can sincerely believe opposite things, but they cannot both *know* opposite things." This claim rests on which condition of JTB?
-- A) The justification condition — only one can have good reasons
-- B) The truth condition — at most one of the opposite beliefs can be true
+- A) The truth condition — at most one of the opposite beliefs can be true
+- B) The justification condition — only one can have good reasons
 - C) The belief condition — belief is subjective, knowledge is not
 - D) The Gettier condition — one of them must have a defective fourth condition
 
 <details>
 <summary>Answer</summary>
 
-**Correct: B) The truth condition — at most one of the opposite beliefs can be true**
+**Correct: A) The truth condition — at most one of the opposite beliefs can be true**
 
 If A knows that P and B knows that not-P, both beliefs would have to be true simultaneously — which is a contradiction. The truth condition (P must actually be true) is what makes knowledge the same for all, while belief can vary person to person. This is why "we just have different opinions" dissolves taste disputes but not factual ones.
 

@@ -2,7 +2,7 @@
 tags: [meta, agents, overview, synthesis, all-projects]
 updated: 2026-05-21
 ---
-
+%%TODO:Move this file into the Thematic essay project, as the task is predominantly aimed at that%%
 # What All the Agents Have Done — Complete Overview
 
 *Plain-English summary of every task Claude agents have completed in this wiki since May 2026. Use this when you are lost and want to know what exists and where to find it. The most important files are bolded.*

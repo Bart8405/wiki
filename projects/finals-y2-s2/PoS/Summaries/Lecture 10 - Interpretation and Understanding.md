@@ -8,24 +8,24 @@ updated: 2026-05-16
 
 *Back to the idiographic approach. Dilthey's distinction between *Verstehen* (interpretive understanding of mental phenomena) and *Erklären* (causal explanation of natural phenomena). Relationality, purposiveness, meaningfulness, and the double hermeneutic.*
 
-**Date:** 6 May 2026 · **Lecturer:** Prof. James W. McAllister · **Key thinker:** **Wilhelm Dilthey** (1833–1911)
+**Date:** 6 May 2026 · **Lecturer:** Prof. James W. McAllister · **Key thinker:** ==**Wilhelm Dilthey**== (1833–1911)
 
 ---
 
 ## Key concepts — definitions
 
-| Term | Definition |
-|---|---|
-| **Verstehen** | German: "to understand." Dilthey's method for studying mental phenomena. **Empathetic, interpretive grasping of meaning** — the way mental phenomena are *simultaneously* individuated and understood. Characteristic of the *Geisteswissenschaften* (human sciences) and of everyday life. |
-| **Erklären** | German: "to explain." Method for studying natural phenomena — explaining outcomes by means of covering laws. Hempel's DN model (Lecture 4) is essentially a formal elaboration of *Erklären*. |
-| **Mental phenomena** | Empirical objects in the world (Dilthey is not an idealist) that have **content and meaning** — unlike natural phenomena. Studied by *Verstehen*. |
-| **Natural phenomena** | Empirical objects without meaning-content. Picked out by *ostension* (pointing); understood after the fact through laws/explanation. |
-| **Relationality** | The key feature distinguishing mental from natural phenomena. You cannot pick out a mental phenomenon *without* a preliminary understanding of its meaning. (Example: what makes an object a *gift*? Not any physical property — the meanings ascribed to it.) |
-| **Purposiveness** | A distinctive feature of human action: to make sense of it, we cite **reasons** (normative), not just causes. *Example:* I apologise "in order to express regret" (reason) — not "because I was late" (cause). |
-| **Meaningfulness** | Things have meaning *because* people ascribe meaning to them. Meaning ascriptions can be multiple — but not "anything goes." |
-| **Double hermeneutic** | The scholarly task in the human sciences. Any mental phenomenon you try to interpret *has been interpreted before*. So you're interpreting both the phenomenon *and* the previous interpretations of it — interpreting interpretations of interpretations. |
-| **Sensitivity for ascriptions** | Twin scholarly stance: (a) no one person — not even the author — has sole authority over meaning; (b) you can't capture meaning ignoring the meanings ascribed by the people for whom the phenomenon plays a role. |
-| **Ostension** | Picking out a phenomenon by pointing — directly indicating. Works for natural phenomena (point at the falling stone). Doesn't work for mental phenomena (point at *what*, exactly? The behaviour without its meaning?). |
+| Term                            | Definition                                                                                                                                                                                                                                                                                          |
+| ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Verstehen**                   | German: "to understand." Dilthey's method for studying mental phenomena. ==**Empathetic, interpretive grasping of meaning** — the way mental phenomena are *simultaneously* individuated and understood==. ==Characteristic of the *Geisteswissenschaften* (human sciences) and of everyday life.== |
+| ==**Erklären**==                | ==German: "to explain." Method for studying natural phenomena — explaining outcomes by means of covering laws. Hempel's DN model (Lecture 4) is essentially a formal elaboration of *Erklären*.==                                                                                                   |
+| **Mental phenomena**            | Empirical objects in the world (Dilthey is not an idealist) that have **content and meaning** — unlike natural phenomena. Studied by *Verstehen*.                                                                                                                                                   |
+| **Natural phenomena**           | Empirical objects without meaning-content. Picked out by *ostension* (pointing); understood after the fact through laws/explanation.                                                                                                                                                                |
+| **Relationality**               | The key feature distinguishing mental from natural phenomena. You cannot pick out a mental phenomenon *without* a preliminary understanding of its meaning. (Example: what makes an object a *gift*? Not any physical property — the meanings ascribed to it.)                                      |
+| **Purposiveness**               | A distinctive feature of human action: to make sense of it, we cite **reasons** (normative), not just causes. *Example:* I apologise "in order to express regret" (reason) — not "because I was late" (cause).                                                                                      |
+| **Meaningfulness**              | Things have meaning *because* people ascribe meaning to them. Meaning ascriptions can be multiple — but not "anything goes."                                                                                                                                                                        |
+| **Double hermeneutic**          | The scholarly task in the human sciences. Any mental phenomenon you try to interpret *has been interpreted before*. So you're interpreting both the phenomenon *and* the previous interpretations of it — interpreting interpretations of interpretations.                                          |
+| **Sensitivity for ascriptions** | Twin scholarly stance: (a) no one person — not even the author — has sole authority over meaning; (b) you can't capture meaning ignoring the meanings ascribed by the people for whom the phenomenon plays a role.                                                                                  |
+| **Ostension**                   | Picking out a phenomenon by pointing — directly indicating. Works for natural phenomena (point at the falling stone). Doesn't work for mental phenomena (point at *what*, exactly? The behaviour without its meaning?).                                                                             |
 
 ---
 

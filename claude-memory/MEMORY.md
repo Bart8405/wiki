@@ -12,3 +12,4 @@
 - [Include Obsidian highlights in extraction](feedback_highlight_extraction.md) — ==text== counts as a highlight; include it whenever extracting highlights from notes
 - [PDF reading tools](reference_pdf_tools.md) — extract.js for text-heavy PDFs (cheap), Read tool with `pages` for image-based / scanned / heavily-visual ones; run triage-pdf.js first when unsure
 - [Anki card rules](feedback_anki_cards.md) — full cloze coverage (every list item gets its own {{cN}}), no Week/Lecture references in card content, minimal quote cards, no hyper-precise transient stats; concept-definition cards as dominant form
+- [Anki sync at session start](feedback_anki_sync.md) — when SessionStart hook flags an "Anki sync check," offer to push new concepts via anki-from-reviews.js + push-anki.js; AnkiConnect dedup makes this safe

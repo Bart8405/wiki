@@ -35,10 +35,10 @@ updated: 2026-05-16
 
 For Dilthey, the world contains **natural phenomena** and **mental phenomena**. Both are empirical (in the world) — Dilthey isn't a Platonist or idealist. The difference is that mental phenomena have **content and meaning**, and that requires a different method:
 
-| Phenomenon type | Method | What the method does |
-|---|---|---|
-| Natural | *Erklären* (explanation) | Explains an *already-individuated* phenomenon via covering laws |
-| Mental | *Verstehen* (interpretive understanding) | Simultaneously *individuates and understands* the phenomenon |
+| Phenomenon type | Method                                       | What the method does                                                |
+| --------------- | -------------------------------------------- | ------------------------------------------------------------------- |
+| ==Natural==     | ==*Erklären* (explanation)==                 | ==Explains an *already-individuated* phenomenon via covering laws== |
+| ==Mental==      | ==*Verstehen* (interpretive understanding)== | ==Simultaneously *individuates and understands* the phenomenon==    |
 
 Notice the deeper asymmetry: with natural phenomena, you can identify the thing first and explain it later. With mental phenomena, you can't even pick the thing out without understanding what it means.
 
@@ -46,9 +46,9 @@ Notice the deeper asymmetry: with natural phenomena, you can identify the thing 
 
 #### 1. Relationality
 
-Natural phenomena are individuated by **ostension** (point at the falling stone, the superconducting wire). Explanation can come later — *most discoveries in physics work this way.*
+==Natural phenomena are individuated by **ostension** (point at the falling stone, the superconducting wire). Explanation can come later — *most discoveries in physics work this way.*==
 
-Mental phenomena cannot be individuated by ostension. What makes something a *gift*? Not any physical property of the object — the meanings and significance ascribed to it. Two people exchanging a wrapped box could be: a gift, a payment, a bribe, an apology, a tribute. You need preliminary *Verstehen* even to identify the act, let alone explain it.
+Mental phenomena cannot be individuated by ostension. What makes something a *gift*? Not any physical property of the object — ==the meanings and significance ascribed to it==. Two people exchanging a wrapped box could be: a gift, a payment, a bribe, an apology, a tribute. You need preliminary *Verstehen* even to identify the act, let alone explain it.
 
 **Implication for science vs common sense:**
 - In the **natural sciences**, everyday descriptions of phenomena can be (and routinely are) **replaced** by radically different descriptions. "Solid objects" gets redescribed as "mostly empty space with electron probability clouds." We can always fall back on empirical data to re-identify the phenomenon.

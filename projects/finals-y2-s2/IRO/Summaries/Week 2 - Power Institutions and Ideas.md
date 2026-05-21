@@ -3,7 +3,7 @@ tags: [iro, international-relations, lecture-2, realism, liberalism, constructiv
 sources: [raw/WEEK 2/LEC2.pdf, raw/WEEK 2/Anarchy is what states make of it.pdf, raw/WEEK 2/Mearsheimer-BoundFail-2019.pdf]
 updated: 2026-05-19
 ---
-
+%%TODO: Why is there no survey information in this summary? As I said, definitely include the surveys whenever possible because thats the most crucial information%%
 # Week 2 — Power, Institutions, and Ideas: Traditional IR Theories
 
 *The three traditional schools of IR theory — realism, liberalism, constructivism — what they assume, what they explain well, and how they read the same events (Ukraine-Russia, US-China, NATO) differently.*

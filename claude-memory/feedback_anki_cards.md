@@ -116,26 +116,18 @@ If you just edit the text of an existing cloze note (changing `{{c2::X}}` to `{{
 
 This loses review history, which is acceptable for recently-pushed cards. For cards with significant review history (mature intervals, many lapses), prefer leaving them alone or asking the user before recreating.
 
-### 12. Real-world examples and case-specific facts → review file ONLY, NOT Anki
+### 12. Anki test: useful for becoming a knowledgeable expert? OR only useful to pass the exam?
 
-The user distinguishes between two knowledge bases:
-- **Review file:** contextual, course-specific, exam-relevant. Worked examples, specific cases, dates, lecturer's chosen illustrations belong here. The user wants to see the example again when reviewing — it helps them re-anchor a concept to a case they remember.
-- **Anki:** long-term timeless knowledge. Things still useful in 20 years. Concepts, definitions, frameworks, key thinkers — NOT case-specific applications.
+The right criterion is the user's long-term goal, not the exam:
 
-**Examples of what should NOT become Anki cards:**
-- "How does Goertz & Mahoney's two-logics framework explain why this particular study failed?"
-- "What was the result of the 2024 ADB perception survey?"
-- "Which specific institutional configuration did the Indonesian PR 110/2025 introduce for VCM credit retirement?"
-- Lecturer-chosen worked examples that illustrate a concept but aren't the concept itself
+- **If the fact / concept is useful for being a knowledgeable citizen, expert, or for the user's expertise in Indonesia / SEA / IR / GPE** → **Anki**. Even if exam-driven motivation introduced it. Examples: how nuclear deterrence works · the Stolper-Samuelson logic · what makes a hybrid carbon-pricing design work · the difference between hard / soft / smart power. These are durable analytical tools the user will reach for in real arguments, news reading, and writing for years.
+- **If the fact only helps pass a specific exam and won't matter in 2 years** → **review file only**. Examples: which slide a lecturer chose for a specific case · the exact paragraph in a syllabus PDF · a single semester's framing experiment results · which sub-clause of PR 110/2025 governs Phase 2 allowance allocation timing.
 
-**What SHOULD become Anki cards (paired with the review-file example):**
-- The underlying concept the example illustrates
-- The framework the case applies
-- The thinker who proposed the framework
+Many "specific examples" pass the expert test. The Petrov 1983 incident, Hashim Djojohadikusumo and Indonesian carbon credits, the EU's Empty Chair Crisis — these are case-specific BUT they're the kind of thing an expert in IR, SEA political economy, or EU politics actually carries around. Anki them.
 
-Rule of thumb: if the answer would be different in 5 years because the case changed, it's not Anki material. If the answer would still be the same in 5 years, it's Anki material.
+What clearly fails the expert test: course-meta ("Week 12 Section B has four challenges"), syllabus-specific framing ("the lecturer's own three-part recap"), and ephemeral statistics that change yearly (V-Dem 2025's exact percentages).
 
-When you encounter a highlighted real-world example: enrich it in the review file with full context, but do NOT generate an Anki card from it. The corresponding concept card (already in Anki) is enough.
+**When in doubt: ask "would a non-student version of the user, three years from now in conversation with a knowledgeable Indonesian friend, want to be able to recall this from memory?"** Yes → Anki. No → review file.
 
 ### Where this applies
 

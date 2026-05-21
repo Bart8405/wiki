@@ -11,6 +11,7 @@
 | [thesis-questions-answered](wiki/synthesis/thesis-questions-answered.md) | Parallel session's essay-ready draft answers to the same two thesis questions. |
 | [argument-logic](wiki/synthesis/argument-logic.md) | **Argument sharpening** (2026-05-19): cross-reading patterns (A–E), three alternative thesis framings with a recommendation, counter-argument stress-test, evidence gaps + sources to chase, advisory essay skeleton. Read this BEFORE drafting. |
 | [essay-writing-tomorrow](wiki/synthesis/essay-writing-tomorrow.md) | **Essay writing guide** (2026-05-21): self-contained guide to writing the essay — thesis, section-by-section paragraph plans, drafted introduction, sources by section, and verification checklist. **Start here when writing.** |
+| [essay-requirements-checklist](wiki/synthesis/essay-requirements-checklist.md) | **Rubric + checklist** (2026-05-19) from the final seminar session: requirements per essay section (intro, lit review, body, methodology, conclusion, argument), overarching principles, and a master checklist. First-pass assessment of `essay-writing-tomorrow.md` included. Open in split while writing. |
 
 ## Concepts
 

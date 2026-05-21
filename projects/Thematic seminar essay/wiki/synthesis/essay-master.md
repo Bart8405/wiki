@@ -8,7 +8,6 @@ sources:
   - wiki/Feedback.md
 updated: 2026-05-19
 ---
-%%TODO: I dont think I want to have a long section on how the ETS works%%
 # Essay Master — Indonesian Carbon Pricing
 
 *Single source of truth for the thematic seminar essay. Open this when writing. Everything you need is in this file or in the two linked sister files below.*
@@ -31,20 +30,20 @@ updated: 2026-05-19
 
 ## Table of contents
 
-1. [TL;DR — 60 seconds](#tldr--60-seconds)
-2. [Background knowledge — facts to be an expert](#background-knowledge--facts-to-be-an-expert)
+1. [[#TL;DR — 60 seconds|TL;DR — 60 seconds]]
+2. [[#Background knowledge — facts to be an expert|Background knowledge — facts to be an expert]]
    - Regulatory architecture · ETS facts · Carbon tax facts · Article 6 · Institutions · Macro context · Global pricing · Concepts · Thinkers · Actors · Gotchas
-3. [Thesis & argument logic](#1-thesis--argument-logic)
-   - Working thesis · The puzzle · Five cross-reading patterns · Three framing options · Why Framing 2
-4. [Essay structure & paragraph plans](#2-essay-structure--paragraph-plans)
-5. [Drafted introduction (~400 words, ready to edit)](#3-drafted-introduction--ready-to-edit)
-6. [Section-by-section writing plan](#4-section-by-section-writing-plan)
-7. [Stress-test against objections](#5-stress-test--counter-evidence)
-8. [Requirements rubric & checklist](#6-requirements-rubric--checklist)
-9. [Past feedback to apply](#7-past-feedback-to-apply)
-10. [Verification checklist — facts to confirm before submitting](#8-verification-checklist--facts-to-confirm-before-submitting)
+3. [[#1. Thesis & argument logic|Thesis & argument logic]]
+   - Working thesis · The puzzle · Five cross-reading patterns · The unified framing · Softer fallback
+4. [[#2. Essay structure & paragraph plans|Essay structure & paragraph plans]]
+5. [[#3. Drafted introduction — ready to edit|Drafted introduction (~400 words, ready to edit)]]
+6. [[#4. Section-by-section writing plan|Section-by-section writing plan]]
+7. [[#5. Stress-test & counter-evidence|Stress-test against objections]]
+8. [[#6. Requirements rubric & checklist|Requirements rubric & checklist]]
+9. [[#7. Past feedback to apply|Past feedback to apply]]
+10. [[#8. Verification checklist — facts to confirm before submitting|Verification checklist — facts to confirm before submitting]]
 
-%%TODO: Links do not work - fix and always have them working%%
+*TOC links use Obsidian wikilink format (`[[#Heading|Display]]`) which jumps to the heading by exact match. Tested in Obsidian; works directly in the vault. If you view this file outside Obsidian (e.g. GitHub), the links render as plain text — that's expected.*
 ---
 
 ## TL;DR — 60 seconds
@@ -347,35 +346,41 @@ The modelling literature converges on a combination design — and Indonesia has
 
 > **⚠️ Author-order note:** Jia & Lin (2020) and Lin & Jia (2020) are **two different papers**. Citing them in the same sentence is fine; conflating them in the reference list is a marking-deduction mistake. See §8 and `essay-bibliography.md` for the distinction.
 
-### 1.4 Three framing options
+### 1.4 The unified framing (Framing 2 + Framing 3 fused)
 
-#### Framing 1 — "Political economy, not economic design" *(softer)*
+The essay's working thesis is a fusion of two analytical moves that I had previously listed as alternatives (Framings 2 and 3 in the original draft of this file). Combined, they say:
+
+> **The implementation gap is the policy, and the credit-export economy is what makes it sustainable.** Indonesia's "policy on paper, hollow in practice" pattern is not a failure to be explained away — it is an *equilibrium* that the regulatory architecture actively engineers. The legislated-but-unenforced carbon tax functions as a credible non-threat (enough on paper to satisfy international climate-diplomacy audiences; enough non-enforcement to reassure industrial coalitions that the cost will never bind). The Article 6 credit-export mechanism is the revenue model that makes that equilibrium *fiscally* sustainable: PR 110/2025's decoupling of voluntary credits from the NDC timeline, combined with optional Corresponding Adjustments, turns non-enforcement of domestic decarbonisation into an exportable asset. The system is not a decarbonisation mechanism; it is a sophisticated piece of policy theatre with a working revenue stream.
+
+**The two analytical moves:**
+
+| Move | What it does | Key sources |
+|---|---|---|
+| **A. "The implementation gap is the policy"** *(the structural / institutional-economics move)* | Reframes legislated-but-unenforced as the *equilibrium*, not an aberration. The carbon tax that has been postponed four times is doing *exactly what it was designed to do*: signal commitment without binding. | Stevens [§87] in Sunanda 2025; Finon 2019; Jakob & Steckel 2014; Pritchett-Woolcock-Andrews on isomorphic mimicry (theoretical anchor — chase if useful) |
+| **B. "Credit-export economy, not decarbonisation economy"** *(the political-economy move that explains the revenue model)* | Names the *mechanism* sustaining the equilibrium: Article 6 international credit transfers under PR 110/2025 turn the absence of domestic action into exportable inventory. The Hashim/Arsari conflict-of-interest is the human face of this revenue model. | Pierucci et al. 2025; ICAP 2025 (Article 6 lift); Hashim/Arsari brief in [essay-evidence.md §2](essay-evidence.md#evidence-2-hashim-djojohadikusumo--arsari-group); IISD 2026 (the −USD 7.8/tCO₂ net rate is the empirical anchor — non-enforcement made fiscal) |
+
+**Why fuse them rather than pick one:**
+
+- Move A *without* Move B reads as cynical but unmotivated: "it's deliberate non-enforcement" — but to what end?
+- Move B *without* Move A reads as descriptive but un-theorised: "Indonesia sells credits" — but is that a *bug* or a *feature*?
+- Fused, they answer the question that motivates the essay: **why does the gap persist?** Because non-enforcement *is* the revenue model. The credit export turns implementation-gap into fiscal-yield. PR 110/2025 is the legal-technical artefact that completes the design.
+
+**Strengths of the fused framing:**
+- Sharper analytically than the Framing-1 fallback ("political economy, not economic design") because it names a *purpose*, not just an absence
+- Generalisable beyond Indonesia (most LMIC credit-export systems show variants of this pattern)
+- Has clear policy implication: external pressure (CBAM, conditional climate finance, mandatory CAs) is the only durable lever to shift the equilibrium
+
+**Weaknesses to engage in the essay:**
+- More critical of Indonesian policy than the soft framing; needs to engage the "Indonesia legitimately needs the revenue" steelman (see §5 Objection 1)
+- The "deliberate-incoherence" reading from Move A risks reading cynical rather than analytical — keep the political-economy mechanism (Move B) visible alongside it to ground the claim empirically
+
+### 1.5 Softer fallback (Framing 1) — for use if needed
+
+If you decide the fused framing is too critical, the safer fallback is:
 
 > ETS-first sequencing is best explained by political economy (concentrated burden, free allocation, captive-revenue logic), not by economic-design optimality. Indonesia has already committed to the literature-recommended hybrid on paper; the binding constraint is implementation.
 
-- **Strengths:** balanced, citable, fits the literature, avoids polemic.
-- **Weaknesses:** soft conclusion that doesn't sharply explain *why* implementation stalled.
-
-#### Framing 2 — "Credit-export economy, not decarbonisation economy" *(sharper — recommended)*
-
-> Indonesia's carbon-pricing architecture is engineered to generate fiscal revenue and credit exports without delivering domestic decarbonisation. The ETS-first sequencing protects industrial coalitions through free allocation; the Article 6 moratorium lift turns potential emissions reductions into exportable credits; and the inactive carbon tax means there is no price signal on the bulk of the economy. Indonesia is simultaneously a global leader in carbon-pricing *coverage* and a laggard in carbon-pricing *effect*.
-
-- **Strengths:** single load-bearing claim, sharp, generalisable, connects to Pattern D, clear "what to do" prescription.
-- **Weaknesses:** more critical of Indonesian policy; requires engaging "but Indonesia needs the revenue" steelman.
-- **Best source anchors:** Pierucci et al. 2025; Jakob & Steckel 2014; ICAP 2025; Edianto et al. 2022; Sunanda et al. 2025; OECD ECR 2025.
-
-#### Framing 3 — "The implementation gap is the policy" *(most academically distinctive)*
-
-> Indonesia's "policy on paper, hollow in practice" pattern is not an implementation failure — it IS the policy. The legislated-but-unenforced carbon tax functions as a *credible non-threat*: enough on paper to claim climate credentials internationally, enough non-enforcement to reassure domestic incumbents. ETS-first sequencing is not delay; it is the equilibrium.
-
-- **Strengths:** most theoretically interesting; introduces a "deliberate-incoherence" reading; generalisable (resource-curse / institutional-economics literature).
-- **Weaknesses:** requires more theoretical scaffolding (Acemoglu/Robinson; Pritchett-Woolcock-Andrews on isomorphic mimicry); risks reading cynical; harder to anchor in current bibliography.
-
-### 1.5 Why Framing 2 (and how to use Framing 3)
-
-**Use Framing 2 as the primary thesis.** Reserve Framing 3 for one paragraph in the conclusion as a forward-looking research agenda. Framing 1 is fine as a fallback but reads as too cautious for a 3–4k word seminar essay; the literature review already builds the political-economy frame — the essay should *advance* it, not restate it.
-
-%%TODO: I will mostly use framing 2 but also incorporate framing 3 to it - unite them%%
+This is balanced, citable, fits the literature, and avoids polemic — but reads as too cautious for a 3–4k word seminar essay. The literature review already builds the political-economy frame; the essay should *advance* it (via the fused framing above), not restate it. The lit-review feedback in §7 also points this direction: "less ground, more depth, critical engagement" → develop one sharp argument rather than survey three.
 
 ---
 
@@ -383,15 +388,19 @@ The modelling literature converges on a combination design — and Indonesia has
 
 ### 2.1 At-a-glance
 
+> **Rebalanced 2026-05-19** to shift weight off "how the ETS works" mechanics and toward broader political-economy and decarbonisation-implications analysis. The ETS-mechanics paragraph is now a compact factual footing (≈250 words) folded into the political-economy section, freeing words for the analytical layers.
+
 | Section | 3k words | 4k words | Job |
 |---|---|---|---|
 | Introduction | 400 | 400 | Hook → puzzle → thesis → roadmap |
-| §1 Why an ETS first? | 800 | 1,000 | Political-economy explanation |
-| §2 How the ETS works | 500 | 800 | Facts + hollow reality |
-| §3 What Indonesia should do | 1,000 | 1,500 | Five moves + CBAM |
-| Conclusion | 300 | 300 | Restate + forward gesture |
+| §1 Why an ETS first? — political economy + brief ETS facts | 1,100 | 1,400 | The fused-framing argument (Move A + Move B). Compact ETS-mechanics block (≤250 words) folded in; the rest is political-economy analysis. |
+| §2 The hollow reality + broader implications | 400 | 600 | Net-effective rate finding (−USD 7.8/tCO₂), the IDR 78B vs IDR 713T scale gap, what this means for the climate-finance discourse |
+| §3 What the playbook says — depth over breadth | 800 | 1,300 | Two recommendations developed in depth (graduated levy + CBAM), the other three mentioned in one closing paragraph |
+| Conclusion | 300 | 300 | Restate fused thesis + forward gesture |
 | **Total** | **3,000** | **4,000** | |
-%%TODO: I want less focus on the structure of the Indonesian ETS and more on the broader environment-political economy context and implications%%
+
+**Key change from earlier scaffolds:** the original 500-word "How the ETS actually works" section has been **dropped as a standalone section.** The descriptive facts (phases, allocation, Article 6) are now a single ≤250-word block inside §1 — just enough to ground the political-economy argument, not enough to look like a textbook explainer. The freed words go to §1 (political-economy depth) and the new §2 framing (implications, not mechanics). This addresses both the *seminar feedback* on covering-less-in-more-depth and the deliberate decision to lead with environment / political-economy implications, not ETS plumbing.
+
 ### 2.2 Paragraph skeleton (one topic sentence per paragraph)
 
 #### INTRODUCTION (~400 words, 3 paragraphs)
@@ -414,15 +423,17 @@ The modelling literature converges on a combination design — and Indonesia has
 
 5. **Counter-evidence — "tax is political poison" overstates the case [~150 words].** Carbon tax not regressive nationally in Indonesia — progressive among lower-income rural; 70%+ SEA respondents support a national carbon tax. Resistance is elite-level, not mass-level — a distinction that matters for §3. *(Yusuf & Resosudarmo 2015; Rahma et al. 2025; East Asia Forum Feb 2025)*
 
-#### SECTION 2 — How the ETS actually works (~500 words, 3 paragraphs)
+#### SECTION 2 — The hollow reality + broader implications (~400 words, 2 paragraphs)
 
-1. **Coverage and phases [~150 words].** Phase 1 (2023–24): ~99 PLN-grid coal plants; Phase 2 (2025–27): 563 installations + captive coal/gas; Phase 3 (2028–30): all fossil-fuel power. Even at full power-sector completion, ETS covers only ~21% of national emissions (225.3 Mt ETS vs 1,053.4 Mt national), leaving forestry, transport, most industry outside scope. *(ICAP 2025)*
+> Replaces the older "How the ETS actually works" section. This section is the *analytical* punchline — the bare ETS-mechanics facts already live as a compact block inside §1 (Move A territory) and in the Background-knowledge reference at the top of this file.
 
-2. **Allocation and Article 6 [~100 words].** No auctions in any phase; allocation still 75–100% free; PR 110/2025 decouples voluntary credit trading from NDC timeline; Corresponding Adjustments (double-counting prevention) made optional rather than mandatory — structurally prioritises credit-export revenue over domestic accountability. *(ICAP 2025; [essay-evidence.md §2](essay-evidence.md#evidence-2-hashim-djojohadikusumo--arsari-group))*
+1. **The net-effective signal is in the wrong direction [~200 words].** IDR 78 billion (~USD 5M) total IDX Carbon transactions since Sept 2023, against IDR 713.5 trillion (~USD 45 billion) in 2024 fossil-fuel subsidies — a scale ratio of ~1:8,000. Sharper than the ratio: the OECD-quantified **net effective carbon rate of −USD 7.8/tCO₂ in 2023** (IISD 2026, citing OECD). Indonesia's *explicit* IDR 165 (USD 0.01) per tCO₂ nominal price is more than fully cancelled by the implicit anti-pricing of fuel subsidies. Climate Action Tracker rates Indonesia "Critically Insufficient" (Dec 2024). This is not a system under-performing on decarbonisation; it is a system whose *net* signal points the wrong way. *([essay-evidence.md §1](essay-evidence.md#evidence-1-iisd-gsi--indonesian-fossil-fuel-subsidies); IEEFA 2025; OECD ECR 2025; CAT Dec 2024)*
 
-3. **The hollow reality [~200 words].** Total IDX Carbon transactions since Sept 2023 launch: ~USD 5M (IDR 78B). Against IDR 713.5T (~USD 44B) in 2024 fossil-fuel subsidies — ratio 1:8,000. Indonesia's net effective carbon rate is likely *negative* once subsidies are netted. Climate Action Tracker rates Indonesia "Critically Insufficient" (Dec 2024). *(IEEFA 2025; [essay-evidence.md §1](essay-evidence.md#evidence-1-iisd-gsi--indonesian-fossil-fuel-subsidies); OECD ECR 2025; CAT Dec 2024)*
+2. **Implications for the climate-finance discourse [~200 words].** This finding has reach beyond Indonesia. The standard developing-country climate-finance argument — "LMIC carbon-pricing systems need international support to scale up" — assumes the *direction* of the domestic price signal is at least correct, just under-powered. Indonesia's net-negative effective rate inverts that assumption: scaling up the explicit price without removing the implicit anti-price makes no decarbonisation difference. PR 110/2025's decoupling of voluntary credits from the NDC timeline (and the optional Corresponding Adjustments) then completes the design: the same domestic non-decarbonisation becomes exportable credit inventory. The Hashim/Arsari conflict-of-interest is the named human face of a structural pattern that recurs across LMIC carbon-pricing systems — and the IISD 2026 finding is the empirical hook that makes the pattern visible. *(Jakob & Steckel 2014 on the climate-finance curse; Pierucci et al. 2025 on emergy accounting; [essay-evidence.md §1–§2](essay-evidence.md#evidence-1-iisd-gsi--indonesian-fossil-fuel-subsidies))*
 
 %%I really like bringing the subsidy debate and the comparison - this is a unique, good angle to take!%%
+
+> **Note on §1 ETS-mechanics block (was the old §2 Paragraph 1+2):** the descriptive facts about ETS phases / coverage / allocation / Article 6 now live as a single ~250-word block inside Section 1, between the political-economy reasons and the counter-evidence paragraph. Keep it factual and tight — enough to ground the political-economy argument, not enough to look like a textbook explainer. Key facts to land in that block: Phase 1 (99 coal plants), Phase 2 (563 installations), ~21% emissions coverage, intensity-based cap, 75–100% free allocation, no auctions, Article 6 moratorium lifted Jan 2025, PR 110/2025 decoupling + optional CAs. Each fact serves a downstream argument move; if a fact doesn't, cut it.
 
 #### SECTION 3 — What Indonesia should do now (~1,000 words, 6 paragraphs)
 
@@ -496,7 +507,19 @@ Three reasons:
 
 ▶ **Extension (4k version):** Reason 4 (AMRO "cap first, then tax" sequencing logic) + Reason 5 (MRV readiness — power sector has better emissions data).
 
-%%TODO: I like how you are working but please, make it so that when you use a source in these tasks (like above source: ICAP 2025 factsheet), you make it a link, which links me directly to the phrase you are quoting/using to make your argument - also write the page number next to the source%%
+> **Citation convention** *(added 2026-05-19 in response to your TODO):* when citing a specific quote or claim, use the format:
+>
+> &nbsp;&nbsp;&nbsp;&nbsp;`[Author Year, p. N](../../raw/FILE.pdf#page=N)` for PDFs with known pages
+> &nbsp;&nbsp;&nbsp;&nbsp;`[Author Year §X.Y](../../raw/FILE.pdf#search=exact%20quoted%20phrase)` for ICAP/Sunanda/HTML sources without page numbers
+>
+> The `#page=N` anchor works in Obsidian's native PDF viewer; PDF++ enhances it with visible highlighting on the target passage. Example reformatted citations below:
+>
+> - **Stevens [§87] in Sunanda et al. 2025** → [Sunanda 2025 §4.1](../../raw/expert/GREAT_Sunanda%20et%20al%202025%20-%20Advancing%20the%20carbon%20pricing%20framework%20in%20Indonesia%20-%20systematic%20review.pdf#page=11) *(Stevens cited at ref [87], discussion around p. 11)*
+> - **ICAP 2025 factsheet, "Year in Review"** → [ICAP 2025 §Year in Review](../../raw/ICAP%202025%20-%20Indonesia%20NEK%20Trading%20Scheme%20factsheet%20104.pdf#search=Year%20in%20Review)
+> - **Hartono et al. 2023** → [Hartono et al. 2023, pp. 2332–2346](../../raw/DONE_Hartono%20et%20al%202023%20-%20Carbon%20tax%2C%20energy%20policy%20and%20sustainable%20development%20in%20Indonesia.pdf)
+> - **IISD 2026 Box 1 (the −USD 7.8/tCO₂ finding)** → [IISD 2026 Box 1](../../raw/New%20sources/IISD_Indonesia%E2%80%99s%20Energy%20Support%20Measures%20-%202026.md#box-1-fossil-fuel-subsidies-undermining-carbon-pricing-mechanisms)
+>
+> **For PDFs you haven't read carefully yet**, leave page numbers as `[p.?]` and fill them in once you install PDF++ (see [`projects/personal/wiki/synthesis/pdf-highlight-workflow.md`](../../../personal/wiki/synthesis/pdf-highlight-workflow.md)) and revisit the source. That workflow makes adding `#page=N` anchors a single click per citation.
 
 #### Move 4 — The counter-evidence [~150 words]
 - Tax NOT regressive nationally; progressive in rural Indonesia (Yusuf & Resosudarmo 2015; Rahma et al. 2025)

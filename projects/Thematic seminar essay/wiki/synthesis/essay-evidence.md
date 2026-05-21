@@ -28,30 +28,43 @@ updated: 2026-05-19
 
 *Supports Objection 5 in [essay-master.md §5](essay-master.md#5-stress-test--counter-evidence) and the §3 hollow-reality punchline.*
 
-### Key finding in one sentence
+### Key findings in one sentence
 
-Indonesia spent **IDR 713.5 trillion (~USD 44 billion)** on energy subsidies in 2024, with ~89% (IDR ~634 trillion) supporting fossil fuels — approximately **8,000 times** the total value traded on Indonesia's carbon market since its 2023 launch.
+Indonesia spent **IDR 713.5 trillion (~USD 45 billion)** on energy subsidies in 2024 (88.9% supporting fossil fuels) — and IISD/OECD now quantify the net effect: **fossil-fuel subsidies produced a net effective carbon price of *negative* USD 7.8/tCO₂ in 2023**, more than fully cancelling the carbon-pricing scheme's signal.
+
+> **The single most important number for the essay:** the OECD 2023 net effective carbon rate is **IDR −118,000 / USD −7.8 per tCO₂** — explicit pricing (IDR 165 / USD 0.01 nominal) overwhelmed by implicit fossil-fuel subsidies. ([IISD/OECD 2026](../../raw/New%20sources/IISD_Indonesia%E2%80%99s%20Energy%20Support%20Measures%20-%202026.md), Box 1)
 
 ### The scale gap (most important for the essay)
 
-| Measure | Value |
-|---|---|
-| Total energy subsidies (2024) | IDR 713.5 trillion (~USD 44 billion) |
-| Share supporting fossil fuels | 88.9% |
-| PLN electricity compensation | >IDR 100 trillion |
-| 3-kg LPG subsidy | IDR 80.2 trillion |
-| Pertamina fuel compensation (Pertalite + Premium) | IDR 116.1 trillion |
-| Coal price cap (implicit subsidy) | IDR 58.5 trillion |
-| Transport fuel subsidy | IDR 17.1 trillion |
-| **Total IDX Carbon transactions since Sept 2023 launch** | **IDR 78 billion (~USD 4.9 million)** |
-%%TODO: Take the new numbers from the newer energy subsidies report I posted into raw/New sources%%
-The ratio is not a rounding error — it is the structural argument. Indonesia simultaneously operates the world's largest fossil-fuel subsidy system relative to its carbon market *and* claims to price carbon.
+| Measure | Value | Source |
+|---|---|---|
+| Total energy subsidies (2024) | **IDR 713.5 trillion** (~USD 45 billion) | IISD 2026 |
+| Peak (2022) | IDR 886.1 trillion (~USD 59.7 billion) | IISD 2026 |
+| Share supporting fossil fuels (2024) | 88.9% | IISD 2026 |
+| PLN electricity compensation (2024) | >IDR 100 trillion (rose from IDR 24.6T in 2021) | IISD 2026 |
+| 3-kg LPG subsidy (2024) | IDR 80.2 trillion (~USD 5.1 billion) | IISD 2026 |
+| Pertamina fuel compensation — Pertalite + AKR (2024) | IDR 116.1 trillion (~USD 7.3 billion) | IISD 2026 |
+| Pertamina compensation peak (2022) | IDR 275.3 trillion (~USD 18.5 billion) | IISD 2026 |
+| Transport fuel subsidy (2024) | IDR 17.1 trillion (~USD 1.1 billion) | IISD 2026 |
+| Kerosene subsidy (2024) | IDR 4.5 trillion | IISD 2026 |
+| Coal price cap (implicit subsidy) | IDR 58.5 trillion | IISD 2025 press release |
+| EV subsidies (2024) | 1.5% of total | IISD 2026 |
+| **Total IDX Carbon transactions since Sept 2023 launch** | **IDR 78 billion (~USD 4.9 million)** | IEEFA 2025 |
+| **Current IDXCarbon allowance price** | **IDR 47,681 / ~USD 3** per tCO₂ (down from USD 4 in 2023) | IISD 2026 / ICAP 2025 |
 
-**For Objection 5 in the essay:** the OECD ECR finding that Indonesia's net effective carbon rate is negative is confirmed here. The fossil-fuel subsidy system cancels out — and then some — every signal the ETS and carbon tax try to send.
+The ratio is not a rounding error — it is the structural argument. Indonesia simultaneously operates one of the world's largest fossil-fuel subsidy systems relative to its carbon market *and* claims to price carbon.
 
-### Who benefits — distributional finding
+**The Box-1 finding (IISD 2026 citing OECD):** *"In 2023, fossil fuel subsidies in Indonesia more than fully counteracted the impact of the national carbon pricing scheme, creating a net negative carbon price of USD 7.8 per tonne of carbon."* The carbon-pricing scheme's nominal explicit rate of IDR 165 (USD 0.01) per tCO₂ is overwhelmed by implicit fossil-fuel subsidies. This is **the single sharpest empirical anchor for Framing 2** — the system is not a decarbonisation mechanism by any plausible reading; the net signal is in the wrong direction.
 
-IISD analysis shows the **3-kg LPG subsidy** (the most expensive line item at IDR 80.2 trillion) is highly regressive: the **richest 10% consume almost as much subsidised LPG as the poorest 10%**. The World Bank CCDR 2023 recommendation: replace the LPG subsidy with targeted cash transfers (per PKH/BPNT design). This is politically viable — Indonesia has a proven conditional cash-transfer system.
+### Who benefits — distributional finding (IISD 2026 update)
+
+IISD's 2026 update sharpens the regressivity argument:
+
+- **More than 68% of households in *every* income group consume subsidised 3-kg LPG.** "Hanya untuk masyarakat miskin" (for the poor only) labels do not bind in practice.
+- **The richest 10% consume almost as much subsidised LPG as the poorest 10%** — confirmed.
+- **Indonesia imports three-quarters of its LPG** (~IDR 74 trillion / USD 4.7B annually), making the subsidy regressive AND import-dependent — a fiscal and geopolitical exposure as well as a climate one.
+- **Induction-stove alternative:** IISD's modelling shows induction is **17% cheaper to run than unsubsidised LPG**. Targeting the poorest 40–60% to transition could save IDR 7–12 trillion/year and free fiscal space.
+- The World Bank CCDR 2023 recommendation still holds: replace the LPG subsidy with targeted cash transfers (per PKH/BPNT design). The Indonesian conditional-cash-transfer infrastructure already exists.
 
 **Implication for the argument:** The political impossibility of subsidy reform is overstated for the household component. The genuinely hard-to-reform part is the **industrial component** (PLN compensation + Pertamina industrial fuel allocation), which benefits politically connected utilities and the national oil company, not the urban poor.
 
@@ -75,12 +88,11 @@ The coal price cap alone (IDR 58.5T = ~USD 3.6B annually) subsidises the coal se
 
 ### Best primary sources
 
-1. **IISD/GSI press release (2025):** "Indonesia spent IDR 713.5 trillion on energy subsidies in 2024, mostly for fossil fuels." → https://www.iisd.org/articles/press-release/indonesia-spent-idr-7135-trillion-energy-subsidies-2024-mostly-fossil-fuels
-2. **World Bank CCDR 2023 (Indonesia):** Recommends replacing LPG subsidies with targeted cash transfers. → https://www.worldbank.org/en/country/indonesia/publication/indonesia-country-climate-and-development-report
-3. **OECD ECR 2025 (Indonesia note):** Net effective carbon rate likely negative (already cited in Pattern C of [essay-master.md §1](essay-master.md#1-thesis--argument-logic))
-4. **Bridle, Kitson & Wooders (IISD-GSI, various years)** — Indonesia fossil-fuel subsidy series. ⚠️ Manual retrieval at IISD website.
-
-⚠️ Direct PDF download of the IISD 2025 Indonesia report was blocked by the sandbox. Retrieve from: https://www.iisd.org/publications/report/indonesia-energy-subsidies
+1. **🔥 IISD — "Indonesia's Energy Support Measures" (Feb 2026 update)** — Suharsono, Bridle, Wahida, Maulidia. *Cites the OECD 2023 net effective carbon rate of −USD 7.8/tCO₂ in Box 1.* The single best source for the essay's killer fact. Saved locally: [`raw/New sources/IISD_Indonesia's Energy Support Measures - 2026.md`](../../raw/New%20sources/IISD_Indonesia%E2%80%99s%20Energy%20Support%20Measures%20-%202026.md). Online: https://www.iisd.org/publications/digital-story/indonesia-energy-support-measures
+2. **IISD/GSI press release (2025):** "Indonesia spent IDR 713.5 trillion on energy subsidies in 2024, mostly for fossil fuels." → https://www.iisd.org/articles/press-release/indonesia-spent-idr-7135-trillion-energy-subsidies-2024-mostly-fossil-fuels
+3. **OECD — Net Effective Carbon Rates in Indonesia (Feb 2026 country note):** The IDR −118,000 / USD −7.8 per tCO₂ figure originates here. Saved locally: [`raw/New sources/Net effective carbon rates in Indonesia.pdf`](../../raw/New%20sources/Net%20effective%20carbon%20rates%20in%20Indonesia.pdf). Online: https://www.oecd.org/content/dam/oecd/en/topics/policy-sub-issues/carbon-pricing-and-energy-taxes/carbon-pricing-indonesia.pdf
+4. **World Bank CCDR 2023 (Indonesia):** Recommends replacing LPG subsidies with targeted cash transfers. → https://www.worldbank.org/en/country/indonesia/publication/indonesia-country-climate-and-development-report
+5. **Bridle, Kitson & Wooders (IISD-GSI, various years)** — Indonesia fossil-fuel subsidy series. ⚠️ Manual retrieval at IISD website.
 
 ---
 

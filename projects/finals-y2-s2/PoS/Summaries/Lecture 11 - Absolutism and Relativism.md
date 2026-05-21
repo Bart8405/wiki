@@ -35,11 +35,11 @@ updated: 2026-05-16
 
 A common move in public discourse is to dismiss "relativism" globally — to associate it with no-standards, "anything goes," postmodernism. **The lecture rejects this** as imprecise. The useful question is always: relativism *about what property*?
 
-Schema:
-- **Absolutism about F:** entities have F intrinsically.
-- **Relativism about F:** entities have F only relative to perspective S.
+==Schema:==
+- ==**Absolutism about F:** entities have F intrinsically.==
+- ==**Relativism about F:** entities have F only relative to perspective S.==
 
-*Trivial example to lock in the form:* relativism about **utility**. Is a tin-opener useful? It depends — on your aims. Utility *is* perspective-relative — depending on S (aim or purpose). That's relativism about utility. No one finds this controversial.
+==*Trivial example to lock in the form:* relativism about **utility**. Is a tin-opener useful? It depends — on your aims. Utility *is* perspective-relative — depending on S (aim or purpose). That's relativism about utility. No one finds this controversial.==
 
 ### Application 1 — relativism about truth
 

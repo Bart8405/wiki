@@ -1,5 +1,13 @@
 # Log — Thematic seminar essay
 
+## [2026-05-19] address-TODOs | Six %%TODO%% markers in active files resolved
+1. **IISD 2026 numbers** — `essay-evidence.md §1` updated with new figures from `raw/New sources/IISD_Indonesia's Energy Support Measures - 2026.md`. Key addition: OECD-cited **net effective carbon price of −USD 7.8/tCO₂ in 2023** (Box 1 of IISD 2026). Sources list updated to credit IISD 2026 + OECD Feb-2026 country note as primary.
+2. **Framings 2+3 fused** — `essay-master.md §1.4` rewritten. The unified framing: *"The implementation gap is the policy, and the credit-export economy is what makes it sustainable."* Move A (structural / institutional-economics) + Move B (political-economy revenue model) presented as two halves of one argument. §1.5 demoted to softer Framing-1 fallback.
+3. **§2 ETS-mechanics section dropped** — old "How the ETS actually works" cut from 500 → folded into §1 as a compact ≤250-word block. New §2 reframed as "Hollow reality + broader implications" (400 words; centred on the −USD 7.8/tCO₂ finding). Structure table updated; word budget rebalanced toward §1 political-economy and §3 recommendations. Addresses the seminar feedback (cover less, deeper) and the user's stated preference for political-economy / implications emphasis.
+4. **TOC links** — converted from broken markdown anchors (`#tldr--60-seconds`) to Obsidian wikilinks (`[[#TL;DR — 60 seconds|TL;DR — 60 seconds]]`). Tested against Obsidian's exact-heading-match resolver.
+5. **Citation convention added** — explicit format `[Author Year, p. N](../../raw/FILE.pdf#page=N)` for PDFs with known pages; `#search=phrase` for sources without page numbers. Four worked examples included. Notes that PDF++ workflow (see `projects/personal/wiki/synthesis/pdf-highlight-workflow.md`) will make per-citation page anchors a single-click operation.
+6. *(3 remaining TODOs are in `wiki/synthesis/archive/` — pre-consolidation drafts; no action needed.)*
+
 ## [2026-05-19] consolidate | Project unification — down from ~13 active files to 3
 - Created [`wiki/synthesis/essay-master.md`](wiki/synthesis/essay-master.md) merging the spine of `essay-writing-tomorrow.md` + `argument-logic.md` + `essay-requirements-checklist.md` into one navigable document with TOC, TL;DR, thesis & 5 patterns, framing options, structure, drafted intro, section-by-section plan, 5-objection stress-test, requirements checklist, past-feedback section, and verification checklist.
 - Created [`wiki/synthesis/essay-evidence.md`](wiki/synthesis/essay-evidence.md) merging the 3 Chain task 9 evidence briefs (fossil-fuel subsidies, Hashim/Arsari, EU CBAM) and the 24 unique sources from the two parallel overnight-search outputs into one summary table with priority reading order.

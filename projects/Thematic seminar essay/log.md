@@ -1,5 +1,12 @@
 # Log — Thematic seminar essay
 
+## [2026-05-21] synthesis | Task 10 — agent activity overview + essay writing guide
+Created two files:
+1. `projects/personal/wiki/synthesis/all-agent-activities-overview.md` — plain-English summary of all 10 agent tasks with file locations and what each produced. Bart's "I'm getting lost" request answered.
+2. `wiki/synthesis/essay-writing-tomorrow.md` — self-contained essay writing guide. Contains: thesis in one sentence, word-budget table for 3k and 4k versions, section-by-section paragraph plans (what to write + exact sources for each), a drafted 400-word introduction ready to copy/edit, sources organised by section, and a 10-item fact-verification checklist. Bart should open this file tomorrow morning and start writing directly.
+Updated `index.md` with the new synthesis file.
+Chain task for Agent 11 written in `Box for Claude.md` as Task 11.
+
 ## [2026-05-20] research | Chain task 9 — evidence chase, counter-evidence test, thesis hook
 Box task #9 completed by 7AM fallback agent. Three evidence-gap synthesis notes added to `raw/Chain task 9 search/`:
 1. `DONE_Gap1_IISD-GSI-Indonesia-fossil-fuel-subsidies.md` — IDR 713.5T fossil-fuel subsidy vs IDR 78B carbon market (8,000:1 ratio); key for Objection 5 response

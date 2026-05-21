@@ -32,16 +32,17 @@ updated: 2026-05-19
 ## Table of contents
 
 1. [TL;DR — 60 seconds](#tldr--60-seconds)
-2. [Thesis & argument logic](#1-thesis--argument-logic)
+2. [Background knowledge — facts to be an expert](#background-knowledge--facts-to-be-an-expert)
+   - Regulatory architecture · ETS facts · Carbon tax facts · Article 6 · Institutions · Macro context · Global pricing · Concepts · Thinkers · Actors · Gotchas
+3. [Thesis & argument logic](#1-thesis--argument-logic)
    - Working thesis · The puzzle · Five cross-reading patterns · Three framing options · Why Framing 2
-3. [Essay structure & paragraph plans](#2-essay-structure--paragraph-plans)
-4. [Drafted introduction (~400 words, ready to edit)](#3-drafted-introduction--ready-to-edit)
-5. [Section-by-section writing plan](#4-section-by-section-writing-plan)
-6. [Stress-test against objections](#5-stress-test--counter-evidence)
-7. [Requirements rubric & checklist](#6-requirements-rubric--checklist)
-8. [Past feedback to apply](#7-past-feedback-to-apply)
-9. [Verification checklist — facts to confirm before submitting](#8-verification-checklist--facts-to-confirm-before-submitting)
-10. [Background knowledge — facts to be an expert](#10-background-knowledge--facts-to-be-an-expert)
+4. [Essay structure & paragraph plans](#2-essay-structure--paragraph-plans)
+5. [Drafted introduction (~400 words, ready to edit)](#3-drafted-introduction--ready-to-edit)
+6. [Section-by-section writing plan](#4-section-by-section-writing-plan)
+7. [Stress-test against objections](#5-stress-test--counter-evidence)
+8. [Requirements rubric & checklist](#6-requirements-rubric--checklist)
+9. [Past feedback to apply](#7-past-feedback-to-apply)
+10. [Verification checklist — facts to confirm before submitting](#8-verification-checklist--facts-to-confirm-before-submitting)
 
 %%TODO: Links do not work - fix and always have them working%%
 ---
@@ -55,6 +56,207 @@ updated: 2026-05-19
 **Top 5 sources:** ICAP 2025 (factsheet) · Sunanda et al. 2025 (SLR) · Hartono et al. 2023 (CGE) · van den Bergh & Drews 2026 (LMIC review) · Tony Blair Institute 2025 (recommendations).
 
 **Three things to do before submitting:** (a) tick through §6 Master Checklist, (b) verify the §8 facts, (c) apply the past-feedback note in §7.
+
+---
+
+## Background knowledge — facts to be an expert
+
+*Reference section. Consulted, not read top-to-bottom. Each load-bearing fact has a clickable source. Add to this as you learn more — this is your living "what an expert on Indonesian carbon pricing knows" file.*
+
+### Indonesia — the regulatory architecture
+
+Indonesia's carbon-pricing framework was NOT set up in one piece of legislation. It is layered across multiple regulations issued over four years.
+
+| Regulation | Date | Legal weight | What it does |
+|---|---|---|---|
+| **Law 16/2016** | 2016 | *Undang-Undang* (Law) | Ratified the Paris Agreement; underlies everything below |
+| **Law 7/2021 (HPP / Tax Harmonization Law)** | 29 Oct 2021 | *Undang-Undang* (Law) | **Art. 13 establishes the carbon tax** at IDR 30/kg CO₂eq min (~USD 2/tCO₂). This is the *only* piece in primary legislation; everything else below is regulation. |
+| **Presidential Regulation 98/2021 (Perpres NEK)** | Oct 2021 | Presidential Regulation | Establishes the Carbon Economic Value (*Nilai Ekonomi Karbon*) framework: carbon trading, GHG offsets (SPE-GRK), results-based payments, and permits international transfers *in principle*. Did NOT operationalise the ETS. |
+| **MoEF Regulation 21/2022** | Apr 2022 | Ministerial Regulation | Operational guidelines for carbon economic value implementation. |
+| **MEMR Regulation 16/2022** | 2022 | Ministerial Regulation | Power sub-sector specifically. The operational base for the ETS. |
+| **OJK Regulation 14/2023** | 2023 | Financial-authority Regulation | Carbon trading through the carbon exchange. Established IDXCarbon. |
+| **Presidential Regulation 110/2025** | Oct 2025 | Presidential Regulation | Significantly amended the framework. Embeds the **"cap-tax-and-trade" hybrid** in law; ties the carbon levy to the ETS market price; introduces the **SRUK** centralised registry; **decouples voluntary carbon trading from the NDC timeline**; makes **Corresponding Adjustments optional** for international transfers. *This is the regulation most critical to Framing 2.* |
+
+**Sources:**
+- [ICAP factsheet 104 — Indonesia NEK Trading Scheme](../../raw/ICAP%202025%20-%20Indonesia%20NEK%20Trading%20Scheme%20factsheet%20104.pdf) (local)
+- [Sunanda et al. 2025 — SLR Indonesia carbon pricing](../../raw/expert/GREAT_Sunanda%20et%20al%202025%20-%20Advancing%20the%20carbon%20pricing%20framework%20in%20Indonesia%20-%20systematic%20review.pdf) (local)
+- [HSF Kramer — Introducing Indonesia's New Carbon Law](https://www.hsfkramer.com/notes/indonesia/2021-12/introducing-indonesias-new-carbon-law)
+- [Nusantara Legal — Key Points of PR 98/2021](https://nusantaralegal.com/the-implementation-of-carbon-economic-value-in-indonesia-key-points-of-presidential-regulation-no-98-of-2021/)
+- [IEA Policy DB — PR 98/2021](https://www.iea.org/policies/25655-presidential-regulation-no-98-on-the-implementation-of-carbon-pricing-to-achieve-the-nationally-determined-contribution-target-and-control-over-greenhouse-gas-emissions-in-the-national-development)
+
+### Indonesia ETS (NEK Trading Scheme) — operational facts
+
+- **Type:** Mandatory, **intensity-based** ETS for the power sector. Cap is tCO₂/MWh, not absolute tonnes.
+- **Launch:** February 2023. [IDXCarbon exchange](https://idxcarbon.co.id/) launched September 2023.
+- **Phase 1 (2023–24):** 99 PLN-grid coal plants ≥25 MW; 42 compliance entities.
+- **Phase 2 (2025–27):** Expanded to **563 installations** — captive coal + gas power plants ≥25 MW (the captive coal expansion is the key change, because captive coal serves the nickel/steel/aluminium downstreaming sectors).
+- **Phase 3 (2028–30, planned):** All fossil-fuel power including diesel plants ≥2 MW; coal plants <25 MW.
+- **Total coverage today:** ~21% of national GHG emissions (225.3 Mt ETS sector vs. 1,053.4 Mt national in 2023). Forestry, transport, and most industry remain outside.
+- **Allocation method:** **Benchmarking** (intensity targets per installation type) + 100% free in Phase 1; 75–85% free in Phase 2 (the % depends on compliance); **no auctions held** as of January 2026.
+- **2025 Phase 2 allowance allocation: POSTPONED** due to regulatory revision. **No allowances issued and no allowance trading in 2025.**
+- **Total IDXCarbon transactions since Sept 2023:** ~IDR 78 billion (~USD 4.9 million). Average price: ~USD 4/tCO₂ in 2023 → ~USD 3.9/tCO₂ in late 2024 (going *down*).
+- **Article 6 offsets:** SPE-GRK domestic credits allowed under ETS compliance, must come from new/renewable energy, transport/construction/industry efficiency, or other energy-sector activities.
+
+**Sources:**
+- [ICAP factsheet 104](../../raw/ICAP%202025%20-%20Indonesia%20NEK%20Trading%20Scheme%20factsheet%20104.pdf) (local) — ground-truth reference for everything in this subsection
+- [IEEFA 2025 — Two years after launch, Indonesia's carbon market struggles](https://ieefa.org/resources/two-years-after-launch-indonesias-carbon-market-struggles-find-momentum) (transaction data)
+- [IETA Business Brief — Indonesia ETS at a Glance (2025)](https://www.ieta.org/uploads/wp-content/Resources/Busines-briefs/2025/IETA_Business_Brief-Indonesia-final.pdf) (industry view)
+- [Sembiring et al. 2025 — Carbon tax and trading mechanisms in Indonesian power sector](https://www.sciencedirect.com/science/article/pii/S2666790825001478) (scenario modelling)
+
+### Indonesia carbon tax — operational facts
+
+- **Legal basis:** Law 7/2021 Art. 13 (HPP / Tax Harmonization Law).
+- **Rate:** IDR 30/kg CO₂eq = ~USD 2/tCO₂ minimum.
+- **Originally scheduled to start:** 1 April 2022.
+- **Postponement history:**
+  1. Apr 2022 → Jul 2022
+  2. Jul 2022 → 2025
+  3. 2025 → "pending" indefinitely
+  4. Still not enforced as of early 2026
+- **Under PR 110/2025:** the carbon levy is meant to function as a **price-floor backstop** tied to the ETS market price (not a fixed independent rate). The level moves with the market.
+- **Literature benchmark:** Parry et al. (2021, IMF) recommend USD 30–60/tCO₂ for emerging-market economies; Stern-Stiglitz report says USD 50–100 by 2030. Indonesia is **~93–97% below this benchmark**.
+
+**Sources:**
+- [Parry, Black & Roaf (IMF, 2021) — Proposal for an International Carbon Price Floor](https://www.elibrary.imf.org/view/journals/066/2021/001/article-A001-en.xml)
+- [HSF Kramer — Indonesia's New Carbon Law (HPP)](https://www.hsfkramer.com/notes/indonesia/2021-12/introducing-indonesias-new-carbon-law)
+- [Sunanda et al. 2025 §4.1](../../raw/expert/GREAT_Sunanda%20et%20al%202025%20-%20Advancing%20the%20carbon%20pricing%20framework%20in%20Indonesia%20-%20systematic%20review.pdf) (local)
+- ["Delaying the Implementation of Carbon Tax in Indonesia" (Pena Justisia, 2024)](https://jurnal.unikal.ac.id/index.php/hk/article/view/4140)
+
+### Article 6 / international carbon market — Indonesia
+
+- **Moratorium 2021–2024:** Indonesia banned international transfers while setting up the registry. Politically framed as protecting the NDC.
+- **Moratorium lifted:** January 2025.
+- **First authorisation:** ~1.78 MtCO₂e of PLN-affiliated credits authorised for international transfer.
+- **PR 110/2025 (Oct 2025) changes — *critical for the essay*:**
+  - **Decouples voluntary carbon market from NDC timeline** → credits can be exported without waiting for national target fulfilment
+  - **Corresponding Adjustments OPTIONAL** for international transfers → enables potential double-counting (Indonesia counts the reduction toward its NDC AND sells the credit to a foreign buyer who also counts it)
+  - Establishes the centralised **SRUK** registry (replaces fragmented SRN-PPI)
+- **Government revenue ambition:** USD 65 billion from carbon projects by 2028 (Hashim at COP29 Nov 2024); 13.4 billion tonnes total credit sales (long-horizon, unspecified date).
+
+**Sources:**
+- [ICAP factsheet 104 §"Year in Review" + §"Flexibility and Linking"](../../raw/ICAP%202025%20-%20Indonesia%20NEK%20Trading%20Scheme%20factsheet%20104.pdf) (local)
+- [essay-evidence.md §2 — Hashim/Arsari political-economy brief](essay-evidence.md#evidence-2-hashim-djojohadikusumo--arsari-group)
+- [Pulitzer Center — "Forest for Tycoons" series](https://pulitzercenter.org/projects/forest-tycoons) (investigative; the 557 Mt + EUR 1.2B claims at COP29)
+
+### Key Indonesian institutions
+
+| Institution | Role |
+|---|---|
+| **PLN** (Perusahaan Listrik Negara) | State-owned electricity utility. The ETS's main covered entity — Phase 1 was essentially PLN's coal plants. |
+| **IDXCarbon** | The carbon exchange, hosted on the Indonesia Stock Exchange. Operational since Sept 2023; supervised by OJK. |
+| **OJK** (Otoritas Jasa Keuangan) | Financial Services Authority. Regulates IDXCarbon. |
+| **MEMR** (Ministry of Energy and Mineral Resources) | Coordinates ETS implementation in the power sub-sector. |
+| **MoE / MoEF** (Ministry of Environment / Forestry — split under Prabowo 2024) | UNFCCC focal point; leads NDC and carbon pricing oversight; operates the SRUK registry. |
+| **Ministry of Finance** | Leads carbon tax development (separately from MoEF's carbon trading work). |
+| **BPDLH** (Environmental Fund Management Agency) | Receives ETS proceeds; disburses result-based payments. **Scale is trivial** — IDR 28.6B disbursed May 2024 against IDR 713.5T fossil-fuel subsidies (ratio ~1:25,000). |
+| **SRUK / SRN-PPI** | National registries (post- and pre-PR 110/2025). Track credit issuance, transfer, surrender. |
+| **National Steering Committee on Carbon Pricing** | Chair: **Coordinating Ministry of Food Affairs** (not Environment — notable signal of policy framing) |
+
+### Indonesia macro context (the numbers an expert knows cold)
+
+- **Total emissions (2023):** 1,053.4 MtCO₂e excl. LULUCF.
+- **Position globally:** Top-10 GHG emitter from fossil-fuel combustion; **largest emitter in Southeast Asia**.
+- **NDC target (October 2025 update):** **1.35 GtCO₂e absolute cap by 2030** (unconditional); 1.27 GtCO₂e (conditional on international support). Replaces previous BAU-relative targets.
+- **Long-term goal:** Climate neutrality by 2060 (Long-Term Strategy 2021).
+- **Climate Action Tracker rating (Dec 2024):** **"Critically Insufficient"** — Indonesia's policies are on track for 3°C+ warming.
+- **Energy subsidies (2024):** **IDR 713.5 trillion (~USD 44 billion)**, of which ~89% supports fossil fuels.
+- **Coal:** Indonesia is the **world's largest coal exporter** (mostly to China, India, Japan). The ETS covers domestic power-sector coal emissions only; exported coal's downstream emissions are entirely outside the system.
+- **Downstreaming policy:** Jokowi → Prabowo industrial-policy priority. Domestic processing of raw commodities (nickel → batteries; bauxite → aluminium; coal). Drives the captive-coal expansion that Phase 2 of the ETS now covers via free allocation.
+- **OECD Effective Carbon Rate (ECR):** Indonesia's *net* ECR is likely **negative** once fuel subsidies are netted out. Indonesia is among the lowest in OECD/G20 coverage.
+- **Renewable potential (unrealised):** 3,294 GW solar, 155 GW wind, 95 GW hydro, 23 GW geothermal.
+
+**Sources:**
+- [ICAP factsheet 104](../../raw/ICAP%202025%20-%20Indonesia%20NEK%20Trading%20Scheme%20factsheet%20104.pdf) (national emissions + NDC)
+- [essay-evidence.md §1 — IISD/GSI on fossil-fuel subsidies](essay-evidence.md#evidence-1-iisd-gsi--indonesian-fossil-fuel-subsidies)
+- [Climate Action Tracker — Indonesia profile](https://climateactiontracker.org/countries/indonesia/) (live monitoring)
+- [OECD — Effective Carbon Rates 2025 (Indonesia country note)](https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/02/effective-carbon-rates-2025-country-notes_b08aeef1/indonesia_0265ee11/8a53d669-en.pdf)
+- [Sunanda et al. 2025 §1](../../raw/expert/GREAT_Sunanda%20et%20al%202025%20-%20Advancing%20the%20carbon%20pricing%20framework%20in%20Indonesia%20-%20systematic%20review.pdf) (RE potential figures)
+
+### Global carbon pricing — the numbers everyone cites
+
+- **80 carbon-pricing instruments** operating worldwide in early 2025: 43 carbon taxes + 37 ETSs.
+- **USD 100+ billion** in global carbon-pricing revenues crossed in 2024 — a first.
+- **~28% of global GHG emissions** covered by some form of direct carbon price.
+- All large middle-income economies (Brazil, China, India, Indonesia, Türkiye) have implemented or are developing carbon pricing.
+- **EU ETS** — world's first ETS (2005). Currently ~€70–75/tCO₂. The benchmark price globally.
+- **EU CBAM (Carbon Border Adjustment Mechanism)** — definitive application from **1 January 2026**. Covers: cement, iron/steel, aluminium, fertilisers, electricity, hydrogen. EU importers pay the EU ETS price minus any domestic carbon price already paid in the country of origin. → Indonesian exporters with a ~$2 domestic price effectively pay the EU ~$73/tCO₂ on each tonne of CO₂ embedded in covered exports.
+- **Singapore** — carbon tax launched 2019 at SGD 5/tCO₂; raised to **SGD 25 (~USD 19/tCO₂) by 2024**, rising further. The SEA success-story comparator.
+- **Public support in SEA:** >70% of respondents in ADB's 2024 climate-perception survey of 14 Asian economies support a national carbon tax; 93% are willing to bear personal costs.
+
+**Sources:**
+- [World Bank — State and Trends of Carbon Pricing 2025](https://openknowledge.worldbank.org/entities/publication/e5f6e755-e6a6-4d2c-927a-23b5cc8a9b03) (the canonical annual reference)
+- [European Commission — CBAM official page](https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en)
+- [OECD — Effective Carbon Rates 2025](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/11/effective-carbon-rates-2025_a578dc11/a5a5d71f-en.pdf)
+- [East Asia Forum — Carbon taxes in Southeast Asia (Feb 2025)](https://eastasiaforum.org/2025/02/22/the-case-for-carbon-taxes-in-southeast-asia/) (ADB perception survey)
+- [IEEFA — Carbon pricing in Asia (Sep 2025)](https://ieefa.org/sites/default/files/2025-09/IEEFA%20Report%20-%20Carbon%20pricing%20in%20Asia_Sep25.pdf) (Singapore comparison)
+
+### Foundational carbon-pricing concepts
+
+Every term an expert defines on first use:
+
+- **Carbon tax** — government sets the *price* of emissions (e.g. USD 30/tCO₂); the quantity emitted adjusts in response. A Pigouvian tax internalising the externality.
+- **ETS / cap-and-trade** — government sets the *quantity* (cap) of allowable emissions; price adjusts via the market. Allowances are tradable.
+- **Hybrid / cap-tax-and-trade** — both instruments operate together; the tax usually functions as a price floor underneath the ETS. The modelling literature converges on this design as outperforming either alone.
+- **Intensity-based vs absolute cap** — intensity = emissions per unit of output (tCO₂/MWh of electricity); absolute = total tonnes. Intensity caps let total emissions rise if output rises (China, Indonesia start here). Absolute caps fix total emissions (EU ETS). Indonesia's ETS is meant to transition from intensity to absolute under Phase 3 alignment with the 1.35 Gt NDC cap.
+- **Free allocation / grandfathering** — allowances handed out free, often based on historical emissions. Politically easier but no state revenue; protects incumbents.
+- **Benchmarking** — allowances allocated per unit of output based on industry best-practice benchmarks. Used by Indonesia.
+- **Auctioning** — allowances sold to the highest bidder. Generates state revenue. Indonesia: zero auctions to date.
+- **MAC (marginal abatement cost)** — cost of avoiding the *next* tCO₂ of emissions in a specific sector. Indonesia's MAC for coal retirement: USD 12–13/tCO₂.
+- **ECR (Effective Carbon Rate)** — OECD methodology. Combines explicit pricing (carbon tax + ETS) **minus** implicit anti-pricing (fossil-fuel subsidies, fuel-tax exemptions). Captures the *net* signal sent to the economy. Indonesia's net ECR is likely negative.
+- **Double dividend (Goulder 1995)** — using carbon-tax revenue to cut other distortionary taxes can deliver both environmental AND economic gains (lower unemployment, higher GDP). Foundational argument for revenue recycling.
+- **Article 6 of the Paris Agreement** — establishes international carbon-trading rules:
+  - **6.2:** Direct country-to-country transfers (Internationally Transferred Mitigation Outcomes, "ITMOs")
+  - **6.4:** UN-supervised crediting mechanism (the new CDM successor)
+  - **6.8:** Non-market approaches
+- **Corresponding Adjustment (CA)** — accounting rule under Article 6.2. When Country A sells an ITMO to Country B, Country A must *add* that tonne back to its own emissions (or subtract it from its reductions). Prevents double-counting. **Indonesia's PR 110/2025 made CAs optional**, which is the load-bearing controversy in the essay's Framing 2.
+- **VCM (Voluntary Carbon Market)** — non-compliance market where buyers (usually corporates) purchase credits voluntarily for net-zero claims. Standards: Verra (VCS), Gold Standard, Plan Vivo, ART. Indonesia is a major VCM supply country.
+- **REDD+** — "Reducing Emissions from Deforestation and Forest Degradation." UNFCCC programme; key activity in Indonesian VCM.
+
+### Key thinkers and sources to recognise instantly
+
+| Person / source | Key contribution | Where in your library |
+|---|---|---|
+| **Sunanda, Setyonegoro, Hadi & Sarjiya** (2025) | Indonesia carbon-pricing SLR — 65 studies; graduated tax + staged ETS recommendation. *Single strongest source for this essay.* | [`raw/expert/GREAT_Sunanda et al 2025`](../../raw/expert/GREAT_Sunanda%20et%20al%202025%20-%20Advancing%20the%20carbon%20pricing%20framework%20in%20Indonesia%20-%20systematic%20review.pdf) |
+| **ICAP** (International Carbon Action Partnership) | The reference factsheet on every ETS worldwide. The single source of operational truth for Indonesia's NEK. | [`raw/ICAP 2025 factsheet`](../../raw/ICAP%202025%20-%20Indonesia%20NEK%20Trading%20Scheme%20factsheet%20104.pdf) |
+| **van den Bergh & Drews** (2026) | Review of carbon-pricing studies for developing countries — the flagship LMIC literature review. | [`raw/DONE_van den Bergh & Drews 2026`](../../raw/DONE_van%20den%20Bergh%20%26%20Drews%202026%20-%20A%20review%20of%20carbon-pricing%20studies%20for%20developing%20countries.pdf) |
+| **Djoni Hartono et al.** (2023) | Indonesia-specific CGE — revenue-recycled carbon tax raises GDP and employment (double dividend in Indonesian context). | [`raw/DONE_Hartono et al 2023`](../../raw/DONE_Hartono%20et%20al%202023%20-%20Carbon%20tax%2C%20energy%20policy%20and%20sustainable%20development%20in%20Indonesia.pdf) |
+| **Yusuf & Resosudarmo** (2015) | Carbon tax is NOT regressive at national level in Indonesia — progressive among lower-income rural households. Foundational distributional finding. | [`raw/LOOK_Yusuf & Resosudarmo 2015`](../../raw/LOOK_Yusuf%20%26%20Resosudarmo%202015%20-%20On%20the%20distributional%20impact%20of%20a%20carbon%20tax%20in%20developing%20countries%20-%20the%20case%20of%20Indonesia.pdf) |
+| **Jia & Lin** (2020) — tax > ETS | "Rethinking the choice of carbon tax and carbon trading in China." Argues tax alone outperforms ETS alone. | [`raw/DONE_Jia & Lin 2020`](../../raw/DONE_Jia%20%26%20Lin%202020%20-%20Rethinking%20the%20choice%20of%20carbon%20tax%20and%20carbon%20trading%20in%20China.pdf) |
+| **Lin & Jia** (2020) — tax + ETS > either | "Can carbon tax complement ETS?" Argues the hybrid outperforms either alone. ⚠️ Different paper, same authors. | [`raw/LOOK_Lin & Jia 2020`](../../raw/LOOK_Lin%20%26%20Jia%202020%20-%20Can%20carbon%20tax%20complement%20emission%20trading%20scheme%20-%20impact%20in%20China.pdf) |
+| **Lawrence Goulder** (1995) | Canonical "double dividend" reader's guide. The theoretical foundation of revenue recycling. | [`raw/DONE_Goulder 1995`](../../raw/DONE_Goulder%201995%20-%20Environmental%20taxation%20and%20the%20double%20dividend.pdf) |
+| **Don Fullerton** (2011) | "Six distributional effects of environmental policy." Canonical distributional-channels framework. | [`raw/LOOK_Fullerton 2011`](../../raw/LOOK_Fullerton%202011%20-%20Six%20distributional%20effects%20of%20environmental%20policy.pdf) |
+| **Jakob & Steckel** (2014) | "How climate change mitigation could harm development in poor countries." Coined the "climate finance curse" framing. | [`raw/LOOK_Jakob & Steckel 2014`](../../raw/LOOK_Jakob%20%26%20Steckel%202014%20-%20How%20climate%20change%20mitigation%20could%20harm%20development%20in%20poor%20countries.pdf) |
+| **Dorband, Jakob, Kalkuhl & Steckel** (2019) | Poverty and distributional effects of carbon pricing in 87 LMICs. Pricing is progressive below ~USD 15k income per capita. | [`raw/LOOK_Dorband, Jakob, Kalkuhl & Steckel 2019`](../../raw/LOOK_Dorband%2C%20Jakob%2C%20Kalkuhl%20%26%20Steckel%202019%20-%20Poverty%20and%20distributional%20effects%20of%20carbon%20pricing%20in%20low-%20and%20middle-income%20countries.pdf) |
+| **Pierucci et al.** (2025) | "Modern colonialism in carbon markets" — emergy accounting; Brazil case; the sharpest critical-view anchor. | [`raw/DONE_Pierucci et al 2025`](../../raw/DONE_Pierucci%20et%20al%202025%20-%20Modern%20colonialism%20in%20carbon%20markets%20-%20insights%20from%20emergy%20accounting.pdf) |
+| **Andriansyah & Hong** (AMRO 2022) | "Carbon Pricing in ASEAN+3 Economies." Same author later wrote "Cap First, and Then Tax" — the most direct answer to the essay's central puzzle. | [`raw/MENTIONED_Andriansyah & Hong 2022`](../../raw/MENTIONED_Andriansyah%20%26%20Hong%202022%20-%20Carbon%20pricing%20in%20ASEAN%2B3%20economies%20-%20progress%20and%20challenges%20(AMRO).pdf) + [AMRO "Cap First" online](https://amro-asia.org/cap-first-and-then-tax-carbon-pricing-in-indonesia/) |
+| **Fursman, Dace & Macgeoch** (Tony Blair Institute 2025) | International carbon markets policy roadmap. Indonesia coal retirement MAC at USD 12–13/tCO₂. | [`raw/expert/TBI 2025`](../../raw/expert/Fursman%2C%20Dace%20%26%20Macgeoch%202025%20-%20International%20carbon%20markets%20-%20climate%20action%20at%20a%20lower%20price%20(Tony%20Blair%20Institute).pdf) |
+| **Ian Parry** (IMF, 2021) | International Carbon Price Floor proposal. $30–60/tCO₂ recommendation for emerging markets. | [Online — IMF Staff Climate Note](https://www.elibrary.imf.org/view/journals/066/2022/006/article-A001-en.xml) |
+| **Climate Action Tracker** | Real-time independent NDC + policy rating. Indonesia: "Critically Insufficient." | [Indonesia profile](https://climateactiontracker.org/countries/indonesia/) |
+
+### The political-economy actors to know
+
+- **Prabowo Subianto** — President of Indonesia (since Oct 2024). Continues Jokowi's downstreaming agenda; less emphasis on environmental commitments. Brother of Hashim.
+- **Hashim Djojohadikusumo** — Special Presidential Envoy for Climate and Energy (Oct 2024–). Owns Arsari Group, which has carbon-market concessions. The named conflict-of-interest in the essay.
+- **Mari Elka Pangestu** — Ex-World Bank Managing Director. Recruited by Hashim (Nov 2024–) to design Indonesia's carbon-market mechanism.
+- **Arsari Group** — Hashim's family conglomerate. Subsidiary ITCI Kayan Hutani is a confirmed carbon-trading participant (Bulungan, N. Kalimantan).
+- **Walhi** — Indonesia's largest environmental NGO. Critical voice on Hashim/Arsari and on REDD+ implementation.
+- **Adaro, RGE, Sinarmas, Melchor** — major Indonesian conglomerates entering the carbon market through forest concessions. Documented in [Pulitzer Center "Forest for Tycoons"](https://pulitzercenter.org/projects/forest-tycoons) and the parallel [`indonesia-carbon-market`](../../../indonesia-carbon-market/wiki/synthesis/Political_Economy_Notes.md) project.
+
+### Common mistakes / gotchas to avoid
+
+A short list of things easy to get wrong on first read:
+
+1. **Law 7/2021 ≠ everything.** It legislated only the carbon tax. The ETS was set up by PR 98/2021. *Common error: "Law 7/2021 legislated the tax and the ETS."*
+2. **Jia & Lin (2020) ≠ Lin & Jia (2020).** Two different papers, opposite arguments. Always check the author order.
+3. **Indonesia's "ETS" is intensity-based, not absolute.** Total emissions can rise even with the ETS "tightening."
+4. **"Decoupling from NDC timeline" means** credits can be sold internationally without waiting for Indonesia to meet its NDC. NOT "decoupled from climate goals" — it's a procedural/timing matter that has substantive consequences.
+5. **Corresponding Adjustments are now OPTIONAL** in Indonesia (PR 110/2025), not eliminated. Most foreign buyers will still require them — but the *legal default* for Indonesia is no CA.
+6. **Indonesia's net effective carbon rate is likely negative** — the OECD ECR figure netting fuel subsidies. Saying "Indonesia prices carbon at $2/tCO₂" overstates the actual signal.
+7. **The "tax is politically impossible" framing is contested**, not settled. Yusuf & Resosudarmo 2015 + Rahma et al. 2025 + ADB 2024 survey all push back on it. Resistance is *elite-level*, not voter-level.
+
+---
+
+*Living section — add to it as you learn more.*
 
 ---
 
@@ -591,207 +793,6 @@ Structure: **funnel** — general → specific.
 | IISD/GSI press release (2025) — IDR 713.5T subsidies | ⚠️ **Synthesis only**. Full report: https://www.iisd.org/publications/report/indonesia-energy-subsidies |
 | CSIS Indonesia Working Paper 2025 (CBAM) | ⚠️ **Manual download** — URL in [essay-evidence.md §3](essay-evidence.md#evidence-3-eu-cbam-exposure-for-indonesia) |
 | World Bank CCDR 2023 | ⚠️ **No local file.** Referenced in [essay-evidence.md §1](essay-evidence.md#evidence-1-iisd-gsi--indonesian-fossil-fuel-subsidies) |
-
----
-
-## 10. Background knowledge — facts to be an expert
-
-*Reference section. Consulted, not read top-to-bottom. Each load-bearing fact has a clickable source. Add to this as you learn more — this is your living "what an expert on Indonesian carbon pricing knows" file.*
-
-### 10.1 Indonesia — the regulatory architecture
-
-Indonesia's carbon-pricing framework was NOT set up in one piece of legislation. It is layered across multiple regulations issued over four years.
-
-| Regulation | Date | Legal weight | What it does |
-|---|---|---|---|
-| **Law 16/2016** | 2016 | *Undang-Undang* (Law) | Ratified the Paris Agreement; underlies everything below |
-| **Law 7/2021 (HPP / Tax Harmonization Law)** | 29 Oct 2021 | *Undang-Undang* (Law) | **Art. 13 establishes the carbon tax** at IDR 30/kg CO₂eq min (~USD 2/tCO₂). This is the *only* piece in primary legislation; everything else below is regulation. |
-| **Presidential Regulation 98/2021 (Perpres NEK)** | Oct 2021 | Presidential Regulation | Establishes the Carbon Economic Value (*Nilai Ekonomi Karbon*) framework: carbon trading, GHG offsets (SPE-GRK), results-based payments, and permits international transfers *in principle*. Did NOT operationalise the ETS. |
-| **MoEF Regulation 21/2022** | Apr 2022 | Ministerial Regulation | Operational guidelines for carbon economic value implementation. |
-| **MEMR Regulation 16/2022** | 2022 | Ministerial Regulation | Power sub-sector specifically. The operational base for the ETS. |
-| **OJK Regulation 14/2023** | 2023 | Financial-authority Regulation | Carbon trading through the carbon exchange. Established IDXCarbon. |
-| **Presidential Regulation 110/2025** | Oct 2025 | Presidential Regulation | Significantly amended the framework. Embeds the **"cap-tax-and-trade" hybrid** in law; ties the carbon levy to the ETS market price; introduces the **SRUK** centralised registry; **decouples voluntary carbon trading from the NDC timeline**; makes **Corresponding Adjustments optional** for international transfers. *This is the regulation most critical to Framing 2.* |
-
-**Sources:**
-- [ICAP factsheet 104 — Indonesia NEK Trading Scheme](../../raw/ICAP%202025%20-%20Indonesia%20NEK%20Trading%20Scheme%20factsheet%20104.pdf) (local)
-- [Sunanda et al. 2025 — SLR Indonesia carbon pricing](../../raw/expert/GREAT_Sunanda%20et%20al%202025%20-%20Advancing%20the%20carbon%20pricing%20framework%20in%20Indonesia%20-%20systematic%20review.pdf) (local)
-- [HSF Kramer — Introducing Indonesia's New Carbon Law](https://www.hsfkramer.com/notes/indonesia/2021-12/introducing-indonesias-new-carbon-law)
-- [Nusantara Legal — Key Points of PR 98/2021](https://nusantaralegal.com/the-implementation-of-carbon-economic-value-in-indonesia-key-points-of-presidential-regulation-no-98-of-2021/)
-- [IEA Policy DB — PR 98/2021](https://www.iea.org/policies/25655-presidential-regulation-no-98-on-the-implementation-of-carbon-pricing-to-achieve-the-nationally-determined-contribution-target-and-control-over-greenhouse-gas-emissions-in-the-national-development)
-
-### 10.2 Indonesia ETS (NEK Trading Scheme) — operational facts
-
-- **Type:** Mandatory, **intensity-based** ETS for the power sector. Cap is tCO₂/MWh, not absolute tonnes.
-- **Launch:** February 2023. [IDXCarbon exchange](https://idxcarbon.co.id/) launched September 2023.
-- **Phase 1 (2023–24):** 99 PLN-grid coal plants ≥25 MW; 42 compliance entities.
-- **Phase 2 (2025–27):** Expanded to **563 installations** — captive coal + gas power plants ≥25 MW (the captive coal expansion is the key change, because captive coal serves the nickel/steel/aluminium downstreaming sectors).
-- **Phase 3 (2028–30, planned):** All fossil-fuel power including diesel plants ≥2 MW; coal plants <25 MW.
-- **Total coverage today:** ~21% of national GHG emissions (225.3 Mt ETS sector vs. 1,053.4 Mt national in 2023). Forestry, transport, and most industry remain outside.
-- **Allocation method:** **Benchmarking** (intensity targets per installation type) + 100% free in Phase 1; 75–85% free in Phase 2 (the % depends on compliance); **no auctions held** as of January 2026.
-- **2025 Phase 2 allowance allocation: POSTPONED** due to regulatory revision. **No allowances issued and no allowance trading in 2025.**
-- **Total IDXCarbon transactions since Sept 2023:** ~IDR 78 billion (~USD 4.9 million). Average price: ~USD 4/tCO₂ in 2023 → ~USD 3.9/tCO₂ in late 2024 (going *down*).
-- **Article 6 offsets:** SPE-GRK domestic credits allowed under ETS compliance, must come from new/renewable energy, transport/construction/industry efficiency, or other energy-sector activities.
-
-**Sources:**
-- [ICAP factsheet 104](../../raw/ICAP%202025%20-%20Indonesia%20NEK%20Trading%20Scheme%20factsheet%20104.pdf) (local) — ground-truth reference for everything in this subsection
-- [IEEFA 2025 — Two years after launch, Indonesia's carbon market struggles](https://ieefa.org/resources/two-years-after-launch-indonesias-carbon-market-struggles-find-momentum) (transaction data)
-- [IETA Business Brief — Indonesia ETS at a Glance (2025)](https://www.ieta.org/uploads/wp-content/Resources/Busines-briefs/2025/IETA_Business_Brief-Indonesia-final.pdf) (industry view)
-- [Sembiring et al. 2025 — Carbon tax and trading mechanisms in Indonesian power sector](https://www.sciencedirect.com/science/article/pii/S2666790825001478) (scenario modelling)
-
-### 10.3 Indonesia carbon tax — operational facts
-
-- **Legal basis:** Law 7/2021 Art. 13 (HPP / Tax Harmonization Law).
-- **Rate:** IDR 30/kg CO₂eq = ~USD 2/tCO₂ minimum.
-- **Originally scheduled to start:** 1 April 2022.
-- **Postponement history:**
-  1. Apr 2022 → Jul 2022
-  2. Jul 2022 → 2025
-  3. 2025 → "pending" indefinitely
-  4. Still not enforced as of early 2026
-- **Under PR 110/2025:** the carbon levy is meant to function as a **price-floor backstop** tied to the ETS market price (not a fixed independent rate). The level moves with the market.
-- **Literature benchmark:** Parry et al. (2021, IMF) recommend USD 30–60/tCO₂ for emerging-market economies; Stern-Stiglitz report says USD 50–100 by 2030. Indonesia is **~93–97% below this benchmark**.
-
-**Sources:**
-- [Parry, Black & Roaf (IMF, 2021) — Proposal for an International Carbon Price Floor](https://www.elibrary.imf.org/view/journals/066/2021/001/article-A001-en.xml)
-- [HSF Kramer — Indonesia's New Carbon Law (HPP)](https://www.hsfkramer.com/notes/indonesia/2021-12/introducing-indonesias-new-carbon-law)
-- [Sunanda et al. 2025 §4.1](../../raw/expert/GREAT_Sunanda%20et%20al%202025%20-%20Advancing%20the%20carbon%20pricing%20framework%20in%20Indonesia%20-%20systematic%20review.pdf) (local)
-- ["Delaying the Implementation of Carbon Tax in Indonesia" (Pena Justisia, 2024)](https://jurnal.unikal.ac.id/index.php/hk/article/view/4140)
-
-### 10.4 Article 6 / international carbon market — Indonesia
-
-- **Moratorium 2021–2024:** Indonesia banned international transfers while setting up the registry. Politically framed as protecting the NDC.
-- **Moratorium lifted:** January 2025.
-- **First authorisation:** ~1.78 MtCO₂e of PLN-affiliated credits authorised for international transfer.
-- **PR 110/2025 (Oct 2025) changes — *critical for the essay*:**
-  - **Decouples voluntary carbon market from NDC timeline** → credits can be exported without waiting for national target fulfilment
-  - **Corresponding Adjustments OPTIONAL** for international transfers → enables potential double-counting (Indonesia counts the reduction toward its NDC AND sells the credit to a foreign buyer who also counts it)
-  - Establishes the centralised **SRUK** registry (replaces fragmented SRN-PPI)
-- **Government revenue ambition:** USD 65 billion from carbon projects by 2028 (Hashim at COP29 Nov 2024); 13.4 billion tonnes total credit sales (long-horizon, unspecified date).
-
-**Sources:**
-- [ICAP factsheet 104 §"Year in Review" + §"Flexibility and Linking"](../../raw/ICAP%202025%20-%20Indonesia%20NEK%20Trading%20Scheme%20factsheet%20104.pdf) (local)
-- [essay-evidence.md §2 — Hashim/Arsari political-economy brief](essay-evidence.md#evidence-2-hashim-djojohadikusumo--arsari-group)
-- [Pulitzer Center — "Forest for Tycoons" series](https://pulitzercenter.org/projects/forest-tycoons) (investigative; the 557 Mt + EUR 1.2B claims at COP29)
-
-### 10.5 Key Indonesian institutions
-
-| Institution | Role |
-|---|---|
-| **PLN** (Perusahaan Listrik Negara) | State-owned electricity utility. The ETS's main covered entity — Phase 1 was essentially PLN's coal plants. |
-| **IDXCarbon** | The carbon exchange, hosted on the Indonesia Stock Exchange. Operational since Sept 2023; supervised by OJK. |
-| **OJK** (Otoritas Jasa Keuangan) | Financial Services Authority. Regulates IDXCarbon. |
-| **MEMR** (Ministry of Energy and Mineral Resources) | Coordinates ETS implementation in the power sub-sector. |
-| **MoE / MoEF** (Ministry of Environment / Forestry — split under Prabowo 2024) | UNFCCC focal point; leads NDC and carbon pricing oversight; operates the SRUK registry. |
-| **Ministry of Finance** | Leads carbon tax development (separately from MoEF's carbon trading work). |
-| **BPDLH** (Environmental Fund Management Agency) | Receives ETS proceeds; disburses result-based payments. **Scale is trivial** — IDR 28.6B disbursed May 2024 against IDR 713.5T fossil-fuel subsidies (ratio ~1:25,000). |
-| **SRUK / SRN-PPI** | National registries (post- and pre-PR 110/2025). Track credit issuance, transfer, surrender. |
-| **National Steering Committee on Carbon Pricing** | Chair: **Coordinating Ministry of Food Affairs** (not Environment — notable signal of policy framing) |
-
-### 10.6 Indonesia macro context (the numbers an expert knows cold)
-
-- **Total emissions (2023):** 1,053.4 MtCO₂e excl. LULUCF.
-- **Position globally:** Top-10 GHG emitter from fossil-fuel combustion; **largest emitter in Southeast Asia**.
-- **NDC target (October 2025 update):** **1.35 GtCO₂e absolute cap by 2030** (unconditional); 1.27 GtCO₂e (conditional on international support). Replaces previous BAU-relative targets.
-- **Long-term goal:** Climate neutrality by 2060 (Long-Term Strategy 2021).
-- **Climate Action Tracker rating (Dec 2024):** **"Critically Insufficient"** — Indonesia's policies are on track for 3°C+ warming.
-- **Energy subsidies (2024):** **IDR 713.5 trillion (~USD 44 billion)**, of which ~89% supports fossil fuels.
-- **Coal:** Indonesia is the **world's largest coal exporter** (mostly to China, India, Japan). The ETS covers domestic power-sector coal emissions only; exported coal's downstream emissions are entirely outside the system.
-- **Downstreaming policy:** Jokowi → Prabowo industrial-policy priority. Domestic processing of raw commodities (nickel → batteries; bauxite → aluminium; coal). Drives the captive-coal expansion that Phase 2 of the ETS now covers via free allocation.
-- **OECD Effective Carbon Rate (ECR):** Indonesia's *net* ECR is likely **negative** once fuel subsidies are netted out. Indonesia is among the lowest in OECD/G20 coverage.
-- **Renewable potential (unrealised):** 3,294 GW solar, 155 GW wind, 95 GW hydro, 23 GW geothermal.
-
-**Sources:**
-- [ICAP factsheet 104](../../raw/ICAP%202025%20-%20Indonesia%20NEK%20Trading%20Scheme%20factsheet%20104.pdf) (national emissions + NDC)
-- [essay-evidence.md §1 — IISD/GSI on fossil-fuel subsidies](essay-evidence.md#evidence-1-iisd-gsi--indonesian-fossil-fuel-subsidies)
-- [Climate Action Tracker — Indonesia profile](https://climateactiontracker.org/countries/indonesia/) (live monitoring)
-- [OECD — Effective Carbon Rates 2025 (Indonesia country note)](https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/02/effective-carbon-rates-2025-country-notes_b08aeef1/indonesia_0265ee11/8a53d669-en.pdf)
-- [Sunanda et al. 2025 §1](../../raw/expert/GREAT_Sunanda%20et%20al%202025%20-%20Advancing%20the%20carbon%20pricing%20framework%20in%20Indonesia%20-%20systematic%20review.pdf) (RE potential figures)
-
-### 10.7 Global carbon pricing — the numbers everyone cites
-
-- **80 carbon-pricing instruments** operating worldwide in early 2025: 43 carbon taxes + 37 ETSs.
-- **USD 100+ billion** in global carbon-pricing revenues crossed in 2024 — a first.
-- **~28% of global GHG emissions** covered by some form of direct carbon price.
-- All large middle-income economies (Brazil, China, India, Indonesia, Türkiye) have implemented or are developing carbon pricing.
-- **EU ETS** — world's first ETS (2005). Currently ~€70–75/tCO₂. The benchmark price globally.
-- **EU CBAM (Carbon Border Adjustment Mechanism)** — definitive application from **1 January 2026**. Covers: cement, iron/steel, aluminium, fertilisers, electricity, hydrogen. EU importers pay the EU ETS price minus any domestic carbon price already paid in the country of origin. → Indonesian exporters with a ~$2 domestic price effectively pay the EU ~$73/tCO₂ on each tonne of CO₂ embedded in covered exports.
-- **Singapore** — carbon tax launched 2019 at SGD 5/tCO₂; raised to **SGD 25 (~USD 19/tCO₂) by 2024**, rising further. The SEA success-story comparator.
-- **Public support in SEA:** >70% of respondents in ADB's 2024 climate-perception survey of 14 Asian economies support a national carbon tax; 93% are willing to bear personal costs.
-
-**Sources:**
-- [World Bank — State and Trends of Carbon Pricing 2025](https://openknowledge.worldbank.org/entities/publication/e5f6e755-e6a6-4d2c-927a-23b5cc8a9b03) (the canonical annual reference)
-- [European Commission — CBAM official page](https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en)
-- [OECD — Effective Carbon Rates 2025](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/11/effective-carbon-rates-2025_a578dc11/a5a5d71f-en.pdf)
-- [East Asia Forum — Carbon taxes in Southeast Asia (Feb 2025)](https://eastasiaforum.org/2025/02/22/the-case-for-carbon-taxes-in-southeast-asia/) (ADB perception survey)
-- [IEEFA — Carbon pricing in Asia (Sep 2025)](https://ieefa.org/sites/default/files/2025-09/IEEFA%20Report%20-%20Carbon%20pricing%20in%20Asia_Sep25.pdf) (Singapore comparison)
-
-### 10.8 Foundational carbon-pricing concepts
-
-Every term an expert defines on first use:
-
-- **Carbon tax** — government sets the *price* of emissions (e.g. USD 30/tCO₂); the quantity emitted adjusts in response. A Pigouvian tax internalising the externality.
-- **ETS / cap-and-trade** — government sets the *quantity* (cap) of allowable emissions; price adjusts via the market. Allowances are tradable.
-- **Hybrid / cap-tax-and-trade** — both instruments operate together; the tax usually functions as a price floor underneath the ETS. The modelling literature converges on this design as outperforming either alone.
-- **Intensity-based vs absolute cap** — intensity = emissions per unit of output (tCO₂/MWh of electricity); absolute = total tonnes. Intensity caps let total emissions rise if output rises (China, Indonesia start here). Absolute caps fix total emissions (EU ETS). Indonesia's ETS is meant to transition from intensity to absolute under Phase 3 alignment with the 1.35 Gt NDC cap.
-- **Free allocation / grandfathering** — allowances handed out free, often based on historical emissions. Politically easier but no state revenue; protects incumbents.
-- **Benchmarking** — allowances allocated per unit of output based on industry best-practice benchmarks. Used by Indonesia.
-- **Auctioning** — allowances sold to the highest bidder. Generates state revenue. Indonesia: zero auctions to date.
-- **MAC (marginal abatement cost)** — cost of avoiding the *next* tCO₂ of emissions in a specific sector. Indonesia's MAC for coal retirement: USD 12–13/tCO₂.
-- **ECR (Effective Carbon Rate)** — OECD methodology. Combines explicit pricing (carbon tax + ETS) **minus** implicit anti-pricing (fossil-fuel subsidies, fuel-tax exemptions). Captures the *net* signal sent to the economy. Indonesia's net ECR is likely negative.
-- **Double dividend (Goulder 1995)** — using carbon-tax revenue to cut other distortionary taxes can deliver both environmental AND economic gains (lower unemployment, higher GDP). Foundational argument for revenue recycling.
-- **Article 6 of the Paris Agreement** — establishes international carbon-trading rules:
-  - **6.2:** Direct country-to-country transfers (Internationally Transferred Mitigation Outcomes, "ITMOs")
-  - **6.4:** UN-supervised crediting mechanism (the new CDM successor)
-  - **6.8:** Non-market approaches
-- **Corresponding Adjustment (CA)** — accounting rule under Article 6.2. When Country A sells an ITMO to Country B, Country A must *add* that tonne back to its own emissions (or subtract it from its reductions). Prevents double-counting. **Indonesia's PR 110/2025 made CAs optional**, which is the load-bearing controversy in the essay's Framing 2.
-- **VCM (Voluntary Carbon Market)** — non-compliance market where buyers (usually corporates) purchase credits voluntarily for net-zero claims. Standards: Verra (VCS), Gold Standard, Plan Vivo, ART. Indonesia is a major VCM supply country.
-- **REDD+** — "Reducing Emissions from Deforestation and Forest Degradation." UNFCCC programme; key activity in Indonesian VCM.
-
-### 10.9 Key thinkers and sources to recognise instantly
-
-| Person / source | Key contribution | Where in your library |
-|---|---|---|
-| **Sunanda, Setyonegoro, Hadi & Sarjiya** (2025) | Indonesia carbon-pricing SLR — 65 studies; graduated tax + staged ETS recommendation. *Single strongest source for this essay.* | [`raw/expert/GREAT_Sunanda et al 2025`](../../raw/expert/GREAT_Sunanda%20et%20al%202025%20-%20Advancing%20the%20carbon%20pricing%20framework%20in%20Indonesia%20-%20systematic%20review.pdf) |
-| **ICAP** (International Carbon Action Partnership) | The reference factsheet on every ETS worldwide. The single source of operational truth for Indonesia's NEK. | [`raw/ICAP 2025 factsheet`](../../raw/ICAP%202025%20-%20Indonesia%20NEK%20Trading%20Scheme%20factsheet%20104.pdf) |
-| **van den Bergh & Drews** (2026) | Review of carbon-pricing studies for developing countries — the flagship LMIC literature review. | [`raw/DONE_van den Bergh & Drews 2026`](../../raw/DONE_van%20den%20Bergh%20%26%20Drews%202026%20-%20A%20review%20of%20carbon-pricing%20studies%20for%20developing%20countries.pdf) |
-| **Djoni Hartono et al.** (2023) | Indonesia-specific CGE — revenue-recycled carbon tax raises GDP and employment (double dividend in Indonesian context). | [`raw/DONE_Hartono et al 2023`](../../raw/DONE_Hartono%20et%20al%202023%20-%20Carbon%20tax%2C%20energy%20policy%20and%20sustainable%20development%20in%20Indonesia.pdf) |
-| **Yusuf & Resosudarmo** (2015) | Carbon tax is NOT regressive at national level in Indonesia — progressive among lower-income rural households. Foundational distributional finding. | [`raw/LOOK_Yusuf & Resosudarmo 2015`](../../raw/LOOK_Yusuf%20%26%20Resosudarmo%202015%20-%20On%20the%20distributional%20impact%20of%20a%20carbon%20tax%20in%20developing%20countries%20-%20the%20case%20of%20Indonesia.pdf) |
-| **Jia & Lin** (2020) — tax > ETS | "Rethinking the choice of carbon tax and carbon trading in China." Argues tax alone outperforms ETS alone. | [`raw/DONE_Jia & Lin 2020`](../../raw/DONE_Jia%20%26%20Lin%202020%20-%20Rethinking%20the%20choice%20of%20carbon%20tax%20and%20carbon%20trading%20in%20China.pdf) |
-| **Lin & Jia** (2020) — tax + ETS > either | "Can carbon tax complement ETS?" Argues the hybrid outperforms either alone. ⚠️ Different paper, same authors. | [`raw/LOOK_Lin & Jia 2020`](../../raw/LOOK_Lin%20%26%20Jia%202020%20-%20Can%20carbon%20tax%20complement%20emission%20trading%20scheme%20-%20impact%20in%20China.pdf) |
-| **Lawrence Goulder** (1995) | Canonical "double dividend" reader's guide. The theoretical foundation of revenue recycling. | [`raw/DONE_Goulder 1995`](../../raw/DONE_Goulder%201995%20-%20Environmental%20taxation%20and%20the%20double%20dividend.pdf) |
-| **Don Fullerton** (2011) | "Six distributional effects of environmental policy." Canonical distributional-channels framework. | [`raw/LOOK_Fullerton 2011`](../../raw/LOOK_Fullerton%202011%20-%20Six%20distributional%20effects%20of%20environmental%20policy.pdf) |
-| **Jakob & Steckel** (2014) | "How climate change mitigation could harm development in poor countries." Coined the "climate finance curse" framing. | [`raw/LOOK_Jakob & Steckel 2014`](../../raw/LOOK_Jakob%20%26%20Steckel%202014%20-%20How%20climate%20change%20mitigation%20could%20harm%20development%20in%20poor%20countries.pdf) |
-| **Dorband, Jakob, Kalkuhl & Steckel** (2019) | Poverty and distributional effects of carbon pricing in 87 LMICs. Pricing is progressive below ~USD 15k income per capita. | [`raw/LOOK_Dorband, Jakob, Kalkuhl & Steckel 2019`](../../raw/LOOK_Dorband%2C%20Jakob%2C%20Kalkuhl%20%26%20Steckel%202019%20-%20Poverty%20and%20distributional%20effects%20of%20carbon%20pricing%20in%20low-%20and%20middle-income%20countries.pdf) |
-| **Pierucci et al.** (2025) | "Modern colonialism in carbon markets" — emergy accounting; Brazil case; the sharpest critical-view anchor. | [`raw/DONE_Pierucci et al 2025`](../../raw/DONE_Pierucci%20et%20al%202025%20-%20Modern%20colonialism%20in%20carbon%20markets%20-%20insights%20from%20emergy%20accounting.pdf) |
-| **Andriansyah & Hong** (AMRO 2022) | "Carbon Pricing in ASEAN+3 Economies." Same author later wrote "Cap First, and Then Tax" — the most direct answer to the essay's central puzzle. | [`raw/MENTIONED_Andriansyah & Hong 2022`](../../raw/MENTIONED_Andriansyah%20%26%20Hong%202022%20-%20Carbon%20pricing%20in%20ASEAN%2B3%20economies%20-%20progress%20and%20challenges%20(AMRO).pdf) + [AMRO "Cap First" online](https://amro-asia.org/cap-first-and-then-tax-carbon-pricing-in-indonesia/) |
-| **Fursman, Dace & Macgeoch** (Tony Blair Institute 2025) | International carbon markets policy roadmap. Indonesia coal retirement MAC at USD 12–13/tCO₂. | [`raw/expert/TBI 2025`](../../raw/expert/Fursman%2C%20Dace%20%26%20Macgeoch%202025%20-%20International%20carbon%20markets%20-%20climate%20action%20at%20a%20lower%20price%20(Tony%20Blair%20Institute).pdf) |
-| **Ian Parry** (IMF, 2021) | International Carbon Price Floor proposal. $30–60/tCO₂ recommendation for emerging markets. | [Online — IMF Staff Climate Note](https://www.elibrary.imf.org/view/journals/066/2022/006/article-A001-en.xml) |
-| **Climate Action Tracker** | Real-time independent NDC + policy rating. Indonesia: "Critically Insufficient." | [Indonesia profile](https://climateactiontracker.org/countries/indonesia/) |
-
-### 10.10 The political-economy actors to know
-
-- **Prabowo Subianto** — President of Indonesia (since Oct 2024). Continues Jokowi's downstreaming agenda; less emphasis on environmental commitments. Brother of Hashim.
-- **Hashim Djojohadikusumo** — Special Presidential Envoy for Climate and Energy (Oct 2024–). Owns Arsari Group, which has carbon-market concessions. The named conflict-of-interest in the essay.
-- **Mari Elka Pangestu** — Ex-World Bank Managing Director. Recruited by Hashim (Nov 2024–) to design Indonesia's carbon-market mechanism.
-- **Arsari Group** — Hashim's family conglomerate. Subsidiary ITCI Kayan Hutani is a confirmed carbon-trading participant (Bulungan, N. Kalimantan).
-- **Walhi** — Indonesia's largest environmental NGO. Critical voice on Hashim/Arsari and on REDD+ implementation.
-- **Adaro, RGE, Sinarmas, Melchor** — major Indonesian conglomerates entering the carbon market through forest concessions. Documented in [Pulitzer Center "Forest for Tycoons"](https://pulitzercenter.org/projects/forest-tycoons) and the parallel [`indonesia-carbon-market`](../../../indonesia-carbon-market/wiki/synthesis/Political_Economy_Notes.md) project.
-
-### 10.11 Common mistakes / gotchas to avoid
-
-A short list of things easy to get wrong on first read:
-
-1. **Law 7/2021 ≠ everything.** It legislated only the carbon tax. The ETS was set up by PR 98/2021. *Common error: "Law 7/2021 legislated the tax and the ETS."*
-2. **Jia & Lin (2020) ≠ Lin & Jia (2020).** Two different papers, opposite arguments. Always check the author order.
-3. **Indonesia's "ETS" is intensity-based, not absolute.** Total emissions can rise even with the ETS "tightening."
-4. **"Decoupling from NDC timeline" means** credits can be sold internationally without waiting for Indonesia to meet its NDC. NOT "decoupled from climate goals" — it's a procedural/timing matter that has substantive consequences.
-5. **Corresponding Adjustments are now OPTIONAL** in Indonesia (PR 110/2025), not eliminated. Most foreign buyers will still require them — but the *legal default* for Indonesia is no CA.
-6. **Indonesia's net effective carbon rate is likely negative** — the OECD ECR figure netting fuel subsidies. Saying "Indonesia prices carbon at $2/tCO₂" overstates the actual signal.
-7. **The "tax is politically impossible" framing is contested**, not settled. Yusuf & Resosudarmo 2015 + Rahma et al. 2025 + ADB 2024 survey all push back on it. Resistance is *elite-level*, not voter-level.
-
----
-
-*Living section — add to it as you learn more. Sources keep getting added; cross-references to `essay-evidence.md` already exist via the §-anchors above.*
 
 ---
 

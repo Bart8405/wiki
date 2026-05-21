@@ -50,15 +50,15 @@ Notice the deeper asymmetry: with natural phenomena, you can identify the thing 
 
 Mental phenomena cannot be individuated by ostension. What makes something a *gift*? Not any physical property of the object — ==the meanings and significance ascribed to it==. Two people exchanging a wrapped box could be: a gift, a payment, a bribe, an apology, a tribute. You need preliminary *Verstehen* even to identify the act, let alone explain it.
 
-**Implication for science vs common sense:**
-- In the **natural sciences**, everyday descriptions of phenomena can be (and routinely are) **replaced** by radically different descriptions. "Solid objects" gets redescribed as "mostly empty space with electron probability clouds." We can always fall back on empirical data to re-identify the phenomenon.
-- In the **human sciences**, it's *inconceivable* that everyday descriptions of mental phenomena could be replaced by radically different descriptions — because we *rely on* the everyday description to pick the phenomenon out in the first place.
+==**Implication for science vs common sense:**==
+- ==In the **natural sciences**, everyday descriptions of phenomena can be (and routinely are) **replaced** by radically different descriptions. "Solid objects" gets redescribed as "mostly empty space with electron probability clouds." We can always fall back on empirical data to re-identify the phenomenon.==
+- ==In the **human sciences**, it's *inconceivable* that everyday descriptions of mental phenomena could be replaced by radically different descriptions — because we *rely on* the everyday description to pick the phenomenon out in the first place.==
 - *Example:* coming-of-age rituals. Anthropologists may *extend and enhance* the everyday description with technical concepts. They will never *replace* it the way physicists replaced "solid objects."
 - *Consequence:* Kuhnian scientific revolutions (Lecture 6) apply far less to the human sciences. Human sciences are more rooted in common sense.
 
 #### 2. Purposiveness
 
-Distinctive of human action. Modern natural science makes no use of purposes (it dropped Aristotelian teleology centuries ago). But you can't make sense of a human act without citing a **reason** — *and the reason is essentially normative.*
+Distinctive of human action. Modern natural science makes no use of purposes (it dropped Aristotelian teleology centuries ago). ==But you can't make sense of a human act without citing a **reason** — *and the reason is essentially normative.*==
 
 *Example:* "I apologise."
 - The *cause* might be that I arrived late.

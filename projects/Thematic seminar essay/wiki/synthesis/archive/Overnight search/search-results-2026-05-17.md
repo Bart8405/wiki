@@ -40,6 +40,12 @@ updated: 2026-05-17
 ⬇ **Open-access PDF (direct download)**  
 **Suggested prefix:** `LOOK_`
 
+Usage in essay
+- Indonesia is the most recent entrant, with its ETS starting in 2023 (p. 6)
+- However, the countries’ ETS systems vary in their ambition, design, and implementation (Table 2). In terms of scope and GHG coverage, the ROK ETS (K-ETS) is the most comprehensive, since it includes all the Kyoto Protocol gases. NZ ETS is also comprehensive, though it excludes biogenic methane, which is a major emission category for the country. Most of the other ETSs focus on CO2 emissions. They cover a share of total emissions that ranges from a low of 26%–29% (Australia and Indonesia) (p. 8)
+- ![[Pasted image 20260521150538.png]] (p. 9)
+- The Indonesia ETS (known as NEK) 42 is a mandatory, intensity-based ETS for the power sector, launched in early 2023. The first phase (2023–2024) will be followed by two more (2025–2027 and 2028–2030). All these phases apply exclusively to the power sector. Initially, NEK focuses on 99 coal-fired grid-connected power plants with a capacity of 25 MW or more. Most of the plants covered are owned by the state-owned electricity company Perusahaan Listrik Negara. The government establishes intensity targets (known as PTBAE) that determine the number of allowances installations receive for each MWh of electricity generated. Covered entities are required to surrender allowances corresponding to all their covered emissions. Additionally, they have the option to purchase allowances through auctions. The Indonesian Carbon Exchange (IDXCarbon) started in September 2023. Given the recent nature of this start, no data is available on verified emissions for the first period of the ETS. Eventually the ETS will function as a hybrid **“**cap-tax-and-trade” system, operating concurrently with a carbon tax to be introduced around 2025.** Facilities failing to meet their obligations under the ETS will be subject to this tax, whose rate will be aligned with the domestic carbon market’s price. (p. 36)
+%%Facilities failing to meet obligations under the ETS will be subject to tax - but there is not tax%%
 ---
 
 ### 1.4 ADB — *Carbon Pricing for Energy Transition and Decarbonization* (2022)

@@ -70,16 +70,16 @@ In practice, humans face limits in information, cognitive power, time. Real deci
 - **Twin claim:** people actually do this, *and* there are sound reasons to do so.
 
 **Examples of heuristics:**
-- *Recognition heuristic* — works because the better-known thing is often the bigger/more-important one. Partial ignorance is a feature, not a bug.
-- *Take-the-best* — pick on the most important criterion that discriminates. Ignore the rest.
+- ==*Recognition heuristic* — works because the better-known thing is often the bigger/more-important one. Partial ignorance is a feature, not a bug.==
+- ==*Take-the-best* — pick on the most important criterion that discriminates. Ignore the rest.==
 
 **Critique:** Maybe some actual decisions involve more calculation than Gigerenzer's simple rules. And: *how does an agent rationally choose which heuristic to use?* — a regress problem.
 
 #### 3. Emotion-inclusive accounts
 
 Western tradition long pictured emotion as the *antagonist* of rationality. **Cognitivism about emotion** (since 1980) flips this: emotions are *part of* rational deliberation. Two functions:
-- **Motivational** — helps set goals, values, preferences (filling the gap RCT couldn't).
-- **Salience** — helps identify what matters when goals conflict, info is incomplete, or there's too much to review.
+- ==**Motivational** — helps set goals, values, preferences (filling the gap RCT couldn't).==
+- ==**Salience** — helps identify what matters when goals conflict, info is incomplete, or there's too much to review.==
 
 ### The three accounts applied — sanctions example
 
@@ -97,12 +97,12 @@ Western tradition long pictured emotion as the *antagonist* of rationality. **Co
 
 American polymath (1916–2001) — Nobel laureate in Economics 1978 (for "pioneering research into the decision-making process within economic organizations"). Worked across economics, political science, computer science, psychology, AI, and management.
 
-**Two coinages that shape the lecture:** "**bounded rationality**" and "**to satisfice**." Both appear first in his 1947 book *Administrative Behavior* — Simon argued that real managers don't look for ideal solutions, just satisfactory ones. Forty years later **Gerd Gigerenzer** built on Simon's work, itemising "fast and frugal" heuristics and emphasising the value of partial ignorance.
+==**Two coinages that shape the lecture:** "**bounded rationality**" and "**to satisfice**." Both appear first in his 1947 book *Administrative Behavior* — Simon argued that real managers don't look for ideal solutions, just satisfactory ones. Forty years later **Gerd Gigerenzer** built on Simon's work, itemising "fast and frugal" heuristics and emphasising the value of partial ignorance.==
 
 ---
 
 > **Explained easily — the gap RCT can't fill:**
-> RCT says: "Given what you want, here's the best way to get it." Fine. But it has nothing to say about *whether what you want is reasonable*. If your utility function values destroying the planet, RCT will helpfully tell you the most efficient way. So it's powerful for *means*, silent on *ends*. That's why critics call it morally hollow — and why later accounts (especially emotion-inclusive ones) try to bring goal-evaluation back into the picture.
+> RCT says: "Given what you want, here's the best way to get it." Fine. But it has nothing to say about ==*whether what you want is reasonable*==. If your utility function values destroying the planet, RCT will helpfully tell you the most efficient way. ==So it's powerful for *means*, silent on *ends*.== That's why critics call it morally hollow — and why later accounts (especially emotion-inclusive ones) try to bring goal-evaluation back into the picture.
 
 > **Explained easily — bounded rationality:**
 > Simon's insight: real people don't compute every option. You don't compare every apartment in The Hague before signing a lease — you look at a few, find one that's "good enough," and move in. That's **satisficing**. It's not lazy thinking — it's the *right* thinking for someone with limited time, info, and brainpower. RCT pretends we're supercomputers; Simon points out we aren't, and shows that we have clever shortcuts that mostly work.

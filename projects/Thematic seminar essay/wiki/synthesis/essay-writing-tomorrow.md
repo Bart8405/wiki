@@ -127,6 +127,8 @@ This is the core of the essay. Cover these three reasons (pick the three stronge
 
 ▶ **Extension (add for 4k version):** Also cover Reason 4 (the AMRO sequencing logic — "cap first, then tax" — letting the market set the price before the tax anchors to it) and Reason 5 (MRV readiness — power sector has better emissions data than the economy at large). Source: Andriansyah & Hong (2022); ICAP 2025 factsheet.
 
+%%TODO: I like how you are working but please, make it so that when you use a source in these tasks (like above source: ICAP2025 factsheet, you make it a link, which links me directly to the phrase you are quoting/using to make your argument - also write the page number next to the source%%)
+
 ---
 
 ### Move 4 — The counter-evidence [~150 words, 1 paragraph]
@@ -172,6 +174,7 @@ Write this sharply:
 - No auctions; no allowance trading in 2025
 - Total IDX Carbon exchange transactions since launch (September 2023): IDR 78 billion (~USD 4.9 million)
 - Compare: Indonesia spent **IDR 713.5 trillion (~USD 44 billion)** on energy subsidies in 2024, of which 89% supported fossil fuels (IISD/GSI, 2025). The carbon market is roughly **8,000 times** smaller than the subsidy system it is supposed to offset.
+%%I really like bringing the s
 - The result: Indonesia's **net effective carbon rate is likely negative** — once fuel subsidies are netted out, the implicit subsidy to fossil-fuel consumption exceeds the carbon price signal many times over (OECD ECR 2025)
 - Climate Action Tracker (December 2024) rates Indonesia: **"Critically Insufficient"**
 

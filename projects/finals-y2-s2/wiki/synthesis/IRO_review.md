@@ -2,7 +2,7 @@
 
 _Concepts and questions automatically extracted from your notes._
 
-**Last updated:** 2026-05-20
+**Last updated:** 2026-05-22
 
 ## Table of Contents
 
@@ -1100,6 +1100,7 @@ JWT sits between realism (war as legitimate political tool) and pacifism (war ne
 **Connected to:** → [[#decolonising war + small wars (Barkawi)|decolonising war (Barkawi)]] (Week 7) and [[#NWIRT + Global IR|NWIRT + Global IR]] (Week 4) — same structural critique: the discipline's foundational concepts are not universal and rule certain phenomena out of view; → [[#globalization trilemma (Rodrik)|globalization trilemma]] (Week 8/11) — Denney noted in Week 12 that the trilemma's third squeezed corner becomes *planetary boundaries* once you take the Anthropocene seriously.
 
 **Seen in:**
+- [[Week 12 - Anthropocene and Global Futures#^auto-audra-mitchell|Week 12 - Anthropocene and Global Futures.md:L11]] — *"==**Audra Mitchell**== — key thinker; ontological critique of IR's anthropocentrism"*
 - [[Week 12 - Anthropocene and Global Futures#^auto-anthropocene-and-global-future|Week 12 - Anthropocene and Global Futures.md:L21]] — *"==**Anthropocene**=="*
 - [[Week 12 - Anthropocene and Global Futures#^auto-anthropocene-and-global-future-2|Week 12 - Anthropocene and Global Futures.md:L26]] — *"==**Post-humanism**=="*
 

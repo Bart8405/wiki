@@ -2,7 +2,7 @@
 
 _Concepts and questions automatically extracted from your notes._
 
-**Last updated:** 2026-05-21
+**Last updated:** 2026-05-22
 
 ## Table of Contents
 
@@ -16,6 +16,7 @@ _Concepts and questions automatically extracted from your notes._
 - [[#Lecture 8 — Quantitative and Qualitative Approaches]]
 - [[#Lecture 9 — Rationality]]
 - [[#Lecture 10 — Interpretation and Understanding]]
+- [[#Lecture 11 — Absolutism and Relativism]]
 
 ---
 
@@ -32,6 +33,7 @@ _Concepts and questions automatically extracted from your notes._
 | ==induction + deduction + ampliative reasoning== | ==Lecture 3 — Scientific Laws and Induction== | ==Induction goes beyond premises (ampliative); deduction just extracts what's already there== |
 | problem of induction + ==pragmatic warrant==     | Lecture 3 — Scientific Laws and Induction     | Hume: induction can't be justified; Reichenbach: it's still the best bet                      |
 | ==Duverger's law==                                   | ==Lecture 3 — Scientific Laws and Induction==     | ==FPTP → two parties; PR → many parties==                                                         |
+| absolutism about F + relativism about F | Lecture 11 — Absolutism and Relativism | Never argue "I'm a relativist" in general — always specify the property F |
 | Ad hoc modification | Lecture 5 — Falsificationism | Tinkering with a theory to save it from refutation — the enemy of falsification |
 | Analogy (source · target · mapping · relations) | Lecture 7 — Analogies and Models | Systematic similarity between two domains — four components |
 | Anomaly | Lecture 6 — Paradigms and Revolutions | Data that resists the paradigm — eventually triggers revolution |
@@ -60,6 +62,8 @@ _Concepts and questions automatically extracted from your notes._
 | Paradigm | Lecture 6 — Paradigms and Revolutions | Shared framework governing normal science — assumptions, exemplars, style |
 | Paresis example | Lecture 4 — Explanations and Causes | IS rejects good explanations with low probability |
 | Rationality (RCT baseline) | Lecture 9 — Rationality | An action is rational if it is optimal under constraints; RCT vs bounded rationality disagree on what that means |
+| relativism about rationality + forms of life (Winch + Lukes) | Lecture 11 — Absolutism and Relativism | Reasoning styles can be rational relative to their context — the survivable form of relativism |
+| relativism about truth + self-subverting refutation | Lecture 11 — Absolutism and Relativism | Relativism about truth defeats itself when applied to itself — verdict: incoherent |
 | Relationality + Purposiveness + Meaningfulness | Lecture 10 — Interpretation and Understanding | Three features that make mental phenomena require Verstehen rather than Erklären |
 | Positive analogy (Hesse) | Lecture 7 — Analogies and Models | Relations confirmed in both source and target |
 | Theory-ladenness of observation | Lecture 6 — Paradigms and Revolutions | All observation is concept-laden; we can't "just look" |
@@ -718,6 +722,57 @@ The practical tip for your PoS exam: when you're asked to classify a method, ask
 - [[Lecture 10 - Interpretation and Understanding#1. Relationality|Lecture 10 - Interpretation and Understanding.md:L47]] — *"==1. Relationality=="*
 - [[Lecture 10 - Interpretation and Understanding#2. Purposiveness|Lecture 10 - Interpretation and Understanding.md:L59]] — *"==2. Purposiveness=="*
 - [[Lecture 10 - Interpretation and Understanding#3. Meaningfulness|Lecture 10 - Interpretation and Understanding.md:L70]] — *"==3. Meaningfulness=="*
+
+---
+
+## Lecture 11 — Absolutism and Relativism
+
+| Term | One-liner |
+|---|---|
+| absolutism about F + relativism about F | Never argue "I'm a relativist" — always specify the property F |
+| relativism about truth + self-subverting refutation | Relativism about truth defeats itself when applied to itself |
+| relativism about rationality + forms of life (Winch + Lukes) | Reasoning styles are rational relative to their context — the survivable relativism |
+
+---
+
+### absolutism about F + relativism about F
+
+**Definition:** The foundational schema of Lecture 11. **Absolutism about property F:** entities have or lack F *intrinsically* — perspective plays no role. **Relativism about property F:** entities have or lack F only *relative to a perspective S* (a standpoint, culture, conceptual scheme, or practice). Crucially, this is not a single global stance: only relativism/absolutism *about a specific property F* is a specific, assessable claim. Relativism about utility is trivially true. Relativism about truth is incoherent. Relativism about rationality is defensible.
+
+**Explained easily:** "I'm a relativist" sounds deep but says nothing. You have to finish the sentence. Relativism about *utility* — sure, a tin-opener's usefulness depends on your aims. Relativism about *truth* — that's the one that defeats itself. Relativism about *rationality* — interesting and possibly right. The whole lecture is McAllister saying: stop using the word vaguely, pick a property, then argue.
+
+**Connected to:** → [[#relativism about truth + self-subverting refutation|relativism about truth]] — the application that fails; → [[#relativism about rationality + forms of life (Winch + Lukes)|relativism about rationality]] — the application that works; → [[#Incommensurability (3 types)|Incommensurability]] — early Kuhn's paradigms are each an incommensurable form of rationality
+
+**Seen in:**
+- [[Lecture 11 - Absolutism and Relativism#Start with precision|Lecture 11 - Absolutism and Relativism.md:L39]] — *"==**Absolutism about F:** entities have F intrinsically.=="*
+- [[Lecture 11 - Absolutism and Relativism#Start with precision|Lecture 11 - Absolutism and Relativism.md:L40]] — *"==**Relativism about F:** entities have F only relative to perspective S.=="*
+
+---
+
+### relativism about truth + self-subverting refutation
+
+**Definition:** **Relativism about truth** holds that a proposition's truth-value depends on perspective S — the same proposition can be "true from my viewpoint" and "false from yours." The **self-subverting refutation** shows this is incoherent: apply the claim to itself. If "all truth is relative" is *absolutely* true — it contradicts itself. If it is *only relatively* true — then from some perspective it is false, and it cannot be a general philosophical thesis. Either horn of the dilemma is fatal. Analytic philosophy's verdict: unrestricted relativism about truth is incoherent. Closely related: **indexicals** such as "I," "here," "now" create only *fake* relativism — "I teach philosophy of science" seems to shift truth-value depending on who says it, but the two utterances are simply *different propositions* with different referents, not the same claim with shifting truth.
+
+**Explained easily:** Relativism about truth shoots itself in the foot. "All truth depends on your perspective" — is *that* claim itself perspective-dependent or universally true? If universal: at least one thing is not relative (contradiction). If perspective-dependent: from some other perspective it's false, so it can't be a general claim. Same logical structure as *"For every generalisation, there is an exception"* — the meta-claim undoes itself. Don't be a relativist about truth. Be a relativist about *rationality* instead.
+
+**Connected to:** → [[#absolutism about F + relativism about F|absolutism/relativism schema]] — the precision framework; → [[#relativism about rationality + forms of life (Winch + Lukes)|relativism about rationality]] — the survivable alternative; → [[#correspondence theory of truth + facts as truthmakers|correspondence theory of truth]] (Lecture 2) — truth is a mind-independent property of propositions, not perspective-relative
+
+**Seen in:**
+- [[Lecture 11 - Absolutism and Relativism#Application 1 — relativism about truth|Lecture 11 - Absolutism and Relativism.md:L44]] — *"==Application 1 — relativism about truth=="*
+- [[Lecture 11 - Absolutism and Relativism#^auto-refutation-relativism-truth|Lecture 11 - Absolutism and Relativism.md:L53]] — *"==**Refutation of relativism about truth — by self-reference:**=="*
+
+---
+
+### relativism about rationality + forms of life (Winch + Lukes)
+
+**Definition:** **Relativism about rationality** holds that a reasoning style has or lacks rationality only *relative to a perspective* — different cultures and eras have reasoning styles effective in their own context, with no single style holding privileged access to reality. This is the *survivable* relativism: unlike relativism about truth, it does not self-subvert. **Forms of life** (Wittgenstein via Winch): different communities have different practices and conceptual frameworks; rationality is internal to each. The **Azande debate** crystallises the stakes: the Azande (a Central African people) consult oracles and believe in witchcraft. **Winch** says they are no less rational than we are — no neutral standpoint exists from which to call them wrong. **Lukes** holds an intermediate position: respect for cultural difference is compatible with some universal norms (e.g. logical consistency; against torturing children). The lecture aligns with Lukes's middle ground.
+
+**Explained easily:** Quantum mechanics would baffle a 17th-century physicist. Were they irrational? No — they reasoned well *within their paradigm*. Relativism about rationality says: there's no "view from nowhere" to rank reasoning styles. This lets you take Azande witchcraft seriously without saying "anything goes" — because each style still has internal standards. Winch pushes this to the limit (no cross-cultural judgment possible). Lukes pulls back: you can still invoke some universal norms. The lecture is on Lukes's side.
+
+**Connected to:** → [[#absolutism about F + relativism about F|absolutism/relativism schema]] — rationality is the property where relativism works; → [[#Incommensurability (3 types)|Incommensurability]] — early Kuhn's each-paradigm-has-its-own-rationality IS relativism about rationality; → [[#Verstehen (Dilthey)|Verstehen]] — understanding other cultures on their own terms is Winch's core move; → [[#relativism about truth + self-subverting refutation|relativism about truth]] — the failed alternative
+
+**Seen in:**
+- [[Lecture 11 - Absolutism and Relativism#^auto-winch-argument|Lecture 11 - Absolutism and Relativism.md:L304]] — *"==**Winch's argument:** standards of rationality are *internal* to a form of life.=="*
 
 ---
 

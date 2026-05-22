@@ -8,7 +8,7 @@ updated: 2026-05-18
 
 *Is the IR toolkit equipped for planetary problems? Mitchell's article argues the discipline keeps extinction in the footnotes. The chapter on global futures lays out four challenges — AI, space, ecology, migration — that test the toolkit's limits.*
 
-**Date:** 18 May 2026 · **Lecturer:** Dr. Steven Denney · **Key thinker:** ==**Audra Mitchell**== — for "Is IR going extinct?" and the ontological critique of IR's anthropocentrism.
+**Date:** 18 May 2026 · **Lecturer:** Dr. Steven Denney · **Key thinker:** ==**Audra Mitchell**== — for "Is IR going extinct?" and the ontological critique of IR's anthropocentrism. ^auto-audra-mitchell
 
 **Lecturer's explicit exam focus:** the Anthropocene as a problem for IR (Section A) and the four future challenges (Section B). The second half is a course review and close, not new content.
 

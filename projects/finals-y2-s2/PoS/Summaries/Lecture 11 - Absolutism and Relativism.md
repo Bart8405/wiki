@@ -50,7 +50,7 @@ A common move in public discourse is to dismiss "relativism" globally — to ass
 
 ==⚠ **Caution about indexicals:** "I teach philosophy of science" seems to be true when McAllister says it and false when you say it — but the two utterances are *different propositions* (different *I*s referring to different people), not the same one with shifting truth.==
 
-==**Refutation of relativism about truth — by self-reference:**==
+==**Refutation of relativism about truth — by self-reference:**== ^auto-refutation-relativism-truth
 
 > ==Step 1: State relativism about truth: *"Assertion P has or lacks truth not absolutely, but only relative to perspective."*==
 > ==Step 2: Apply this claim *to itself* (replace P with the claim of relativism about truth).==
@@ -301,7 +301,7 @@ Kuhn's claim in *The Structure of Scientific Revolutions* that each paradigm has
 
 **The Azande case:** Evans-Pritchard's ethnography of Zande witchcraft beliefs. Are they irrational? Winch says no — they have their *own* rationality, internally coherent.
 
-==**Winch's argument:** standards of rationality are *internal* to a form of life.== Calling Zande beliefs irrational imposes an alien standard.
+==**Winch's argument:** standards of rationality are *internal* to a form of life.== Calling Zande beliefs irrational imposes an alien standard. ^auto-winch-argument
 
 **Lukes's critique:** some standards (e.g. logical consistency) must be *universal* or no cross-cultural understanding is possible. Strong relativism is self-undermining.
 
